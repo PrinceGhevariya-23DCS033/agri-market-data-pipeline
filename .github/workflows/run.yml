@@ -1,4 +1,4 @@
-name: Agri Market Data Pipeline (Stable)
+name: Agri Market Data Pipeline (Streaming & Resumable)
 
 on:
   workflow_dispatch:
@@ -8,23 +8,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Run data collection
         env:
           DATA_GOV_API_KEY: ${{ secrets.DATA_GOV_API_KEY }}
         run: python fetch_data.py
 
-      - name: Commit data
+      - name: Commit data & progress
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add data/
-          git commit -m "Update agmarknet data" || echo "No changes"
+          git commit -m "Update agmarknet crop data" || echo "No changes"
           git push
