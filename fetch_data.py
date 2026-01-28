@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 from requests.exceptions import RequestException, Timeout
 
 # ================= CONFIG =================
-API_KEY = os.getenv("579b464db66ec23bdd000001219b38f4744345634263e9c7296b88f8")
+API_KEY = os.getenv("DATA_GOV_API_KEY")
 
 RESOURCE_ID = "35985678-0d79-46b4-9ed6-6f13308a1d24"
 BASE_URL = f"https://api.data.gov.in/resource/{RESOURCE_ID}"
