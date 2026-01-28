@@ -1,7 +1,9 @@
-name: Agri Market Data Pipeline (Streaming & Resumable)
+name: Agri Market Data Pipeline (Every 3 Hours)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:    # manual run if needed
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
 
 jobs:
   run-pipeline:
@@ -29,5 +31,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add data/
-          git commit -m "Update agmarknet crop data" || echo "No changes"
+          git commit -m "Auto update agmarknet data (3h cycle)" || echo "No changes"
           git push
