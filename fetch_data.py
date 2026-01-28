@@ -26,10 +26,19 @@ PROGRESS_FILE = f"{DATA_DIR}/progress.json"
 
 # ========== PROGRESS HANDLING ==========
 def load_progress():
-    if os.path.exists(PROGRESS_FILE):
+    if not os.path.exists(PROGRESS_FILE):
+        return {"completed_crops": []}
+
+    try:
         with open(PROGRESS_FILE, "r") as f:
-            return json.load(f)
-    return {"completed_crops": []}
+            content = f.read().strip()
+            if not content:
+                return {"completed_crops": []}
+            return json.loads(content)
+    except json.JSONDecodeError:
+        print("⚠️ progress.json empty or corrupted, resetting progress")
+        return {"completed_crops": []}
+
 
 def save_progress(progress):
     with open(PROGRESS_FILE, "w") as f:
