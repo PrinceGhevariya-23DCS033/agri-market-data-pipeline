@@ -16,7 +16,7 @@ BASE_URL = f"https://api.data.gov.in/resource/{RESOURCE_ID}"
 LIMIT = 1000
 MAX_RETRIES = 5
 REQUEST_TIMEOUT = 20
-MAX_OFFSET = 2_000_000   # safe upper bound
+MAX_OFFSET = 2_000_000  # safe upper bound
 
 DATA_DIR = "data/crops"
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -25,13 +25,23 @@ PROGRESS_FILE = "data/progress.json"
 # ==========================================
 
 
-# ========== PROGRESS ==========
+# ========== PROGRESS (BACKWARD SAFE) ==========
 def load_progress():
     if not os.path.exists(PROGRESS_FILE):
         return {"last_offset": 0}
+
     try:
         with open(PROGRESS_FILE, "r") as f:
-            return json.load(f)
+            content = f.read().strip()
+            if not content:
+                return {"last_offset": 0}
+
+            obj = json.loads(content)
+            if "last_offset" not in obj:
+                print("⚠️ Old progress.json format detected, resetting")
+                return {"last_offset": 0}
+
+            return obj
     except Exception:
         return {"last_offset": 0}
 
@@ -39,7 +49,7 @@ def load_progress():
 def save_progress(offset):
     with open(PROGRESS_FILE, "w") as f:
         json.dump({"last_offset": offset}, f, indent=2)
-# ==============================
+# ============================================
 
 
 # ========== SAFE API ==========
@@ -59,15 +69,15 @@ def fetch_page(offset):
             return r.json().get("records", [])
         except (Timeout, RequestException, ValueError) as e:
             wait = 2 ** attempt
-            print(f"⚠️ Retry {attempt}/{MAX_RETRIES} at offset {offset} | wait {wait}s")
+            print(f"⚠️ Retry {attempt}/{MAX_RETRIES} | offset={offset} | wait={wait}s")
             time.sleep(wait)
 
-    print(f"❌ Failed permanently at offset {offset}")
+    print(f"❌ API failed permanently at offset {offset}")
     return []
 # ==============================
 
 
-# ========== APPEND PER CROP ==========
+# ========== APPEND / CREATE PER CROP ==========
 def append_to_crop_csv(df, crop):
     crop_name = crop.replace(" ", "_").lower()
     path = os.path.join(DATA_DIR, f"{crop_name}.csv")
@@ -78,7 +88,7 @@ def append_to_crop_csv(df, crop):
     else:
         df.to_csv(path, index=False)
         print(f"🆕 Created {crop_name}.csv with {len(df)} rows")
-# =====================================
+# =============================================
 
 
 # ========== MAIN STREAMING LOOP ==========
@@ -95,13 +105,17 @@ while offset <= MAX_OFFSET:
 
     df = pd.DataFrame(records)
 
-    # minimal cleaning (SAFE)
+    # minimal safe cleaning
     df["Arrival_Date"] = pd.to_datetime(df["Arrival_Date"], errors="coerce")
     df["Modal_Price"] = pd.to_numeric(df["Modal_Price"], errors="coerce")
-
     df = df.dropna(subset=["Commodity", "Modal_Price"])
 
-    # group by crop
+    if df.empty:
+        print(f"⚠️ Empty page at offset {offset}")
+        offset += LIMIT
+        save_progress(offset)
+        continue
+
     for crop, group in df.groupby("Commodity"):
         append_to_crop_csv(group, crop)
 
@@ -112,4 +126,4 @@ while offset <= MAX_OFFSET:
     time.sleep(0.3)
 
 print("🎉 DATA COLLECTION COMPLETE")
-# =====================================
+# ============================================
