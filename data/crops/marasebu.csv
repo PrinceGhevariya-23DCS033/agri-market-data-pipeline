@@ -1,0 +1,9 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Marasebu,Marasebu,FAQ,2007-07-13,1000,1400,1200,181
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Marasebu,Marasebu,FAQ,2007-07-20,700,900,800,181
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Marasebu,Marasebu,FAQ,2007-08-14,400,800,600,181
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Marasebu,Marasebu,FAQ,2007-08-17,400,600,500,181
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Marasebu,Marasebu,FAQ,2007-08-27,800,1000,900,181
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Marasebu,Marasebu,FAQ,2007-09-03,600,1000,800,181
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Marasebu,Marasebu,FAQ,2018-10-10,1500,2300,1900,181
+Karnataka,Mysore,Mysore (Bandipalya),Marasebu,Marasebu,FAQ,2021-12-28,2800,3500,3100,181

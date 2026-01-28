@@ -1,0 +1,92 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-06-22,500,1500,1100.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-06-28,500,1500,1000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-07-09,750,1375,1075.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-07-18,875,1450,1063.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-07-20,675,1378,1027.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-07-26,650,1428,1088.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-08-30,750,2000,1375.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-09-07,650,2038,1340.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-09-20,850,1725,1200.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-09-27,625,1663,1125.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-11-06,1000,2375,1688.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-12-17,1500,3750,2625.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Mahedi,FAQ,2007-12-18,1778,3750,2750.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2021-01-19,3701,5291,5001,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2021-01-28,3000,5300,4501,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2021-11-18,2751,3450,3301,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2021-11-26,2101,3200,2900,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2021-11-30,2200,3291,2800,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2021-12-22,2300,2771,2500,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2021-12-27,2300,2950,2750,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-01-12,3750,9000,6375,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-01-13,4000,9000,6500,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-01-14,3500,9000,6250,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-01-29,3625,8750,6125,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-01-30,5000,9062,7125,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-02-02,4500,9000,6750,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-02-11,4562,9437,6750,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-02-18,4625,9500,7000,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-02-23,4000,9250,6625,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-02-25,4250,9500,6875,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-02-26,5000,9500,7250,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-03-04,5000,9500,7250,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-03-16,5375,10000,7625,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-03-18,4000,10000,7000,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-03-31,5250,8250,7000,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-04-09,4500,9250,6875,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-07-12,3750,9000,6375,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-07-13,2750,8750,5750,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-08-17,3063,9375,6125,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-09-03,3000,10375,6625,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-09-07,4000,10500,7125,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-09-10,5000,10500,7625,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-09-22,3000,10750,6875,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-09-24,5000,10750,7875,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-09-25,3500,11000,7250,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-10-02,3500,10750,7125,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-10-19,3250,8000,5500,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-11-09,3750,7500,5625,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-11-10,3188,7528,5375,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-12-07,3500,7750,5625,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2021-12-21,3000,8000,5500,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-10-19,3091,4490,4000.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-10-20,3001,4901,4291.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-11-26,3001,4175,3700.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-11-30,2891,4125,3650.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-12-09,2600,4291,3191.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-12-10,2450,3401,3151.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-12-15,2699,2801,2740.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-12-17,2500,4501,3499.0,411
+Rajasthan,Kota,Ramganjmandi,Mahedi,Other,FAQ,2020-12-24,2875,3751,3100.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-01-03,4250,8275,6125.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-01-15,3500,8187,5875.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-01-27,5000,8875,6500.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-02-26,4000,8500,6125.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-03-09,3875,9000,6375.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-03-16,3750,8000,5875.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-03-17,4000,9000,6375.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-03-19,3875,9000,6375.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-05-19,1750,6500,4625.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-06-03,1812,6250,3875.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-06-10,2277,6250,4250.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-06-12,1750,6625,4187.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-07-01,2000,6250,4125.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-07-02,2000,6687,4250.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-07-10,2000,6250,4000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-07-14,2200,6500,4375.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-07-23,2400,6312,4375.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-08-08,2625,7250,4937.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-09-03,4625,7500,6000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-09-09,3125,7000,5000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-09-10,4000,7500,5625.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-09-29,2250,6402,4250.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-09-30,2500,6250,4375.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-10-17,5000,7500,6250.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-10-20,3125,7000,5000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-11-19,3937,8250,6000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-11-24,4500,7500,6000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-12-09,4250,7750,6000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-12-17,3000,7000,5000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-12-23,3750,8250,6000.0,411
+Rajasthan,Pali,Sojat City,Mahedi,Other,FAQ,2020-12-24,3500,8500,5937.0,411

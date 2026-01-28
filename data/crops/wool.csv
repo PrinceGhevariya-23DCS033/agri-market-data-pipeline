@@ -1,0 +1,187 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Rajkot,Gondal,Wool,Other,FAQ,2007-02-14,2675,2700,2675,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-05-30,2800,3400,3000,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-06-07,2400,3000,2700,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-06-08,2300,3000,2650,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-06-11,2300,3000,2650,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-06-14,2300,2900,2600,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-06-20,2300,3300,2700,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-06-23,2300,3400,2800,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-07-06,2300,3000,2600,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-07-11,2300,2800,2600,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-07-13,2300,3000,2800,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-08-04,2400,3200,2900,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-08-06,2300,3100,2800,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-09-17,2700,3350,3020,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-10-01,2900,3100,3000,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-10-09,2850,3000,2900,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-10-11,2900,3000,2900,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-10-15,2800,3000,2900,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-10-24,2800,3200,3000,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-10-26,2800,3000,2900,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-11-20,3000,3150,3050,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-11-21,2990,3125,3100,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-11-29,2900,3250,3000,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-12-03,2985,3180,3020,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-12-08,2975,3205,3050,348
+Rajasthan,Ajmer,Beawar,Wool,Other,FAQ,2007-12-24,2900,3150,3000,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-06-07,5500,6000,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-07-03,5500,6200,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-07-06,5500,6000,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-07-12,5500,6000,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-07-13,5500,6200,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-07-17,5500,6000,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-07-23,5500,6000,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-07-28,5500,6000,5750,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-08-04,5500,6500,6000,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-08-23,5000,6000,5800,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-09-15,5800,6200,6000,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-09-27,2950,3050,3000,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-10-10,5850,6050,5900,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-10-11,5900,6150,5950,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-10-17,5900,6000,5950,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-10-29,5850,6150,5900,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-11-05,5900,6200,6000,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-11-26,5900,6150,6000,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-11-29,5900,6200,6000,348
+Rajasthan,Ajmer,Beawar,Wool,Wool,FAQ,2007-12-11,5900,6180,6000,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-01-06,3800,4200,4050,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-01-09,4300,4800,4500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-01-17,4700,5200,4975,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-01-27,6300,6900,6500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-02-05,6900,7500,7200,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-02-12,6800,7400,7151,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-02-17,7700,8300,7900,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-02-19,7300,8000,7500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-03-12,7900,8500,8100,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-03-16,7000,8200,7500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-03-17,7000,7500,7300,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-03-24,6500,7200,6800,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-03-26,7500,8500,8000,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-04-02,7000,7800,7500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-04-07,7000,8000,7500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-04-11,7000,8000,7500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-05-01,4600,5200,4851,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-05-03,5500,6100,5800,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-05-15,6500,7000,6700,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-05-16,6300,7000,6500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-05-21,7000,7500,7300,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-05-30,7000,8000,7550,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-06-05,7000,7800,7450,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-06-07,6500,7500,7100,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-06-13,7500,8500,7900,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-06-16,7300,8100,7800,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-06-29,6200,7000,6500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-03,6100,7100,6500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-04,5500,6000,5700,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-05,5700,6500,6000,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-10,6500,7200,6900,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-14,7000,7700,7400,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-19,5500,6000,5800,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-20,5800,6500,6150,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-21,6000,6500,6200,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-07-26,5400,6100,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-08-02,5500,6000,5700,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-08-03,5300,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-08-08,5300,6000,5525,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-08-20,5000,6000,5400,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-01,5000,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-03,5000,5600,5400,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-04,5000,6000,5450,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-08,5000,6000,5400,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-10,5100,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-13,5000,6000,5450,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-19,5200,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-09-21,5200,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-01,5200,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-02,5000,6000,5400,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-06,5300,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-08,5200,6000,5400,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-13,5400,6000,5551,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-16,5000,6000,5400,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-22,5300,6000,5500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-23,5000,6000,5450,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-10-30,4700,5500,5000,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-11-20,4000,4500,4300,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-12-03,3300,4000,3500,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-12-06,3500,4000,3600,348
+Rajasthan,Ajmer,Kekri,Wool,Wool,FAQ,2007-12-11,3500,4000,3700,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-01-06,4500,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-01-16,4500,6000,5300,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-01-18,4500,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-01-24,4500,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-01-26,4500,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-01-27,4500,6500,5300,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-02-12,4500,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-02-26,4500,7000,5300,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-03-12,4500,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-03-14,4000,7000,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-03-16,4500,7000,5800,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-03-21,4000,6500,5300,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-03-29,4500,7500,6500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-03-30,5000,8000,6800,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-04-05,5000,6500,5800,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-04-11,5000,8000,6500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-04-13,5000,8000,6500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-04-21,5000,8000,6000,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-05-01,4500,8000,6500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-05-18,4000,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-05-30,4000,8000,6000,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-06-02,4000,6000,5000,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-07-02,4000,7000,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-07-03,4000,6500,5300,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-07-05,4000,6500,5400,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-07-11,4000,6500,5800,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-07-30,4000,6500,5300,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-08-25,4500,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-09-06,4000,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-09-29,4000,6500,5200,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-10-09,3500,6500,5300,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-10-11,4000,6000,5200,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-10-26,4000,6000,5200,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-10-27,4000,6000,5200,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-11-01,4000,6000,5200,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-11-27,4000,6000,5100,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-12-04,4000,6000,5200,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-12-05,4000,6500,5500,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-12-15,4000,6000,5100,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-12-20,4000,6500,5100,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-12-21,4000,6000,5200,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-12-24,4000,6000,5100,348
+Rajasthan,Barmer,Barmer,Wool,Other,FAQ,2007-12-28,4000,6000,5200,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Other,FAQ,2007-11-07,2600,10120,6360,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Other,FAQ,2007-11-28,2840,9900,6370,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Other,FAQ,2007-12-03,2600,10130,6365,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Other,FAQ,2007-12-05,2550,10150,6350,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Other,FAQ,2007-12-20,2700,10000,6350,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-04-04,2990,9750,6370,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-04-13,2800,9800,6300,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-04-16,2500,10230,6365,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-04-23,2600,10170,6385,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-04-26,2500,10000,6250,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-04-27,2500,10140,6320,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-04-28,2900,9800,6350,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-05-02,2840,10000,6420,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-05-17,2560,10000,6370,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-05-30,2320,10250,6285,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-06-09,2100,10500,6300,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-06-22,2700,9960,6330,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-06-27,2630,10000,6315,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-07-04,2600,9950,6275,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-07-07,2800,9800,6300,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-07-11,2450,10220,6335,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-07-28,2600,10000,6300,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-09-17,2640,10000,6320,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-09-24,3000,9600,6300,348
+Rajasthan,Bikaner,Bikaner (F&V),Wool,Wool,FAQ,2007-11-15,2600,10050,6325,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-09-21,6500,6500,6500,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-09-28,5200,6250,5725,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-09-29,5000,6800,5500,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-10-02,6200,7000,6300,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-10-06,4000,6825,5413,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-10-31,4037,4175,4106,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-11-01,2750,3250,3000,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-11-04,4050,7500,6550,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Wool,FAQ,2007-12-17,5525,6125,5825,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Other,FAQ,2011-10-16,6525,7772,7150,348
+Rajasthan,Bikaner,Lunkaransar,Wool,Other,FAQ,2011-10-18,6500,7750,7125,348

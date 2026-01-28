@@ -1,0 +1,37 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-01-30,3460,5235,4173,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-01-31,4301,5301,5069,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-01,4131,5369,5311,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-06,4669,6597,6559,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-15,5445,6633,6091,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-20,1609,7299,7009,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-21,4583,6759,6000,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-27,5850,7319,6315,115
+Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2019-05-31,5200,5200,5200,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-07,6264,6464,6331,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-20,5050,7050,6050,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-21,6850,7070,6950,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-01,9300,9300,9300,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-07,7583,10160,8871,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-11,6090,6889,6489,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-04,7000,10569,8784,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-05,7005,10390,8697,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-07,3689,5881,4785,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-04,3000,10551,6275,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-18,2000,8719,5009,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-21,2300,9750,6025,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-22,897,9919,5408,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-24,2000,9825,5611,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-06,2000,9289,5279,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-07,850,9889,5369,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-11,769,9696,5232,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-02,550,6497,3523,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-05,4777,5517,5147,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-17,4499,7401,5950,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-25,2569,7319,4944,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-27,1369,6119,3744,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-07-25,8251,9651,8951,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-09-13,5320,5320,5320,115
+Tamil Nadu,Cuddalore,Cuddalore,Karamani,Other,FAQ,2022-08-18,3663,3663,3663,115
+Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2022-02-28,6012,6012,6012,115
+Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2022-03-01,5202,6302,6302,115

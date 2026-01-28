@@ -1,0 +1,356 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-02,1500,1700,1650,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-04,2200,2400,2350,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-10,3500,3700,3600,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-12,3600,3800,3750,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-18,4000,4200,4100,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-19,3600,3800,3700,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-22,2500,2700,2600,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-24,1800,2000,1900,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2019-12-30,1800,2000,1900,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-01-23,2400,2500,2500,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-02-13,1900,2100,2000,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-04-10,2400,2600,2500,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-04-24,2400,2600,2500,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-05-22,2000,2500,2300,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-05-29,2400,2600,2500,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-07-31,1900,2100,2000,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-11-13,2400,3000,2600,162
+Karnataka,Udupi,Udupi,Thondekai,Thondekai,FAQ,2019-12-04,3000,4500,4200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2014-01-06,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-01-09,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-01-22,800,1200,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-01-27,500,700,600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-02-03,800,1400,1200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-02-06,1000,1500,1200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-02-10,1000,1600,1400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-02-12,1200,1600,1400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-02-18,1300,1500,1400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-02-21,1200,1500,1300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-02-22,1200,1400,1300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-03-03,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-03-05,1200,1400,1300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-03-06,1000,1400,1200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-03-20,800,1200,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-03-26,800,1200,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-04-08,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-04-10,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-04-16,1000,1400,1200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-04-29,1200,1400,1300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-04-30,1000,1300,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-05-06,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-05-07,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-05-09,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-05-14,1300,1500,1400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-06-13,600,800,700,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-06-28,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-07-01,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,Medium,2014-07-08,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-05-16,700,1000,850,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-05-27,300,600,450,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-05-29,200,400,300,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-06-02,300,400,350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-06-06,400,500,450,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-06-10,400,600,500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-06-11,400,500,450,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-06-13,600,800,700,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-06-23,1300,1500,1400,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-07-06,1000,1400,1200,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-07-20,1500,2000,1750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-08-07,1300,1500,1400,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-08-21,1400,1800,1600,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-08-31,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-09-06,1000,1400,1200,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-09-17,400,500,450,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-09-21,400,700,550,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-09-26,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-09-28,900,1300,1100,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-10-01,1000,1400,1200,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-10-09,1000,1400,1200,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-10-16,700,1000,850,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-10-19,1000,1200,1100,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-10-23,700,1000,850,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-10-28,500,800,650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-10-29,500,800,650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-11-02,800,1300,1050,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-11-03,400,600,500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-11-05,400,500,450,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-11-09,800,1200,1000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-11-12,500,800,650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-12-01,1500,2000,1750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-12-12,2000,2500,2250,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-12-26,1200,1400,1300,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-12-28,800,1200,1000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-12-31,500,800,650,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2018-06-01,400,500,450,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2018-10-17,1200,1500,1300,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2018-10-30,1000,1200,1100,162
+Karnataka,Mysore,Mysore (Bandipalya),Thondekai,Thondekai,FAQ,2018-01-10,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-07-23,1300,1600,1500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-08-08,1600,1800,1700,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-08-31,1600,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-09-07,1600,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-09-18,1400,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-09-20,600,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-09-26,1000,1400,1200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-10-06,1400,1800,1600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-10-10,1400,1800,1600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-10-25,800,1200,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-10-30,800,1200,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-11-03,800,1200,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-11-22,800,1000,900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-11-24,1000,1300,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-12-03,800,1200,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-12-12,1600,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2018-12-29,1000,1200,1100,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2018-10-10,4000,4400,4200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2018-10-22,3600,4000,3800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2018-10-26,3800,4000,3900,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2018-10-27,3600,4000,3800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2018-11-02,3200,3600,3400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2018-11-03,3000,3200,3100,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-01-01,1578,1578,1578,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-01-08,1328,1528,1428,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-01-16,1333,1333,1333,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-01-17,1381,1581,1481,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-02-05,1250,1250,1250,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-03-05,2142,2142,2142,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-03-12,1705,1905,1805,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-03-31,1900,2100,2000,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-04-04,1566,1766,1666,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-04-09,1875,1875,1875,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-05-08,1428,1428,1428,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-05-23,1288,1488,1388,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-05-26,1428,1428,1428,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-06-18,1344,1544,1444,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-06-23,1250,1250,1250,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-07-23,1875,1875,1875,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-08-06,1607,1807,1707,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-09-10,1216,1416,1316,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-09-12,1333,1333,1333,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2018-09-15,2053,2253,2153,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2018-04-27,2000,2500,2250,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2018-05-18,1600,1800,1700,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2018-07-27,2200,2600,2400,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2018-10-05,1200,1400,1300,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2018-09-19,2000,2300,2000,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2018-10-22,671,671,671,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2018-11-07,1000,2000,1000,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2018-11-28,1000,1000,1000,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2018-12-19,929,1000,1000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-01-01,700,900,800,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-01-05,900,1100,1000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-01-14,400,600,500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-01-24,600,900,750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-01-27,700,900,800,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-02-02,600,1000,800,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-02-03,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-02-11,600,800,700,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-02-16,900,1100,1000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-02-20,400,600,500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-02-25,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-02-26,1000,1200,1100,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-03-13,1200,1500,1350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-03-26,900,1000,950,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-01,1200,1400,1300,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-02,1200,1400,1300,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-03,900,1100,1000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-06,1000,1200,1100,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-10,700,900,800,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-25,600,700,650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-26,300,500,400,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-27,400,600,500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-04-30,500,700,600,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-05-07,500,900,700,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-05-08,500,800,650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2018-05-15,700,1000,850,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-01-02,5400,6400,6000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-01-04,5500,7000,6000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-01-16,2400,2600,2500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-01-18,2400,2600,2500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-01-28,2900,3500,3300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-02-02,3100,3500,3300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-02-10,2900,3400,3100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-02-20,3100,3300,3200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-02-24,3000,3400,3200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-03-08,3200,3600,3400,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-03-15,2400,2600,2500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-03-19,2400,2600,2500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-03-25,2400,2600,2500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-03-29,1400,2000,1600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-04-15,2000,2400,2200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-04-20,2000,2200,2100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-05-03,1500,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-05-04,1600,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-05-13,1400,1800,1600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-05-17,1000,1400,1200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-06-30,1600,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-07-02,1600,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-07-03,1500,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-07-08,1500,2000,1800,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-07-19,1700,2200,1900,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-07-29,900,1100,1000,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-08-21,2000,2200,2100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-09-08,2200,2800,2600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-09-13,2200,2800,2600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-09-23,2800,3600,3200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-09-29,1600,1800,1700,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-10-01,1000,1200,1100,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-10-08,1400,1800,1600,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-10-21,3000,3500,3200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-11-11,3000,4000,3500,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-11-15,5500,6000,5700,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-11-17,5500,6000,5700,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-11-18,4500,5000,4700,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-11-23,4500,5000,4700,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-12-04,7100,7600,7300,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-12-10,8000,8500,8200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-12-20,7000,7500,7200,162
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Thondekai,Thondekai,FAQ,2021-12-30,6600,7200,6900,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-02,3000,3300,3100,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-03,3000,3200,3100,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-07,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-09,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-10,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-13,2200,2400,2300,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-17,1800,2200,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-19,1800,2000,1900,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-01-26,1600,2000,1800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-02-03,1800,2400,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-02-14,1800,2400,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-03-03,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-03-04,2000,2400,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-03-07,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-03-13,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-03-18,1600,2000,1800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-03-25,1200,1600,1400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-04-02,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-04-22,1600,2000,1800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-04-24,1800,2200,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-05-10,1800,2200,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-05-17,1400,2000,1600,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-05-20,1600,2000,1800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-05-22,1600,2000,1800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-05-27,1600,2000,1800,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-06-01,1800,2200,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-06-02,1600,2200,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-06-06,1800,2200,2000,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-06-16,1200,1600,1400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-06-25,2000,2400,2200,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-07-08,1200,1600,1400,162
+Karnataka,Bangalore,Ramanagara,Thondekai,Thondekai,FAQ,2021-07-13,800,1200,1000,162
+Karnataka,Chikmagalur,Chikkamagalore,Thondekai,Thondekai,FAQ,2021-03-03,1515,1515,1515,162
+Karnataka,Chikmagalur,Kadur,Thondekai,Thondekai,FAQ,2021-06-09,1666,1666,1666,162
+Karnataka,Chikmagalur,Kadur,Thondekai,Thondekai,FAQ,2021-09-29,1666,1666,1666,162
+Karnataka,Chikmagalur,Kadur,Thondekai,Thondekai,FAQ,2021-11-08,2083,2083,2083,162
+Karnataka,Chikmagalur,Kadur,Thondekai,Thondekai,FAQ,2021-11-30,2777,2777,2777,162
+Karnataka,Chikmagalur,Kadur,Thondekai,Thondekai,FAQ,2021-12-10,4165,4165,4165,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-01-07,1500,2000,1800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-01-21,1500,2000,1800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-02-06,800,1200,1000,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-02-09,1200,1600,1400,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-02-26,1000,1400,1200,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-03-02,1000,1400,1200,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-04-06,600,1000,800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-04-15,600,1200,800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-04-21,600,1000,800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-04-22,800,1000,900,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-04-27,800,1200,1000,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-05-07,1000,1400,1200,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-05-15,800,1200,1000,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-05-18,800,1200,1000,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-05-19,1000,1200,1100,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-06-02,1200,1400,1300,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-06-25,2000,2500,2200,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-08-12,1800,2200,2000,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-09-07,2000,2400,2200,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-09-09,2000,2400,2200,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-09-16,2200,2600,2400,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-09-17,2200,2600,2400,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-09-24,1800,2200,2000,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-09-30,1800,2200,2000,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-10-05,1500,2000,1800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-11-10,2000,2200,2100,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-11-11,2000,2400,2200,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-11-17,2700,3000,2800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-11-23,2500,3000,2600,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-11-26,2500,3000,2800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-12-04,2500,3000,2800,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-12-15,3200,4000,3600,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-12-16,3000,4000,3500,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-12-17,3000,4000,3500,162
+Karnataka,Davangere,Davangere,Thondekai,Thondekai,FAQ,2021-12-23,2500,3000,2800,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2021-02-04,2000,2000,2000,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2021-02-10,1800,1800,1800,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2021-07-23,1200,1200,1200,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2021-08-11,1500,1500,1500,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2021-11-10,1850,2200,2100,162
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,2021-11-24,3645,6250,5000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-01-10,1400,1800,1600,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-01-11,1400,1800,1600,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-01-12,1300,1700,1500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-01-13,1400,1800,1600,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-01-29,2000,2500,2250,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-02-01,1500,2000,1750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-02-09,1000,1500,1350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-02-17,2000,2400,2200,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-02-20,1200,1500,1350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-02-27,1600,1800,1700,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-03-01,1800,2000,1900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-03-10,1000,1300,1150,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-04-03,1000,1200,1100,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-04-06,1200,1400,1300,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-04-21,1200,1300,1250,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-04-30,500,600,550,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-05-03,700,800,750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-05-08,300,400,350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-05-24,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-06-08,500,600,550,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-06-13,700,900,800,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-06-14,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-07-04,500,700,600,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-07-05,500,700,600,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-07-10,2000,3000,2500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-07-28,2500,2800,2650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-07-31,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-01,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-02,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-03,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-13,300,400,350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-14,300,400,350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-15,300,400,350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-21,600,700,650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-27,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-08-28,600,1200,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-09-01,800,1000,900,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-09-04,1500,1800,1650,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-09-11,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-09-13,800,1800,1300,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-09,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-10,1800,2200,2000,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-17,2200,2600,2400,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-18,2300,2800,2500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-20,2200,2800,2500,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-25,2000,2400,2200,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-27,1200,1400,1300,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-29,1100,1400,1200,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-10-31,1200,1500,1350,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-11-17,4000,4500,4250,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-11-29,8000,8500,8250,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-11-30,700,800,750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-12-17,2500,3000,2750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-12-25,4500,5000,4750,162
+Karnataka,Kolar,Chickkaballapura,Thondekai,Thondekai,FAQ,2021-12-29,2500,3000,2750,162
+Karnataka,Kolar,Chintamani,Thondekai,Thondekai,FAQ,2021-01-26,2500,3000,2750,162
+Karnataka,Kolar,Chintamani,Thondekai,Thondekai,FAQ,2021-06-23,2000,3000,2500,162
+Karnataka,Kolar,Chintamani,Thondekai,Thondekai,FAQ,2021-08-19,2000,3000,2500,162
+Karnataka,Kolar,Chintamani,Thondekai,Thondekai,FAQ,2021-10-04,2000,3000,2500,162
+Karnataka,Kolar,Chintamani,Thondekai,Thondekai,FAQ,2021-10-25,2000,3000,2500,162
+Karnataka,Kolar,Chintamani,Thondekai,Thondekai,FAQ,2021-11-25,7000,8000,7500,162
+Karnataka,Kolar,Chintamani,Thondekai,Thondekai,FAQ,2021-12-27,5000,6000,5500,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2021-02-05,1500,2000,1700,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2021-02-10,1500,2500,2000,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2021-02-12,2000,2200,2100,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2021-02-19,1500,2500,2000,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2021-02-23,1500,2000,1700,162
+Karnataka,Kolar,Kolar,Thondekai,Thondekai,FAQ,2021-02-25,2000,2200,2100,162

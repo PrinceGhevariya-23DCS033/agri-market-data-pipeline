@@ -1,0 +1,519 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2007-10-31,13100,13250,13140,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2007-11-06,13100,13250,13120,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2007-11-29,13110,13250,13130,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2007-12-13,13000,13250,13120,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2007-12-22,13050,13300,13120,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2007-12-25,13050,13300,13120,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2007-12-27,13080,13250,13120,249
+Uttar Pradesh,Aligarh,Khair,Ghee,Other,FAQ,2007-01-19,12450,12800,12600,249
+Uttar Pradesh,Aligarh,Khair,Ghee,Other,FAQ,2007-02-02,12500,12780,12600,249
+Uttar Pradesh,Aligarh,Khair,Ghee,Other,FAQ,2007-05-04,12900,13200,13100,249
+Uttar Pradesh,Aligarh,Khair,Ghee,Other,FAQ,2007-05-25,12900,13200,13150,249
+Uttar Pradesh,Aligarh,Khair,Ghee,Other,FAQ,2007-06-08,13100,13300,13200,249
+Uttar Pradesh,Aligarh,Khair,Ghee,Other,FAQ,2007-11-23,13100,13250,13160,249
+Uttar Pradesh,Bahraich,Bahraich,Ghee,Other,FAQ,2007-03-21,12400,12800,12500,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-01-06,0,0,13390,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-01-15,0,0,13390,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-01-18,0,0,13390,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-01-19,0,0,13380,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-01-20,0,0,13390,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-02-19,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-02-21,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-02-26,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-03-02,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-03-14,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-03-19,0,0,13540,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-03-25,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-03-31,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-04-04,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-04-15,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-04-21,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-05-02,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-05-03,0,0,13550,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-05-07,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-06-04,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-06-16,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-06-17,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-06-20,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-06-25,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-07-12,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-07-25,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-07-26,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-09,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-11,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-15,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-18,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-19,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-22,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-29,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-08-31,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-09-02,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-09-05,0,0,13600,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-09-15,0,0,13700,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-09-16,0,0,13700,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-10-06,0,0,13800,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-10-14,0,0,13800,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-10-18,0,0,13900,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-10-25,0,0,13800,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-11-16,0,0,13850,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-11-17,0,0,13850,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-11-18,0,0,13850,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-11-23,0,0,13900,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-12-17,0,0,13900,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2007-12-23,0,0,13900,249
+Uttar Pradesh,Farukhabad,Farukhabad,Ghee,Other,FAQ,2007-01-10,14000,14500,14300,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2007-01-11,0,0,14100,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2007-01-17,0,0,14100,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2007-01-18,0,0,14100,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2007-01-19,0,0,14100,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2007-01-21,0,0,14100,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-01-04,0,0,12970,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-01-05,0,0,12970,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-01-08,0,0,12970,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-01-12,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-01-24,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-01-30,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-02-05,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-02-08,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-02-21,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-03-20,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-04-11,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-04-13,0,0,12975,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-04-17,0,0,13000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-05-03,0,0,13170,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-05-14,0,0,13150,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-05-17,0,0,13150,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-05-26,0,0,13150,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-06-15,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-07-21,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-07-26,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-07-27,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-07-28,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-07-31,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-08-03,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-08-16,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-08-18,0,0,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-08-23,13440,13460,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-08-30,13435,13460,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-09-13,13440,13460,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-09-15,13445,13465,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-10-04,13440,13460,13450,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-10-18,13450,13470,13460,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-11-05,13450,13470,13460,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-11-06,13450,13465,13460,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-11-15,13450,13465,13460,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-11-26,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-04,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-07,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-08,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-10,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-13,13460,13475,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-18,13455,13465,13460,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-19,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-20,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-22,13460,13470,13465,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2007-12-27,13460,13470,13465,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-03-19,12150,12215,12210,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-03-21,12145,12225,12220,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-03-28,12140,12225,12210,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-04-03,12170,12250,12240,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-04-06,12175,12260,12235,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-04-09,12175,12250,12250,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-04-12,12170,12250,12240,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-04-13,12175,12250,12230,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-04-24,12170,12240,12230,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-05-11,12275,12425,12410,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-05-26,12425,12700,12665,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-05-28,12430,12700,12675,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-06-01,12425,12740,12725,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-06-02,12425,12750,12740,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-06-06,11500,12900,12820,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-06-22,12850,13300,13200,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-06-27,12875,13410,13375,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-07-02,12875,13500,13400,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-07-09,12950,13600,13475,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-07-12,13050,13650,13525,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-07-17,13100,13650,13540,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-07-20,13200,13675,13600,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-08-03,13375,13760,13750,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-08-08,13775,13820,13805,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-08-11,13770,13860,13840,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-08-18,13780,13900,13880,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-09-03,13825,13960,13940,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-09-10,13850,13990,13985,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-09-11,13860,14010,13970,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-09-14,13860,14025,13975,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-09-18,13870,14100,13975,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-09-21,13875,14120,13990,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-09-25,13875,14120,13990,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-10-16,13950,14180,14150,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-10-26,13775,14170,14160,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-11-03,13775,14190,14175,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-11-14,13775,14190,14160,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-11-26,13715,14170,14120,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-11-30,13720,14170,14150,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-12-05,13770,14175,14170,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-12-07,13810,14210,14170,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-12-08,13885,14215,14175,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-12-13,13815,14200,14170,249
+Uttar Pradesh,Sambhal,Chandausi,Ghee,Other,FAQ,2007-12-14,13820,14210,14175,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-01-01,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-01-13,17000,20000,18500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-01-15,17000,20000,18500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-01-19,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-01-24,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-01-28,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-02-21,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-02-26,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-02-27,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-03-06,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-03-17,15000,17000,16000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-03-20,15000,17000,16000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-03-21,15000,17000,16000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-03-30,16000,18000,17000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-06-17,15000,18000,16500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-06-22,15000,18000,16500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-07-06,15000,18000,16500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-07-10,15000,18000,16500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-08-21,16000,20000,18000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-09-02,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-09-04,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-09-21,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-10-12,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-10-14,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-10-22,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-10,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-16,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-17,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-23,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-24,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-25,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-26,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-11-28,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-12-08,18000,22000,20000.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-12-21,20000,23000,21500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-12-28,20000,23000,21500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-12-30,20000,23000,21500.0,249
+Maharashtra,Mumbai,Mumbai,Ghee,Other,FAQ,2009-12-31,20000,23000,21500.0,249
+Maharashtra,Raigad,Alibagh,Ghee,Other,FAQ,2009-06-17,16900,17400,17120.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-01-10,14600,15400,14970.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-01-19,14800,15600,15000.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-01-30,14800,15600,15150.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-02-11,14900,15800,15185.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-02-13,14900,15800,15185.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-02-16,14900,15800,15190.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-03-07,14950,15800,15230.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-03-09,14950,15800,15240.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-03-10,14950,15800,15240.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-03-18,15000,15900,15300.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-03-21,15000,15900,15400.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-04-06,15300,16000,15580.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-04-07,15400,16000,15580.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-04-21,15400,16100,15635.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-04-25,15500,16150,15640.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-05-06,15500,16200,15685.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-05-09,15500,16200,15680.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-06-03,16300,16800,16480.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-06-05,16500,17000,16750.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-06-18,16880,17400,17120.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-06-27,16900,17450,17175.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-07-02,17080,17700,17300.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-07-18,17300,17900,17550.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-07-29,17500,18100,17800.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-08-15,17750,18400,17930.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-08-19,17800,18400,17950.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-08-26,17850,18400,18000.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-09-09,17940,18600,18100.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-09-10,17980,18600,18115.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-09-15,17980,18600,18130.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-10-01,18200,18800,18260.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-10-07,18210,18800,18280.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-10-15,18250,18900,18300.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-10-23,18300,19000,18350.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-10-29,18300,19000,18360.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-10-30,18300,19000,18360.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-11-02,18300,19000,18380.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-11-16,19500,20000,19700.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-11-17,19700,20100,19900.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-01,19800,20200,19970.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-07,19800,20300,20000.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-11,19800,20200,20030.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-15,19900,20200,20035.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-16,20000,20400,20100.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-25,20000,20500,20150.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-29,20000,20600,20160.0,249
+Uttar Pradesh,Aligarh,Aligarh,Ghee,Other,FAQ,2009-12-30,20000,20600,20160.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-01,0,0,14400.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-05,0,0,14400.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-09,0,0,14400.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-10,0,0,14400.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-12,0,0,14400.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-19,0,0,14400.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-25,0,0,14400.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-28,0,0,14500.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-29,0,0,14500.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-01-30,0,0,14500.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-02-02,0,0,14500.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-02-15,0,0,14500.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-02-16,0,0,14500.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-02-19,0,0,14500.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-02-23,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-02-28,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-03-01,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-03-02,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-03-07,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-03-16,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-03-19,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-03-28,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-04-04,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-04-08,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-04-10,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-04-29,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-05-11,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-05-23,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-05-24,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-05-25,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-06-12,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-06-14,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-06-21,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-06-22,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-06-27,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-06-28,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-07-03,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-07-09,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-07-12,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-07-17,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-07-30,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-08-09,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-08-19,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-08-20,0,0,14600.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-09-14,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-09-24,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-09-30,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-10-01,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-10-09,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-10-11,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-10-15,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-11-01,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-11-05,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-11-11,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-11-23,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-11-30,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-12-07,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-12-10,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-12-11,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-12-13,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-12-16,0,0,14700.0,249
+Uttar Pradesh,Banda,Banda,Ghee,Other,FAQ,2009-12-17,0,0,14700.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-01-17,0,0,17030.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-01-22,0,0,17038.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-01-29,0,0,17034.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-01-30,0,0,17038.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-01-31,0,0,17038.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-02-05,0,0,17035.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-02-11,0,0,17037.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-02-19,0,0,17045.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-03-16,0,0,17055.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-04-08,0,0,17050.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-04-25,0,0,17052.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-05-18,0,0,17060.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-05-22,0,0,17050.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-05-28,0,0,17060.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-06-22,0,0,17065.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-07-20,0,0,17062.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-07-25,0,0,17068.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-07-28,0,0,17064.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-08-01,0,0,17065.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-08-22,0,0,17078.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-08-26,0,0,17080.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-08-31,0,0,17084.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-09-04,0,0,17088.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-09-16,0,0,17094.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-10-31,0,0,17073.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-11-03,0,0,17074.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-11-06,0,0,17085.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-11-16,0,0,17078.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-12-07,0,0,17090.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-12-11,0,0,17092.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-12-12,0,0,17093.0,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2009-12-19,0,0,17092.0,249
+Andhra Pradesh,Visakhapatnam,Visakhapatnam,Ghee,Other,Medium,2015-12-08,53000,54000,53543,249
+Bihar,Madhepura,Bihariganj,Ghee,Other,FAQ,2015-12-13,35000,55000,45000,249
+Bihar,Madhepura,Bihariganj,Ghee,Other,FAQ,2015-12-25,35000,55000,45000,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-01,26600,26800,26700,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-02,26700,26800,26750,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-03,26700,26900,26800,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-05,26400,26700,26500,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-14,26500,26700,26600,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-18,26600,26800,26700,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-25,26700,26900,26800,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-01-26,26600,26800,26700,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-02-02,26900,27100,27000,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-02-07,27300,27500,27400,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-02-13,27400,27600,27500,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-02-25,27500,27700,27600,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-03-02,27700,27900,27800,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-03-13,27500,27700,27600,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-03-16,27500,27700,27600,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-03-20,27600,27800,27700,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-04-05,27600,27700,27610,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-04-24,27900,28100,28000,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-04-25,28000,28200,28100,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-04-27,28000,28200,28150,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-05-06,28200,28250,28210,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-05-25,28580,28700,28610,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-05-30,28600,28620,28610,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-06-06,28600,28700,28620,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-06-25,26000,26150,26080,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-07-03,26200,26400,26300,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-08-03,26000,27000,26500,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-08-09,26000,27000,26500,249
+Uttar Pradesh,Etah,Etah,Ghee,Other,FAQ,2015-08-14,27000,27500,27200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-01-07,29000,29400,29200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-01-09,29100,29300,29160,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-01-23,29000,29300,29100,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-01-26,29000,29500,29250,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-01-30,29000,29300,29160,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-02-05,29060,29400,29200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-02-11,29000,29300,29150,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-02-19,29000,29300,29150,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-02-21,29150,29450,29250,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-02-23,29160,29450,29260,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-02-25,29150,29500,29250,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-03-09,29050,29400,29250,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-03-10,29100,29500,29260,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-03-12,29050,29450,29250,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-03-16,29000,29300,29150,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-03-19,29000,29300,29150,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-04-04,29150,29400,29250,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-04-07,29050,29400,29200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-04-08,29000,29300,29150,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-04-09,29000,29400,29160,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-04-10,29000,29350,29150,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-05-07,29100,29500,29260,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-05-16,29100,29500,29300,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-05-26,29150,29600,29400,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-06-06,29500,29700,29600,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-07-06,31100,31500,31300,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-07-13,31000,31200,31100,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-07-15,31100,31300,31200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-07-24,31000,31200,31100,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-08-13,30100,30350,30200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-09-23,29160,30160,30060,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-09-24,29900,30100,30000,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-09-29,30100,30300,30200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-09-30,30000,30300,30150,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-10-07,30100,30300,30200,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-10-09,30000,30200,30100,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-10-19,29950,30150,30000,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-10-20,30000,30200,30100,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-11-23,33000,33200,33100,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-12-07,32900,33100,33000,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-12-10,23900,33100,33000,249
+Uttar Pradesh,Hathras,Haathras,Ghee,Other,FAQ,2015-12-19,32700,32900,32800,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-06-29,0,0,35000,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-07-20,0,35010,350,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-07-22,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-08-07,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-08-13,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-08-20,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-08-22,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-09-04,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-09-06,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-09-09,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-09-10,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-09-14,0,0,35750,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-10-07,0,0,35800,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-10-14,0,0,35800,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-10-15,0,0,35800,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-10-21,0,0,35850,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-10-23,0,0,35850,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-10-30,0,0,35850,249
+Uttar Pradesh,Jalaun (Orai),Orai,Ghee,Other,FAQ,2015-11-28,0,0,36000,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-01-09,0,0,26630,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-01-17,0,0,26630,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-01-24,0,0,26600,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-01-29,0,0,26590,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-02-01,0,0,26580,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-02-03,0,0,26585,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-02-13,0,0,26605,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-03-14,0,0,26680,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-04-07,0,0,27100,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-04-09,0,0,27125,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-04-10,0,0,27130,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-04-15,0,0,27140,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-04-26,0,0,27225,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-05-08,0,0,27300,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-05-17,0,0,27350,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-05-23,0,0,27375,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-05-27,0,0,27400,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-03,0,0,27415,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-07,0,0,27425,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-12,0,0,27430,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-16,0,0,27435,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-17,0,0,27435,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-20,0,0,27440,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-21,0,0,27440,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-06-28,0,0,27455,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-07-01,0,0,27450,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-07-02,0,0,27455,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-07-14,0,0,27475,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-07-23,0,0,27485,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-07-25,0,0,27475,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-07-30,0,0,27465,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-08-02,22450,22500,22480,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-08-04,22400,22600,22500,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-08-30,27500,27800,27600,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-09-01,27400,27600,27500,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-09-04,27600,27800,27700,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-09-08,27500,27800,27700,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-09-09,27500,27700,27600,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-09-13,27300,27500,27400,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-09-26,27500,27700,27600,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-10-09,27400,27600,27500,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-10-17,27400,27700,27500,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-11-18,27300,27500,27400,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-11-19,27400,27600,27500,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-12-03,27200,27400,27300,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-12-10,27400,27600,27500,249
+Uttar Pradesh,Kasganj,Kasganj,Ghee,Other,FAQ,2015-12-26,27400,27600,27500,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-01-12,34900,35150,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-01-27,34800,35160,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-01-28,34140,35125,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-01-29,34860,35140,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-01-31,34160,35140,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-02-05,34750,35000,34900,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-03-03,34750,35250,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-03-04,34700,35150,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-03-09,34260,35200,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-03-18,34875,35200,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-04-06,32000,40000,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-04-07,32000,36500,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-04-23,34650,35400,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-04-24,34675,35450,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-04-27,34510,35425,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-04-30,34560,35490,35000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-05-06,35000,36500,36000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-05-13,35780,36580,36000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-05-19,35000,36900,36000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-05-20,35750,36460,36000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-05-30,35790,36380,36000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-06-26,35000,36900,36000,249
+Uttar Pradesh,Lalitpur,Lalitpur,Ghee,Other,FAQ,2015-07-01,35000,36500,36000,249
+Uttrakhand,Dehradoon,Vikasnagar,Ghee,Other,FAQ,2015-07-06,28624,28624,28624,249
+Uttrakhand,Haridwar,Roorkee,Ghee,Other,FAQ,2015-01-04,29500,29500,29500,249
+Uttrakhand,Haridwar,Roorkee,Ghee,Other,FAQ,2015-03-14,28000,28000,28000,249
+Uttrakhand,Haridwar,Roorkee,Ghee,Other,FAQ,2015-04-22,29500,29500,29500,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-02-05,34500,35600,35000,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-03-15,34000,35500,35000,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-04-24,34000,35000,34700,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-05-29,33200,35500,34400,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-06-24,33500,34200,33750,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-07-09,33000,35500,34400,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-09-24,33416,33982,33699,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-09-30,31400,31450,31425,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-10-01,34500,34648,34574,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-11-13,34950,34972,34961,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-11-29,33014,34192,33603,249
+Uttrakhand,Nanital,Haldwani,Ghee,Other,FAQ,2015-12-21,33100,33318,33214,249

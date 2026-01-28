@@ -1,0 +1,534 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-01-20,2000,2000,2000,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-01-28,870,2060,2060,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-01-29,2003,2084,2071,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-02-08,2141,2150,2150,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-02-22,2120,2120,2120,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-02-24,2126,2126,2126,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-03-10,926,2101,2101,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-04-12,2240,2240,2240,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-05-27,1200,1920,1920,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-05-28,900,900,900,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-06-24,2250,2331,2331,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-07-07,2425,2425,2425,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-08-03,2485,2600,2495,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-08-04,2400,2513,2513,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-10-08,1950,2000,2000,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-10-20,2230,2280,2253,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-10-21,2230,2280,2253,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-11-05,2050,2050,2050,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-11-21,2299,2299,2299,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2022-12-17,2340,2585,2451,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Varagu,FAQ,2022-05-24,2500,2500,2500,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Varagu,FAQ,2022-08-20,2600,2600,2600,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Varagu,FAQ,2022-09-16,3200,3200,3200,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Varagu,FAQ,2022-09-22,3000,3000,3000,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Varagu,FAQ,2022-11-26,3200,3200,3200,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Varagu,FAQ,2022-12-28,2600,2600,2600,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-02-27,2250,2250,2250,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-03-05,2125,2125,2125,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-03-07,2300,2300,2300,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-05-20,2100,2100,2100,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-06-03,2000,2000,2000,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-06-12,2350,2350,2350,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-06-13,2500,2500,2500,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-06-21,2500,2500,2500,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-06-22,2400,2400,2400,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-06-28,2500,2500,2500,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2022-12-06,2500,2500,2500,117
+Chattisgarh,Bemetara,Dadhi,Kodo Millet(Varagu),Other,FAQ,2022-12-31,2500,2500,2500,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2022-05-23,2100,2100,2100,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2022-11-09,2000,2000,2000,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2022-11-24,2100,2100,2100,117
+Chattisgarh,Bilaspur,Kota,Kodo Millet(Varagu),Other,FAQ,2022-03-24,2000,2000,2000,117
+Chattisgarh,Bilaspur,Pendraroad,Kodo Millet(Varagu),Other,FAQ,2022-12-27,2000,2000,2000,117
+Chattisgarh,Dantewada,Gidam,Kodo Millet(Varagu),Other,FAQ,2022-08-23,2500,2700,2600,117
+Chattisgarh,Dantewada,Gidam,Kodo Millet(Varagu),Other,FAQ,2022-09-30,2500,2700,2600,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2022-01-05,2225,2225,2225,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2022-02-24,2250,2250,2250,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2022-03-27,2250,2250,2250,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2022-04-20,2000,2000,2000,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2022-07-04,2650,2650,2650,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2022-07-27,2600,2600,2600,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2022-08-03,2650,2650,2650,117
+Chattisgarh,Gariyaband,Rajim,Kodo Millet(Varagu),Other,FAQ,2022-08-05,1216,1216,1216,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-02-02,2100,2110,2110,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-02-10,2200,2220,2210,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-02-27,3000,3377,3000,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-05-02,2150,2150,2150,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-06-01,2381,2381,2381,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-06-03,2200,2200,2200,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-06-17,2100,2300,2100,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-06-24,2000,2000,2000,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-07-10,2200,2400,2200,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-08-11,2600,2600,2600,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-08-19,2400,2400,2400,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-08-27,2600,2600,2600,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-09-04,2700,2700,2700,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-09-30,2500,2500,2500,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-12-09,2100,2100,2100,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2022-12-31,2600,2700,2600,117
+Chattisgarh,Kanker,Sambalpur,Kodo Millet(Varagu),Other,FAQ,2022-05-27,1800,1800,1800,117
+Chattisgarh,Kanker,Sambalpur,Kodo Millet(Varagu),Other,FAQ,2022-07-11,1800,1800,1800,117
+Chattisgarh,Kanker,Sambalpur,Kodo Millet(Varagu),Other,FAQ,2022-07-15,2000,2000,2000,117
+Chattisgarh,Kanker,Sambalpur,Kodo Millet(Varagu),Other,FAQ,2022-07-16,2000,2000,2000,117
+Chattisgarh,Kanker,Sambalpur,Kodo Millet(Varagu),Other,FAQ,2022-07-27,2500,2500,2500,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2022-12-14,2300,2300,2300,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2022-02-03,3000,3000,3000,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2022-02-14,2700,2700,2700,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2022-02-21,2700,2700,2700,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2022-03-26,2715,2715,2715,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2022-08-10,2015,2015,2015,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2022-08-11,2700,2700,2700,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-01-04,2200,2251,2240,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-01-05,2220,2290,2270,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-01-24,2236,2236,2236,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-02-02,2210,2230,2220,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-02-21,2280,2310,2300,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-03-11,2230,2260,2240,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-03-14,2190,2200,2190,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-03-15,2190,2200,2195,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-03-23,2190,2190,2190,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-04-16,1980,2120,2070,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-04-21,2120,2140,2130,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-04-26,2160,2190,2170,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-05-02,1990,2250,2190,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-05-04,2190,2270,2220,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-05-11,2040,2190,2100,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-05-20,2140,2210,2180,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-05-28,2270,2310,2290,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-06-11,2000,2560,2440,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-06-29,2530,2620,2590,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-07-05,2700,2750,2720,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-07-14,2390,2500,2460,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-07-15,2470,2550,2520,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-07-30,2670,2710,2690,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-08-01,2655,2740,2710,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-08-04,2450,2740,2700,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-08-16,2650,2810,2746,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-08-17,2690,2770,2740,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-08-26,2700,2790,2745,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-09-07,2640,2740,2640,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-09-12,2640,2670,2655,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-09-17,2350,2390,2370,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-09-20,2160,2290,2230,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-10-01,2250,2440,2340,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-10-03,2280,2420,2360,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-10-08,2390,2390,2390,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-10-13,2290,2350,2310,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-11-05,2200,2330,2300,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-11-07,2290,2360,2310,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-11-11,2140,2320,2260,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-11-21,2410,2540,2510,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-11-23,2360,2490,2430,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-11-26,2490,2530,2510,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-11-28,2300,2510,2470,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-12-05,2480,2630,2580,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-12-07,2490,2800,2600,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-12-15,2390,3000,2820,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-12-20,2500,2640,2600,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2022-12-27,2600,2850,2780,117
+Chattisgarh,Rajnandgaon,Bandhabazar,Kodo Millet(Varagu),Varagu,FAQ,2022-10-16,2400,2700,2600,117
+Chattisgarh,Rajnandgaon,Dongargarh,Kodo Millet(Varagu),Other,FAQ,2022-07-06,2500,2500,2500,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Other,FAQ,2022-06-13,1900,2000,1950,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2022-05-06,1800,2000,1900,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2022-08-03,1800,2000,1900,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2022-09-07,1800,2000,1900,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2022-10-15,1600,2000,1900,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2022-11-18,1700,2100,2000,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2022-12-31,1800,2000,1900,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2022-07-21,2100,2100,2100,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2022-08-02,2050,2050,2050,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2022-08-18,2050,2050,2050,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2022-09-09,2800,2800,2800,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2022-10-11,1500,1500,1500,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2022-11-03,2000,2000,2000,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-02-16,2000,2000,2000,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-02-22,2000,2200,2000,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-03-11,2300,2300,2300,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-03-13,2300,2300,2300,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-03-27,2000,2000,2000,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-04-10,2200,2250,2200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-04-12,2200,2200,2200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-04-14,2200,2200,2200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-05-10,2300,2300,2300,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-05-22,2400,2400,2400,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-06-06,2000,2500,2500,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-06-07,2450,2450,2450,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-06-11,2400,2400,2400,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-06-16,2200,2200,2200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-06-19,1800,1800,1800,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-07-27,2500,2500,2500,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-08-03,2200,2200,2200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-08-27,2500,2600,2600,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-08-28,2800,2800,2800,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-09-05,2500,2700,2500,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-09-09,2500,2500,2500,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-10-01,3200,3200,3200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2022-10-23,2300,2300,2300,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-01-01,1500,1500,1500,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-01-06,1470,1580,1470,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-01-16,1600,1600,1600,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-01-27,1200,1765,1765,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-02-04,1055,1825,1825,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-02-28,1700,1870,1870,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-03-15,1750,1850,1750,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-03-23,1200,1700,1660,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-06-07,1750,1750,1750,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-07-28,2099,2099,2099,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-08-05,2190,2190,2190,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-08-12,2231,2231,2231,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-08-24,2050,2230,2051,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-09-01,2185,2185,2185,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-09-17,2100,2125,2125,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-09-18,2150,2150,2150,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-10-21,1850,1850,1850,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-10-22,1851,1899,1851,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-11-22,1700,1700,1700,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-11-25,1750,1755,1755,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-11-26,1000,1300,1300,117
+Chattisgarh,Balodabazar,Bhatapara,Kodo Millet(Varagu),Other,FAQ,2021-12-01,1825,1825,1825,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Other,FAQ,2021-01-08,2100,2600,2350,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Other,FAQ,2021-01-25,2600,2600,2600,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Other,FAQ,2021-02-10,2100,2100,2100,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Other,FAQ,2021-04-08,2100,2100,2100,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Other,FAQ,2021-08-11,2600,2600,2600,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Other,FAQ,2021-11-30,2500,2800,2800,117
+Chattisgarh,Balrampur,Kusmee,Kodo Millet(Varagu),Other,FAQ,2021-12-15,2600,2800,2800,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2021-03-08,1850,1850,1850,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2021-07-20,2400,2400,2400,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2021-09-20,2000,2000,2000,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2021-10-09,2300,2300,2300,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2021-11-22,1800,1800,1800,117
+Chattisgarh,Bemetara,Bemetara,Kodo Millet(Varagu),Other,FAQ,2021-11-23,1800,2100,2100,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2021-03-23,1800,1800,1800,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2021-05-18,1800,1875,1875,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2021-09-23,2000,2000,2000,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2021-10-20,2000,2000,2000,117
+Chattisgarh,Bemetara,Saja,Kodo Millet(Varagu),Other,FAQ,2021-12-10,1800,1800,1800,117
+Chattisgarh,Bilaspur,Kota,Kodo Millet(Varagu),Other,FAQ,2021-07-31,2000,2000,2000,117
+Chattisgarh,Bilaspur,Pendraroad,Kodo Millet(Varagu),Other,FAQ,2021-09-03,2000,2000,2000,117
+Chattisgarh,Dantewada,Gidam,Kodo Millet(Varagu),Other,FAQ,2021-03-24,3000,3500,3050,117
+Chattisgarh,Dantewada,Gidam,Kodo Millet(Varagu),Other,FAQ,2021-07-21,2500,2600,2550,117
+Chattisgarh,Dantewada,Gidam,Kodo Millet(Varagu),Other,FAQ,2021-09-27,3000,3200,3050,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2021-09-24,2375,2375,2375,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2021-10-21,2100,2100,2100,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2021-10-26,1900,1900,1900,117
+Chattisgarh,Durg,Khamhariya,Kodo Millet(Varagu),Other,FAQ,2021-11-05,1730,1730,1730,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-01-15,2025,2025,2025,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-01-30,1800,1850,1819,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-02-05,1400,1900,1800,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-02-14,1953,1953,1953,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-02-19,1500,1500,1500,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-03-12,1900,1900,1900,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-04-30,2000,2000,2000,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-07-29,2300,2300,2300,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-07-31,2348,2348,2348,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-09-12,2500,2500,2500,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-10-17,2000,2000,2000,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-10-18,2500,2500,2500,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-10-24,1800,1800,1800,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-11-21,1650,1650,1650,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-11-26,1750,1750,1750,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-11-30,2000,2000,2000,117
+Chattisgarh,Kabirdham,Kawardha,Kodo Millet(Varagu),Other,FAQ,2021-12-10,2000,2000,2000,117
+Chattisgarh,Kanker,Sambalpur,Kodo Millet(Varagu),Other,FAQ,2021-05-25,1600,1600,1600,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-01-24,2200,2200,2200,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-02-07,2200,2200,2200,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-02-25,2200,2200,2200,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-02-28,2200,2200,2200,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-04-06,2200,2200,2200,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-04-13,2200,2200,2200,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-06-28,2275,2275,2275,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-08-03,2275,2275,2275,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-08-16,2200,2200,2200,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-08-30,2300,2300,2300,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-11-10,2350,2350,2350,117
+Chattisgarh,Korba,Katghora,Kodo Millet(Varagu),Other,FAQ,2021-11-21,2300,2300,2300,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2021-03-06,1600,1600,1600,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2021-04-09,1600,1600,1600,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2021-06-17,1800,1800,1800,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2021-07-29,1600,1600,1600,117
+Chattisgarh,Koria,Manendragarh,Kodo Millet(Varagu),Other,FAQ,2021-09-29,2500,2500,2500,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-01-06,1700,1760,1730,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-01-07,1720,1730,1725,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-01-12,1750,1850,1810,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-01-14,1830,1850,1840,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-01-15,1790,1880,1850,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-02-02,1800,1850,1830,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-02-09,1750,1880,1840,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-02-13,1870,1990,1950,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-02-19,1980,1990,1985,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-02-20,1950,1970,1960,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-02-24,1890,1990,1960,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-03-05,1850,1910,1890,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-03-09,1500,1940,1770,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-03-18,1840,1870,1850,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-03-20,1860,1900,1880,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-03-23,1750,1860,1810,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-03-24,1830,1890,1860,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-06-04,1980,1980,1980,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-06-08,1750,2000,1860,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-06-09,1640,1920,1810,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-06-10,1950,1950,1950,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-06-12,3490,3750,3600,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-06-23,1890,1910,1900,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-07-09,2250,2331,2300,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-07-12,2220,2341,2280,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-07-17,2360,2392,2380,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-08-26,2170,2186,2177,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-08-28,2100,2191,2157,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-09-02,1401,2316,2070,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-09-06,2260,2275,2270,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-09-13,2300,2300,2300,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-09-21,2050,2300,2175,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-09-24,2351,2381,2360,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-09-27,2270,2341,2310,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-09-30,2056,2242,2160,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-10-07,2130,2240,2210,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-10-12,2106,2166,2131,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-10-13,2121,2121,2121,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-10-18,2051,2161,2110,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-10-23,1601,2046,1900,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-11-25,1802,1908,1880,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-11-29,1840,1916,1876,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-11-30,1859,1901,1880,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-12-02,1880,1900,1890,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-12-03,1850,1906,1895,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-12-17,2110,2129,2120,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-12-22,2200,2210,2205,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-12-23,2270,2290,2280,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-12-24,2255,2338,2310,117
+Chattisgarh,Mungeli,Munguli,Kodo Millet(Varagu),Varagu,FAQ,2021-12-31,2100,2170,2150,117
+Chattisgarh,Raipur,Raipur,Kodo Millet(Varagu),Other,FAQ,2021-10-26,1536,1536,1536,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Other,FAQ,2021-05-03,1800,1820,1810,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Other,FAQ,2021-05-04,1800,1820,1810,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Other,FAQ,2021-07-15,1700,2000,1800,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Other,FAQ,2021-09-02,1500,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Other,FAQ,2021-09-12,2000,2200,2100,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Other,FAQ,2021-09-14,1800,2000,1900,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-01-18,1500,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-01-25,1500,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-01-30,1500,1700,1600,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-02-10,1500,1800,1600,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-02-24,1600,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-02-25,1600,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-03-25,1600,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-06-15,1600,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-06-30,1500,1700,1600,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-07-11,1600,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-08-07,1500,2000,1800,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-10-08,1800,2000,1900,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-10-30,1600,1800,1700,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-10-31,1700,2000,1800,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-11-19,1700,1900,1800,117
+Chattisgarh,Rajnandgaon,Gandai,Kodo Millet(Varagu),Varagu,FAQ,2021-11-20,1700,1900,1800,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-04-29,1000,1000,1000,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-06-30,1000,1000,1000,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-08-03,1000,1000,1000,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-08-10,1000,1000,1000,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-09-10,1000,1000,1000,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-10-05,1000,1000,1000,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-10-09,1000,1000,1000,117
+Chattisgarh,Surajpur,Pratappur,Kodo Millet(Varagu),Other,FAQ,2021-10-12,1000,1000,1000,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2021-02-22,1700,1700,1700,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2021-06-05,1600,1600,1600,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2021-06-17,2100,2100,2100,117
+Chattisgarh,Surguja,Ambikapur,Kodo Millet(Varagu),Other,FAQ,2021-06-30,1950,1950,1950,117
+Chattisgarh,Surguja,Sitapur,Kodo Millet(Varagu),Other,FAQ,2021-03-23,2000,2000,2000,117
+Chattisgarh,Surguja,Sitapur,Kodo Millet(Varagu),Other,FAQ,2021-03-31,2000,2000,2000,117
+Chattisgarh,Surguja,Sitapur,Kodo Millet(Varagu),Other,FAQ,2021-07-06,2000,2000,2000,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-02-15,1500,1950,1500,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-05-25,1950,2000,2000,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-05-26,1950,1950,1950,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-06-29,2250,2250,2250,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-07-11,2400,2400,2400,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-07-13,2200,2300,2200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-09-03,2200,2300,2200,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-09-09,2300,2300,2300,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-09-16,2300,2300,2300,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-10-22,2300,2300,2300,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-12-10,1825,1825,1825,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-12-26,2100,2100,2100,117
+Madhya Pradesh,Anupur,Anuppur,Kodo Millet(Varagu),Other,FAQ,2021-12-27,2000,2000,2000,117
+Madhya Pradesh,Anupur,Kotma,Kodo Millet(Varagu),Other,FAQ,2021-02-25,1800,1800,1800,117
+Madhya Pradesh,Anupur,Kotma,Kodo Millet(Varagu),Other,FAQ,2021-11-22,1750,1750,1750,117
+Madhya Pradesh,Balaghat,Praswada,Kodo Millet(Varagu),Other,FAQ,2021-07-23,2000,2000,2000,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-03-22,3500,3500,3500,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-06-05,2000,2000,2000,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-06-17,1900,3900,2900,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-06-21,3900,3900,3900,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-06-26,2250,2400,2325,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-06-29,1980,2100,2040,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-06-30,2400,4000,3200,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-07-03,3000,4200,3600,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-07-28,4000,4000,4000,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-08-24,2250,4050,3150,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-08-26,3100,4000,3550,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-09-15,2100,2300,2200,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-10-28,2000,2000,2000,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-11-10,1900,2500,2200,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-12-22,2500,4000,3250,117
+Madhya Pradesh,Dindori,Gorakhpur,Kodo Millet(Varagu),Other,FAQ,2021-12-25,3200,3300,3250,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-02-23,1600,1800,1700,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-02-25,1700,1900,1800,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-03-05,1600,1800,1700,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-03-08,1600,1800,1700,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-04-05,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-04-27,1700,1900,1800,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-05-14,1800,2000,1900,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-05-25,1800,2000,1900,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-06-04,1800,2000,1900,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-06-22,1900,2100,2000,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-06-26,1900,2100,2000,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-06-27,1900,2100,2000,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-07-09,1900,2100,2000,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-07-14,1900,2100,2000,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-08-13,1900,2100,2000,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-08-17,1900,2100,2000,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-08-26,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-08-27,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-09-03,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-09-06,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-09-27,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-10-11,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-10-12,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-10-19,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-10-25,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-12-10,1800,2000,1900,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-12-13,1800,2000,1900,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-12-17,1800,2000,1900,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-12-20,2100,2300,2200,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-12-22,2000,2200,2100,117
+Madhya Pradesh,Dindori,Shahpura,Kodo Millet(Varagu),Other,FAQ,2021-12-24,1900,2100,2000,117
+Madhya Pradesh,Katni,Katni,Kodo Millet(Varagu),Other,FAQ,2021-02-15,1100,1511,1350,117
+Madhya Pradesh,Katni,Katni,Kodo Millet(Varagu),Other,FAQ,2021-02-18,1250,1650,1525,117
+Madhya Pradesh,Katni,Katni,Kodo Millet(Varagu),Other,FAQ,2021-02-20,1350,1350,1350,117
+Madhya Pradesh,Katni,Katni,Kodo Millet(Varagu),Other,FAQ,2021-06-28,1175,1200,1200,117
+Madhya Pradesh,Katni,Katni,Kodo Millet(Varagu),Other,FAQ,2021-09-23,2075,2075,2075,117
+Madhya Pradesh,Katni,Katni,Kodo Millet(Varagu),Other,FAQ,2021-11-17,1321,1321,1321,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-02-09,1900,1900,1900,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-02-12,1900,1900,1900,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-02-17,2000,2000,2000,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-02-21,1950,1950,1950,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-03-05,2000,2000,2000,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-03-25,1800,1800,1800,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-04-13,2000,2000,2000,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-04-20,1900,1900,1900,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-06-07,2100,2100,2100,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-06-12,1700,1700,1700,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-06-30,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-07-03,2600,2600,2600,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-07-19,2400,2400,2400,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-07-23,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-07-29,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-07-30,2300,2300,2300,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-08-25,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-08-26,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-08-28,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-09-09,2550,2550,2550,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-09-16,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-09-17,2300,2300,2300,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-09-18,2300,2300,2300,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-09-19,2400,2400,2400,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-09-26,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-09-27,2400,2400,2400,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-10-02,2300,2300,2300,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-10-13,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-10-15,2300,2300,2300,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-10-22,2300,2300,2300,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-10-31,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-11-23,1900,1900,1900,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-12-10,2000,2000,2000,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-12-12,2000,2000,2000,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-12-16,2100,2100,2100,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-12-24,2210,2210,2210,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-12-27,2200,2200,2200,117
+Madhya Pradesh,Mandla,Bichhiya,Kodo Millet(Varagu),Other,FAQ,2021-12-30,2100,2100,2100,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-03-04,1900,1930,1920,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-03-16,2000,2000,2000,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-03-18,2000,2007,2005,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-05-30,2200,2350,2225,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-06-02,2200,2225,2200,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-06-26,2075,2425,2390,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-07-07,2400,2710,2550,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-07-10,2100,2100,2100,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-08-10,2100,2125,2113,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-08-26,2150,2275,2200,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-09-05,2300,2300,2300,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-09-09,2450,2510,2500,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-09-11,2300,2450,2425,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-09-12,2300,2325,2315,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-09-19,2500,2520,2510,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-12-12,2000,2000,2000,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-12-16,2150,2150,2150,117
+Madhya Pradesh,Mandla,Mandla,Kodo Millet(Varagu),Other,FAQ,2021-12-26,2150,2150,2150,117
+Madhya Pradesh,Mandla,Nainpur,Kodo Millet(Varagu),Other,FAQ,2021-07-01,2475,2550,2500,117
+Madhya Pradesh,Mandla,Nainpur,Kodo Millet(Varagu),Other,FAQ,2021-07-02,2525,2550,2540,117
+Madhya Pradesh,Rewa,Baikunthpur,Kodo Millet(Varagu),Other,FAQ,2021-03-19,1750,1900,1825,117
+Madhya Pradesh,Seoni,Ghansour,Kodo Millet(Varagu),Other,FAQ,2021-02-26,3300,3300,3300,117
+Madhya Pradesh,Seoni,Ghansour,Kodo Millet(Varagu),Other,FAQ,2021-03-20,2200,2200,2200,117
+Madhya Pradesh,Seoni,Ghansour,Kodo Millet(Varagu),Other,FAQ,2021-06-23,3050,3050,3050,117
+Madhya Pradesh,Seoni,Ghansour,Kodo Millet(Varagu),Other,FAQ,2021-07-01,1980,3010,3000,117
+Madhya Pradesh,Seoni,Ghansour,Kodo Millet(Varagu),Other,FAQ,2021-07-02,1810,1820,1815,117
+Madhya Pradesh,Seoni,Ghansour,Kodo Millet(Varagu),Other,FAQ,2021-08-31,1700,1700,1700,117
+Madhya Pradesh,Seoni,Lakhnadon,Kodo Millet(Varagu),Other,FAQ,2021-07-08,1800,1800,1800,117
+Madhya Pradesh,Seoni,Lakhnadon,Kodo Millet(Varagu),Other,FAQ,2021-07-09,1800,1800,1800,117
+Madhya Pradesh,Seoni,Lakhnadon,Kodo Millet(Varagu),Other,FAQ,2021-07-17,2000,2000,2000,117
+Madhya Pradesh,Seoni,Lakhnadon,Kodo Millet(Varagu),Other,FAQ,2021-09-15,2000,2000,2000,117
+Madhya Pradesh,Seoni,Lakhnadon,Kodo Millet(Varagu),Other,FAQ,2021-09-18,2000,2000,2000,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-03-18,1610,1611,1610,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-03-25,1850,1850,1850,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-03-31,1850,1850,1850,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-04-12,1680,1701,1700,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-06-12,1900,2000,1900,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-07-05,2400,0,2400,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-07-18,1800,1800,1800,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-09-11,2000,2000,2000,117
+Madhya Pradesh,Shehdol,Beohari,Kodo Millet(Varagu),Other,FAQ,2021-12-11,1800,1800,1800,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-03-08,1800,1900,1900,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-05-31,1900,2000,2000,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-07-02,2000,2200,2200,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-07-03,1810,1850,1850,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-07-05,2500,2500,2500,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-08-15,2000,2000,2000,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-09-09,1900,1900,1900,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-09-19,1910,1910,1910,117
+Madhya Pradesh,Shehdol,Budhar,Kodo Millet(Varagu),Other,FAQ,2021-10-08,1915,2010,2000,117
+Madhya Pradesh,Shehdol,Shahdol,Kodo Millet(Varagu),Other,FAQ,2021-07-05,1750,1850,1850,117
+Madhya Pradesh,Shehdol,Shahdol,Kodo Millet(Varagu),Other,FAQ,2021-07-07,1810,1850,1810,117
+Madhya Pradesh,Shehdol,Shahdol,Kodo Millet(Varagu),Other,FAQ,2021-07-08,1800,1800,1800,117
+Madhya Pradesh,Shehdol,Shahdol,Kodo Millet(Varagu),Other,FAQ,2021-09-25,2150,2160,2150,117
+Madhya Pradesh,Shehdol,Shahdol,Kodo Millet(Varagu),Other,FAQ,2021-10-11,2050,2050,2050,117
+Madhya Pradesh,Shehdol,Shahdol,Kodo Millet(Varagu),Other,FAQ,2021-10-15,2050,2100,2100,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-03-09,1700,1800,1750,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-03-15,1800,1800,1800,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-03-16,1800,1800,1800,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-06-11,1800,1800,1800,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-07-23,1600,1610,1605,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-08-16,1500,1500,1500,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-08-25,1500,1500,1500,117
+Madhya Pradesh,Sidhi,Sidhi,Kodo Millet(Varagu),Other,FAQ,2021-09-07,1700,2000,1900,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-02-20,1950,1950,1950,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-03-09,1800,1800,1800,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-03-15,1800,1800,1800,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-03-18,2000,2500,2000,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-04-19,1850,1850,1850,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-05-21,2000,2000,2000,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-05-23,2150,2300,2150,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-06-10,2300,2300,2300,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-07-08,2400,2400,2400,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-08-23,1800,2000,2000,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-08-24,2300,2300,2300,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-09-23,2100,2100,2100,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-09-27,2100,2100,2100,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-09-28,2100,2100,2100,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-10-11,1700,2200,2200,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-11-29,1800,1800,1800,117
+Madhya Pradesh,Singroli,Singroli,Kodo Millet(Varagu),Other,FAQ,2021-11-30,1800,1800,1800,117
+Madhya Pradesh,Umariya,Umariya,Kodo Millet(Varagu),Other,FAQ,2021-06-16,2000,2005,2002,117
+Madhya Pradesh,Umariya,Umariya,Kodo Millet(Varagu),Other,FAQ,2021-06-30,2250,2270,2260,117
+Madhya Pradesh,Umariya,Umariya,Kodo Millet(Varagu),Other,FAQ,2021-07-24,2350,2354,2352,117
+Madhya Pradesh,Umariya,Umariya,Kodo Millet(Varagu),Other,FAQ,2021-08-04,2350,2355,2352,117
+Madhya Pradesh,Umariya,Umariya,Kodo Millet(Varagu),Other,FAQ,2021-08-06,2300,2305,2302,117
+Madhya Pradesh,Umariya,Umariya,Kodo Millet(Varagu),Other,FAQ,2021-10-05,2275,2300,2290,117

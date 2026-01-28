@@ -1,0 +1,2068 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Haryana,Ambala,Ambala Cantt.,Leafy Vegetable,Other,FAQ,2007-03-13,200,400,300,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-01-13,350,350,350,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-01-14,350,350,350,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-01-15,300,300,300,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-01-17,350,350,350,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-02-03,350,700,550,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-02-10,400,500,450,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-02-16,200,250,210,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-02-23,300,450,400,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-03-26,450,600,450,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-09-05,550,650,600,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-09-26,1000,1000,1000,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-09-28,900,900,900,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-11-14,300,500,400,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-11-22,350,400,350,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-11-28,300,400,300,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-11-29,300,400,300,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-12-04,300,300,300,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-12-12,400,400,400,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-12-19,300,400,300,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-12-22,350,350,350,171
+Haryana,Panchkula,Barwala,Leafy Vegetable,Other,FAQ,2009-12-27,250,350,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-01-13,200,300,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-01-17,100,300,200,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-01-21,100,300,200,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-01-22,100,300,200,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-01-27,100,400,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-01-30,100,400,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-02-02,100,400,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-02-11,100,400,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-02-13,100,400,200,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-02-23,100,400,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-02-26,100,400,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-03-04,100,400,250,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-03-19,200,400,300,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-03-23,200,400,300,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-03-25,250,300,275,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-03-27,200,400,300,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-04-10,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-04-15,250,500,375,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-04-16,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-04-18,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-04-24,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-04-27,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-04-28,200,500,350,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-05-06,200,500,350,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-05-20,200,500,350,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-05-22,250,500,375,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-05-30,350,500,425,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-06-03,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-06-06,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-06-08,150,500,300,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-07-19,300,600,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-10-01,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-10-07,300,500,400,171
+Haryana,Yamuna Nagar,Yamuna Nagar,Leafy Vegetable,Other,FAQ,2009-10-08,300,500,400,171
+Himachal Pradesh,Bilaspur,Bilaspur,Leafy Vegetable,Other,FAQ,2009-11-25,700,800,800,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Leafy Vegetables,FAQ,2009-12-06,400,450,450,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2009-11-03,800,800,800,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2009-11-04,750,900,900,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2009-11-06,800,900,900,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2009-11-07,800,900,900,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2009-11-11,800,900,900,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2009-11-16,800,900,900,171
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Leafy Vegetable,Leafy Vegetables,FAQ,2009-11-07,700,800,800,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-01-05,300,400,350,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-01-20,200,300,250,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-01-27,1000,1500,1250,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-02-19,150,200,180,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-02-24,200,300,250,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-03-01,150,200,180,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-03-02,150,200,180,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-03-05,200,500,300,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-03-08,300,400,350,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-03-13,300,400,350,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-03-29,300,1000,800,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-03-30,200,700,500,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-04-13,400,700,550,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-06-15,700,800,750,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-06-26,400,500,450,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-07-03,400,500,450,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-08-03,700,800,750,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-08-17,1000,1100,1050,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-12-10,400,600,500,171
+Himachal Pradesh,Kullu,Bhuntar,Leafy Vegetable,Other,FAQ,2009-12-30,1000,1500,1200,171
+Himachal Pradesh,Kullu,Kullu,Leafy Vegetable,Other,FAQ,2009-01-09,200,300,250,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-01-01,300,300,300,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-01-14,300,300,300,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-01-15,300,300,300,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-01-20,300,300,300,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-01-29,400,400,400,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-02-01,300,300,300,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-02-11,400,400,400,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-03-08,300,400,300,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-03-19,600,600,600,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-07-17,1000,1000,1000,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-09-30,1000,1000,1000,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-10-22,800,800,800,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-11-12,400,400,400,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-11-19,400,400,400,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-11-24,500,500,500,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-11-27,400,400,400,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-12-03,500,500,500,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-12-17,400,400,400,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2009-12-24,400,400,400,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-01-09,300,500,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-01-29,200,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-01-31,200,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-02-01,300,500,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-02-05,200,300,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-02-07,300,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-02-13,200,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-02-22,200,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-04,300,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-05,300,400,400,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-12,200,500,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-16,300,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-24,300,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-25,300,400,400,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-26,300,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-03-28,300,400,300,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-04-01,300,400,400,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-10-15,800,800,800,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-11-06,300,500,500,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2009-11-09,500,600,500,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-06-24,1800,3000,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-06-29,1800,2500,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-09,1300,2500,1900,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-03,1300,2000,1900,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-07,800,2000,1400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-12,1000,2000,1500,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-20,1000,2000,1500,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-09-14,1800,2500,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-10-13,1800,3000,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-10-28,1800,3000,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-04,1800,3000,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-13,1800,3000,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-16,1600,2500,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-17,1800,3000,2400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-11,800,2000,1500,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-16,600,2000,1500,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-17,800,2000,1900,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-28,800,2000,1400,171
+Karnataka,Shimoga,Shimoga,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-30,800,2000,1400,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-01-08,2700,2900,2800,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-01-29,3000,3200,3100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-01-30,2750,2900,2800,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-02-07,3000,3200,3100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-02-12,3200,3400,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-02-20,2700,2900,2800,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-02-27,2850,3000,2900,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-03-06,3000,3200,3100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-03-12,2400,2600,2500,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-03-13,2400,2600,2500,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-03-18,2600,2700,2650,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-03-19,2450,2600,2500,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-03-30,3000,3200,3100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-04-04,2600,2800,2750,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-04-17,3000,3200,3100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-04-18,2650,2800,2700,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-04-25,3000,3200,3100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-05-02,3100,3300,3250,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-05-13,3200,3400,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-05-19,3200,3300,3250,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-02,3250,3400,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-07,3200,3300,3250,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-08,3200,3400,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-14,3250,3400,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-21,3200,3300,3250,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-28,3500,3650,3600,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-30,3400,3550,3500,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-13,3250,3300,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-09-09,3250,3400,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-10-03,3500,3700,3600,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-10-13,3700,3900,3800,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-12,3500,3700,3600,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-16,3500,3700,3600,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-17,4000,4150,4100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-25,4000,4200,4100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-11,3200,3400,3300,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-15,4000,4200,4100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Other,FAQ,2015-02-05,5500,5700,5600,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Other,FAQ,2015-12-03,3250,3400,3300,171
+Kerala,Wayanad,Sultan bathery,Leafy Vegetable,Leafy Vegetables,FAQ,2015-10-30,1800,2000,2000,171
+Kerala,Wayanad,Sultan bathery,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-18,1900,2000,1950,171
+Kerala,Wayanad,Sultan bathery,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-24,2000,2000,2000,171
+Kerala,Wayanad,Sultan bathery,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-09,2000,2000,2000,171
+Kerala,Wayanad,Sultan bathery,Leafy Vegetable,Leafy Vegetables,FAQ,2015-12-10,2000,2100,2050,171
+Maharashtra,Nandurbar,Navapur,Leafy Vegetable,Other,FAQ,2015-11-04,2000,2000,2000,171
+Maharashtra,Nandurbar,Navapur,Leafy Vegetable,Other,FAQ,2015-11-19,2000,2000,2000,171
+Maharashtra,Nandurbar,Navapur,Leafy Vegetable,Other,FAQ,2015-12-05,1200,1200,1200,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-04-10,1200,1400,1300,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-04-13,1000,1200,1100,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-04-15,1200,1400,1300,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-04-17,1000,1400,1200,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-04-24,1000,1200,1100,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-05-02,1000,1400,1200,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-05-13,800,1000,900,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-05-14,900,1200,1000,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-05-15,1200,1400,1300,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-05-20,1400,1600,1500,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-05-21,1200,1400,1300,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-05-30,1000,1200,1100,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-06-11,1000,1200,1100,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-06-16,1100,1300,1200,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-06-23,1400,1500,1450,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-06-25,1400,1600,1500,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-07-01,1400,1600,1500,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-07-06,1200,1600,1400,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-07-15,1400,1800,1600,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-07-28,1200,1600,1400,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-08-12,1200,1600,1400,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-08-17,1000,2000,1500,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-08-19,1200,1600,1400,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-08-27,20,30,25,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-08-31,1500,2000,1800,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-09-08,1200,1600,1400,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-09-15,1000,2000,1500,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-10-01,700,900,800,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-10-05,800,1000,900,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-10-06,1000,1200,1100,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-10-08,800,1200,1000,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-10-09,1000,1200,1100,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-10-27,1100,1200,1150,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-11-04,900,1400,1200,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-11-09,800,1200,1000,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-11-19,1200,1400,1300,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-11-20,1000,1200,1100,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-11-24,800,1200,900,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-11-26,1000,1100,1050,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-12-02,600,850,700,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-12-16,800,1200,1050,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-12-18,1000,1400,1250,171
+Maharashtra,Thane,Bhivandi,Leafy Vegetable,Other,FAQ,2015-12-31,700,1100,950,171
+Maharashtra,Thane,Ulhasnagar,Leafy Vegetable,Other,FAQ,2015-12-09,4000,6000,4500,171
+Maharashtra,Thane,Ulhasnagar,Leafy Vegetable,Other,FAQ,2015-12-16,3000,6000,4500,171
+Maharashtra,Thane,Ulhasnagar,Leafy Vegetable,Other,FAQ,2015-12-28,2500,5500,4000,171
+Maharashtra,Thane,Ulhasnagar,Leafy Vegetable,Other,FAQ,2015-12-31,2000,5000,3500,171
+Meghalaya,East Khasi Hills,Sohra,Leafy Vegetable,Other,FAQ,2015-07-02,7000,9000,8000,171
+Meghalaya,South West Khasi Hills,Mawkyrwat,Leafy Vegetable,Other,FAQ,2015-06-26,8000,8500,8250,171
+Meghalaya,South West Khasi Hills,Mawkyrwat,Leafy Vegetable,Other,FAQ,2015-08-20,8000,8500,8250,171
+Meghalaya,West Jaintia Hills,Jowai,Leafy Vegetable,Other,FAQ,2015-01-15,6000,8000,7000,171
+Meghalaya,West Jaintia Hills,Jowai,Leafy Vegetable,Other,FAQ,2015-01-31,6000,8000,7000,171
+Meghalaya,West Jaintia Hills,Jowai,Leafy Vegetable,Other,FAQ,2015-02-24,4500,6000,5000,171
+Meghalaya,West Jaintia Hills,Jowai,Leafy Vegetable,Other,FAQ,2015-04-23,3000,4000,3500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-04-20,1300,1500,1400,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-05-06,2000,2500,2250,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-05-21,2500,3000,2750,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-06-05,1700,2100,1900,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-06-18,1400,1800,1600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-06-22,1200,1600,1400,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-14,1700,1900,1800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-17,1300,1400,1350,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-23,1100,1500,1300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-29,1000,1400,1200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-10,1500,2000,1700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-20,1200,1600,1400,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-09-01,1200,1300,1250,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-09-08,900,1100,1000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-09-18,1400,1800,1600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-09-23,1200,1700,1500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-02,1200,1500,1300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2015-11-05,1000,1200,1100,171
+Nagaland,Kohima,Kohima,Leafy Vegetable,Leafy Vegetables,FAQ,2015-02-11,2000,2500,2250,171
+Nagaland,Kohima,Kohima,Leafy Vegetable,Leafy Vegetables,FAQ,2015-04-16,1500,2000,1750,171
+Nagaland,Kohima,Kohima,Leafy Vegetable,Leafy Vegetables,FAQ,2015-04-18,1000,1500,1250,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2015-07-15,800,1000,900,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-19,1200,1300,1250,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2015-08-28,1300,1500,1400,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-07-15,4200,4800,4350,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-07-29,4600,5000,4800,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-08-05,4200,4700,4500,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-08-12,4600,5200,5000,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-08-19,4800,5400,5200,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-09-16,4600,5100,5000,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-11-18,4300,4500,4400,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-11-25,4500,4800,4600,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Other,FAQ,2015-12-16,4300,4700,4500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-02-09,1200,1500,1500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-02-23,1000,1500,1500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-03-09,1000,1200,1200,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-04-20,1500,2000,2000,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-05-04,1500,2000,2000,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-07-06,3000,4000,4000,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-09-14,1200,1500,1500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-11-23,2000,2500,2500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2015-12-07,1500,2000,2000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2015-04-23,1800,2000,2000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2015-10-29,1800,2000,1800,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2015-11-12,1800,2000,1800,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-05,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-11,800,1000,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-14,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-20,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-23,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-24,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-01-31,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-02-02,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-02-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-06-26,1000,1500,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-06-27,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-06-29,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-03,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-04,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-14,1000,1200,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-15,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-18,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-25,1000,1300,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-27,1000,1200,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-07-31,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-08-03,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-08-18,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-08-23,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-08-29,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-08-30,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-09-01,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-09-09,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-09-12,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-09-14,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-09-17,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-09-19,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-10-21,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-11-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-11-08,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-12-08,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-12-12,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-12-19,600,700,600,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2015-12-28,1000,1500,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-03,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-05,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-10,800,1000,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-12,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-19,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-21,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-27,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-01-29,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-02-01,800,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-06-25,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-06-27,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-06-28,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-07-02,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-07-04,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-07-17,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-07-18,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-07-20,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-07-31,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-08-01,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-08-05,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-08-09,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-08-16,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-08-19,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-09-02,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-09-06,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-09-09,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-09-10,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-09-15,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-09-16,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-10-12,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-10-23,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-11-06,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-11-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-11-11,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-11-20,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-11-21,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-11-28,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-01,800,1000,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-08,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-13,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-17,800,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-27,1000,1500,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-28,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-29,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2015-12-30,1000,1200,1000,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2015-01-06,800,820,810,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2015-01-09,800,900,850,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2015-02-05,800,1000,900,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2015-03-11,800,900,850,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2015-04-07,1000,1100,1050,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2015-06-02,700,800,750,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-02-09,1400,1500,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-02-10,1500,2000,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-02-17,1400,1500,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-02-25,1500,2000,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-03-03,1500,1500,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-03-09,1500,2000,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-04-24,3000,3500,3500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-05-09,3500,3600,3600,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-11-30,4000,4500,4100,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-12-09,3400,3500,3500,171
+Punjab,Amritsar,Majitha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-02,700,900,900,171
+Punjab,Amritsar,Majitha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-04,700,900,900,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-06,400,600,500,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-07,400,600,500,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-13,400,600,500,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-17,300,500,400,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-03,200,400,300,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-06,200,400,300,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-10,200,400,300,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-13,3000,4000,3500,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-21,800,1000,900,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-23,800,1000,900,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-28,1300,1500,1400,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-30,1000,1200,1100,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-27,2300,2500,2400,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-19,1500,2500,2000,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-01-12,1400,1600,1500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-01-17,1400,1500,1500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-01-29,1200,1400,1300,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-01-31,1200,1400,1300,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-02-04,1400,1600,1500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-02-06,1400,1600,1500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-02-10,1200,1400,1300,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-02-15,1300,1500,1400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-03-10,800,1000,900,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-03-14,800,1000,900,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-03-15,750,950,850,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-03-19,750,950,850,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2019-03-24,550,650,600,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-08,800,1200,1000,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-09,1000,1400,1200,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-18,800,1000,900,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-24,600,800,700,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-27,700,1000,800,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-15,1000,1500,1200,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-16,800,1500,1000,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-18,800,1200,1000,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-02,800,1200,1000,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-09,1200,1800,1500,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-13,1000,1600,1200,171
+Punjab,Muktsar,Muktsar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-23,1000,1500,1200,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2019-01-01,400,600,500,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2019-01-16,400,700,500,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2019-01-17,500,600,550,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2019-01-26,400,600,500,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2019-03-14,800,1000,900,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2019-12-16,500,900,700,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2019-12-17,500,800,700,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-09-30,1500,1500,1500,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-10-08,1600,1600,1600,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-10-11,1600,1600,1600,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-10-12,1500,1500,1500,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-10-15,1800,1800,1800,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-11-21,1300,1300,1300,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-11-23,1500,1500,1500,171
+Punjab,Nawanshahr,Nawan Shahar(Mandi Aur),Leafy Vegetable,Other,FAQ,2019-12-09,1500,1500,1500,171
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Leafy Vegetable,Other,FAQ,2019-10-03,2000,2000,2000,171
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Leafy Vegetable,Other,FAQ,2019-10-07,1500,1500,1500,171
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Leafy Vegetable,Other,FAQ,2019-10-28,1700,1700,1700,171
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Leafy Vegetable,Other,FAQ,2019-11-06,1700,1700,1700,171
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Leafy Vegetable,Other,FAQ,2019-12-04,1500,1500,1500,171
+Punjab,Nawanshahr,Nawan Shahar(MandiRaho),Leafy Vegetable,Other,FAQ,2019-12-17,1500,1500,1500,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-04-05,800,1000,900,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-06-13,1000,1500,1250,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-09-26,1300,2000,1700,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-10-02,1000,2000,1650,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-10-04,1000,2000,1650,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-10-07,1400,2000,1800,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-10-09,1000,1500,1350,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-10-23,1000,2000,1650,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-11-01,1000,2000,1650,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-11-12,1000,1500,1200,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-12-12,1000,1500,1200,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-12-13,1200,1500,1300,171
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Leafy Vegetable,Other,FAQ,2019-12-16,1000,1500,1200,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-03,400,500,500,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-14,500,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-25,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-02,500,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-08,500,700,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-11,500,700,550,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-13,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-15,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-18,600,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-22,500,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-27,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-05,600,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-08,600,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-12,700,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-20,800,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-28,700,1000,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-01,800,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-04,900,1100,1100,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-18,800,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-19,800,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-22,700,800,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-24,500,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-25,800,900,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-28,700,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-04,700,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-06,700,1200,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-10,700,900,900,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-13,700,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-17,600,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-30,500,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-23,1900,2100,2100,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-28,1700,4500,2100,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-01,1400,1400,1400,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-02,1200,1600,1400,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-23,600,900,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-25,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-18,700,700,700,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-07,300,350,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-12,200,250,200,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-15,200,250,200,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-22,300,350,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-26,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-27,300,400,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-05,300,300,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-09,1100,1200,1100,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-13,600,700,600,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-23,600,700,600,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-25,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-27,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-29,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-05,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-11,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-12,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-20,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-27,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-28,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-29,500,500,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-06,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-07,300,400,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-08,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-22,300,400,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-23,400,500,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-24,300,400,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-27,400,400,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-29,300,400,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-30,400,400,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-31,300,400,300,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-07-29,800,1000,900,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-08-20,1400,1500,1450,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-22,1000,1200,1100,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-10-02,1500,1600,1550,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-01,300,350,320,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-06,400,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-10,300,500,400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-17,400,500,450,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-29,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-30,200,300,250,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-31,400,500,450,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-13,400,500,450,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-19,300,500,400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-24,300,380,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-25,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-28,200,300,250,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-03-08,400,500,450,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-03-15,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-12,1000,1400,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-19,1000,1700,1500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-20,1000,1700,1400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-27,1200,1800,1400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-29,1000,1600,1300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-09-04,800,1400,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-09-10,1400,1600,1500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-09-18,1600,2000,1800,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-09-20,1600,2000,1800,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-09-21,5000,6000,5500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-05,2200,2600,2400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-10,1000,1300,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-12,1600,2000,1800,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-22,1200,1400,1300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-23,1200,1400,1300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-24,1200,1600,1400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-30,1000,1500,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-01,1200,1600,1400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-04,300,350,300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-05,300,400,300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-12,800,1000,900,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-17,800,1500,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-19,400,500,450,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-27,300,500,400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-02,500,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-06,600,1000,800,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-11,500,800,700,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-14,400,500,400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-17,600,700,650,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-19,500,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-25,400,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-26,400,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-29,500,700,600,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-31,500,700,500,171
+Andaman and Nicobar,South Andaman,Port Blair,Leafy Vegetable,Other,FAQ,2019-03-04,3000,4000,3500,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-05,1200,1500,1350,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-12,750,1300,850,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-08,500,700,600,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-16,500,1000,700,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-22,600,1000,800,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-05,500,1000,750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-08,500,750,600,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-09,600,1000,700,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-27,750,1000,900,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-02,750,1000,900,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-03,1000,1250,1125,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-08,1200,1500,1350,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-17,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-04,1500,2000,1750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-08,1250,1500,1400,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-09,1000,1250,1125,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-22,500,1000,750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-28,1000,1200,1100,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-31,700,800,750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-01,1000,1200,1100,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-03,1000,1200,1100,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-06,750,1000,900,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-18,1200,1500,1350,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-19,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-27,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-28,1000,1750,1400,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-03,1300,1400,1350,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-05,1500,2000,1750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-06,1400,1750,1600,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-12,1750,2000,1900,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-15,1500,2000,1750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-17,2000,2500,2250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-24,1000,1250,1125,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-26,1500,1750,1625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-09,3000,3500,3250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-24,4000,4500,4250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-26,2500,3000,2750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-30,2500,2750,2625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-09,2500,3000,2750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-10,2500,2750,2625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-22,2750,2850,2800,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-09,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-21,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-26,1750,2400,2100,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-28,2500,2600,2550,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-03,1500,1800,1650,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-10,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-13,1000,1250,1125,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-23,600,900,750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-24,900,1000,950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-04-16,3500,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-04-19,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-03,2000,2500,2300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-17,3500,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-18,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-20,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-30,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-06-15,2500,3500,3050,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-06-20,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-06-22,2500,3500,3050,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-04,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-07,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-16,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-21,3000,3750,3400,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-23,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-31,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-08-02,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-08-03,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-08-22,5000,6000,5550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-08-27,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-05,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-08,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-19,3500,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-20,3000,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-23,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-24,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-25,4000,4500,4300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-26,2500,3500,3050,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-29,3000,4000,3500,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-30,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-02,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-04,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-08,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-18,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-19,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-21,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-30,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-01,3500,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-08,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-09,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-20,1800,2000,1900,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-12-15,1800,2000,1950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-12-30,1800,2000,1900,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-01,600,600,600,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-07,600,600,600,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-17,500,500,500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-19,400,585,400,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-25,494,494,494,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-31,505,505,505,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-16,829,829,829,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-21,783,783,783,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-20,1236,1236,1236,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-01,2000,2000,2000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-03,1198,1198,1198,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-19,500,1491,1491,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-21,500,1500,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-22,800,1266,800,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-05,596,596,596,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-11,500,994,500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-22,530,530,530,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-13,6000,6300,6200,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-25,2100,2400,2300,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-15,2000,2300,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-08,1600,1900,1800,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-03,2100,2400,2300,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-11,2000,2300,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-17,2100,2400,2300,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-12,1900,2200,2000,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-09,1700,2100,1800,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-16,1800,2100,2000,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-13,1900,2200,2000,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-14,1600,1900,1800,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-18,1600,1900,1700,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-18,1600,1900,1700,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-17,1500,1800,1600,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-05,1400,1700,1500,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-23,1600,1900,1800,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-04,1600,1900,1700,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-25,1600,1900,1700,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-30,1800,2100,2000,171
+Nagaland,Mokokchung,Mokokchung Town,Leafy Vegetable,Other,FAQ,2019-09-28,1000,1400,1200,171
+Nagaland,Mokokchung,Mokokchung Town,Leafy Vegetable,Other,FAQ,2019-11-30,2000,3000,2500,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-19,1600,1900,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-15,1600,1900,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-12,1600,1900,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-10,1600,1900,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-05,1500,1800,1600,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-19,1700,2000,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-09,1800,2100,2000,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-23,1900,2200,2100,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-11,1900,2300,2100,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-18,1900,2200,2000,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-15,2000,2300,2200,171
+Nagaland,Phek,Pfatsero,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-23,2000,2200,2100,171
+Nagaland,Phek,Pfatsero,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-25,2000,2200,2100,171
+Nagaland,Phek,Pfatsero,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-01,2000,2200,2100,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-29,1200,1500,1300,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-19,1500,1800,1600,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-07,1900,2200,2100,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-14,2000,2300,2200,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-25,2100,2400,2300,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-14,1500,2200,2000,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-11,1500,2000,1800,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-09-09,1700,2000,1900,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-09-23,1700,2000,1900,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-10-28,2000,2300,2200,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-11-25,2100,2400,2300,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-12-16,2000,2300,2100,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-02-14,2000,2200,2100,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-02-16,2000,2200,2100,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-02-21,2400,2800,2600,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-03-14,2400,2600,2500,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-05-30,2500,2800,2700,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-07-18,2800,3000,2900,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-08-29,3200,3500,3400,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-09-26,3300,3700,3500,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-10-03,3200,3600,3400,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-10-24,3200,3600,3500,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-12-26,3000,3200,3100,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-17,5500,5800,5600,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-10,4500,4800,4700,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-14,6000,6500,6200,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-21,5800,6300,6000,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-04,5900,6300,6100,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-20,6200,6500,6400,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-23,2000,2300,2200,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-30,1900,2200,2000,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-14,1900,2200,2000,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-28,1900,2300,2000,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2019-03-04,1500,2000,1500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2019-04-29,1500,2000,1500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2019-05-13,1500,2000,1500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2019-10-14,2000,2500,2000,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2019-10-21,4000,5000,4000,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2019-11-11,2500,3000,2500,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-01-03,1800,2000,1800,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-02-21,2000,2500,2000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-03-28,2000,2500,2000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-04-04,2000,2500,2000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-05-09,2000,2500,2000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-06-06,2500,3000,2500,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-07-11,2500,3000,2500,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-08-01,2000,2500,2000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-08-22,2500,3000,2500,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-10-10,2500,3000,2500,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-11-21,2500,3000,2500,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2019-12-26,2000,2500,2000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-01-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-01-14,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-01-16,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-01-29,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-02-03,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-02-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-02-08,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-02-12,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-02-16,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-02-28,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-01,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-04,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-06,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-08,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-10,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-11,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-12,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-19,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-20,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-25,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-03-31,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-04-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-04-09,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-04-12,1000,1500,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-04-14,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-04-20,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-09,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-14,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-16,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-17,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-19,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-20,1000,1500,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-21,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-22,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-05-25,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-03,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-08,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-11,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-15,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-17,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-22,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-24,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-25,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-26,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-28,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-06-30,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-07-06,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-07-08,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-08-08,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-08-11,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-08-16,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-08-18,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-08-28,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-08-30,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-09-01,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-09-02,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-09-12,1000,1500,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-09-15,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-10-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-10-11,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-10-18,1000,1500,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-11-06,1500,2000,2000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-11-13,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-11-17,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-11-18,1500,2000,2000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-11-21,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-11-22,1500,2000,2000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-11-25,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-12-01,1000,2000,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-12-03,1000,1500,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-12-19,1800,2000,2000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-12-26,1500,1600,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-12-28,1500,2000,2000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-12-30,1000,1500,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2019-12-31,1500,2000,2000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-01-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-01-08,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-01-15,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-01-19,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-01-24,800,1000,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-01-28,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-02-02,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-02-14,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-02-17,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-02-21,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-02-22,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-03-13,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-03-18,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-03-24,1000,1500,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-03-30,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-04-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-04-09,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-04-10,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-04-11,1000,1500,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-05-06,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-05-11,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-05-14,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-05-23,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-05-26,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-05-31,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-06-02,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-06-05,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-06-06,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-06-21,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-06-22,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-06-24,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-06-25,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-07-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-07-10,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-07-11,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-07-12,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-08-06,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-08-12,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-08-13,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-08-14,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-08-25,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-08-31,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-09-02,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-09-11,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-09-16,1000,1500,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-09-19,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-09-22,1000,1500,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-09-25,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-09-26,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-10-03,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-10-15,2000,2500,2500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-10-22,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-10-29,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-11-04,1000,2000,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-11-05,1000,1500,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-11-11,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-11-12,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-12-01,1500,2000,2000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-12-09,1500,2000,2000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-12-10,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2019-12-20,1500,0,2000,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2019-07-02,400,600,500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-23,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-22,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-01,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-12,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-05,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-23,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-28,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-30,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-12,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-15,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-26,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-31,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-15,2500,3000,2800,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-06,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-11,2000,3000,2500,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-20,2000,3000,2500,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-01-04,700,1000,800,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-01-13,800,1000,900,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-01-21,1400,1600,1500,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-01-24,1000,1500,1200,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-01-27,800,1000,900,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-02-05,800,1000,900,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-02-06,1200,1500,1400,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-02-07,1200,1500,1400,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-02-11,1200,1500,1400,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-02-12,1200,1500,1400,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-02-13,1200,1500,1400,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-03-08,1500,2000,1600,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-03-18,1400,1600,1500,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-04-02,1800,2000,1900,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-04-06,1600,2000,1800,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-04-10,1400,1600,1500,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-04-22,2000,2500,2200,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-05-11,1000,1500,1200,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-05-20,1000,1500,1200,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-12-11,1500,2200,2000,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-12-16,1500,2000,1800,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-12-19,1000,2000,1500,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-12-23,1000,2000,1500,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-12-26,1500,2200,2000,171
+Odisha,Mayurbhanja,Betnoti,Leafy Vegetable,Other,FAQ,2019-12-28,1500,2200,2000,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-10,2000,3000,2500,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-24,2000,3000,2500,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-21,2000,3000,2500,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-31,2000,3000,2500,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-09,2000,3000,2500,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-30,2000,3000,2500,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-07,2000,3000,2500,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-14,2000,3000,2500,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-05,1000,1400,1200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-15,1300,1500,1400,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-22,1000,1250,1200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-27,1200,1500,1500,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-06,1000,1200,1200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-24,1000,1500,1200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-25,1500,1650,1600,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-07,1500,2000,2000,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-13,1400,1500,1500,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-15,1400,1500,1500,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-02,2400,2500,2500,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-30,4000,4500,4500,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-04,3500,4000,4000,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-23,3000,3500,3400,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-29,4500,4600,4600,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-01-05,1000,1500,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-01-08,1300,1500,1400,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2019-01-26,1500,2000,1600,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2014-06-09,1500,2000,1500,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2014-10-27,2500,3000,3000,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2014-11-10,2500,3000,3000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2014-05-01,1000,1200,1000,171
+Odisha,Bargarh,Godabhaga,Leafy Vegetable,Other,FAQ,2014-11-13,1500,2000,2000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-01-03,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-01-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-01-19,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-01-27,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-02-02,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-02-05,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-02-13,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-02-19,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-03-04,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-03-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-07-03,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-07-26,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-08-01,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-08-06,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-08-07,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-08-10,1500,1800,1800,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-08-14,1000,1200,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-08-16,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-09-01,1000,1200,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-09-10,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-09-15,1000,1200,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-09-27,1500,1600,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-10-05,1500,1600,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-10-09,1500,1600,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-10-20,1500,1600,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-10-23,1200,1600,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-11-09,1500,1600,1500,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-11-20,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-11-26,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-11-30,1000,1500,1200,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-12-05,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-12-22,1000,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-12-28,800,1200,1000,171
+Odisha,Dhenkanal,Dhenkanal,Leafy Vegetable,Other,FAQ,2014-12-31,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-01-06,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-01-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-01-09,1000,1500,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-01-10,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-01-19,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-01-22,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-01-24,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-02-01,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-02-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-02-08,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-02-14,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-02-15,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-03-02,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-03-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-05,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-08,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-09,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-15,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-19,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-20,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-07-24,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-01,1000,1200,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-05,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-06,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-07,1200,1500,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-08,1500,1800,1800,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-09,1200,1500,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-11,1000,1200,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-08-14,1000,1200,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-09-02,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-09-03,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-09-25,1500,1600,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-10-19,1000,1500,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-10-20,1000,1500,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-10-22,1000,1200,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-10-27,1200,1500,1200,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-11-04,1500,1600,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-11-11,1500,1600,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-11-13,1500,1600,1500,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-11-15,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-12-07,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-12-11,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-12-12,1000,1200,1000,171
+Odisha,Dhenkanal,Mottagaon,Leafy Vegetable,Other,FAQ,2014-12-30,800,1200,1000,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-01-20,1200,1300,1250,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-01-27,800,1000,900,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-02-01,1200,1250,1225,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-02-15,1400,1600,1500,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-03-01,1200,1250,1245,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-06-11,1000,1200,1100,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-06-24,1000,1050,1025,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-06-28,800,1000,900,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-06-30,1230,1260,1250,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-07-12,1000,1120,1060,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-07-23,1400,1600,1500,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-07-24,800,1000,900,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-07-26,1200,1250,1230,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-07-29,1000,1100,1060,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-08-03,1000,1200,1100,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-09-27,1200,2000,1500,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-10-17,1000,1200,1100,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-11-07,800,900,850,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-11-16,800,1000,900,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-12-12,800,1000,900,171
+Odisha,Koraput,Koraput,Leafy Vegetable,Other,FAQ,2014-12-20,800,1000,900,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-01-02,1600,1800,1700,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-01-04,1200,1500,1300,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-01-06,1400,1450,1425,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-01-20,1200,1400,1300,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-01-22,1200,1400,1300,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-01-31,800,1200,1000,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-02-09,1000,1200,1100,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-02-10,1000,1200,1100,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-02-17,1000,1050,1030,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-02-24,800,1000,900,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-02-27,800,1000,900,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-05-30,1000,1200,1100,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-06-08,1200,1400,1300,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-06-11,1200,1250,1230,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-06-13,1500,1600,1550,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-06-18,1500,2000,1800,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-06-30,1000,1050,1025,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-07-04,1200,1300,1250,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-07-11,1200,1400,1300,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-08-07,1000,1020,1010,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-08-10,1200,1260,1230,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-08-14,1000,1020,1010,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-10-06,1200,1400,1300,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-10-09,1000,1200,1100,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-11-15,800,1000,900,171
+Odisha,Koraput,Koraput(Semilguda),Leafy Vegetable,Other,FAQ,2014-11-21,800,900,850,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-01-26,800,1000,900,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-01-30,700,900,800,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-02-09,600,800,700,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-02-23,800,1000,900,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-04-03,800,1000,900,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-04-10,800,1000,900,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-04-27,800,1000,900,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-05-11,600,800,700,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-06-19,800,900,850,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-07-17,1000,1200,1100,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-07-20,1000,1200,1100,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-08-07,1000,1250,1200,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-09-11,1000,1200,1100,171
+Odisha,Mayurbhanja,Baripada,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-07,700,900,800,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2014-09-20,900,1100,1000,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-22,800,1000,900,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-20,700,800,750,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Other,FAQ,2014-02-08,700,900,800,171
+Odisha,Mayurbhanja,Saraskana,Leafy Vegetable,Other,FAQ,2014-05-17,700,900,800,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-04-30,1000,1000,1000,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-07-21,1000,1000,1000,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-10-18,1000,1000,1000,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-10-28,1000,1000,1000,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-04,1000,1000,1000,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-21,1200,1200,1200,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-28,1000,1000,1000,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-22,800,900,800,171
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-25,900,1000,900,171
+Odisha,Nowarangpur,Nawarangpur,Leafy Vegetable,Leafy Vegetables,FAQ,2014-02-09,1500,2000,1800,171
+Odisha,Nowarangpur,Nawarangpur,Leafy Vegetable,Leafy Vegetables,FAQ,2014-03-02,1500,2000,1600,171
+Odisha,Nowarangpur,Nawarangpur,Leafy Vegetable,Leafy Vegetables,FAQ,2014-10-17,2500,3000,2500,171
+Odisha,Nowarangpur,Nawarangpur,Leafy Vegetable,Leafy Vegetables,FAQ,2014-10-26,2000,3000,2500,171
+Odisha,Nowarangpur,Nawarangpur,Leafy Vegetable,Leafy Vegetables,FAQ,2014-10-31,2000,3000,2500,171
+Odisha,Nowarangpur,Nawarangpur,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-12,2000,3000,2500,171
+Odisha,Nowarangpur,Nawarangpur,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-14,2000,3000,2500,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-03,2500,2600,2600,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-09,2500,2600,2600,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-12,3000,3200,3200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-15,3000,3200,3200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-25,2500,2600,2600,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-26,2500,2600,2600,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-03,3000,3200,3200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-07,2000,2200,2200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-17,2000,2200,2200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-23,1000,1200,1200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-25,1000,1200,1200,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-29,1600,1700,1700,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-30,1800,1800,1800,171
+Odisha,Nuapada,Khariar,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-31,1800,2000,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-01-12,2000,2100,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-01-14,2400,2500,2500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-01-21,2000,2100,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-01-23,1000,1200,1200,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-02-01,2000,2200,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-02-03,2000,2200,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-02-08,1500,1600,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-02-09,1650,1700,1650,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-02-11,1600,1700,1600,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-02-20,2400,2500,2500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-02-27,1800,2000,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-03-01,1500,1600,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-03-04,2000,2100,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-03-13,2000,2100,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-03-20,1500,1600,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-03-22,2000,2100,2000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-03-24,1400,1500,1500,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-04-24,4000,4100,4000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-05-10,3000,3200,3000,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-12-18,1400,1500,1400,171
+Odisha,Nuapada,Khariar Road,Leafy Vegetable,Other,FAQ,2014-12-27,1500,1600,1500,171
+Punjab,Amritsar,Ajnala,Leafy Vegetable,Leafy Vegetables,FAQ,2014-01-15,400,400,400,171
+Punjab,Amritsar,Ajnala,Leafy Vegetable,Leafy Vegetables,FAQ,2014-01-20,300,400,400,171
+Punjab,Amritsar,Ajnala,Leafy Vegetable,Leafy Vegetables,FAQ,2014-01-22,500,500,500,171
+Punjab,Amritsar,Ajnala,Leafy Vegetable,Leafy Vegetables,FAQ,2014-03-17,1200,1500,1500,171
+Punjab,Amritsar,Ajnala,Leafy Vegetable,Leafy Vegetables,FAQ,2014-03-23,1200,1600,1200,171
+Punjab,Barnala,Tapa,Leafy Vegetable,Other,FAQ,2014-03-21,1000,1000,1000,171
+Punjab,Barnala,Tapa,Leafy Vegetable,Other,FAQ,2014-07-02,900,900,900,171
+Punjab,Ferozpur,Talwandi Bhai,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-14,500,500,500,171
+Punjab,Ferozpur,Talwandi Bhai,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-17,600,600,600,171
+Punjab,Ferozpur,Talwandi Bhai,Leafy Vegetable,Leafy Vegetables,FAQ,2014-11-28,300,300,300,171
+Punjab,Ferozpur,Talwandi Bhai,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-04,400,400,400,171
+Punjab,Ferozpur,Talwandi Bhai,Leafy Vegetable,Leafy Vegetables,FAQ,2014-12-12,450,450,450,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Other,FAQ,2014-01-08,100,300,200,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Other,FAQ,2014-11-16,800,1000,900,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Other,FAQ,2014-11-18,700,900,800,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Other,FAQ,2014-11-23,400,600,500,171
+Punjab,Ferozpur,Zira,Leafy Vegetable,Other,FAQ,2014-11-25,400,600,500,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-10-19,900,1000,950,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-10-21,900,1000,950,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-10-22,900,1000,950,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-10-26,900,1000,950,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-10-30,800,900,850,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-10-31,800,900,850,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-02,800,900,850,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-09,500,600,550,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-13,400,500,450,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-14,400,500,450,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-22,500,600,550,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-24,500,600,550,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-27,800,900,850,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-11-29,800,900,850,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-12-03,800,900,850,171
+Punjab,Hoshiarpur,Hoshiarpur(Sham Churasi),Leafy Vegetable,Other,FAQ,2014-12-06,400,500,450,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-01-14,300,400,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-01-15,300,350,350,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-01-16,200,500,300,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-01-18,500,700,600,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-01-19,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-01-22,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-01-24,500,500,500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-03,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-07,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-11,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-15,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-17,400,500,500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-22,500,600,600,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-24,500,600,600,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-26,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-02-28,500,700,600,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-03-03,400,600,500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-03-04,300,500,400,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-03-20,500,600,600,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-04-11,500,700,600,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-04-15,400,500,500,171
+Punjab,Jalandhar,Noor Mehal,Leafy Vegetable,Other,FAQ,2014-04-21,500,700,600,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-01-11,300,300,300,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-01-18,400,450,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-01-20,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-01-22,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-01-29,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-01-30,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-01-31,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-02-05,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-02-24,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-02-26,300,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-03-14,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-03-18,450,450,450,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-02,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-04,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-07,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-08,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-16,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-22,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-25,450,450,450,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-04-27,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-06,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-12,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-15,800,1000,1000,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-22,900,900,900,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-23,1000,1000,1000,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-24,1000,1000,1000,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-26,1000,1000,1000,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-05-27,800,1000,1000,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-06-02,1000,1000,1000,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-10-07,600,700,700,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-10-15,800,900,900,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-11-14,400,400,400,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-11-24,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-11-26,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-11-27,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-12-11,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-12-20,500,500,500,171
+Punjab,Ludhiana,Machhiwara,Leafy Vegetable,Other,FAQ,2014-12-22,500,500,500,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2014-01-25,500,700,600,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2014-01-28,500,700,600,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2014-02-07,500,700,600,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2014-02-18,500,700,600,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2014-05-30,1000,1300,1200,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2014-06-04,1200,1500,1400,171
+Punjab,Nawanshahr,Balachaur,Leafy Vegetable,Other,FAQ,2014-08-11,2000,2000,2000,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-28,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-29,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-08-04,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-08-17,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-08-26,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-01,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-03,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-04,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-07,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-09-14,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-07,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-11,3500,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-12,3500,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-15,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-23,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-10-31,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-04,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-15,2300,2500,2450,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-19,2000,2500,2300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-24,1500,2000,1800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-25,1800,2000,1900,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-11-28,2000,2300,2100,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-12-18,1800,2000,1900,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-12-23,1800,2000,1900,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-09,530,600,530,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-11,600,600,600,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-01,505,505,505,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-08,605,605,605,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-09,688,1000,688,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-28,813,813,813,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-12,766,766,766,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-16,1168,1168,1168,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-24,1500,1500,1500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-09,1000,1503,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-11,1500,1500,1500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-15,1000,2000,1235,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-17,700,800,800,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-28,600,800,800,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-30,600,805,600,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-31,500,1200,1200,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-08,400,400,400,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-09,500,598,598,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-14,614,700,700,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-16,500,800,706,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-20,608,800,608,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-17,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-21,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-23,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-25,500,600,600,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-04,600,1200,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-10,800,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-14,700,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-15,800,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-16,900,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-17,700,900,900,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-27,800,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-06,1000,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-09,800,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-10,800,1100,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-11,900,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-27,800,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-29,700,800,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-02,800,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-08,700,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-11,700,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-20,700,1000,1000,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-25,700,800,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-02,700,700,700,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-04,650,700,650,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-09,3400,3400,3400,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-14,700,1000,800,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-24,800,1100,900,171
+Punjab,Sangrur,Sangrur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-25,500,800,700,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-06,250,300,250,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-08,300,350,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-18,300,300,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-25,300,400,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-11,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-12,600,600,600,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-14,600,600,600,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-17,600,700,600,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-01,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-03,400,500,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-25,500,600,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-02,400,400,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-05,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-09,500,500,500,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-10,300,400,300,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-15,400,500,400,171
+Punjab,Tarntaran,Harike,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-26,300,400,300,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-01-01,400,500,450,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-08-27,1000,1200,1100,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-08-29,1400,1500,1450,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-02,1800,2000,1900,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-16,1600,1800,1700,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-17,1800,2000,1900,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-20,2000,2500,2250,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-21,1800,2000,1900,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-23,1200,1300,1250,171
+Punjab,Tarntaran,Khadur Sahib(Fetehabad),Leafy Vegetable,Other,FAQ,2019-09-24,1500,1600,1550,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-02,200,300,250,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-04,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-05,400,530,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-12,500,700,600,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-01-27,300,500,400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-01,200,400,300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-02,400,500,450,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-04,400,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-05,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-16,400,500,450,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-20,400,500,420,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-02-21,400,480,420,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-03-16,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-03-18,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-03-23,300,400,350,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-06,800,1400,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-09,900,1500,1300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-17,1000,1500,1300,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-21,1000,1800,1400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-24,1200,1800,1600,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-26,1100,1700,1400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-08-31,1200,1800,1500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-09-03,800,1700,1400,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-03,1600,2200,1800,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-04,1600,2200,1800,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-07,1400,2100,1500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-09,1000,1800,1600,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-10-20,1000,1400,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-08,1000,1400,1200,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-16,700,1500,1100,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-22,800,1000,900,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-25,500,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-26,400,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-29,400,500,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-11-30,400,500,420,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-01,400,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-03,700,900,800,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-04,400,520,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-08,400,530,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-15,500,600,500,171
+Punjab,Tarntaran,Patti,Leafy Vegetable,Other,FAQ,2019-12-20,500,600,600,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-20,700,700,700,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-23,598,598,598,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-24,700,700,700,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-27,596,596,596,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-30,597,800,597,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-01-01,400,500,500,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-01-02,500,500,500,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-01-03,500,500,500,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-01-12,600,600,600,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-01-23,700,700,700,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-02-02,800,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-02-04,300,500,400,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-03-02,700,700,700,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-03-04,700,700,700,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-03-20,900,900,900,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-03-25,600,700,700,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-03-29,600,600,600,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-04-19,700,800,800,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-04-23,3800,3800,3800,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-04-24,700,700,700,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-05-19,800,800,800,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-07-20,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-08-06,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-08-12,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-08-13,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-08-16,900,900,900,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-08-21,1000,1200,1200,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-08-24,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-09-06,1200,1200,1200,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-09-11,1200,1200,1200,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-09-27,1400,1500,1500,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-10-10,1500,1500,1500,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-10-11,1500,1500,1500,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-10-12,1500,1600,1600,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-10-13,1200,1500,1500,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-10-28,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-11-01,900,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-11-09,900,1200,1200,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-11-25,800,900,900,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-11-28,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-12-05,800,900,900,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-12-15,800,800,800,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2019-12-23,700,800,800,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-29,700,800,700,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-04,500,600,500,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-06,600,700,600,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-09,600,700,600,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-12,500,600,500,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-18,500,600,500,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-20,600,700,600,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-23,600,700,600,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-02,600,700,600,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-08,800,1000,800,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-16,800,1000,800,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-22,800,1000,800,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-28,800,1000,800,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-21,1000,1500,1200,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-22,1200,1500,1200,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-24,1000,1500,1200,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-29,1000,1500,1200,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-24,1000,1500,1200,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-28,800,1000,800,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-07,1200,2000,1500,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-13,600,1500,1400,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-19,700,800,750,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-21,500,800,600,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-29,600,3800,1200,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-01,1000,1200,1100,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-03,1000,1200,1100,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-04,800,1000,900,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-17,800,900,850,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-19,500,800,700,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-18,800,1200,1000,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-22,600,800,700,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-27,500,700,600,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-13,800,1200,1000,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-21,2000,2200,2100,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-04,800,1200,1000,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-11,600,800,700,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-12,1500,2000,1750,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-21,800,1200,1000,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-25,800,1000,900,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-30,1000,1500,1250,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-08,500,600,550,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-09,500,600,550,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-17,1000,1800,1500,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-18,1000,1500,1200,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-21,1000,1500,1200,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-18,1200,2200,1500,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-01-25,1500,1600,1600,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-10-22,1500,2500,2000,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-10-26,1400,2000,1700,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-11-06,1200,2000,1600,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-11-21,1400,1800,1600,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-12-07,1000,1500,1250,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-12-09,1200,1500,1350,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2019-12-23,1400,1600,1500,171
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Leafy Vegetable,Other,FAQ,2019-12-02,1600,2200,1900,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2019-10-15,800,1000,900,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2019-11-26,900,1100,1000,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2019-01-24,800,1000,900,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2019-02-08,600,800,700,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2019-02-13,800,1000,900,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2019-02-23,900,1000,950,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2019-10-24,1400,1800,1600,171
+Karnataka,Hassan,Hassan,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-20,2300,2300,2300,171
+Karnataka,Hassan,Hassan,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-24,1540,2490,1920,171
+Karnataka,Hassan,Hassan,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-10,1600,1600,1600,171
+Karnataka,Hassan,Hassan,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-28,2790,2790,2790,171
+Karnataka,Hassan,Hassan,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-19,2698,2698,2698,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-24,3200,3300,3250,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-27,3000,3200,3100,171
+Kerala,Alappuzha,Cherthala,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-07,3200,3300,3250,171
+Madhya Pradesh,Dhar,Dhamnod,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-08,500,800,700,171
+Madhya Pradesh,Dhar,Dhamnod,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-25,1500,1700,1650,171
+Madhya Pradesh,Dhar,Dhamnod,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-27,700,900,800,171
+Madhya Pradesh,Dhar,Dhamnod,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-22,1200,1600,1400,171
+Madhya Pradesh,Dhar,Dhamnod,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-06,700,900,800,171
+Madhya Pradesh,Dhar,Dhamnod,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-11,700,900,800,171
+Madhya Pradesh,Dhar,Dhamnod,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-02,600,800,700,171
+Maharashtra,Nagpur,Parshiwani,Leafy Vegetable,Other,FAQ,2019-07-01,1500,3000,2000,171
+Maharashtra,Nagpur,Parshiwani,Leafy Vegetable,Other,FAQ,2019-07-15,1200,3000,1800,171
+Maharashtra,Nagpur,Parshiwani,Leafy Vegetable,Other,FAQ,2019-07-22,1000,2500,1600,171
+Maharashtra,Nagpur,Parshiwani,Leafy Vegetable,Other,FAQ,2019-08-05,1400,3200,2000,171
+Maharashtra,Nagpur,Parshiwani,Leafy Vegetable,Other,FAQ,2019-08-19,1400,3000,1800,171
+Maharashtra,Nagpur,Parshiwani,Leafy Vegetable,Other,FAQ,2019-09-02,700,1500,1200,171
+Meghalaya,West Garo Hills,Tura,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-12,2500,3000,2800,171
+Meghalaya,West Garo Hills,Tura,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-04,4000,4500,4400,171
+Meghalaya,West Garo Hills,Tura,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-11,4000,4500,4400,171
+Meghalaya,West Garo Hills,Tura,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-25,3500,4000,3800,171
+Meghalaya,West Garo Hills,Tura,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-09,4200,4500,4400,171
+Meghalaya,West Jaintia Hills,Jowai,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-17,8000,10000,9000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-02,2400,2800,2600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-15,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-16,2400,2900,2600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-21,2400,2800,2600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-24,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-30,2600,3100,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-01,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-09,2600,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-12,2600,3100,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-16,2600,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-26,2500,2800,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-01,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-18,2800,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-19,2800,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-25,3100,3500,3300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-03,2800,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-04,3000,3400,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-12,3000,3400,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-15,3000,3500,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-20,3000,3400,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-22,3000,3500,3300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-26,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-02,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-03,2600,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-04,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-11,2600,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-15,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-20,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-25,3000,3400,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-12,2300,2800,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-21,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-26,2400,2800,2600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-29,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-01,2400,2800,2600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-02,2400,2800,2600,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-03,2300,2700,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-04,2300,2800,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-08,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-09,2300,2800,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-19,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-08,2600,3200,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-10,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-14,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-16,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-24,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-30,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-31,2700,3300,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-02,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-03,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-09,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-19,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-27,2600,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-08,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-09,2500,3200,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-21,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-29,2600,3100,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-11,3000,3600,3300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-26,2800,3300,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-27,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-03,2800,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-07,3000,3400,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-13,2800,3200,3000,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-11,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-01,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-24,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-31,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-07,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-05,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-25,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-13,4000,4300,4200,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-14,2000,2300,2100,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-20,2100,2400,2300,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-20,2200,2500,2400,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-01,3600,3900,3800,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-05,4500,4800,4600,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-24,4800,5000,4900,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-02,4500,4800,4700,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-30,7500,7700,7600,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-06,4500,4800,4700,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-20,4500,4700,4600,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-27,6000,6300,6200,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-18,6000,6200,6100,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-01,4500,4700,4600,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-04,1800,2100,2000,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-22,1900,2200,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-05,2000,2300,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-12,2000,2300,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-19,2100,2400,2300,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-26,2000,2300,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-19,2000,2300,2200,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-30,1800,2100,1900,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-20,1900,2200,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-04,1800,2100,1900,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-18,1800,2100,1900,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-25,1900,2200,2100,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-29,2000,2300,2200,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-11,1700,1900,1800,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-01,1600,1900,1700,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-22,1700,2000,1800,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-08,1500,1800,1700,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-22,1700,2000,1900,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-30,1800,2100,2000,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-09,1600,1900,1700,171
+Nagaland,Mokokchung,Mokokchung Town,Leafy Vegetable,Other,FAQ,2019-08-31,2000,2400,2200,171
+Nagaland,Mokokchung,Mokokchung Town,Leafy Vegetable,Other,FAQ,2019-09-21,1000,1400,1200,171
+Nagaland,Mokokchung,Mokokchung Town,Leafy Vegetable,Other,FAQ,2019-11-09,1000,1400,1200,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-11,1400,1700,1600,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-08,1500,1800,1700,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-29,1600,1900,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-28,1600,1900,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-02,1700,2000,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-16,1700,2000,1800,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-20,1800,2100,1900,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-04,1900,2200,2000,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-20,2000,2300,2200,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-27,1900,2200,2000,171
+Nagaland,Phek,Pfatsero,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-01,1600,1800,1700,171
+Nagaland,Phek,Pfatsero,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-04,1900,2100,2000,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-26,1400,1700,1500,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-16,1500,1800,1700,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-02,2000,2300,2100,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-31,1500,2000,1800,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-07,2000,2500,2200,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-18,1500,2000,1800,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-25,1000,1500,1200,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-27,1000,2000,1500,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-04,1000,2000,1500,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-08-12,1400,1700,1500,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-08-26,1500,1800,1700,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-09-30,1600,1900,1700,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2019-11-18,2000,2300,2200,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-01-25,2100,2300,2200,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-03-07,2400,2600,2500,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-05-09,2300,2600,2500,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-08-22,3300,3600,3400,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-09-12,3100,3300,3200,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-10-31,3300,3600,3500,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-11-07,3300,3600,3500,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-12-05,3000,3300,3200,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2019-12-19,3000,3200,3100,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-16,7000,7400,7200,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-27,5000,5400,5200,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-10,5800,6200,6000,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-15,5000,5200,5200,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-19,5000,5300,5200,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-24,4700,5300,5000,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-31,4600,5100,4800,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-11,6100,6600,6300,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-13,6300,6600,6500,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-27,6400,6800,6600,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-26,2000,2300,2200,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-16,1900,2200,2000,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-08,2000,2300,2200,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-04,2000,2300,2200,171
+Nagaland,Zunheboto,Ghathashi,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-30,2100,2400,2300,171
+Odisha,Bargarh,Attabira,Leafy Vegetable,Other,FAQ,2019-01-14,1500,2000,1500,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-01-16,700,1200,950,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-01,500,900,750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-15,500,700,600,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-02-26,500,1100,800,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-11,1200,1500,1350,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-20,900,1500,1300,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-23,500,1000,700,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-25,700,1200,950,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-29,500,1000,800,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-03-30,700,1200,950,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-25,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-26,1250,1750,1500,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-04-30,1000,1400,1200,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-06,1500,1750,1625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-14,900,1400,1150,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-23,600,900,750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-05-30,750,900,825,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-06-22,1500,1750,1625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-04,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-08,1000,1200,1100,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-18,1750,2250,2000,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-07-31,3000,3500,3250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-02,2000,2500,2250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-03,3000,3500,3250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-08-05,3000,3250,3125,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-10,3500,4000,3750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-09-25,2500,3000,2750,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-10-24,2500,2750,2625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-08,2000,2150,2075,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-11-11,1500,1750,1625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-05,1000,1500,1250,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-06,1250,1500,1400,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-18,800,1000,900,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-21,500,750,625,171
+Gujarat,Vadodara(Baroda),Padra,Leafy Vegetable,Leafy Vegetables,FAQ,2019-12-28,500,550,525,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-04-07,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-04-08,4000,5000,4550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-04-20,2000,2500,2300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-04-26,2000,2500,2300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-04-29,4000,5000,4550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-02,2000,2500,2300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-07,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-11,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-16,1500,3000,2300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-05-31,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-06-18,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-06,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2019-07-09,3000,3500,3300,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-09,700,800,750,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-12,500,600,600,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-16,800,1000,1000,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-19,400,1000,800,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-22,700,1000,800,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-24,500,1000,700,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-02,1000,1000,1000,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-03,400,1000,800,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-06,600,1000,800,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-09,600,1200,800,171
+Haryana,Sonipat,Ganaur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-12,500,500,500,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-01-05,900,1000,950,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-01-14,1000,1100,1100,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-01-19,1000,1000,1000,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-01-27,1000,1000,1000,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-10-22,2000,2200,2100,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-10-25,2000,2200,2100,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-11-01,2200,2500,2300,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-11-09,2000,2200,2100,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-11-18,1800,2000,1900,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-11-26,1300,1500,1400,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-12-02,1300,1400,1350,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-12-06,1300,1400,1350,171
+Himachal Pradesh,Hamirpur,Hamirpur,Leafy Vegetable,Other,FAQ,2021-12-08,1100,1300,1200,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2021-01-24,800,1000,900,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2021-01-29,1000,1500,1200,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2021-02-05,400,600,500,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2021-03-06,700,800,750,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2021-12-07,1000,1500,1250,171
+Himachal Pradesh,Sirmore,Nahan,Leafy Vegetable,Other,FAQ,2021-12-19,800,1000,900,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-01-13,700,1000,850,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-01-18,800,1200,1000,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-01-29,1000,1200,1100,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-02-05,500,800,600,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-02-18,500,800,600,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-02-21,800,1000,900,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-03-09,400,800,800,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-03-10,500,700,600,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-03-11,700,800,740,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-03-12,600,1000,800,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-03-18,710,1200,900,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-12-04,1000,1000,1000,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-12-19,800,1000,900,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-12-20,1000,1500,1250,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-12-23,800,1200,1000,171
+Himachal Pradesh,Sirmore,Paonta Sahib,Leafy Vegetable,Other,FAQ,2021-12-29,1000,1500,1250,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-10-13,1000,1500,1250,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-10-16,1000,1400,1200,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-10-25,1400,1500,1450,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-10-27,1400,1600,1500,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-11-24,1600,2000,1800,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-11-26,1800,2000,1900,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-11-30,1200,1600,1400,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-12-21,1800,2000,1900,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-12-23,1500,2000,1750,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-12-30,1000,1500,1250,171
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Leafy Vegetable,Other,FAQ,2021-12-31,1000,1500,1250,171
+Karnataka,Mangalore(Dakshin Kannad),Mangalore,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-24,8000,10000,9000,171
+Karnataka,Mangalore(Dakshin Kannad),Mangalore,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-10,5000,7000,6000,171
+Karnataka,Mangalore(Dakshin Kannad),Mangalore,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-21,5000,7000,6000,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-10-28,4000,5000,4400,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-11-15,4500,5000,4700,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-11-22,5000,6000,5500,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-11-25,4600,5000,4800,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-11-26,5000,6000,5400,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-11-29,6000,7000,6500,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-12-04,5000,6000,5500,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-12-14,8000,9000,8500,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-12-17,7000,8000,7500,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-12-22,8500,9000,8700,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-12-24,8000,8500,8200,171
+Kerala,Ernakulam,Thrippunithura,Leafy Vegetable,Other,FAQ,2021-12-29,8000,8500,8000,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-01,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-04,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-08,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-14,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-18,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-20,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-21,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-01-23,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-02-05,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-02-10,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-02-11,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-02-13,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-02-17,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-02-18,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-03-03,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-03-06,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-03-13,3800,4000,3800,171
+Maharashtra,Raigad,Pen,Leafy Vegetable,Other,FAQ,2021-03-14,3800,4000,3800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-21,2700,3300,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-02,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-03,2500,3200,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-13,2300,3000,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-15,2700,3500,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-17,2700,3500,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-22,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-23,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-27,2000,2500,2300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-04,2300,3000,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-12,2000,2500,2200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-16,2300,3000,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-17,2400,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-01,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-03,2300,2800,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-07,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-12,2500,3200,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-16,2500,3200,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-17,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-22,2700,3300,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-05-06,2800,3400,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-06-09,2800,3500,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-06-10,3000,3500,3300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-06-12,3000,3500,3300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-06-28,2500,3200,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-07-08,3000,3500,3200,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-07-12,2800,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-07-29,3000,3500,3300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-08-13,2400,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-08-23,3000,3500,3300,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-16,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-28,2300,2700,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-13,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-16,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-22,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-03,2500,3000,2700,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-11,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-12,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-22,2700,3200,3000,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-29,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-06,2200,2700,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-09,2500,3000,2800,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-18,2300,2800,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-22,2000,2700,2400,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-24,2300,2800,2500,171
+Nagaland,Dimapur,Dimapur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-28,3000,3500,3200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-22,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-19,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-26,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-16,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-30,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-05-14,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-07-16,4000,4300,4200,171
+Nagaland,Dimapur,Nuiland,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-22,4000,4300,4200,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-05,2100,2400,2200,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-19,2100,2400,2200,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-26,2200,2400,2300,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-17,1800,2100,1900,171
+Nagaland,Kiphire,Kipheri,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-12,2100,2300,2200,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2021-07-16,5200,5400,5300,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2021-07-23,6000,6300,6200,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2021-08-13,6000,6200,6100,171
+Nagaland,Kohima,Jalukie,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-24,6000,6300,6200,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-12,2000,2300,2200,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2021-07-09,1800,2100,1900,171
+Nagaland,Longleng,Longleng,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-01,1900,2100,2000,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-08,2000,2500,2300,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-29,2000,3000,2500,171
+Nagaland,Mokokchung,Mangkolemba,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-18,2000,4000,3000,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2021-08-20,6500,6700,6600,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-19,6000,6200,6100,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-04,4200,4400,4300,171
+Nagaland,Peren,Tenning,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-17,4500,4700,4600,171
+Nagaland,Phek,Pfatsero,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-23,2300,2500,2400,171
+Nagaland,Phek,Pfatsero,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-03,2200,2400,2300,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-08,2200,2600,2400,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-26,2400,2600,2500,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-22,2600,2800,2700,171
+Nagaland,Phek,Phek,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-13,1900,2100,2000,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-24,1000,2000,1500,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-31,1000,2000,1500,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-04,1000,2000,1500,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-10,1000,2000,1500,171
+Nagaland,Tsemenyu,Tsemenyu,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-15,1000,2000,1500,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2021-11-08,1800,2100,2000,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2021-11-15,2100,2400,2300,171
+Nagaland,Tuensang,Tuensang,Leafy Vegetable,Other,FAQ,2021-11-22,1000,1300,1200,171
+Nagaland,Wokha,Baghty,Leafy Vegetable,Other,FAQ,2021-02-25,3400,3600,3500,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-12,6500,6900,6700,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-01,5600,6000,5800,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-14,6000,6300,6200,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2021-05-12,5500,6000,5800,171
+Nagaland,Wokha,Wokha Town,Leafy Vegetable,Leafy Vegetables,FAQ,2021-05-26,5900,6300,6100,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-01-30,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-01-31,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-02-03,2000,2500,2300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-03-16,4000,5000,4550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-03-22,6000,7000,6550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-03-25,3500,5000,4300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-04-23,3500,4500,4250,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-05-03,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-05-04,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-05-13,3500,4000,3800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-05-23,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-05-27,2500,3500,3050,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-05-31,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-06-04,2250,2500,2400,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-06-05,2250,2500,2400,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-06-17,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-06-22,2000,2250,2150,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-06-26,2300,2500,2450,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-06-27,2300,2500,2450,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-06-29,2250,2500,2400,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-07-07,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-07-15,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-07-22,2800,2900,2850,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-07-23,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-07-28,2800,3000,2900,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-07-30,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-08-06,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-08-20,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-08-25,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-09-03,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-09-16,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-09-18,2500,3000,2800,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-10-04,3000,4000,3550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-10-15,2300,2500,2450,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-10-21,2800,3000,2950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-10-24,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-11-01,3000,3500,3300,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-11-10,2000,3000,2550,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-11-21,2000,2200,2150,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-11-27,2300,2500,2450,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-12-07,1800,2000,1950,171
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Leafy Vegetable,Other,FAQ,2021-12-18,1800,2000,1900,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-08,300,300,300,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-11,500,500,500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-03,500,500,500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-04,300,396,300,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-06,623,623,623,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-24,700,700,700,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-27,200,200,200,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-08-27,2000,2000,2000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-03,1600,2067,1600,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-07,1838,1838,1838,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-14,1000,1500,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-17,1000,1000,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-09-28,500,1800,500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-09,700,1500,1500,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-18,1000,1600,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-19,1000,1200,1200,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-10-29,800,2000,800,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-03,800,2000,1200,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-13,1000,1000,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-18,600,1000,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-19,500,800,800,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-20,800,1000,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-24,500,800,800,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-29,500,1000,1000,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-02,600,1300,1300,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-15,800,1070,1070,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-17,600,1200,600,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-20,1200,1200,1200,171
+Haryana,Ambala,Shahzadpur,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-22,1000,1000,1000,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2021-03-14,600,600,600,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2021-03-15,600,600,600,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2021-03-17,600,600,600,171
+Haryana,Hissar,Barwala(Hisar),Leafy Vegetable,Other,FAQ,2021-03-20,600,600,600,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-14,400,1000,700,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-29,400,600,450,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-03,400,600,500,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-09,500,600,550,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-26,500,600,550,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-27,500,600,550,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-13,1000,1200,1100,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-18,800,1200,1000,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-21,700,1000,850,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-30,800,1200,1000,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-04-02,800,1000,900,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-06,1000,1500,1300,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-07,1000,1500,1200,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-10,1000,1000,1000,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-11,1000,1000,1000,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-11-12,1000,1500,1200,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-09,500,1000,700,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-11,500,1000,700,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-14,500,1000,700,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-17,600,800,700,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-19,500,1000,700,171
+Haryana,Kurukshetra,Ladwa,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-21,1000,1000,1000,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-03,1000,1500,1200,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-08,1000,1500,1200,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-12,400,4000,3200,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-16,500,1600,1200,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-19,500,1600,1200,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-20,300,1600,1500,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-26,400,1200,900,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-01-29,900,1200,1000,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-14,400,700,600,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-20,500,1000,800,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-22,500,1000,800,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-23,500,1000,800,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-25,400,1000,600,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-02-26,400,1000,600,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-22,500,800,700,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-24,400,400,400,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-26,500,900,700,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-27,500,500,500,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-03-30,400,700,600,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-27,600,1500,1100,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-28,900,1400,1200,171
+Haryana,Panipat,Samalkha,Leafy Vegetable,Leafy Vegetables,FAQ,2021-12-29,1000,1500,1200,171

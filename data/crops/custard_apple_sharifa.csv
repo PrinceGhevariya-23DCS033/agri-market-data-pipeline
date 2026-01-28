@@ -1,0 +1,43 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Haryana,Yamuna Nagar,Yamuna Nagar,Custard Apple (Sharifa),Other,Medium,2017-11-28,5000,6000,6000,352
+Haryana,Yamuna Nagar,Yamuna Nagar,Custard Apple (Sharifa),Other,Medium,2017-11-29,5000,6000,5500,352
+Madhya Pradesh,Ujjain,Ujjain(F&V),Custard Apple (Sharifa),Custard Apple(Sharifa),Large,2017-10-05,2000,2000,2000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2017-08-18,1500,2500,2000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2017-10-26,500,1300,900,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2017-10-30,500,1300,900,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2017-11-07,500,1300,900,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2017-11-15,800,1200,1000,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2019-10-25,4000,6000,5000.0,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2019-10-31,4000,6000,5000.0,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2019-11-05,3000,5000,4000.0,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2019-11-07,4000,4500,4250.0,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2019-11-09,7000,8000,7500.0,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2019-11-11,3000,4000,3500.0,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2019-11-23,3000,4000,3500.0,352
+Kerala,Idukki,Munnar,Custard Apple (Sharifa),Custard Apple(Sharifa),Small,2019-01-18,4500,6000,5500.0,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-10-24,3500,4000,3750,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-10-29,4000,5000,4500,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-10-31,3800,4000,3900,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-11-11,3800,4200,4000,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-11-24,2000,3000,2500,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-11-28,2600,3000,2800,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-12-04,2000,3000,2500,352
+Chattisgarh,Durg,Durg,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2020-12-09,2600,3000,2800,352
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Custard Apple (Sharifa),Other,Medium,2011-10-15,1000,1500,1250,352
+Jharkhand,Sahebgang,Sahebganj,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2011-09-02,2600,2800,2700,352
+Jharkhand,Sahebgang,Sahebganj,Custard Apple (Sharifa),Custard Apple(Sharifa),Medium,2011-09-07,2600,2800,2700,352
+Kerala,Malappuram,Perinthalmanna,Custard Apple (Sharifa),Other,Medium,2011-12-12,1600,1800,1700,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-08-03,600,1200,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-08-04,600,1200,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-08-12,500,1500,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-08-17,800,1200,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-08-27,600,1000,800,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-09-06,600,1000,800,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-10-05,500,1000,800,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-10-12,400,1500,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-10-15,500,1500,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-10-24,400,2000,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-11-01,500,1500,1000,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-11-09,700,2000,1300,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-11-15,700,2000,1200,352
+Rajasthan,Jodhpur,Jodhpur (F&V),Custard Apple (Sharifa),Other,Medium,2011-11-16,700,2000,1400,352

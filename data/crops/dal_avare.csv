@@ -1,0 +1,74 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-02-01,5800,6800,6600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-02-04,5800,6800,6600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-02-06,5800,6800,6600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-02-08,5800,6800,6600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-02-15,5600,6400,6000,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-02-25,5300,5600,5450,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-02-28,5300,5600,5450,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-03-07,4500,6850,5750,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-03-10,4500,6850,5750,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-03-25,4200,5000,4600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-04-02,4200,5000,4600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-04-07,5000,5000,5000,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-04-09,4200,5000,4600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-04-15,5000,6500,5400,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-05-21,4000,6200,5800,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-06-09,5000,8200,6800,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-07-07,3000,3500,3300,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-07-15,3000,4000,3500,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-07-16,3000,3500,3300,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-07-24,3000,3500,3300,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-07-25,3000,3500,3300,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-08-13,6200,6800,6400,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-08-27,5600,6500,6000,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-09-17,5500,6000,5800,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-09-18,5000,5800,5500,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-09-19,5000,5800,5500,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-09-29,5300,6000,5600,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-10-28,5300,6200,5700,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-10-30,5300,6200,5700,91
+Karnataka,Bangalore,Bangalore,Dal (Avare),Avare (Whole),Medium,2014-10-31,5300,6200,5700,91
+Karnataka,Bangalore,Kanakapura,Dal (Avare),Avare (Whole),Medium,2014-02-19,4000,4000,4000,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-01-21,4705,4846,4723,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-01-24,5150,5275,5250,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-01-25,5275,5320,5295,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-01-31,5634,5728,5670,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-02-05,4707,4876,4752,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-02-12,4370,4475,4411,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-02-20,4391,4475,4421,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-02-26,4321,4371,4331,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-03-05,4350,4450,4391,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-03-15,4261,4375,4291,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-03-24,4100,4175,4150,91
+Karnataka,Bidar,Bidar,Dal (Avare),Avare (Whole),Medium,2014-06-17,3650,3731,3661,91
+Karnataka,Chamrajnagar,Gundlupet,Dal (Avare),Avare (Whole),Medium,2014-02-23,3200,3200,3200,91
+Karnataka,Chamrajnagar,Kollegal,Dal (Avare),Avare (Whole),Medium,2014-06-20,4900,4900,4900,91
+Karnataka,Chikmagalur,Tarikere,Dal (Avare),Avare (Whole),Medium,2014-03-22,3500,6900,4957,91
+Karnataka,Hassan,Arasikere,Dal (Avare),Avare (Whole),Medium,2014-04-04,3000,3000,3000,91
+Karnataka,Hassan,Channarayapatna,Dal (Avare),Avare (Whole),Medium,2014-02-23,3200,3200,3200,91
+Karnataka,Kolar,Chintamani,Dal (Avare),Avare (Whole),Medium,2014-01-24,5000,5800,5450,91
+Karnataka,Mandya,Nagamangala,Dal (Avare),Avare (Whole),Medium,2014-02-17,3000,3300,3000,91
+Karnataka,Mandya,Nagamangala,Dal (Avare),Avare (Whole),Medium,2014-03-08,3000,3000,3000,91
+Karnataka,Mandya,Nagamangala,Dal (Avare),Avare (Whole),Medium,2014-03-24,3000,3000,3000,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-01-04,6905,7313,7100,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),FAQ,2014-01-04,6905,7313,7100,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-01-07,6000,6350,6150,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-01-20,5120,5730,5548,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-01-28,6703,6926,6820,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-01-30,4786,6689,6684,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-02-06,4786,6106,5909,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-02-15,3000,3407,3200,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-02-17,2305,2691,2669,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-02-24,5000,5505,5250,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-02-26,2817,5359,4689,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-03-11,4300,5426,4850,91
+Karnataka,Mysore,Mysore (Bandipalya),Dal (Avare),Avare (Whole),Medium,2014-03-29,4500,5300,4900,91
+Karnataka,Mysore,Piriya Pattana,Dal (Avare),Avare (Whole),Medium,2014-01-23,5500,5500,5500,91
+Karnataka,Mysore,Piriya Pattana,Dal (Avare),Avare (Whole),Medium,2014-01-27,5600,6700,5800,91
+Karnataka,Mysore,Piriya Pattana,Dal (Avare),Avare (Whole),Medium,2014-02-03,6000,6500,6250,91
+Karnataka,Mysore,Piriya Pattana,Dal (Avare),Avare (Whole),Medium,2014-02-04,5000,6300,5624,91
+Karnataka,Mysore,Piriya Pattana,Dal (Avare),Avare (Whole),Medium,2014-02-11,5000,5000,5000,91
+Karnataka,Mysore,Piriya Pattana,Dal (Avare),Avare (Whole),Medium,2014-02-24,4250,6180,5340,91
+Karnataka,Mysore,Piriya Pattana,Dal (Avare),Avare (Whole),Medium,2014-03-15,4400,4400,4400,91
+Karnataka,Tumkur,Gubbi,Dal (Avare),Avare (Whole),Medium,2014-03-18,3000,3000,3000,91

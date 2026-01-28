@@ -1,0 +1,1043 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Litchi,Other,Medium,2017-06-28,8000,10000,9500,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Litchi,Medium,2017-06-30,2500,4000,3500,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2017-05-24,6000,6000,6000,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2017-06-09,5000,5500,5400,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2017-05-29,4000,7000,5500,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2017-05-31,5000,8000,7000,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2017-06-11,5000,6000,5500,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2017-06-14,5000,6000,5500,351
+Haryana,Hissar,Uklana,Litchi,Litchi,Medium,2017-06-06,6500,6500,6500,351
+Haryana,Hissar,Uklana,Litchi,Litchi,Medium,2017-06-07,6000,6500,6500,351
+Haryana,Hissar,Uklana,Litchi,Litchi,Medium,2017-06-08,6000,6000,6000,351
+Haryana,Hissar,Uklana,Litchi,Litchi,Medium,2017-06-11,7000,7000,7000,351
+Haryana,Hissar,Uklana,Litchi,Litchi,Medium,2017-06-18,8000,8000,8000,351
+Haryana,Hissar,Uklana,Litchi,Litchi,Medium,2017-06-30,9000,9000,9000,351
+Haryana,Kurukshetra,Thanesar,Litchi,Other,Large,2017-07-06,7000,8000,7500,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2017-05-30,5000,5000,5000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2017-06-09,5000,5500,5500,351
+Haryana,Sonipat,Ganaur,Litchi,Litchi,Medium,2017-06-21,6000,7500,7000,351
+Himachal Pradesh,Chamba,Chamba,Litchi,Other,Medium,2017-06-01,5500,6500,6000,351
+Himachal Pradesh,Chamba,Chamba,Litchi,Other,Medium,2017-06-03,7000,7200,7100,351
+Himachal Pradesh,Chamba,Chamba,Litchi,Other,Medium,2017-06-05,5000,6200,5650,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Large,2017-07-03,9000,9500,9250,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Large,2017-07-12,8000,9000,8500,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2017-07-01,8000,10000,9000,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2017-07-03,9000,10000,9500,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2017-07-11,8000,9000,8500,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2017-07-14,9000,10000,9500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2017-05-26,8000,9000,8500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2017-06-03,5000,6000,5500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2017-06-20,6500,7000,6750,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2017-06-24,3000,6000,4500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2017-06-30,4000,4500,4250,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2017-07-03,6000,6500,6250,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2017-07-05,5500,6000,5750,351
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Litchi,Litchi,Medium,2017-06-21,6000,8000,7000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Large,2017-06-03,8000,9000,9000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2017-06-06,8000,10000,9000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2017-06-07,2500,9000,8000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2017-06-15,4000,7500,6000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2017-07-15,7500,8000,8000,351
+Himachal Pradesh,Solan,Solan,Litchi,Other,Medium,2017-05-27,5000,7000,6000,351
+Himachal Pradesh,Solan,Solan,Litchi,Other,Medium,2017-06-07,8000,8500,8250,351
+Himachal Pradesh,Solan,Solan,Litchi,Other,Medium,2017-06-24,9000,10000,9500,351
+Himachal Pradesh,Solan,Solan,Litchi,Other,Medium,2017-07-07,10000,12000,11000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2017-06-16,5000,7000,6000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2017-09-07,2000,7400,4700,351
+Maharashtra,Sholapur,Kurdwadi,Litchi,Other,FAQ,2017-09-03,50,700,300,351
+Meghalaya,East Jaintia Hills,Khliehriat,Litchi,Other,Medium,2017-05-22,10000,12000,11000,351
+Meghalaya,East Jaintia Hills,Khliehriat,Litchi,Other,Medium,2017-06-07,10000,12000,11000,351
+Meghalaya,East Khasi Hills,Sohra,Litchi,Other,Medium,2017-06-13,10000,12000,11000,351
+Meghalaya,West Garo Hills,Tura,Litchi,Other,Medium,2017-05-20,2000,2500,2200,351
+Meghalaya,West Garo Hills,Tura,Litchi,Other,Medium,2017-06-05,2200,2500,2400,351
+Odisha,Sundergarh,Bonai,Litchi,Other,Small,2017-05-16,7000,7000,7000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-05-27,3000,4000,3500,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-05-29,2800,4200,3600,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-05-30,3000,4000,3500,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-06-08,2000,3800,3000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-06-16,2500,3600,3000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-06-24,2700,4000,3500,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-06-27,2500,4000,3600,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2017-07-01,3000,4000,3500,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2017-05-28,6000,7000,6500,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2017-06-01,6000,6500,6250,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2017-06-22,7000,7500,7250,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2017-06-24,6000,7500,6750,351
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi),Litchi,Other,Medium,2017-06-28,6500,7500,7000,351
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi),Litchi,Other,Medium,2017-07-03,5000,7000,6000,351
+Punjab,Fatehgarh,Bassi Pathana,Litchi,Litchi,Medium,2017-06-05,5000,5500,5200,351
+Punjab,Fatehgarh,Bassi Pathana,Litchi,Litchi,Medium,2017-06-09,5000,6000,5500,351
+Punjab,Fatehgarh,Bassi Pathana,Litchi,Litchi,Medium,2017-06-10,5000,6000,5500,351
+Punjab,Fatehgarh,Bassi Pathana,Litchi,Litchi,Medium,2017-06-20,5000,5500,5200,351
+Punjab,Fatehgarh,Sirhind,Litchi,Litchi,Medium,2017-05-27,4000,5000,4500,351
+Punjab,Fatehgarh,Sirhind,Litchi,Litchi,Medium,2017-06-14,6000,7100,6500,351
+Punjab,Fazilka,Abohar,Litchi,Litchi,Medium,2017-05-27,0,0,9000,351
+Punjab,Fazilka,Abohar,Litchi,Litchi,Medium,2017-06-05,4500,6500,6000,351
+Punjab,Fazilka,Abohar,Litchi,Litchi,Medium,2017-06-29,10200,12000,10200,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Litchi,Medium,2017-05-26,8000,8000,8000,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Litchi,Medium,2017-06-06,7000,7000,7000,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Litchi,Medium,2017-06-15,6000,6000,6000,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Litchi,Medium,2017-06-16,5000,5000,5000,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2017-06-14,4200,4600,4350,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2017-06-20,4000,4500,4200,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2017-06-20,5000,5500,5250,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2017-07-04,4000,5000,4500,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2017-07-05,4000,4500,4250,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2017-06-06,6500,7000,7000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Large,2017-06-16,6500,7000,7000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2017-06-17,4500,5000,5000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Small,2017-06-17,2500,3000,3000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2017-06-19,4500,5000,5000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Small,2017-06-22,3500,4000,4000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Small,2017-06-26,2500,2700,2700,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2017-06-28,4500,5000,5000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Small,2017-06-30,2500,3000,3000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2017-07-04,4500,5000,5000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-05-19,4000,7500,5500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-05-25,5000,8500,7000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-05-26,5000,8000,7000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-05-31,4500,7000,6200,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-06-03,3500,6000,5500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-06-10,3000,5800,4500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-06-14,3500,6000,4500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-06-16,4000,6200,5000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-06-22,3500,6200,4500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-06-26,3500,6000,4500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-06-28,3500,6500,5500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-07-06,3000,5800,4400,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2017-07-12,3500,5000,4500,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2017-05-27,5200,6000,5600,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2017-06-01,5500,6500,6000,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2017-06-14,5500,6500,6200,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2017-06-24,3500,6000,4500,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2017-06-28,5500,7000,6700,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Medium,2017-06-24,4000,6000,5000,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Medium,2017-07-04,4000,6000,5000,351
+Punjab,Patiala,Dudhansadhan,Litchi,Other,Medium,2017-06-07,8000,9000,8500,351
+Punjab,Patiala,Dudhansadhan,Litchi,Other,Medium,2017-07-12,8000,9000,8500,351
+Punjab,Patiala,Dudhansadhan,Litchi,Other,Medium,2017-07-16,8000,9000,8500,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2017-06-04,8000,11000,9500,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Medium,2017-06-10,5000,7000,6000,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Medium,2017-06-15,5000,7000,6000,351
+Punjab,Sangrur,Lehra Gaga,Litchi,Other,Medium,2017-06-10,8000,8000,8000,351
+Punjab,Sangrur,Lehra Gaga,Litchi,Other,Medium,2017-06-17,7000,7000,7000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2017-05-28,6000,9000,7000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2017-05-29,8500,8500,8500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2017-06-14,6500,7000,6800,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2017-06-25,7000,8000,8000,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Large,2017-06-07,3500,6000,4800,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Large,2017-07-22,4000,6500,5800,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2017-06-09,7000,7000,7000,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2017-06-14,6500,6500,6500,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2017-06-20,6000,6000,6000,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2017-06-28,7000,7000,7000,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2017-05-26,2950,3200,3000,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2017-06-05,3400,3600,3500,351
+Uttar Pradesh,Barabanki,Barabanki,Litchi,Litchi,Medium,2017-06-12,3540,3700,3600,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2017-06-10,0,0,4160,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2017-06-19,0,0,4045,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2017-06-27,4050,4400,4200,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2017-07-03,3860,4000,3925,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2017-07-04,3870,4025,3940,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2017-07-05,3870,4050,3960,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2017-07-14,4000,4250,4150,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2017-06-15,1800,2000,1900,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2017-06-17,1800,2000,1950,351
+Uttar Pradesh,Unnao,Unnao,Litchi,Litchi,Medium,2017-05-29,4400,4600,4500,351
+Uttar Pradesh,Unnao,Unnao,Litchi,Litchi,Medium,2017-06-14,3200,3350,3250,351
+Uttrakhand,Champawat,Tanakpur,Litchi,Other,Large,2017-05-31,3500,4000,3900,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Medium,2017-06-15,2500,3210,2800,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Medium,2017-06-22,2500,3000,2900,351
+Uttrakhand,Dehradoon,Rishikesh,Litchi,Litchi,Small,2017-06-08,3500,4500,4000,351
+Uttrakhand,Dehradoon,Rishikesh,Litchi,Litchi,Small,2017-06-10,3500,4500,4000,351
+Uttrakhand,Dehradoon,Vikasnagar,Litchi,Other,Medium,2017-06-02,1756,1760,1760,351
+Uttrakhand,Dehradoon,Vikasnagar,Litchi,Other,Medium,2017-06-06,1515,1524,1524,351
+Uttrakhand,Dehradoon,Vikasnagar,Litchi,Other,Medium,2017-06-11,1200,1212,1212,351
+Uttrakhand,Dehradoon,Vikasnagar,Litchi,Other,Medium,2017-06-19,1980,2000,2000,351
+Uttrakhand,Dehradoon,Vikasnagar,Litchi,Other,Medium,2017-06-23,2100,2120,2120,351
+Uttrakhand,Haridwar,Manglaur,Litchi,Other,Medium,2017-06-14,2500,3100,2900,351
+Uttrakhand,Haridwar,Manglaur,Litchi,Other,Medium,2017-06-15,2800,3000,2900,351
+Uttrakhand,Haridwar,Manglaur,Litchi,Other,Medium,2017-06-16,2500,3000,2800,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Large,2017-06-14,2000,3000,2600,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Large,2017-06-19,1500,3100,2500,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2017-06-23,3000,5000,4000,351
+Uttrakhand,Nanital,Ramnagar,Litchi,Other,Medium,2017-06-01,3500,3600,3550,351
+Uttrakhand,Nanital,Ramnagar,Litchi,Other,Medium,2017-06-07,3600,3700,3650,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2017-05-27,3000,4500,4200,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2017-06-06,2000,3800,3500,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Litchi,Medium,2007-05-23,2500,2700,2600,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Litchi,Medium,2007-06-03,3500,4000,3750,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Litchi,Medium,2007-06-06,3000,4200,3600,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Litchi,Medium,2007-06-13,2500,4500,3500,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Litchi,Medium,2007-11-03,500,700,600,351
+Haryana,Fatehabad,Bhuna,Litchi,Other,Medium,2007-06-05,3500,3500,3500,351
+Haryana,Fatehabad,Bhuna,Litchi,Other,Small,2007-06-11,4000,4000,4000,351
+Haryana,Fatehabad,Bhuna,Litchi,Other,Small,2007-06-17,3000,3000,3000,351
+Haryana,Fatehabad,Bhuna,Litchi,Other,Small,2007-06-23,3500,4000,4000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-05-05,1000,1000,1000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-05-19,6000,6500,6500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-05-27,3000,4000,4000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-06-03,2500,3500,3500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-06-08,3000,3500,3500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-06-14,3000,4000,3500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-06-20,3000,3500,3500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-06-26,1500,4000,4000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-06-30,4000,4000,4000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2007-07-02,4000,4000,4000,351
+Haryana,Yamuna Nagar,Jagadhri,Litchi,Other,Medium,2007-06-01,1500,2500,1600,351
+Haryana,Yamuna Nagar,Jagadhri,Litchi,Other,Medium,2007-06-02,1200,2200,1500,351
+Haryana,Yamuna Nagar,Jagadhri,Litchi,Other,Medium,2007-06-26,800,800,800,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-05-24,2000,2800,2400,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-05-28,800,3000,1900,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-05-29,900,3000,1900,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-06-01,800,2500,1600,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-06-05,1000,2500,1700,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-06-07,1000,3000,2000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-06-15,1600,2500,2000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-06-16,1600,3000,2300,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-06-17,1000,2500,1700,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2007-06-25,1800,3000,2300,351
+Himachal Pradesh,Bilaspur,Bilaspur,Litchi,Other,Medium,2007-07-09,3900,4100,4000,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Litchi,Medium,2007-06-28,1800,2000,1900,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Litchi,Medium,2007-07-03,2000,2500,2250,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Litchi,Medium,2007-07-04,2000,2200,2100,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2007-06-02,1000,1200,1100,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2007-06-06,1500,1600,1550,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2007-06-07,1400,1500,1450,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2007-06-21,1400,1500,1450,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2007-06-27,1800,2000,1900,351
+Himachal Pradesh,Sirmore,Paonta Sahib,Litchi,Other,Medium,2007-06-11,1500,2000,2000,351
+Himachal Pradesh,Una,Una,Litchi,Other,Medium,2007-06-07,2600,2800,2750,351
+Himachal Pradesh,Una,Una,Litchi,Other,Medium,2007-06-22,2800,2800,2800,351
+Himachal Pradesh,Una,Una,Litchi,Other,Medium,2007-06-27,3000,3200,3100,351
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Litchi,Litchi,Medium,2007-05-22,3500,4000,3750,351
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Litchi,Litchi,Medium,2007-05-25,3000,3400,3200,351
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Litchi,Litchi,Medium,2007-05-28,3000,4000,3500,351
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Litchi,Litchi,Medium,2007-06-15,2400,2800,2600,351
+Jammu and Kashmir,Jammu,Samba,Litchi,Litchi,Medium,2007-06-05,2400,2500,2450,351
+Jammu and Kashmir,Jammu,Samba,Litchi,Litchi,Medium,2007-06-11,2500,2600,2550,351
+Jammu and Kashmir,Jammu,Samba,Litchi,Litchi,Medium,2007-06-18,2800,3000,2900,351
+Jammu and Kashmir,Jammu,Samba,Litchi,Litchi,Medium,2007-06-19,2800,3000,2900,351
+Jammu and Kashmir,Jammu,Samba,Litchi,Litchi,Medium,2007-06-20,2800,3000,2900,351
+Jammu and Kashmir,Jammu,Samba,Litchi,Litchi,Medium,2007-06-23,2500,2600,2550,351
+Punjab,Fatehgarh,Sirhind,Litchi,Other,Medium,2007-09-27,1000,1800,1400,351
+Punjab,Fazilka,Fazilka,Litchi,Other,Medium,2007-06-06,2400,2800,2600,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2007-06-12,2500,3000,2800,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2007-06-28,1000,1300,1200,351
+Punjab,Hoshiarpur,Hoshiarpur,Litchi,Other,Small,2007-06-19,1500,2000,1750,351
+Punjab,Hoshiarpur,Hoshiarpur,Litchi,Other,Small,2007-06-20,1500,2000,1750,351
+Punjab,Hoshiarpur,Hoshiarpur,Litchi,Other,Small,2007-06-21,1000,1500,1250,351
+Punjab,Hoshiarpur,Hoshiarpur,Litchi,Other,Small,2007-06-22,1000,1500,1250,351
+Punjab,Hoshiarpur,Hoshiarpur,Litchi,Other,Small,2007-06-28,1400,1600,1500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-05-22,2500,4500,3500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-05-28,1500,3000,2250,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-05-30,1200,2200,1700,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-06-16,1200,3000,2100,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-06-22,800,2000,1400,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-06-26,1500,3000,2250,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-06-30,1500,2500,2000,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Small,2007-07-03,1800,3200,2500,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2007-05-29,1000,1700,1350,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2007-06-08,1000,2500,1750,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2007-06-11,800,2200,1500,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2007-06-25,1500,3500,2500,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Other,Medium,2007-06-04,1800,2000,1900,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Other,Medium,2007-06-18,1600,1800,1700,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Other,Medium,2007-07-07,2600,2600,2600,351
+Punjab,Pathankot,Pathankot,Litchi,Other,Medium,2007-06-19,2000,2500,2200,351
+Punjab,Pathankot,Pathankot,Litchi,Other,Small,2007-06-26,1500,2200,1800,351
+Punjab,Sangrur,Dhuri,Litchi,Litchi,Medium,2007-06-14,2200,2400,2300,351
+Punjab,Sangrur,Dhuri,Litchi,Other,Medium,2007-06-06,2000,2000,2000,351
+Rajasthan,Alwar,Alwar (F&V),Litchi,Other,Large,2007-05-20,5000,6500,6000,351
+Rajasthan,Alwar,Alwar (F&V),Litchi,Other,Large,2007-05-22,4000,6000,5000,351
+Rajasthan,Alwar,Alwar (F&V),Litchi,Other,Large,2007-05-27,2500,4000,3500,351
+Rajasthan,Alwar,Alwar (F&V),Litchi,Other,Large,2007-06-06,2000,2500,2300,351
+Rajasthan,Alwar,Alwar (F&V),Litchi,Other,Large,2007-06-13,3500,4000,3800,351
+Rajasthan,Bikaner,Bikaner (F&V),Litchi,Litchi,Medium,2007-05-19,2900,3100,3000,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2007-05-25,2400,2600,2500,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2007-05-26,2300,2500,2400,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2007-06-01,4900,5100,5000,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2007-06-02,4800,5000,4900,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2007-06-06,4700,4900,4800,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2007-06-18,2500,2700,2600,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2007-06-19,2400,2600,2500,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2019-06-19,4500,6500,5500.0,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2019-07-04,4500,6500,5000.0,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2019-07-10,3000,6000,5500.0,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Large,2019-06-20,5000,6000,5500.0,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Large,2019-06-21,6000,7500,6500.0,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Large,2019-07-01,6500,8500,7500.0,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Large,2019-07-04,5000,7500,5500.0,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Large,2019-07-09,4500,5500,5000.0,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2019-06-15,4000,6000,5200.0,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2019-06-18,4000,6000,5200.0,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2019-06-06,7000,9000,8000.0,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2019-06-07,7000,8000,7500.0,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2019-06-09,7500,9000,8000.0,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2019-06-25,6500,8500,8000.0,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2019-07-02,6000,8500,7500.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-05-28,6800,7000,6800.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-05-29,5300,7500,7500.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-06-01,7000,7400,7400.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-06-03,7000,8700,8700.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-06-06,8000,8000,8000.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-06-24,2400,4300,3000.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-07-02,4000,4500,4200.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-07-05,4200,4200,4200.0,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2019-07-09,4100,4100,4100.0,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2019-06-19,6000,8500,7000.0,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2019-06-20,7000,8000,7500.0,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2019-06-23,6000,7000,6500.0,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2019-07-23,3000,5000,4000.0,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2019-07-24,3000,5000,4000.0,351
+Punjab,Tarntaran,Patti,Litchi,Other,Medium,2019-07-08,3300,4200,3700.0,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Large,2019-06-18,3000,5000,4000.0,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Large,2019-06-19,3000,4500,3800.0,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Large,2019-06-21,3000,5000,4000.0,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Large,2019-06-23,3000,4500,4000.0,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2019-06-07,6000,6200,6100.0,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2019-06-22,6500,6700,6600.0,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2019-06-29,5000,5200,5100.0,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2019-07-02,3500,3700,3600.0,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Medium,2019-07-30,6300,6500,6400.0,351
+Rajasthan,Kota,Kota (F&V),Litchi,Other,Large,2019-05-29,4000,6000,5000.0,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2019-05-21,4900,5050,5000.0,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2019-06-09,4150,4400,4200.0,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2019-06-13,4250,4400,4300.0,351
+Uttar Pradesh,Ayodhya,Rudauli,Litchi,Litchi,Medium,2019-06-20,2850,3150,3000.0,351
+Uttar Pradesh,Deoria,Devariya,Litchi,Litchi,Medium,2019-05-27,3220,3250,3240.0,351
+Uttar Pradesh,Deoria,Devariya,Litchi,Litchi,Medium,2019-06-08,3035,3060,3045.0,351
+Uttar Pradesh,Deoria,Devariya,Litchi,Litchi,Medium,2019-06-12,3040,3065,3050.0,351
+Uttar Pradesh,Deoria,Devariya,Litchi,Litchi,Medium,2019-06-18,2930,2960,2950.0,351
+Uttar Pradesh,Deoria,Devariya,Litchi,Litchi,Medium,2019-06-19,3245,3270,3260.0,351
+Uttar Pradesh,Kanpur Dehat,Jhijhank,Litchi,Litchi,Medium,2019-05-21,1000,1050,1025.0,351
+Uttar Pradesh,Kanpur Dehat,Jhijhank,Litchi,Litchi,Medium,2019-06-03,500,550,525.0,351
+Uttar Pradesh,Kanpur Dehat,Jhijhank,Litchi,Litchi,Medium,2019-06-09,500,550,525.0,351
+Uttar Pradesh,Kanpur Dehat,Jhijhank,Litchi,Litchi,Medium,2019-06-12,500,550,525.0,351
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,Litchi,Litchi,Medium,2019-05-30,3850,4210,4000.0,351
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,Litchi,Litchi,Medium,2019-06-02,3830,4200,4010.0,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2019-05-19,6200,6500,6400.0,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2019-05-21,6300,6600,6400.0,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2019-05-30,4600,5000,4800.0,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2019-05-31,4400,4800,4600.0,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2019-06-12,4000,4500,4300.0,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2019-06-23,5200,5400,5300.0,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2019-06-22,3700,4000,3850.0,351
+Uttar Pradesh,Saharanpur,Chutmalpur,Litchi,Litchi,Medium,2019-06-18,3150,3400,3250.0,351
+Uttar Pradesh,Saharanpur,Chutmalpur,Litchi,Litchi,Medium,2019-06-20,3100,3300,3200.0,351
+Uttar Pradesh,Saharanpur,Chutmalpur,Litchi,Litchi,Medium,2019-06-21,3100,3300,3200.0,351
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Litchi,Litchi,Medium,2019-05-16,2550,2750,2650.0,351
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Litchi,Litchi,Medium,2019-05-22,2450,2750,2600.0,351
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Litchi,Litchi,Medium,2019-05-27,2400,2600,2500.0,351
+Uttar Pradesh,Shamli,Khandhla,Litchi,Litchi,Medium,2019-06-27,2400,2500,2450.0,351
+Uttar Pradesh,Shamli,Khandhla,Litchi,Litchi,Medium,2019-06-28,2400,2500,2450.0,351
+Uttar Pradesh,Shamli,Khandhla,Litchi,Litchi,Medium,2019-07-05,2400,2500,2450.0,351
+Uttar Pradesh,Shamli,Khandhla,Litchi,Litchi,Medium,2019-07-07,2400,2500,2450.0,351
+Uttar Pradesh,Shamli,Khandhla,Litchi,Litchi,Medium,2019-07-08,2400,2500,2450.0,351
+Uttar Pradesh,Shamli,Shamli,Litchi,Litchi,Large,2019-06-28,3100,3500,3300.0,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2019-06-03,3000,3200,3100.0,351
+Uttar Pradesh,Unnao,Unnao,Litchi,Litchi,Medium,2019-06-18,4700,4800,4750.0,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Large,2019-06-17,2800,3800,3250.0,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Large,2019-06-20,2200,3800,2400.0,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Large,2019-06-22,2000,3500,2200.0,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Large,2019-06-26,2200,3800,2600.0,351
+Uttrakhand,Dehradoon,Rishikesh,Litchi,Litchi,Medium,2019-06-14,2300,3000,2750.0,351
+Uttrakhand,Dehradoon,Rishikesh,Litchi,Litchi,Medium,2019-06-16,2200,3000,2760.0,351
+Uttrakhand,Dehradoon,Vikasnagar,Litchi,Other,Medium,2019-06-23,1700,2500,2000.0,351
+Uttrakhand,Dehradoon,Vikasnagar,Litchi,Other,Medium,2019-07-03,1800,2500,2200.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Large,2019-05-25,5000,6000,5500.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Small,2019-05-28,5000,6000,5300.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Medium,2019-05-29,5000,5800,5400.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Small,2019-05-30,5000,5800,5400.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Large,2019-06-13,5500,7000,6000.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Small,2019-06-19,5000,6000,5500.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Large,2019-06-20,5000,5800,5400.0,351
+Uttrakhand,Garhwal (Pauri),Kotadwara,Litchi,Litchi,Medium,2019-06-28,4500,5500,5000.0,351
+Uttrakhand,Haridwar,Manglaur,Litchi,Other,Medium,2019-06-17,1800,2000,1900.0,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Medium,2019-06-12,1800,3200,2500.0,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Medium,2019-06-18,2500,3500,2800.0,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Medium,2019-06-22,2000,3000,2500.0,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Medium,2019-07-01,1800,3000,2500.0,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Medium,2019-07-02,2000,3000,2500.0,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Medium,2019-07-07,1800,2800,2500.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-03,3061,3261,3161.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-13,4426,4626,4526.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-16,4160,4360,4260.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-18,4277,4477,4377.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-19,4500,4700,4600.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-20,4296,4496,4396.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-24,3500,3700,3600.0,351
+Uttrakhand,Nanital,Haldwani,Litchi,Other,Medium,2019-06-26,4379,4579,4479.0,351
+Uttrakhand,UdhamSinghNagar,Kashipur,Litchi,Other,Medium,2019-06-07,3800,4000,3900.0,351
+Uttrakhand,UdhamSinghNagar,Kashipur,Litchi,Other,Medium,2019-06-21,3300,3500,3400.0,351
+Uttrakhand,UdhamSinghNagar,Kashipur,Litchi,Other,Medium,2019-06-22,4000,4200,4100.0,351
+Uttrakhand,UdhamSinghNagar,Kashipur,Litchi,Other,Medium,2019-06-26,3300,3500,3400.0,351
+Uttrakhand,UdhamSinghNagar,Kashipur,Litchi,Other,Medium,2019-07-04,2600,2800,2700.0,351
+Uttrakhand,UdhamSinghNagar,Khateema,Litchi,Other,Medium,2019-05-20,3500,3700,3600.0,351
+Uttrakhand,UdhamSinghNagar,Khateema,Litchi,Other,Medium,2019-05-27,3900,4100,4000.0,351
+Uttrakhand,UdhamSinghNagar,Khateema,Litchi,Other,Medium,2019-05-31,3900,4100,4000.0,351
+Uttrakhand,UdhamSinghNagar,Khateema,Litchi,Other,Medium,2019-06-02,3500,3700,3600.0,351
+Uttrakhand,UdhamSinghNagar,Khateema,Litchi,Other,Medium,2019-06-10,3400,3600,3500.0,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2019-05-24,5000,5500,5300.0,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2019-05-27,5000,5800,5500.0,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2019-06-04,3500,5000,4200.0,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2019-06-10,4000,5500,5000.0,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2019-06-13,3500,5000,4500.0,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2019-06-17,3500,4800,4000.0,351
+Uttrakhand,UdhamSinghNagar,Sitarganj,Litchi,Other,Medium,2019-06-06,3900,4100,4000.0,351
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Litchi,Other,Medium,2019-06-01,8000,10000,9000,351
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Litchi,Other,Medium,2019-06-01,8000,10000,9000,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2019-05-16,13000,13000,13000,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2019-06-04,6000,6000,6000,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2019-06-07,4000,4000,4000,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2019-06-21,3500,6500,4000,351
+Haryana,Bhiwani,Ch. Dadri,Litchi,Other,Large,2019-05-29,8000,10000,9000,351
+Haryana,Bhiwani,Ch. Dadri,Litchi,Other,Large,2019-06-16,6000,8000,7000,351
+Haryana,Bhiwani,Ch. Dadri,Litchi,Other,Large,2019-06-20,6000,8000,7000,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2019-05-25,3800,4000,3900,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2019-05-27,4000,5000,4500,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2019-05-28,3500,8000,4250,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2019-06-02,5000,6000,5500,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2019-06-08,4000,6000,5000,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2019-06-09,4000,6000,5000,351
+Haryana,Faridabad,Faridabad,Litchi,Other,Large,2019-06-14,5000,6000,5500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-05-07,14000,14000,14000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-05-17,12000,12000,12000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-05-24,9000,10000,9000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-06-09,5500,7000,6000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-06-10,7000,8000,7000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-06-16,7000,7500,7200,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-06-27,5000,7000,6000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-06-30,5000,6000,5500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-07-03,5000,5500,5200,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-07-05,4000,5500,5000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-07-07,5000,6000,5500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2019-07-11,5500,6500,6000,351
+Haryana,Hissar,Barwala(Hisar),Litchi,Other,Medium,2019-05-25,6000,6000,6000,351
+Haryana,Hissar,Barwala(Hisar),Litchi,Other,Medium,2019-06-03,6000,6000,6000,351
+Haryana,Hissar,Barwala(Hisar),Litchi,Other,Medium,2019-06-12,7000,7000,7000,351
+Haryana,Hissar,Barwala(Hisar),Litchi,Other,Medium,2019-06-13,7000,7000,7000,351
+Haryana,Hissar,Barwala(Hisar),Litchi,Other,Medium,2019-06-20,6500,6500,6500,351
+Haryana,Hissar,Barwala(Hisar),Litchi,Other,Medium,2019-06-22,6500,6500,6500,351
+Haryana,Jhajar,Bahadurgarh,Litchi,Other,Medium,2019-05-22,8000,8000,8000,351
+Haryana,Jhajar,Bahadurgarh,Litchi,Other,Medium,2019-05-24,8000,8000,8000,351
+Haryana,Kaithal,Cheeka,Litchi,Litchi,Large,2019-06-01,9000,9000,9000,351
+Haryana,Kaithal,Cheeka,Litchi,Litchi,Large,2019-06-24,8000,8000,8000,351
+Haryana,Kaithal,Cheeka,Litchi,Litchi,Large,2019-06-28,8000,8000,8000,351
+Haryana,Karnal,Asandh,Litchi,Other,Large,2019-06-15,4000,4200,4150,351
+Haryana,Karnal,Asandh,Litchi,Other,Large,2019-06-21,4000,4200,4150,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-05-30,10000,10000,10000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-06-08,6000,7000,6500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-06-11,5500,7000,6000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-06-22,6000,7000,6500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-06-24,5000,7000,6000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-06-26,6500,6500,6500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-06-27,5700,7000,6000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-06-28,6000,7000,6500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2019-07-02,7000,7000,7000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2019-06-28,8000,8000,8000,351
+Haryana,Sonipat,Ganaur,Litchi,Litchi,Medium,2019-05-26,6000,7200,6500,351
+Haryana,Sonipat,Ganaur,Litchi,Litchi,Medium,2019-06-27,6000,7200,6800,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2019-05-04,8500,8800,8650,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2019-05-08,9000,9200,9150,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2019-05-17,14000,15500,15000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2019-05-21,12000,13500,13000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2019-05-22,13000,15500,14000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2019-06-20,8000,9000,8500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2019-06-21,7800,9000,8500,351
+Himachal Pradesh,Bilaspur,Bilaspur,Litchi,Other,Medium,2019-07-11,4000,4500,4200,351
+Himachal Pradesh,Chamba,Chamba,Litchi,Other,Medium,2019-07-05,6400,6600,6500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2019-06-15,9000,10000,9500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2019-06-20,7000,8000,7500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2019-06-26,4000,5000,4500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2019-07-08,4000,5000,4500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2019-07-09,3000,5000,4000,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2019-07-16,3000,3200,3100,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Litchi,Medium,2019-07-08,5000,6000,6000,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Litchi,Medium,2019-07-09,7000,7500,7500,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Litchi,Medium,2019-07-15,3500,5000,4000,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2019-06-26,2000,3000,2500,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2019-07-02,2000,3000,2500,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2019-07-06,2000,3000,2500,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2019-07-08,3000,3500,3250,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2019-07-16,2500,3500,3000,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2019-06-27,7000,7500,7250,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2019-07-10,5000,7000,6000,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2019-08-01,5000,6000,5500,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2019-08-02,5000,6000,5500,351
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Litchi,Other,Large,2019-06-26,6000,7000,6500,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2019-06-24,4000,6500,6000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2019-07-22,4000,6000,6000,351
+Himachal Pradesh,Sirmore,Nahan,Litchi,Other,Medium,2019-06-18,5000,6000,5500,351
+Himachal Pradesh,Una,Santoshgarh,Litchi,Litchi,Medium,2019-07-11,3500,3500,3500,351
+Himachal Pradesh,Una,Santoshgarh,Litchi,Other,Medium,2019-07-04,3600,3600,3600,351
+Jammu and Kashmir,Jammu,Akhnoor,Litchi,Litchi,Large,2019-06-28,4000,4200,4100,351
+Madhya Pradesh,Bhopal,Bhopal(F&V),Litchi,Litchi,Medium,2019-05-23,1000,2000,1500,351
+Madhya Pradesh,Bhopal,Bhopal(F&V),Litchi,Litchi,Medium,2019-05-28,2000,4000,3000,351
+Madhya Pradesh,Bhopal,Bhopal(F&V),Litchi,Litchi,Medium,2019-06-01,2000,4000,3000,351
+Madhya Pradesh,Bhopal,Bhopal(F&V),Litchi,Litchi,Medium,2019-06-05,2000,4000,3000,351
+Madhya Pradesh,Bhopal,Bhopal(F&V),Litchi,Litchi,Medium,2019-06-08,2000,3000,2500,351
+Madhya Pradesh,Bhopal,Bhopal(F&V),Litchi,Litchi,Medium,2019-06-11,2000,4000,3000,351
+Madhya Pradesh,Bhopal,Bhopal(F&V),Litchi,Litchi,Medium,2019-06-13,2000,4000,3000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2019-06-11,6500,11000,8700,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2019-06-12,6500,11000,8750,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2019-06-21,7000,12000,9500,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2019-06-22,7000,12000,9500,351
+Meghalaya,East Jaintia Hills,Khliehriat,Litchi,Other,Large,2019-05-20,7000,10000,8500,351
+Meghalaya,East Jaintia Hills,Khliehriat,Litchi,Other,Large,2019-05-28,8000,10000,9000,351
+Meghalaya,East Khasi Hills,Sohra,Litchi,Other,Medium,2019-07-13,5000,7000,6000,351
+Meghalaya,East Khasi Hills,Sohra,Litchi,Other,Medium,2019-07-30,6000,10000,8000,351
+Meghalaya,West Garo Hills,Dadengiri,Litchi,Litchi,Medium,2019-05-29,1500,2000,1800,351
+Meghalaya,West Garo Hills,Rongram,Litchi,Litchi,Medium,2019-05-31,1500,2000,1800,351
+Meghalaya,West Garo Hills,Tura,Litchi,Other,Medium,2019-05-21,4000,4500,4400,351
+Meghalaya,West Garo Hills,Tura,Litchi,Other,Medium,2019-05-31,3000,3500,3400,351
+Meghalaya,West Garo Hills,Tura,Litchi,Other,Medium,2019-06-03,4000,4500,4400,351
+Meghalaya,West Garo Hills,Tura,Litchi,Other,Medium,2019-06-07,3000,3500,3400,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2021-06-02,5500,5500,5500,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2021-06-07,4000,6000,5500,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2021-06-14,4000,6000,5500,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2021-06-15,5000,5000,5000,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2021-06-22,4500,6000,5300,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2021-06-12,4500,7500,7000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2021-06-18,5000,7000,6500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2021-06-21,5500,7000,6500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2021-06-28,6000,6500,6200,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2021-06-16,5000,5000,5000,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2021-06-26,8500,9000,8750,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2021-07-24,9000,10000,9500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2021-07-01,3000,4000,3500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2021-07-06,4000,5000,4500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2021-07-12,4000,5000,4500,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Litchi,Medium,2021-06-29,5000,5000,5000,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Litchi,Medium,2021-07-16,5000,5000,5000,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2021-06-15,3000,7000,5000,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2021-07-13,5000,6000,5500,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2021-07-05,3000,5000,4000,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2021-07-06,4000,5000,4500,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2021-07-08,5000,5500,5250,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2021-07-15,4000,5000,4500,351
+Himachal Pradesh,Kullu,Kullu,Litchi,Litchi,Medium,2021-06-29,8000,9000,8500,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2021-07-05,6000,8000,7000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2021-07-07,6500,10000,8000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2021-07-10,5000,9000,8000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2021-07-30,12000,12000,12000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2021-06-26,7000,9000,8000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2021-06-29,6500,9000,7750,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2021-07-09,7000,9000,8000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2021-07-15,7000,9000,8000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2021-07-16,7000,8000,8000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2021-06-03,3000,7000,4000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2021-06-04,4000,6000,4500,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2021-06-09,3000,6300,4000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2021-07-01,2000,5000,3000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2021-07-15,2000,5000,3500,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-02,7000,10000,8500,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-03,6800,7000,6900,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-04,6000,8000,7000,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-09,3000,7000,5000,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-12,3000,6800,4900,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-16,5000,7200,6100,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-18,5200,6000,5600,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-22,4000,7000,5500,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2021-06-28,6000,6000,6000,351
+Punjab,Fatehgarh,Bassi Pathana,Litchi,Litchi,Medium,2021-06-26,7000,9000,8000,351
+Punjab,Fazilka,Jalalabad,Litchi,Litchi,Large,2021-06-11,4000,4000,4000,351
+Punjab,Fazilka,Jalalabad,Litchi,Litchi,Large,2021-06-17,10000,10000,10000,351
+Punjab,Fazilka,Jalalabad,Litchi,Litchi,Large,2021-06-28,6000,6000,6000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2021-06-16,7000,11000,9000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2021-06-19,6000,9000,7500,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2021-07-05,6000,10000,8000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2021-07-08,6000,7000,6500,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2021-07-09,5000,8000,6500,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2021-06-25,4000,6000,5000,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2021-06-29,3000,3500,3200,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2021-07-03,3100,3300,3200,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2021-07-09,2500,3000,2800,351
+Punjab,Gurdaspur,Quadian,Litchi,Other,Medium,2021-06-25,3000,4000,3500,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Large,2021-06-04,5000,6500,5750,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Large,2021-06-09,4500,5000,4750,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2021-06-09,2500,3500,3000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2021-06-10,2500,2500,2500,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Large,2021-06-16,4000,4500,4250,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Large,2021-06-18,3200,4000,3600,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2021-06-25,2000,2500,2250,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2021-06-26,2000,3000,2500,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2021-07-02,2000,2500,2250,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2021-07-03,2500,2500,2500,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Medium,2021-05-27,9000,10000,9500,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Medium,2021-06-09,6000,6500,6500,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Medium,2021-06-25,4000,5000,4500,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Medium,2021-07-05,3500,4000,3600,351
+Punjab,Hoshiarpur,Hoshiarpur,Litchi,Other,Large,2021-06-06,4000,6500,5000,351
+Punjab,Hoshiarpur,Hoshiarpur,Litchi,Other,Large,2021-06-07,5000,7000,6000,351
+Punjab,Hoshiarpur,Mukerian(Talwara),Litchi,Litchi,Medium,2021-06-28,2500,3500,3000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2021-05-25,5000,8000,6000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2021-05-26,5000,10000,7000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2021-06-12,2000,5500,3200,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2021-06-15,2000,4600,3000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2021-06-21,2000,5000,3000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2021-06-28,2000,4500,3000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2021-07-01,2000,4000,2600,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2021-05-24,5000,7000,6000,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2021-06-12,3000,5000,4000,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2021-06-19,3000,5000,4000,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2021-06-22,3000,6000,4000,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2021-07-05,3000,7000,4000,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2021-07-10,5000,8000,6000,351
+Punjab,Muktsar,Bariwala,Litchi,Litchi,Medium,2021-05-27,5000,5000,5000,351
+Punjab,Muktsar,Bariwala,Litchi,Litchi,Medium,2021-06-18,8000,8000,8000,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-05-29,7000,8000,7500,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-05-31,7000,8000,7500,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-06-07,8000,9000,8500,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-06-09,7500,9000,8000,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-06-25,5500,6500,6000,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-06-29,4500,5000,4800,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-07-02,4500,6000,5000,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-07-12,6000,7000,6500,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-07-30,9500,10500,10000,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2021-07-31,10400,10600,10500,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Medium,2021-06-24,6000,8000,7000,351
+Punjab,Muktsar,Muktsar,Litchi,Other,Medium,2021-07-01,4000,6000,5000,351
+Punjab,Pathankot,Pathankot,Litchi,Other,Medium,2021-06-15,2200,3000,2600,351
+Punjab,Pathankot,Pathankot,Litchi,Other,Medium,2021-06-24,5000,5500,5250,351
+Punjab,Patiala,Dudhansadhan,Litchi,Other,Medium,2021-06-30,10000,12000,11000,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-05-26,6000,8000,7000,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-06-02,6000,8000,7000,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-06-04,7000,8000,7500,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-06-19,7000,7500,7250,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-06-23,6000,7500,6750,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-06-24,6000,8000,7000,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-07-07,5000,6000,5500,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-07-09,3000,6000,4500,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2021-07-11,6000,8000,7000,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2021-06-26,8000,9000,8500,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Medium,2021-05-29,6100,6100,6100,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Medium,2021-06-16,7000,8000,7500,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Large,2021-06-25,6500,6500,6500,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Large,2021-06-29,8000,8000,8000,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Large,2021-07-06,6000,6000,6000,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Large,2021-07-08,6500,6500,6500,351
+Punjab,Sangrur,Bhawanigarh,Litchi,Other,Large,2021-07-11,6500,6500,6500,351
+Punjab,Sangrur,Lehra Gaga,Litchi,Other,Medium,2021-06-25,9000,9000,9000,351
+Punjab,Sangrur,Malerkotla,Litchi,Litchi,Large,2021-06-07,6000,8500,7000,351
+Punjab,Sangrur,Malerkotla,Litchi,Litchi,Large,2021-06-11,4500,7000,5500,351
+Punjab,Sangrur,Malerkotla,Litchi,Litchi,Large,2021-06-17,4000,6500,5000,351
+Punjab,Sangrur,Malerkotla,Litchi,Litchi,Large,2021-06-18,4000,7000,5000,351
+Punjab,Sangrur,Malerkotla,Litchi,Litchi,Large,2021-06-23,5000,6500,5750,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-05-24,8000,8500,8500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-05-25,6000,7500,7000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-05-27,7000,7000,7000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-06-07,7000,7400,7400,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-06-09,6000,7000,7000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-06-14,5500,6000,6000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-06-18,6000,7000,7000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-06-21,6000,6200,6200,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-07-05,4000,4000,4000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-07-06,3500,4500,4000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2021-07-07,5000,6000,6000,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2021-06-07,5000,7000,6000,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2021-06-09,6000,7000,6500,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2021-06-19,4000,6000,5000,351
+Punjab,Sangrur,Sunam,Litchi,Other,Medium,2021-06-22,5000,6000,5500,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2021-05-26,5450,5700,5550,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2021-06-02,4700,5000,4800,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2021-06-05,3750,3850,3800,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2021-06-16,4550,4700,4625,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2021-06-17,4600,4700,4650,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2021-06-05,3750,3850,3800,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2021-06-11,3780,3880,3830,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2021-06-16,4550,4650,4600,351
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj,Litchi,Litchi,Medium,2021-05-31,4000,4000,4000,351
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Litchi,Litchi,Medium,2021-06-17,4400,4600,4500,351
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Litchi,Litchi,Medium,2021-06-18,4400,4600,4500,351
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Litchi,Litchi,Medium,2021-06-19,4450,4650,4550,351
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Litchi,Litchi,Medium,2021-06-28,4150,4350,4250,351
+Uttar Pradesh,Gorakhpur,Gorakhpur,Litchi,Litchi,Medium,2021-06-15,4550,4750,4650,351
+Uttar Pradesh,Kushinagar,Tamkuhi road,Litchi,Litchi,Medium,2021-05-31,2050,2100,2075,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2021-06-02,4400,4800,4500,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2021-06-03,4400,4600,4500,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2021-06-06,4450,4650,4550,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2021-06-09,4400,4600,4500,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-05-28,4475,4600,4600,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-02,4575,4800,4650,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-05,4535,4700,4600,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-07,4480,4600,4550,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-10,4450,4600,4530,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-19,4250,4370,4300,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-23,4200,4350,4265,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-25,4100,4270,4125,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-06-26,4210,4300,4250,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-07-01,4700,4900,4880,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-07-03,5670,5800,5750,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2021-07-05,5780,5950,5900,351
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Litchi,Litchi,Medium,2021-06-09,4470,4650,4540,351
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Litchi,Litchi,Medium,2021-06-14,4400,4580,4490,351
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Litchi,Litchi,Medium,2021-06-19,4400,4600,4470,351
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Litchi,Litchi,Medium,2021-06-22,4400,4525,4450,351
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Litchi,Litchi,Medium,2021-06-27,4120,4350,4250,351
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Litchi,Litchi,Medium,2021-06-30,4200,4300,4260,351
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Litchi,Litchi,Medium,2021-07-04,4450,4600,4500,351
+Uttar Pradesh,Saharanpur,Chutmalpur,Litchi,Litchi,Medium,2021-06-02,4800,5200,5000,351
+Uttar Pradesh,Saharanpur,Chutmalpur,Litchi,Litchi,Medium,2021-06-06,4500,4750,4650,351
+Uttar Pradesh,Saharanpur,Chutmalpur,Litchi,Litchi,Medium,2021-06-08,1700,4900,4800,351
+Uttar Pradesh,Saharanpur,Chutmalpur,Litchi,Litchi,Medium,2021-06-10,4800,5000,4900,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-06-11,4370,4680,4525,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-06-12,4350,4660,4500,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-06-18,4330,4620,4480,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-06-25,4140,4420,4280,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-07-03,4350,4650,4500,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-07-07,4500,4800,4650,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-07-11,4900,5150,5020,351
+Uttar Pradesh,Saharanpur,Saharanpur,Litchi,Litchi,Medium,2021-07-13,4900,5200,5025,351
+Uttar Pradesh,Sambhal,Muradabad,Litchi,Litchi,Medium,2021-06-10,4450,4550,4500,351
+Uttar Pradesh,Sambhal,Muradabad,Litchi,Litchi,Medium,2021-06-21,4370,4470,4420,351
+Uttar Pradesh,Sambhal,Muradabad,Litchi,Litchi,Medium,2021-06-22,4380,4480,4430,351
+Uttar Pradesh,Sambhal,Muradabad,Litchi,Litchi,Medium,2021-06-24,4370,4470,4420,351
+Uttar Pradesh,Sambhal,Muradabad,Litchi,Litchi,Medium,2021-06-28,4300,4400,4350,351
+Uttar Pradesh,Sambhal,Muradabad,Litchi,Litchi,Medium,2021-07-06,4400,4500,4450,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2021-05-05,2600,2700,2670,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2021-05-07,2600,2700,2650,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2021-05-10,2600,2700,2660,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2021-06-02,2400,2500,2460,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2021-06-08,2400,2500,2470,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2021-06-09,2400,2500,2440,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2020-05-30,6000,6000,6000,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2020-06-13,3500,3500,3500,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2020-06-23,3500,3500,3500,351
+Haryana,Ambala,Naraingarh,Litchi,Litchi,Medium,2020-07-08,3000,3000,3000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2020-05-22,7000,10000,8500,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2020-06-02,3000,5000,4000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2020-06-16,2500,3500,3000,351
+Haryana,Fatehabad,Fatehabad,Litchi,Other,Medium,2020-06-22,2500,4500,3500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-02-16,3000,3500,3200,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-04-13,200,400,300,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-06-03,5860,8500,7000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-06-16,4000,6000,5000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-06-25,5000,7000,5000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-06-26,5000,7000,6000,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-06-29,5000,6000,5500,351
+Haryana,Kurukshetra,Shahabad,Litchi,Litchi,Medium,2020-06-30,5000,7000,6000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2020-06-05,7000,7000,7000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2020-06-18,4000,4000,4000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2020-06-19,4000,7500,7500,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2020-06-20,4000,5000,5000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Litchi,Medium,2020-06-25,2000,2000,2000,351
+Haryana,Yamuna Nagar,Chhachrauli,Litchi,Litchi,Medium,2020-06-24,3000,3000,3000,351
+Himachal Pradesh,Bilaspur,Bilaspur,Litchi,Litchi,Medium,2020-06-10,8500,10000,9000,351
+Himachal Pradesh,Bilaspur,Bilaspur,Litchi,Litchi,Medium,2020-06-18,5000,7000,6000,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2020-06-04,7000,7500,7250,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2020-06-10,9500,10000,9750,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2020-06-15,7500,7500,7500,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2020-06-25,8200,8300,8250,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2020-06-26,6600,8300,7400,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Medium,2020-06-29,6600,8300,7400,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Medium,2020-06-25,6400,7000,6700,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Medium,2020-07-06,5000,5200,5100,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2020-06-19,4500,5000,4750,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2020-06-22,4000,5000,4500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2020-06-27,2000,4000,3000,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2020-07-03,2000,2500,2250,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2020-07-11,3000,3500,3250,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Litchi,Medium,2020-06-25,7000,7500,7300,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2020-06-17,3000,3500,3250,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2020-06-24,2000,3200,2600,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Litchi,Medium,2020-06-26,2500,4000,3250,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2020-07-08,2000,3000,2500,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2020-07-13,3000,4000,3500,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2020-07-17,3500,4000,3800,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Other,Medium,2020-07-21,3500,4000,3800,351
+Himachal Pradesh,Kullu,Kullu,Litchi,Litchi,Medium,2020-06-24,5000,7000,6000,351
+Himachal Pradesh,Kullu,Kullu,Litchi,Litchi,Medium,2020-07-12,6000,7000,6500,351
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Litchi,Litchi,Medium,2020-06-20,5000,6500,5750,351
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Litchi,Litchi,Medium,2020-06-30,3500,5000,4250,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2020-06-11,4000,11000,8000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2020-06-18,7000,8000,7000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2020-06-26,5700,8500,7000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Litchi,Medium,2020-06-30,3500,6000,5000,351
+Himachal Pradesh,Solan,Solan,Litchi,Litchi,Medium,2020-06-06,7000,8000,7500,351
+Himachal Pradesh,Solan,Solan,Litchi,Litchi,Medium,2020-06-16,5000,8000,6000,351
+Himachal Pradesh,Solan,Solan,Litchi,Litchi,Medium,2020-06-20,4000,5500,5000,351
+Himachal Pradesh,Solan,Solan,Litchi,Litchi,Medium,2020-06-25,6000,6500,6000,351
+Himachal Pradesh,Solan,Solan,Litchi,Litchi,Medium,2020-06-26,6000,6500,6000,351
+Himachal Pradesh,Solan,Solan,Litchi,Other,Medium,2020-06-27,6000,6500,6000,351
+Jammu and Kashmir,Jammu,Akhnoor,Litchi,Litchi,Medium,2020-06-19,600,650,625,351
+Jammu and Kashmir,Jammu,Akhnoor,Litchi,Litchi,Medium,2020-06-23,650,700,675,351
+Jammu and Kashmir,Jammu,Akhnoor,Litchi,Litchi,Medium,2020-07-04,700,720,710,351
+Jammu and Kashmir,Jammu,Akhnoor,Litchi,Litchi,Medium,2020-07-07,800,820,810,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2020-07-03,10000,15000,12500,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2020-07-17,9000,13000,11000,351
+Maharashtra,Mumbai,Mumbai- Fruit Market,Litchi,Other,FAQ,2020-07-22,9000,13000,11000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-05-29,1500,2600,2000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-06-02,2500,5000,3000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-06-03,2500,5200,3100,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-06-23,1500,3100,2000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-07-09,2000,3800,2700,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-07-10,1500,3500,2200,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-07-11,1000,3300,2000,351
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Litchi,Other,Medium,2020-07-15,1700,3600,2200,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2020-06-22,7000,8000,7500,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2020-06-25,5000,6000,5500,351
+Punjab,Barnala,Barnala,Litchi,Other,Large,2020-06-29,4000,6000,5000,351
+Punjab,Faridkot,Faridkot,Litchi,Litchi,Large,2020-06-12,6000,7000,6500,351
+Punjab,Fatehgarh,Bassi Pathana,Litchi,Litchi,Medium,2020-06-26,6000,7000,6500,351
+Punjab,Fatehgarh,Bassi Pathana,Litchi,Litchi,Medium,2020-06-27,6000,7000,6500,351
+Punjab,Fazilka,Abohar,Litchi,Litchi,Medium,2020-06-24,4000,6000,5000,351
+Punjab,Fazilka,Jalalabad,Litchi,Litchi,Large,2020-06-26,5000,5000,5000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2020-06-10,7000,8000,7500,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2020-06-22,4000,6000,5000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2020-06-23,5000,6000,5500,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2020-07-04,4500,5500,5000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2020-07-05,4500,5500,5000,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Litchi,Medium,2020-06-26,6000,6500,6200,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Litchi,Medium,2020-06-27,6000,6500,6200,351
+Punjab,Ferozpur,Zira,Litchi,Other,Large,2020-07-13,500,700,600,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2020-06-23,3500,4000,3800,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2020-06-24,3500,4000,3800,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2020-06-27,3500,4000,3800,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2020-06-29,2800,4000,3600,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2020-07-15,3000,4000,3500,351
+Punjab,Gurdaspur,Dinanagar,Litchi,Litchi,Medium,2020-07-19,3600,4000,3800,351
+Punjab,Gurdaspur,Gurdaspur,Litchi,Other,Medium,2020-07-15,3000,3500,3200,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Large,2020-06-16,3500,5000,5000,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2020-06-27,1500,1800,1800,351
+Punjab,Hoshiarpur,Dasuya,Litchi,Other,Medium,2020-06-30,1500,2000,2000,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Large,2020-06-12,4000,6000,5000,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Large,2020-06-17,3500,4500,4000,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Large,2020-06-20,3500,4500,4000,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Large,2020-06-22,3500,4500,3800,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Large,2020-06-24,3000,4000,3500,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Large,2020-06-26,4000,5000,4500,351
+Punjab,Hoshiarpur,Garh Shankar,Litchi,Litchi,Large,2020-07-02,4000,5000,4500,351
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Litchi,Litchi,Medium,2020-06-19,5000,6000,5500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2020-06-09,1500,5500,4000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2020-06-12,2000,5000,3000,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2020-06-27,1500,4000,2500,351
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Litchi,Other,Medium,2020-07-10,2000,5000,3000,351
+Punjab,kapurthala,Phagwara,Litchi,Other,Medium,2020-07-02,4303,4303,4303,351
+Punjab,Ludhiana,Ludhiana,Litchi,Other,Medium,2020-07-20,3000,7000,4500,351
+Punjab,Muktsar,Bariwala,Litchi,Litchi,Medium,2020-06-22,4000,5000,5000,351
+Punjab,Muktsar,Malout,Litchi,Other,Medium,2020-06-17,5500,6500,6000,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2020-06-20,5000,6000,5500,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2020-06-24,9000,10000,9600,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2020-06-30,5000,6000,5500,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2020-05-29,6000,7000,6500,351
+Punjab,Patiala,Rajpura,Litchi,Other,Medium,2020-06-30,4000,8000,6000,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2020-06-26,5500,7000,6000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2020-05-24,800,800,800,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2020-06-22,5000,5500,5500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2020-06-25,4400,4500,4500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2020-07-01,4200,4200,4200,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2020-05-24,4950,5200,5000,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2020-06-01,4000,4300,4100,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2020-06-06,3900,4200,4000,351
+Uttar Pradesh,Ayodhya,Faizabad,Litchi,Litchi,Medium,2020-06-07,4000,4200,4100,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2020-06-05,3800,3900,3840,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2020-06-08,3500,3600,3550,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2020-06-13,3250,3350,3290,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2020-06-21,3550,3665,3610,351
+Uttar Pradesh,Azamgarh,Azamgarh,Litchi,Litchi,Medium,2020-06-23,3600,3700,3650,351
+Uttar Pradesh,Bahraich,Bahraich,Litchi,Litchi,Medium,2020-06-24,3500,3650,3600,351
+Uttar Pradesh,Ballia,Rasda,Litchi,Litchi,Medium,2020-06-10,3840,4000,3930,351
+Uttar Pradesh,Ballia,Rasda,Litchi,Litchi,Medium,2020-06-14,3860,3980,3910,351
+Uttar Pradesh,Ballia,Rasda,Litchi,Litchi,Medium,2020-06-27,3960,4070,4020,351
+Uttar Pradesh,Ballia,Rasda,Litchi,Litchi,Medium,2020-06-28,3960,4080,4010,351
+Uttar Pradesh,Ballia,Rasda,Litchi,Litchi,Medium,2020-06-30,4020,4140,4070,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2020-05-28,4400,4510,4460,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2020-05-30,3950,4050,4000,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2020-06-02,3800,4000,3900,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2020-06-04,3750,3850,3800,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2020-06-05,3700,3800,3750,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2020-06-12,3200,3300,3250,351
+Uttar Pradesh,Basti,Basti,Litchi,Litchi,Medium,2020-06-17,3220,3330,3280,351
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Litchi,Litchi,Medium,2020-07-13,4100,4300,4200,351
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Litchi,Litchi,Medium,2020-07-14,4100,4300,4200,351
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Litchi,Litchi,Medium,2020-07-18,4300,4500,4400,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2020-06-02,2800,3200,3000,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2020-06-03,2600,3000,2800,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2020-06-08,3000,3300,3200,351
+Uttar Pradesh,Lucknow,Lucknow,Litchi,Litchi,Medium,2020-06-15,4000,4500,4200,351
+Uttar Pradesh,Maharajganj,Anandnagar,Litchi,Litchi,Medium,2020-06-06,3700,3900,3800,351
+Uttar Pradesh,Maharajganj,Anandnagar,Litchi,Litchi,Medium,2020-06-09,3400,3550,3500,351
+Uttar Pradesh,Maharajganj,Anandnagar,Litchi,Litchi,Medium,2020-06-12,3050,3250,3150,351
+Uttar Pradesh,Maharajganj,Anandnagar,Litchi,Litchi,Medium,2020-06-13,3000,3200,3100,351
+Uttar Pradesh,Maharajganj,Anandnagar,Litchi,Litchi,Medium,2020-06-22,3450,3650,3550,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2020-06-25,5000,5200,5150,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2020-07-15,4500,4700,4650,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2020-07-17,4350,4550,4500,351
+Uttar Pradesh,Meerut,Meerut,Litchi,Litchi,Medium,2020-07-20,4300,4500,4450,351
+Uttar Pradesh,Muzaffarnagar,Shahpur,Litchi,Litchi,Medium,2020-02-21,1240,1260,1250,351
+Uttar Pradesh,Muzaffarnagar,Shahpur,Litchi,Litchi,Medium,2020-02-23,1240,1260,1250,351
+Uttar Pradesh,Muzaffarnagar,Shahpur,Litchi,Litchi,Medium,2020-02-24,1230,1280,1255,351
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Litchi,Litchi,Medium,2020-05-24,2450,2700,2600,351
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Litchi,Litchi,Large,2020-05-28,2400,2600,2500,351
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad,Litchi,Litchi,Medium,2020-05-31,2450,2650,2550,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2020-05-07,2000,2200,2120,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Litchi,Medium,2020-06-17,3500,3600,3550,351
+Uttar Pradesh,Siddharth Nagar,Naugarh,Litchi,Litchi,Medium,2020-06-03,3870,3890,3880,351
+Uttar Pradesh,Siddharth Nagar,Naugarh,Litchi,Litchi,Medium,2020-06-11,3410,3430,3420,351
+Uttar Pradesh,Siddharth Nagar,Naugarh,Litchi,Litchi,Medium,2020-06-23,3560,3580,3570,351
+Uttar Pradesh,Siddharth Nagar,Naugarh,Litchi,Litchi,Medium,2020-06-26,3640,3660,3650,351
+Uttar Pradesh,Varanasi,Varanasi(F&V),Litchi,Litchi,Medium,2020-06-08,3100,3500,3350,351
+Uttar Pradesh,Varanasi,Varanasi(F&V),Litchi,Litchi,Medium,2020-06-25,3850,4200,4050,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Other,Medium,2011-06-14,2000,3000,2500,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Other,Medium,2011-06-17,2000,3000,2500,351
+Haryana,Ambala,Ambala Cantt.,Litchi,Other,Medium,2011-06-23,3000,5200,4000,351
+Haryana,Ambala,Naraingarh,Litchi,Other,Medium,2011-05-26,3000,3000,3000,351
+Haryana,Ambala,Naraingarh,Litchi,Other,Medium,2011-05-31,3000,3000,3000,351
+Haryana,Ambala,Naraingarh,Litchi,Other,Medium,2011-06-02,3500,3500,3500,351
+Haryana,Ambala,Naraingarh,Litchi,Other,Medium,2011-06-09,1500,2500,2200,351
+Haryana,Ambala,Naraingarh,Litchi,Other,Medium,2011-06-15,2000,2000,2000,351
+Haryana,Ambala,Naraingarh,Litchi,Other,Medium,2011-06-16,2000,2000,2000,351
+Haryana,Ambala,Naraingarh,Litchi,Other,Medium,2011-06-17,2000,2000,2000,351
+Haryana,Bhiwani,Ch. Dadri,Litchi,Other,Medium,2011-05-26,2800,3200,3000,351
+Haryana,Bhiwani,Ch. Dadri,Litchi,Other,Medium,2011-05-29,4000,5000,4500,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Other,Small,2011-05-25,5000,5000,5000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Other,Small,2011-06-04,4000,4000,4000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Other,Small,2011-06-05,5000,5000,5000,351
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Litchi,Other,Small,2011-06-21,4000,4000,4000,351
+Haryana,Palwal,Palwal,Litchi,Litchi,Small,2011-06-26,2500,2500,2500,351
+Haryana,Palwal,Palwal,Litchi,Litchi,Small,2011-06-30,3000,3000,3000,351
+Haryana,Rohtak,Rohtak,Litchi,Other,Medium,2011-06-13,2200,2800,2500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-04,1500,5000,5000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-05,1500,5500,5500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-07,1500,5000,5000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-08,1500,4500,4500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-09,1500,4500,4500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-10,1500,4500,4500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-12,1500,5500,5500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-15,2000,6500,6500,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-18,1500,6000,6000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-27,2000,6000,6000,351
+Haryana,Yamuna Nagar,Yamuna Nagar,Litchi,Other,Medium,2011-06-28,2000,6000,6000,351
+Himachal Pradesh,Bilaspur,Bilaspur,Litchi,Other,Medium,2011-05-26,5000,7000,6000,351
+Himachal Pradesh,Chamba,Chamba,Litchi,Litchi,Medium,2011-07-04,4000,4500,4250,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Large,2011-06-17,4000,4500,4500,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Large,2011-06-25,4500,5500,5000,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Large,2011-06-28,4000,5500,5000,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Large,2011-07-02,4000,5500,5500,351
+Himachal Pradesh,Hamirpur,Hamirpur,Litchi,Other,Large,2011-07-14,3500,3500,3500,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2011-06-16,4000,4500,4500,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2011-06-21,6000,6500,6500,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2011-06-22,4500,4500,4500,351
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Litchi,Other,Large,2011-06-25,5000,5000,5000,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2011-06-09,5000,6000,5500,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2011-06-16,4500,5000,4750,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2011-06-27,2500,3000,2750,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2011-06-29,2500,3000,2750,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2011-07-02,2500,3000,2750,351
+Himachal Pradesh,Kangra,Kangra,Litchi,Other,Medium,2011-07-12,2000,2500,2250,351
+Himachal Pradesh,Kangra,Kangra(Baijnath),Litchi,Litchi,Medium,2011-06-18,3200,3500,3350,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Other,Medium,2011-06-20,4500,5000,4750,351
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Litchi,Other,Medium,2011-06-24,4000,5000,4500,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2011-06-09,3500,4000,3750,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2011-06-17,2000,3000,2500,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2011-06-23,2000,3000,2500,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2011-07-01,2000,3000,2500,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2011-07-04,3000,3500,3250,351
+Himachal Pradesh,Kangra,Kangra(Jassour),Litchi,Other,Medium,2011-07-08,3000,3500,3250,351
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Litchi,Litchi,Medium,2011-06-28,3500,4500,4000,351
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Litchi,Litchi,Medium,2011-06-30,3500,4000,3750,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Litchi,Medium,2011-07-06,3000,3200,3100,351
+Himachal Pradesh,Kangra,Palampur,Litchi,Litchi,Medium,2011-07-12,3500,3800,3650,351
+Himachal Pradesh,Kullu,Bhuntar,Litchi,Other,Medium,2011-06-12,5000,6000,5500,351
+Himachal Pradesh,Kullu,Bhuntar,Litchi,Other,Medium,2011-06-15,4000,5000,4500,351
+Himachal Pradesh,Kullu,Bhuntar,Litchi,Other,Medium,2011-06-23,4000,4500,4250,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2011-06-14,4000,5000,4500,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2011-06-17,4000,6000,5000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2011-06-23,2600,6000,4000,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2011-06-24,3500,5000,4500,351
+Himachal Pradesh,Mandi,Mandi(Mandi),Litchi,Other,Medium,2011-06-27,4000,5000,4500,351
+Himachal Pradesh,Sirmore,Nahan,Litchi,Other,Medium,2011-06-05,3000,3000,3000,351
+Himachal Pradesh,Sirmore,Nahan,Litchi,Other,Medium,2011-06-07,3000,5000,4000,351
+Himachal Pradesh,Sirmore,Nahan,Litchi,Other,Medium,2011-06-14,3500,4000,4000,351
+Himachal Pradesh,Sirmore,Nahan,Litchi,Other,Medium,2011-06-18,3000,3000,3000,351
+Himachal Pradesh,Sirmore,Paonta Sahib,Litchi,Other,Medium,2011-06-10,4000,4500,4000,351
+Himachal Pradesh,Sirmore,Paonta Sahib,Litchi,Other,Medium,2011-06-11,3500,4000,4000,351
+Himachal Pradesh,Sirmore,Paonta Sahib,Litchi,Other,Medium,2011-06-14,3000,3500,3500,351
+Himachal Pradesh,Una,Una,Litchi,Litchi,Medium,2011-06-05,4000,6000,5000,351
+Himachal Pradesh,Una,Una,Litchi,Litchi,Medium,2011-06-06,4000,4500,4250,351
+Himachal Pradesh,Una,Una,Litchi,Litchi,Medium,2011-06-07,4000,5000,4500,351
+Himachal Pradesh,Una,Una,Litchi,Litchi,Medium,2011-06-22,5000,5000,5000,351
+Himachal Pradesh,Una,Una,Litchi,Litchi,Medium,2011-06-28,5000,6000,5000,351
+Himachal Pradesh,Una,Una,Litchi,Litchi,Medium,2011-07-03,4000,4000,4000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2011-06-20,3500,4500,4000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2011-06-24,4000,6000,5000,351
+Punjab,Ferozpur,Firozepur City,Litchi,Other,Medium,2011-07-01,4000,6000,5000,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Other,Medium,2011-06-12,3000,3000,3000,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Other,Medium,2011-06-15,3500,3500,3500,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Other,Medium,2011-06-20,3500,4000,3800,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Other,Medium,2011-06-25,3000,3000,3000,351
+Punjab,Ferozpur,Guru Har Sahai,Litchi,Other,Medium,2011-07-02,4000,4000,4000,351
+Punjab,Gurdaspur,Batala,Litchi,Other,Medium,2011-06-22,2500,2700,2600,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-05-17,4000,6500,5500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-05-24,2500,5500,3500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-01,4000,7000,5500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-04,2800,5000,3500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-06,2500,4500,3500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-08,2800,4400,3500,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-09,2000,3500,2750,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-18,2200,3200,2800,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-22,2500,3800,3200,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-27,2000,3200,2600,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-06-28,2500,3500,3000,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-07-05,2400,3800,3000,351
+Punjab,Jalandhar,Jalandhar City,Litchi,Other,Medium,2011-07-07,2500,4000,3500,351
+Punjab,kapurthala,Phagwara,Litchi,Other,Medium,2011-06-10,3800,3800,3800,351
+Punjab,kapurthala,Phagwara,Litchi,Other,Medium,2011-06-14,2150,2150,2150,351
+Punjab,kapurthala,Phagwara,Litchi,Other,Medium,2011-06-17,3200,3200,3200,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2011-05-31,4000,5000,4600,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2011-06-03,4000,4500,4270,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2011-06-08,5000,5500,5270,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2011-06-09,4000,5000,4550,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2011-06-14,3000,3500,3270,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2011-06-22,3000,3500,3270,351
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Litchi,Litchi,Medium,2011-06-24,2000,2500,2250,351
+Punjab,Patiala,Patiala,Litchi,Other,Medium,2011-06-10,4000,5000,5000,351
+Punjab,Patiala,Patiala,Litchi,Other,Medium,2011-07-08,6000,6000,6000,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2011-05-19,10000,12000,10000,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2011-06-11,4000,6000,4500,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2011-06-20,3500,6000,4500,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2011-06-22,4500,6500,5000,351
+Punjab,Patiala,Samana,Litchi,Litchi,Medium,2011-06-24,5000,6000,5500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2011-06-01,4500,5000,4500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2011-06-02,4500,4500,4500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2011-06-09,4000,5000,4500,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Large,2011-06-15,3700,4000,4000,351
+Punjab,Sangrur,Sangrur,Litchi,Litchi,Medium,2011-06-18,3000,3700,3700,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-05-28,3000,4200,3900,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-01,3000,4000,3500,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-07,3000,4800,3800,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-10,3000,4500,3800,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-18,0,0,3000,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-22,2600,3500,3000,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-26,2800,3500,3000,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-27,2700,3500,2800,351
+Rajasthan,Ajmer,Ajmer(F&V),Litchi,Other,Small,2011-06-30,4000,6000,5000,351
+Rajasthan,Bikaner,Bikaner (F&V),Litchi,Other,Medium,2011-06-11,5900,6100,6000,351
+Rajasthan,Bikaner,Bikaner (F&V),Litchi,Other,Medium,2011-06-14,3900,4100,4000,351
+Rajasthan,Bikaner,Bikaner (F&V),Litchi,Other,Medium,2011-06-19,4900,5100,5000,351
+Rajasthan,Bikaner,Bikaner (F&V),Litchi,Other,Medium,2011-06-28,3900,4100,4000,351
+Rajasthan,Bikaner,Bikaner (F&V),Litchi,Other,Medium,2011-07-06,4900,5100,5000,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2011-06-10,3400,3600,3500,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2011-06-14,1750,1950,1850,351
+Rajasthan,Ganganagar,Sriganganagar (F&V),Litchi,Other,Small,2011-07-04,2700,2900,2800,351
+Rajasthan,Jodhpur,Jodhpur (F&V),Litchi,Other,Medium,2011-06-24,3100,5500,4000,351
+Rajasthan,Jodhpur,Jodhpur (F&V),Litchi,Other,Medium,2011-06-28,4000,6000,5000,351
+Rajasthan,Jodhpur,Jodhpur (F&V),Litchi,Other,Medium,2011-06-29,3000,8000,5500,351
+Rajasthan,Jodhpur,Jodhpur (F&V),Litchi,Other,Medium,2011-07-05,3000,5000,4000,351
+Uttar Pradesh,Bijnor,Najibabad,Litchi,Other,Large,2011-06-06,0,0,5000,351
+Uttar Pradesh,Bijnor,Najibabad,Litchi,Other,Large,2011-06-10,0,0,4050,351
+Uttar Pradesh,Jhansi,Jhansi,Litchi,Other,Medium,2011-05-30,0,0,3200,351
+Uttar Pradesh,Jhansi,Jhansi,Litchi,Other,Medium,2011-06-08,0,0,3450,351
+Uttar Pradesh,Jhansi,Jhansi,Litchi,Other,Medium,2011-06-14,0,0,3100,351
+Uttar Pradesh,Saharanpur,Deoband,Litchi,Other,Medium,2011-06-07,2150,2500,2250,351
+Uttar Pradesh,Saharanpur,Deoband,Litchi,Other,Medium,2011-06-09,2100,2400,2240,351
+Uttar Pradesh,Shamli,Thanabhavan,Litchi,Other,Small,2011-06-27,1420,1480,1450,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Medium,2011-06-01,3000,5000,3000,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Medium,2011-06-07,1870,3490,2680,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Medium,2011-06-22,1890,3500,2695,351
+Uttrakhand,Dehradoon,Dehradoon,Litchi,Other,Medium,2011-06-24,1800,3200,2500,351
+Uttrakhand,Haridwar,Roorkee,Litchi,Other,Medium,2011-06-08,800,3100,1850,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2011-05-29,1600,1700,1700,351
+Uttrakhand,UdhamSinghNagar,Kicchha,Litchi,Litchi,Medium,2011-06-02,1900,1950,1920,351

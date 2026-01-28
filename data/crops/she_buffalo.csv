@@ -1,0 +1,379 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Assam,Cachar,Cachar,She Buffalo,Other,FAQ,2007-01-19,3500,8500,4500,217
+Assam,Cachar,Cachar,She Buffalo,Other,FAQ,2007-07-27,4200,10600,6500,217
+Assam,Cachar,Cachar,She Buffalo,Other,FAQ,2007-12-07,3200,13500,6500,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2007-08-08,6950,14000,12000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2007-09-13,5000,12500,11000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2007-09-27,5000,15000,9500,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2007-10-05,5000,15000,10000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,Medium,2007-11-15,5000,10500,9000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2007-01-04,4500,23000,13000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2007-01-11,4000,22000,13500,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2007-03-29,10000,24500,15000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2007-04-26,10000,22500,12000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2007-06-28,6250,20000,14000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2007-07-19,5000,22000,11500,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2007-10-11,8000,24000,14500,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2007-05-27,12000,15000,12205,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2007-07-29,7500,16000,15000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2007-08-19,5500,22000,13000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-02-11,9500,12000,11000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-02-12,6000,16000,10000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-02-14,11000,15000,13000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-03-12,6000,16500,14000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-05-19,9000,13000,10000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-06-23,2000,6000,4000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-09-14,9000,14000,12000,217
+Karnataka,Belgaum,Bailahongal,She Buffalo,She Baffelo,FAQ,2007-11-09,10000,18000,14000,217
+Karnataka,Belgaum,Kudchi,She Buffalo,She Baffelo,FAQ,2007-06-12,20000,20000,20000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2007-01-14,6000,13000,11000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2007-02-18,3500,12800,10500,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2007-06-17,7500,14000,9500,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2007-07-08,5000,11200,8100,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2007-11-25,8000,12500,8600,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2007-12-02,8500,13000,11500,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2007-12-16,7000,16500,9500,217
+Karnataka,Bijapur,Bijapur,She Buffalo,She Baffelo,FAQ,2007-01-21,9000,26000,24000,217
+Karnataka,Bijapur,Bijapur,She Buffalo,She Baffelo,FAQ,2007-06-03,9000,15000,12000,217
+Karnataka,Bijapur,Bijapur,She Buffalo,She Baffelo,FAQ,2007-06-10,3500,20000,15000,217
+Karnataka,Bijapur,Bijapur,She Buffalo,She Baffelo,FAQ,2007-08-05,3500,16000,12000,217
+Karnataka,Bijapur,Bijapur,She Buffalo,She Baffelo,FAQ,2007-09-09,9000,20000,14000,217
+Karnataka,Bijapur,Sindagi,She Buffalo,She Baffelo,FAQ,2007-02-20,5000,6000,5500,217
+Karnataka,Bijapur,Sindagi,She Buffalo,She Baffelo,FAQ,2007-09-22,9000,15000,14000,217
+Karnataka,Bijapur,Sindagi,She Buffalo,She Baffelo,FAQ,2007-11-26,8000,15000,13000,217
+Karnataka,Chitradurga,Hosadurga,She Buffalo,She Baffelo,Medium,2007-12-12,8000,13000,11000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2007-04-04,8000,12000,10000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2007-04-05,8000,12000,10000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2007-06-27,8000,10000,9000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2007-06-30,8000,10000,9000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2007-07-05,8000,13000,10000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Large,2007-09-06,12500,12500,12500,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Large,2007-12-13,5500,9500,9500,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2007-03-16,10000,10000,10000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2007-03-24,12500,13500,13000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,Medium,2007-05-29,10710,11870,11380,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,Medium,2007-07-03,10050,10960,10450,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,Large,2007-07-19,8500,9500,9000,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Medium,2007-01-25,1500,2500,2000,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Medium,2007-05-03,2000,3000,2500,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Medium,2007-06-28,2000,4000,3000,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Small,2007-07-05,1500,2500,2000,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Small,2007-09-20,2000,3000,2500,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Medium,2007-10-11,1000,1200,1100,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Small,2007-10-18,2000,3000,2500,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Small,2007-10-25,2000,2200,2100,217
+Karnataka,Hassan,Arasikere,She Buffalo,She Baffelo,Medium,2007-12-13,2500,3000,2600,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2007-05-18,8000,8000,8000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2007-06-01,5000,9000,8000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2007-09-14,8000,12000,11000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2007-10-27,8000,11000,10000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-02-17,4500,11600,7000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-03-09,5000,15000,8000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-04-20,6100,10700,7000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,Medium,2007-06-08,4200,14000,8000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-06-16,5000,12500,8000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-06-30,5000,15000,8000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-07-13,5000,10100,6000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-07-21,2500,11000,6000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-08-04,4600,20000,9000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-09-01,4000,19000,8000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-09-15,3800,14400,8000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2007-12-22,5500,12100,7000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2007-03-24,5000,6000,5600,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2007-08-27,5000,6000,5500,217
+Karnataka,Koppal,Kustagi,She Buffalo,She Baffelo,FAQ,2007-11-05,5000,6500,5750,217
+Karnataka,Koppal,Kustagi,She Buffalo,She Baffelo,FAQ,2007-11-11,7300,8750,8025,217
+Karnataka,Koppal,Kustagi,She Buffalo,She Baffelo,FAQ,2007-12-02,9000,12800,11775,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,FAQ,2007-04-02,3000,5000,4800,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,Medium,2007-06-11,4000,5000,4500,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,FAQ,2007-06-18,3000,5000,4200,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,Medium,2007-07-23,3000,5000,4300,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,Medium,2007-08-13,3100,5400,4500,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,Medium,2007-09-10,3000,6000,4800,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,Medium,2007-10-01,3500,5100,4500,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,Medium,2007-11-19,3000,5300,4500,217
+Karnataka,Mandya,K.R. Pet,She Buffalo,She Baffelo,Medium,2007-12-18,3000,5400,4500,217
+Karnataka,Mandya,Maddur,She Buffalo,She Baffelo,FAQ,2007-01-18,4400,5200,4800,217
+Karnataka,Mandya,Maddur,She Buffalo,She Baffelo,Medium,2007-02-28,4400,5200,4800,217
+Karnataka,Mandya,Maddur,She Buffalo,She Baffelo,FAQ,2007-05-28,4500,5500,5000,217
+Karnataka,Mandya,Maddur,She Buffalo,She Baffelo,Medium,2007-07-31,4500,5500,5000,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2007-01-28,2100,4700,3600,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2007-02-25,2000,4900,3800,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,FAQ,2007-03-31,2400,5200,4400,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,FAQ,2007-05-12,2800,5400,3900,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2007-06-02,3200,5700,4400,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2007-08-11,1500,5500,4000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2021-03-21,50000,70000,53200,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2021-03-28,32000,70000,40000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2021-07-18,25000,68000,50000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2021-08-04,51000,55000,54000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2021-08-05,51000,52000,52000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2021-01-31,48000,55000,49000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2021-02-21,41000,60000,45000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2021-11-14,35000,60000,49000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-01-03,25000,40000,33000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-03-07,22000,35000,29000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-04-18,24000,36000,32000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-06-30,25000,38000,33000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-08-29,32000,39000,35000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-09-05,28000,35000,34500,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-09-19,28000,37000,36000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-10-24,25000,38000,35000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-10-31,28000,49000,39000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-11-21,30000,40000,35000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2021-12-26,33000,41000,38000,217
+Maharashtra,Amarawati,Daryapur,She Buffalo,She Baffelo,FAQ,2021-10-21,14000,29000,18000,217
+Maharashtra,Amarawati,Daryapur,She Buffalo,She Baffelo,FAQ,2021-10-28,15000,25600,19600,217
+Maharashtra,Buldhana,Khamgaon,She Buffalo,She Baffelo,FAQ,2021-01-28,20000,60000,40000,217
+Maharashtra,Buldhana,Khamgaon,She Buffalo,She Baffelo,FAQ,2021-08-26,2500,50000,37500,217
+Maharashtra,Buldhana,Khamgaon,She Buffalo,She Baffelo,FAQ,2021-09-23,20000,75000,47500,217
+Maharashtra,Buldhana,Khamgaon,She Buffalo,She Baffelo,FAQ,2021-10-07,15000,40000,27500,217
+Maharashtra,Buldhana,Khamgaon,She Buffalo,She Baffelo,FAQ,2021-11-25,25000,40000,32500,217
+Maharashtra,Pune,Bhor,She Buffalo,Other,FAQ,2021-09-18,20000,90000,40000,217
+Maharashtra,Pune,Junnar(Bhlhe),She Buffalo,Other,FAQ,2021-08-10,20000,45000,40000,217
+Maharashtra,Sangli,Palus,She Buffalo,She Baffelo,FAQ,2021-03-09,45000,65000,45000,217
+Maharashtra,Sangli,Palus,She Buffalo,She Baffelo,FAQ,2021-10-12,35000,60000,45000,217
+Maharashtra,Sangli,Palus,She Buffalo,She Baffelo,FAQ,2021-11-30,35000,60000,45000,217
+Maharashtra,Sangli,Palus,She Buffalo,She Baffelo,FAQ,2021-12-07,30000,60000,45000,217
+Andhra Pradesh,Krishna,Penamaluru,She Buffalo,Other,FAQ,2012-08-07,100,150,100,217
+Andhra Pradesh,Krishna,Penamaluru,She Buffalo,Other,FAQ,2012-09-17,100,200,150,217
+Andhra Pradesh,Krishna,Penamaluru,She Buffalo,Other,Small,2012-10-15,350,350,350,217
+Andhra Pradesh,Krishna,Penamaluru,She Buffalo,Other,FAQ,2012-10-20,350,350,350,217
+Andhra Pradesh,Krishna,Penamaluru,She Buffalo,Other,FAQ,2012-11-12,350,350,350,217
+Andhra Pradesh,Krishna,Penamaluru,She Buffalo,Other,FAQ,2012-11-29,350,350,350,217
+Andhra Pradesh,Krishna,Penamaluru,She Buffalo,She Baffelo,FAQ,2012-10-30,350,350,350,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-01-27,15000,25000,18000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-02-16,9500,50000,28000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-03-01,15000,25000,16000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-03-08,3500,25000,13500,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-03-30,12500,28300,25000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-05-04,10000,25000,12500,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-05-25,23000,26000,25000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-07-06,25000,28000,26000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-08-24,10000,25000,20000,217
+Karnataka,Bagalkot,Badami,She Buffalo,She Baffelo,FAQ,2012-12-06,10000,39000,25000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,Medium,2012-01-12,19500,40000,36500,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2012-01-19,15000,38000,28500,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2012-04-12,27500,41000,33500,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2012-05-17,35000,40000,38000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2012-05-31,20000,40000,27000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2012-08-23,21000,36500,30000,217
+Karnataka,Bagalkot,Jamakhandi,She Buffalo,She Baffelo,FAQ,2012-11-15,22000,40000,32000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2012-01-22,20000,45000,25000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2012-01-29,8000,35000,20000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2012-03-18,32000,38000,35000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2012-04-15,21500,39000,35000,217
+Karnataka,Belgaum,Athani,She Buffalo,She Baffelo,FAQ,2012-05-20,10000,39000,25000,217
+Karnataka,Belgaum,Kudchi,She Buffalo,She Baffelo,FAQ,2012-01-05,25000,25000,25000,217
+Karnataka,Belgaum,Kudchi,She Buffalo,She Baffelo,FAQ,2012-06-14,35000,35000,35000,217
+Karnataka,Belgaum,Kudchi,She Buffalo,She Baffelo,FAQ,2012-08-08,34000,36000,35000,217
+Karnataka,Belgaum,Kudchi,She Buffalo,She Baffelo,FAQ,2012-09-13,24000,24000,24000,217
+Karnataka,Belgaum,Nippani,She Buffalo,She Baffelo,FAQ,2012-11-09,16000,35000,32000,217
+Karnataka,Belgaum,Nippani,She Buffalo,She Baffelo,FAQ,2012-11-23,16000,35000,32000,217
+Karnataka,Belgaum,Nippani,She Buffalo,She Baffelo,FAQ,2012-12-07,22000,45000,38000,217
+Karnataka,Belgaum,Nippani,She Buffalo,She Baffelo,FAQ,2012-12-21,23000,43000,26000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-03-11,14000,28000,22000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-04-01,14000,30000,20000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-05-13,15000,30000,26000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-06-03,20000,45000,25000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-08-26,29250,29250,29250,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-09-09,22500,35000,25500,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-10-28,14000,28000,18000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-11-25,18000,18000,18000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-12-16,11000,17000,12600,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-12-23,20000,25000,24000,217
+Karnataka,Belgaum,Ramdurga,She Buffalo,She Baffelo,FAQ,2012-12-30,23000,29000,26000,217
+Karnataka,Belgaum,Soundati,She Buffalo,She Baffelo,FAQ,2012-11-03,14700,14700,14700,217
+Karnataka,Belgaum,Soundati,She Buffalo,She Baffelo,FAQ,2012-11-24,21000,21000,21000,217
+Karnataka,Belgaum,Soundati,She Buffalo,She Baffelo,FAQ,2012-12-01,14600,14600,14600,217
+Karnataka,Belgaum,Soundati,She Buffalo,She Baffelo,FAQ,2012-12-08,19200,19200,19200,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-01-16,7550,13550,12500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-02-04,7650,14500,13500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-03-24,7500,13500,12500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-04-07,7500,14500,13500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-05-13,7500,13500,12500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-06-02,8500,15500,13500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-08-04,8500,14500,13500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-08-25,9500,15500,14500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-09-15,8500,14500,12500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-10-06,8500,14500,13500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-11-03,10500,15500,14500,217
+Karnataka,Bellary,H.B. Halli,She Buffalo,She Baffelo,Medium,2012-12-02,11500,16500,14500,217
+Karnataka,Davangere,Davangere,She Buffalo,She Baffelo,FAQ,2012-03-12,10000,18000,16000,217
+Karnataka,Davangere,Davangere,She Buffalo,She Baffelo,FAQ,2012-04-20,16000,18000,17000,217
+Karnataka,Davangere,Davangere,She Buffalo,She Baffelo,FAQ,2012-05-18,6000,12000,10000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2012-02-09,15000,25000,20000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2012-06-14,18000,21000,20000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2012-07-05,12000,18000,16000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,Medium,2012-07-12,10000,10000,10000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,FAQ,2012-10-11,18000,23000,19000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,FAQ,2012-10-25,12500,18000,15000,217
+Karnataka,Dharwad,Annigeri,She Buffalo,She Baffelo,FAQ,2012-11-29,20000,32000,28000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-01-02,25000,25000,25000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-02-07,19600,21700,20400,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-02-17,26000,26000,26000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-02-27,23000,25000,24000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-02-28,22260,23965,23060,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-03-06,15870,17330,16870,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-03-13,21670,23606,22180,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-03-17,30550,32500,31370,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-04-10,22100,23400,22800,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-04-18,15500,17500,16500,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-05-03,25700,27500,26300,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-05-11,24180,25466,24890,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-05-19,14180,15110,14670,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-05-23,22500,22500,22500,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-06-27,12500,12500,12500,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-07-03,23200,24600,23900,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-07-06,18000,20000,19000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-07-26,23000,25000,24000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-08-06,25000,25000,25000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-08-07,12100,13400,12800,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-08-09,46000,50000,48000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-09-04,10630,11942,11270,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-09-06,20800,22200,21600,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-09-10,38000,38000,38000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-09-18,15470,16788,16090,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-09-21,25000,25000,25000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-10-09,15290,16351,15710,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-10-13,20000,20000,20000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-10-17,7000,9000,8133,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-10-18,15000,17000,16000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-10-30,10000,26100,15100,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-11-16,25000,25000,25000,217
+Karnataka,Dharwad,Kalagategi,She Buffalo,She Baffelo,FAQ,2012-12-04,25000,26000,25500,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-02-26,10000,14000,12000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-06-10,9000,11000,10000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-07-01,9000,12000,11000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-07-08,10000,13000,12000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-07-15,11000,15000,13000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-07-22,9000,12000,10000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-11-03,7000,13000,10000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-11-11,9500,15000,14000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-12-09,10000,15000,12000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-12-23,9000,14000,11000,217
+Karnataka,Hassan,Channarayapatna,She Buffalo,She Baffelo,FAQ,2012-12-30,10000,14000,12000,217
+Karnataka,Hassan,Holenarsipura,She Buffalo,She Baffelo,FAQ,2012-12-21,8000,12000,10000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-01-02,6000,11500,9000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-02-13,7000,20000,9500,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-02-24,8000,15000,10000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-03-03,7000,25000,9000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-05-14,9000,19000,12000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-07-21,5000,12500,9000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-07-28,4000,17500,8000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-09-22,5000,15000,9000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-11-24,7000,33000,20000,217
+Karnataka,Haveri,Hirekerur,She Buffalo,She Baffelo,FAQ,2012-12-22,6500,19000,10000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2012-09-07,5500,18000,14000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2012-10-05,10000,20000,17000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2012-11-09,15000,29000,22000,217
+Karnataka,Haveri,Ranebennur,She Buffalo,She Baffelo,FAQ,2012-12-14,6000,22000,7500,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2012-01-09,5000,14000,11000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,Large,2012-03-12,7000,10000,9000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,Large,2012-03-24,8000,10000,9000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2012-04-15,7500,10000,9000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,Large,2012-06-04,6000,12000,9500,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,Large,2012-07-02,6000,12000,9000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,Large,2012-08-11,6500,9800,8500,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,Large,2012-08-20,6000,12000,9000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2012-09-11,4000,13000,9000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2012-09-29,6000,12000,10000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2012-10-07,8000,12000,10000,217
+Karnataka,Kolar,Chickkaballapura,She Buffalo,She Baffelo,FAQ,2012-11-10,7000,12000,10000,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-01-06,4000,7000,6500,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-03-09,3800,6000,5800,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-04-13,3600,5800,4900,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-06-15,3700,6600,5800,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-08-24,3700,5600,5100,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-09-07,2000,9000,6000,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-09-21,2000,8000,6000,217
+Karnataka,Mandya,Nagamangala,She Buffalo,She Baffelo,Medium,2012-11-24,2500,9000,7000,217
+Karnataka,Raichur,Sindhanur,She Buffalo,She Baffelo,Medium,2012-07-02,15000,28000,22000,217
+Karnataka,Raichur,Sindhanur,She Buffalo,She Baffelo,Medium,2012-07-24,12000,38000,26000,217
+Karnataka,Raichur,Sindhanur,She Buffalo,She Baffelo,Medium,2012-08-21,11000,53000,23000,217
+Karnataka,Raichur,Sindhanur,She Buffalo,She Baffelo,Medium,2012-09-04,13000,35000,25000,217
+Karnataka,Raichur,Sindhanur,She Buffalo,She Baffelo,Medium,2012-09-11,15000,35000,25000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-01-09,6000,10000,7000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-01-10,5000,8000,7000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-01-30,9000,12000,10000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-04-09,6000,10000,8000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-05-21,6000,10000,8000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-06-19,9000,9500,9100,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-07-16,20000,22125,21000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-07-19,6000,9000,8000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-07-25,10000,11000,10500,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-08-13,7000,8714,8000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,FAQ,2012-09-07,7000,10000,9000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-09-25,11500,12000,11800,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-11-27,7000,8333,8000,217
+Karnataka,Shimoga,Shikaripura,She Buffalo,She Baffelo,Medium,2012-12-17,8000,12000,10000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-02-27,12000,18000,14000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-05-07,14000,18000,16000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-06-04,12000,16000,14000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-07-02,14000,18000,16000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-07-16,12000,16000,14000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-09-10,14000,18000,16000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-09-24,12000,18000,14000,217
+Maharashtra,Amarawati,Anajngaon,She Buffalo,She Baffelo,FAQ,2012-12-24,14000,18000,16000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-01-10,8000,25000,11031,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-01-14,1500,3000,2250,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-02-10,6000,10000,8000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-03-25,14667,16000,15400,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-05-11,7000,9000,8000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-05-15,14000,15000,14727,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-05-18,4500,23000,13250,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-06-05,18000,25000,21500,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-06-19,19000,19000,19000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-06-24,14000,14667,14258,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-07-03,12500,12500,12500,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-07-08,15250,16000,15625,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-07-13,11428,12500,12000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-07-17,7500,25000,12696,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-07-24,12500,15000,12857,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-07-31,5000,5000,5000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-08-12,14500,15500,15000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-09-04,6250,33333,15439,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-09-18,4500,32000,12800,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-09-21,4900,7000,5475,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-10-12,2000,25000,5400,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-11-23,13000,13000,13000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-12-03,20000,20000,20000,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-12-21,4000,25000,14666,217
+Maharashtra,Bhandara,Lakhani,She Buffalo,She Baffelo,FAQ,2012-12-23,35000,35000,35000,217
+Maharashtra,Buldhana,Deoulgaon Raja,She Buffalo,She Baffelo,FAQ,2012-08-04,10000,18000,14000,217
+Maharashtra,Buldhana,Deoulgaon Raja,She Buffalo,She Baffelo,FAQ,2012-09-22,7000,17000,10000,217
+Maharashtra,Buldhana,Deoulgaon Raja,She Buffalo,She Baffelo,FAQ,2012-11-03,3000,15000,8000,217
+Maharashtra,Chandrapur,Brahmpuri,She Buffalo,Other,FAQ,2012-03-04,7000,14000,10500,217
+Maharashtra,Chandrapur,Brahmpuri,She Buffalo,Other,FAQ,2012-03-11,5000,30000,17500,217
+Maharashtra,Chandrapur,Brahmpuri,She Buffalo,Other,FAQ,2012-03-30,40000,40000,40000,217
+Maharashtra,Chandrapur,Brahmpuri,She Buffalo,Other,FAQ,2012-09-02,6000,18000,10000,217
+Maharashtra,Chandrapur,Brahmpuri,She Buffalo,Other,FAQ,2012-12-23,6000,17000,10000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-02-04,5000,13200,10000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-02-25,30500,32500,31000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-03-03,3000,3000,3000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-03-31,3000,3000,3000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-07-07,22500,22500,22500,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-09-01,3000,32000,27000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-09-15,3000,40000,25000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-10-27,3000,17000,15000,217
+Maharashtra,Kolhapur,Kolhapur(Malkapur),She Buffalo,She Baffelo,FAQ,2012-11-24,3000,18000,15000,217
+Maharashtra,Nagpur,Narkhed,She Buffalo,She Baffelo,FAQ,2012-02-18,3000,22000,12500,217
+Maharashtra,Nagpur,Narkhed,She Buffalo,She Baffelo,FAQ,2012-03-03,5000,5000,5000,217
+Maharashtra,Nagpur,Narkhed,She Buffalo,She Baffelo,FAQ,2012-12-22,2000,6000,4000,217
+Maharashtra,Sangli,Aatpadi,She Buffalo,She Baffelo,FAQ,2012-02-08,45000,50000,47500,217
+Maharashtra,Sangli,Palus,She Buffalo,She Baffelo,FAQ,2012-08-14,2500,45100,35100,217
+Maharashtra,Sangli,Vita,She Buffalo,She Baffelo,FAQ,2012-04-30,45500,50100,47000,217
+Maharashtra,Sangli,Vita,She Buffalo,She Baffelo,FAQ,2012-06-04,2000,17000,9666,217
+Maharashtra,Sangli,Vita,She Buffalo,She Baffelo,FAQ,2012-12-10,3000,37000,22040,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-01-05,22000,47800,30000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-02-13,21000,40000,26000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-03-19,12500,49000,26000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-05-28,14000,50000,23000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-07-02,15000,42000,26000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-09-10,12000,40000,26000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-10-08,13000,37500,21000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-10-15,14000,42000,23000,217
+Maharashtra,Sholapur,Sangola,She Buffalo,She Baffelo,FAQ,2012-12-04,14000,39500,22000,217
+Odisha,Gajapati,Parlakhemundi,She Buffalo,She Baffelo,FAQ,2012-12-15,5000,6000,6000,217
+Telangana,Nalgonda,Kodad,She Buffalo,She Baffelo,Medium,2012-09-24,10000,20000,15000,217
+Telangana,Ranga Reddy,Narsingi,She Buffalo,She Baffelo,Medium,2012-04-20,35000,35000,35000,217

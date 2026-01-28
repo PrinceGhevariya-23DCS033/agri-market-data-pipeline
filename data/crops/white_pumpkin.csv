@@ -1,0 +1,261 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,2007-12-12,250,350,300,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2007-12-11,350,500,450,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-01-10,550,650,600,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-01-20,650,750,700,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-02-24,450,550,500,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-03-10,400,500,450,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-04-04,400,500,450,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-06-02,650,750,700,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-06-13,850,950,900,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-06-20,650,750,700,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-07-07,350,450,400,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-07-28,650,750,700,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-08-25,700,800,750,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-09-05,500,600,550,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-09-19,650,750,700,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-09-26,550,650,600,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-10-03,450,550,500,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-10-31,550,650,600,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-11-03,550,650,600,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-11-07,600,700,650,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-12-01,450,550,500,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-12-05,450,550,500,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-12-22,450,550,500,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2007-12-26,450,550,500,158
+Uttrakhand,Haridwar,Roorkee,White Pumpkin,Other,FAQ,2007-07-07,200,400,300,158
+Uttrakhand,Haridwar,Roorkee,White Pumpkin,Other,FAQ,2007-07-08,200,400,275,158
+Uttrakhand,Haridwar,Roorkee,White Pumpkin,Other,FAQ,2007-08-01,200,500,400,158
+Haryana,Sirsa,kalanwali,White Pumpkin,Other,FAQ,2009-04-07,200,200,200,158
+Haryana,Sirsa,kalanwali,White Pumpkin,Other,FAQ,2009-04-21,200,250,215,158
+Haryana,Sirsa,kalanwali,White Pumpkin,Other,FAQ,2009-04-26,200,300,300,158
+Haryana,Sirsa,kalanwali,White Pumpkin,Other,FAQ,2009-04-27,200,300,300,158
+Haryana,Sirsa,kalanwali,White Pumpkin,Other,FAQ,2009-05-02,200,300,300,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,Large,2009-10-21,400,500,450,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,Large,2009-12-05,300,500,400,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,Medium,2009-12-10,300,500,400,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,Large,2009-12-30,400,600,500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-01-20,800,1200,1000,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-02-06,600,700,650,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-02-08,600,700,650,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-02-14,500,600,550,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-03-08,600,700,650,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-03-18,600,700,650,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-03-19,600,700,650,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-03-20,500,600,550,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-03-25,500,600,550,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-03-31,400,500,450,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-04-03,100,200,150,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-04-09,600,700,650,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-04-15,600,700,650,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-04-19,500,600,550,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-04-20,400,600,500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-04-21,400,600,500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-05-03,400,600,500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-05-04,400,600,500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-05-17,300,400,350,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-06-05,200,300,250,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-06-08,200,400,300,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-06-28,300,400,350,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-06-30,300,400,350,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-07-01,300,400,350,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,Medium,2009-07-02,300,400,350,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-07-14,200,500,434,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-07-20,300,400,363,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-07-23,300,400,350,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-10-14,700,800,700,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-10-30,500,600,500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-11-06,200,400,300,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-11-11,300,400,354,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-11-13,800,900,840,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-11-21,1400,1600,1500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-12-03,900,1000,950,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-12-09,700,900,800,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-12-15,800,900,850,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-12-18,800,900,850,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-12-22,400,600,500,158
+Karnataka,Hassan,Hassan,White Pumpkin,White Pumpkin,FAQ,2009-12-30,500,700,600,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,Medium,2009-10-15,300,650,400,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2009-10-20,160,300,265,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2009-11-06,120,200,175,158
+Karnataka,Mysore,Mysore (Bandipalya),White Pumpkin,White Pumpkin,FAQ,2009-10-24,400,500,450,158
+Karnataka,Mysore,Mysore (Bandipalya),White Pumpkin,White Pumpkin,FAQ,2009-11-20,400,500,450,158
+Karnataka,Mysore,Mysore (Bandipalya),White Pumpkin,White Pumpkin,FAQ,2009-11-23,300,400,350,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-03-25,250,400,300,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-04-22,300,450,350,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-06-10,400,600,500,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-07-01,400,600,500,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-07-08,400,600,500,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-07-22,400,600,500,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-10-14,300,500,400,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-10-21,400,600,500,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-11-18,500,700,600,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2009-12-09,500,700,600,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2009-01-21,650,750,700,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2009-03-21,650,750,700,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2009-04-25,400,500,450,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,Other,FAQ,2009-05-02,450,550,500,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,White Pumpkin,FAQ,2009-06-06,750,850,800,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,White Pumpkin,FAQ,2009-07-01,950,1050,1000,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,White Pumpkin,FAQ,2009-07-04,800,900,850,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,White Pumpkin,FAQ,2009-07-18,850,950,900,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,White Pumpkin,FAQ,2009-07-25,850,950,900,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,White Pumpkin,FAQ,2009-08-26,450,550,500,158
+Kerala,Idukki,Thodupuzha,White Pumpkin,White Pumpkin,FAQ,2009-11-21,650,750,700,158
+Punjab,Barnala,Dhanaula,White Pumpkin,Other,FAQ,2009-11-17,400,600,500,158
+Punjab,Barnala,Dhanaula,White Pumpkin,Other,FAQ,2009-11-19,400,600,500,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,2019-12-10,1000,1600,1300.0,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,2019-12-11,1200,1600,1400.0,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,2019-12-16,1000,1500,1300.0,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,2019-12-17,1200,1800,1500.0,158
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",White Pumpkin,White Pumpkin,FAQ,2019-12-20,1400,2000,1800.0,158
+Karnataka,Bangalore,Ramanagara,White Pumpkin,White Pumpkin,FAQ,2019-02-01,800,1200,1000.0,158
+Karnataka,Chikmagalur,Chikkamagalore,White Pumpkin,White Pumpkin,FAQ,2019-12-03,1000,1000,1000.0,158
+Karnataka,Chikmagalur,Chikkamagalore,White Pumpkin,White Pumpkin,FAQ,2019-12-11,1000,1000,1000.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-03-18,300,700,500.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-03-27,300,700,500.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-04-10,900,1200,1000.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-08-31,900,1200,1000.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-10-09,1000,2000,1200.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-11-04,1000,1300,1142.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-12-07,1800,2300,2000.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-12-16,1900,2300,2000.0,158
+Karnataka,Kolar,Malur,White Pumpkin,White Pumpkin,FAQ,2019-12-24,1700,2400,2000.0,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2019-03-27,900,1100,1000.0,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2019-04-10,1100,1200,1200.0,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2019-07-31,1100,1300,1200.0,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2019-11-13,800,1200,1100.0,158
+Karnataka,Udupi,Udupi,White Pumpkin,White Pumpkin,FAQ,2019-11-27,1000,1400,1200.0,158
+Mizoram,Aizawl,New Market Aizawl,White Pumpkin,Other,FAQ,2019-02-28,1000,2000,1500.0,158
+Mizoram,Aizawl,New Market Aizawl,White Pumpkin,Other,FAQ,2019-03-08,1000,2000,1500.0,158
+Mizoram,Aizawl,New Market Aizawl,White Pumpkin,Other,FAQ,2019-03-25,1000,2000,1500.0,158
+Mizoram,Aizawl,New Market Aizawl,White Pumpkin,Other,FAQ,2019-03-27,1000,3000,1500.0,158
+Mizoram,Aizawl,New Market Aizawl,White Pumpkin,Other,FAQ,2019-04-01,1000,2000,1500.0,158
+Mizoram,Aizawl,New Market Aizawl,White Pumpkin,Other,FAQ,2019-05-17,1000,2000,1500.0,158
+Mizoram,Aizawl,New Market Aizawl,White Pumpkin,Other,FAQ,2019-06-07,1000,2000,1500.0,158
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),White Pumpkin,Other,FAQ,2019-08-29,4000,5000,4500.0,158
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),White Pumpkin,Other,FAQ,2019-08-30,4000,5000,4500.0,158
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),White Pumpkin,Other,FAQ,2019-08-31,4200,5000,4500.0,158
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),White Pumpkin,Other,FAQ,2019-09-06,4000,5000,4500.0,158
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),White Pumpkin,Other,FAQ,2019-11-01,3500,5000,4000.0,158
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),White Pumpkin,Other,FAQ,2019-11-04,3500,5000,4000.0,158
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),White Pumpkin,Other,FAQ,2019-11-21,3000,5000,4000.0,158
+Odisha,Koraput,Koraput,White Pumpkin,Other,FAQ,2019-03-18,1400,1600,1500.0,158
+Odisha,Koraput,Koraput(Semilguda),White Pumpkin,Other,FAQ,2019-03-23,1400,1600,1500.0,158
+Odisha,Koraput,Koraput(Semilguda),White Pumpkin,White Pumpkin,FAQ,2019-02-14,1100,1200,1150.0,158
+Odisha,Koraput,Koraput(Semilguda),White Pumpkin,White Pumpkin,FAQ,2019-04-25,1500,1700,1600.0,158
+Odisha,Koraput,Koraput(Semilguda),White Pumpkin,White Pumpkin,FAQ,2019-09-06,1800,2000,1900.0,158
+Odisha,Koraput,Koraput(Semilguda),White Pumpkin,White Pumpkin,FAQ,2019-11-07,1800,2000,1900.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-04-17,1500,1700,1600.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-04-25,1500,1700,1600.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-05-03,600,700,650.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-05-15,600,700,650.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-05-21,600,700,650.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-05-24,600,700,650.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-06-01,700,750,725.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-06-22,700,750,725.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-07-14,400,500,450.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-08-15,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-08-19,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-08-21,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-08-24,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-09-09,700,900,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-09-12,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-09-13,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-09-15,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-09-17,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-09-23,700,800,750.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-10-21,1800,2000,1900.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-11-05,800,900,850.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-11-17,800,900,850.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-11-25,800,900,850.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-11-29,800,900,850.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-12-05,700,900,800.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-12-09,700,850,800.0,158
+Punjab,Ferozpur,Makhu,White Pumpkin,Other,FAQ,2019-12-24,700,850,800.0,158
+Punjab,Gurdaspur,Kalanaur,White Pumpkin,Other,FAQ,2019-10-24,2100,2500,2300.0,158
+Telangana,Hyderabad,Bowenpally,White Pumpkin,Other,FAQ,2019-03-26,400,1200,1000.0,158
+Telangana,Hyderabad,Bowenpally,White Pumpkin,Other,FAQ,2019-12-28,400,800,600.0,158
+Telangana,Hyderabad,Bowenpally,White Pumpkin,Other,FAQ,2019-12-29,600,1000,800.0,158
+Telangana,Hyderabad,Bowenpally,White Pumpkin,Other,FAQ,2019-12-31,500,1000,800.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-01-19,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-02-01,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-02-06,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-02-17,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-02-24,100,300,200.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-04-08,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-04-10,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-04-24,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-05-19,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-09-14,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-09-15,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-10-01,200,300,250.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-10-12,150,250,200.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-10-18,150,250,200.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-10-19,150,250,200.0,158
+Uttar Pradesh,Fatehpur,Jahanabad,White Pumpkin,Other,FAQ,2019-10-22,200,300,250.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-01-04,250,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-01-18,250,300,280.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-02-04,280,300,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-02-08,300,300,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-02-26,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-02-28,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-03-08,300,320,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-03-12,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-03-15,300,320,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-03-20,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-03-29,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-04-07,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-04-13,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-04-16,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-04-18,300,310,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-05-01,300,300,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-05-20,300,400,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-05-26,300,410,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-06-05,300,400,350.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-06-08,350,410,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-05,350,400,380.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-08,350,400,380.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-12,380,405,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-13,380,410,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-14,350,410,380.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-19,400,400,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-20,400,400,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-24,400,400,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-09-28,380,410,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-10-08,390,400,400.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-10-18,300,340,330.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-10-21,300,350,330.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-11-03,300,360,340.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-11-08,290,320,300.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-11-13,230,280,250.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-11-14,250,280,260.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-11-17,230,280,250.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-11-30,220,250,230.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-12-11,230,280,250.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-12-15,240,300,280.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-12-18,250,300,275.0,158
+Uttar Pradesh,Kanpur,Varipaal,White Pumpkin,White Pumpkin,FAQ,2019-12-30,300,330,320.0,158
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,White Pumpkin,White Pumpkin,FAQ,2019-03-01,225,275,250.0,158
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,White Pumpkin,White Pumpkin,FAQ,2019-03-02,250,350,300.0,158
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,White Pumpkin,White Pumpkin,FAQ,2019-03-18,270,350,310.0,158
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,White Pumpkin,White Pumpkin,FAQ,2019-03-19,280,340,310.0,158
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,White Pumpkin,White Pumpkin,FAQ,2019-03-21,290,330,310.0,158
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,White Pumpkin,White Pumpkin,FAQ,2019-03-23,290,330,310.0,158
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,White Pumpkin,White Pumpkin,FAQ,2019-05-09,375,425,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-01-05,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-01-07,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-01-23,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-02-05,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-02-17,0,0,405.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-02-20,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-02-24,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-03-28,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-06-21,0,0,390.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-06-26,0,0,405.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-09-24,0,0,405.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-10-28,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-11-28,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-11-30,0,0,395.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-12-22,0,0,400.0,158
+Uttar Pradesh,Muzaffarnagar,Shahpur,White Pumpkin,White Pumpkin,FAQ,2019-12-30,0,0,405.0,158

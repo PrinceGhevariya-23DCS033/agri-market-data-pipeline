@@ -1,0 +1,1481 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Assam,Golaghat,Golaghat,Squash(Chappal Kadoo),Other,FAQ,2017-06-20,1500,2000,1800,332
+Assam,Golaghat,Golaghat,Squash(Chappal Kadoo),Other,FAQ,2017-07-31,2500,3000,2800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-02-08,1300,1500,1400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-02-14,1400,1600,1500,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-02-18,1500,1700,1600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-02-22,1500,1700,1600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-04-05,1500,1700,1600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-04-18,1300,1500,1400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-04-24,1100,1300,1200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-04-27,1000,1200,1100,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-04-28,1200,1400,1300,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-04-29,1400,1600,1500,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-05-16,1300,1500,1400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-05-20,1100,1300,1200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-05-23,1200,1400,1300,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-05-26,1200,1400,1300,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-05-29,1200,1400,1300,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-06-05,1100,1300,1200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-06-09,1500,1700,1600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-06-12,1600,1800,1700,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-06-13,1800,2200,2000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-10-12,1800,2200,2000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-10-31,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-11-07,1400,1800,1600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-11-14,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-11-24,900,1100,1000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-11-27,800,1000,900,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-11-28,800,1000,900,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-11-30,900,1100,1000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-12-05,900,1100,1000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-12-06,900,1100,1000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-12-14,950,1100,1000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-12-21,900,1000,950,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-12-28,1200,1600,1400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-12-29,1800,2200,2000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2017-12-30,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-01-09,750,1000,850,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-01-14,800,1100,900,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-01-19,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-01-21,1100,1300,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-01-25,900,1100,1000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-01-31,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-02-04,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-02-09,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-02-16,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-02-17,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-02-24,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-02-25,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-02-28,1100,1300,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-03-23,1100,1400,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-03-28,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-04-11,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-04-17,1400,1600,1500,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-04-20,1100,1300,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-04-26,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-04-28,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-04-29,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-03,1100,1300,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-08,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-18,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-22,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-23,1100,1300,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-24,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-26,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-29,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-05-31,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-06-01,1000,1200,1100,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-06-09,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-06-14,1400,1600,1500,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-06-16,1500,1700,1600,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-06-24,1100,1300,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-07-20,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-07-24,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-07-25,1400,1600,1500,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-07-27,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-07-31,1400,1600,1500,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-08-09,1500,1800,1600,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-08-22,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-08-23,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-08-25,1600,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-08-28,1600,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-09-21,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-09-23,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-10-09,1300,1500,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-10-11,1200,1400,1300,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-10-24,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-10-26,2000,2400,2200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-03,1000,1400,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-06,1000,1400,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-08,1200,1600,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-09,1200,1600,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-11,1000,1400,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-15,900,1200,1000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-23,800,900,850,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-24,850,950,900,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-11-28,800,900,850,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-12-06,800,900,850,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-12-08,800,900,850,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-12-15,900,1000,950,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2017-12-20,900,1000,950,332
+West Bengal,Jalpaiguri,Moynaguri,Squash(Chappal Kadoo),Other,FAQ,2017-01-13,1400,1600,1500,332
+West Bengal,Jalpaiguri,Moynaguri,Squash(Chappal Kadoo),Other,FAQ,2017-03-17,1250,1450,1350,332
+West Bengal,Jalpaiguri,Moynaguri,Squash(Chappal Kadoo),Other,FAQ,2017-04-21,1050,1250,1150,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-01-02,750,950,850,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-01-03,700,900,800,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-01-20,800,1000,900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-01-23,800,1000,900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-01-24,900,1000,950,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-01-28,800,1000,900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-02-06,1300,1500,1400,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-02-18,1300,1500,1400,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-02-20,1300,1500,1400,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-03-01,1300,1500,1400,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-04-07,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-04-12,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-04-17,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-04-25,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-05-03,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-05-08,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-05-09,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-06-12,2000,3000,2500,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-11-22,600,800,700,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2017-12-04,1110,1130,1120,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-02-26,1800,2000,1900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-03-10,1800,2200,2000,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-04-20,1200,1300,1250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-05-06,1200,1500,1350,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-05-12,1300,1500,1400,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-05-24,1200,1400,1300,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-06-15,1200,1400,1300,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-06-26,1400,1500,1450,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-07-15,1100,1400,1250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-07-20,1200,1300,1250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-07-23,1200,1600,1400,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-08-21,1000,1500,1250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-08-31,1000,1500,1250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-09-13,1200,1500,1350,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-09-16,1200,1500,1300,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-10-04,1800,2000,1900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-10-05,1800,2000,1900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-10-13,1800,2000,1900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-10-21,1800,2000,1900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-11-22,2500,3000,2700,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-11-30,2000,2500,2250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-12-01,2000,2500,2200,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-12-03,2000,2500,2250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-12-07,2000,2500,2250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2021-12-13,2000,2500,2250,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-07-07,1500,2000,1700,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-07-12,700,1600,1200,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-07-16,800,1200,1000,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-07-18,700,1300,1000,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-07-20,800,1200,1000,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-07-21,800,1300,1000,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-07-23,700,1200,1000,332
+Himachal Pradesh,Kullu,Bandrol,Squash(Chappal Kadoo),Other,FAQ,2021-08-05,800,1300,1000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-01-18,1600,1800,1700,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-01-19,1500,1800,1650,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-01-21,1800,2200,2000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-01-24,1500,2200,1850,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-01-29,2000,2200,2100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-02-11,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-02-12,1700,1800,1750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-02-17,1600,1800,1700,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-03-05,1500,1800,1650,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-03-17,1200,1400,1300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-03-21,1200,1300,1250,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-03-30,1200,1500,1350,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-04-06,1200,1500,1350,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-04-14,1600,2000,1800,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-04-19,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-04-27,1200,1500,1350,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-05-14,800,1000,900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-05-16,500,700,600,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-05-17,500,700,600,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-05-24,1500,2000,1750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-05-28,1400,1500,1450,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-05-30,1200,1500,1350,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-06-07,800,1000,900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-06-08,800,1000,900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-06-09,800,1000,900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-06-14,800,1000,900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-06-20,1000,1200,1100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-06-22,1400,1800,1600,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-07-08,2000,2500,2250,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-07-11,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-07-14,500,700,600,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-07-18,1000,1500,1250,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-07-23,700,1000,850,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-07-25,700,900,800,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-07-26,700,800,750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-08-03,1500,2000,1750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-08-12,800,1300,1050,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-08-19,1000,1500,1250,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-09-07,1200,1300,1250,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-09-10,2000,2500,2250,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2021-09-21,2400,2600,2500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-01-19,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-01-23,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-01-27,2000,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-01-30,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-02-13,2200,2400,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-02-14,2200,2400,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-02-22,1800,2000,1900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-03-02,1600,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-03-05,1200,1500,1300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-03-13,1600,1800,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-04-09,2000,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-04-13,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-04-17,1600,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-04,1800,2000,1900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-09,1800,2000,1900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-14,1300,1700,1500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-15,1200,1700,1300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-19,1300,1500,1400,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-22,1400,1500,1450,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-25,1700,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-27,1500,2000,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-05-31,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-06-11,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-06-24,2500,3000,2700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-06-30,2500,2800,2600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-07-02,2500,3000,2800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-07-12,1500,1800,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-07-20,1200,1300,1250,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-07-28,1500,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-07-29,1400,2100,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-08-17,1200,1800,1500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-08-24,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-08-31,500,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-09-09,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-09-13,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-09-28,3000,3500,3300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-10-15,3500,4000,3800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-10-19,2000,3200,2800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-10-21,2000,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-10-29,2500,3000,2700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-11-02,2500,3200,3000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-11-14,1500,2500,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-11-22,2500,2800,2700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-11-26,2500,2800,2600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-12-07,2300,2800,2400,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-12-12,2600,3000,2700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-12-24,2000,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2021-12-26,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2021-06-29,1900,2000,1950,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2021-07-04,600,1800,1200,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2021-07-09,900,1200,1100,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2021-07-11,500,1200,800,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2021-07-12,600,1500,1000,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2021-07-25,600,1500,1200,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2021-07-28,400,1200,800,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-02-24,600,800,700,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-03-08,1000,1000,1000,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-04-05,500,1000,750,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-04-17,1000,1500,1250,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-05-04,1200,1300,1250,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-05-10,1000,1800,1400,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-05-22,700,1000,850,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-06-11,500,1000,750,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-07-01,1000,2500,1750,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2021-12-10,1000,1500,1250,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-07,1800,2000,1800,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-08,1800,2200,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-13,1800,2200,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-15,1800,2000,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-17,2000,2200,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-30,2000,2500,2200,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-02,2500,2800,2500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-03,2500,2800,2500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-13,2000,3000,2500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-17,2000,2200,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-20,1800,2000,1800,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-24,1500,1800,1600,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-12-01,1000,1500,1200,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-12-07,1200,1500,1400,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-12-13,1200,1500,1400,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-12-18,1000,1400,1200,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-12-28,1800,2500,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-12-31,1500,2000,1800,332
+Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,2021-05-17,600,700,600,332
+Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,2021-05-26,500,800,700,332
+Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,2021-05-30,500,1000,800,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-06-14,3000,3500,3300,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-06-17,3000,4000,3500,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-06-23,3500,4000,3800,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-05,1700,2000,1850,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-07-08,2000,2500,2300,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-09-01,600,800,700,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-09-17,1000,1200,1100,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-09-20,900,1100,1000,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-09-22,1000,1200,1100,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-09-29,1000,1500,1200,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-10-01,1200,1500,1400,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-10-05,1300,1500,1400,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-10-06,1400,1600,1500,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-10-18,1000,1200,1100,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-10-21,1100,1300,1200,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-11-01,1000,1200,1100,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-11-03,1100,1300,1200,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-11-05,1200,1500,1350,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-24,4000,4500,4400,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-08-31,4000,4500,4400,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-10-18,3600,4000,3800,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2021-10-26,3500,3800,3700,332
+Punjab,Amritsar,Mehta,Squash(Chappal Kadoo),Other,FAQ,2021-03-08,1300,1300,1300,332
+Punjab,Amritsar,Mehta,Squash(Chappal Kadoo),Other,FAQ,2021-03-10,1000,1000,1000,332
+Punjab,Barnala,Barnala,Squash(Chappal Kadoo),Other,FAQ,2021-05-26,1500,1500,1500,332
+Punjab,Faridkot,Faridkot,Squash(Chappal Kadoo),Other,FAQ,2021-03-11,1000,1000,1000,332
+Punjab,Faridkot,Faridkot,Squash(Chappal Kadoo),Other,FAQ,2021-03-12,1000,1000,1000,332
+Punjab,Faridkot,Faridkot,Squash(Chappal Kadoo),Other,FAQ,2021-03-16,1000,1000,1000,332
+Punjab,Faridkot,Faridkot,Squash(Chappal Kadoo),Other,FAQ,2021-03-18,1000,1000,1000,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-09-17,1500,1900,1700,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-09-23,2000,2200,2100,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-09-26,1900,2000,1950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-10-07,1700,1800,1750,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-10-09,1900,2000,1950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-10-23,2000,2100,2050,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-11-14,2650,2700,2675,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-11-17,2700,2750,2725,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-11-22,2900,3000,2950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-11-24,2900,3000,2950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-11-25,2900,3000,2950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-11-27,2900,3000,2950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-11-28,2900,3000,2950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-12-03,2700,2800,2750,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-12-21,2900,3000,2950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-12-25,2900,3000,2950,332
+Tripura,North Tripura,Panisagar,Squash(Chappal Kadoo),Other,FAQ,2021-12-29,2900,3000,2950,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-01-11,3400,3600,3500,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-01-17,3300,3500,3400,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-01-18,2500,3000,2800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-02-13,2300,2500,2400,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-02-14,2400,2600,2500,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-03-08,1000,1200,1100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-04-20,1100,1300,1200,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-04-21,1000,1200,1100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-05-02,700,900,800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-05-04,700,900,800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-05-07,700,900,800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-05-09,600,800,700,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-05-11,600,800,700,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-05-15,600,800,700,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-05-31,700,900,800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-06-27,2800,3000,2900,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-07-07,2500,2700,2600,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-07-10,2200,2500,2400,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-07-13,2400,2600,2500,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-07-14,2200,2500,2400,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-07-15,2400,2600,2500,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-07-28,2000,2400,2200,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-08-12,1600,1800,1700,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-08-17,1600,2000,1800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-08-19,1600,2000,1800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-09-09,1400,1600,1500,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-09-26,1600,1800,1700,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-10-24,1800,2000,1900,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2021-10-30,1700,2000,1800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-03-20,1700,1900,1800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-03-29,1700,1900,1800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-04-04,1700,1900,1800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-04-12,1500,1700,1600,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-04-13,1500,1700,1600,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-04-20,1500,1700,1600,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-04-27,1500,1700,1600,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-06-15,2300,2500,2400,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-06-20,2300,2500,2400,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-06-26,2300,2500,2400,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-07-21,2200,2400,2300,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-08-10,2000,2200,2100,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-08-12,2000,2200,2100,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-08-16,2000,2200,2100,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-08-18,2000,2200,2100,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-08-23,2000,2200,2100,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-09-20,1500,1700,1600,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-09-22,1500,1700,1600,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-12-02,1100,1300,1200,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2021-12-14,1100,1300,1200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-02-04,2000,2500,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-02-09,2000,2500,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-02-22,3000,4000,3500,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-02-24,2500,3500,3000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-03-10,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-03-17,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-03-25,1200,1600,1400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-04-27,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-04-29,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-07-07,1800,2200,2000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-07-21,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-07-26,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-07-27,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-08-06,3200,3600,3400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-08-10,2400,2800,2600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-08-18,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-08-19,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-08-24,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-08-27,2200,2600,2400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-10-11,2200,2600,2400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-10-28,2400,2800,2600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-10-29,2400,2800,2600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-11-06,2200,2600,2400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-11-09,2200,2600,2400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-11-15,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-11-29,1800,2200,2000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-12-02,2200,2600,2400,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-12-18,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-12-25,2000,3000,2500,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-12-27,2000,3000,2500,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2021-12-28,2000,3000,2500,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-02-04,1500,2500,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-02-08,1500,2500,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-02-10,1500,2500,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-02-13,2500,3500,3000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-03-13,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-03-17,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-03-31,800,1200,1000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-07-22,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-07-23,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-08-04,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-08-06,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-08-07,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-08-21,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-08-23,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-08-25,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-10-14,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-10-21,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-10-22,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-10-23,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-10-26,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-11-10,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-11-16,1500,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-11-19,1600,2000,1800,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-12-04,1000,1400,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-12-17,1000,1400,1200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2021-12-28,2000,2500,2200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-01-02,1180,1220,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-01-07,3480,3520,3500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-01-09,3480,3520,3500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-01-21,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-01-29,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-01-30,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-02-07,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-02-09,1780,1820,1800,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-02-16,1780,1820,1800,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-02-25,1800,1800,1800,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-03-14,800,800,800,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-03-16,800,800,800,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-03-18,800,800,800,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-04-20,500,500,500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-04-25,500,500,500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-04-26,500,500,500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-06-12,1500,1550,1550,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-06-22,2000,2000,2000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-07-06,1900,2000,2000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-07-14,1900,2000,2000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-07-20,1450,1500,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-07-30,1500,1500,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-08-06,1200,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-08-07,1200,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-08-30,1000,1000,1000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-09-11,600,650,600,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-09-12,600,650,600,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-09-17,700,700,700,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-09-24,600,600,600,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-09-28,700,700,700,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-10-14,1000,1000,1000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-10-19,1000,1000,1000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-10-20,1000,1000,1000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-10-27,1000,1000,1000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-11-03,1200,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-11-08,1000,1100,1100,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-11-23,1000,1000,1000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-12-13,1200,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-12-14,1000,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2021-12-19,1300,1300,1300,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-07-23,1000,1200,1100,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-08-02,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-08-21,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-08-24,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-10-29,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-11-27,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-11-29,1800,2000,1900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-12-18,800,1000,900,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2021-12-27,800,1000,900,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-07-31,1300,1400,1350.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-08-07,1750,1850,1800.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-08-09,1750,1850,1800.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-08-14,1700,1800,1750.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-08-25,1850,1950,1900.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-08-31,1450,1550,1500.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-09-01,1550,1650,1600.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-09-06,1600,1700,1650.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-09-16,1450,1550,1500.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-10-06,1250,1350,1300.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-11-09,1300,1400,1350.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-11-16,600,700,650.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-11-17,625,675,650.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-11-19,600,650,625.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-12-04,550,650,600.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-12-09,550,650,600.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-12-13,500,600,550.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-12-15,500,600,550.0,332
+West Bengal,Coochbehar,Dinhata,Squash(Chappal Kadoo),Other,FAQ,2015-12-18,500,600,550.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-01-05,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-01-09,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-01-27,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-02-02,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-02-08,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-02-09,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-02-11,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-02-27,1200,1400,1300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-03-03,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-03-08,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-03-15,1200,1400,1300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-03-16,1200,1400,1300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-03-30,1200,1400,1300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-03-31,1200,1400,1300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-04-08,1100,1300,1200.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-04-10,1100,1300,1200.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-04-11,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-04-12,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-04-19,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-04-20,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-05-01,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-05-04,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-05-06,1300,1500,1400.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-06-03,1400,1600,1500.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-06-22,1600,1800,1700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-06-25,1600,1800,1700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-06-29,1600,1800,1700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-07-07,1600,1800,1700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-07-10,1700,1900,1800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-07-17,1400,1600,1500.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-07-27,1500,1700,1600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-07-29,1600,1750,1700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-08-20,1700,1900,1800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-08-24,1700,1900,1800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-09-01,1600,1800,1700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-09-12,1700,1900,1800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-09-21,1500,1700,1600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-09-26,1200,1400,1300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-09-29,1100,1300,1200.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-10-12,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-10-14,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-10-15,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-10-25,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-10-27,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-01,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-04,700,900,800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-13,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-14,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-20,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-23,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-25,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-27,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-11-28,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-12-07,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-12-21,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-12-24,700,900,800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2015-12-26,700,900,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-01-02,650,800,700.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-01-03,6.5,800,700.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-01-07,700,900,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-01-12,700,900,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-01-13,700,900,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-01-15,700,900,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-01-16,700,900,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-02-10,900,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-03-01,1100,1500,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-03-14,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-03-20,1200,1500,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-03-21,1200,1500,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-03-27,1100,1400,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-04,1200,1500,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-06,900,1100,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-07,900,1100,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-10,1200,1400,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-13,1300,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-17,1500,1700,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-18,1500,1700,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-19,1500,1700,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-20,1200,1400,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-04-21,1200,1400,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-05-05,1250,1400,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-05-06,1250,1400,1300.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-05-11,1450,1600,1500.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-05-25,1450,1600,1500.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-06-03,1450,1600,1500.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-06-05,1450,1600,1500.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-06-08,1450,1600,1500.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-06-20,1800,1900,1850.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-06-21,1850,2000,1900.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-07-04,2200,2600,2400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-07-24,1100,1300,1200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-07-26,1150,1300,1250.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2015-08-04,1100,1300,1200.0,332
+Haryana,Hissar,Narnaund,Squash(Chappal Kadoo),Other,FAQ,2020-03-30,800,1000,900,332
+Haryana,Hissar,Narnaund,Squash(Chappal Kadoo),Other,FAQ,2020-04-09,600,800,700,332
+Haryana,Hissar,Narnaund,Squash(Chappal Kadoo),Other,FAQ,2020-04-11,600,800,700,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-02-03,2200,2500,2350,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-02-05,2200,2500,2350,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-02-11,2200,2500,2350,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-02-17,2200,2500,2350,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-03-19,2000,2200,2100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-05-05,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-05-30,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-06-01,1200,1400,1300,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-06-03,1000,1400,1200,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-06-11,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-06-25,1000,1400,1200,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-07-06,1400,1400,1400,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-07-07,1400,1600,1500,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-07-13,1300,1600,1450,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-07-18,1600,1600,1600,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-07-21,1400,1600,1500,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-07-24,1400,1400,1400,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-07-25,1400,1400,1400,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-08-03,1300,2600,1800,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-08-10,1100,1200,1150,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-09-14,2000,2500,2250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-09-15,2000,2500,2250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-10-01,1200,1600,1400,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-10-08,1800,1800,1800,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-10-17,2000,2000,2000,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-11-04,2800,3000,2900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-11-06,2800,3000,2900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2020-12-07,3000,3000,3000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-03-06,2200,2400,2300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-03-08,2000,2300,2200,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-03-09,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-03-12,2000,2200,2100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-03-18,2000,2200,2100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-03-31,1900,2000,1950,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-05-22,500,600,550,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-05-26,700,800,750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-05-29,400,500,450,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-06-02,400,600,500,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-06-05,400,800,600,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-06-10,600,700,650,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-06-16,600,800,700,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-07-21,1600,1700,1650,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-07-27,1500,1600,1550,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-08-14,1000,1200,1100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-08-18,900,1100,1000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-08-25,1000,1100,1050,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-08-31,1000,1200,1100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-09-07,1400,1600,1500,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-09-09,1600,1800,1700,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-09-13,1500,1800,1600,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-09-29,800,1500,1150,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-10-07,1200,1400,1300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-10-12,1200,1400,1300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-10-20,1500,2000,1750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-10-23,2000,2500,2300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-10-26,2000,2200,2100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-10-28,2500,3000,2750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-11-04,3000,3300,3200,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-11-09,2500,2700,2600,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-11-11,2500,2600,2550,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-11-16,2400,2600,2500,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-11-27,2200,2400,2300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-11-29,2200,2400,2300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-12-09,2200,2400,2300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-12-15,1600,2000,1800,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-12-17,1600,1800,1700,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-12-28,800,1200,1000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2020-12-31,1500,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-03-07,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-03-10,2200,2400,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-03-29,2500,2600,2500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-06-02,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-06-07,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-06-10,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-06-13,1000,1200,1100,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-06-22,800,1200,1000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-06-30,1500,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-07-07,1700,1800,1750,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-07-11,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-07-16,1500,2000,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-07-19,1600,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-07-23,1200,1800,1500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-07-25,1500,2000,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-08-06,1300,1500,1400,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-08-08,1500,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-08-11,1600,1800,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-08-13,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-08-28,1600,1800,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-08-31,1600,1800,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-09-12,2600,3000,2800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-09-13,2500,3000,2700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-09-17,1800,2200,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-09-24,1200,1800,1500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-10-09,2500,3000,2700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-10-12,2000,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-10-14,2300,2600,2500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-10-22,2200,2400,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-10-23,2000,2400,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-11-03,2200,2500,2400,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-11-04,2000,2500,2400,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-11-06,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-11-14,1500,2200,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-11-18,1800,2200,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-11-23,1800,2200,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-11-29,2500,2800,2700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-12-11,2000,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-12-15,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-12-16,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-12-20,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-12-21,1800,2300,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-12-28,1300,1500,1400,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2020-12-29,1300,1500,1400,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-06-30,500,1500,1000,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-07-05,500,1500,1000,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-07-06,500,1500,1000,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-07-16,1200,1400,1300,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-07-17,500,1000,800,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-08-06,600,1000,800,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-08-12,900,1000,980,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-08-25,1500,1600,1580,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-08-28,900,1000,980,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2020-09-14,1300,1600,1500,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2020-05-25,300,1000,650,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2020-06-03,600,800,700,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2020-06-04,700,1200,950,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2020-06-16,400,700,550,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2020-06-25,500,800,650,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2020-11-28,1000,1000,1000,332
+Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,2020-05-31,300,400,300,332
+Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,2020-06-14,300,400,300,332
+Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,2020-06-17,300,600,400,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-07-02,3200,3800,3500,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-07-07,3000,3500,3200,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-07-10,3200,3600,3400,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-07-20,3000,3600,3400,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-07-30,3200,3500,3300,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-08-04,2600,2800,2700,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-08-10,2600,2800,2700,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-08-12,2400,2800,2550,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-08-25,1600,1800,1700,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-09-07,800,1100,950,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-09-09,800,1000,900,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-09-10,600,700,650,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-09-11,500,700,600,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-09-28,1200,1500,1300,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-01,1200,1500,1350,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-06,1700,1900,1800,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-14,1600,1800,1700,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-16,1800,2000,1900,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-20,1800,2300,2000,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-23,1800,2000,1900,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-11-03,1200,1500,1300,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-11-05,1200,1300,1250,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-07-24,5000,5500,5200,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-08-27,4000,4500,4400,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-12,4000,4500,4400,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-16,4000,4500,4400,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-09-23,800,1500,1200,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-10-16,1500,2000,1800,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2020-03-18,1800,1800,1800,332
+Punjab,Gurdaspur,F.G.Churian,Squash(Chappal Kadoo),Other,FAQ,2020-07-11,1950,2000,1980,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2020-04-23,1000,1200,1200,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2020-04-30,1000,1100,1100,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2020-05-15,700,1000,1000,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2020-05-18,600,800,800,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2020-05-29,500,600,600,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2020-03-08,2500,2700,2600,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2020-04-03,2300,2500,2400,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2020-04-05,2800,3000,2900,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2020-04-07,2800,3000,2900,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2020-04-10,1800,2000,1900,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2020-04-11,2300,2500,2400,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2020-05-31,1300,1500,1400,332
+Punjab,Ludhiana,Ludhiana,Squash(Chappal Kadoo),Other,FAQ,2020-07-18,700,1300,1000,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-04-04,1000,1200,1100,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-06-25,800,1000,900,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-07-06,800,1000,900,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-07-17,1000,1200,1100,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-07-23,800,1000,900,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-08-03,1200,1400,1300,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-08-04,1000,1200,1100,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-08-09,1000,1200,1100,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-08-10,1200,1400,1300,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-08-15,1200,1400,1300,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-08-17,1200,1500,1350,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-08-27,1200,1400,1300,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-09-01,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-09-05,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-09-07,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-09-08,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-09-22,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-09-23,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-09-27,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-10-08,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-10-09,1500,1700,1600,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-10-11,1800,2000,1900,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-10-12,1600,1800,1700,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2020-10-19,1600,1800,1700,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-02-17,1500,1700,1600,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-02-26,2000,2200,2100,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-03-02,1500,2000,1800,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-03-11,800,1200,1000,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-11-24,1500,2000,1600,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-03-13,1800,2300,2000,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-03-23,1200,2000,1800,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-02,1100,1500,1300,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-09,800,1200,900,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-13,600,800,750,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-15,750,1100,1000,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-18,600,800,750,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-19,500,600,550,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-22,550,700,650,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-25,600,850,700,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-04-29,700,1000,950,332
+Punjab,Sangrur,Malerkotla,Squash(Chappal Kadoo),Other,FAQ,2020-05-15,500,700,650,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2020-03-04,1600,1700,1700,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2020-03-16,1700,1700,1700,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2020-03-30,1500,1700,1700,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2020-04-05,1400,1500,1500,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2020-05-20,1700,1700,1700,332
+Punjab,Tarntaran,Harike,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-04-05,1200,1300,1200,332
+Punjab,Tarntaran,Harike,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-04-07,900,1000,900,332
+Punjab,Tarntaran,Harike,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-04-10,700,800,700,332
+Punjab,Tarntaran,Harike,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-04-12,900,1000,900,332
+Punjab,Tarntaran,Harike,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-04-15,500,600,500,332
+Punjab,Tarntaran,Harike,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-07-13,500,600,500,332
+Tripura,Dhalai,Halahali,Squash(Chappal Kadoo),Other,FAQ,2020-04-12,4000,5000,4500,332
+Tripura,Dhalai,Halahali,Squash(Chappal Kadoo),Other,FAQ,2020-08-31,3000,4000,3500,332
+Tripura,Dhalai,Halahali,Squash(Chappal Kadoo),Other,FAQ,2020-09-16,3000,4000,3500,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-03-09,1500,1800,1700,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-03-23,1700,1900,1800,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-05-27,1700,2000,1800,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-11-20,3000,3500,3200,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-12-16,3000,3200,3100,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2020-12-23,3000,3500,3200,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-08-29,3500,4000,3800,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-09-08,2400,2600,2500,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-09-12,2500,2700,2600,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-09-17,2000,2500,2300,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-09-22,1800,2000,1900,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-09-28,2000,2200,2100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-10-09,3000,3200,3100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-10-18,3000,3200,3100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-10-28,3000,3500,3400,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-11-09,2000,2200,2100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-11-19,2000,2200,2100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-11-29,2000,2200,2100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-12-13,1800,2000,1900,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-12-28,2000,2200,2100,332
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Squash(Chappal Kadoo),Other,FAQ,2020-12-30,2000,2200,2100,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-01,700,900,800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-05,700,900,800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-06,700,900,800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-09,700,900,800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-11,800,1000,900,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-13,800,1000,900,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-21,1100,1300,1200,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-01-22,1100,1300,1200,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-02-07,1300,1500,1400,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-02-13,1200,1400,1300,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-02-15,1200,1400,1300,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-02-23,1200,1400,1300,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-03-01,1300,1500,1400,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-03-02,1300,1500,1400,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-03-03,1400,1600,1500,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-03-05,1600,1800,1700,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-07-09,1700,1900,1800,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-07-12,1900,2100,2000,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-07-14,2000,2200,2100,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-08-11,2500,2700,2600,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2020-08-21,2500,2700,2600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-01-13,1400,1800,1600,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-01-24,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-01-27,1600,2000,1800,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-02-22,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-02-24,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-02-25,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-02-27,2000,2400,2200,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-03-14,1800,2200,2000,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2020-09-02,3000,4000,3500,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-01-11,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-01-15,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-01-17,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-01-21,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-01-22,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-01-25,1800,2200,2000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-02-19,2200,2600,2400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-02-28,2200,2600,2400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-02-29,2200,2600,2400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-03-17,2000,2400,2200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-03-19,2000,2400,2200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-03-23,2000,2400,2200,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-03-28,1200,1600,1400,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-08-24,2500,3500,3000,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2020-09-03,2500,3500,3000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-08-16,2980,3020,3000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-08-24,2980,3020,3000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-08-26,2980,3010,3000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-08-28,2980,3010,3000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-08-29,2980,3030,3000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-09-08,1550,1620,1600,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-09-17,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-09-22,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-09-23,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-09-25,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-09-28,1480,1520,1500,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-10-08,1880,1920,1900,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-10-16,2100,2220,2200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-11-04,1200,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-11-05,1200,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-11-09,1200,1200,1200,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-11-14,1980,2020,2000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-11-15,1980,2020,2000,332
+West Bengal,Jalpaiguri,Belacoba,Squash(Chappal Kadoo),Other,FAQ,2020-11-19,1980,2020,2000,332
+Assam,Golaghat,Golaghat,Squash(Chappal Kadoo),Other,FAQ,2018-08-13,1500,2000,1800,332
+Haryana,Fatehabad,Jakhal,Squash(Chappal Kadoo),Other,FAQ,2018-03-15,600,600,600,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-03-21,1500,1500,1500,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-04-02,1400,1400,1400,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-04-10,800,800,800,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-04-15,1200,1200,1200,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-05-11,1200,1200,1200,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-05-21,800,800,800,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-06-06,800,800,800,332
+Haryana,Karnal,Nissing,Squash(Chappal Kadoo),Other,FAQ,2018-06-17,800,1200,1000,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-03-09,1500,2000,1750,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-03-21,2200,3000,2600,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-03-24,1800,2200,2000,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-03-27,1800,2200,2000,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-03-31,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-04-05,600,1000,800,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-04-24,600,800,700,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-04-25,600,800,700,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-04-28,400,600,500,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-05-01,400,600,500,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-05-08,600,800,700,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-05-15,500,800,650,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-05-24,700,1000,850,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-05-26,1000,1400,1200,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-06-13,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-06-14,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-06-15,1800,2000,1900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-06-18,1200,1400,1300,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-06-27,2800,3000,2900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-07-04,1500,2000,1750,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-07-16,2000,2200,2100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-07-17,2000,2200,2100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-07-23,2000,2500,2250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-07-28,1600,2000,1800,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-08-06,2000,2500,2250,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-08-14,1800,2000,1900,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-08-25,1600,2000,1800,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-08-28,1500,2000,1750,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-08-29,1500,2000,1750,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-08-30,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-09-05,1400,1800,1600,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-09-13,1000,1200,1100,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-09-18,1600,1800,1700,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-09-26,1600,2000,1800,332
+Himachal Pradesh,Hamirpur,Hamirpur,Squash(Chappal Kadoo),Other,FAQ,2018-10-08,1500,2000,1750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-01-07,1500,1600,1550,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-01-17,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-01-18,1800,2200,2000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-01-23,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-02-08,2000,2200,2100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-02-12,2000,2500,2300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-02-18,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-02-23,2000,2200,2100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-03-05,1200,1500,1350,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-03-06,1300,1400,1350,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-03-22,1000,1100,1050,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-03-29,1000,1100,1050,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-04-06,1000,1100,1050,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-04-11,1000,1500,1300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-04-19,1000,1800,1400,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-04-26,1000,1500,1300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-05-03,700,800,750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-05-14,700,800,750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-05-15,800,900,850,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-05-16,700,1000,800,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-05-22,1000,1600,1300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-06-01,700,900,800,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-06-05,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-06-21,1500,2500,2000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-06-22,1500,2300,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-07-25,500,1000,750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-08-02,700,800,750,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-08-09,1500,2000,1700,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-08-16,1000,1900,1400,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-08-19,1000,1500,1200,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-08-23,800,1200,1000,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-09-04,1000,1400,1200,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-09-10,1500,1600,1550,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-09-11,1000,1500,1300,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-10-04,2000,2200,2100,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-11-05,1500,1600,1550,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-11-14,1400,1500,1450,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-11-29,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-12-16,1800,2000,1900,332
+Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,2018-12-18,1800,2000,1900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-01-01,1200,1800,1500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-01-08,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-01-18,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-01-29,2000,2200,2100,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-02-07,1500,2600,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-02-15,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-03-16,1000,1400,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-03-20,1000,1200,1100,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-03-23,1600,1800,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-03-28,800,1500,1100,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-04-02,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-04-09,1000,1200,1100,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-04-17,1200,1500,1500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-04-26,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-04-29,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-05-04,1200,1800,1500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-05-09,800,1200,1000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-05-10,1000,1200,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-05-17,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-05-25,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-05-29,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-06-15,800,1000,900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-07-06,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-07-11,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-07-20,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-07-28,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-07-30,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-01,1500,2500,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-02,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-06,1200,1500,1300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-09,1500,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-16,1000,1500,1200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-24,1500,2000,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-28,1500,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-08-29,1800,2000,1900,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-09-05,1600,1800,1700,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-09-07,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-09-21,2000,3200,2500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-09-24,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-09-28,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-09-29,2500,3500,3000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-10-02,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-10-05,2000,3200,2500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-10-09,2000,2800,2500,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-10-11,2500,3200,2800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-10-17,2500,3500,3000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-10-24,2000,2500,2200,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-10-30,2000,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-11-02,1500,2200,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-11-05,1500,2500,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-11-07,1500,2500,2000,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-11-15,2200,2500,2300,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-12-25,1400,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-12-26,1500,1800,1600,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-12-28,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu,Squash(Chappal Kadoo),Other,FAQ,2018-12-31,1500,2000,1800,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2018-06-26,2700,3000,2800,332
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Squash(Chappal Kadoo),Other,FAQ,2018-08-14,1500,1600,1550,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-01-04,800,1000,900,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-02-26,800,1200,1000,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-03-06,600,1200,900,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-03-08,600,1000,800,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-03-23,600,700,650,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-03-29,500,700,600,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-04-02,600,600,600,332
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-04-09,700,700,700,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Other,FAQ,2018-03-07,800,1000,800,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-05,300,700,600,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-11,400,700,500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-22,500,700,500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-28,500,1000,600,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-29,400,1000,500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-31,500,1000,800,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-06-01,500,1000,600,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-06-14,1000,1000,1000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-16,2000,2300,2200,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-30,1500,2200,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-24,2200,2500,2500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-30,1800,2000,2000,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-01,2000,2500,2400,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-01,1500,2000,1500,332
+Himachal Pradesh,Mandi,Mandi(Mandi),Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-12-07,1000,1500,1200,332
+Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,2018-06-03,300,400,300,332
+Meghalaya,East Jaintia Hills,Khliehriat,Squash(Chappal Kadoo),Other,FAQ,2018-08-04,3000,4000,3500,332
+Meghalaya,East Jaintia Hills,Khliehriat,Squash(Chappal Kadoo),Other,FAQ,2018-08-13,2000,3000,2500,332
+Meghalaya,East Jaintia Hills,Khliehriat,Squash(Chappal Kadoo),Other,FAQ,2018-09-06,1500,2000,1750,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-02,2000,2800,2500,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-04,2000,2800,2500,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-17,1800,2200,2000,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-18,1800,2200,2000.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-06,1300,1700,1500.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-09,1500,1800,1600.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-14,1400,1600,1500.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-16,800,1200,1000.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-23,800,1200,1000.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-06,500,700,600.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-28,500,700,600.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-11,800,1000,900.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-22,1000,1250,1150.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-08,600,800,700.0,332
+Meghalaya,East Khasi Hills,Shillong,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-16,800,1000,900.0,332
+Meghalaya,East Khasi Hills,Sohra,Squash(Chappal Kadoo),Other,FAQ,2018-12-01,1000,2000,1500.0,332
+Meghalaya,South West Garo Hills,Garobadha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-03,2000,2500,2250.0,332
+Meghalaya,South West Garo Hills,Garobadha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-28,2000,2500,2250.0,332
+Meghalaya,South West Garo Hills,Garobadha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-16,2000,3000,2500.0,332
+Meghalaya,South West Khasi Hills,Mawkyrwat,Squash(Chappal Kadoo),Other,FAQ,2018-07-27,4000,4500,4250.0,332
+Meghalaya,South West Khasi Hills,Mawkyrwat,Squash(Chappal Kadoo),Other,FAQ,2018-08-20,2500,2800,2650.0,332
+Meghalaya,West Garo Hills,Dadengiri,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-31,3000,3500,3400.0,332
+Meghalaya,West Garo Hills,Rongram,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-06-22,4000,4500,4300.0,332
+Meghalaya,West Garo Hills,Rongram,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-27,4000,4500,4200.0,332
+Meghalaya,West Garo Hills,Rongram,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-24,3500,4000,3800.0,332
+Meghalaya,West Garo Hills,Rongram,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-21,3000,3500,3200.0,332
+Meghalaya,West Garo Hills,Rongram,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-12,3000,3500,3200.0,332
+Meghalaya,West Garo Hills,Rongram,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-26,1500,1800,1600.0,332
+Meghalaya,West Garo Hills,Rongram,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-23,2000,2500,2300.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-07,3200,3600,3500.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-10,2000,3000,2500.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-24,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-25,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-29,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-05,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-09,1800,2400,2300.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-20,1800,2000,1900.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-23,1800,2000,1900.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-29,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-31,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-06,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-17,2000,2500,2300.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-20,2000,2500,2400.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-24,1800,2000,1900.0,332
+Meghalaya,West Garo Hills,Tura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-28,2500,3000,2800.0,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-01-18,1000,1500,1200.0,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-02-08,500,1000,800.0,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-08,1000,1500,1200.0,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-10,1200,1500,1400.0,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-27,1000,1500,1200.0,332
+Meghalaya,West Jaintia Hills,Jowai,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-31,500,1000,700.0,332
+Meghalaya,West Khasi Hills,Nongstoin,Squash(Chappal Kadoo),Other,FAQ,2018-08-28,1000,2000,1500.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-03-09,2000,4000,3000.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-03-15,2000,3000,2500.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-03-21,2000,5000,3000.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-03-28,2000,4000,3000.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-04-11,1500,3000,2250.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-05-31,1500,3000,2250.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-06-04,1700,4000,2850.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-06-06,2000,4000,3000.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-06-08,1500,2500,2150.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-07-17,3000,5000,4000.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-08-02,3000,4000,3750.0,332
+Mizoram,Aizawl,New Market Aizawl,Squash(Chappal Kadoo),Other,FAQ,2018-08-13,1800,3000,2400.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-01-25,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-01-27,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-01-29,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-02-06,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-02-15,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-02-16,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-02-27,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-03-08,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-03-14,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-03-17,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-03-23,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-03-24,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-04-10,4000,5000,4500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-04-13,4000,5000,4500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-04-16,4000,5000,4500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-06-02,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-06-07,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-06-21,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-06-27,3000,4000,3500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-07-17,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-07-25,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-07-26,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-08-06,2000,3000,2500.0,332
+Mizoram,Lungli,Super Market Lungli (Bara Bazar),Squash(Chappal Kadoo),Other,FAQ,2018-08-10,2000,3000,2500.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-02-27,600,800,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-02-28,500,800,600.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-03-08,600,800,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-03-15,500,900,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-03-21,500,800,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-03-23,500,700,600.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-03-27,400,700,500.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-04-10,400,600,500.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-04-16,400,600,500.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-04-17,400,600,500.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-05-01,300,450,400.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-05-08,200,400,300.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-05-18,200,400,300.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-05-22,200,400,300.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-06-07,400,600,500.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-06-16,400,600,500.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-06-22,600,800,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-06-23,600,900,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-06-27,700,900,800.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-06-28,700,900,800.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-06-30,600,800,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-07-11,600,900,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-07-17,600,800,700.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-07-18,600,2000,1800.0,332
+Punjab,Fatehgarh,Sirhind,Squash(Chappal Kadoo),Other,FAQ,2018-07-24,600,800,700.0,332
+Punjab,Ferozpur,Makhu,Squash(Chappal Kadoo),Other,FAQ,2018-04-24,700,900,800.0,332
+Punjab,Ferozpur,Makhu,Squash(Chappal Kadoo),Other,FAQ,2018-05-21,200,400,300.0,332
+Punjab,Ferozpur,Makhu,Squash(Chappal Kadoo),Other,FAQ,2018-05-30,200,300,250.0,332
+Punjab,Ferozpur,Makhu,Squash(Chappal Kadoo),Other,FAQ,2018-07-05,2200,2500,2400.0,332
+Punjab,Ferozpur,Makhu,Squash(Chappal Kadoo),Other,FAQ,2018-07-30,2200,2500,2400.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-03-04,1500,1500,1500.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-03-19,1000,1000,1000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-04-19,1000,1000,1000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-04-25,800,800,800.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-05-14,500,500,500.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-05-20,400,400,400.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-05-23,400,400,400.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-06-30,2000,2000,2000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-08-29,1000,1000,1000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-09-08,1000,1000,1000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-09-12,1000,1000,1000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-09-15,1000,1000,1000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-09-19,1000,1000,1000.0,332
+Punjab,Ferozpur,Talwandi Bhai,Squash(Chappal Kadoo),Other,FAQ,2018-10-11,900,900,900.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-02-07,1800,2000,2000.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-02-17,1200,1500,1500.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-02-20,1200,1300,1300.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-02-22,1000,1100,1100.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-02-27,1000,1500,1500.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-03-02,700,800,800.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-03-14,500,700,700.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-03-15,600,700,700.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-03-17,600,900,900.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-03-19,600,800,800.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-03-22,800,1000,1000.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-04-06,500,700,700.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-04-11,500,700,700.0,332
+Punjab,Jalandhar,Adampur,Squash(Chappal Kadoo),Other,FAQ,2018-04-18,600,700,700.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-02-22,2000,2200,2100.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-02-28,2000,2200,2100.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-03-01,1800,2000,1900.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-03-03,2000,2200,2100.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-03-04,2000,2200,2100.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-03-06,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-03-13,2000,2200,2100.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-01,1800,2000,1900.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-03,1800,2000,1900.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-12,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-16,1800,2000,1900.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-18,2000,2200,2100.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-20,1800,2000,1900.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-23,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-04-25,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-07,1400,1500,1450.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-16,900,1000,950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-17,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-19,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-22,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-23,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-28,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-05-30,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-06-02,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-06-04,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-06-06,2000,2200,2100.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-06-12,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-06-23,1900,2000,1950.0,332
+Punjab,Jalandhar,Bilga,Squash(Chappal Kadoo),Other,FAQ,2018-06-24,1900,2000,1950.0,332
+Punjab,Jalandhar,Shahkot,Squash(Chappal Kadoo),Other,FAQ,2018-03-18,1000,1000,1000.0,332
+Punjab,Jalandhar,Shahkot,Squash(Chappal Kadoo),Other,FAQ,2018-03-27,700,900,800.0,332
+Punjab,Jalandhar,Shahkot,Squash(Chappal Kadoo),Other,FAQ,2018-05-01,1000,1000,1000.0,332
+Punjab,Jalandhar,Shahkot,Squash(Chappal Kadoo),Other,FAQ,2018-05-25,200,300,200.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-04-14,400,600,500.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-05-14,1000,1200,1100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-05-15,800,1000,900.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-05-18,800,1000,900.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-05-21,800,1000,900.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-05-22,1000,1200,1100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-05-24,700,900,800.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-05-26,700,900,800.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-06-09,1000,1200,1100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-06-11,1000,1200,1100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-06-12,1200,1400,1300.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-06-15,800,1000,900.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-06-18,1000,1200,1100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-11,2000,2200,2100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-13,2500,2700,2600.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-14,2500,2700,2600.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-15,2500,2700,2600.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-22,2000,2200,2100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-26,2500,2700,2600.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-29,2000,2200,2100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-07-30,2500,2700,2600.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-08-01,2500,2700,2600.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-08-04,2500,2700,2600.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-09-02,1800,2000,1900.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-09-12,2000,2200,2100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-09-20,2000,2200,2100.0,332
+Punjab,Moga,Kot ise Khan,Squash(Chappal Kadoo),Other,FAQ,2018-09-25,2000,2200,2100.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-01-27,1400,1600,1500.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-02-09,1500,1600,1600.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-02-16,1500,1500,1500.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-02-20,1400,1500,1500.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-03-03,1500,1600,1500.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-03-14,500,800,600.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-03-15,500,600,600.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-03-19,700,800,800.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-03-22,500,600,600.0,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2018-09-24,1400,1600,1500.0,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2018-11-16,2000,2200,2100.0,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2018-11-20,2000,2200,2100.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-03-28,500,500,500.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-04-27,700,800,800.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-04,700,800,800.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-28,1000,1000,1000.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-12-01,700,1000,800.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-12-04,1000,1100,1100.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-12-05,800,1000,1000.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-12-21,600,700,700.0,332
+Punjab,Muktsar,Giddarbaha,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-12-26,1200,1300,1300.0,332
+Punjab,Muktsar,Malout,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-04-17,400,600,500.0,332
+Punjab,Muktsar,Malout,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-04-25,400,600,500.0,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2018-02-13,1400,1400,1400.0,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2018-02-22,700,1000,750.0,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2018-02-23,900,1100,1000.0,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2018-02-26,400,600,500.0,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2018-03-07,500,600,600.0,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2018-03-08,500,600,600.0,332
+Punjab,Sangrur,Sangrur,Squash(Chappal Kadoo),Other,FAQ,2018-03-23,500,700,700.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-03-26,1500,1800,1600.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-04-20,1000,1200,1100.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-04-30,900,1100,1000.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-04,800,1000,900.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-05-14,1800,2200,2000.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-06-01,1200,1500,1300.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-06-08,1500,1700,1600.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-09,3500,3800,3700.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-07-13,3000,3300,3200.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-08-06,2000,2300,2100.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-14,1200,1400,1300.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-09-21,1500,1700,1600.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-01,1500,1800,1700.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-05,1500,2000,1700.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-10-08,1500,1800,1700.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-05,1500,1700,1600.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-19,1500,1800,1600.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-11-23,1500,1800,1700.0,332
+Tripura,Khowai,Teliamura,Squash(Chappal Kadoo),Squash(Chappal Kadoo),FAQ,2018-12-03,1500,1700,1600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-01-08,500,700,600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-01-11,400,600,500.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-01-12,400,600,500.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-01-17,400,600,500.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-01-19,500,700,600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-01-24,500,700,600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-01-31,500,700,600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-02-01,500,700,600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-02-08,500,700,600.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-02-19,700,900,800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-04-10,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-04-11,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-04-16,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-05-03,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-05-04,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-05-07,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-05-15,1200,1400,1300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-05-19,1100,1300,1200.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-05-23,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-05-31,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-06-06,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-06-08,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-06-22,1100,1300,1200.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-07-09,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-07-10,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-07-15,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-07-23,600,800,700.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-07-28,700,900,800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-07-31,700,900,800.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-08-02,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-08-04,800,1000,900.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-08-07,2200,2400,2300.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-08-11,2100,2300,2200.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-08-24,1400,1600,1500.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-08-25,1400,1600,1500.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-11-19,1000,1200,1100.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-12-02,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-12-04,900,1100,1000.0,332
+West Bengal,Darjeeling,Darjeeling,Squash(Chappal Kadoo),Other,FAQ,2018-12-12,700,900,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-01-08,2200,2600,2400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-01-12,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-01-19,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-01-23,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-01-24,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-01-26,1800,2200,2000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-02-02,1600,2000,1800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-02-09,1600,2000,1800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-02-22,1400,1800,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-03-16,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-03-30,900,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-04-04,900,1000,950.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-04-30,1000,1400,1200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-05-08,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-05-09,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-05-18,1400,1800,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-05-23,1400,1800,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-06-05,2000,3000,2500.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-06-20,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-06-23,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-06-29,1800,2200,2000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-07-03,1800,2200,2000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-07-07,2600,3000,2800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-07-09,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-07-12,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-07-20,1600,2000,1800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-08-04,1400,1800,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-08-07,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-08-08,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-09-11,2200,2600,2400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-09-12,2200,2600,2400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-09-14,2000,2400,2200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-09-18,1800,2200,2000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-09-24,1600,2000,1800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-10-16,800,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-10-19,1400,1800,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-10-20,1400,1800,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-10-22,1400,1800,1600.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-10-27,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-10-29,1200,1600,1400.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-11-03,1000,1400,1200.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-11-14,800,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-11-21,800,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-11-22,800,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-11-28,800,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-12-01,800,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-12-03,800,1200,1000.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-12-07,600,1000,800.0,332
+West Bengal,Darjeeling,Karsiyang(Matigara),Squash(Chappal Kadoo),Other,FAQ,2018-12-25,1600,2000,1800.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-01-02,1600,2000,1800.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-01-05,1800,2200,2000.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-01-08,1800,2200,2000.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-02-03,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-02-08,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-02-10,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-02-13,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-02-14,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-02-26,1000,1400,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-02-28,1000,1400,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-03-08,1000,1400,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-03-16,1000,1400,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-04-06,900,1100,1000.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-04-07,1000,1200,1100.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-04-21,800,1000,900.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-04-28,800,1000,900.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-05-05,1100,1300,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-05-11,1000,1200,1100.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-05-14,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-05-16,1000,1400,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-05-22,1000,1400,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-05-31,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-02,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-07,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-08,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-09,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-11,2000,2400,2200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-12,2000,2400,2200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-14,2000,2400,2200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-20,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-06-29,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-07-03,1600,2000,1800.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-07-09,1800,2200,2000.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-07-12,1800,2200,2000.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-07-20,1600,2000,1800.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-08-04,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-08-16,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-08-20,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-08-21,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-08-25,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-09-14,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-09-15,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-09-18,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-09-21,1200,1600,1400.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-09-25,1000,1400,1200.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-10-06,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-10-12,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-10-23,1600,2000,1800.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-10-31,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-11-03,1400,1800,1600.0,332
+West Bengal,Darjeeling,Siliguri,Squash(Chappal Kadoo),Other,FAQ,2018-11-21,1000,1400,1200.0,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2018-05-02,1300,1500,1400.0,332
+West Bengal,Kalimpong,Kalimpong,Squash(Chappal Kadoo),Other,FAQ,2018-05-15,1300,1500,1400.0,332

@@ -1,0 +1,4 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Kerala,Palakad,Koduvayoor,Jasmine,Other,FAQ,2021-12-01,110000,120000,115000,229
+Kerala,Palakad,Koduvayoor,Jasmine,Other,FAQ,2021-12-06,100000,170000,130000,229
+Kerala,Palakad,Koduvayoor,Jasmine,Other,FAQ,2021-12-16,150000,160000,155000,229

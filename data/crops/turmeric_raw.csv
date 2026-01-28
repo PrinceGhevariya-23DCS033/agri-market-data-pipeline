@@ -1,0 +1,980 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-01-04,400,1800,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-01-07,800,1500,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-01-10,600,1500,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-01-21,800,1500,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-01-25,800,1400,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-02-10,1000,1700,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-02-16,1300,1800,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-02-22,800,1400,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-02-23,800,1500,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-03-04,1000,1500,1300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-03-21,1000,1800,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-03-24,1500,1600,1550,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-03-27,1000,1600,1400,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-04-10,1700,1800,1750,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-04-17,1000,1500,1300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-09-15,2200,3500,2900,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-09-16,2500,3500,3050,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-09-22,2000,3000,2550,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-09-27,1500,2500,2050,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-09-28,2000,2300,2250,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-10-06,2000,2800,2500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-10-27,1500,2500,2050,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-11-07,2000,2500,2300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-11-17,1200,2200,1850,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-11-18,1500,2200,1950,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-11-21,1500,2200,1950,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-12-08,1500,2500,2100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-12-09,1800,2500,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-12-20,1000,2300,1750,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-12-21,1000,2500,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-12-22,1000,2200,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2017-12-23,1000,2200,1700,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-01-07,1100,1200,1150,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-01-10,1000,1250,1125,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-01-16,1100,1300,1200,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-01-23,800,1000,900,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-02-07,1100,1450,1250,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-10-28,2000,2200,2100,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-11-20,1200,1500,1350,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-11-24,1300,1600,1450,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-11-25,1200,1600,1400,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-11-29,1200,1500,1350,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-12-01,1400,1800,1600,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2017-12-21,1400,1600,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-02-27,750,1000,875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-03-11,750,1000,875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-03-12,500,1000,750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-03-16,750,1000,875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-03-22,500,1000,750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-03-23,750,1100,925,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-03-26,1000,1250,1125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-03-29,750,1300,1025,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-04-16,1000,1300,1150,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-05-07,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-05-11,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-05-15,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-05-17,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-06-06,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-06-07,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-06-08,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-06-10,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-06-13,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-06-16,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-06-24,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-07-02,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-07-03,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-07-09,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-07-15,1000,1400,1200,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-09-03,1000,4000,2500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-09-08,1250,4000,2625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-09-10,1250,4000,2625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-09-13,1000,4000,2500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-09-20,1000,3250,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-09-27,1000,2500,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-01,1250,2500,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-04,1000,2250,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-05,1000,2000,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-08,1000,2250,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-11,1000,2250,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-13,1000,2250,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-17,1250,2750,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-23,1250,3000,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-24,1750,2500,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-26,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-27,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-10-30,1250,2500,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-11-14,1500,2750,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-11-18,1250,2250,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-11-25,1500,2250,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-01,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-02,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-03,1500,2250,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-07,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-12,1750,2750,2250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-21,2000,2250,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-23,1500,2250,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2017-12-30,1000,2000,1500,309
+Gujarat,Surendranagar,Vadhvan,Turmeric (raw),Other,FAQ,2017-11-13,2000,2500,2250,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-01-09,1000,1200,1150,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-01-17,1300,1500,1450,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-01-23,1300,1500,1450,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-03-01,900,1100,1050,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-03-05,900,1100,1050,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-09-17,4500,5000,4750,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-09-19,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-09-25,2000,2500,2250,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-10-29,2000,2500,2250,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-11-04,1800,2200,2025,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-11-12,1500,2000,1750,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-11-25,1500,1800,1700,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-11-27,1600,1800,1700,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-11-28,1600,2000,1850,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-11-29,1500,1600,1550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-12-13,1700,2000,1850,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2017-12-23,1200,1800,1525,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-01-17,13500,13500,13500,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-01-18,13500,13500,13500,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-03-03,12500,12500,12500,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-03-09,12500,12500,12500,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-03-14,12500,12500,12500,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-03-30,14000,14000,14000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-05-08,15000,15000,15000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-05-11,15000,15000,15000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-05-13,15000,15000,15000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-05-22,14000,14000,14000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-06-03,13500,13500,13500,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-06-13,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-06-21,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-06-22,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-06-26,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-06-28,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-07-01,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-07-10,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-07-26,11000,11000,11000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-10-26,11000,11000,11000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-11-03,11000,11000,11000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-12-08,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2017-12-26,11000,11000,11000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2017-12-11,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2017-12-18,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2017-12-26,1800,2000,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-01-03,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-01-07,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-01,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-02,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-09,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-10,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-16,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-20,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-21,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-02-23,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-03-03,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-03-17,1800,2000,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-03-27,1800,2000,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2017-03-31,2300,2500,2500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2017-12-13,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2017-12-27,1300,2000,1500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2017-12-15,1800,2000,2000,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2017-12-16,1800,2000,2000,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2017-12-27,1300,2000,1500,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2017-11-18,2000,2250,2000,309
+Nagaland,Kohima,Jalukie,Turmeric (raw),Other,FAQ,2017-12-22,1100,1400,1200,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Other,FAQ,2017-12-14,1800,2100,1900,309
+Punjab,Ferozpur,Makhu,Turmeric (raw),Other,FAQ,2017-11-24,1400,1500,1450,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-01-16,1300,1700,1500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-01-17,1400,1600,1500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-02-05,1300,1500,1400,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-10-04,3000,4000,3500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-10-15,2500,4000,3300,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-10-18,2500,3000,2800,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-10-19,2500,3500,3000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-11-05,2500,3500,3000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2017-11-06,2700,3000,2900,309
+Rajasthan,Jalore,Jalore,Turmeric (raw),Other,FAQ,2017-01-26,1800,2200,2000,309
+Rajasthan,Jalore,Jalore,Turmeric (raw),Other,FAQ,2017-02-03,1800,2200,2000,309
+Rajasthan,Jalore,Jalore,Turmeric (raw),Other,FAQ,2017-02-21,1500,1700,1600,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-01-02,800,1500,1000,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-01-03,800,1800,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-01-13,1000,2000,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-01-14,1000,2000,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-01-20,1000,1800,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-10-22,1000,1500,1400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-10-27,1000,2000,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-11-06,1000,2000,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-11-14,1000,2000,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-11-21,1200,2000,1400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-12-09,1500,2000,1800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-12-13,1000,2000,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-12-15,1000,2000,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-12-17,1500,2000,1800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-12-18,1500,2000,1800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2017-12-20,1000,2000,1500,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2017-01-07,900,1000,950,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2017-01-23,1100,1300,1150,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2017-01-30,900,1200,1050,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2017-02-05,600,900,750,309
+Tamil Nadu,Coimbatore,Karamadai,Turmeric (raw),Turmeric (raw),FAQ,2017-03-18,1600,1800,1700,309
+Tamil Nadu,Coimbatore,Karamadai,Turmeric (raw),Turmeric (raw),FAQ,2017-04-20,1000,1100,1050,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Other,FAQ,2017-04-22,1250,1350,1300,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Other,FAQ,2017-05-06,1250,1350,1300,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Other,FAQ,2017-07-01,1150,1300,1250,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Other,FAQ,2017-11-18,10,12,11,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Other,FAQ,2017-12-02,1775,1900,1820,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Other,FAQ,2017-12-09,1725,1875,1780,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Other,FAQ,2017-12-16,1800,1970,1850,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-12-21,1800,2000,1900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-12-22,1800,2500,2200,309
+Rajasthan,Jalore,Jalore,Turmeric (raw),Other,FAQ,2015-11-24,2500,3000,2800,309
+Rajasthan,Jalore,Jalore,Turmeric (raw),Other,FAQ,2015-12-11,2500,3000,2800,309
+Rajasthan,Jalore,Jalore,Turmeric (raw),Other,FAQ,2015-12-18,3200,3600,3400,309
+Rajasthan,Jalore,Jalore,Turmeric (raw),Other,FAQ,2015-12-29,3200,3500,3300,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-01-04,200,300,250,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-01-17,2000,3000,2500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-01-21,2000,3000,2500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-01-28,220,3200,2600,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-02-02,2000,3000,2800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-02-05,250,3500,3000,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-02-06,2000,3000,2500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-02-08,2500,3500,3000,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-02-18,2500,3500,3000,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-11-04,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-11-09,100,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-11-17,100,1800,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-11-24,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-11-26,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-12-07,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-12-10,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-12-14,1000,1400,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-12-18,1000,1800,1500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2015-12-22,1000,1400,1200,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-09-30,2000,2500,2250,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-10-05,1200,1600,1400,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-10-07,2400,2500,2450,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-10-15,2000,2200,2100,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-10-28,1800,2000,1900,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-11-27,1200,1500,1350,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-11-28,1200,1500,1350,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-12-04,1000,1400,1200,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-12-06,1500,1600,1550,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-12-22,1200,1500,1350,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-12-27,1400,1600,1500,309
+Rajasthan,Kota,Kota (F&V),Turmeric (raw),Other,FAQ,2015-12-29,1500,1700,1600,309
+Tripura,South District,Kalsi,Turmeric (raw),Other,FAQ,2015-10-17,3000,3200,3100,309
+Andhra Pradesh,Visakhapatnam,Chintapally,Turmeric (raw),Other,Medium,2015-03-20,7000,7200,7100,309
+Andhra Pradesh,Visakhapatnam,Chintapally,Turmeric (raw),Other,Medium,2015-03-31,7000,7200,7100,309
+Andhra Pradesh,Visakhapatnam,Chintapally,Turmeric (raw),Other,Medium,2015-05-28,6100,6500,6300,309
+Andhra Pradesh,Visakhapatnam,Chintapally,Turmeric (raw),Other,Medium,2015-07-14,6100,6500,6300,309
+Andhra Pradesh,Visakhapatnam,Chintapally,Turmeric (raw),Other,Medium,2015-08-01,6200,6500,6300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-01,1500,2500,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-05,1000,2500,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-09,1500,2500,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-10,1500,2500,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-15,1500,2500,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-20,1000,2000,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-23,1500,2500,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-01-28,1500,2300,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-02-05,1000,2200,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-03-20,1000,1200,1100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-09-12,4000,4500,4300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-09-17,3000,4000,3600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-09-22,2800,3800,3500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-09-30,2500,3500,3200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-10-05,2000,3000,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-10-13,2000,3000,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-10-16,2000,3000,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-03,1000,2500,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-04,1500,2800,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-05,1500,2800,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-13,2000,3000,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-17,1500,2800,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-24,1000,2500,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-26,1000,2500,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-11-28,1000,2000,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-12-03,1500,2300,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-12-05,1000,2500,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2015-12-29,1000,2500,1800,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-01-24,2400,2500,2450,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-10-12,3200,3400,3300,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-10-16,3000,3200,3100,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-11-03,2000,2250,2125,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-11-05,2000,2500,2250,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-11-08,1800,2100,1950,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-11-18,1500,2000,1750,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-11-27,1500,2000,1750,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-12-08,1900,2000,1950,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-12-12,1400,1500,1450,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2015-12-23,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2015-01-22,2500,3500,3000,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-01-16,2000,2500,2300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-02-13,1750,2000,1950,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-09-26,3500,4000,3800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-09-29,3000,3500,3300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-10-04,3000,3500,3300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-10-25,2250,2500,2425,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-10-28,2000,2500,2300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-10-29,2000,3000,2550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-11-03,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-11-09,2000,2500,2300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-11-21,1500,2250,1925,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-12-08,1750,2000,1925,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-12-17,1500,2000,1800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-12-19,1750,2000,1925,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-12-22,1750,2250,2050,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-12-26,1750,2000,1900,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2015-12-28,1500,1750,1675,309
+Kerala,Thiruvananthapuram,Kattakada,Turmeric (raw),Other,FAQ,2015-01-05,3400,3600,3500,309
+Manipur,Imphal East,Lamlong Bazaar,Turmeric (raw),Other,FAQ,2015-03-12,800,1500,1000,309
+Manipur,Imphal East,Lamlong Bazaar,Turmeric (raw),Other,FAQ,2015-03-17,800,1500,1000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2015-01-21,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2015-02-06,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Other,FAQ,2015-03-27,1300,2000,1500,309
+Odisha,Koraput,Koraput,Turmeric (raw),Other,FAQ,2015-05-02,2500,2600,2550,309
+Odisha,Koraput,Koraput,Turmeric (raw),Other,FAQ,2015-05-18,2100,2200,2150,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2015-06-01,2100,2200,2150,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2015-06-09,2400,2500,2450,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2015-09-23,2300,2500,2400,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-01-04,2000,2500,2200,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-01-21,1800,2300,2000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-01-26,2000,2200,2100,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-01-27,2000,2200,2100,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-02-02,1900,2200,2000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-02-04,1900,2100,2000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-10-01,3000,4000,3500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-10-06,3000,3800,3400,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-10-21,2500,4000,3500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-11-03,2000,2500,2200,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-11-04,2500,3000,2800,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-11-23,1400,1800,1600,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-12-03,1800,2000,1900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-12-05,1800,2000,1900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-12-10,1400,1800,1600,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2015-12-14,1600,2000,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-01-10,1200,2200,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-02-29,1000,1800,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-03-16,1000,2000,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-03-20,1000,2000,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-11-20,2000,2800,2500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-11-24,2000,3000,2700,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-11-27,1500,2200,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-12-14,1500,2200,1900,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-12-18,1500,2500,2100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2020-12-22,1500,2000,1800,309
+Gujarat,Bharuch,Ankleshwar,Turmeric (raw),Turmeric (raw),FAQ,2020-12-30,1325,2000,1775,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-01-15,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-01-26,1250,2000,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-01-27,1250,2000,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-01-28,1250,2250,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-01-29,1000,2250,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-01-31,1500,2250,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-02-26,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-03-09,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-03-18,1600,2000,1800,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-11-26,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-12-17,1250,2000,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-12-21,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-12-25,1500,2250,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2020-12-31,1250,1750,1500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-01-09,1500,1600,1550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-01-25,1700,2000,1900,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-01-28,1500,1800,1700,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-11-18,1600,2500,2300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-11-19,1200,1700,1500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-11-30,1500,2000,1800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-12-08,1100,1600,1400,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-12-18,1500,2000,1800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-12-27,1400,1700,1600,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-12-28,1600,2000,1800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2020-12-31,1300,1500,1450,309
+Kerala,Kollam,Punalur,Turmeric (raw),Other,FAQ,2020-01-09,1600,2000,1800,309
+Kerala,Kollam,Punalur,Turmeric (raw),Other,FAQ,2020-01-16,1800,2200,2000,309
+Kerala,Kollam,Punalur,Turmeric (raw),Other,FAQ,2020-01-30,1600,2000,1800,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2020-11-28,2000,3000,2500,309
+Nagaland,Longleng,Longleng,Turmeric (raw),Other,FAQ,2020-01-03,1700,2000,1800,309
+Nagaland,Longleng,Longleng,Turmeric (raw),Other,FAQ,2020-01-24,1800,2100,2000,309
+Nagaland,Longleng,Longleng,Turmeric (raw),Other,FAQ,2020-02-28,2000,2300,2200,309
+Nagaland,Longleng,Longleng,Turmeric (raw),Other,FAQ,2020-03-20,2000,2300,2200,309
+Nagaland,Peren,Tenning,Turmeric (raw),Other,FAQ,2020-01-03,1700,2000,1800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Other,FAQ,2020-02-17,1760,1800,1780,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Other,FAQ,2020-09-23,2260,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-01-12,1650,1700,1675,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-01-13,1650,1700,1675,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-01-16,1750,1780,1775,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-01-18,1735,1780,1750,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-01-23,1650,1680,1660,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-01-26,1700,1730,1720,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-01-31,1600,1700,1650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-02-08,1700,1800,1750,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-02-09,1800,1830,1820,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-02-10,1750,1800,1775,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-02-11,1760,1800,1775,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-02-18,1660,1720,1680,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-02-23,1700,1730,1720,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-02,1650,1680,1675,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-04,1650,1700,1675,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-06,1600,1625,1620,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-07,1600,1700,1650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-09,1600,1630,1620,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-11,1600,1660,1650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-12,1650,1700,1660,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-18,1620,1680,1650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-25,1600,1650,1620,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-03-28,1600,1650,1620,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-04-22,1650,1750,1700,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-05-06,1600,1700,1650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-05-19,1600,1750,1700,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-06-23,1850,2200,2000,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-07-15,1800,2200,2050,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-07-25,2000,2200,2060,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-07-31,2000,2200,2060,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-08-14,2200,2450,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-08-22,2200,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-09-01,2400,2800,2500,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-09-14,2200,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-09-19,2250,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-09-24,2260,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-10-03,2500,2650,2600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-10-06,2500,2650,2600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-10-12,2250,2600,2500,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-10-27,2500,2600,2560,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-06,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-07,2500,2800,2650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-08,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-10,2500,2800,2650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-18,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-19,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-20,2500,2800,2750,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-22,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-24,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-28,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-11-29,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-12-01,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-12-02,2600,3000,2800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-12-15,2500,2800,2600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-12-17,2500,2800,2700,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-12-19,2500,2800,2600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-12-23,2500,2800,2600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2020-12-30,2500,2800,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-01-02,1400,2500,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-01-03,1000,2300,1750,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-01-11,1000,2200,1700,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-01-23,1200,2500,1950,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-01-25,1000,2000,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-02-03,1000,2300,1850,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-02-07,1200,2200,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-02-15,2000,2500,2350,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-02-16,2000,2500,2350,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-02-23,1500,2200,1950,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-03-10,1500,1800,1700,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-09-26,4000,5000,4600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-10-01,2500,4000,3400,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-10-11,2000,3500,2900,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-10-22,2000,3500,2850,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-10-27,1000,3200,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-10-29,2200,3200,2800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-11-03,1500,2700,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-11-14,1800,2800,2350,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-11-19,1500,2500,2050,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-12-06,1500,2500,2100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-12-08,1300,2500,2100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2018-12-14,1500,2500,2100,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2018-01-01,1500,1700,1600,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Other,FAQ,2018-01-03,400,500,450,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Turmeric (raw),FAQ,2018-01-12,1000,1400,1200,309
+Gujarat,Kheda,Nadiyad(Piplag),Turmeric (raw),Turmeric (raw),FAQ,2018-10-09,4000,5000,4500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-01-03,1000,2000,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-01-15,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-01-21,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-01-26,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-01-28,1000,2000,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-01-29,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-01-31,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-02-03,1000,2000,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-02-05,1000,2000,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-02-11,1000,2000,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-02-14,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-02-15,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-03-04,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-03-07,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-03-15,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-03-16,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-03-22,1000,1250,1125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-03-23,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-03-24,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-04-05,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-04-06,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-04-24,1000,1400,1200,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-04-25,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-05-02,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-05-05,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-05-07,1000,1600,1300,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-05-08,1000,1600,1300,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-05-09,1100,1500,1300,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-05-10,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-05-14,1000,1500,1250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-02,1500,2250,1875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-07,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-12,1750,2500,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-13,1750,2500,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-15,1750,2500,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-18,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-21,1750,4000,2875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-22,2000,4000,3000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-25,2750,3500,3125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-06-26,2750,3500,3125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-07-04,2000,3500,2750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-07-08,1500,3250,2375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-07-12,3250,4000,3625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-07-20,3500,4000,3750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-07-23,3200,4000,3600,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-07-28,2800,4000,3400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-07-31,2800,4000,3400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-08-06,2700,4000,3350,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-08-11,3000,4000,3500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-08-13,2800,4000,3400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-08-17,3000,4750,3875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-09-01,4000,5500,4750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-09-02,4000,6000,5000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-09-09,5000,6500,5750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-09-18,3250,5000,4125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-09-23,4000,5000,4500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-09-24,4000,5000,4500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-09-30,3000,4000,3500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-10-11,2500,3500,3000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-10-22,2500,3500,3000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-10-27,2500,3500,3000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-03,1500,2750,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-11,2500,3000,2750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-13,2500,3250,2875,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-19,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-22,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-23,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-26,1500,2500,2000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-11-30,2000,3000,2500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-12-03,1500,2750,2125,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-12-15,2000,3000,2500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-12-17,1750,3000,2375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-12-19,2000,3000,2500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2018-12-22,2000,3000,2500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-01-09,1500,1600,1550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-01-10,1500,1600,1550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-01-11,1500,1600,1550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-01-28,1400,1500,1450,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-10-03,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-11-10,2200,2500,2350,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-11-15,2000,2200,2150,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-11-27,1800,2000,1950,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-12-05,2200,2400,2350,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-12-20,2000,2200,2150,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-12-23,1800,2000,1950,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2018-12-30,1800,2000,1950,309
+Kerala,Idukki,Adimali,Turmeric (raw),Other,FAQ,2018-06-01,1600,1800,1700,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2018-01-05,11500,11500,11500,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2018-01-20,11000,11000,11000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2018-01-25,11000,11000,11000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2018-02-12,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2018-02-17,12000,12000,12000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2018-02-23,14000,14000,14000,309
+Kerala,Idukki,Kattappana,Turmeric (raw),Other,FAQ,2018-11-24,13000,14000,13000,309
+Kerala,Kollam,Kaliyanchanda,Turmeric (raw),Other,FAQ,2018-01-25,2100,2300,2200,309
+Kerala,Thiruvananthapuram,Kattakada,Turmeric (raw),Other,FAQ,2018-02-01,6000,7000,6500,309
+Kerala,Thiruvananthapuram,Kattakada,Turmeric (raw),Other,FAQ,2018-02-15,4000,4500,4300,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-01-02,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-01-18,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-01-23,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-01-31,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-02-01,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-02-03,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-02-08,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-02-24,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-03-14,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-03-16,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-03-17,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-03-29,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-04-05,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-04-13,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-04-16,1800,2000,2000,309
+Manipur,Bishnupur,Bishenpur,Turmeric (raw),Turmeric (raw),FAQ,2018-04-19,1800,2000,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-01-05,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-01-11,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-01-17,1300,2000,1500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-01-19,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-01-29,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-13,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-14,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-17,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-20,1800,2500,2000,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-23,2300,3000,2500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-05,2300,3000,2500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-07,2300,3000,2500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-26,2300,3000,2500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-02,2300,3000,2500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-05,2300,3000,2500,309
+Manipur,Imphal West,Imphal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-07,2300,3000,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-01-08,1800,2500,2000,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-02,1300,1700,1500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-06,1300,1700,1500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-07,1300,1700,1500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-13,1800,2200,2000,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-19,1800,2200,2000,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-20,1800,2200,2000,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-02-21,1800,2200,2000,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-06,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-12,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-13,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-14,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-15,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-21,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-03-26,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-05,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-10,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-13,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-18,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-19,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-04-20,2300,2700,2500,309
+Manipur,Thoubal,Thoubal,Turmeric (raw),Turmeric (raw),FAQ,2018-12-13,0,2500,2500,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2018-09-01,3000,4000,3000,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2018-09-29,1800,2000,1800,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2018-10-27,2500,3000,2500,309
+Meghalaya,West Garo Hills,Rongram,Turmeric (raw),Turmeric (raw),FAQ,2018-01-20,1000,1200,1100,309
+Meghalaya,West Garo Hills,Rongram,Turmeric (raw),Turmeric (raw),FAQ,2018-12-07,1200,1500,1400,309
+Meghalaya,West Garo Hills,Tura,Turmeric (raw),Turmeric (raw),FAQ,2018-03-15,1250,1400,1300,309
+Meghalaya,West Garo Hills,Tura,Turmeric (raw),Turmeric (raw),FAQ,2018-03-23,1250,1400,1300,309
+Meghalaya,West Garo Hills,Tura,Turmeric (raw),Turmeric (raw),FAQ,2018-03-27,1250,1400,1300,309
+Meghalaya,West Garo Hills,Tura,Turmeric (raw),Turmeric (raw),FAQ,2018-12-06,1200,1500,1400,309
+Nagaland,Kohima,Jalukie,Turmeric (raw),Other,FAQ,2018-01-12,900,1100,1000,309
+Nagaland,Kohima,Jalukie,Turmeric (raw),Other,FAQ,2018-03-23,1300,1600,1400,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Turmeric (raw),FAQ,2018-01-11,1600,1900,1800,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Turmeric (raw),FAQ,2018-02-15,1200,1600,1400,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Turmeric (raw),FAQ,2018-02-22,1200,1500,1300,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Turmeric (raw),FAQ,2018-03-22,1000,1300,1100,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Turmeric (raw),FAQ,2018-05-31,1000,1300,1100,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Turmeric (raw),FAQ,2018-06-28,1200,1500,1300,309
+Nagaland,Wokha,Baghty,Turmeric (raw),Turmeric (raw),FAQ,2018-07-26,1700,2100,1900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-01-05,2000,3000,2500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-01-11,2200,2800,2500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-01-12,2800,3000,2900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-01-13,2000,3500,2700,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-01-15,2000,3000,2500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-01-22,1500,2000,1750,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-01-27,1800,2500,2200,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-02-06,2000,2500,2300,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-02-07,3500,4000,3750,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-02-16,2800,3000,2900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-02-18,2500,3000,2750,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-10-08,3000,3500,3300,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-10-31,2800,3000,2900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-11-11,2000,3000,2500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-11-17,2000,2200,2100,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-12-01,1900,2000,1950,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-12-19,1800,2000,1900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-12-23,2000,2400,2200,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2018-12-26,2000,2500,2300,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2018-01-07,1200,1600,1400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2018-01-13,1000,1800,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2018-01-14,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2018-01-15,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2018-02-02,1000,1500,1200,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2018-02-07,1200,2000,1400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2018-02-17,1200,2000,1400,309
+Tripura,South District,Manubazar,Turmeric (raw),Turmeric (raw),FAQ,2018-05-29,2000,4000,3000,309
+Tripura,South District,Manubazar,Turmeric (raw),Turmeric (raw),FAQ,2018-05-30,2500,5000,4000,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-01-06,1550,1650,1600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-01-13,1250,1400,1350,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-03-07,1350,1400,1375,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-03-10,1450,1550,1500,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-03-14,1450,1500,1475,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-03-28,1550,1600,1575,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-04-07,1550,1600,1575,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-04-13,1650,1725,1675,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-04-28,1550,1600,1575,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-05-09,1550,1660,1600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-05-19,1550,1600,1575,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-06-06,1650,1700,1675,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-07-04,1750,1850,1800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-07-25,1600,1700,1650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-09-23,1600,1650,1625,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-09-24,1600,1700,1625,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-10-19,1625,1675,1650,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-10-29,1550,1600,1575,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-10-30,1550,1600,1575,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-11-10,1550,1625,1600,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-11-25,1450,1550,1500,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-12-05,1575,1650,1625,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2018-12-22,1450,1600,1500,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Turmeric (raw),FAQ,2018-02-21,1450,1575,1500,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Turmeric (raw),FAQ,2018-04-04,1700,1830,1750,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Turmeric (raw),FAQ,2018-09-05,1640,1750,1690,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Turmeric (raw),FAQ,2018-12-22,1850,2000,1900,309
+Uttar Pradesh,Auraiya,Achalda,Turmeric (raw),Other,FAQ,2018-06-11,1710,1735,1735,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-01-04,2000,3000,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-01-13,2500,3200,3000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-01-17,1000,3200,2500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-01-18,1000,3000,2200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-01-25,2500,3000,2800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-02-02,1800,3100,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-02-05,2500,3200,3000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-02-11,3000,3500,3300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-02-16,2500,3500,3000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-03-03,2000,3200,3000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-03-14,1800,3500,3000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-03-16,2000,2200,2100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-03-18,3500,4000,3800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-09-21,3000,4000,3500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-09-26,2000,3000,2500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-04,1500,3000,2500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-07,1000,2000,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-13,1500,2000,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-15,1500,2200,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-17,1500,2000,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-18,1000,2500,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-24,1500,2000,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-26,1000,2200,1800,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-10-29,1500,2200,2000,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-11-12,800,2000,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-11-15,1000,1800,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-11-21,1200,1700,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-11-22,1200,1700,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-11-28,800,1600,1400,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-12-02,1000,1500,1300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-12-17,800,1500,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-12-20,800,1300,1100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-12-21,1000,1500,1300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-12-22,500,1500,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-12-24,900,1300,1200,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2011-12-26,700,1500,1200,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-03,1500,1800,1650,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-06,1500,1800,1650,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-07,1500,1800,1650,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-08,1500,1800,1650,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-16,1500,2000,1750,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-25,1600,2200,1900,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-26,1500,2100,1800,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-01-31,2000,2500,2250,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-02-05,2000,2400,2200,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-02-12,1500,2000,1750,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-02-18,2500,2800,2650,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-02-19,2600,2800,2700,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-03-10,2250,2750,2500,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-03-19,2000,2600,2300,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-03-24,2000,3000,2500,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-03-29,2250,2750,2500,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-03-31,2250,2750,2500,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-04-07,2400,2700,2550,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-04-23,3000,3500,3250,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-04-29,2750,3250,3000,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-05-03,2750,3250,3000,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-05-13,2750,3250,3000,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-06-03,3250,3750,3500,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-06-04,3000,3500,3250,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-06-12,3250,3750,3500,309
+Gujarat,Navsari,Bilimora,Turmeric (raw),Other,FAQ,2011-06-14,3250,3750,3500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-01-05,1300,1500,1400,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-01-07,1000,1600,1500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-01-30,1100,1900,1500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-02-01,1000,1300,1150,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-02-07,1000,1400,1200,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-02-17,1100,1300,1200,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-02-18,1200,1400,1300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-06-17,400,700,550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-09-10,500,1200,850,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-09-13,700,800,750,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-09-27,2000,2500,2200,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-06,1500,2500,2250,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-11,1500,2000,1800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-15,1500,2250,1900,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-16,1500,2250,1900,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-19,1400,1800,1625,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-21,1300,1700,1550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-29,1500,2000,1800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-10-30,1500,1800,1700,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-04,1500,1650,1600,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-05,1400,1500,1500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-10,1500,1600,1550,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-15,1100,1400,1250,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-16,1100,1400,1250,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-17,1200,1400,1300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-20,1000,1600,1350,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-21,1200,1500,1400,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-11-28,800,1200,1050,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-01,1000,1200,1100,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-02,1200,1500,1350,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-04,1200,1400,1300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-12,1000,1200,1100,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-18,1200,1300,1250,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-20,1000,1200,1100,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-27,1000,1200,1100,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2011-12-31,1000,1200,1100,309
+Kerala,Thiruvananthapuram,Anyara(EEC),Turmeric (raw),Other,FAQ,2011-01-14,19000,20000,19500,309
+Kerala,Thiruvananthapuram,Anyara(EEC),Turmeric (raw),Other,FAQ,2011-03-14,20000,21000,20500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-01-07,18000,18800,18500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-01-14,18800,19500,18800,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-01-25,18800,19500,18800,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-02-04,19000,21000,19500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-02-11,18400,21000,19000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-03-11,15500,17500,16000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-03-15,15500,17500,16000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-04-08,13800,14600,14000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-04-19,15200,16500,16000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-05-17,13400,14600,14000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-05-20,13400,14600,14000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-05-27,13400,14600,14000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-06-10,13400,14500,14000,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-06-24,11000,12400,11500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-06-28,11000,12400,11500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-07-01,11000,12400,11500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-07-08,11000,12400,11500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-07-26,11000,12400,11500,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-08-23,10000,10600,10300,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-10-21,9200,9700,9200,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-12-09,7200,7600,7200,309
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Turmeric (raw),Other,FAQ,2011-12-20,7200,7600,7200,309
+Kerala,Thiruvananthapuram,Vamanapuram,Turmeric (raw),Other,FAQ,2011-12-30,8500,8800,8600,309
+Odisha,Koraput,Koraput,Turmeric (raw),Other,FAQ,2011-12-25,2500,3500,3000,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2011-12-01,4500,6000,5000,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2011-12-02,5000,6000,5400,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2011-12-05,4500,6500,5500,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2011-12-06,2500,4000,3000,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2011-12-09,2500,2700,2600,309
+Odisha,Koraput,Koraput(Semilguda),Turmeric (raw),Other,FAQ,2011-12-14,2300,2500,2400,309
+Odisha,Rayagada,Gunpur,Turmeric (raw),Other,FAQ,2011-12-28,12000,13000,13000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-01-08,2200,2500,2300,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-10-04,2000,3500,3000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-10-08,2500,5000,4500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-10-12,3000,4000,3500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-10-15,2000,2800,2400,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-10-23,2500,3200,2800,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-11-15,2000,2600,2400,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-11-18,1800,2800,2300,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-11-19,1500,2400,2000,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-12-04,1300,1600,1500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-12-09,1500,2200,1900,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-12-13,1400,1800,1500,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-12-17,1200,1500,1300,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-12-25,1200,1600,1400,309
+Rajasthan,Chittorgarh,Chittorgarh,Turmeric (raw),Other,FAQ,2011-12-27,1200,1500,1300,309
+Rajasthan,Jodhpur,Jodhpur (F&V),Turmeric (raw),Other,FAQ,2011-01-05,3000,3300,3150,309
+Rajasthan,Jodhpur,Jodhpur (F&V),Turmeric (raw),Other,FAQ,2011-01-08,3000,3500,3300,309
+Rajasthan,Jodhpur,Jodhpur (F&V),Turmeric (raw),Other,FAQ,2011-01-09,3000,3500,3000,309
+Rajasthan,Jodhpur,Jodhpur (F&V),Turmeric (raw),Other,FAQ,2011-01-17,2800,3000,2900,309
+Rajasthan,Jodhpur,Jodhpur (F&V),Turmeric (raw),Other,FAQ,2011-01-25,2800,3000,2900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-02-05,2800,3000,2900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-09-25,3000,4000,3500,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-10-17,2500,3000,2800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-10-29,2000,2500,2400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-02,2000,2500,2400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-03,2000,2500,2400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-08,2800,3000,2900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-11,1500,2000,1800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-12,2000,2500,2400,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-18,1500,2000,1800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-21,1500,2000,1800,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-11-28,1800,2000,1900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-12-12,1800,2000,1900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-12-13,1800,2000,1900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-12-16,1800,2000,1900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-12-20,1800,2000,1900,309
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Turmeric (raw),Other,FAQ,2011-12-28,1000,1500,1250,309
+Uttar Pradesh,Banda,Banda,Turmeric (raw),Other,FAQ,2011-01-03,0,0,17000,309
+Uttar Pradesh,Banda,Banda,Turmeric (raw),Other,FAQ,2011-01-06,0,0,17000,309
+Uttar Pradesh,Banda,Banda,Turmeric (raw),Other,FAQ,2011-01-09,0,0,17000,309
+Uttar Pradesh,Banda,Banda,Turmeric (raw),Other,FAQ,2011-07-01,0,0,17000,309
+Uttar Pradesh,Jhansi,Baruwasagar,Turmeric (raw),Other,FAQ,2011-03-07,2100,2300,2150,309
+Uttar Pradesh,Jhansi,Baruwasagar,Turmeric (raw),Other,FAQ,2011-03-22,2600,2900,2800,309
+Uttar Pradesh,Jhansi,Baruwasagar,Turmeric (raw),Other,FAQ,2011-03-24,2700,2850,2800,309
+Uttar Pradesh,Jhansi,Baruwasagar,Turmeric (raw),Other,FAQ,2011-03-25,2700,2950,2850,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-01-05,1000,2000,1700,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-01-11,1000,1800,1450,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-01-16,1000,2200,1700,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-02-05,1500,1800,1700,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-02-06,1000,1500,1300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-02-12,1000,2000,1650,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-02-22,2000,2500,2300,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-02-24,1500,2000,1850,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-02-25,1500,2000,1850,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-03-05,1000,1600,1400,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-09-29,2000,3000,2600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-10-11,1500,2500,2100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-10-30,1000,2000,1650,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-11-08,1500,2500,2100,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-11-16,1000,1600,1450,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-11-24,1000,1500,1350,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-11-26,1000,1500,1350,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-11-29,800,2000,1500,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-12-04,1200,2000,1700,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-12-07,800,2000,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-12-11,1000,2000,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-12-13,1000,1600,1400,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-12-27,1000,2000,1600,309
+Gujarat,Ahmedabad,Ahmedabad,Turmeric (raw),Other,FAQ,2021-12-30,800,1800,1400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-01-12,1000,1600,1300,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-01-15,1000,1750,1375,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-01-18,1500,2000,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-01-19,1200,1600,1400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-01-22,1300,1750,1525,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-02-18,1000,2000,1500,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-02-26,1300,2000,1650,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-03-10,1200,2000,1600,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-09-17,2500,5500,4000,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-09-20,2500,5000,3750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-10-11,1250,3250,2250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-10-12,1250,3250,2250,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-10-13,1300,3250,2275,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-11-12,800,2000,1400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-11-25,800,2000,1400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-11-27,1000,2500,1750,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-04,1000,2250,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-06,1000,2250,1625,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-07,900,2250,1575,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-10,800,2000,1400,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-11,900,2000,1450,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-21,900,2000,1450,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-24,1100,2000,1550,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-27,1250,1900,1575,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-28,1250,1800,1525,309
+Gujarat,Surat,Surat,Turmeric (raw),Other,FAQ,2021-12-29,1000,1800,1400,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-01-17,1300,1600,1500,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-01-22,1000,1300,1200,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-02-02,1500,2000,1950,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-02-09,1800,2000,1950,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-09-22,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-09-23,3000,3500,3300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-09-25,3000,3500,3300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-09-28,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-09-29,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-10-02,2000,2500,2300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-10-03,2000,2500,2300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-10-09,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-10-10,2500,3000,2800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-10-11,2000,2500,2300,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-11-01,1800,2000,1900,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-11-13,1500,2000,1800,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-11-17,1500,1800,1700,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-11-19,1500,1800,1700,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-11-24,1200,1400,1350,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-12-08,1000,1200,1150,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-12-19,1200,1300,1275,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-12-22,1200,1300,1275,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-12-28,1000,1200,1150,309
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Turmeric (raw),Other,FAQ,2021-12-29,1000,1200,1150,309
+Kerala,Kollam,Sasthamkotta,Turmeric (raw),Other,FAQ,2021-03-05,1800,2200,2000,309
+Kerala,Kollam,Sasthamkotta,Turmeric (raw),Other,FAQ,2021-04-09,1500,2100,1800,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2021-01-16,2000,3000,2500,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2021-01-23,2000,3000,2500,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2021-02-13,1800,2700,2000,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2021-03-06,1800,3000,2500,309
+Meghalaya,South West Garo Hills,Ampati,Turmeric (raw),Other,FAQ,2021-11-06,1800,3000,2000,309
+Nagaland,Longleng,Longleng,Turmeric (raw),Other,FAQ,2021-03-12,1900,2200,2100,309
+Nagaland,Longleng,Longleng,Turmeric (raw),Other,FAQ,2021-12-31,2000,2200,2100,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-01-07,2400,2700,2500,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-01-11,2200,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-01-23,2260,2600,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-01-26,2200,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-01-28,2200,2500,2250,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-02-12,2200,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-03-06,1600,2000,1800,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-03-09,1800,2200,2000,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-03-24,2000,2250,2200,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-03-27,2000,2400,2200,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-03-29,2200,2400,2260,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-04-28,2200,2400,2250,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-04-29,2000,2260,2200,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-05-14,2200,2400,2260,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-06-05,2200,2300,2250,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-06-12,2200,2400,2260,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-06-16,2200,2300,2250,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-06-21,2200,2400,2250,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-07-15,1800,2200,2000,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-08-04,1860,2000,1950,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-08-08,1860,2050,2000,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-08-25,1860,2050,2000,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-09-11,2000,2200,2050,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-09-15,2000,2250,2200,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-09-26,2060,2250,2200,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-10-07,2200,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-10-19,2200,2500,2400,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-10-30,2200,2400,2260,309
+Tripura,Unokoti,Pabiacherra,Turmeric (raw),Turmeric (raw),FAQ,2021-11-27,2000,2250,2200,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Turmeric (raw),FAQ,2021-10-27,2450,2600,2530,309
+Tripura,Unokoti,Panichowki,Turmeric (raw),Turmeric (raw),FAQ,2021-11-05,2400,2580,2500,309

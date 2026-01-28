@@ -1,0 +1,13 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-02-15,2850,3065,2930,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-02-20,2750,2955,2870,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-02-21,2750,3000,2900,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-03-07,3185,3200,3190,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-03-18,3200,3210,3205,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-04-01,3500,3525,3515,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-05-27,3125,3125,3125,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-05-29,2955,3050,3000,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-07-14,3100,3100,3100,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-07-17,3000,3150,3075,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-07-18,3100,3125,3115,65
+Gujarat,Kachchh,Rapar,Raya,Other,FAQ,2017-07-20,3150,3150,3150,65

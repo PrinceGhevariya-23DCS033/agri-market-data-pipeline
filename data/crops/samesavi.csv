@@ -1,0 +1,580 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-02-13,1250,1300,1280,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-02-28,1300,1370,1340,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-05-15,1400,1450,1410,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2007-06-08,1300,1350,1325,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2007-06-12,1250,1300,1275,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2007-06-19,1239,1301,1300,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Small,2007-08-17,700,1000,900,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-09-26,1000,1050,1030,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2007-10-03,1000,1050,1040,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-10-15,1000,1017,1013,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2007-11-20,900,927,915,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-12-15,1010,1075,1040,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-12-17,1020,1100,1082,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,Medium,2007-12-19,1025,1075,1050,122
+Karnataka,Dharwad,Dharwar,Same/Savi,Same/Savi Local,FAQ,2007-02-27,1025,1025,1025,122
+Karnataka,Dharwad,Dharwar,Same/Savi,Same/Savi Local,FAQ,2007-07-16,1300,1300,1300,122
+Karnataka,Dharwad,Dharwar,Same/Savi,Same/Savi Local,FAQ,2007-07-19,1300,1305,1303,122
+Karnataka,Dharwad,Dharwar,Same/Savi,Same/Savi Local,FAQ,2007-08-27,1100,1100,1100,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2007-09-29,0,850,850,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2007-10-03,450,875,861,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2007-10-25,0,891,891,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2007-12-15,0,1001,1001,122
+Karnataka,Haveri,Ranebennur,Same/Savi,Same/Savi Local,Medium,2007-01-06,1125,1125,1125,122
+Karnataka,Haveri,Ranebennur,Same/Savi,Same/Savi Local,Medium,2007-03-16,1200,1375,1300,122
+Karnataka,Haveri,Ranebennur,Same/Savi,Same/Savi Local,Medium,2007-04-07,1280,1350,1300,122
+Karnataka,Haveri,Ranebennur,Same/Savi,Same/Savi Local,Medium,2007-06-08,1425,1425,1425,122
+Karnataka,Haveri,Ranebennur,Same/Savi,Same/Savi Local,Medium,2007-08-17,1170,1260,1200,122
+Karnataka,Haveri,Ranebennur,Same/Savi,Same/Savi Local,Medium,2007-09-01,1060,1170,1100,122
+Karnataka,Haveri,Ranebennur,Same/Savi,Same/Savi Local,Medium,2007-12-22,1125,1125,1125,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-01-18,1205,1281,1243,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-07-02,1303,1310,1306,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-07-17,1066,1292,1080,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-07-31,1136,1136,1136,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-08-14,1030,1030,1030,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-08-30,616,758,687,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-10-09,930,948,939,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-10-18,910,933,921,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-10-25,943,950,947,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-10-29,946,946,946,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2007-11-03,870,953,912,122
+Karnataka,Tumkur,Huliyar,Same/Savi,Same/Savi Local,FAQ,2007-04-21,1200,1400,1350,122
+Karnataka,Tumkur,Huliyar,Same/Savi,Same/Savi Local,FAQ,2007-12-12,1060,1090,1070,122
+Madhya Pradesh,Alirajpur,Jobat,Same/Savi,Same/Savi Local,FAQ,2007-05-09,1610,1610,1610,122
+Madhya Pradesh,Ashoknagar,Ashoknagar,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Betul,Betul,Same/Savi,Same/Savi Local,FAQ,2007-11-23,300,300,300,122
+Madhya Pradesh,Bhind,Bhind,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Dewas,Dewas,Same/Savi,Same/Savi Local,FAQ,2007-01-03,2801,3200,3200,122
+Madhya Pradesh,Dewas,Dewas,Same/Savi,Same/Savi Local,FAQ,2007-01-09,2571,3000,3000,122
+Madhya Pradesh,Dewas,Dewas,Same/Savi,Same/Savi Local,FAQ,2007-04-09,3490,3490,3490,122
+Madhya Pradesh,Dewas,Dewas,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Dewas,Dewas,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Dewas,Dewas,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-01-20,2300,2930,2930,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-02-12,3360,3400,3400,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-03-10,3152,3152,3152,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-04-04,3391,3391,3391,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-04-09,3490,3490,3490,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Dewas,Haatpipliya,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Dewas,Kannod,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Dewas,Kannod,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Dewas,Kannod,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Dewas,Kannod,Same/Savi,Same/Savi Local,FAQ,2007-08-18,2386,3299,3299,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-01-20,2300,2930,2930,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-01-25,3071,3471,3471,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-04-04,3391,3391,3391,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-04-09,3490,3490,3490,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-05-21,2960,2960,2960,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-07-11,3175,3175,3175,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Dewas,Khategaon,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-01-15,2381,2840,2840,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-02-13,3300,3300,3300,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-02-17,3422,3600,3600,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-04-11,2000,2000,2000,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-04-16,3290,3601,3601,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-06-25,3275,3275,3275,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Dewas,Loharda,Same/Savi,Same/Savi Local,FAQ,2007-08-17,3400,3400,3400,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-01-20,2300,2930,2930,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-04-03,2901,2901,2901,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-04-04,3391,3391,3391,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-06-25,3275,3275,3275,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-08-04,2942,2942,2942,122
+Madhya Pradesh,Dewas,Sonkatch,Same/Savi,Same/Savi Local,FAQ,2007-08-14,3400,3400,3400,122
+Madhya Pradesh,Guna,Binaganj,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Guna,Guna,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Guna,Kumbhraj,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Gwalior,Lashkar,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Harda,Khirakiya,Same/Savi,Same/Savi Local,FAQ,2007-11-23,300,300,300,122
+Madhya Pradesh,Harda,Timarni,Same/Savi,Same/Savi Local,FAQ,2007-11-23,300,300,300,122
+Madhya Pradesh,Jhabua,Jhabua,Same/Savi,Same/Savi Local,FAQ,2007-05-09,1610,1610,1610,122
+Madhya Pradesh,Jhabua,Petlawad,Same/Savi,Same/Savi Local,FAQ,2007-05-09,1610,1610,1610,122
+Madhya Pradesh,Jhabua,Thandla,Same/Savi,Same/Savi Local,FAQ,2007-05-09,1610,1610,1610,122
+Madhya Pradesh,Khandwa,Khandwa,Same/Savi,Same/Savi Local,FAQ,2007-05-09,1610,1610,1610,122
+Madhya Pradesh,Khargone,Bhikangaon,Same/Savi,Same/Savi Local,FAQ,2007-05-09,1610,1610,1610,122
+Madhya Pradesh,Khargone,Segaon,Same/Savi,Same/Savi Local,FAQ,2007-05-09,1610,1610,1610,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Other,FAQ,2007-03-13,900,950,900,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Other,FAQ,2007-04-03,800,900,850,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Other,FAQ,2007-04-14,500,900,700,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Other,FAQ,2007-07-12,600,700,650,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Other,FAQ,2007-07-24,700,900,800,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Other,FAQ,2007-09-04,700,900,800,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-01-10,2825,2871,2871,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-01-17,3200,3400,3400,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-02-15,3201,3436,3436,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-02-17,3422,3600,3600,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-04-03,2901,2901,2901,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-08-18,2386,3299,3299,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-08-24,1801,3300,3300,122
+Madhya Pradesh,Mandla,Bichhiya,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2007-07-25,940,948,948,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-04-12,641,951,948,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-04-17,575,975,975,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-04-22,600,625,625,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-04-28,650,650,650,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-04-29,650,650,650,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-05-08,660,963,960,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-06-06,650,930,930,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-07-04,650,950,950,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-07-28,950,950,950,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-08-05,625,650,650,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-08-11,640,650,645,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-08-21,625,625,625,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-09-08,650,710,700,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-09-18,850,897,897,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-09-19,625,630,625,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-10-07,550,600,575,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-11-13,625,651,640,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-12-11,677,677,677,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-12-23,600,634,630,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Same/Savi Local,FAQ,2007-12-24,630,660,635,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Savo Others,FAQ,2007-03-24,875,900,900,122
+Madhya Pradesh,Mandsaur,Mandsaur,Same/Savi,Same/Savi Local,FAQ,2007-02-15,3201,3436,3436,122
+Madhya Pradesh,Mandsaur,Mandsaur,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Mandsaur,Mandsaur,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Mandsaur,Mandsaur,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Mandsaur,Mandsaur,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Mandsaur,Mandsaur,Same/Savi,Same/Savi Local,FAQ,2007-08-17,3400,3400,3400,122
+Madhya Pradesh,Mandsaur,Mandsaur,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-01-04,3050,3120,3120,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-01-16,2600,3300,3300,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-01-19,2701,3231,3231,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-02-26,3545,3800,3545,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-05-21,2960,2960,2960,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Mandsaur,Piplya,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-01-03,2801,3200,3200,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-01-17,3200,3400,3400,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-01-23,3099,3099,3099,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-02-26,3545,3800,3545,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-04-03,2901,2901,2901,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-05-21,2960,2960,2960,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-07-11,3175,3175,3175,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-07-30,2771,3200,3200,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Mandsaur,Shamgarh,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-01-19,2701,3231,3231,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-01-25,3071,3471,3471,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-02-13,3300,3300,3300,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-04-04,3391,3391,3391,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-07-19,2730,3161,3161,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-08-18,2386,3299,3299,122
+Madhya Pradesh,Mandsaur,Suvasra,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-01-03,2801,3200,3200,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-01-16,2600,3300,3300,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-01-19,2701,3231,3231,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-01-25,3071,3471,3471,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-03-03,3630,3650,3650,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-03-10,3152,3152,3152,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-04-09,3490,3490,3490,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-04-16,3290,3601,3601,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-06-25,3275,3275,3275,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Shajapur,Momanbadodiya,Same/Savi,Same/Savi Local,FAQ,2007-01-15,2381,2840,2840,122
+Madhya Pradesh,Shajapur,Momanbadodiya,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Shajapur,Momanbadodiya,Same/Savi,Same/Savi Local,FAQ,2007-04-03,2901,2901,2901,122
+Madhya Pradesh,Shajapur,Momanbadodiya,Same/Savi,Same/Savi Local,FAQ,2007-04-09,3490,3490,3490,122
+Madhya Pradesh,Shajapur,Momanbadodiya,Same/Savi,Same/Savi Local,FAQ,2007-05-03,3386,3386,3386,122
+Madhya Pradesh,Shajapur,Momanbadodiya,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Shajapur,Nalkehda,Same/Savi,Same/Savi Local,FAQ,2007-01-03,2801,3200,3200,122
+Madhya Pradesh,Shajapur,Nalkehda,Same/Savi,Same/Savi Local,FAQ,2007-01-19,2701,3231,3231,122
+Madhya Pradesh,Shajapur,Nalkehda,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Shajapur,Nalkehda,Same/Savi,Same/Savi Local,FAQ,2007-05-21,2960,2960,2960,122
+Madhya Pradesh,Shajapur,Nalkehda,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Shajapur,Nalkehda,Same/Savi,Same/Savi Local,FAQ,2007-08-24,1801,3300,3300,122
+Madhya Pradesh,Shajapur,Nalkehda,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-01-16,2600,3300,3300,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-01-25,3071,3471,3471,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-02-12,3360,3400,3400,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-03-03,3630,3650,3650,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-04-16,3290,3601,3601,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-07-30,2771,3200,3200,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Shajapur,Sajapur,Same/Savi,Same/Savi Local,FAQ,2007-08-18,2386,3299,3299,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-01-10,2825,2871,2871,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-01-23,3099,3099,3099,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-02-13,3300,3300,3300,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-02-26,3545,3800,3545,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-07-30,2771,3200,3200,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-08-04,2942,2942,2942,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-08-17,3400,3400,3400,122
+Madhya Pradesh,Shajapur,Shujalpur,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-01-04,3050,3120,3120,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-01-10,2825,2871,2871,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-01-23,3099,3099,3099,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-03-03,3630,3650,3650,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-07-11,3175,3175,3175,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-07-19,2730,3161,3161,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-07-30,2771,3200,3200,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-08-24,1801,3300,3300,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Shajapur,Susner,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Sheopur,Sheopurbadod,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Shivpuri,Pohari,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Shivpuri,Shivpuri,Same/Savi,Same/Savi Local,FAQ,2007-04-09,1890,1890,1890,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-01-17,3200,3400,3400,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-02-15,3201,3436,3436,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-03-10,3152,3152,3152,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-04-03,2901,2901,2901,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-08-04,2942,2942,2942,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Ujjain,Badnagar,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-01-04,3050,3120,3120,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-01-09,2571,3000,3000,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-01-16,2600,3300,3300,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-02-13,3300,3300,3300,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-02-15,3201,3436,3436,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-08-17,3400,3400,3400,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Ujjain,Khachrod,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-01-04,3050,3120,3120,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-01-09,2571,3000,3000,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-01-25,3071,3471,3471,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-02-15,3201,3436,3436,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-04-09,3490,3490,3490,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-05-21,2960,2960,2960,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Ujjain,Mahidpur,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-01-10,2825,2871,2871,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-01-17,3200,3400,3400,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-01-25,3071,3471,3471,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-03-10,3152,3152,3152,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-07-11,3175,3175,3175,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-07-19,2730,3161,3161,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Ujjain,Tarana,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-01-10,2825,2871,2871,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-01-15,2381,2840,2840,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-01-16,2600,3300,3300,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-01-19,2701,3231,3231,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-02-12,3360,3400,3400,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-03-10,3152,3152,3152,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-04-16,3290,3601,3601,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-07-11,3175,3175,3175,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-08-17,3400,3400,3400,122
+Madhya Pradesh,Ujjain,Ujjain,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-01-09,2571,3000,3000,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-01-17,3200,3400,3400,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-02-26,3545,3800,3545,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-04-11,2000,2000,2000,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-08-14,3400,3400,3400,122
+Madhya Pradesh,Ujjain,Unhel,Same/Savi,Same/Savi Local,FAQ,2007-08-18,2386,3299,3299,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-03-16,1000,1250,1125,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-04-27,990,1310,1150,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-05-09,980,1120,1050,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-05-16,1350,1400,1375,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-06-20,1100,1200,1150,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-06-27,1200,1400,1300,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-07-17,1200,1400,1300,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-08-16,1100,1200,1150,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-08-23,1150,1250,1200,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-09-07,800,900,850,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-09-14,850,950,900,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-09-19,900,1000,950,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-09-24,1000,1150,1125,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-09-25,1000,1100,1050,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-09-26,1000,1150,1075,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-10-01,1050,1100,1075,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-10-17,1000,1150,1075,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-11-15,900,1100,1000,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-11-27,1000,1100,1050,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-11-30,1000,1100,1050,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-12-14,900,1000,950,122
+Tamil Nadu,Dharmapuri,Arur,Same/Savi,Other,FAQ,2007-12-20,900,1000,950,122
+Tamil Nadu,Dharmapuri,Dharampuri,Same/Savi,Other,FAQ,2007-08-20,1100,1200,1150,122
+Tamil Nadu,Dharmapuri,Dharampuri,Same/Savi,Other,FAQ,2007-10-23,800,820,810,122
+Tamil Nadu,Dharmapuri,Dharampuri,Same/Savi,Other,FAQ,2007-11-07,800,1000,900,122
+Tamil Nadu,Dharmapuri,Dharampuri,Same/Savi,Other,FAQ,2007-11-16,950,1050,1000,122
+Tamil Nadu,Dharmapuri,Dharampuri,Same/Savi,Other,FAQ,2007-11-30,1050,1100,1075,122
+Tamil Nadu,Dharmapuri,Dharampuri,Same/Savi,Other,FAQ,2007-12-12,1000,1150,1075,122
+Tamil Nadu,Dharmapuri,Dharampuri,Same/Savi,Other,FAQ,2007-12-14,1050,1100,1075,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-06-13,1100,1250,1175,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-06-15,1200,1250,1225,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-06-19,1200,1250,1225,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-07-05,1250,1300,1275,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-07-10,1250,1300,1275,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-07-12,1250,1300,1275,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-07-17,1250,1300,1275,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-08-06,1150,1200,1175,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-08-24,1000,1050,1025,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-09-12,950,1000,975,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-09-18,950,1000,975,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-09-28,950,1000,975,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-10-01,950,1000,975,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-10-16,800,850,825,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-10-18,800,850,825,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-10-22,800,850,825,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-10-30,850,900,875,122
+Tamil Nadu,Dharmapuri,Pennagaram,Same/Savi,Other,FAQ,2007-11-05,850,900,875,122
+Tamil Nadu,Krishnagiri,Uthangarai,Same/Savi,Other,FAQ,2007-12-13,400,600,500,122
+Madhya Pradesh,Neemuch,Manasa,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-01-04,3050,3120,3120,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-01-23,3099,3099,3099,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-02-17,3422,3600,3600,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-03-07,3700,3700,3700,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-04-11,2000,2000,2000,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-08-04,2942,2942,2942,122
+Madhya Pradesh,Neemuch,Neemuch,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Raisen,Gairatganj,Same/Savi,Same/Savi Local,FAQ,2007-11-23,300,300,300,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-01-23,3099,3099,3099,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-02-15,3201,3436,3436,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-04-16,3290,3601,3601,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-05-03,3386,3386,3386,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-05-21,2960,2960,2960,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-07-19,2730,3161,3161,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Ratlam,A lot,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Ratlam,Jaora,Same/Savi,Same/Savi Local,FAQ,2007-01-03,2801,3200,3200,122
+Madhya Pradesh,Ratlam,Jaora,Same/Savi,Same/Savi Local,FAQ,2007-01-04,3050,3120,3120,122
+Madhya Pradesh,Ratlam,Jaora,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Ratlam,Jaora,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Ratlam,Jaora,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Ratlam,Jaora,Same/Savi,Same/Savi Local,FAQ,2007-08-04,2942,2942,2942,122
+Madhya Pradesh,Ratlam,Jaora,Same/Savi,Same/Savi Local,FAQ,2007-08-24,1801,3300,3300,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-01-09,2571,3000,3000,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-01-15,2381,2840,2840,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-01-16,2600,3300,3300,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-06-25,3275,3275,3275,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-08-06,3025,3144,3144,122
+Madhya Pradesh,Ratlam,Ratlam,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-01-03,2801,3200,3200,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-01-25,3071,3471,3471,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-02-12,3360,3400,3400,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-04-04,3391,3391,3391,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-08-14,3400,3400,3400,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-08-31,2400,3101,3101,122
+Madhya Pradesh,Ratlam,Sailana,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-01-03,2801,3200,3200,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-01-19,2701,3231,3231,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-06-25,3275,3275,3275,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-07-09,2700,2900,2900,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-07-11,3175,3175,3175,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-07-30,2771,3200,3200,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-08-14,3400,3400,3400,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-08-25,3215,3215,3215,122
+Madhya Pradesh,Ratlam,Taal,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Sehore,Nasrullaganj,Same/Savi,Same/Savi Local,FAQ,2007-11-23,300,300,300,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-01-20,2300,2930,2930,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-02-12,3360,3400,3400,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-04-03,2901,2901,2901,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-05-21,2960,2960,2960,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-07-17,2500,3391,3391,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-08-18,2386,3299,3299,122
+Madhya Pradesh,Shajapur,Agar,Same/Savi,Same/Savi Local,FAQ,2007-08-23,2425,3301,3301,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-01-09,2571,3000,3000,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-01-10,2825,2871,2871,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-02-17,3422,3600,3600,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-02-22,3310,3323,3323,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-02-26,3545,3800,3545,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-03-01,3491,3562,3500,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-03-10,3152,3152,3152,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-04-03,2901,2901,2901,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-05-03,3386,3386,3386,122
+Madhya Pradesh,Shajapur,Akodia,Same/Savi,Same/Savi Local,FAQ,2007-08-24,1801,3300,3300,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-01-16,2600,3300,3300,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-02-12,3360,3400,3400,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-02-19,3541,3541,3541,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-02-27,3380,3801,3801,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-04-04,3391,3391,3391,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-04-09,3490,3490,3490,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-06-25,3275,3275,3275,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-07-19,2730,3161,3161,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-07-31,2840,2840,2840,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-08-14,3400,3400,3400,122
+Madhya Pradesh,Shajapur,Badod,Same/Savi,Same/Savi Local,FAQ,2007-08-18,2386,3299,3299,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-01-18,3040,3320,3320,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-01-19,2701,3231,3231,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-02-12,3360,3400,3400,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-02-15,3201,3436,3436,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-02-26,3545,3800,3545,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-03-10,3152,3152,3152,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-04-11,2000,2000,2000,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-04-26,2800,2800,2800,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-05-03,3386,3386,3386,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-05-05,3400,3600,3600,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-06-25,3275,3275,3275,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-06-29,2651,3200,3200,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-07-02,2900,3326,3326,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-07-11,3175,3175,3175,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-07-19,2730,3161,3161,122
+Madhya Pradesh,Shajapur,Kalapipal,Same/Savi,Same/Savi Local,FAQ,2007-10-25,3200,3200,3200,122
+Madhya Pradesh,Shajapur,Momanbadodiya,Same/Savi,Same/Savi Local,FAQ,2007-01-05,2580,3035,3035,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-01-05,2225,2400,2312.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-04-29,2100,2150,2125.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-05-09,2100,2120,2110.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-06-07,2400,2415,2407.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-07-05,2500,2530,2515.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-07-19,2700,2720,2710.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-08-03,2700,2710,2705.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-08-17,2700,2950,2825.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-09-12,2800,2820,2810.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2022-10-17,2200,2700,2450.0,122
+Chattisgarh,Surajpur,Pratappur,Same/Savi,Same/Savi Local,FAQ,2022-05-18,1000,1000,1000.0,122
+Chattisgarh,Surajpur,Pratappur,Same/Savi,Same/Savi Local,FAQ,2022-09-03,1000,1000,1000.0,122
+Chattisgarh,Surajpur,Pratappur,Same/Savi,Same/Savi Local,FAQ,2022-09-19,1000,1000,1000.0,122
+Chattisgarh,Surajpur,Pratappur,Same/Savi,Same/Savi Local,FAQ,2022-09-29,1000,1000,1000.0,122
+Karnataka,Chikmagalur,Kadur,Same/Savi,Same/Savi Local,FAQ,2022-01-11,3000,3000,3000.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-03-02,4300,4400,4350.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-04-27,4100,4500,4400.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-08-06,3800,4000,3900.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-08-26,3500,3850,3700.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-08-30,3650,3800,3700.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-09-02,3500,3750,3600.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-09-12,3400,3700,3500.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-10-01,3800,3850,3810.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-11-09,3800,4050,3950.0,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2022-11-21,3500,4111,4000.0,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2022-03-31,4070,4070,4070.0,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2022-04-22,3910,3910,3910.0,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2022-06-18,4069,4069,4069.0,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2022-02-07,4540,4540,4540.0,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2022-02-21,4716,4716,4716.0,122
+Karnataka,Haveri,Savanur,Same/Savi,Same/Savi Local,FAQ,2022-05-05,4580,4666,4609.0,122
+Karnataka,Tumkur,Huliyar,Same/Savi,Same/Savi Local,FAQ,2022-11-13,4000,4100,4050.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-01-10,4000,4100,4100.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-03-03,4350,4350,4350.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-03-10,4000,4375,4375.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-03-14,4000,4050,4050.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-03-16,4100,4150,4150.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-04-01,4300,4300,4300.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-04-11,4000,4050,4050.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-04-30,4200,4210,4200.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-05-14,4400,4425,4425.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-05-16,4000,4311,4300.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-06-07,3600,4000,4000.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-07-12,4550,4550,4550.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-07-16,4400,4450,4450.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-07-19,4410,4510,4500.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-07-28,4400,4400,4400.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-08-04,3500,4450,4400.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-08-29,4325,4375,4350.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-10-18,3700,3860,3860.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-11-01,3500,3810,3610.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-11-22,3800,3800,3800.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-12-03,3500,3500,3500.0,122
+Madhya Pradesh,Mandla,Mandla,Same/Savi,Other,FAQ,2022-12-19,3600,4025,4025.0,122
+Madhya Pradesh,Seoni,Lakhnadon,Same/Savi,Other,FAQ,2022-01-31,3300,3500,3400.0,122
+Madhya Pradesh,Seoni,Lakhnadon,Same/Savi,Other,FAQ,2022-03-09,3500,3505,3501.0,122
+Madhya Pradesh,Seoni,Lakhnadon,Same/Savi,Other,FAQ,2022-04-05,3100,3300,3250.0,122
+Madhya Pradesh,Seoni,Lakhnadon,Same/Savi,Other,FAQ,2022-05-31,4000,4000,4000.0,122
+Madhya Pradesh,Seoni,Lakhnadon,Same/Savi,Other,FAQ,2022-06-17,3105,3511,3395.0,122
+Madhya Pradesh,Sidhi,Sidhi,Same/Savi,Other,FAQ,2022-04-27,1400,1400,1400.0,122
+Maharashtra,Dharashiv(Usmanabad),Umarga,Same/Savi,Other,FAQ,2022-04-21,1200,1200,1200.0,122
+Maharashtra,Dharashiv(Usmanabad),Umarga,Same/Savi,Other,FAQ,2022-04-22,1200,1200,1200.0,122
+Chattisgarh,Kabirdham,Pandariya,Same/Savi,Other,FAQ,2021-04-13,1950,1950,1950,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-01-01,3000,3300,3200,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-01-06,3200,3400,3300,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-01-12,3100,3300,3200,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-02-18,3200,3350,3250,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-04-20,3300,3450,3350,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-06-23,3500,3700,3600,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-07-12,3800,4400,4000,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-08-07,3100,3300,3200,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-08-17,2800,3000,2900,122
+Karnataka,Chitradurga,Hosadurga,Same/Savi,Same/Savi Local,FAQ,2021-09-21,4000,4100,4050,122
+Karnataka,Dharwad,Dharwar,Same/Savi,Same/Savi Local,FAQ,2021-06-18,3600,3600,3600,122
+Karnataka,Dharwad,Dharwar,Same/Savi,Same/Savi Local,FAQ,2021-09-09,3300,3300,3300,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2021-02-09,3202,3202,3202,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2021-04-10,3333,3333,3333,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2021-09-20,5210,5210,5210,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2021-09-22,3110,3110,3110,122
+Karnataka,Dharwad,Hubli (Amaragol),Same/Savi,Same/Savi Local,FAQ,2021-09-25,1130,1130,1130,122
+Karnataka,Gadag,Gadag,Same/Savi,Same/Savi Local,FAQ,2021-01-21,2507,2507,2507,122
+Karnataka,Tumkur,Huliyar,Same/Savi,Same/Savi Local,FAQ,2021-12-30,4150,4150,4150,122

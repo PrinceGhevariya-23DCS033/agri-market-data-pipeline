@@ -1,0 +1,15 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Tumkur,Madhugiri,Firewood,Firewood,FAQ,2009-03-31,100,200,150,206
+Tripura,West District,Champaknagar,Firewood,Firewood,FAQ,2009-01-28,190,210,200,206
+Tripura,West District,Champaknagar,Firewood,Firewood,FAQ,2009-06-11,200,220,210,206
+Uttar Pradesh,Rampur,Vilaspur,Firewood,Other,FAQ,2009-01-30,0,0,200,206
+Uttar Pradesh,Rampur,Vilaspur,Firewood,Other,FAQ,2009-02-07,0,0,180,206
+Uttar Pradesh,Rampur,Vilaspur,Firewood,Other,FAQ,2009-02-10,0,0,180,206
+Uttar Pradesh,Rampur,Vilaspur,Firewood,Other,FAQ,2009-02-11,0,0,180,206
+Uttar Pradesh,Rampur,Vilaspur,Firewood,Other,FAQ,2009-02-26,0,0,190,206
+Uttar Pradesh,Rampur,Vilaspur,Firewood,Other,FAQ,2009-03-03,0,0,190,206
+Punjab,Hoshiarpur,Garhshankar(Saila Khurd),Firewood,Other,FAQ,2015-02-26,200,250,250,206
+Punjab,Hoshiarpur,Garhshankar(Saila Khurd),Firewood,Other,FAQ,2015-04-17,200,300,250,206
+Punjab,Hoshiarpur,Garhshankar(Saila Khurd),Firewood,Other,FAQ,2015-05-14,200,400,320,206
+Punjab,Hoshiarpur,Garhshankar(Saila Khurd),Firewood,Other,FAQ,2015-06-30,300,400,350,206
+Punjab,Hoshiarpur,Garhshankar(Saila Khurd),Firewood,Other,FAQ,2015-08-13,250,300,300,206

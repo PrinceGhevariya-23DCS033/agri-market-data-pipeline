@@ -1,0 +1,154 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Nagaland,Kiphire,Kipheri,Chow Chow,Chow Chow,FAQ,2018-01-12,1400,1600,1500,167
+Nagaland,Kiphire,Kipheri,Chow Chow,Chow Chow,FAQ,2018-01-19,1600,1800,1700,167
+Nagaland,Kiphire,Kipheri,Chow Chow,Chow Chow,FAQ,2018-04-06,1700,1900,1800,167
+Nagaland,Kiphire,Kipheri,Chow Chow,Chow Chow,FAQ,2018-05-18,1500,1700,1600,167
+Nagaland,Kiphire,Kipheri,Chow Chow,Chow Chow,FAQ,2018-06-15,1700,1900,1800,167
+Nagaland,Kohima,Jalukie,Chow Chow,Chow Chow,FAQ,2018-04-27,3400,3700,3500,167
+Nagaland,Kohima,Jalukie,Chow Chow,Chow Chow,FAQ,2018-05-11,1100,1300,1200,167
+Nagaland,Longleng,Longleng,Chow Chow,Chow Chow,FAQ,2018-07-20,1400,1800,1500,167
+Nagaland,Longleng,Longleng,Chow Chow,Chow Chow,FAQ,2018-09-21,1500,1900,1600,167
+Nagaland,Longleng,Longleng,Chow Chow,Chow Chow,FAQ,2018-11-25,1600,1900,1800,167
+Nagaland,Longleng,Longleng,Chow Chow,Chow Chow,FAQ,2018-11-30,1800,2100,2000,167
+Nagaland,Mokokchung,Mangkolemba,Chow Chow,Chow Chow,FAQ,2018-01-15,1200,1400,1300,167
+Nagaland,Mokokchung,Mangkolemba,Chow Chow,Chow Chow,FAQ,2018-01-29,3000,3200,3100,167
+Nagaland,Mokokchung,Mokokchung Town,Chow Chow,Other,FAQ,2018-10-20,2000,2400,2200,167
+Nagaland,Mokokchung,Mokokchung Town,Chow Chow,Other,FAQ,2018-11-10,2000,2400,2200,167
+Nagaland,Mokokchung,Mokokchung Town,Chow Chow,Other,FAQ,2018-11-17,2000,2400,2200,167
+Nagaland,Peren,Tenning,Chow Chow,Other,FAQ,2018-09-21,1800,2200,1900,167
+Nagaland,Peren,Tenning,Chow Chow,Other,FAQ,2018-11-09,1900,2300,2100,167
+Nagaland,Peren,Tenning,Chow Chow,Other,FAQ,2018-12-14,2000,2300,2200,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-01-19,2100,2300,2200,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-03-16,1700,1900,1800,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-03-23,1500,1700,1600,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-03-24,1600,1800,1600,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-04-13,1800,2000,1900,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-05-04,1800,2000,1900,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-05-11,1900,2100,2000,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-06-29,1900,2100,2000,167
+Nagaland,Phek,Pfatsero,Chow Chow,Chow Chow,FAQ,2018-08-17,1500,1700,1600,167
+Nagaland,Phek,Phek,Chow Chow,Chow Chow,FAQ,2018-06-25,1300,1500,1400,167
+Nagaland,Tsemenyu,Tsemenyu,Chow Chow,Chow Chow,FAQ,2018-08-15,3500,4000,3800,167
+Nagaland,Tsemenyu,Tsemenyu,Chow Chow,Chow Chow,FAQ,2018-10-24,2500,3000,2800,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-01-05,800,1000,900,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-04-17,550,650,600,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-05-04,550,650,600,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-05-24,500,600,550,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-05-31,500,600,550,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-07-04,600,700,650,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-07-27,1200,1300,1250,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-08-14,1400,1550,1500,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-08-16,1300,1500,1400,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-08-24,1200,1300,1250,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-09-25,1200,1300,1250,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-09-26,1100,1200,1150,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-09-28,1200,1300,1250,167
+Punjab,Fazilka,Jalalabad,Chow Chow,Other,FAQ,2018-10-16,1200,1400,1300,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-03-21,2000,2000,2000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-03-22,1000,1500,1500,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-03-23,1200,1200,1200,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-04-04,1500,1500,1500,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-04-07,1000,1200,1200,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-04-13,600,1000,1000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-04-23,1000,1000,1000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-05-11,1000,1000,1000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-05-15,1000,1000,1000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-05-24,700,800,800,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-05-28,600,600,600,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-07-07,2000,2500,2500,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-07-13,2000,2000,2000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-07-26,2000,2000,2000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-08-01,2500,2500,2500,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-08-02,4000,4000,4000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-08-28,1500,1500,1500,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-08-31,1400,1400,1400,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-09-05,1500,1500,1500,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-10-05,1500,2000,2000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2018-11-22,600,700,700,167
+Punjab,Ferozpur,Zira,Chow Chow,Chow Chow,FAQ,2018-05-01,800,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-01-10,400,600,500,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-02-03,400,600,500,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-02-21,300,600,500,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-06-19,1500,1500,1500,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-07-14,1000,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-07-30,1000,2000,1600,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-08-08,800,2000,1100,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-08-10,800,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-08-15,500,1000,800,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-08-25,800,1200,1100,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-08-30,800,1200,1100,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-09-02,1000,1800,1600,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-09-08,600,1400,1200,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-10-02,800,1400,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-10-03,400,1200,1000,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-10-12,500,1500,1200,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-10-15,800,1500,1200,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,Medium,2018-10-17,1000,1000,1000,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2018-12-10,600,1000,800,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2018-12-26,600,1000,800,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2018-01-03,500,500,500,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2018-01-24,1000,1000,1000,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2018-02-16,600,800,700,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,Small,2018-09-20,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,Small,2018-09-22,1000,1500,1200,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,Small,2018-10-10,1000,1500,1200,167
+Maharashtra,Jalgaon,Bhusaval,Chow Chow,Other,FAQ,2021-01-16,1000,1000,1000,167
+Maharashtra,Jalgaon,Bhusaval,Chow Chow,Other,FAQ,2021-03-31,1000,1000,1000,167
+Nagaland,Dimapur,Dimapur,Chow Chow,Other,FAQ,2021-01-04,2700,3200,3000,167
+Nagaland,Dimapur,Dimapur,Chow Chow,Other,FAQ,2021-01-11,2700,3300,3000,167
+Nagaland,Dimapur,Dimapur,Chow Chow,Other,FAQ,2021-01-19,2800,3200,3000,167
+Nagaland,Dimapur,Dimapur,Chow Chow,Other,FAQ,2021-01-28,2700,3200,3000,167
+Nagaland,Longleng,Longleng,Chow Chow,Chow Chow,FAQ,2021-07-23,1400,1800,1600,167
+Nagaland,Longleng,Longleng,Chow Chow,Chow Chow,FAQ,2021-08-20,1600,2000,1700,167
+Nagaland,Mokokchung,Mokokchung Town,Chow Chow,Other,FAQ,2021-12-06,1000,3000,2000,167
+Nagaland,Tsemenyu,Tsemenyu,Chow Chow,Chow Chow,FAQ,2021-11-23,2500,3500,3000,167
+Nagaland,Tsemenyu,Tsemenyu,Chow Chow,Chow Chow,FAQ,2021-11-26,2500,3500,3000,167
+Nagaland,Tuensang,Tuensang,Chow Chow,Chow Chow,FAQ,2021-10-18,1900,2200,2000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2021-06-09,1000,1000,1000,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2021-06-16,1200,1200,1200,167
+Punjab,Ferozpur,Guru Har Sahai,Chow Chow,Chow Chow,FAQ,2021-06-22,1200,1200,1200,167
+Punjab,Ferozpur,Zira,Chow Chow,Chow Chow,FAQ,2021-06-02,1800,2200,2000,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-05-13,1000,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-05-15,1000,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-05-26,500,1200,1000,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-06-17,800,1600,1400,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-06-20,800,1800,1500,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-06-22,1000,1500,1400,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-07-06,800,1300,1100,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-07-18,500,800,700,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-07-25,800,1200,1000,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-08-07,600,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-08-18,600,1500,1200,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-08-22,1000,2000,1800,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-08-23,800,2000,1500,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-08-24,800,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-08-25,800,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-09-20,800,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-02,500,1200,1000,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-05,500,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-12,600,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-13,600,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-21,600,1200,1000,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-26,600,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-30,600,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-10-31,600,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-11-06,500,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-11-14,500,1000,900,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-12-01,600,1500,1300,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-12-19,1000,2000,1800,167
+Telangana,Hyderabad,Bowenpally,Chow Chow,Chow Chow,FAQ,2021-12-23,1000,1500,1200,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-06-22,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-06-30,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-07-17,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-07-18,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-08-15,800,800,800,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-08-21,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-08-29,1000,1000,1000,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-10-10,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-10-11,1000,1000,1000,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-10-23,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-10-29,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-11-20,800,1000,900,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-11-21,800,1200,1000,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-12-16,800,1200,1000,167
+Telangana,Hyderabad,Gudimalkapur,Chow Chow,Chow Chow,FAQ,2021-12-23,800,1200,1000,167

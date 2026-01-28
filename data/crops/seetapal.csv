@@ -1,0 +1,609 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-01-01,7000,8000,7750,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-01-13,6000,8000,7200,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-01-15,6000,7500,7000,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-07-30,3000,5000,4500,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-09-10,2000,5000,4000,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-10-03,3000,7000,5500,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-10-07,3000,7000,6000,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-10-13,3500,5000,4500,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-10-17,3000,5000,4200,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-10-29,1500,2000,1850,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-11-04,1500,2000,1850,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-11-16,1500,2000,1850,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2009-11-19,2000,3000,2500,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-01-01,7000,8000,7500,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-01-10,6000,8000,7500,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-07-27,3000,5000,4500,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-09-10,2000,5000,4000,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-10-05,3000,7000,6000,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-10-07,3000,7000,6000,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-10-12,2500,6000,4700,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-10-24,3000,5000,4500,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-10-30,1500,2000,1850,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-11-04,1500,2000,1850,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-11-06,1400,2000,1800,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-11-10,1500,4000,3000,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-11-19,2000,3000,2500,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2009-12-21,3000,3500,3300,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2009-10-28,500,1000,750,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2009-11-09,500,1000,750,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2009-11-26,1200,1500,1350,201
+Gujarat,Rajkot,Gondal,Seetapal,Other,Medium,2009-10-01,2000,3000,2500,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-09-22,1500,3500,2500,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Large,2009-10-11,1200,1500,1300,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-10-16,1600,2000,1800,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-10-24,650,1200,900,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-10-31,350,800,600,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-11-03,400,850,650,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-11-13,400,1000,650,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-11-14,1650,3100,2250,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-11-20,350,700,600,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-11-29,300,600,450,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-12-02,300,600,450,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-12-03,300,600,450,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-12-08,500,900,700,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-12-20,1500,2000,1750,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-12-21,1500,2000,1750,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-12-27,500,900,700,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2009-12-28,500,900,700,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-01-15,225,300,300,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-01-28,200,450,250,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-02-06,240,250,250,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-03-09,200,200,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-04-07,200,200,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-04-13,200,200,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-04-14,200,200,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-04-20,140,225,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-04-21,150,200,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-04-23,150,210,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-08-06,250,250,250,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-08-14,300,400,400,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-08-24,300,300,300,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-08-25,500,500,500,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-09-08,200,400,400,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-09-12,200,400,400,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-09-17,300,400,325,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-09-21,300,504,350,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-09-26,300,400,400,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-09-29,300,350,350,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-10-07,300,350,350,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-10-14,200,300,250,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-10-20,200,300,250,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-11-03,300,400,350,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-12-02,300,300,300,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-12-04,250,300,250,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-12-10,200,200,200,201
+Haryana,Hissar,Hissar,Seetapal,Other,Small,2009-12-23,400,500,400,201
+Himachal Pradesh,Sirmore,Nahan,Seetapal,Other,Medium,2009-11-10,1600,1600,1600,201
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seetapal,Seethaphal,Large,2009-11-23,600,1400,1000,201
+Madhya Pradesh,Gwalior,Lashkar,Seetapal,Other,Medium,2009-10-29,1000,1500,1250,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-07-01,2500,3000,2750,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-08-03,500,2600,1550,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-08-06,600,3000,1800,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-08-09,600,1300,950,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-11-02,500,2500,1500,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-11-08,500,2500,1500,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-11-17,800,2250,1525,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2009-12-12,500,3100,1800,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-09-04,150,250,200,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-10-07,150,180,165,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-10-14,120,135,130,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-10-22,100,130,115,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-10-25,100,130,115,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-10-26,125,135,130,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-10-30,120,160,140,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-11-02,140,150,145,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-11-04,120,160,140,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-11-06,120,155,135,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-11-09,100,165,135,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2009-11-12,100,140,120,201
+Maharashtra,Chandrapur,Chandrapur,Seetapal,Other,FAQ,2009-11-18,900,1800,1500,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-09-22,2500,3000,2750,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-10-17,1500,1900,1700,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-10-21,2500,4000,3250,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-10-24,2500,4000,3250,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-10-31,1200,2000,1600,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-11-02,1400,2200,1800,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-11-07,1400,1800,1600,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-11-10,1000,1500,1250,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-11-22,1400,1800,1600,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-11-30,1000,2500,1750,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2009-12-10,1600,1800,1700,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2009-10-20,1500,4500,3000,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2009-10-21,2000,4500,3500,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2009-10-24,1200,3500,3000,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2009-11-13,1500,3200,2500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-02-28,380,1470,900,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-06-15,600,4650,2500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-06-20,100,5500,3000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-07-11,700,3220,2000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-07-16,350,2200,1400,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-07-22,350,4200,2500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-07-23,350,2240,1400,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-08-04,500,4000,2000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-08-18,1100,6250,3000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-08-25,500,10200,2500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-08-26,500,12500,3000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-09-24,1000,8500,3000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-10-04,500,3000,1500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-10-21,1000,10000,2500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-10-25,500,3200,2000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-10-31,1000,8500,2500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-11-14,1000,10250,3000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-11-16,700,6300,4000,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-11-19,1000,6000,2500,201
+Maharashtra,Kolhapur,Kolhapur,Seetapal,Other,FAQ,2009-12-30,300,3000,1400,201
+Maharashtra,Mumbai,Mumbai,Seetapal,Other,FAQ,2009-07-22,100,150,125,201
+Maharashtra,Mumbai,Mumbai,Seetapal,Other,FAQ,2009-07-23,100,150,125,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2009-07-28,100,150,125,201
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Seetapal,Other,FAQ,2009-10-24,140,160,150,201
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Seetapal,Other,FAQ,2009-10-27,180,200,190,201
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Seetapal,Other,FAQ,2009-10-28,180,200,190,201
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Seetapal,Other,FAQ,2009-11-05,340,400,370,201
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Seetapal,Other,FAQ,2009-11-09,150,200,175,201
+Maharashtra,Parbhani,Parbhani,Seetapal,Other,FAQ,2009-10-26,250,350,300,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2009-07-13,312,1562,937,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2009-08-04,250,1250,750,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2009-08-27,625,1875,1250,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-07-27,500,2250,850,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-07-29,375,2250,800,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-07-30,350,2250,900,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-08-04,500,3000,1100,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-08-13,700,2300,950,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-08-20,850,2750,1450,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-09-07,500,1700,850,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-09-14,720,2400,1000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-09-15,500,2000,800,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-10-05,200,1300,700,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-10-26,300,1580,800,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-10-31,250,1550,850,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-11-14,300,1850,500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-11-16,480,2000,700,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-11-25,250,1500,500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-12-03,400,2000,1200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-12-22,500,2550,2280,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2009-12-24,800,1400,1000,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Seethaphal,Medium,2009-09-09,500,800,700,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Seethaphal,Medium,2009-09-19,500,800,700,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Seethaphal,Medium,2009-09-26,500,600,550,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Seethaphal,Large,2009-10-18,450,500,500,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Seethaphal,Medium,2009-10-26,500,600,600,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Seethaphal,Medium,2009-11-03,450,600,600,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Seethaphal,Large,2009-11-23,450,600,600,201
+Odisha,Rayagada,Gunpur,Seetapal,Seethaphal,Medium,2009-11-11,1000,1200,1200,201
+Odisha,Rayagada,Gunpur,Seetapal,Seethaphal,Medium,2009-11-16,1000,1200,1200,201
+Punjab,Muktsar,Giddarbaha,Seetapal,Other,Small,2009-02-25,300,300,300,201
+Punjab,Muktsar,Giddarbaha,Seetapal,Other,Small,2009-03-12,300,300,300,201
+Punjab,Muktsar,Giddarbaha,Seetapal,Other,Small,2009-04-03,200,200,200,201
+Punjab,Muktsar,Giddarbaha,Seetapal,Other,Small,2009-04-06,200,200,200,201
+Punjab,Muktsar,Giddarbaha,Seetapal,Other,Small,2009-04-23,250,300,250,201
+Punjab,Patiala,Samana,Seetapal,Other,Medium,2009-07-23,1000,1500,1250,201
+Punjab,Patiala,Samana,Seetapal,Other,Medium,2009-08-05,700,900,800,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Small,2009-11-02,1500,2000,1750,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Small,2009-11-14,900,1200,1050,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Small,2009-11-16,1000,1600,1300,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Small,2009-11-20,1200,1600,1400,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Small,2009-12-28,1200,1500,1350,201
+Tamil Nadu,Vellore,Katpadi(Uzhavar Santhai),Seetapal,Other,Medium,2009-04-08,1000,1000,1000,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2015-10-11,6000,10000,8100,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2015-10-24,3000,5000,4100,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2015-10-30,1500,2500,2100,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2015-11-02,3000,5000,4100,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2015-11-17,600,1000,900,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2015-11-28,3000,5000,4100,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2015-12-07,2000,5000,3600,201
+Maharashtra,Nagpur,Nagpur,Seetapal,Other,FAQ,2015-10-25,250,350,325,201
+Maharashtra,Nagpur,Nagpur,Seetapal,Other,FAQ,2015-10-29,150,200,187,201
+Maharashtra,Nagpur,Nagpur,Seetapal,Other,FAQ,2015-10-31,140,180,170,201
+Maharashtra,Nagpur,Nagpur,Seetapal,Other,FAQ,2015-11-09,200,300,275,201
+Maharashtra,Nagpur,Nagpur,Seetapal,Other,FAQ,2015-11-11,250,350,325,201
+Maharashtra,Nagpur,Ramtek,Seetapal,Other,FAQ,2015-10-22,2000,3000,2500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-08-07,875,3125,2000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-08-11,875,3125,2000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-08-14,875,5000,3000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-09-04,625,3125,1875,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-09-05,625,2500,1562,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-09-09,625,2500,1875,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-09-19,625,2500,1562,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-10-08,625,3125,1875,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-10-16,625,2500,1875,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-10-30,625,2500,1875,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-11-06,625,2500,1565,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2015-12-11,50,150,100,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2015-11-01,3000,4500,4500,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2015-11-05,3000,4000,4000,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2015-11-09,3500,4500,4500,201
+Maharashtra,Sholapur,Barshi,Seetapal,Other,FAQ,2015-11-07,200,600,400,201
+Maharashtra,Sholapur,Barshi,Seetapal,Other,FAQ,2015-11-16,250,350,300,201
+Maharashtra,Sholapur,Barshi,Seetapal,Other,FAQ,2015-11-21,250,350,300,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-08-06,2200,2200,2200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-08-08,550,7250,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-08-29,550,6000,1750,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-01,1000,1500,1250,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-03,400,2350,1000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-08,500,6000,2200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-09,1000,7000,2250,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-12,1000,4125,1800,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-14,1000,8625,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-20,500,6750,2100,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-23,500,3000,1000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-10-28,500,9700,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-11-04,500,5150,2100,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-11-18,500,2000,1100,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-11-19,800,4500,1800,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-11-23,600,3625,1500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2015-12-04,500,1500,750,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-08-01,2100,5000,3000,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-08-27,3000,5000,3500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-09-07,3000,5000,4000,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-10-23,3000,4000,3500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-10-28,2500,3500,2700,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-11-06,2000,4000,3800,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-11-08,4000,4500,4200,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-11-16,2200,3000,2800,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-12-09,1500,3000,2200,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-12-14,2000,2500,2200,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2015-12-26,4000,5000,4500,201
+Odisha,Koraput,Koraput(Semilguda),Seetapal,Other,Large,2015-08-18,1400,1600,1500,201
+Odisha,Rayagada,Rayagada,Seetapal,Other,Medium,2015-08-21,2500,3500,3500,201
+Odisha,Rayagada,Rayagada,Seetapal,Other,Medium,2015-08-24,3000,4000,3500,201
+Odisha,Rayagada,Rayagada,Seetapal,Other,Medium,2015-08-26,2500,3500,3000,201
+Odisha,Rayagada,Rayagada,Seetapal,Other,Medium,2015-09-08,2000,3000,2500,201
+Odisha,Rayagada,Rayagada,Seetapal,Other,Medium,2015-09-18,2000,3000,2500,201
+Rajasthan,Jalore,Jalore,Seetapal,Other,Medium,2015-10-24,1500,2000,1800,201
+Rajasthan,Jalore,Jalore,Seetapal,Other,Medium,2015-10-28,2200,2500,2300,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Large,2015-11-03,3000,4000,3500,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Large,2015-11-27,2000,3000,2500,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Large,2015-12-12,2200,2500,2350,201
+Rajasthan,Kota,Kota (F&V),Seetapal,Other,Large,2015-12-19,1500,2500,2000,201
+Telangana,Hyderabad,Gaddiannaram,Seetapal,Seethaphal,Medium,2015-09-28,100,300,200,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2021-11-11,3200,4600,3900,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2021-11-15,3900,7600,5750,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2021-11-20,4000,7700,5850,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2021-11-25,4000,7000,5500,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2021-12-10,5200,7800,6500,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2021-12-23,4500,8500,6500,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2021-12-27,4200,8200,6200,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-10-06,3000,4000,3900,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-10-07,2000,4000,3500,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-10-08,3000,4000,3800,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-10-12,2000,3500,3000,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-10-16,3000,4000,3800,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-10-22,3000,4000,3800,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-10-30,2000,3000,2800,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-11-06,2000,3000,2800,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-11-07,2000,3000,2800,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2021-11-11,2000,3000,2800,201
+Maharashtra,Nagpur,Ramtek,Seetapal,Other,FAQ,2021-10-14,1000,1400,1200,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-08-11,2000,7000,4000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-08-27,2500,5000,4000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-01,2500,4000,3500,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-07,2000,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-15,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-17,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-21,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-22,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-23,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-27,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-28,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-09-30,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-10-05,1500,4000,3000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-10-09,3000,5000,4000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2021-10-16,4000,7000,5500,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-07-07,1500,3500,2500,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-07-16,1800,1800,1800,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-07-22,2000,2500,2225,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-08-19,725,2500,1450,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-08-20,700,2500,1600,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-08-24,500,2700,1600,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-09-07,500,2000,1250,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-09-08,1000,3010,2005,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-09-21,1000,2500,1750,201
+Maharashtra,Pune,Manchar,Seetapal,Other,FAQ,2021-09-24,1200,3720,2460,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-01-19,5000,15000,10000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-01-22,5000,15000,10000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-01-25,5000,16000,10500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-06-16,3500,10000,6800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-06-25,2000,10000,6000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-06-30,2000,9000,4500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-07-05,2000,6000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-07-11,1000,5000,3000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-07-12,1000,3000,2000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-07-29,1000,5000,3000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-08-04,4500,10000,7300,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-08-09,1000,4500,2800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-08-16,1000,4500,2800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-08-17,1000,4500,2800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-08-24,1000,4000,2500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-08-29,1000,4500,2800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-09-12,2000,12000,7000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-09-13,2000,12000,7000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-09-17,2000,7000,4500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-09-22,2000,8000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-09-28,2000,10000,6000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-10-15,2000,7000,4500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-10-18,2000,9000,5500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-10-21,1500,7000,4300,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-10-24,1500,8000,4800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-11-01,1000,7000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-11-05,2000,10000,6000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-11-12,1000,6000,3500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-11-18,1000,7000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-11-21,1000,6000,3500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-11-26,1000,6000,3500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-02,1200,6000,3600,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-05,1000,6000,3500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-08,1000,6000,3500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-12,2000,8000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-13,1500,6000,3800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-14,1000,7000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-17,1000,7000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-23,1500,8000,4800,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2021-12-30,1500,10000,5800,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-02-04,2,6,5,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-06-26,4500,5000,4750,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-08,2000,4500,3250,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-09,3000,5000,4000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-11,2000,4000,2500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-12,2000,5000,3500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-13,3000,5000,4000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-16,2500,4500,3500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-22,2000,4500,3250,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-25,4000,4500,4250,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-07-30,3000,6000,4500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-08-09,2000,6000,4000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-08-16,2000,5000,3000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-08-18,2000,3000,2500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-08-19,2000,3600,2800,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-08-27,2000,5000,3500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-09-01,3000,5000,4000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-09-03,2000,2000,2000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-09-04,3000,3000,3000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-09-22,3000,4500,3750,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-09-24,3000,4000,3500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-09-26,3000,4000,3500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-10-05,2000,3000,2500,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-10-07,2000,4000,3000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-10-09,2000,2000,2000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-10-14,3000,5000,4000,201
+Maharashtra,Pune,Pune(Manjri),Seetapal,Other,FAQ,2021-10-16,3500,4500,4000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-08-10,3000,4000,3500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-08-21,3000,4000,3500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-08-30,2000,4000,3000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-02,2000,4000,3000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-12,2000,3000,2500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-13,3000,3000,3000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-14,2000,3000,2500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-17,2000,3000,2500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-18,2000,2000,2000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-21,2000,4000,3000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-09-24,2000,3000,2500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-10-01,2000,4000,3000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-10-05,2000,2000,2000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-10-07,2000,4000,3000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-10-08,2000,3000,2500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-10-15,2000,2000,2000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-10-23,2000,2000,2000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-10-26,2000,3000,2500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-11-09,2000,2000,2000,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-11-20,3000,4000,3500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-11-28,4000,5000,4500,201
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,FAQ,2021-12-10,4000,4000,4000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-02-22,5000,10000,7500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-03-01,4000,7000,5500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-03-03,5000,7000,6000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-03-10,3000,6000,4500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-07-23,1500,5000,3250,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-08-21,1500,5000,3250,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-09-03,1000,7000,4000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-09-11,2000,7000,4500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-09-13,1000,5000,2500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-09-22,2000,4500,3250,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-10-05,1000,6500,3750,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-10-25,1500,6000,3750,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-10-27,1000,7000,4000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-11-24,2000,8000,5000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-12-04,3000,8000,5500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-12-11,3000,8000,5500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-12-24,2000,7000,4500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-12-27,2000,7000,4500,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2021-12-29,2000,8000,5000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-07-26,1000,1400,1200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-07-31,1000,4000,2200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-08-07,1000,7000,4100,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-08-18,1500,4500,2800,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-08-23,1000,4000,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-08-24,1000,4000,2600,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-08-26,1400,3500,2200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-08-28,1600,4000,2300,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-09-06,1000,6000,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-09-13,1000,5000,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-09-17,1000,3500,1900,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-09-18,1000,4000,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-09-29,2000,5000,3000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-10-05,1000,5000,3000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-10-18,2000,6000,3500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-10-27,2000,8000,4000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-11-03,2000,7000,4000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-11-09,2000,8500,4000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-11-20,1800,8000,4000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-11-29,2000,8000,4200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-12-02,2000,8500,4500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-12-09,2000,9000,5000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-12-15,2000,8000,4200,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-12-20,2000,12000,6000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2021-12-24,2000,13000,9000,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2021-07-08,1000,2000,1500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2021-08-04,2000,2400,2200,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2021-08-13,1900,2900,2400,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Other,Small,2021-10-11,2500,4000,4000,201
+Odisha,Koraput,Koraput(Semilguda),Seetapal,Other,Small,2021-09-07,2100,2300,2200,201
+Odisha,Koraput,Koraput(Semilguda),Seetapal,Other,Small,2021-10-16,2400,2600,2500,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2018-11-09,1500,2200,2000,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2018-11-14,1500,2200,2000,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-11-14,1000,5000,3000,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-11-29,1000,4000,2500,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-11-30,1000,3000,2000,201
+Haryana,Sonipat,Ganaur,Seetapal,Seethaphal,Medium,2018-06-12,1000,1200,1100,201
+Haryana,Sonipat,Ganaur,Seetapal,Seethaphal,Medium,2018-06-22,1000,2000,1500,201
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seetapal,Seethaphal,FAQ,2018-11-05,1500,2200,1800,201
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seetapal,Seethaphal,FAQ,2018-12-07,1000,2200,1600,201
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seetapal,Seethaphal,FAQ,2018-12-11,1500,2500,2000,201
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seetapal,Seethaphal,FAQ,2018-12-13,1000,2000,1500,201
+Madhya Pradesh,Bhopal,Bhopal(F&V),Seetapal,Other,Medium,2018-10-16,1500,2000,1800,201
+Madhya Pradesh,Bhopal,Bhopal(F&V),Seetapal,Other,Medium,2018-10-19,1500,2000,1800,201
+Madhya Pradesh,Bhopal,Bhopal(F&V),Seetapal,Other,Medium,2018-10-22,1500,2000,1800,201
+Madhya Pradesh,Seoni,Chhpara,Seetapal,Other,Small,2018-10-08,2000,2000,2000,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-04-05,2600,5100,3850,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-04-08,2400,5400,4100,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-10-07,300,5500,3250,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-10-13,500,6500,3850,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-10-16,800,5000,3150,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-10-27,200,6600,3950,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-11-01,200,12000,7985,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-11-06,500,9500,6025,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-11-13,500,10100,6250,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-11-14,1000,10000,6855,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-11-17,400,6000,3565,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-11-19,400,10000,5950,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-11-27,600,1600,1369,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-12-06,300,10000,6550,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-12-08,1500,12100,7950,201
+Maharashtra,Ahmednagar,Rahuri,Seetapal,Other,FAQ,2018-12-16,3000,11400,7595,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-10-08,3500,4500,4000,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-10-13,3500,4500,4000,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-10-15,3500,4500,4000,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-10-18,2500,3500,3000,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-10-21,2500,3500,3000,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-10-25,3500,4500,4000,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-10-31,1500,2500,2000,201
+Maharashtra,Ahmednagar,Shrirampur,Seetapal,Other,FAQ,2018-11-23,2000,3000,2550,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-10-11,3500,7000,5250,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-10-14,4000,5000,4500,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-10-18,4000,5000,4500,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-10-24,3000,4000,3500,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-10-25,3000,4000,3500,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-10-31,4000,5000,4500,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-11-01,3000,4000,3500,201
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Seetapal,Other,FAQ,2018-11-03,3000,4000,3500,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-10-04,2000,3500,2500,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-10-07,2000,4000,3000,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-10-14,3000,4000,3500,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-10-20,3000,4000,3500,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-10-23,3000,4000,3500,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-10-25,2500,3500,3000,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-11-07,3000,5000,4000,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-11-11,4000,6000,5000,201
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Seetapal,Other,FAQ,2018-11-15,3000,4000,3500,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-10-08,1500,2500,2000,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-10-20,1000,7500,4250,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-10-22,1000,7500,4250,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-10-31,500,3000,1750,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-11-05,600,4000,2300,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-11-17,2000,6500,4250,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-11-24,1500,4500,3000,201
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Seetapal,Other,FAQ,2018-12-08,5000,13000,9000,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2018-10-16,3500,6500,5000,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2018-10-22,1500,3000,2200,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2018-11-12,2500,4500,3500,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2018-11-17,2000,4500,3000,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2018-11-22,3000,5000,4000,201
+Maharashtra,Jalgaon,Jalgaon,Seetapal,Other,FAQ,2018-11-26,3000,3000,3000,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2018-07-14,2500,4500,3500,201
+Maharashtra,Mumbai,Mumbai- Fruit Market,Seetapal,Other,FAQ,2018-10-02,4000,6000,5000,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2018-10-11,3000,5000,4500,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2018-10-14,4000,6000,5500,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2018-10-24,3000,5000,4500,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2018-10-27,5000,6000,5600,201
+Maharashtra,Nagpur,Kamthi,Seetapal,Other,FAQ,2018-10-28,3000,5000,4500,201
+Maharashtra,Nagpur,Nagpur,Seetapal,Other,FAQ,2018-10-23,1200,2000,1800,201
+Maharashtra,Nagpur,Ramtek,Seetapal,Other,FAQ,2018-10-21,1800,2000,1900,201
+Maharashtra,Nagpur,Ramtek,Seetapal,Other,FAQ,2018-10-25,1800,2000,1900,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-10-01,3000,6000,4500,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-10-03,3000,6000,4500,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-10-13,2500,6000,5000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-10-25,2500,6000,5000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-10-31,2500,6000,5000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-11-01,2500,6000,4000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-11-05,2500,6000,4000,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-11-26,2000,4000,3200,201
+Maharashtra,Nashik,Nasik,Seetapal,Other,FAQ,2018-12-28,900,1400,1000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-01-18,2000,8000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-06-03,2000,8000,6000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-07-04,2000,7000,6000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-07-29,2000,7000,4500,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-08-12,1000,7000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-08-13,2000,7000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-08-23,1000,6000,3000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-08-27,1000,7000,4300,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-09-11,1000,8000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-09-14,2000,10000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-09-20,2000,10000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-09-28,1000,8000,2200,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-10-05,1000,16000,10000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-10-12,2000,10000,6000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-10-16,1000,10000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-10-19,2000,10000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-10-22,1000,8000,4000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-10-28,2000,10000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-11-13,2000,12000,7000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-11-20,2000,10000,6000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-12-02,2500,10000,5400,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-12-07,2000,8000,5000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-12-19,2000,10000,8000,201
+Maharashtra,Pune,Pune,Seetapal,Other,FAQ,2018-12-21,2000,7000,4000,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-07-02,625,1875,1250,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-07-04,625,1875,1250,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-07-14,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-07-18,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-08-06,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-08-11,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-08-13,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-08-16,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-08-23,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-08-25,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-09-01,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-09-17,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-10-03,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-10-13,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-10-16,625,2000,1850,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-10-25,750,2500,1870,201
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Seetapal,Other,FAQ,2018-12-19,3750,8750,6250,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2018-09-08,1500,2000,2000,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2018-09-26,2000,3500,3500,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2018-10-13,1500,2500,2500,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2018-10-16,2000,2500,2500,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2018-10-20,2000,2250,2250,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2018-10-22,1500,1750,1750,201
+Maharashtra,Satara,Karad,Seetapal,Other,FAQ,2018-10-25,1500,2500,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-08-06,1500,2750,2000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-08-27,1000,2000,1500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-09-03,1750,1750,1750,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-09-22,1000,3750,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-09-28,1750,13500,5000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-10-05,1000,5500,3000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-10-06,1000,6000,3000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-10-12,1500,8500,4000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-10-30,1000,6000,4000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-11-03,1000,5500,3000,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-11-05,1000,3500,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-11-14,1500,3500,2500,201
+Maharashtra,Sholapur,Solapur,Seetapal,Other,FAQ,2018-11-28,1000,5000,3000,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-02-26,8000,9000,8500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-03-03,8000,9000,8500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-04-12,7000,9000,8000,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-10-11,2500,3000,2750,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-10-15,2000,3500,2750,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-10-19,2000,3000,2500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-10-31,4000,7000,5500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-11-02,3000,6000,4500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-11-13,3000,4000,3500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-11-16,3000,4000,3500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-12-06,4000,5000,4500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-12-07,4000,5000,4500,201
+Maharashtra,Thane,Kalyan,Seetapal,Other,FAQ,2018-12-14,4000,6000,5000,201
+Odisha,Gajapati,Parlakhemundi,Seetapal,Other,Small,2018-08-19,4000,5000,5000,201
+Odisha,Koraput,Koraput,Seetapal,Other,Small,2018-10-07,2600,3000,2800,201
+Telangana,Hyderabad,Gaddiannaram,Seetapal,Seethaphal,Medium,2018-09-29,5000,11250,7500,201
+Telangana,Hyderabad,Gaddiannaram,Seetapal,Seethaphal,Medium,2018-10-10,600,1500,1000,201

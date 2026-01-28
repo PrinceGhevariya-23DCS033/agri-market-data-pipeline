@@ -1,0 +1,468 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-02-15,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-03-28,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-03-30,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-04-27,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-05-17,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-06-11,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-06-21,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-07-26,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-07-27,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-07-31,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-09-05,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-09-24,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-10-04,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-10-08,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-10-12,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-10-31,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-02,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-05,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-06,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-09,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-20,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-26,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-28,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-12-03,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-12-11,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-12-14,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-12-15,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-12-17,750,860,805.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-12-22,1000,1100,1050.0,121
+Karnataka,Bellary,H.B. Halli,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-01-10,620,620,620.0,121
+Karnataka,Bellary,H.B. Halli,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-03-21,800,800,800.0,121
+Karnataka,Bellary,H.B. Halli,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-07-07,600,600,600.0,121
+Karnataka,Bellary,H.B. Halli,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-07-11,900,900,900.0,121
+Karnataka,Bellary,H.B. Halli,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-08-23,950,950,950.0,121
+Karnataka,Bellary,Hoovinahadagali,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-02-28,700,760,730.0,121
+Karnataka,Bellary,Hoovinahadagali,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-12-07,795,801,795.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Other,Medium,2007-01-13,805,805,805.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Other,Medium,2007-02-22,791,801,795.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Other,Medium,2007-03-02,816,816,816.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Other,Medium,2007-03-17,837,837,837.0,121
+Karnataka,Chitradurga,Hosadurga,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-06-19,850,912,900.0,121
+Karnataka,Chitradurga,Hosadurga,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-07-03,900,1010,1000,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-11-29,0,851,851,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-07-13,928,928,928,121
+Karnataka,Haveri,Ranebennur,Foxtail Millet(Navane),Other,Medium,2007-05-11,850,850,850,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-08-14,800,800,800,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-01-18,629,785,750,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-02-26,786,829,816,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-03-08,526,829,816,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-03-15,818,855,823,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-03-26,819,819,819,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-04-02,810,821,811,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-04-12,830,832,831,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-04-30,854,865,862,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-05-07,701,883,883,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-05-28,698,896,876,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-06-04,908,908,908,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-06-11,625,906,885,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-07-12,679,943,941,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-07-26,901,966,964,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-12-24,978,982,981,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Other,FAQ,2007-01-14,711,711,711,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Other,FAQ,2007-01-28,701,701,701,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Other,FAQ,2007-06-10,876,876,876,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Other,FAQ,2007-07-15,925,925,925,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Other,FAQ,2007-07-22,940,940,940,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Other,FAQ,2007-09-09,920,920,920,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Other,FAQ,2007-09-23,950,950,950,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2007-01-03,650,700,675,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2007-05-08,950,950,950,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-02-22,480,600,500,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-03-15,910,940,930,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-04-09,880,950,930,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-05-07,900,950,940,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-06-11,1000,2050,1030,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-06-18,900,1060,1050,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-07-10,450,600,500,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-07-23,900,1070,950,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-08-08,1000,1150,1100,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-08-20,1000,1200,1100,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,Medium,2007-08-30,1000,1120,1110,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,FAQ,2007-10-29,850,910,900,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-27,2413,2413,2413.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-30,2269,2269,2269.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-01,2336,2336,2336.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-07,600,2331,1466.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-26,2833,2833,2833.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-01,2916,2916,2916.0,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2022-04-16,2630,2630,2630.0,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2022-06-04,2510,2510,2510.0,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2022-06-18,2610,2610,2610.0,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2022-09-08,2710,2710,2710.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-01-11,2329,2329,2329.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-01-18,2141,2141,2141.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-02-09,2102,2102,2102.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-02-21,2219,2219,2219.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-04-11,2323,2323,2323.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-04-21,2031,2031,2031.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-10-15,2319,2319,2319.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-10-22,2419,2419,2419.0,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2022-11-09,2177,2177,2177.0,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2022-09-23,2519,2626,2572.0,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2022-01-01,2600,2600,2600.0,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2022-01-19,2800,2850,2805.0,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2022-02-03,2650,2800,2724.0,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2022-09-14,2410,2450,2430.0,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2022-11-10,2580,2600,2590.0,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2022-11-25,2900,2920,2910.0,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2022-12-07,3160,3190,3170.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-24,2600,2600,2600.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-27,2700,2700,2700.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-29,2500,2500,2500.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-30,2500,2500,2500.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-03,2500,2500,2500.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-13,2550,2550,2550.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-24,2600,2600,2600.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-02,2600,2600,2600.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-05,2650,2650,2650.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-09,2850,2850,2850.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-23,2950,2950,2950.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-27,2950,2950,2950.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-29,2770,2770,2770.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-30,2770,2770,2770.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-04-24,2800,2800,2800.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-25,2425,2425,2425.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-13,2275,2275,2275.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-10-19,2400,2425,2421.0,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-23,2550,2550,2550.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-01-04,3000,3000,3000.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-01-20,3200,3600,3400.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-01-29,8000,8500,8000.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-01-31,7000,8500,8000.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-02-08,3000,3400,3200.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-02-09,3000,3400,3200.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-02-18,3200,3600,3400.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-03-07,1857,1857,1857.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-04-20,2500,3000,2800.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-05-12,3730,3730,3730.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-05-27,1800,1800,1800.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-06-03,2800,3200,3000.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-06-09,3000,3200,3100.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-06-16,8000,8000,8000.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-08-10,3200,3600,3400.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-08-11,3200,3600,3400.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-10-20,2800,3200,3000.0,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2022-11-23,2700,3200,3000.0,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-01,2600,2800,2710.0,121
+Karnataka,Tumkur,Sira,Foxtail Millet(Navane),Other,FAQ,2022-05-25,2500,3200,3000.0,121
+Karnataka,Tumkur,Sira,Foxtail Millet(Navane),Other,FAQ,2022-06-15,2600,2600,2600.0,121
+Karnataka,Tumkur,Sira,Foxtail Millet(Navane),Other,FAQ,2022-06-29,2800,2800,2800.0,121
+Karnataka,Tumkur,Sira,Foxtail Millet(Navane),Other,FAQ,2022-10-27,2500,2500,2500.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-01,3600,3800,3700.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-05,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-09,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-11,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-18,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-04-08,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-07,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-10,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-11,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-17,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-01,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-02,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-03,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-04,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-09,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-10,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-13,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-16,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-18,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-24,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-30,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-06,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-08,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-19,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-22,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-04,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-06,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-13,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-17,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-08,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-20,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-10-11,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-03,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-04,3600,3800,3700.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-07,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-09,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-17,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-19,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-23,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-08,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-12,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-15,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-17,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-19,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-21,4000,4200,4100.0,121
+Madhya Pradesh,Dindori,Shahpura,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-26,4000,4200,4100.0,121
+Madhya Pradesh,Seoni,Ghansour,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-04-20,2500,3000,3000.0,121
+Madhya Pradesh,Seoni,Ghansour,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-27,3200,3250,3250.0,121
+Madhya Pradesh,Seoni,Ghansour,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-25,3300,3350,3350.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-03-31,2309,2479,2479.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-04-25,2129,2139,2129.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-04-28,2040,2159,2149.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-05-02,1409,2167,2109.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-05-06,2110,2110,2110.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-06-15,2298,2298,2298.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-07-04,1900,1900,1900.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-09-06,1121,1801,1121.0,121
+Andhra Pradesh,Kurnool,Kurnool,Foxtail Millet(Navane),Other,FAQ,2022-12-29,2251,2251,2251.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-01-10,3000,3400,3200.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-01-11,3000,3400,3200.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-01-13,3000,3300,3150.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-02-09,3400,3800,3600.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-02-16,3400,3800,3600.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-02-21,3400,3800,3600.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-02-28,3500,3800,3650.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-03-02,3500,3800,3650.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-03-04,3500,3800,3650.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-03-09,3500,3800,3650.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-03-10,3500,3800,3650.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-03-14,3500,3800,3650.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-03-30,3000,3600,3300.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-04-04,3000,3600,3300.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-04-05,3000,3600,3300.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-04-06,3000,3600,3300.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-04-19,3000,3600,3300.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-04-22,3000,3600,3300.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-04-28,2800,3400,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-04-30,2800,3400,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-05-05,2800,3400,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-05-16,2600,3400,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-05-21,2800,3400,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-07-04,3200,3600,3400.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-07-06,3200,3600,3400.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-07-18,3000,3200,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-07-29,3000,3200,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-08-06,3000,3200,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-09-05,3000,3200,3100.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-10-15,3000,3500,3250.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-10-25,3000,3500,3250.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-11-03,3000,3500,3250.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-11-15,3000,3500,3250.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-11-24,3600,3800,3700.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-11-25,3600,3800,3700.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-11-29,3600,3800,3700.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-12-06,3600,3800,3700.0,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2022-12-13,3600,3800,3700.0,121
+Karnataka,Belgaum,Ramdurga,Foxtail Millet(Navane),Navane Hybrid,Medium,2022-04-20,3160,3160,3160.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-05,2222,3211,2598.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-11,2033,3205,2679.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-18,1769,3212,2616.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-01-24,1939,3229,2681.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-21,2071,3000,2548.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-28,2456,3006,2693.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-22,2339,3200,3109.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-28,1369,3021,2722.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-29,1786,2861,2422.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-31,2039,2629,2353.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-04-13,1619,2560,2282.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-04-19,1614,2569,2224.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-04-25,1650,3600,2144.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-04-28,1700,2450,2327.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-05,1860,2470,2239.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-07,1750,2450,2202.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-09,1369,2450,2309.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-10,1900,2475,2372.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-18,2275,2475,2330.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-05-20,2225,2450,2411.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-06,1909,2840,2547.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-09,2200,2779,2537.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-16,1999,2756,2552.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-17,2550,2828,2767.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-06-30,1801,2859,2784.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-05,2616,2952,2768.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-07,2870,2907,2887.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-21,2500,2829,2723.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-07-26,2226,2760,2700.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-04,2425,2711,2643.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-06,2369,2630,2514.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-17,2575,2777,2735.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-08-26,2606,2830,2759.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-07,2535,2730,2657.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-12,2436,2768,2658.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-17,2632,2718,2669.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-20,2450,2713,2681.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-21,2560,2560,2560.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-09-22,2410,2788,2592.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-10-18,2511,2860,2667.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-10-21,2439,2646,2544.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-10,2518,2850,2774.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-11-22,2800,3190,3001.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-06,2529,3555,3262.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-26,2041,3369,3168.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-29,2908,3388,3172.0,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-12-31,2769,3209,3075.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-02-14,2439,2439,2439.0,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2022-03-21,2531,2531,2531.0,121
+Karnataka,Bagalkot,Badami,Foxtail Millet(Navane),Navane Hybrid,Medium,2021-01-28,2700,2700,2700,121
+Karnataka,Bagalkot,Badami,Foxtail Millet(Navane),Navane Hybrid,Medium,2021-11-18,2600,2600,2600,121
+Karnataka,Bagalkot,Badami,Foxtail Millet(Navane),Navane Hybrid,Medium,2021-12-31,2500,2550,2500,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-01-06,3000,3500,3250,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-01-25,3000,3500,3250,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-01-29,3000,3500,3250,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-02-05,3000,3500,3250,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-03-06,3200,3500,3350,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-03-29,2800,3200,3000,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-05-04,3000,3200,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-05-27,3000,3200,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-05-28,3000,3200,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-06-01,3000,3200,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-06-02,3000,3200,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-06-09,3000,3200,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-06-24,3000,3200,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-07-20,2600,3000,2800,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-08-03,2600,3000,2800,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-08-16,2800,3400,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-08-21,2800,3400,3100,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-08-30,3000,3400,3200,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-09-09,3000,3400,3200,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-09-14,3000,3400,3200,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-10-13,3000,3300,3150,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-10-18,3000,3300,3150,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-10-30,3000,3300,3150,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-11-15,3000,3300,3150,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-11-23,3000,3300,3150,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-12-10,3000,3500,3250,121
+Karnataka,Bangalore,Bangalore,Foxtail Millet(Navane),Other,FAQ,2021-12-20,3000,3500,3250,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-04,2209,3419,2672,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-06,2481,3589,2750,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-16,2409,3139,2727,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-19,1769,3211,2538,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-21,1213,2989,2484,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-02,2431,3030,2663,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-03,1989,2844,2498,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-06,2411,2717,2441,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-10,1709,2921,2772,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-24,2569,3285,2795,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-04,2339,3233,2819,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-20,2475,3291,2855,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-25,2029,3350,3100,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-04-05,1609,2982,2768,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-04-07,2539,2939,2770,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-04-19,2100,2839,2569,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-04-21,2000,2703,2626,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-04-22,2050,2667,2536,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-06-15,1800,2576,2420,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-06-22,2146,2710,2562,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-07-01,1666,2911,2721,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-07-23,2171,2675,2543,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-07-30,1779,2739,2619,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-08-02,2255,2737,2646,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-08-07,2388,2700,2668,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-08-10,2404,2708,2643,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-08-11,2606,2754,2732,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-08-19,2701,2701,2701,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-08-31,2611,2669,2658,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-09-02,2619,2781,2650,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-09-09,2566,2809,2671,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-09-15,2100,2711,2608,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-09-18,2450,2688,2596,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-09-29,1966,2866,2617,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-10-16,2012,2342,2181,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-10-21,1950,2414,2273,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-10-22,2000,2429,2295,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-11-02,1802,2660,2244,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-11-08,1949,2616,2506,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-11-15,2300,2868,2424,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-11-23,2660,3106,2967,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-11-25,2750,3103,2811,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-06,1229,3188,2725,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-17,2069,3171,2653,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-21,2239,3229,2696,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-27,1671,3266,2674,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-28,2329,3239,2669,121
+Karnataka,Bellary,Bellary,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-29,1819,3069,2644,121
+Karnataka,Bellary,H.B. Halli,Foxtail Millet(Navane),Navane Hybrid,Medium,2021-10-28,2050,2050,2050,121
+Karnataka,Bellary,H.B. Halli,Foxtail Millet(Navane),Navane Hybrid,Medium,2021-12-12,3100,3100,3100,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-19,2601,2751,2708,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-02,2646,2646,2646,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-09,2466,2466,2466,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-17,2721,2721,2721,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-02,2069,2426,2259,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-05,2766,2766,2766,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-25,2646,2666,2656,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-30,2623,2623,2623,121
+Karnataka,Bellary,Kottur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-04-19,2541,2541,2541,121
+Karnataka,Chitradurga,Hosadurga,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-02,2400,2600,2500,121
+Karnataka,Chitradurga,Hosadurga,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-07,2500,2800,2600,121
+Karnataka,Chitradurga,Hosadurga,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-12,2500,2600,2550,121
+Karnataka,Chitradurga,Hosadurga,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-07-06,2400,2600,2500,121
+Karnataka,Chitradurga,Hosadurga,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-01,2600,2800,2700,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2021-02-09,2410,2410,2410,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2021-03-20,2490,2490,2490,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2021-07-26,2010,2010,2010,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2021-08-07,2509,2509,2509,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2021-10-01,1510,1510,1510,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2021-10-18,2001,2001,2001,121
+Karnataka,Dharwad,Hubli (Amaragol),Foxtail Millet(Navane),Other,FAQ,2021-10-21,2110,2110,2110,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-01-06,2121,2511,2202,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-01-08,2311,2311,2311,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-01-15,2261,2311,2286,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-01-22,1861,1861,1861,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-02-01,2115,2115,2115,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-02-04,1001,1001,1001,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-02-05,2161,2161,2161,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-02-13,1624,2361,2063,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-02-24,2227,2227,2227,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-03-15,1677,2261,1794,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-03-26,2289,2289,2289,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-04-17,2117,2117,2117,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-04-19,2056,2056,2056,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-07-14,2397,2397,2397,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-07-23,2061,2061,2061,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-08-26,1824,1824,1824,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-09-14,2129,2129,2129,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-09-17,2526,2526,2526,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-09-25,1477,2406,1798,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-10-11,1624,4869,2921,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-10-27,1377,2250,1497,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-11-30,2169,2169,2169,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-12-06,2211,2211,2211,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-12-23,1859,3212,1982,121
+Karnataka,Gadag,Gadag,Foxtail Millet(Navane),Other,FAQ,2021-12-28,2152,2152,2152,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-01-22,1860,2489,2380,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-01-23,2129,2349,2209,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-03-05,2299,2999,2441,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-03-19,2015,2069,2029,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-04-27,2215,2215,2215,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-09-09,1899,2419,2148,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-09-28,1299,2469,1884,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-10-11,1565,2490,2142,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-10-22,1169,2425,1976,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-10-28,2404,2404,2404,121
+Karnataka,Gadag,Laxmeshwar,Foxtail Millet(Navane),Other,FAQ,2021-11-12,2169,2419,2313,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-02-02,2010,2050,2030,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-02-17,2650,2650,2650,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-02-24,2350,2750,2588,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-06-23,2400,2575,2550,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-11-15,2370,2370,2370,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-11-17,2500,2500,2500,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-12-01,2400,2650,2575,121
+Karnataka,Koppal,Gangavathi,Foxtail Millet(Navane),Other,FAQ,2021-12-22,2650,2660,2650,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-15,1213,2870,2465,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-28,1212,2784,2442,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-01,1173,2712,2392,121
+Karnataka,Koppal,Koppal,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-02-22,1611,2660,2168,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-16,2650,2650,2650,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-03-04,2500,2500,2500,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-07-18,2300,2300,2300,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-09-12,2300,2300,2300,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-11-14,2340,2340,2340,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-04,2600,2600,2600,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-05,2600,2600,2600,121
+Karnataka,Koppal,Kustagi,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-12-12,2680,2680,2680,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-07-03,7500,8000,7750,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-07-12,7600,8000,7800,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-07-20,7500,8000,7600,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-08-26,2800,3200,3000,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-11-11,2700,3000,2850,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-11-27,7000,8000,7000,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-12-03,2900,3400,3200,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-12-11,2800,3100,3000,121
+Karnataka,Mysore,Mysore (Bandipalya),Foxtail Millet(Navane),Other,FAQ,2021-12-20,2600,2600,2600,121
+Karnataka,Raichur,Sindhanur,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-04-26,2000,2575,2575,121
+Karnataka,Tumkur,Huliyar,Foxtail Millet(Navane),Navane Hybrid,FAQ,2021-01-15,2500,2500,2500,121
+Karnataka,Tumkur,Sira,Foxtail Millet(Navane),Other,FAQ,2021-01-22,2100,2600,2500,121
+Karnataka,Tumkur,Sira,Foxtail Millet(Navane),Other,FAQ,2021-09-15,2800,2800,2800,121

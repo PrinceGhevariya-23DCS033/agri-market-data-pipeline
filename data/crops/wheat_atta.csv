@@ -1,0 +1,892 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-07-09,1400,1500,1450,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-07-31,1400,1500,1450,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-08-13,1400,1500,1450,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-08-24,1400,1500,1450,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-09-03,1400,1500,1450,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-10-13,1400,1500,1450,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-10-22,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-11-06,1500,1550,1525,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-11-07,1450,1550,1500,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-11-19,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2009-12-17,1500,1600,1550,287
+Assam,Barpeta,Howly,Wheat Atta,Other,FAQ,2009-11-30,1200,1400,1300,287
+Assam,Barpeta,Howly,Wheat Atta,Other,FAQ,2009-12-07,1200,1400,1300,287
+Assam,Barpeta,Howly,Wheat Atta,Other,FAQ,2009-12-09,1200,1400,1300,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2009-01-12,1300,1450,1300,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2009-02-05,1300,1350,1300,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2009-07-27,1400,1500,1450,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2009-08-25,1400,1500,1450,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2009-10-22,1450,1550,1500,287
+Assam,Dhubri,Gauripur,Wheat Atta,Other,FAQ,2009-06-04,1400,1525,1462,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-04-17,1250,1270,1250,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-04-28,1230,1270,1230,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-05-06,1240,1270,1240,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-06-15,1200,1220,1200,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-06-20,1200,1220,1200,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-06-23,1200,1220,1200,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-07-14,1220,1240,1220,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-07-18,1250,1370,1250,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-08-10,1270,1360,1270,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-08-20,1320,1340,1320,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-08-24,1340,1370,1355,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-08-25,1340,1360,1350,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-09-02,1340,1360,1350,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-09-19,1300,1320,1310,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-10-21,1410,1420,1415,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-10-28,1440,1450,1445,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-10-29,1440,1450,1445,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-11-03,1450,1470,1460,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-11-04,1500,1520,1510,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-11-12,1530,1570,1550,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-11-20,1520,1545,1540,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-11-23,1515,1530,1522,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-11-26,1520,1540,1530,287
+Assam,Dibrugarh,Dibrugarh,Wheat Atta,Other,FAQ,2009-12-04,1530,1540,1530,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-01-03,1300,1400,1350,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-01-19,1300,1400,1350,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-04-06,1225,1400,1350,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-04-29,1550,1700,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-05-13,1550,1700,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-05-14,1400,1650,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-05-18,1400,1650,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-05-21,1400,1600,1550,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-05-27,1150,1250,1200,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-06-04,850,1200,1050,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-06-05,850,1200,1050,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-06-09,950,1240,1180,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-06-18,1100,1240,1200,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-06-24,1100,1240,1200,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-07-17,1150,1300,1250,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-07-21,1220,1350,1300,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-07-24,1220,1400,1300,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-07-28,1220,1400,1300,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-08-11,1200,1500,1350,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-08-17,1220,1500,1350,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-08-20,1200,1550,1400,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-09-01,1250,1700,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-09-03,1500,1700,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-09-07,1220,1700,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-09-10,1200,1750,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-09-29,1280,1700,1600,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-10-01,1280,1750,1650,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-10-21,1340,1900,1750,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-10-22,1360,1800,1700,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-10-27,1360,1800,1700,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-11-03,1360,1800,1700,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-11-04,1360,1800,1700,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-11-11,1360,1800,1700,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-11-16,1400,1800,1750,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-11-25,1400,1800,1760,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-11-30,1400,1860,1780,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-12-03,1400,1860,1780,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-12-07,1400,1860,1780,287
+Assam,Kamrup,P.O. Uparhali Guwahati,Wheat Atta,Other,FAQ,2009-12-09,1400,1860,1780,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-01-03,1650,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-01-12,1650,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-01-20,1650,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-01-29,1650,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-02-19,1650,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-03-31,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-04-21,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-04-29,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-05-07,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-05-30,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-06-11,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-06-12,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-06-19,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-07-03,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-07-17,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-08-06,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-08-07,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-08-17,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-08-18,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-08-27,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-08-29,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-09-01,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-09-03,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-10-05,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-10-09,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-10-15,1600,1750,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2009-10-21,1600,1750,1700,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2009-11-19,1550,1600,1550,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2009-11-23,1550,1600,1550,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2009-11-26,1500,1600,1500,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2009-11-27,1500,1600,1500,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2009-12-08,1500,1600,1500,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2009-12-30,1500,1600,1550,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2009-12-29,1600,1700,1650,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-01-28,1350,1540,1490,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-05-23,1200,1600,1450,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-05-25,5050,5125,5100,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-06-02,1150,1240,1190,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-06-22,1240,1350,1320,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-07-03,1280,1380,1360,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-07-06,1280,1380,1360,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-07-09,1260,1380,1360,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-07-20,1270,1380,1370,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-07-28,1280,1390,1380,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-07-29,1290,1380,1360,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-08-12,1320,1410,1380,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-08-24,1350,1400,1360,287
+Jharkhand,Bokaro,Bermo,Wheat Atta,Other,FAQ,2009-10-19,1350,1550,1460,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-01-06,1420,1540,1460,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-03-07,1425,1480,1450,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-03-24,1380,1430,1400,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-03-26,1360,1420,1400,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-05-18,1350,1440,1400,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-05-25,1350,1420,1380,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-06-23,1360,1450,1400,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-06-28,1380,1450,1420,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-07-17,1380,1450,1400,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-07-18,1380,1475,1420,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-08-10,1400,1600,1450,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-08-27,1425,1500,1450,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-09-03,1380,1500,1450,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-09-10,1380,1550,1450,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-09-20,1380,1450,1425,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-10-11,1400,1525,1450,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-10-26,1400,1560,1450,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-11-10,1400,1750,1500,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-11-21,1450,1680,1560,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-12-09,1525,1650,1600,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-12-11,1525,1700,1600,287
+Jharkhand,Bokaro,Bokaro (Chas),Wheat Atta,Other,FAQ,2009-12-17,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-01-29,1400,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-02-23,1400,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-02-25,1390,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-03-04,1400,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-04-01,1390,1580,1525,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-04-08,1380,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-04-17,1400,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-05-06,1360,1580,1400,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-05-10,1400,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-05-18,1300,1600,1400,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-05-22,1300,1600,1400,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-05-24,1300,1600,1400,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-05,1400,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-06,1450,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-08,1450,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-14,1400,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-20,1400,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-24,1400,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-26,1380,1640,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-06-29,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-07-04,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-07-06,1500,1750,1650,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-07-07,1450,1600,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-07-14,1450,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-07-25,1400,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-07-29,1450,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-08-10,1400,1700,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-08-15,1400,1700,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-08-25,1450,1650,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-09-02,1400,1700,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-09-04,1400,1700,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-09-08,1400,1700,1500,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-09-09,1450,1750,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-09-23,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-10-07,1500,1680,1560,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-10-10,1525,1725,1630,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-10-19,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-10-23,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-10-26,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-10-28,1525,1725,1650,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-11-13,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-11-14,1600,1800,1700,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-11-18,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-11-20,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-11-21,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-12-01,1500,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-12-12,1550,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-12-15,1560,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-12-23,1560,1700,1600,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-12-26,1550,1700,1650,287
+Jharkhand,Dhanbad,Dhanbad,Wheat Atta,Other,FAQ,2009-12-30,1500,1700,1600,287
+Jharkhand,Gumla,Gumla,Wheat Atta,Other,FAQ,2009-03-20,1300,1400,1350,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-21,1200,1400,1300,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-23,1500,1700,1600,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-25,1500,1700,1600,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-05-25,1500,1700,1600,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-09-10,1500,1700,1600,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2009-03-03,1450,1500,1480,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2009-03-16,1500,1700,1600,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2009-03-19,1550,1700,1600,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-08-18,1300,1400,1350,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-08-20,1300,1400,1350,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-08-21,1380,1420,1400,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-08-26,1380,1420,1400,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-09-03,1380,1420,1400,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-09-11,1389,1420,1400,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-09-15,1380,1420,1400,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-09-24,1380,1420,1400,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-11-11,1480,1520,1500,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-11-12,1580,1620,1600,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-11-13,1580,1620,1600,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-11-18,1580,1620,1600,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-12-07,1500,1600,1550,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-12-11,1575,1625,1600,287
+West Bengal,Medinipur(W),Midnapore Sadar,Wheat Atta,Other,FAQ,2009-12-22,1690,1710,1700,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-06,1260,1300,1280,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-07,1260,1300,1280,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-13,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-19,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-20,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-24,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-27,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-28,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-01-31,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-02-23,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-03,1300,1330,1320,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-12,1280,1320,1300,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-13,1280,1320,1300,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-14,1280,1320,1300,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-19,1280,1320,1300,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-20,1280,1320,1300,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-21,1280,1320,1300,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-25,1280,1320,1300,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-03-31,1260,1300,1280,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-04-05,1260,1300,1280,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-04-18,1200,1230,1220,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-04-26,1190,1210,1200,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-05-11,1130,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-05-14,1130,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-05-19,1130,1150,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-05-27,1120,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-05-29,1120,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-01,1120,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-02,1120,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-03,1120,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-04,1120,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-05,1120,1160,1140,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-06,1120,1140,1130,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-07,1120,1140,1130,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-09,1120,1140,1130,287
+West Bengal,Puruliya,Purulia,Wheat Atta,Other,FAQ,2009-06-14,1120,1140,1130,287
+Jharkhand,Gumla,Gumla,Wheat Atta,Other,FAQ,2009-09-01,1200,1400,1300.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-01-02,1200,1400,1300.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-03-20,1200,1400,1300.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-03-24,1200,1400,1320.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-03-25,1200,1400,1300.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-04-06,1200,1400,1300.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-04-13,1200,1400,1300.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-04-24,1200,1400,1300.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-05-26,1300,1400,1350.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-06-04,1300,1400,1350.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-06-06,1350,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-06-11,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-06-30,1350,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-07-01,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-07-09,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-07-10,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-07-15,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-07-16,1350,1500,1450.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-08-06,1350,1500,1450.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-08-26,1300,1400,1350.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-09-08,1300,1400,1350.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-09-21,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-09-23,1300,1400,1350.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-10-05,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-10-09,1300,1500,1450.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-10-15,1300,1400,1350.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-11-03,1300,1450,1400.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-11-10,1350,1550,1450.0,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2009-12-10,1400,1450,1430.0,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2009-10-02,1380,1480,1400.0,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2009-10-07,1300,1400,1300.0,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2009-11-12,1380,1480,1400.0,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2009-11-21,1380,1480,1400.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2009-02-14,1400,1500,1400.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2009-11-02,1400,1500,1400.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2009-11-11,1400,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-02-16,1200,1300,1250.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-04-01,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-04-02,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-04-06,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-04-11,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-04-28,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-05-11,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-05-15,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-05-23,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-05-28,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-05-29,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-06,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-13,1300,1400,1350.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-16,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-17,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-27,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-28,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-29,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-06-30,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-07-04,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-07-06,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-07-08,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-07-25,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-08-08,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-08-10,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-08-13,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-08-14,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2009-08-19,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-09-09,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-09-11,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-09-15,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-09-16,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-09-18,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-10-02,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-10-07,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-10-20,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-10-28,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-10-31,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-11-03,1300,1500,1400.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-11-06,1400,1500,1450.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-11-11,1400,1500,1450.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-11-24,1400,1600,1500.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-11-30,1400,1600,1500.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2009-12-07,1400,1600,1500.0,287
+Kerala,Alappuzha,Harippad,Wheat Atta,Other,FAQ,2009-07-30,1600,0,1600.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-01-16,1900,2000,1950.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-03-07,2050,2100,2075.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-08-07,2000,2100,2050.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-10-23,2000,2100,2050.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-11-06,2000,2100,2050.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-11-10,2000,2100,2050.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-11-13,2000,2100,2050.0,287
+Kerala,Kollam,Kollam,Wheat Atta,Other,FAQ,2009-12-24,2000,2200,2100.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-01-02,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-01-05,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-01-11,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-02-20,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-03,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-06,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-08,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-14,1500,1700,1600.0,287
+Odisha,Sundergarh,Panposh,Wheat Atta,Other,FAQ,2009-03-18,1500,1700,1600.0,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-04-30,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-05-01,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-05-10,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-05-30,1800,1950,1900,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-05-31,1800,1950,1900,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-06-07,1800,1950,1900,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-06-12,1800,1950,1900,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-06-14,1800,1950,1900,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-06-17,1800,1950,1900,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-06-20,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-06-22,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-06-26,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-07-13,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-07-15,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-07-17,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-07-18,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-07-20,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-07-30,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-08-01,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-08-06,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-08-09,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-08-11,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-08-19,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-08-23,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-08-28,1800,1900,1850,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-09-01,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-09-05,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-09-25,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-10-01,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-10-08,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-10-10,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-10-19,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-10-21,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-10-23,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-10-29,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-11-03,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-11-04,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-11-12,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-11-20,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-11-25,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-11-30,1900,2000,1950,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-12-02,2000,2200,2100,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-12-03,2000,2200,2100,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-12-06,2000,2200,2100,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-12-10,2000,2200,2100,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-12-25,2000,2200,2100,287
+Jharkhand,Dumka,Dumka,Wheat Atta,Other,FAQ,2015-12-27,2000,2200,2100,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-01,1950,2300,2150,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-11,1650,1800,1750,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-13,1650,1800,1750,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-20,1650,1800,1750,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-22,1860,2200,2050,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-26,1800,2100,1900,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-27,1800,2100,1900,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-01-29,1800,2100,1900,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-02-05,1800,2100,1900,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-02-15,1800,2100,1900,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-02-19,1600,2000,1800,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-02-21,1860,2100,1900,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-03-10,1900,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-03-11,1800,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-03-13,1800,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-03-18,1750,2150,2050,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-04-02,1800,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-04-05,1800,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-04-08,1800,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-04-20,1760,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-04-21,1770,2200,2000,287
+Jharkhand,Garhwa,Gadhwah,Wheat Atta,Other,FAQ,2015-04-22,1750,2200,2000,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-01-03,2210,2350,2315,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-01-13,2210,2355,2340,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-01-18,2150,2295,2260,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-02-18,2155,2265,2240,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-03-08,2115,2240,2195,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-03-13,2210,2385,2350,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-03-18,2155,2320,2210,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-03-24,2150,2275,2260,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-04-08,2150,2295,2245,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-04-14,2150,2250,2210,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-05-06,2120,2250,2215,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-05-14,2100,2215,2210,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-06-20,2150,2245,2210,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-07-18,2250,2450,2350,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-11-19,2010,2100,2095,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-11-29,1950,2110,2015,287
+Jharkhand,Hazaribagh,Hazaribagh,Wheat Atta,Other,FAQ,2015-12-29,2100,2210,2200,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-01-08,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-01-24,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-02-05,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-02-13,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-02-22,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-02-27,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-03-09,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-03-14,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-03-25,1700,2100,1900,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-03-27,1800,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-04-01,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-04-02,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-04-03,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-04-05,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-05-28,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-05-31,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-06-01,1800,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-06-04,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-06-26,1800,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-07-01,1000,1400,1200,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-07-15,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-07-17,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-07-21,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-07-23,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-07-24,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-08-31,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-09-04,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-09-06,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-09-10,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-09-25,1800,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-09-29,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-10-01,1800,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-10-04,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-10-05,1800,2100,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-10-06,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-10-22,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-10-28,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-11-08,1600,2100,1900,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-11-18,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-11-19,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-04,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-07,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-08,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-10,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-12,1800,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-13,1700,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-22,1800,2200,2000,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-24,1600,2000,1800,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2015-12-31,1800,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-01-16,2200,2400,2300,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-01-21,2200,2400,2300,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-01-28,1800,2000,1900,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-01-30,2200,2400,2300,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-02-09,2200,2400,2300,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-03-21,2100,2300,2200,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-04-10,2100,2300,2200,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-04-15,2000,2300,2200,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-05-26,1900,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-06-27,2000,2300,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-07-09,1800,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-07-21,1600,2000,1900,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-07-25,1800,2100,1900,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-08-03,1700,2100,1800,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-08-22,1800,2100,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-08-25,1800,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-09-02,1800,2100,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-09-04,1800,2100,1900,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-09-22,1900,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-09-25,1900,2200,2100,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-10-14,1900,2200,2100,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-10-22,2100,2300,2200,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-11-23,1900,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-12-08,2000,2300,2200,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-12-23,1800,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-12-28,1900,2200,2000,287
+Jharkhand,Koderma,Koderma,Wheat Atta,Other,FAQ,2015-12-31,1900,2200,2100,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-01-16,2300,2600,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-01-17,2300,2600,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-02-03,2500,2800,2600,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-02-07,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-02-10,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-02-13,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-02-15,2400,2600,2550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-02-25,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-02-26,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-03-04,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-03-07,2200,2600,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-03-10,2200,2500,2360,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-03-15,2200,2600,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-03-27,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-03-28,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-04-02,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-04-03,2400,2600,2550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-04-07,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-04-14,2200,2500,2365,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-04-21,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-04-26,2250,2500,2360,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-04-30,2200,2500,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-05-02,2200,2500,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-05-11,2200,2500,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-05-17,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-05-21,2260,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-06-03,2200,2400,2360,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-06-05,2200,2400,2360,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-06-08,2200,2500,2360,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-06-09,2200,2500,2360,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-06-11,2200,2500,2300,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-06-21,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-06-27,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-07-10,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-07-11,2200,2500,2360,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-07-17,2200,2450,2380,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-07-20,2200,2400,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-07-27,2200,2400,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-07-31,2200,2500,2300,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-08-01,2200,2500,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-08-02,2000,2500,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-08-05,2200,2500,2380,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-08-15,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-08-17,2100,2400,2200,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-09-01,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-09-03,2400,2600,2550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-09-09,2400,2600,2550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-09-13,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-09-19,2200,2500,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-09-22,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-09-24,2400,2600,2550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-10-02,2200,2500,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-10-04,2200,2500,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-10-07,2200,2500,2370,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-10-15,2200,2400,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-10-18,2300,2500,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-10-31,2200,2500,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-11-09,2400,2600,2500,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-11-13,2300,2600,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-11-17,2300,2500,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-11-25,2400,2600,2550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-12-20,2200,2500,2350,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-12-22,2230,2560,2450,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-12-25,2200,2500,2400,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2015-12-28,2200,2500,2420,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Other,FAQ,2015-07-04,2360,2500,2440,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-01-03,2250,2500,2450,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-01-17,2240,2500,2450,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-01-19,2240,2500,2470,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-01-21,2210,2500,2430,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-01-28,2230,2500,2470,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-01-29,2240,2500,2480,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-01-30,2250,2500,2490,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2015-02-10,2370,2500,2420,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-06-08,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-06-09,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-06-15,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-06-16,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-06-18,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-06-22,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-07-09,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-07-10,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-07-17,2800,3000,2900.0,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Wheat Atta,FAQ,2020-07-20,2800,3000,2900.0,287
+Uttar Pradesh,Amethi,Jafarganj,Wheat Atta,Wheat Atta,FAQ,2020-03-06,2250,2350,2300.0,287
+Uttar Pradesh,Amethi,Jafarganj,Wheat Atta,Wheat Atta,FAQ,2020-03-20,2340,2400,2360.0,287
+Uttar Pradesh,Amethi,Jafarganj,Wheat Atta,Wheat Atta,FAQ,2020-09-11,1950,2050,2000.0,287
+Uttar Pradesh,Amethi,Jafarganj,Wheat Atta,Wheat Atta,FAQ,2020-10-09,2020,2060,2040.0,287
+Uttar Pradesh,Amethi,Jafarganj,Wheat Atta,Wheat Atta,FAQ,2020-11-20,2000,2100,2050.0,287
+Uttar Pradesh,Amethi,Sultanpur,Wheat Atta,Wheat Atta,FAQ,2020-01-03,2340,2400,2360.0,287
+Uttar Pradesh,Amethi,Sultanpur,Wheat Atta,Wheat Atta,FAQ,2020-01-31,2250,2400,2275.0,287
+Uttar Pradesh,Amethi,Sultanpur,Wheat Atta,Wheat Atta,FAQ,2020-02-21,2300,2400,2350.0,287
+Uttar Pradesh,Amethi,Sultanpur,Wheat Atta,Wheat Atta,FAQ,2020-04-17,2400,2500,2460.0,287
+Uttar Pradesh,Amethi,Sultanpur,Wheat Atta,Wheat Atta,FAQ,2020-08-28,2000,2400,2150.0,287
+Uttar Pradesh,Amethi,Sultanpur,Wheat Atta,Wheat Atta,FAQ,2020-12-04,2300,2400,2380.0,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-01-10,1500,1700,1600,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-01-11,1500,1700,1600,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-01-12,1500,1700,1600,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-01-19,1500,1700,1600,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-02,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-06,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-13,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-17,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-20,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-22,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-23,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-24,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-02-28,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-03-05,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-03-15,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-03-17,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-03-19,1450,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-04-07,1425,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-04-19,1400,1650,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-04-28,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-05-04,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-05-10,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-05-15,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-05-21,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-05-25,1350,1550,1550,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-06-05,1350,1550,1450,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-06-11,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-06-14,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-06-16,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-06-20,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-06-29,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-07-03,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-07-04,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-07-07,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-07-13,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-07-18,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-07-31,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-08-02,1400,1500,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-08-08,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-08-10,1400,1600,1500,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-08-16,1500,1600,1600,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-09-08,1740,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-09-17,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-09-20,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-10-03,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-10-06,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-10-15,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-10-18,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-10-19,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-10-30,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-11-09,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-11-14,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-11-16,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-11-22,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-11-26,1700,1800,1800,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-12-17,1800,1900,1900,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-12-22,1800,1900,1900,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-01-01,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-01-10,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-01-15,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-02-01,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-02-13,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-02-22,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-02-26,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-03-05,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-03-08,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-03-14,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-03-18,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-03-20,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-03-21,1400,1600,1500,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-04-03,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-04-08,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-04-15,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-04-24,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-04-27,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-04-29,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-05-04,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-05-08,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-05-11,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-05-13,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-05-14,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-05-15,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-05-27,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-04,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-07,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-15,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-20,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-24,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-25,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-27,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-06-29,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-07-01,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-07-03,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-07-16,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-07-18,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-07-23,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-07-25,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-07-26,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-08-08,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-08-14,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-08-19,1200,1400,1300,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-08-30,1300,1500,1400,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-08-31,1300,1500,1400,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-09-05,1300,1500,1400,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-09-11,1300,1500,1400,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-09-12,1300,1500,1400,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-09-13,1300,1500,1400,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-09-23,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-09-24,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-10-05,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-10-07,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-10-09,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-10-18,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-10-22,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-11-07,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-11-09,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-11-13,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-11-20,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-11-29,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-12-09,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-12-14,1600,1800,1700,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-12-19,1750,1860,1800,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-12-24,1750,1860,1800,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-12-28,1750,1860,1800,287
+Jharkhand,Saraikela(Kharsanwa),Saraikela,Wheat Atta,Wheat Atta,FAQ,2012-12-30,1750,1860,1800,287
+Karnataka,Hassan,Arasikere,Wheat Atta,Other,FAQ,2012-03-29,1350,1600,1500,287
+Karnataka,Hassan,Arasikere,Wheat Atta,Other,FAQ,2012-05-04,1350,1500,1400,287
+Karnataka,Hassan,Arasikere,Wheat Atta,Other,FAQ,2012-05-17,1350,1500,1400,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-02-03,1460,1540,1490,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-02-21,1470,1650,1530,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-03-01,1470,1670,1520,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-03-03,1460,1650,1515,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-03-05,1450,1670,1520,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-03-06,1450,1670,1520,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-03-13,1450,1685,1540,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-03-17,1440,1670,1540,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-03-19,1450,1680,1540,287
+Rajasthan,Ajmer,Vijaynagar,Wheat Atta,Other,FAQ,2012-07-06,1350,1680,1445,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-05-04,1425,1475,1450,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-06-04,1450,1500,1475,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-06-08,1450,1500,1475,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-06-26,1475,1525,1500,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-07-13,1450,1530,1490,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-07-17,1450,1500,1475,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-02,1450,1550,1500,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-03,1500,1550,1525,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-06,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-07,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-08,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-09,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-10,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-21,1500,1600,1550,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-08-24,1550,1600,1575,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-09-04,1550,1600,1575,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-09-18,1600,1700,1650,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-10-04,1700,1800,1750,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-10-09,1700,1900,1800,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-11-21,1850,1900,1875,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-11-22,1850,1900,1875,287
+Assam,Barpeta,Bohorihat,Wheat Atta,Other,FAQ,2012-11-23,1800,1900,1850,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-01-03,1260,1270,1260,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-05-22,1400,1410,1400,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-07-02,1380,1400,1400,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-07-04,1380,1400,1400,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-07-06,1400,1410,1400,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-07-11,1400,1410,1400,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-07-31,1400,1410,1400,287
+Assam,BONGAIGAON,Bongiagaon,Wheat Atta,Other,FAQ,2012-12-03,1900,2000,1900,287
+Assam,Dhubri,Gauripur,Wheat Atta,Other,FAQ,2012-05-24,1210,1520,1420,287
+Assam,Golaghat,Golaghat,Wheat Atta,Wheat Atta,FAQ,2012-07-12,1250,1500,1400,287
+Assam,Golaghat,Golaghat,Wheat Atta,Wheat Atta,FAQ,2012-08-31,1400,1888,1620,287
+Assam,Golaghat,Golaghat,Wheat Atta,Wheat Atta,FAQ,2012-09-01,1460,1888,1650,287
+Assam,Golaghat,Golaghat,Wheat Atta,Wheat Atta,FAQ,2012-09-04,1450,1880,1650,287
+Assam,Golaghat,Golaghat,Wheat Atta,Wheat Atta,FAQ,2012-09-19,1600,1800,1700,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-01-11,1730,1780,1750,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-01-21,1730,1780,1750,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-02-20,1730,1780,1750,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-03-01,1740,1780,1760,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-03-12,1740,1780,1750,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-04-09,1740,1780,1760,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-04-10,1740,1780,1760,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-04-24,1750,1850,1800,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-04-26,1750,1850,1800,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-05-23,1750,1850,1800,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-06-16,1800,1900,1850,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-08-07,1900,2000,1950,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-08-13,1900,2000,1950,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-08-14,1900,2000,1950,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-08-30,1900,2000,1950,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-09-14,1900,2100,2000,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-10-01,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-10-10,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-10-12,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-11-05,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-11-08,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-11-09,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-11-16,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-11-23,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-12-10,2000,2200,2100,287
+Assam,Karimganj,Karimganj,Wheat Atta,Other,FAQ,2012-12-13,2000,2200,2100,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-02-03,1300,1350,1300,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-02-18,1300,1335,1330,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-02-28,1300,1335,1330,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-04-27,1300,1340,1320,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-06-22,1350,1360,1350,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-06-29,1350,1360,1350,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-07-16,1310,1320,1310,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-07-20,1300,1320,1300,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-08-07,1320,1350,1330,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-08-10,1320,1350,1330,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-09-07,1300,1400,1380,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-09-12,1380,1400,1380,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-09-13,1380,1400,1380,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-09-20,1420,1450,1430,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-09-29,1520,1550,1530,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-10-11,1520,1550,1520,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-10-19,1750,1755,1750,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-11-06,1680,1690,1680,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-11-07,1680,1690,1680,287
+Assam,Nagaon,Lanka,Wheat Atta,Other,FAQ,2012-11-09,1680,1690,1680,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-02-03,1200,1400,1300,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-02-14,1200,1400,1300,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-03-05,1200,1400,1300,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-03-26,1200,1400,1300,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-03-27,1200,1400,1300,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-04-11,1200,1400,1300,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-04-16,1200,1400,1300,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-04-23,1300,1500,1400,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-04-30,1300,1500,1400,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-05-07,1300,1500,1400,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-05-09,1300,1500,1400,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-05-24,1300,1500,1400,287
+Assam,Nalbari,Nalbari,Wheat Atta,Other,FAQ,2012-06-06,1300,1500,1400,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-11-08,1500,1800,1600,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-11-13,1400,1800,1700,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-11-15,1400,1800,1700,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-11-22,1600,1800,1700,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-12-04,1200,1600,1400,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-12-08,1400,1800,1700,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-12-12,1800,2000,1900,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-12-18,1800,2000,1900,287
+Jharkhand,Hazaribagh,Ramgarh,Wheat Atta,Other,FAQ,2012-12-20,1800,2000,1900,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-01-05,1500,1700,1600,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-01-17,1500,1600,1550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-01-30,1600,1700,1650,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-02-13,1600,1700,1650,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-02-16,1600,1700,1650,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-03-16,1500,1600,1550,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-03-21,1500,1700,1600,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-03-31,1505,1705,1605,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-06-02,1510,1710,1610,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-06-15,1500,1700,1600,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-06-16,1500,1700,1600,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-06-22,1600,1700,1650,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-06-28,1700,1800,1700,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-07-02,1600,1800,1700,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-07-03,1600,1800,1700,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-07-05,1600,1800,1700,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-07-11,1600,1700,1650,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-07-12,1600,1700,1650,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-07-24,1600,1700,1650,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-08-16,1600,1800,1700,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-09-14,1700,1800,1750,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-09-15,1700,1800,1750,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-10-09,1700,1800,1750,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-10-12,1700,1800,1750,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-10-20,1700,1800,1750,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-11-23,1700,1800,1750,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-12-22,1800,2000,1900,287
+Jharkhand,Lohardaga,Lohardaga,Wheat Atta,Other,FAQ,2012-12-28,1800,2000,1900,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-01-06,1500,1700,1600,287
+Jharkhand,Palamu,Daltenganj,Wheat Atta,Wheat Atta,FAQ,2012-01-07,1500,1700,1600,287

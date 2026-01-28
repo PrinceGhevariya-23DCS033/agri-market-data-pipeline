@@ -1,0 +1,615 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Haryana,Ambala,Naraingarh,Plum,Other,Medium,2007-06-11,1000,1000,1000,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Medium,2007-05-09,1400,1400,1400,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Medium,2007-05-12,1200,1200,1200,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Small,2007-05-22,500,500,500,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Small,2007-06-07,1000,1000,1000,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Small,2007-06-15,1000,1000,1000,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Small,2007-06-19,1000,1000,1000,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Small,2007-06-23,2000,2000,2000,329
+Haryana,Fatehabad,Bhuna,Plum,Other,Small,2007-07-12,2000,2000,2000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-05-08,2200,2500,2400,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-05-10,2200,2500,2500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-05-18,1000,2500,2500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-05-28,2000,2000,2000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-06-04,2000,2000,2000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-06-06,1300,1800,1500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-06-14,1000,1800,1200,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-06-19,800,1000,900,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-06-27,2000,2000,2000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-07-06,1800,1800,1800,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-07-07,1500,1500,1500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-07-11,2500,2500,2500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-07-27,2500,2500,2500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2007-08-11,1500,1500,1500,329
+Haryana,Hissar,Narnaund,Plum,Other,Small,2007-02-16,500,600,550,329
+Haryana,Hissar,Narnaund,Plum,Other,Small,2007-03-12,400,500,450,329
+Haryana,Hissar,Narnaund,Plum,Other,Small,2007-03-23,200,300,250,329
+Haryana,Hissar,Narnaund,Plum,Other,Small,2007-03-27,500,600,550,329
+Haryana,Hissar,Narnaund,Plum,Other,Small,2007-04-09,400,500,450,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-05-10,500,1000,750,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-05-11,600,1200,900,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-05-20,500,1000,750,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-04,1500,1800,1600,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-06,800,1600,1200,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-13,1000,1500,1200,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-15,800,1500,1150,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-18,800,1000,900,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-21,1000,1500,1200,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-25,1200,1800,1500,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-06-26,1000,2000,1500,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-07-03,2100,3000,2500,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-07-04,2100,2200,2100,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-07-06,1500,2200,1800,329
+Haryana,Yamuna Nagar,Yamuna Nagar,Plum,Other,Medium,2007-07-17,2000,2000,2000,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2007-05-26,1000,1200,1100,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2007-06-06,1000,1200,1100,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2007-06-20,700,1000,850,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2007-06-26,700,1000,850,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2007-07-03,800,1000,900,329
+Himachal Pradesh,Kangra,Kangra(Jassour),Plum,Other,Medium,2007-07-10,900,1000,950,329
+Himachal Pradesh,Kangra,Kangra(Jassour),Plum,Other,Medium,2007-07-12,700,800,750,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2007-06-13,200,700,500,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2007-06-14,200,1000,800,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2007-06-15,200,1200,1000,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2007-06-19,300,1000,700,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2007-06-12,200,800,500,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2007-06-14,200,900,800,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2007-06-25,400,800,600,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2007-06-18,900,1200,1000,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2007-06-27,600,900,800,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2007-06-15,400,600,500,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2007-07-11,1100,1200,1150,329
+Himachal Pradesh,Sirmore,Paonta Sahib,Plum,Other,Medium,2007-06-07,800,1000,1000,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2007-06-08,1200,1500,1350,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2007-06-11,1200,1200,1200,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2007-06-19,700,1300,1000,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2007-06-21,1000,1400,1200,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2007-06-23,1000,1300,1100,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-05-16,1400,1600,1500,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-05-29,3000,4000,3500,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-06-12,2000,2500,2250,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-07-03,1000,1200,1100,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-07-06,1000,1200,1100,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-07-09,1000,1200,1100,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-07-11,1000,1200,1100,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,2007-07-21,900,1000,950,329
+Jammu and Kashmir,Jammu,Samba,Plum,Other,Medium,2007-08-06,800,900,850,329
+Jharkhand,Koderma,Koderma,Plum,Other,Medium,2007-03-14,1500,2000,1700,329
+Jharkhand,Koderma,Koderma,Plum,Other,Medium,2007-03-15,1600,2000,1800,329
+Maharashtra,Mumbai,Mumbai,Plum,Other,FAQ,2007-08-10,200,400,300,329
+Maharashtra,Mumbai,Mumbai,Plum,Other,FAQ,2007-08-11,250,400,325,329
+Maharashtra,Mumbai,Mumbai,Plum,Other,FAQ,2007-08-13,250,350,300,329
+Meghalaya,West Jaintia Hills,Jowai,Plum,Other,Medium,2007-08-13,2300,2500,2400,329
+Meghalaya,West Jaintia Hills,Jowai,Plum,Other,Medium,2007-08-21,1800,2000,1900,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-05-04,1500,3750,2625,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-05-18,1250,3000,2250,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-05-22,1250,3500,1800,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-05-24,2000,4500,3250,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-05-26,2000,4750,3350,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-06-02,1500,4000,2750,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-06-05,1000,4000,2500,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-06-12,1500,3125,2250,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Medium,2007-06-13,1000,2833,1950,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-06-20,833,4000,2400,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-06-25,1000,4000,2500,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Small,2007-06-26,1000,3750,2400,329
+NCT of Delhi,Delhi,Azadpur,Plum,Other,Large,2007-07-06,2875,3750,3500,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-06-13,1400,1600,1500,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-06-19,1400,1600,1500,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-06-22,1400,1600,1500,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-06-26,1300,1500,1400,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-06-28,1200,1400,1300,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-07-11,1200,1400,1300,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-07-13,1000,1200,1100,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-07-24,1200,1400,1300,329
+Punjab,Fazilka,Fazilka,Plum,Other,Medium,2007-07-28,1200,1400,1300,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Small,2007-05-16,400,600,500,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2007-06-23,700,900,800,329
+Punjab,Hoshiarpur,Mukerian,Plum,Other,Medium,2007-06-09,1000,1500,1350,329
+Punjab,Hoshiarpur,Mukerian,Plum,Other,Medium,2007-06-21,800,1000,900,329
+Punjab,Hoshiarpur,Mukerian,Plum,Other,Medium,2007-06-22,500,1000,800,329
+Punjab,Hoshiarpur,Mukerian,Plum,Other,Medium,2007-06-27,800,1400,1150,329
+Punjab,Hoshiarpur,Mukerian(Talwara),Plum,Other,Medium,2007-06-25,500,700,600,329
+Punjab,Ludhiana,Ludhiana,Plum,Other,Medium,2007-05-29,900,1400,1150,329
+Punjab,Ludhiana,Ludhiana,Plum,Other,Medium,2007-06-14,600,1300,850,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Other,Medium,2007-06-18,1200,1400,1300,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Other,Small,2007-06-19,1200,1400,1300,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Other,Medium,2007-06-26,1200,1400,1300,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Other,Medium,2007-07-07,900,900,900,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Other,Medium,2007-07-11,1200,1300,1250,329
+Punjab,Pathankot,Pathankot,Plum,Other,Small,2007-06-15,1000,1500,1200,329
+Punjab,Pathankot,Pathankot,Plum,Other,Small,2007-06-21,1000,1400,1300,329
+Punjab,Pathankot,Pathankot,Plum,Other,Small,2007-07-03,1200,1300,1200,329
+Punjab,Patiala,Nabha,Plum,Other,Medium,2007-07-17,500,900,700,329
+Rajasthan,Ajmer,Ajmer(F&V),Plum,Other,Large,2007-07-03,2000,3500,3000,329
+Rajasthan,Ajmer,Ajmer(F&V),Plum,Other,Large,2007-07-12,2000,3500,3000,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-06-08,2000,2500,2200,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-06-13,2000,2400,2200,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-06-16,2000,3000,2500,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-06-24,1800,2400,2000,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-07-03,1800,2200,2000,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-07-10,1400,1600,1500,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-07-12,1600,2000,1700,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-07-14,2000,3000,2500,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-07-26,2500,3000,2800,329
+Rajasthan,Alwar,Alwar (F&V),Plum,Other,Large,2007-08-07,2500,3000,2800,329
+Rajasthan,Bikaner,Bikaner (F&V),Plum,Other,Medium,2007-06-07,1000,1230,1100,329
+Rajasthan,Bikaner,Bikaner (F&V),Plum,Other,Medium,2007-06-19,1930,2065,2000,329
+Rajasthan,Bikaner,Bikaner (F&V),Plum,Other,Medium,2007-06-22,1935,2060,2000,329
+Rajasthan,Bikaner,Bikaner (F&V),Plum,Other,Medium,2007-06-28,1940,2055,2000,329
+Uttrakhand,Nanital,Haldwani,Plum,Other,Medium,2007-06-19,800,1700,1600,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2021-06-28,2500,2500,2500,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2021-06-30,2500,3000,2600,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2021-07-06,4000,4000,4000,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2021-07-21,3500,4500,4200,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2021-07-24,3000,3000,3000,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2021-08-19,7000,7000,7000,329
+Haryana,Kurukshetra,Pehowa,Plum,Other,Medium,2021-06-18,1500,1600,1600,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-05-18,7000,10000,7000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-06-15,4500,5000,4700,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-06-16,4000,4000,4000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-06-17,4000,4000,4000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-06-21,2500,4100,3000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-06-22,3500,4500,4000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-06-23,2500,4500,4000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-07-15,3500,5370,4000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-07-21,3500,4000,3700,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-07-31,3500,5000,3500,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-08-03,3500,3500,3500,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2021-08-04,3500,4000,3700,329
+Himachal Pradesh,Bilaspur,Bilaspur,Plum,Other,Medium,2021-06-03,3500,5500,4200,329
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,2021-06-04,8000,8500,8250,329
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,2021-06-21,5000,7000,6000,329
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,2021-06-29,6000,6500,6250,329
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,2021-07-17,4000,6000,5000,329
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Plum,Other,Medium,2021-06-23,6500,7000,6750,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-06-02,3500,4000,3750,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-06-07,5000,7000,6000,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-06-08,5000,7000,6000,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-06-15,6000,8000,7000,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-06-29,3800,4000,3900,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-07-16,5500,6000,5750,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-07-17,5500,6000,5750,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-07-19,4000,6000,5000,329
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,2021-08-03,3000,5000,4000,329
+Himachal Pradesh,Kangra,Kangra(Jassour),Plum,Other,Medium,2021-06-02,9500,10000,9750,329
+Himachal Pradesh,Kangra,Kangra(Jassour),Plum,Other,Medium,2021-06-09,2000,6000,4000,329
+Himachal Pradesh,Kangra,Kangra(Jassour),Plum,Other,Medium,2021-07-05,3000,5000,4000,329
+Himachal Pradesh,Kangra,Kangra(Jassour),Plum,Other,Medium,2021-07-30,4000,4500,4250,329
+Himachal Pradesh,Kangra,Kangra(Jassour),Plum,Other,Medium,2021-07-31,4000,4500,4250,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-06-16,6000,6500,6250,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-06-18,6000,6500,6250,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-07-02,5000,5500,5250,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-07-03,5000,5500,5250,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-07-12,4500,5000,4750,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-07-16,4500,5000,4750,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-07-22,3500,4500,4000,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-08-06,5500,6000,5750,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2021-08-12,6000,6500,6250,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2021-07-26,1800,4800,3500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2021-07-27,1500,4200,3200,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2021-07-28,1600,4300,3200,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2021-08-03,2000,6200,3500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2021-08-09,1000,4400,3200,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-05-23,3500,6000,4500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-05-31,3000,8000,5500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-06-01,2500,10000,5500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-06-03,4000,11000,7000,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-06-07,1800,7800,5500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-06-13,2000,10000,4500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-06-20,2400,9500,6000,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-06-25,1800,8600,4500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-07-06,1300,6400,3800,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-07-12,1300,6400,4500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-07-15,1500,7200,4300,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-07-16,2000,6200,4200,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-07-26,1200,3500,2800,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2021-07-29,1200,3500,2600,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-05-26,5000,10000,7500,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-05-28,4000,10000,7000,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-06-09,1500,6700,4100,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-06-10,1800,6500,4350,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Large,2021-06-16,1800,8000,4250,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-06-18,1500,7500,4500,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-06-23,1500,6000,3750,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-06-24,1500,5500,3500,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-07-05,1500,6700,4350,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-07-11,2500,5200,4100,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2021-07-12,2500,5000,3750,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2021-06-16,2500,5000,3500,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2021-06-20,3000,3500,3200,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2021-06-26,2500,4000,3800,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2021-06-29,2500,3500,3000,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2021-06-30,2800,3500,3200,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2021-07-10,2800,3000,2900,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2021-07-14,3000,3500,3200,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2021-06-13,3000,5000,4000,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2021-06-28,1000,3000,2000,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2021-07-01,1000,3000,2000,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2021-07-09,1000,4000,2500,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2021-07-19,1000,4500,3500,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2021-08-02,1000,2600,1600,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-06-22,1000,3800,2800,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-06-24,1000,4500,3000,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-06-25,1000,4400,3500,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-06-29,1000,3800,2800,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-07-08,1500,5400,3500,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-07-09,1500,5400,3400,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-07-11,2000,6100,4000,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-07-21,500,2700,1500,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-07-25,500,4100,2500,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-07-26,500,2500,1500,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-07-27,500,2500,1500,329
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,2021-08-04,500,3500,2500,329
+Himachal Pradesh,Mandi,Chail Chowk ,Plum,Plum,Medium,2021-05-16,4000,4000,4000,329
+Himachal Pradesh,Mandi,Chail Chowk ,Plum,Plum,Medium,2021-06-02,3000,3000,3000,329
+Himachal Pradesh,Mandi,Chail Chowk ,Plum,Plum,Medium,2021-06-04,2500,2500,2500,329
+Himachal Pradesh,Mandi,Chail Chowk ,Plum,Plum,Medium,2021-06-20,2500,2500,2500,329
+Himachal Pradesh,Mandi,Chail Chowk ,Plum,Plum,Medium,2021-07-09,1500,2500,2500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-05-16,7000,7800,7500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-05-17,5000,7500,6500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-05-23,3000,5000,4000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-05-27,2500,7500,5000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-05-31,3000,7000,5000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-06-06,1500,6000,4000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-06-07,1500,6000,4200,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-07-04,1000,4500,3500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-07-12,1000,4200,3500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-07-18,1000,3500,2000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-07-19,1000,3200,2500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-07-21,1000,2500,1800,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2021-08-02,1000,3500,2500,329
+Himachal Pradesh,Shimla,Shimla,Plum,Other,Medium,2021-06-30,10000,12000,11000,329
+Himachal Pradesh,Shimla,Shimla,Plum,Other,Medium,2021-07-01,10000,12000,11000,329
+Himachal Pradesh,Shimla,Shimla,Plum,Other,Medium,2021-07-08,12000,15000,13500,329
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Plum,Other,Medium,2021-06-30,2500,3000,2700,329
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Plum,Other,Medium,2021-07-13,1800,2000,1900,329
+Himachal Pradesh,Solan,Solan,Plum,Other,Medium,2021-06-16,1000,3000,2000,329
+Himachal Pradesh,Solan,Solan,Plum,Other,Medium,2021-06-19,1000,2000,1500,329
+Himachal Pradesh,Una,Santoshgarh,Plum,Other,Medium,2021-07-19,4000,4000,4000,329
+Himachal Pradesh,Una,Santoshgarh,Plum,Other,Large,2021-07-28,3500,3500,3500,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2021-06-10,5000,7000,6000,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2021-06-28,4500,6500,5200,329
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Plum,Other,Large,2021-07-17,2800,3200,3000,329
+Jammu and Kashmir,Baramulla,Nowpora,Plum,Other,Large,2021-07-09,2125,2500,2250,329
+Jammu and Kashmir,Baramulla,Nowpora,Plum,Other,Large,2021-07-10,2875,3500,3125,329
+Jammu and Kashmir,Baramulla,Nowpora,Plum,Other,Large,2021-07-12,2625,3125,2875,329
+Jammu and Kashmir,Baramulla,Nowpora,Plum,Other,Large,2021-07-20,2875,3250,3000,329
+Jammu and Kashmir,Baramulla,Nowpora,Plum,Other,Large,2021-07-26,2500,3250,3000,329
+Jammu and Kashmir,Jammu,Akhnoor,Plum,Other,Medium,2021-06-28,5000,6000,5500,329
+Jammu and Kashmir,Jammu,Akhnoor,Plum,Other,Medium,2021-06-30,5000,5500,5250,329
+Jammu and Kashmir,Jammu,Akhnoor,Plum,Other,Medium,2021-07-01,5500,6000,5750,329
+Jammu and Kashmir,Jammu,Akhnoor,Plum,Other,Medium,2021-07-03,3500,4000,3750,329
+Jammu and Kashmir,Jammu,Akhnoor,Plum,Other,Medium,2021-07-19,4000,4500,4250,329
+Jammu and Kashmir,Jammu,Akhnoor,Plum,Other,Medium,2021-07-20,5000,6000,5500,329
+Jammu and Kashmir,Jammu,Akhnoor,Plum,Other,Medium,2021-07-23,4000,4500,4250,329
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Plum,Medium,2021-08-05,4000,6000,5000,329
+Jammu and Kashmir,Srinagar,Parimpore,Plum,Other,Medium,2021-07-16,2750,3125,2938,329
+Jammu and Kashmir,Udhampur,Reasi,Plum,Other,Medium,2021-07-03,4500,5500,5000,329
+Jammu and Kashmir,Udhampur,Reasi,Plum,Other,Medium,2021-07-13,4000,5500,4500,329
+Jammu and Kashmir,Udhampur,Reasi,Plum,Other,Medium,2021-07-15,4000,5000,4500,329
+Jammu and Kashmir,Udhampur,Reasi,Plum,Other,Medium,2021-07-24,5000,7000,6000,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-05-24,8000,10000,9000,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-05-28,8000,10000,9000,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-06-04,8000,10000,9000,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-06-28,6000,7000,6500,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-06-30,6000,7000,6500,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-07-01,6000,7000,6500,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-07-09,5000,6000,5500,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-07-21,5200,6400,5800,329
+Maharashtra,Mumbai,Mumbai- Fruit Market,Plum,Other,FAQ,2021-07-31,5500,6500,6000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-01-03,4000,7000,5500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-01-04,4000,6000,5000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-01-21,5000,9000,7000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-01-24,4000,8000,6000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-05-11,6000,10000,8000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-05-13,7000,9000,8000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-05-17,5000,8000,6500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-05-18,7000,8000,7500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-05-24,7000,8000,7500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-06-04,10000,25000,17500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-06-22,5000,8000,6500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-06-28,6000,10000,7500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-07-14,3000,7500,5300,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-07-18,3000,8000,5500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-07-23,3000,8000,5500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-07-25,3000,8000,5500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-07-29,3000,8000,5500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-08-11,3000,6000,4500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-08-16,3000,6000,4500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-08-25,3000,7000,5000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-08-26,3000,6000,4500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-09-01,4000,7000,5500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-09-23,4000,7000,5500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-09-26,4000,9000,6000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-09-28,4000,6000,5000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-10-10,4000,8000,6000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-11-19,5000,7000,6000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-12-06,4000,5000,4500,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2021-12-10,4000,8000,6000,329
+Maharashtra,Pune,Pune(Pimpri),Plum,Other,FAQ,2021-02-02,7,8,8,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2021-06-28,7000,8000,7500,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2021-06-30,8000,10000,9000,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-05-11,1500,3000,2500,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-05-14,2000,4000,3000,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-05-27,2000,4000,3000,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-06-09,2000,4500,3400,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-06-12,2000,4500,3500,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-06-19,2000,5000,3300,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-06-25,2000,5000,3500,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-06-26,2000,5000,3500,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-08-02,1500,5000,2500,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-08-09,1500,4500,2500,329
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,2021-08-10,1500,4500,2500,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-14,3700,5000,4350,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-15,2500,2500,2500,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-17,5000,6000,5500,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-18,4000,5900,4950,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-22,3100,6300,4700,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-23,3000,4000,3500,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-24,3000,4000,3500,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-06-25,4000,6200,5100,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-12,4400,8200,6300,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-13,4700,4700,4700,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-15,3000,4300,3650,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-16,2500,4000,3250,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-17,3000,4000,3500,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-19,2000,5900,3950,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-23,2000,2500,2250,329
+Punjab,Barnala,Barnala,Plum,Other,Large,2021-07-24,2000,3000,2500,329
+Punjab,Bhatinda,Maur,Plum,Plum,Medium,2021-06-07,7600,8000,7800,329
+Punjab,Bhatinda,Maur,Plum,Plum,Medium,2021-06-16,9400,9800,9600,329
+Punjab,Bhatinda,Maur,Plum,Plum,Medium,2021-07-17,4500,5000,4800,329
+Punjab,Fatehgarh,Bassi Pathana,Plum,Plum,Medium,2021-07-30,2000,4000,3000,329
+Punjab,Fazilka,Abohar,Plum,Plum,Medium,2021-04-28,2509,3705,3250,329
+Punjab,Fazilka,Abohar,Plum,Plum,Medium,2021-05-11,850,3150,2850,329
+Punjab,Fazilka,Abohar,Plum,Plum,Medium,2021-08-03,2600,4280,2800,329
+Punjab,Fazilka,Abohar,Plum,Plum,Medium,2021-08-05,3956,3956,3956,329
+Punjab,Fazilka,Abohar,Plum,Plum,Medium,2021-08-06,4271,6666,6666,329
+Punjab,Fazilka,Abohar,Plum,Plum,Medium,2021-08-21,5210,6195,5210,329
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,2021-06-16,5500,5500,5500,329
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,2021-07-07,3500,3500,3500,329
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,2021-07-10,5000,5000,5000,329
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,2021-07-22,3500,3500,3500,329
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,2021-07-24,7000,7000,7000,329
+Punjab,Ferozpur,Ferozepur Cantt.,Plum,Other,Medium,2021-08-22,3800,4000,3900,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-05-05,3000,4000,3500,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-05-06,2000,2500,2250,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-06-02,7000,8500,7750,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-06-03,7000,8500,7750,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-06-07,4000,7000,5500,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-06-08,7000,9000,8000,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-06-19,4000,5500,4750,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-07-06,2000,3000,2500,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-07-07,3000,4000,3500,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-07-08,3500,4000,3750,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-07-23,3000,4500,3750,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-07-28,2000,3000,2500,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-08-04,4000,5000,4500,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-08-16,2500,3500,3000,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-08-17,2500,4000,3250,329
+Punjab,Ferozpur,Firozepur City,Plum,Other,Medium,2021-08-18,1800,3200,2500,329
+Punjab,Gurdaspur,Gurdaspur,Plum,Other,Medium,2021-08-23,2900,3100,3000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-06-14,3000,3000,3000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-06-15,4000,4000,4000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-06-16,2500,2500,2500,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-06-24,2500,3000,2750,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-07-02,2000,2500,2250,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-07-05,2000,2500,2250,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-07-08,5000,5000,5000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-07-12,5000,5000,5000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-07-13,4000,5000,4500,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-07-13,2500,2500,2500,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-07-22,2000,3000,2500,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-07-23,3000,3500,3250,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-07-24,5000,5000,5000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-07-24,2000,2500,2250,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-07-27,3000,3000,3000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,2021-07-28,4000,5000,4500,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-07-29,2000,2500,2250,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-07-31,3000,3000,3000,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2021-08-03,2000,2500,2250,329
+Punjab,Hoshiarpur,Garh Shankar,Plum,Other,Medium,2021-05-22,3000,3500,3200,329
+Punjab,Hoshiarpur,Garh Shankar,Plum,Other,Medium,2021-06-24,4000,4500,4500,329
+Punjab,Hoshiarpur,Garh Shankar,Plum,Other,Medium,2021-07-07,4000,4500,4500,329
+Punjab,Hoshiarpur,Garh Shankar,Plum,Other,Medium,2021-07-28,3500,4000,3800,329
+Punjab,Hoshiarpur,Tanda Urmur,Plum,Other,Medium,2021-07-23,4200,4500,4300,329
+Punjab,Hoshiarpur,Tanda Urmur,Plum,Other,Medium,2021-07-29,4000,4400,4300,329
+Punjab,Hoshiarpur,Tanda Urmur,Plum,Other,Medium,2021-07-30,4000,4500,4300,329
+Punjab,Hoshiarpur,Tanda Urmur,Plum,Other,Medium,2021-08-04,4000,4500,4200,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-03-15,3000,5000,4000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-05-10,2500,4000,3500,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-05-13,1500,4000,2800,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-05-15,1500,4000,2800,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-05-25,2000,4000,3000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-05-28,2500,5000,3500,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-06-08,2000,4000,2500,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-06-10,2000,4500,3200,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-06-11,2000,4000,3000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-06-22,1500,5000,3000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-06-30,1500,3700,2600,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-07-02,1500,3500,2600,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-07-06,1500,4000,3000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-07-14,2000,5000,3200,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-07-20,1500,5000,3000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-07-23,1000,3500,2000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-07-28,2000,4000,2500,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-08-02,1500,3500,2200,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-08-05,1800,3800,2400,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-09-20,3000,5000,4000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-09-22,3000,5000,3500,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-10-01,2000,4500,3000,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-10-07,2000,4000,2800,329
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,2021-10-16,2600,5400,3500,329
+Punjab,Ludhiana,Ludhiana,Plum,Other,Medium,2021-05-17,3000,6000,4000,329
+Haryana,Faridabad,Faridabad,Plum,Other,Large,2020-06-29,4000,7000,5500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2020-05-27,2000,3000,2500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2020-06-20,2500,4500,3500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2020-06-24,2500,4500,3500,329
+Punjab,Muktsar,Muktsar,Plum,Other,Large,2020-07-18,3000,8000,5500,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Other,Medium,2020-07-14,5000,6000,5600,329
+Punjab,Patiala,Rajpura,Plum,Other,Medium,2020-07-26,4000,5000,4500,329
+Punjab,Sangrur,Malerkotla,Plum,Other,Large,2020-07-22,5000,8000,6500,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2020-07-01,7100,8000,8000,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2020-07-16,4400,4500,4500,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2020-07-20,3000,3000,3000,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2020-07-24,5500,5500,5500,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2020-07-25,4000,6000,6000,329
+Haryana,Ambala,Ambala City,Plum,Other,Medium,2018-12-05,2425,3000,2700,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2018-07-20,5000,5000,5000,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2018-07-25,4000,4000,4000,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2018-07-27,4000,4000,4000,329
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,2018-08-06,4000,4000,4000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-06-10,5000,5500,5000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-06-11,5500,6500,5500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-06-16,4000,4500,4000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-06-22,4500,5000,4500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-06-25,4500,5000,4500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-06-27,5000,5000,5000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-06-28,4000,4500,4000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-07-04,4500,5000,4500,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-07-14,5000,5000,5000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-07-20,5000,5500,5000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-07-22,7000,7000,7000,329
+Haryana,Fatehabad,Fatehabad,Plum,Other,Medium,2018-08-06,8000,8000,8000,329
+Haryana,Hissar,Barwala(Hisar),Plum,Other,Medium,2018-06-12,4000,4000,4000,329
+Haryana,Hissar,Barwala(Hisar),Plum,Other,Medium,2018-06-19,4000,4000,4000,329
+Haryana,Hissar,Uklana,Plum,Other,Medium,2018-05-15,9000,9000,9000,329
+Haryana,Hissar,Uklana,Plum,Other,Medium,2018-06-16,4500,5000,5000,329
+Haryana,Hissar,Uklana,Plum,Other,Medium,2018-06-25,4000,4000,4000,329
+Haryana,Hissar,Uklana,Plum,Other,Medium,2018-06-26,6000,6000,6000,329
+Haryana,Hissar,Uklana,Plum,Other,Medium,2018-07-01,7000,10000,9000,329
+Haryana,Karnal,Nissing,Plum,Other,Large,2018-05-10,3000,3000,3000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-04-30,1500,4000,2000,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-06-15,4500,4500,4500,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-06-23,8150,8150,8150,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-06-27,5000,6000,5500,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-06-29,5060,5060,5060,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-07-07,3100,9000,3500,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-07-24,5000,8000,6500,329
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,2018-08-02,6000,8000,7500,329
+Haryana,Yamuna Nagar,Chhachrauli,Plum,Plum,Medium,2018-03-03,1200,1200,1200,329
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,2018-06-21,6500,7000,6750,329
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,2018-07-16,5000,5500,5250,329
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,2018-07-20,5500,6000,5750,329
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,2018-07-13,3500,4000,4000,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2018-06-24,5200,7800,6500,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2018-06-27,4300,8500,6400,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2018-07-04,3000,6500,4750,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2018-07-10,2800,6500,4650,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2018-07-17,3200,6500,4850,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2018-07-24,5500,9300,7400,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Other,Medium,2018-08-02,2200,11600,6900,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-06-12,2200,3600,2900,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-06-14,2900,7200,5050,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-06-17,3000,6400,4700,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-06-18,3200,7300,5250,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-06-22,3000,7900,5450,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-06-26,2700,6500,4600,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-07-03,3000,7200,5100,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-07-04,3000,7200,5100,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-07-08,2700,7100,4900,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-07-17,2900,6000,4450,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-07-18,2300,7100,4700,329
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,2018-07-24,5800,9800,7800,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2018-05-28,7000,7500,7200,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2018-06-05,6500,8000,7200,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2018-06-07,6000,8000,7000,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2018-06-26,3000,8500,6000,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2018-07-23,1000,9000,5000,329
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,2018-07-31,7000,8000,7500,329
+Himachal Pradesh,Kullu,Kullu,Plum,Other,Medium,2018-07-07,3000,4000,3500,329
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Plum,Other,Medium,2018-06-10,3000,5000,4000,329
+Himachal Pradesh,Mandi,Mandi(Mandi),Plum,Plum,Medium,2018-06-08,3000,3000,3000,329
+Himachal Pradesh,Mandi,Mandi(Mandi),Plum,Plum,Medium,2018-06-11,3000,4000,3500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-05-22,4500,5100,4800,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-05-28,3000,7000,5000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-05-30,5000,7000,6000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-06-03,3000,7000,4500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-06-04,2000,6000,4000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-06-05,1500,6000,3000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-06-15,2000,5500,3500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-06-19,3000,5200,4000,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-06-25,2000,5000,3500,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-07-08,1500,4000,2700,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-07-10,2000,4000,3200,329
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,2018-07-11,2000,4500,3500,329
+Himachal Pradesh,Solan,Solan(Rajgarh),Plum,Other,Medium,2018-05-30,2500,3000,2500,329
+Himachal Pradesh,Una,Una,Plum,Other,Small,2018-06-19,4000,4500,4300,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2018-06-22,4000,6000,5000,329
+Himachal Pradesh,Una,Una,Plum,Other,Medium,2018-07-12,6800,7200,7000,329
+Jammu and Kashmir,Kathua,Kathua,Plum,Other,Large,2018-07-12,4500,5500,5000,329
+Jammu and Kashmir,Srinagar,Parimpore,Plum,Other,Medium,2018-07-07,3750,4375,4062,329
+Jammu and Kashmir,Srinagar,Parimpore,Plum,Other,Medium,2018-07-31,2100,3300,2700,329
+Jammu and Kashmir,Udhampur,Udhampur,Plum,Other,Medium,2018-07-04,8000,10000,9000,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-01-09,800,1000,900,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-01-29,1000,1200,1100,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-02-03,900,1100,1000,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-02-06,700,900,800,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-02-10,900,1100,1000,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-02-11,1000,1200,1100,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-02-12,1100,1300,1200,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-02-13,1000,1200,1100,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-03-08,800,1000,900,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-03-12,700,900,800,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-03-19,700,900,800,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-03-21,2000,2500,2200,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-03-22,1000,2000,1500,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-03-24,1200,1600,1500,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-04-02,900,1100,1000,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-04-06,1200,1500,1300,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-04-09,900,1200,1000,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-04-11,900,1100,1000,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-04-16,1100,1300,1200,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-04-20,1000,1200,1100,329
+Madhya Pradesh,Harda,Harda(F&V),Plum,Plum,Medium,2018-04-25,1000,1200,1100,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2018-07-25,8000,11000,10000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2018-07-29,8000,11000,10000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2018-08-26,8000,11000,10000,329
+Maharashtra,Pune,Pune,Plum,Other,FAQ,2018-09-06,7000,11000,10000,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-06-15,7000,8000,7500,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-06-20,7500,9000,8000,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-06-27,6500,7500,7000,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-07-09,3000,4000,3500,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-07-12,3500,4500,4000,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-07-13,3500,4000,3850,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-07-23,6000,7500,7000,329
+Meghalaya,East Khasi Hills,Shillong,Plum,Plum,Large,2018-07-24,5000,8000,7000,329
+Punjab,Fatehgarh,Sirhind,Plum,Other,Medium,2018-06-23,2700,3200,3000,329
+Punjab,Gurdaspur,Gurdaspur,Plum,Other,Medium,2018-05-08,2000,3500,3200,329
+Punjab,Gurdaspur,Gurdaspur,Plum,Other,Medium,2018-07-26,5500,7000,6000,329
+Punjab,Gurdaspur,Gurdaspur,Plum,Other,Medium,2018-08-10,8000,9000,8500,329
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,2018-05-26,3500,4000,4000,329
+Punjab,Muktsar,Malout,Plum,Other,Medium,2018-07-09,6500,7000,6600,329
+Punjab,Muktsar,Muktsar,Plum,Other,Medium,2018-07-26,4000,4500,4200,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Other,Medium,2018-07-26,2500,3500,3000,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Plum,Medium,2018-05-28,4000,5000,4600,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Plum,Medium,2018-06-05,4000,6000,5200,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Plum,Medium,2018-06-23,3000,4000,3600,329
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Plum,Plum,Medium,2018-07-07,3000,4000,3650,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2018-05-28,6000,6000,6000,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2018-06-15,8000,8000,8000,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2018-06-29,5500,5500,5500,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2018-07-05,5000,5400,5400,329
+Punjab,Sangrur,Sangrur,Plum,Other,Large,2018-07-08,4000,5000,4500,329
+Punjab,Sangrur,Sunam,Plum,Other,Medium,2018-06-11,5000,8000,7000,329
+Punjab,Sangrur,Sunam,Plum,Other,Medium,2018-07-10,4000,5000,4500,329
+Punjab,Sangrur,Sunam,Plum,Other,Medium,2018-07-14,3000,4500,4000,329
+Rajasthan,Ajmer,Ajmer(F&V),Plum,Other,Large,2018-07-29,4000,6000,5000,329
+Rajasthan,Ajmer,Ajmer(F&V),Plum,Other,Large,2018-07-30,4000,6000,5000,329
+Rajasthan,Ajmer,Ajmer(F&V),Plum,Other,Large,2018-08-01,4000,6000,5500,329
+Telangana,Hyderabad,Gaddiannaram,Plum,Other,Medium,2018-12-16,5714,10000,7857,329
+Telangana,Hyderabad,Gaddiannaram,Plum,Other,Medium,2018-12-21,5714,10000,8571,329
+Telangana,Hyderabad,Gaddiannaram,Plum,Other,Medium,2018-12-30,5714,10000,7857,329
+Uttar Pradesh,Shamli,Khandhla,Plum,Other,Medium,2018-02-26,900,1000,950,329
+Uttar Pradesh,Shamli,Khandhla,Plum,Other,Medium,2018-03-18,800,850,825,329
+Uttar Pradesh,Shamli,Khandhla,Plum,Other,Medium,2018-03-25,600,700,650,329
+Uttar Pradesh,Shamli,Khandhla,Plum,Other,Medium,2018-03-28,690,710,700,329
+Uttar Pradesh,Shamli,Khandhla,Plum,Other,Medium,2018-04-03,690,710,700,329
+Uttar Pradesh,Unnao,Bangarmau,Plum,Plum,Small,2018-02-16,800,900,850,329
+Uttrakhand,Nanital,Haldwani,Plum,Other,Medium,2018-05-24,2200,2400,2300,329
+Uttrakhand,Nanital,Haldwani,Plum,Other,Medium,2018-05-30,1700,1900,1800,329
+Uttrakhand,Nanital,Haldwani,Plum,Other,Medium,2018-06-28,1200,1700,1500,329
+Uttrakhand,UdhamSinghNagar,Kashipur,Plum,Other,Medium,2018-06-20,1200,1310,1250,329
+Uttrakhand,UdhamSinghNagar,Kashipur,Plum,Other,Medium,2018-07-16,1000,1200,1100,329

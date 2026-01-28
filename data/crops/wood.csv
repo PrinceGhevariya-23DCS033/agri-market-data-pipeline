@@ -1,0 +1,1381 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Mandya,Maddur,Wood,Eucalyptus,Medium,2009-09-07,225,225,225,203
+Karnataka,Mandya,Maddur,Wood,Eucalyptus,Medium,2009-10-10,105,105,105,203
+Karnataka,Mandya,Maddur,Wood,Eucalyptus,Medium,2009-11-04,125,125,125,203
+Karnataka,Mandya,Maddur,Wood,Eucalyptus,Medium,2009-11-16,125,125,125,203
+Karnataka,Mandya,Maddur,Wood,Eucalyptus,Medium,2009-11-18,200,200,200,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-01-20,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-01-25,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-02-21,130,130,130,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-02-23,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-02-24,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-02-27,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-03-06,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-03-08,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-03-31,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-04-09,120,120,120,203
+Karnataka,Mandya,Maddur,Wood,Other,FAQ,2009-04-16,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-04-27,120,120,120,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-04-30,265,265,265,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-05-02,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-05-04,115,115,115,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-06-06,125,125,125,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-06-26,100,100,100,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-07-08,125,125,125,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-07-27,125,125,125,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-07-31,125,125,125,203
+Karnataka,Mandya,Maddur,Wood,Other,Medium,2009-08-04,100,100,100,203
+Karnataka,Mandya,Nagamangala,Wood,Silveroak,FAQ,2009-02-20,320,400,350,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-01-23,110,130,120,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-02-06,120,160,140,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-02-09,100,150,120,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-03-05,100,140,125,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-03-11,100,150,125,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-06-02,100,150,125,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-06-11,110,140,125,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-06-21,110,150,130,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-07-14,100,100,100,203
+Karnataka,Mandya,Srirangapattana,Wood,Eucalyptus,Medium,2009-07-21,150,150,150,203
+Karnataka,Mandya,Srirangapattana,Wood,Other,Medium,2009-03-06,1350,1500,1430,203
+Karnataka,Shimoga,Bhadravathi,Wood,Other,FAQ,2009-06-10,1450,1900,1675,203
+Karnataka,Tumkur,Kunigal,Wood,Eucalyptus,FAQ,2009-06-04,250,400,320,203
+Karnataka,Tumkur,Kunigal,Wood,Silveroak,FAQ,2009-10-13,200,350,320,203
+Karnataka,Tumkur,Kunigal,Wood,Silveroak,FAQ,2009-10-31,80,150,100,203
+Karnataka,Tumkur,Kunigal,Wood,Silveroak,FAQ,2009-12-24,300,450,420,203
+Maharashtra,Dharashiv(Usmanabad),Tuljapur,Wood,Other,FAQ,2009-07-23,0,400,350,203
+Maharashtra,Dharashiv(Usmanabad),Tuljapur,Wood,Other,FAQ,2009-07-26,0,350,300,203
+Maharashtra,Dharashiv(Usmanabad),Tuljapur,Wood,Other,FAQ,2009-11-02,0,400,350,203
+Telangana,Khammam,Enkoor,Wood,Other,FAQ,2009-09-18,230,230,230,203
+Telangana,Khammam,Enkoor,Wood,Other,FAQ,2009-09-23,230,230,230,203
+Telangana,Khammam,Enkoor,Wood,Other,FAQ,2009-09-25,230,230,230,203
+Telangana,Khammam,Enkoor,Wood,Other,FAQ,2009-09-27,230,230,230,203
+Telangana,Khammam,Enkoor,Wood,Other,FAQ,2009-10-15,230,230,230,203
+Telangana,Khammam,Enkoor,Wood,Other,FAQ,2009-10-26,230,230,230,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Other,FAQ,2009-05-15,0,350,300,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Other,FAQ,2009-05-21,0,350,300,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Other,FAQ,2009-06-04,0,350,300,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Other,FAQ,2009-06-05,0,400,350,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Other,FAQ,2009-06-19,0,400,350,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Other,FAQ,2009-08-11,0,380,360,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Other,FAQ,2009-10-15,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-03-09,320,350,330,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-03-21,300,350,330,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-03-24,290,340,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-03-31,0,350,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-04-12,0,350,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-03,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-07,0,400,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-11,0,400,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-13,0,350,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-15,0,400,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-21,0,350,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-24,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-25,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-05-27,0,400,360,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-11,0,400,320,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-13,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-15,0,350,320,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-18,0,400,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-20,0,400,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-22,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-23,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-06-24,0,400,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-07-09,0,400,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-07-17,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-07-18,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-07-21,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-08-08,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-08-12,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-08-17,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-08-22,0,350,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-08-24,0,350,300,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-08-28,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-09-13,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-09-26,0,900,800,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-10-08,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-10-14,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-10-19,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-12-06,0,400,350,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Other,FAQ,2009-12-07,0,400,350,203
+Uttar Pradesh,Bulandshahar,Anoop Shahar,Wood,Other,FAQ,2009-01-19,290,310,305,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-01-06,240,265,252,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-02-03,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-02-10,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-02-13,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-02-16,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-02-18,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-02-25,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-03-02,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-03-04,230,255,243,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-03-07,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-03-12,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-03-17,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-03-25,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-03-30,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-04-13,230,230,230,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-04-20,230,255,242,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-04-25,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-02,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-03,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-04,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-08,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-21,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-22,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-24,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-27,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-05-28,230,265,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-07-21,240,255,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-07-22,240,255,247,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2009-08-26,240,255,247,203
+Uttar Pradesh,Siddharth Nagar,Naugarh,Wood,Other,FAQ,2009-02-14,350,450,400,203
+Uttar Pradesh,Siddharth Nagar,Naugarh,Wood,Other,FAQ,2009-07-03,340,360,350,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-05-01,0,300,280,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-05-04,0,400,350,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-05-10,0,300,250,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-05-31,0,300,275,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-06-03,0,300,275,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-06-12,0,300,275,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-06-13,0,300,275,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-06-17,0,300,275,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-06-19,0,525,500,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-07-05,0,350,300,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-07-19,0,400,350,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-07-22,0,350,300,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-08-14,0,260,250,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-09-06,0,400,350,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-09-13,0,250,200,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-09-15,0,400,350,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-09-16,0,200,190,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-09-18,0,300,250,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-09-25,0,250,200,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-09-29,0,375,350,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-10-01,0,300,250,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-10-14,0,350,300,203
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Wood,Other,FAQ,2009-10-29,0,400,350,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2009-01-12,100,140,125,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2009-01-16,100,140,125,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2009-02-13,100,140,125,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2009-03-05,100,140,125,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2009-03-19,100,200,150,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2009-03-21,100,200,150,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2009-12-03,124,150,135,203
+Uttrakhand,Haridwar,Manglaur,Wood,Other,FAQ,2009-04-06,100,130,110,203
+Uttrakhand,Haridwar,Manglaur,Wood,Other,FAQ,2009-07-29,120,150,130,203
+Uttrakhand,Haridwar,Manglaur,Wood,Other,FAQ,2009-07-30,120,140,130,203
+Uttrakhand,Haridwar,Manglaur,Wood,Other,FAQ,2009-09-16,120,150,130,203
+Uttrakhand,Haridwar,Manglaur,Wood,Other,FAQ,2009-09-19,120,140,130,203
+Uttrakhand,Haridwar,Manglaur,Wood,Other,FAQ,2009-10-29,180,240,210,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-01-19,310,318,312,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-01-27,480,500,484,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-02-06,303,552,473,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-02-09,540,551,544,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-02-26,300,615,540,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-05-31,500,580,562,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-06-10,500,550,531,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-06-11,500,550,527,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-06-13,500,550,540,203
+Uttrakhand,UdhamSinghNagar,Kicchha,Wood,Eucalyptus,FAQ,2009-06-14,500,550,540,203
+Haryana,Palwal,Palwal,Wood,Other,FAQ,2009-04-29,120,120,120,203
+Haryana,Palwal,Palwal,Wood,Other,FAQ,2009-06-29,172,172,172,203
+Haryana,Palwal,Palwal,Wood,Other,FAQ,2009-06-30,130,130,130,203
+Haryana,Palwal,Palwal,Wood,Other,FAQ,2009-12-30,160,160,160,203
+Haryana,Rohtak,Sampla,Wood,Other,FAQ,2009-01-20,250,250,250,203
+Karnataka,Bangalore,Doddaballa Pur,Wood,Eucalyptus,FAQ,2009-04-08,700,1000,800,203
+Karnataka,Bangalore,Doddaballa Pur,Wood,Other,FAQ,2009-12-26,700,1000,850,203
+Karnataka,Bangalore,Doddaballa Pur,Wood,Other,FAQ,2009-12-31,700,1000,850,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-01-11,68,100,80,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-01-13,50,120,80,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-01-17,50,100,75,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-01-18,80,140,110,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-01-30,50,100,75,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-01-31,50,100,75,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-02-09,100,200,175,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-02-16,45,85,60,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-02-24,120,200,150,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-02-26,200,400,300,203
+Karnataka,Chikmagalur,Kadur,Wood,Other,FAQ,2009-03-01,70,110,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-01-16,80,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-01-19,80,100,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-01-20,80,100,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-01-28,90,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-02-05,80,100,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-02-06,90,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-02-09,80,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-02-11,90,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-02-14,90,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-02-23,95,100,98,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-03-10,90,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-03-21,90,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-03-27,80,100,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-04-01,90,200,100,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-06-16,100,150,110,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-07-01,80,90,85,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-08-19,80,100,85,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-08-21,80,100,85,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-10-16,80,100,85,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-10-21,80,100,85,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,FAQ,2009-10-23,80,312,220,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,FAQ,2009-11-07,150,566,230,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,FAQ,2009-11-23,200,598,300,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,FAQ,2009-11-24,200,520,222,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-12-03,200,320,254,203
+Karnataka,Chikmagalur,Moodigere,Wood,Other,Small,2009-12-23,100,200,150,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,Small,2009-04-03,80,100,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,Small,2009-05-05,80,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,Small,2009-06-05,80,95,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,Small,2009-06-08,80,100,85,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,Small,2009-06-13,100,150,110,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,Small,2009-06-15,80,100,95,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,FAQ,2009-10-05,85,100,90,203
+Karnataka,Chikmagalur,Moodigere,Wood,Silveroak,Small,2009-10-08,85,100,90,203
+Karnataka,Chikmagalur,Sringeri,Wood,Other,FAQ,2009-04-28,2908,3500,3066,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-01-16,180,220,200,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-01-29,180,220,200,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-02-09,120,200,180,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-02-25,120,200,180,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-02-28,80,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-03-04,80,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-03-12,80,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-03-18,80,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-03-26,80,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-04-16,80,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-04-25,80,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-04-28,100,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-06-22,220,280,260,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-06-26,180,220,200,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-06-27,180,220,200,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-06-29,180,220,200,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-07-08,150,180,160,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-07-15,180,260,240,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-07-24,160,220,180,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-10-09,200,350,300,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-10-14,80,140,120,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-10-15,110,160,125,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-10-26,80,200,150,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-10-29,80,200,150,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-11-06,80,200,150,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-11-25,80,180,150,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-12-09,80,180,150,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-12-19,100,160,120,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-12-24,160,210,195,203
+Karnataka,Kolar,Bangarpet,Wood,Eucalyptus,FAQ,2009-12-29,120,160,140,203
+Karnataka,Kolar,Chickkaballapura,Wood,Eucalyptus,FAQ,2009-09-16,70,100,80,203
+Karnataka,Kolar,Chickkaballapura,Wood,Eucalyptus,FAQ,2009-10-06,90,110,100,203
+Karnataka,Kolar,Chickkaballapura,Wood,Eucalyptus,FAQ,2009-10-08,60,90,70,203
+Karnataka,Kolar,Chickkaballapura,Wood,Eucalyptus,FAQ,2009-11-18,90,110,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-01-27,90,115,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-04-09,95,110,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-04-11,95,120,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-04-12,90,115,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-05-21,90,120,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-07-16,90,115,105,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-07-29,90,120,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-11-07,90,110,100,203
+Karnataka,Kolar,Malur,Wood,Eucalyptus,FAQ,2009-12-08,90,120,100,203
+Karnataka,Kolar,Mulabagilu,Wood,Eucalyptus,FAQ,2009-02-05,100,140,120,203
+Karnataka,Kolar,Mulabagilu,Wood,Eucalyptus,FAQ,2009-03-04,125,160,142,203
+Karnataka,Kolar,Mulabagilu,Wood,Eucalyptus,FAQ,2009-05-06,100,150,125,203
+Karnataka,Kolar,Mulabagilu,Wood,Eucalyptus,FAQ,2009-07-14,80,120,100,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-04-29,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-01,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-05,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-07,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-08,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-15,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-22,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-25,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-05-28,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-07,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-12,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-15,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-20,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-21,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-22,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-23,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-06-29,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-07-07,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-07-11,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-07-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-02,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-05,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-08,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-09,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-12,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-14,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-25,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-08-27,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-05,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-11,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-15,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-16,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-21,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-28,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-09-29,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-10-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-10-23,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-10-26,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-11-12,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-11-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-11-20,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-12-05,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-12-14,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2015-12-25,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-03-02,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-03-03,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-03-04,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-03-07,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-03-18,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-03-24,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-03-29,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-04-04,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-04-09,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-04-11,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-04-19,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood,Other,FAQ,2015-04-20,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-04-06,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-04-14,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-04-20,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-05-18,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-05-23,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-06-02,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-06-15,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-06-19,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-07-07,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-07-08,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-08-14,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-08-15,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-09-02,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-09-09,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,Medium,2015-09-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,Medium,2015-09-21,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-09-28,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-01,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-05,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-08,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-12,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-15,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-16,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-29,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-10-30,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-11-02,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-11-21,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-11-22,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-11-25,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-12-06,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-12-11,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-12-13,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2015-12-28,4400,4400,4400,203
+Andhra Pradesh,Srikakulam,Palakonda,Wood,Eucalyptus,Medium,2015-11-25,4600,4600,4600,203
+Andhra Pradesh,Srikakulam,Palakonda,Wood,Eucalyptus,Medium,2015-12-05,4600,4600,4600,203
+Andhra Pradesh,Srikakulam,Palakonda,Wood,Eucalyptus,Medium,2015-12-06,4600,4600,4600,203
+Andhra Pradesh,Srikakulam,Palakonda,Wood,Eucalyptus,Medium,2015-12-13,4600,4600,4600,203
+Andhra Pradesh,Srikakulam,Palakonda,Wood,Eucalyptus,Medium,2015-12-22,4600,4600,4600,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-06-10,420,450,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-07-06,430,444,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-07-22,420,444,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-07-23,440,450,444,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-08-14,444,500,456,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-10-01,440,444,443,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-10-03,420,460,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-10-09,420,450,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-10-12,424,444,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,Medium,2015-10-28,430,450,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-11-03,420,460,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-11-18,420,500,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-12-18,420,460,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood, Subabul,FAQ,2015-12-22,420,460,440,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Casuarina,Medium,2015-04-02,4500,4800,4600,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Casuarina,FAQ,2015-05-18,480,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Casuarina,FAQ,2015-08-04,480,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Casuarina,FAQ,2015-12-18,490,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Casuarina,FAQ,2015-12-31,476,500,480,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,Medium,2015-04-02,4500,4800,4600,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-05-23,490,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-06-01,480,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-06-16,490,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-07-21,490,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-08-04,440,500,460,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-08-10,480,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-08-31,460,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-09-04,450,470,460,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-10-07,450,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-11-03,460,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-11-09,460,510,500,203
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Wood,Eucalyptus,FAQ,2015-11-27,460,510,500,203
+Karnataka,Mandya,Pandavapura,Wood,Silveroak,FAQ,2015-06-20,6000,12000,9000,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-04-16,450,450,450,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-04-17,450,450,450,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-04-22,400,450,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-04-26,400,450,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-05-05,400,450,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-05-11,400,450,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-05-15,420,450,420,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-05-17,420,450,420,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-05-18,420,450,420,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-05-20,420,450,420,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-05-22,400,450,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-06-08,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-06-09,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-06-12,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-06-18,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-06-19,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-04,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-05,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-06,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-09,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-14,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-19,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-21,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-22,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-07-24,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-08-05,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-08-06,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-08-18,385,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-08-30,385,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-02,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-03,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-07,385,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-10,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-12,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-17,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-19,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-22,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-27,385,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-09-28,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-10-02,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-10-03,385,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-10-05,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-10-07,380,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-10-28,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-10-30,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-11-06,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-11-07,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-11-22,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2015-11-23,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Other,FAQ,2015-06-16,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Other,FAQ,2015-07-23,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Other,FAQ,2015-08-09,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Other,FAQ,2015-08-14,400,420,400,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-03-01,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-04-05,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-05-21,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-08-12,4150,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-11-21,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-11-27,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-11-28,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-12-02,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-12-08,4200,5000,4500,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-12-18,4500,5000,5000,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-12-21,4500,5000,5000,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2015-12-31,4500,5000,5000,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2015-04-02,4000,4000,4000,203
+Telangana,Khammam,Dammapet,Wood,Other,Medium,2015-08-12,4200,5000,4500,203
+Telangana,Khammam,Dammapet,Wood,Other,Medium,2015-09-04,350,450,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-07-29,360,460,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-08-05,360,460,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-08-17,350,450,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-08-25,360,450,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-09-03,350,450,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-09-05,350,450,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-09-09,400,476,450,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-09-16,360,460,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-09-20,375,460,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-10-05,400,460,450,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-10-25,400,460,450,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-10-27,400,475,460,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-11-02,400,460,450,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-11-03,450,470,460,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-11-07,375,460,400,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-11-16,400,470,450,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-12-01,400,470,450,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,Medium,2015-12-07,400,480,470,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-12-18,400,470,450,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-12-22,400,470,460,203
+Telangana,Khammam,Kallur,Wood,Eucalyptus,FAQ,2015-12-23,400,470,460,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-02-20,390,410,400,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-03-02,400,420,410,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-03-15,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-03-31,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-04-02,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-05-02,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,Small,2015-07-20,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-08-08,400,400,400,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-08-10,400,400,400,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2015-08-30,400,400,400,203
+Telangana,Khammam,Madhira,Wood,Nandi,FAQ,2015-05-10,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Nandi,FAQ,2015-09-22,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Nandi,FAQ,2015-10-06,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-01-06,400,420,410,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-01-08,400,420,410,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-01-18,380,420,400,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-02-05,400,420,410,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-02-09,400,440,420,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-02-12,380,400,390,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-02-14,400,440,420,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-02-18,400,420,410,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-02-20,390,410,400,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-02-26,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-03-08,400,440,420,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-03-11,400,440,420,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-03-13,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-03-16,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-03-19,400,440,420,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-03-20,400,440,420,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-03-29,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-04-04,400,420,410,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-04-05,400,440,420,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-04-06,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-04-15,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-05-06,1200,1310,1275,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-06-10,420,440,430,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-07-15,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-07-17,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-08-04,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-08-11,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-09-03,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-09-10,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-09-11,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-09-15,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-09-19,400,400,400,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-09-20,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-09-27,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Other,FAQ,2015-10-22,440,440,440,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2015-10-07,450,490,470,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2015-10-11,415,485,446,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2015-10-20,444,485,466,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2015-11-03,415,455,438,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2015-11-10,430,470,450,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2015-12-28,420,470,440,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-04-07,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-05-08,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-05-15,300,300,300,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-05-26,300,300,300,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-06-01,313,313,313,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-06-10,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-06-19,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-07-13,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-07-21,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-09-29,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-10-11,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-11-09,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-11-16,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-11-21,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-11-26,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-12-01,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-12-05,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Other,Medium,2015-12-30,400,400,400,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2015-01-03,380,420,400,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2015-01-05,360,410,390,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2015-01-07,380,420,400,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2015-01-10,360,420,390,203
+Uttar Pradesh,Unnao,Bangarmau,Wood,Eucalyptus,FAQ,2015-06-20,200,300,250,203
+Uttar Pradesh,Unnao,Bangarmau,Wood,Eucalyptus,FAQ,2015-06-21,200,300,250,203
+Uttar Pradesh,Unnao,Bangarmau,Wood,Eucalyptus,FAQ,2015-07-08,200,300,250,203
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Wood,Other,FAQ,2015-01-05,400,500,450,203
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Wood,Other,FAQ,2015-01-08,400,500,450,203
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Wood,Other,FAQ,2015-01-15,400,500,450,203
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Wood,Other,FAQ,2015-01-30,400,500,450,203
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Wood,Other,FAQ,2015-06-26,400,500,450,203
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Wood,Other,FAQ,2015-08-04,400,550,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-01-06,1800,2100,1900,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-01-09,1800,2100,2000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-01-11,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-01-14,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-01-20,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-01-31,1700,2000,1800,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-02-05,1700,2000,1900,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-02-08,1800,2100,2000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-02-15,400,700,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-02-20,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-02-28,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-03-06,1800,2200,2000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-03-09,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-03-13,1800,2200,2000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-03-18,1800,2200,2000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-03-21,1800,2100,1900,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-03-22,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-03-24,400,650,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-04-01,1600,2150,1800,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-04-04,1600,2100,1700,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-04-09,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-04-30,1600,2000,1800,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-05-01,200,400,300,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-05-14,1600,1800,1680,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-05-23,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-06-04,200,400,300,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-06-05,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-06-06,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-06-07,1600,2000,1800,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-06-11,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-07-02,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-07-03,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-07-17,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-07-20,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-07-21,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-07-26,400,650,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-08-02,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-08-04,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-08-05,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-08-16,400,600,500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-08-18,500,800,600,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-08-21,550,1800,800,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-08-29,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-03,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-07,600,1900,1100,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-10,600,1900,1500,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-11,600,1900,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-12,600,1800,800,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-19,600,1900,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-21,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-09-30,600,1800,1200,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-01,600,1800,1200,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-03,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-16,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-18,600,1900,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-21,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-24,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-26,600,1900,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-27,600,1700,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-10-30,600,1900,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-11-03,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-11-05,600,1900,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-11-06,600,1800,1000,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-12-04,300,500,400,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-12-16,300,500,400,203
+Uttrakhand,Haridwar,Lakshar,Wood,Other,FAQ,2015-12-31,300,500,400,203
+Uttrakhand,Haridwar,Roorkee,Wood,Other,FAQ,2015-02-28,500,600,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-01-09,200,1465,510,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-01-21,200,1259,510,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-01-22,205,1228,510,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-01-27,390,1038,510,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-01-29,350,1222,510,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-02-09,205,1236,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-03,200,450,390,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-04,202,1212,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-07,201,500,460,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-08,200,949,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-15,201,1644,510,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-19,205,1628,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-20,202,2749,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-03-28,200,1612,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-04-29,202,1168,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-05-01,300,1903,470,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-05-10,202,1294,500,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-05-22,202,1757,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-06-01,200,510,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-06-08,200,2016,470,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-06-21,202,1713,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-06-28,205,1201,460,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-07-03,200,2471,480,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-07-08,205,1739,490,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-07-17,200,1385,460,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-07-21,202,2774,480,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-07-26,202,1642,470,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-08-11,200,2653,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-08-20,205,1868,460,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-08-24,200,1788,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-08-25,200,510,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-08-26,200,1387,450,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-08-31,280,1073,470,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-09-06,180,510,415,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-09-16,180,2102,410,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-09-27,185,1172,410,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-09-29,180,1669,410,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-10-05,190,1961,405,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-10-08,190,1073,405,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-10-09,185,1699,400,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-10-18,196,1837,410,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-10-26,185,1659,410,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-10-30,185,1586,405,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-11-11,180,510,400,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-11-17,180,943,405,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-11-24,185,1442,402,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-12-13,200,350,275,203
+Uttrakhand,UdhamSinghNagar,Rudrapur,Wood,Other,FAQ,2015-12-17,300,400,350,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-07-14,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-07-15,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-07-22,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-07-25,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-08-02,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-08-31,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-09-03,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-09-11,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-09-12,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-09-19,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-09-26,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-10-14,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood, Subabul,FAQ,2021-10-28,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood,Eucalyptus,FAQ,2021-06-19,450,450,450,203
+Telangana,Adilabad,Asifabad,Wood,Eucalyptus,FAQ,2021-08-07,400,450,400,203
+Telangana,Adilabad,Asifabad,Wood,Eucalyptus,FAQ,2021-08-25,400,400,400,203
+Telangana,Adilabad,Asifabad,Wood,Eucalyptus,FAQ,2021-09-01,450,450,450,203
+Telangana,Adilabad,Asifabad,Wood,Eucalyptus,FAQ,2021-09-13,450,450,450,203
+Telangana,Adilabad,Asifabad,Wood,Eucalyptus,FAQ,2021-09-20,500,500,500,203
+Telangana,Adilabad,Asifabad,Wood,Eucalyptus,FAQ,2021-09-23,400,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-07,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-09,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-13,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-17,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-23,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-27,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-28,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-09-29,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-10-14,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-10-22,390,400,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2021-10-25,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2021-07-07,370,370,370,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2021-08-29,370,370,370,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2021-08-30,370,370,370,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2021-08-31,370,370,370,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2021-10-25,370,370,370,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-06-18,400,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-08,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-11,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-13,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-16,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-17,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-25,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-26,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-07-28,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-02,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-04,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-06,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-08,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-12,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-16,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-17,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-08-29,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-07,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-08,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-09,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-16,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-18,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-20,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-23,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-09-25,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-10-02,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-10-13,390,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2021-10-21,390,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-10,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-11,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-12,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-14,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-15,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-16,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-19,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-20,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-07-26,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-08-11,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-08-14,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-08-19,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-08-20,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-08-30,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-08-31,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-09-08,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-09-15,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-09-25,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-09-30,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-10-07,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-10-09,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-10-16,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-10-23,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-10-24,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-11-17,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-11-19,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-11-20,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-11-25,400,400,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2021-11-28,400,400,400,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2021-09-18,360,380,370,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2021-09-21,360,380,370,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-09-19,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-09-23,400,438,422,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-10-06,400,445,420,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-10-10,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-10-12,400,428,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-10-13,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-10-15,400,438,419,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-10-16,400,418,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-10-21,400,425,409,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-11-14,400,417,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-11-17,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-11-18,400,400,400,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2021-11-23,517,517,517,203
+Telangana,Khammam,Yellandu,Wood,Eucalyptus,FAQ,2021-11-27,400,440,430,203
+Telangana,Khammam,Yellandu,Wood,Eucalyptus,FAQ,2021-11-30,400,440,420,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2021-04-19,400,600,500,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2021-04-24,400,600,500,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2021-04-30,400,600,500,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-08-20,280,300,290,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-09-06,280,300,290,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-09-10,280,300,290,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-09-13,280,300,290,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-09-26,300,400,350,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-10-01,300,350,325,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-10-06,300,350,325,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-10-14,350,400,380,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-10-17,320,350,340,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-11-10,280,300,290,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-11-15,300,350,320,203
+Uttar Pradesh,Etah,Aliganj,Wood,Beete (Rose),FAQ,2018-11-16,300,350,320,203
+Uttar Pradesh,Hapur,Yusufpur,Wood,Beete (Rose),FAQ,2018-12-22,2800,2900,2850,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-01-17,220,280,250,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-01-20,260,350,300,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-01-27,300,400,350,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-01-30,300,410,350,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-01-31,320,400,360,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-02-22,250,350,300,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-02-23,300,400,350,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-02-24,320,450,400,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-03-31,300,380,340,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-04-28,230,290,260,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-04-29,210,280,250,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-04-30,240,300,260,203
+Uttar Pradesh,Hardoi,Sandila,Wood,Beete (Rose),FAQ,2018-05-01,240,300,260,203
+Uttar Pradesh,Kanpur,Varipaal,Wood,Other,FAQ,2018-05-01,2000,2275,2200,203
+Uttar Pradesh,Kanpur,Varipaal,Wood,Other,FAQ,2018-10-29,300,400,350,203
+Uttar Pradesh,Kanpur,Varipaal,Wood,Other,FAQ,2018-12-24,350,400,400,203
+Uttar Pradesh,Kanpur,Varipaal,Wood,Other,FAQ,2018-12-26,350,400,400,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-02-13,320,350,350,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-02-27,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-02-28,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-01,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-03,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-04,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-13,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-15,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-16,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-17,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-20,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-21,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-03-27,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-04-02,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-04-09,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-04-16,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-04-18,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-04-24,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-05-06,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-05-10,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-05-19,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-05-21,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-05-25,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-06-04,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-06-05,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-06-08,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-06-11,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-06-14,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-06-23,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-06-24,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-07-08,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-07-11,350,375,375,203
+Uttar Pradesh,Kanpur Dehat,Rura,Wood,Beete (Rose),FAQ,2018-07-17,350,375,375,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-10-06,0,0,320,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-10-08,0,0,305,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-10-10,0,0,305,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-10-11,0,0,305,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-10-21,0,0,305,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-10-26,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-11-03,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-11-15,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-11-20,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-11-21,0,0,330,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-11-24,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-11-27,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-04,0,0,340,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-06,0,0,305,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-08,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-10,0,0,330,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-11,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-12,0,0,310,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-19,0,0,330,203
+Uttar Pradesh,Muzaffarnagar,Shahpur,Wood,Other,FAQ,2018-12-28,0,0,310,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-01-13,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-01-20,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-01-21,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-01-22,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-01-28,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-02-03,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-02-05,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-02-07,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-02-25,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-08,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-14,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-15,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-16,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-18,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-22,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-25,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-26,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-27,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-03-30,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-06,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-09,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-10,305,315,310,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-14,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-15,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-17,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-20,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-24,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-04-25,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-05-01,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-05-03,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-05-09,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-05-19,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-05-25,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-05-28,280,300,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-05-30,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-06-10,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-06-12,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-06-18,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-06-19,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-06-22,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-06-26,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-06-28,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-07-12,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-07-16,300,310,305,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-07-17,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-07-19,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-07-25,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-07-28,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-08-10,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-08-16,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-08-19,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-08-21,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-08-23,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-08-27,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-08-30,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-04,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-07,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-13,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-17,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-18,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-19,285,300,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-23,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-26,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-09-30,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-05,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-06,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-09,280,300,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-15,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-16,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-20,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-24,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-25,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-10-27,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-11-08,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-11-12,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-11-14,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-11-17,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-11-22,295,305,300,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-11-23,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-11-28,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-12-04,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-12-06,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-12-10,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-12-13,280,290,285,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-12-18,285,295,290,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-12-29,290,300,295,203
+Uttar Pradesh,Rampur,Tanda(Rampur),Wood,Other,FAQ,2018-12-30,280,290,285,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Beete (Rose),FAQ,2018-01-03,235,250,240,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Beete (Rose),FAQ,2018-01-05,240,250,245,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Beete (Rose),FAQ,2018-01-10,235,245,240,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Beete (Rose),FAQ,2018-01-20,220,250,235,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Beete (Rose),FAQ,2018-01-23,235,265,250,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-01-26,235,265,250,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-01-27,260,280,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-01-30,240,250,245,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-02-09,260,280,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-02-11,265,285,275,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-02-16,240,260,250,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-02-19,260,300,265,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-02-20,245,285,265,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-02-26,220,240,230,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-03-06,245,265,255,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-03-15,190,275,250,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-03-16,150,300,240,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-03-29,150,300,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-03-31,150,300,220,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-04,250,270,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-08,200,300,250,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-10,250,270,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-14,240,280,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-19,240,300,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-20,240,300,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-26,270,290,280,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-04-28,255,275,265,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-05-04,235,265,250,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-05-08,250,270,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-05-12,235,245,240,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-05-19,250,270,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-05-27,250,290,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-05-29,245,285,265,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-01,250,260,255,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-07,255,265,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-16,260,280,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-17,250,260,255,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-18,250,270,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-23,260,280,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-29,270,280,275,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-06-30,255,275,265,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-01,270,280,275,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-05,250,270,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-09,275,285,280,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-10,260,280,270,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-13,275,290,280,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-20,240,280,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-27,275,295,280,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-07-31,250,270,260,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-08-08,270,300,285,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-08-10,280,300,290,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-08-11,280,300,290,203
+Uttar Pradesh,Rampur,Vilaspur,Wood,Eucalyptus,FAQ,2018-08-27,280,340,310,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-06-03,410,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-06-12,405,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-07-04,400,415,405,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-07-21,405,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-07-23,400,420,410,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-07-24,405,420,410,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-08-05,415,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-08-07,410,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-08-21,410,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-08-28,400,415,405,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-08-30,410,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-09-03,410,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-09-11,405,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-09-14,410,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-09-16,415,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-09-21,410,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-09-22,400,425,410,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-06,420,430,425,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-07,405,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-09,410,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-20,400,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-22,410,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-23,410,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-28,400,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-30,400,415,410,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-10-31,410,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-11-11,405,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-11-13,410,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-11-19,405,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-11-20,410,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-11-21,405,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-11-26,405,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-11-28,410,425,420,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-12-03,400,425,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-12-06,405,420,415,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-12-14,415,440,430,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-12-17,415,440,435,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-12-23,415,450,435,203
+Uttar Pradesh,Saharanpur,Gangoh,Wood,Beete (Rose),FAQ,2018-12-27,410,445,425,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-04,225,275,250,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-05,220,275,250,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-07,220,270,245,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-12,220,270,250,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-22,225,275,245,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-26,235,300,255,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-29,220,275,250,203
+Uttar Pradesh,Saharanpur,Sultanpurchilkana,Wood,Other,FAQ,2018-01-30,220,270,245,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-01-07,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-01-08,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-01-17,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-01-20,4400,4400,4400,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-01-27,4200,4200,4200,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-02-15,4200,4200,4200,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-02-21,4200,4200,4200,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-02-25,4200,4200,4200,203
+Andhra Pradesh,Krishna,Jaggayyapeta,Wood, Subabul,FAQ,2018-03-03,4200,4200,4200,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2018-01-01,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2018-01-02,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2018-01-04,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2018-01-12,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2018-01-13,4400,4400,4400,203
+Andhra Pradesh,Krishna,Nandigama,Wood, Subabul,FAQ,2018-01-27,4400,4400,4400,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-02-08,200,200,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-02-19,150,225,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-03-12,170,225,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-04-03,150,220,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-05-01,150,200,180,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-05-02,150,200,180,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-05-28,170,300,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-05-30,225,235,230,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-06-01,165,220,210,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-06-04,180,300,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-06-18,165,300,250,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-06-20,200,270,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-07-05,200,300,250,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-07-09,160,300,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-08-07,200,275,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-08-21,160,260,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-08-24,150,300,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-08-29,180,280,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-09-01,215,280,215,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-10-09,200,225,200,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-10-12,200,350,250,203
+Haryana,Yamuna Nagar,Bilaspur,Wood,Other,FAQ,2018-12-06,200,280,200,203
+Telangana,Khammam,Bhadrachalam,Wood, Subabul,FAQ,2018-02-06,3700,3733,3700,203
+Telangana,Khammam,Bhadrachalam,Wood, Subabul,FAQ,2018-03-24,3700,3737,3700,203
+Telangana,Khammam,Bhadrachalam,Wood, Subabul,FAQ,2018-05-28,3700,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood, Subabul,FAQ,2018-06-24,3700,4500,4000,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-01-12,3900,4000,3900,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-02-02,3900,3903,3900,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-02-19,3900,3913,3900,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-03-06,3900,3902,3900,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-03-19,3900,4095,3900,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-05-20,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-05-21,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-05-25,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-06-29,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-06-30,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-07-01,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-07-03,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-07-04,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-07-11,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-07-13,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-07-31,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-08-01,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-08-05,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-08-14,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-08-15,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-08-16,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-08-27,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-08-29,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-02,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-07,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-09,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-22,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-23,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-24,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-29,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-09-30,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-10-06,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-10-12,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-10-16,390,420,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-10-20,3900,5000,4500,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-10-26,390,420,400,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-12-26,370,390,375,203
+Telangana,Khammam,Bhadrachalam,Wood,Eucalyptus,FAQ,2018-12-31,375,390,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-01-02,400,450,400,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-01-12,375,450,400,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-01-13,375,450,400,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-01-22,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-02-12,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-02-23,375,375,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-03-01,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-03-11,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-03-14,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-03-21,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,Large,2018-03-23,3900,4000,3950,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-03-24,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-03-31,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-04-11,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-04-24,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-05-18,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-05-21,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-07-04,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-08-28,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-09-09,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-09-11,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-09-13,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-09-27,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,FAQ,2018-09-28,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood, Subabul,Small,2018-10-20,375,400,375,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-01-11,400,500,450,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-02-06,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-02-14,400,450,420,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-02-17,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-03-01,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-03-04,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-03-07,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-03-10,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-03-15,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-04-03,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-04-04,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-04-10,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-04-27,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-04-28,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-05-04,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-05-06,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-05-09,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-06-22,3900,5000,4500,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-06-30,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-01,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-04,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-07,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-09,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-10,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-18,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-23,400,400,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-24,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-07-30,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-08-01,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-08-09,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-08-20,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-08-23,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-08-25,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-09-04,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-09-08,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-09-09,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-09-19,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-09-24,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-09-25,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-09-26,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-10-06,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-10-07,390,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-10-17,400,420,400,203
+Telangana,Khammam,Burgampadu,Wood,Eucalyptus,FAQ,2018-10-27,390,420,400,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-02-17,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-04-04,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-04-15,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-04-17,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-04-22,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-04-27,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-05-04,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-05-17,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-05-18,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-05-19,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-05-20,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-05-27,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-07-05,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-08-10,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-09-22,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-09-28,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-10-02,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-10-03,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-10-11,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-10-19,4800,5000,4900,203
+Telangana,Khammam,Charla,Wood,Other,FAQ,2018-10-23,4800,5000,4900,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-01-04,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-02-06,520,535,525,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-06-25,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-07-07,500,540,520,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2018-07-08,400,420,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2018-07-09,390,420,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-07-23,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-07-25,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-03,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-07,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-17,500,525,500,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-20,450,525,500,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-24,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-25,450,510,500,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-26,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-28,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-08-29,500,520,500,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-09-08,450,550,500,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-09-09,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-09-18,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-09-26,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-09-27,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-09-28,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,Medium,2018-10-17,400,450,400,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2018-12-27,400,450,410,203
+Telangana,Khammam,Dammapet,Wood,Eucalyptus,FAQ,2018-12-30,300,390,350,203
+Telangana,Khammam,Enkoor,Wood,Eucalyptus,FAQ,2018-07-02,400,400,400,203
+Telangana,Khammam,Kothagudem,Wood,Casuarina,Medium,2018-01-08,3900,4000,3950,203
+Telangana,Khammam,Kothagudem,Wood,Casuarina,Medium,2018-01-29,3900,4000,3950,203
+Telangana,Khammam,Kothagudem,Wood,Casuarina,Medium,2018-02-21,3900,4000,3950,203
+Telangana,Khammam,Kothagudem,Wood,Eucalyptus,Medium,2018-01-31,3900,4000,3950,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-01-25,400,400,400,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-01-28,370,370,370,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-02-08,370,370,370,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-02-12,370,370,370,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-02-17,370,370,370,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-03-04,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-03-05,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-03-09,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-03-18,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-04-01,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-04-30,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-05-02,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-05-08,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-05-28,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-07-13,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,Small,2018-08-17,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-08-21,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-08-30,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-10-11,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-10-18,3700,3700,3700,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-10-19,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-10-23,440,440,440,203
+Telangana,Khammam,Madhira,Wood, Subabul,FAQ,2018-10-25,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-01-18,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-01-30,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-03-07,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-03-21,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-03-22,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-03-24,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-04-07,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-04-12,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-05-10,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-05-17,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-07-04,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-07-08,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-07-13,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-07-17,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-09-23,440,440,440,203
+Telangana,Khammam,Madhira,Wood,Eucalyptus,FAQ,2018-10-11,440,440,440,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-01-22,405,495,444,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-02-03,385,510,425,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-07-14,325,455,375,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-08-10,315,475,425,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-08-30,375,475,425,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-09-18,475,525,475,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-10-02,475,515,475,203
+Telangana,Khammam,Nelakondapally,Wood, Subabul,FAQ,2018-10-13,475,525,475,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-03-21,450,450,450,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-04-18,450,450,450,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-05-05,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-05-12,450,450,450,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-07-02,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-07-05,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-07-11,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-07-22,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-07-23,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-07-25,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-08-01,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-08-08,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-10-12,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-10-20,500,500,500,203
+Telangana,Khammam,Sattupalli,Wood,Eucalyptus,FAQ,2018-10-24,500,500,500,203
+Telangana,Khammam,Yellandu,Wood,Eucalyptus,FAQ,2018-07-08,400,400,400,203
+Uttar Pradesh,Aligarh,Atrauli,Wood,Other,FAQ,2018-01-26,380,400,390,203
+Uttar Pradesh,Aligarh,Atrauli,Wood,Other,FAQ,2018-03-21,380,400,390,203
+Uttar Pradesh,Aligarh,Atrauli,Wood,Other,FAQ,2018-04-28,380,400,390,203
+Uttar Pradesh,Aligarh,Atrauli,Wood,Other,FAQ,2018-08-28,380,400,390,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-02-05,650,700,675,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-02-16,650,700,670,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-02-19,650,690,670,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-03-01,660,680,670,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-03-14,650,700,675,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-03-20,670,690,680,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-03-21,650,700,675,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-03-28,650,690,670,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-04-09,650,690,670,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-06-05,650,690,675,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-06-08,650,700,680,203
+Uttar Pradesh,Balrampur,Panchpedwa,Wood,Beete (Rose),FAQ,2018-09-15,650,700,675,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-01-31,650,700,680,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-03-04,680,695,690,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-09-12,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-09-14,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-10-15,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-10-16,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-10-22,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-11-20,700,750,730,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-11-22,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-12-17,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-12-20,700,750,725,203
+Uttar Pradesh,Balrampur,Tulsipur,Wood,Beete (Rose),FAQ,2018-12-22,700,750,725,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-01-01,165,210,180,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-01-08,175,225,190,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-01-11,165,220,190,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-01-24,190,265,240,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-01-31,190,255,220,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-02-04,215,275,245,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-02-07,205,245,225,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-02-09,220,265,240,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-02-16,230,280,250,203
+Uttar Pradesh,Bareilly,Bahedi,Wood,Other,FAQ,2018-02-21,225,280,260,203

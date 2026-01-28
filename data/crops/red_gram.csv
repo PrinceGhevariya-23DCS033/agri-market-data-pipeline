@@ -1,0 +1,2188 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-07-12,1835,1865,1850,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-07-13,1835,1865,1850,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-07-14,1835,1865,1850,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-07-15,1835,1865,1850,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-07-17,1835,1865,1850,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-07-28,1855,1880,1865,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-08-03,1865,1890,1875,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-08-07,1865,1890,1875,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-08-18,1880,1915,1895,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-08-24,1885,1920,1900,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-02,1885,1920,1900,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-04,1885,1920,1900,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-07,1910,1935,1920,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-08,1910,1940,1925,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-11,1930,1970,1950,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-12,1930,1970,1950,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-16,1960,1990,1975,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-19,1965,1995,1980,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-20,2030,2065,2050,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-25,2085,2110,2100,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-27,2135,2160,2150,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-09-30,2150,2200,2175,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-10-10,2150,2200,2175,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-10-24,2140,2165,2150,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-10-26,2140,2165,2150,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-10-27,2140,2165,2150,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-10-28,2140,2165,2150,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-10-30,2140,2165,2150,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-11-02,2130,2150,2140,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-11-15,2130,2150,2140,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-11-20,2110,2130,2120,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-11-28,2090,2110,2100,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-12-04,2090,2110,2100,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-12-05,2090,2110,2100,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-12-11,2090,2110,2100,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-12-21,2090,2110,2100,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-12-22,2090,2110,2100,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-12-28,2100,2125,2110,7
+Uttar Pradesh,Varanasi,Varanasi,Red Gram,Other,FAQ,2006-12-30,2090,2115,2100,7
+Uttar Pradesh,Sambhal,Chandausi,Red Gram,Other,FAQ,2006-03-16,2100,2200,2170.0,7
+Uttar Pradesh,Sambhal,Chandausi,Red Gram,Other,FAQ,2006-03-18,2100,2200,2165.0,7
+Uttar Pradesh,Sambhal,Chandausi,Red Gram,Other,FAQ,2006-04-05,2100,2200,2170.0,7
+Uttar Pradesh,Sambhal,Chandausi,Red Gram,Other,FAQ,2006-04-11,2115,2190,2180.0,7
+Uttar Pradesh,Sambhal,Chandausi,Red Gram,Other,FAQ,2006-04-13,2125,2200,2190.0,7
+Madhya Pradesh,Harda,Harda,Red Gram,Other,FAQ,2016-01-14,3300,3650,3450,7
+Madhya Pradesh,Harda,Khirakiya,Red Gram,Local,FAQ,2016-01-05,3950,4501,4290,7
+Madhya Pradesh,Harda,Khirakiya,Red Gram,Local,FAQ,2016-01-16,3300,4271,4121,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2016-01-15,3940,4220,4220,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2016-01-13,3700,4877,4375,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2016-01-16,3800,4850,4300,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2016-01-06,3800,4552,4050,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2016-01-16,4101,4350,4225,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Other,FAQ,2016-01-08,4000,4300,4261,7
+Madhya Pradesh,Neemuch,Manasa,Red Gram,Other,FAQ,2016-01-13,3666,4301,3983,7
+Madhya Pradesh,Neemuch,Neemuch,Red Gram,Other,FAQ,2016-01-13,3300,4761,4200,7
+Madhya Pradesh,Neemuch,Neemuch,Red Gram,Other,FAQ,2016-01-16,3600,4881,4200,7
+Madhya Pradesh,Panna,Ajaygarh,Red Gram,Other,FAQ,2016-01-08,4400,4610,4450,7
+Madhya Pradesh,Raisen,Begamganj,Red Gram,Desi(Whole),FAQ,2016-01-19,3800,4400,4100,7
+Madhya Pradesh,Raisen,Obedullaganj,Red Gram,Other,FAQ,2016-01-04,3514,4443,4443,7
+Madhya Pradesh,Raisen,Obedullaganj,Red Gram,Other,FAQ,2016-01-12,3300,4120,4120,7
+Madhya Pradesh,Raisen,Udaipura,Red Gram,Desi(Whole),FAQ,2016-01-05,4160,4500,4350,7
+Madhya Pradesh,Raisen,Udaipura,Red Gram,Desi(Whole),FAQ,2016-01-18,4000,4250,4100,7
+Madhya Pradesh,Rajgarh,Khujner,Red Gram,Other,FAQ,2016-01-02,4250,4290,4290,7
+Madhya Pradesh,Rajgarh,Khujner,Red Gram,Other,FAQ,2016-01-13,4050,4050,4050,7
+Madhya Pradesh,Ratlam,Sailana,Red Gram,Other,FAQ,2016-01-05,4100,4491,4295,7
+Madhya Pradesh,Ratlam,Sailana,Red Gram,Other,FAQ,2016-01-11,4105,4350,4227,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2016-01-02,3700,4470,4200,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2016-01-12,3800,4510,4275,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2016-01-15,3800,4400,4200,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2016-01-07,3950,3950,3950,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2016-01-08,3900,4100,4050,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2016-01-07,3201,4025,4015,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2016-01-05,4501,4501,4501,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2016-01-04,3990,3990,3990,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2016-01-16,4160,4160,4160,7
+Madhya Pradesh,Shivpuri,Khatora,Red Gram,Other,FAQ,2016-01-07,4260,4260,4260,7
+Madhya Pradesh,Tikamgarh,Niwadi,Red Gram,Other,FAQ,2016-01-08,3700,3800,3750,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2016-01-14,3750,3800,3800,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2016-01-16,3301,4150,3900,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2016-01-05,4180,4451,4280,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2016-01-13,3860,4270,4081,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2016-01-19,4051,4100,4100,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2016-01-05,3701,3900,3801,7
+Rajasthan,Dausa,Bandikui,Red Gram,Other,FAQ,2016-01-02,3325,4450,3887,7
+Rajasthan,Dausa,Bandikui,Red Gram,Other,FAQ,2016-01-09,3200,3200,3200,7
+Rajasthan,Kota,Kota,Red Gram,Other,FAQ,2016-01-04,3621,4199,3900,7
+Rajasthan,Pali,Sumerpur,Red Gram,(Whole),FAQ,2016-01-08,4225,4225,4225,7
+Rajasthan,Pali,Sumerpur,Red Gram,(Whole),FAQ,2016-01-12,3750,3750,3750,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2016-01-06,3550,4300,4250,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2016-01-12,4200,4300,4290,7
+Tamil Nadu,Vellore,Vellore,Red Gram,Other,FAQ,2016-01-08,3050,3050,3050,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-01-01,7650,8000,8000,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-01-04,7560,8000,8000,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-01-06,8600,8610,8610,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-01-13,9000,9100,9100,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-01-20,8900,8900,8900,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-01-28,8350,8350,8350,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-02-05,7250,7250,7250,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-02-13,7800,7800,7800,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-02-16,7800,7800,7800,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-02-19,8000,8000,8000,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2016-02-23,8000,8000,8000,7
+Telangana,Adilabad,Adilabad(Rythu Bazar),Red Gram,Other,Large,2016-02-03,13500,13500,13500,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-01-09,8900,8900,8900,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-01-18,9100,9100,9100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-01-23,8600,8600,8600,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-01-25,8450,8450,8450,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-01-26,8450,8450,8450,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-01-27,8450,8450,8450,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-02-02,8350,8350,8350,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-02-11,7500,7500,7500,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-02-16,7800,7800,7800,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-02-20,8000,8000,8000,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2016-03-06,8000,8000,8000,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2016-01-19,8500,8900,8900,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2016-01-29,8020,8450,8450,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2016-02-03,7200,7700,7700,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2016-02-06,7400,8040,7940,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2016-02-09,7500,8050,7800,7
+Telangana,Adilabad,Boath,Red Gram,Local,Medium,2016-01-06,8600,8600,8600,7
+Telangana,Adilabad,Boath,Red Gram,Local,Medium,2016-01-30,8450,8450,8450,7
+Telangana,Adilabad,Boath,Red Gram,Local,Medium,2016-02-01,8500,8500,8500,7
+Telangana,Adilabad,Jainath,Red Gram,F.A.Q. (Whole),Medium,2016-01-19,8900,8900,8900,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2016-01-20,8850,8850,8850,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2016-01-25,8450,8450,8450,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2016-01-28,8350,8350,8350,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2016-02-12,7700,7700,7700,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2016-02-13,7800,7800,7800,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2016-02-14,7800,7800,7800,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2016-02-20,8000,8000,8000,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-01-06,7600,8500,8250,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-01-15,8800,9200,9100,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-01-17,8800,9200,9100,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-01-19,8700,9100,8900,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-01-22,8500,8800,8600,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-01-24,8300,8600,8450,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-01-25,8300,8600,8450,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-02-01,8100,8800,8500,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-02-08,7300,7300,7300,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-02-12,7700,7700,7700,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-02-14,7800,7800,7800,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-02-19,7900,7900,7900,7
+Telangana,Adilabad,Jainoor,Red Gram,Local,Large,2016-02-21,8000,8000,8000,7
+Telangana,Adilabad,Mancharial,Red Gram,Desi(Whole),FAQ,2016-01-23,4625,4625,4625,7
+Telangana,Adilabad,Mancharial,Red Gram,Desi(Whole),FAQ,2016-01-27,4625,4625,4625,7
+Telangana,Adilabad,Mancharial,Red Gram,Desi(Whole),FAQ,2016-01-28,4625,4625,4625,7
+Telangana,Adilabad,Mancharial,Red Gram,Desi(Whole),FAQ,2016-02-04,4625,4625,4625,7
+Telangana,Adilabad,Mancharial,Red Gram,Desi(Whole),FAQ,2016-02-09,4625,4625,4625,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2016-01-12,7301,8499,8395,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2016-01-22,8291,8480,8350,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2016-02-09,6760,7260,7229,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2016-02-10,6991,7461,7461,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2016-02-27,5500,6600,6350,7
+Telangana,Karimnagar,Gollapally,Red Gram,Local,Medium,2016-02-02,7000,7000,7000,7
+Telangana,Karimnagar,Jagtial,Red Gram,Hybrid,Medium,2016-02-09,6100,6900,6500,7
+Telangana,Karimnagar,Karimnagar,Red Gram,Local,Medium,2016-01-02,7480,7480,7480,7
+Telangana,Karimnagar,Karimnagar,Red Gram,Local,Medium,2016-02-29,5800,6500,5900,7
+Telangana,Karimnagar,Karimnagar,Red Gram,Other,Medium,2016-01-28,7790,8110,8100,7
+Telangana,Karimnagar,Karimnagar,Red Gram,Other,Medium,2016-02-05,5000,6660,6500,7
+Telangana,Karimnagar,Karimnagar,Red Gram,Other,Medium,2016-03-03,6300,6310,6310,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-01-29,7900,8050,8025,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-02-02,7000,7100,7100,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-02-03,7050,7210,7100,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-02-04,7100,7315,7200,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-02-11,7701,7701,7701,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-02-15,7700,7700,7700,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-02-27,7691,7691,7691,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-03-03,7525,7525,7525,7
+Telangana,Khammam,Khammam,Red Gram,Local,FAQ,2016-03-04,7620,7620,7620,7
+Telangana,Mahbubnagar,Achampet,Red Gram,Local,Medium,2016-01-06,7913,8016,8003,7
+Telangana,Mahbubnagar,Achampet,Red Gram,Local,Medium,2016-01-11,8015,8237,8191,7
+Telangana,Mahbubnagar,Achampet,Red Gram,Local,Medium,2016-01-22,8000,8262,8233,7
+Telangana,Mahbubnagar,Achampet,Red Gram,Local,Medium,2016-01-27,8171,8249,8206,7
+Telangana,Mahbubnagar,Achampet,Red Gram,Local,Medium,2016-02-01,7319,7825,7502,7
+Telangana,Mahbubnagar,Achampet,Red Gram,Local,Medium,2016-02-09,6501,6933,6717,7
+Telangana,Mahbubnagar,Achampet,Red Gram,Local,Medium,2016-02-17,7100,7100,7100,7
+Telangana,Mahbubnagar,Amangal,Red Gram,Local,Medium,2016-01-30,8450,8450,8450,7
+Telangana,Mahbubnagar,Badepalli,Red Gram,Local,Medium,2016-01-07,7889,8639,8589,7
+Telangana,Mahbubnagar,Badepalli,Red Gram,Local,Medium,2016-01-11,7011,8699,8369,7
+Telangana,Mahbubnagar,Badepalli,Red Gram,Local,Medium,2016-01-18,7311,8670,8150,7
+Telangana,Mahbubnagar,Badepalli,Red Gram,Local,Medium,2016-01-28,7109,8319,8013,7
+Telangana,Mahbubnagar,Badepalli,Red Gram,Local,Medium,2016-02-24,7000,7177,7000,7
+Telangana,Mahbubnagar,Badepalli,Red Gram,Local,Medium,2016-03-02,6609,7459,7171,7
+Telangana,Mahbubnagar,Badepalli,Red Gram,Local,Medium,2016-03-04,7069,7144,7109,7
+Telangana,Mahbubnagar,Devarakadra,Red Gram,Desi(Whole),Medium,2016-01-12,8812,9317,9064,7
+Telangana,Mahbubnagar,Devarakadra,Red Gram,Local,Medium,2016-01-05,9059,9359,9214,7
+Telangana,Mahbubnagar,Devarakadra,Red Gram,Local,Medium,2016-02-04,5016,7659,6338,7
+Telangana,Mahbubnagar,Devarakadra,Red Gram,Local,Medium,2016-02-12,7159,7639,7399,7
+Telangana,Mahbubnagar,Devarakadra,Red Gram,Local,Medium,2016-02-13,7116,7429,7273,7
+Telangana,Mahbubnagar,Devarakadra,Red Gram,Local,Medium,2016-02-15,6400,7800,7100,7
+Telangana,Mahbubnagar,Gadwal,Red Gram,Local,Medium,2016-01-12,8966,9026,9004,7
+Telangana,Mahbubnagar,Gadwal,Red Gram,Local,Medium,2016-01-20,7819,8851,8801,7
+Telangana,Mahbubnagar,Gadwal,Red Gram,Local,Medium,2016-02-05,6609,7389,7189,7
+Telangana,Mahbubnagar,Gadwal,Red Gram,Local,Medium,2016-02-11,6501,7609,7559,7
+Telangana,Mahbubnagar,Gadwal,Red Gram,Local,Medium,2016-02-17,6603,7851,7511,7
+Telangana,Mahbubnagar,Gadwal,Red Gram,Local,Medium,2016-02-22,6686,7486,7309,7
+Telangana,Mahbubnagar,Gadwal,Red Gram,Local,Medium,2016-03-01,5003,7489,7269,7
+Telangana,Mahbubnagar,Kalwakurthy,Red Gram,Local,Medium,2016-02-04,6351,7050,6700,7
+Telangana,Mahbubnagar,Mahbubnagar,Red Gram,Local,FAQ,2016-01-11,8016,8390,8016,7
+Telangana,Mahbubnagar,Mahbubnagar(Nawabpet),Red Gram,Local,Medium,2016-01-03,7356,8610,7983,7
+Telangana,Mahbubnagar,Mahbubnagar(Nawabpet),Red Gram,Local,Medium,2016-01-31,7821,8061,7941,7
+Telangana,Mahbubnagar,Mahbubnagar(Nawabpet),Red Gram,Local,Medium,2016-02-07,7012,7670,7341,7
+Telangana,Mahbubnagar,Mahbubnagar(Nawabpet),Red Gram,Local,Medium,2016-02-14,7116,7216,7166,7
+Telangana,Mahbubnagar,Mahbubnagar(Nawabpet),Red Gram,Local,Medium,2016-03-06,7050,7070,7070,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-01-06,8669,8969,8869,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-01-07,8989,9028,9009,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-01-18,8000,8794,8789,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-01-21,7801,8439,8399,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-01-22,8306,8361,8326,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-01-28,7789,8176,8140,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-01-30,7621,8089,8081,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-02-04,7267,7581,7336,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-02-05,7289,7631,7507,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-02-11,7689,7728,7707,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-02-13,7689,7760,7725,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-02-23,6828,7000,6914,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-02-24,7031,7031,7031,7
+Telangana,Mahbubnagar,Nagarkurnool,Red Gram,Local,Medium,2016-03-04,7189,7189,7189,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-01-02,7073,9551,9200,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-01-18,7000,9576,9100,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-02,6809,8690,8300,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-10,6800,8656,8300,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-13,6509,8589,8000,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-15,7109,8529,8100,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-16,6769,8440,7800,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-22,6000,8089,7044,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-24,7002,8539,7900,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-02-25,7489,8349,7919,7
+Telangana,Mahbubnagar,Narayanpet,Red Gram,Local,Medium,2016-03-05,7339,8172,7600,7
+Telangana,Medak,Jogipet,Red Gram,Local,FAQ,2016-01-08,8700,8972,8836,7
+Telangana,Medak,Jogipet,Red Gram,Local,FAQ,2016-01-11,9200,9400,9300,7
+Telangana,Medak,Jogipet,Red Gram,Local,FAQ,2016-02-10,7600,7881,7740,7
+Telangana,Medak,Narsapur,Red Gram,Other,FAQ,2016-01-04,7500,8500,8000,7
+Telangana,Medak,Sadasivpet,Red Gram,Local,FAQ,2016-01-07,7825,8650,8237,7
+Telangana,Medak,Sadasivpet,Red Gram,Local,FAQ,2016-01-08,7600,8850,8300,7
+Telangana,Medak,Sadasivpet,Red Gram,Local,FAQ,2016-01-11,8000,8980,8490,7
+Telangana,Medak,Sadasivpet,Red Gram,Local,FAQ,2016-01-23,7600,8635,8355,7
+Telangana,Medak,Sadasivpet,Red Gram,Local,FAQ,2016-02-17,7275,7951,7760,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-01-07,8400,9226,8813,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-01-20,8120,8622,8526,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-02-03,6915,7430,7330,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-02-05,7080,7412,7321,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-02-11,7181,7611,7481,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-02-16,6701,7100,6901,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-02-17,6700,7000,6850,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-02-18,6800,7000,6900,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-02-22,6710,6850,6780,7
+Telangana,Medak,Siddipet,Red Gram,Local,FAQ,2016-03-02,6831,7091,6961,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-02,7000,9400,9100,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-08,8000,9365,9000,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-12,8200,9690,9300,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-14,9300,9300,9300,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-18,8100,9400,9300,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-19,8050,9150,9000,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-30,7700,8675,8600,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-01-31,8600,8600,8600,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-02-14,8300,8300,8300,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-03-03,7525,7525,7525,7
+Telangana,Medak,Zaheerabad,Red Gram,Local,Medium,2016-03-07,8190,8190,8190,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-01-06,7769,9359,9189,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-02-01,4183,8411,8411,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-02-02,5009,8051,8051,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-02-04,4149,7605,7600,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-02-17,5349,7911,7911,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-02-20,5319,7489,7289,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-02-26,4261,7909,7478,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-03-02,3973,7589,6894,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-03-04,6039,7776,7586,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-03-05,5389,7659,7396,7
+Telangana,Nalgonda,Suryapeta,Red Gram,Local,FAQ,2016-03-08,5656,7839,7740,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-01-08,7593,8909,8476,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-01-11,7189,8929,8832,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-01-18,7401,8933,8889,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-01-23,7529,8559,8321,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-02-01,6789,7559,7359,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-02-03,4209,7381,7159,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-02-11,7279,7829,7729,7
+Telangana,Nalgonda,Tirumalagiri,Red Gram,Desi(Whole),Medium,2016-03-04,6200,7568,7364,7
+Telangana,Nizamabad,Nizamabad,Red Gram,Hybrid,Medium,2016-01-13,7008,7777,7620,7
+Telangana,Nizamabad,Nizamabad,Red Gram,Hybrid,Medium,2016-02-15,6020,7340,6450,7
+Telangana,Nizamabad,Nizamabad,Red Gram,Hybrid,Medium,2016-02-19,5870,6622,6250,7
+Telangana,Nizamabad,Nizamabad,Red Gram,Hybrid,Medium,2016-02-26,6110,6570,6250,7
+Telangana,Nizamabad,Nizamabad,Red Gram,Local,Medium,2016-02-29,6220,6464,6400,7
+Telangana,Ranga Reddy,Marapally,Red Gram,(Whole),Medium,2016-02-02,7400,7900,7650,7
+Telangana,Ranga Reddy,Marapally,Red Gram,Local,Medium,2016-01-19,8500,9200,8850,7
+Telangana,Ranga Reddy,Pargi,Red Gram,Local,Medium,2016-02-06,7850,7850,7850,7
+Telangana,Ranga Reddy,Pargi,Red Gram,Local,Medium,2016-02-15,8000,8000,8000,7
+Telangana,Ranga Reddy,Pargi,Red Gram,Local,Medium,2016-02-26,8000,8010,8005,7
+Telangana,Ranga Reddy,Pargi,Red Gram,Local,Medium,2016-03-04,6200,7500,6850,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-01,8600,9250,9000,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-04,9000,9600,9300,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-12,9200,9850,9700,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-15,9100,9700,9600,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-22,8200,9000,8800,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-23,8200,9000,8800,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-25,8300,9150,9000,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-28,8300,9140,9000,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-01-29,8500,9000,8900,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-02-16,7600,8375,8250,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-02-17,7900,8300,8000,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-02-19,6800,7500,7300,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-02-24,7500,8200,8050,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-02-28,7500,8100,8000,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-03-05,7600,8180,8100,7
+Telangana,Ranga Reddy,Tanduru,Red Gram,Local,Medium,2016-03-06,7600,8180,8100,7
+Telangana,Ranga Reddy,Vikarabad,Red Gram,Local,Medium,2016-01-04,8000,9800,8900,7
+Telangana,Ranga Reddy,Vikarabad,Red Gram,Local,Medium,2016-01-15,9000,9700,9350,7
+Telangana,Ranga Reddy,Vikarabad,Red Gram,Local,Medium,2016-01-18,8500,9600,9300,7
+Telangana,Ranga Reddy,Vikarabad,Red Gram,Local,Medium,2016-01-23,7900,9000,8900,7
+Telangana,Ranga Reddy,Vikarabad,Red Gram,Local,Medium,2016-02-23,7000,7700,7350,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,FAQ,2016-01-04,6514,6733,6668,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,Medium,2016-01-06,8215,9291,9270,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,Medium,2016-01-16,8400,8802,8701,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,Medium,2016-01-26,7000,7899,7450,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,FAQ,2016-02-02,5300,6879,6700,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,FAQ,2016-02-03,5000,6720,6615,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,Medium,2016-02-18,6000,7400,7080,7
+Telangana,Warangal,Kesamudram,Red Gram,Local,Medium,2016-03-09,5000,7101,6636,7
+Telangana,Warangal,Kesamudram,Red Gram,Other,Medium,2016-02-08,5000,6720,6615,7
+Telangana,Warangal,Kesamudram,Red Gram,Other,Medium,2016-02-14,6000,7468,7300,7
+Telangana,Warangal,Kesamudram,Red Gram,Other,Medium,2016-02-22,5500,7150,6400,7
+Telangana,Warangal,Warangal,Red Gram,Local,FAQ,2016-01-28,8070,8070,8070,7
+Telangana,Warangal,Warangal,Red Gram,Local,FAQ,2016-02-11,6000,7540,7200,7
+Uttar Pradesh,Banda,Atarra,Red Gram,Other,FAQ,2016-01-06,8000,8200,8100,7
+Uttar Pradesh,Chitrakut,Karvi,Red Gram,Other,FAQ,2016-01-01,0,0,9045,7
+Uttar Pradesh,Chitrakut,Karvi,Red Gram,Other,FAQ,2016-01-04,0,0,9000,7
+Uttar Pradesh,Chitrakut,Karvi,Red Gram,Other,FAQ,2016-01-10,0,0,9030,7
+Uttar Pradesh,Hamirpur,Maudaha,Red Gram,Desi(Whole),FAQ,2016-01-01,0,0,7500,7
+Uttar Pradesh,Hamirpur,Maudaha,Red Gram,Desi(Whole),FAQ,2016-01-02,0,0,7500,7
+Uttar Pradesh,Hamirpur,Maudaha,Red Gram,Desi(Whole),FAQ,2016-01-15,0,0,7500,7
+Uttar Pradesh,Hamirpur,Maudaha,Red Gram,Desi(Whole),FAQ,2016-01-19,0,0,7500,7
+Uttar Pradesh,Prayagraj,Sirsa,Red Gram,Desi(Whole),FAQ,2016-01-07,0,0,6645,7
+Uttar Pradesh,Prayagraj,Sirsa,Red Gram,Desi(Whole),FAQ,2016-01-19,0,0,6500,7
+Uttar Pradesh,Raebarelli,Raibareilly,Red Gram,Other,FAQ,2016-01-04,5500,5600,5575,7
+Uttar Pradesh,Saharanpur,Saharanpur,Red Gram,Small (Whole),FAQ,2016-01-05,0,0,8080,7
+Uttar Pradesh,Saharanpur,Saharanpur,Red Gram,Small (Whole),FAQ,2016-01-11,0,0,8050,7
+Uttar Pradesh,Saharanpur,Saharanpur,Red Gram,Small (Whole),FAQ,2016-01-15,0,0,8050,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,(Whole),Medium,2016-02-09,6300,6500,6400,7
+Andhra Pradesh,Guntur,Narasaraopet,Red Gram,Local,FAQ,2016-02-04,6900,7000,6950,7
+Andhra Pradesh,Guntur,Narasaraopet,Red Gram,Local,FAQ,2016-02-06,6900,7000,6950,7
+Andhra Pradesh,Guntur,Narasaraopet,Red Gram,Local,FAQ,2016-02-08,6900,7000,6950,7
+Andhra Pradesh,Guntur,Narasaraopet,Red Gram,Local,FAQ,2016-02-09,6900,7000,6950,7
+Andhra Pradesh,Guntur,Narasaraopet,Red Gram,Local,FAQ,2016-02-19,6900,7000,6950,7
+Andhra Pradesh,Guntur,Narasaraopet,Red Gram,Local,FAQ,2016-02-22,6900,7000,6950,7
+Andhra Pradesh,Guntur,Narasaraopet,Red Gram,Local,FAQ,2016-03-05,6900,7000,6950,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-01-06,4700,4900,4800,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-01-12,4700,4900,4800,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-01-18,4700,4900,4800,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-01-22,4700,4900,4800,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-01-25,4700,4900,4800,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-02-08,4800,5000,4900,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-02-12,4800,5000,4900,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-02-13,4800,5000,4900,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-02-19,4800,5000,4900,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-02-22,4800,5000,4900,7
+Andhra Pradesh,Krishna,Tiruvuru,Red Gram,Desi(Whole),FAQ,2016-03-03,4800,5000,4900,7
+Andhra Pradesh,Kurnool,Adoni,Red Gram,(Whole),Medium,2016-01-29,7810,7810,7810,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-01-06,4000,4200,4100,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-01-16,3800,4000,3870,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-01-25,3500,4000,3950,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-01-27,8500,8700,8550,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-02-06,3500,4000,3580,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-02-10,7500,8000,7850,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-02-19,7200,8100,7500,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,Medium,2016-03-02,7600,8100,7800,7
+Andhra Pradesh,Kurnool,Dhone,Red Gram,Other,FAQ,2016-03-07,7500,8000,7850,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-01-06,7681,9859,9725,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-01-11,6681,9100,8772,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-01-14,6061,9369,8571,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-01-16,6061,9369,8571,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-01-26,6628,8756,8381,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-01,3096,7319,6712,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-10,3501,8333,7669,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-11,4308,8156,7864,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-13,5008,7696,7206,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-20,3208,7859,6953,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-21,3208,7859,6953,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-26,1208,8030,7563,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-02-27,6591,8030,7655,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2016-03-08,3463,7621,7074,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-01-02,9700,9800,9750,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-01-05,9900,10000,9950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-01-09,9100,9200,9150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-01-12,8900,9000,8950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-01-25,8700,8800,8750,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-02-08,8400,8500,8450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-02-09,8400,8500,8450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-02-12,8400,8500,8450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-02-18,7900,8000,7950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-02-20,7900,8000,7950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-02-23,7700,7800,7750,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-02-24,7700,7800,7750,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2016-03-02,7700,7800,7750,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2016-01-12,5666,8809,8227,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2016-01-19,8420,8639,8551,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2016-01-22,8090,8090,8090,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2016-02-07,5640,7022,6604,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2016-02-19,6369,6890,6517,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2016-02-28,6350,6700,6584,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2016-03-01,6400,6670,6537,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-01-04,7000,7050,7030,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-01-08,7000,7050,7020,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-01-10,7000,7050,7020,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-01-17,7000,7050,7030,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-01-19,7000,7050,7020,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-02,7050,7100,7070,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-05,6950,7000,6980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-07,6950,7000,6980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-10,6950,7000,6980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-16,6950,7000,6970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-17,6950,7000,6980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-19,6950,7000,6980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-24,6950,7000,6980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-02-27,7050,7100,7070,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-03-04,7050,7100,7080,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2016-03-05,7050,7100,7070,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-01-01,6600,6800,6650,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-01-08,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-01-10,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-01-17,6600,6800,6650,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-01-19,6600,6800,6650,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-01-20,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-01-25,6600,6800,6650,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-02-04,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-02-08,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-02-09,6600,6800,6650,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-02-11,6600,6800,6650,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-02-18,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-02-26,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-03-02,6600,6800,6650,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-03-03,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2016-03-05,6750,6950,6800,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-01-01,7800,8000,7900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-01-02,7800,8000,7900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-01-07,7800,8000,7900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-01-11,7800,8000,7900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-01-17,7800,8000,7900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-01-23,7800,8000,7900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-05,7000,7200,7100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-06,7800,8000,7900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-09,7000,7200,7100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-11,7000,7200,7100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-15,7000,7200,7100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-16,7000,7200,7100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-19,6700,6900,6800,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-22,6700,6900,6800,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-23,6700,6900,6800,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-02-29,6800,7000,6900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2016-03-02,6700,6900,6800,7
+Andhra Pradesh,Prakasam,Markapur,Red Gram,Local,Medium,2016-01-13,6700,6900,6800,7
+Andhra Pradesh,Prakasam,Markapur,Red Gram,Other,Medium,2016-02-22,6850,7000,6900,7
+Andhra Pradesh,Prakasam,Markapur,Red Gram,Other,Medium,2016-03-09,7000,7200,7100,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-01-04,9400,9500,9450,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-01-08,9000,9200,9030,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-01-15,9100,9200,9160,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-01-16,9100,9200,9160,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-01-17,9100,9200,9160,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-01-23,9000,9100,9050,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-01-28,9000,9100,9050,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-02,8500,8600,8530,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-08,7400,7500,7430,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-10,7420,7500,7480,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-14,7800,7900,7850,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-15,7800,7900,7870,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-17,7800,7900,7840,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-19,7800,7900,7860,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-21,7800,7900,7850,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-22,7860,7900,7880,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-02-23,7850,7900,7860,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-03-04,7700,7800,7740,7
+Andhra Pradesh,Prakasam,Ongole,Red Gram,(Whole),Medium,2016-03-05,7700,7800,7760,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-02,10300,10500,10400,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-03,10400,10600,10500,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-04,10300,10500,10400,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-10,10300,10500,10400,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-15,10400,10600,10500,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-16,10300,10500,10400,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-24,10400,10600,10500,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-25,10400,10600,10500,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-26,10300,10500,10400,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-01-30,10300,10500,10400,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-02-01,7100,7300,7200,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-02-18,6800,7000,6900,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-02-19,6900,7100,7000,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-03-04,7200,7400,7300,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-03-05,7300,7500,7400,7
+Andhra Pradesh,Prakasam,Podili,Red Gram,(Whole),Medium,2016-03-07,7300,7500,7400,7
+Andhra Pradesh,Srikakulam,Palakonda,Red Gram,(Whole),Medium,2016-01-13,4625,4700,4650,7
+Andhra Pradesh,West Godavari,Polavaram,Red Gram,Local,Medium,2016-01-02,8000,10600,9500,7
+Andhra Pradesh,West Godavari,Polavaram,Red Gram,Local,Medium,2016-01-23,7000,10600,8500,7
+Andhra Pradesh,West Godavari,Polavaram,Red Gram,Local,Medium,2016-02-06,6600,10500,8000,7
+Assam,Dhubri,Gauripur,Red Gram,Other,FAQ,2016-01-06,9600,9850,9800,7
+Assam,Sonitpur,Dhekiajuli,Red Gram,Other,FAQ,2016-01-02,9600,9800,9800,7
+Assam,Sonitpur,Dhekiajuli,Red Gram,Other,FAQ,2016-01-06,9600,9800,9800,7
+Assam,Sonitpur,Dhekiajuli,Red Gram,Other,FAQ,2016-01-08,9600,9800,9800,7
+Chattisgarh,Balodabazar,Bhatapara,Red Gram,Desi(Whole),FAQ,2016-01-15,4100,4545,4350,7
+Chattisgarh,Mungeli,Munguli,Red Gram,Other,FAQ,2016-01-12,3900,4520,4000,7
+Chattisgarh,Mungeli,Munguli,Red Gram,Other,FAQ,2016-01-15,3910,4551,4060,7
+Chattisgarh,Mungeli,Munguli,Red Gram,Other,FAQ,2016-01-16,3500,4440,3500,7
+Chattisgarh,Rajnandgaon,Rajnandgaon,Red Gram,Desi(Whole),FAQ,2016-01-04,3900,4300,4125,7
+Chattisgarh,Rajnandgaon,Rajnandgaon,Red Gram,Desi(Whole),FAQ,2016-01-18,3900,4661,4500,7
+Gujarat,Banaskanth,Palanpur,Red Gram,Other,FAQ,2016-01-02,2950,3000,2975,7
+Gujarat,Bhavnagar,Bhavnagar,Red Gram,Other,FAQ,2016-01-05,4400,4400,4400,7
+Gujarat,Bhavnagar,Palitana,Red Gram,Other,FAQ,2016-01-04,4000,6000,5000,7
+Gujarat,Junagarh,Bhesan,Red Gram,Other,FAQ,2016-01-15,3570,4760,4165,7
+Gujarat,Rajkot,Gondal,Red Gram,Desi(Whole),FAQ,2016-01-08,3155,5665,4780,7
+Gujarat,Rajkot,Gondal,Red Gram,Desi(Whole),FAQ,2016-01-09,3780,5280,4605,7
+Gujarat,Rajkot,Gondal,Red Gram,Desi(Whole),FAQ,2016-01-18,4000,7880,4680,7
+Gujarat,Sabarkantha,Himatnagar,Red Gram,Other,FAQ,2016-01-13,4200,4400,4300,7
+Jharkhand,Dhanbad,Dhanbad,Red Gram,Other,FAQ,2016-01-05,5800,6200,6130,7
+Jharkhand,Dhanbad,Dhanbad,Red Gram,Other,FAQ,2016-01-10,5800,6200,6080,7
+Jharkhand,Dumka,Dumka,Red Gram,Other,FAQ,2016-01-07,2750,2850,2800,7
+Jharkhand,Dumka,Dumka,Red Gram,Other,FAQ,2016-01-09,2750,2850,2800,7
+Jharkhand,Dumka,Dumka,Red Gram,Other,FAQ,2016-01-18,2750,2850,2800,7
+Jharkhand,Latehar,Latehar,Red Gram,Other,FAQ,2016-01-05,5700,5900,5800,7
+Jharkhand,Latehar,Latehar,Red Gram,Other,FAQ,2016-01-16,5700,5900,5800,7
+Karnataka,Raichur,Lingasugur,Red Gram,(Whole),FAQ,2016-01-20,4500,4850,4705,7
+Kerala,Alappuzha,Chengannur,Red Gram,Other,FAQ,2016-01-19,6000,6500,6200,7
+Madhya Pradesh,Ashoknagar,Ashoknagar,Red Gram,Other,FAQ,2016-01-06,3550,4640,4200,7
+Madhya Pradesh,Ashoknagar,Shadora,Red Gram,Other,FAQ,2016-01-09,4250,4250,4250,7
+Madhya Pradesh,Betul,Betul,Red Gram,Local,FAQ,2016-01-06,3801,4176,4000,7
+Madhya Pradesh,Betul,Betul,Red Gram,Local,FAQ,2016-01-07,3300,4101,3900,7
+Madhya Pradesh,Betul,Multai,Red Gram,Other,FAQ,2016-01-18,3600,3600,3600,7
+Madhya Pradesh,Bhopal,Berasia,Red Gram,Other,FAQ,2016-01-04,3975,4446,4373,7
+Madhya Pradesh,Bhopal,Bhopal,Red Gram,Other,FAQ,2016-01-05,4111,4621,4504,7
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),Red Gram,Desi(Whole),FAQ,2016-01-12,3920,3920,3920,7
+Madhya Pradesh,Chhindwara,Chaurai,Red Gram,Other,FAQ,2016-01-03,3901,3901,3901,7
+Madhya Pradesh,Chhindwara,Chaurai,Red Gram,Other,FAQ,2016-01-18,3800,3955,3900,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2016-01-04,2901,4675,3788,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2016-01-14,3900,4100,4000,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Other,FAQ,2016-01-05,3750,4100,3900,7
+Madhya Pradesh,Dewas,Sonkatch,Red Gram,Desi(Whole),FAQ,2016-01-08,4100,4270,4150,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2016-01-07,4000,4386,4105,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Desi(Whole),FAQ,2016-01-02,4000,4100,4050,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Desi(Whole),FAQ,2016-01-13,4300,4475,4400,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-04-27,1001,3941,3720,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-04-30,1819,4015,3836,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-02,2001,3909,3720,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-04,2863,3925,3706,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-05,2863,3866,3623,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-08,1280,3826,3590,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-12,1510,3921,3735,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-17,3025,3986,3866,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-20,1600,4019,3989,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-21,3616,4051,3960,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-22,2590,4060,3980,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-05-30,2100,3936,3895,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-06-11,2950,3389,3289,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-07-01,2006,3475,3215,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-07-06,2006,3475,3215,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-07-09,2300,3450,3375,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-07-11,2089,2089,2089,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-07-21,3460,3750,3690,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-07-23,2960,3849,3590,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-07-24,3470,3916,3706,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-08-19,3060,3060,3060,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-08-27,3889,3889,3889,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-09-05,3230,3230,3230,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-09-08,3060,3509,3509,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-09-15,3160,3160,3160,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-09-19,2809,2809,2809,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-09-23,3360,3360,3360,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-09-29,3020,3110,3020,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-10-17,3360,3360,3360,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-10-28,3430,3430,3430,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-12-20,4109,4109,4109,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-12-21,4109,4109,4109,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-12-28,2669,4239,3929,7
+Andhra Pradesh,Kurnool,Kurnool,Red Gram,Local,Medium,2014-12-30,3512,4711,4550,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-01-09,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-01-17,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-01-18,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-01-22,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-02-02,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-02-12,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-02-23,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-01,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-08,4200,4300,4250,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-10,4200,4300,4250,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-12,4200,4300,4250,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-14,3700,3800,3750,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-18,3700,3800,3750,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-21,3000,3100,3050,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-24,2500,2600,2550,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-03-25,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-07,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-08,3000,3100,3050,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-09,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-10,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-11,4200,4300,4250,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-13,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-14,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-20,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-22,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-26,3600,4000,3849,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-04-27,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-05-05,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-05-09,2900,3000,2950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-05-15,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-05-30,3000,3100,3050,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-06-16,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-06-17,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-06-20,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-06-23,3900,4000,3950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-06-24,4100,4200,4150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-06-28,4100,4200,4150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-07-02,4100,4200,4150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-07-04,4100,4200,4150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-07-16,4200,4300,4250,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-07-22,4100,4200,4150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-08-01,4100,4200,4150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-08-08,4400,4500,4450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-08-09,4100,4200,4150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-09-05,4900,5000,4950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-09-28,4900,5000,4950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-10-02,5200,5300,5250,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-10-11,4900,5000,4950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-10-15,4900,5000,4950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-10-30,4900,5000,4950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-11-04,4900,5000,4950,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-11-18,5250,5350,5300,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-11-19,2850,2950,2900,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-11-23,5200,5300,5250,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-12-04,5100,5200,5150,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-12-11,5400,5500,5450,7
+Andhra Pradesh,Kurnool,Nandyal,Red Gram,Desi(Whole),Medium,2014-12-24,5400,5500,5450,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-01-08,2609,2609,2609,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-02-06,3010,3600,3500,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-02-16,2700,3611,3000,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-02-18,3350,3610,3601,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-03-03,2910,3530,2910,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-03-09,2810,3689,3011,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-03-10,3421,3582,3560,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-03-16,3067,3744,3480,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-03-28,3600,3700,3650,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-04-06,2980,3700,3411,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-04-13,2991,3671,3500,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-04-23,3301,3541,3541,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-04-25,3090,3650,3350,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-05-05,3550,3550,3550,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-05-23,3650,3650,3650,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-05-25,3061,3682,3560,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-12-23,3909,3909,3909,7
+Andhra Pradesh,Kurnool,Yemmiganur,Red Gram,Local,Medium,2014-12-28,2002,4509,4051,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-01-01,4200,4250,4230,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-01-05,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-01-06,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-01-08,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-01-22,4000,4100,4050,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-01-30,4150,4200,4170,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-01-31,4150,4200,4180,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-01,4200,4300,4250,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-04,4250,4300,4270,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-08,4250,4300,4270,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-13,4200,4300,4250,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-16,4200,4300,4250,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-18,4250,4300,4270,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-22,4250,4300,4280,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-02-27,4250,4300,4270,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-03-03,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-03-05,3850,3900,3870,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-03-06,3800,3900,3850,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-03-11,3800,3850,3830,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-03-20,3800,3850,3830,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-04-09,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-04-12,3950,4000,3970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-04-17,3950,4000,3970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-04-26,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-05-03,3950,4000,3980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-05-08,3950,4000,3980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-05-11,3950,4000,3980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-05-13,4000,4100,4050,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-05-23,4000,4100,4050,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-05-29,4050,4100,4080,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-06-21,4050,4100,4070,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-06-26,4100,4150,4120,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-06-30,4150,4200,4170,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-07-03,4150,4200,4180,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-07-10,4200,4300,4250,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-08-18,4400,4500,4450,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-08-26,4650,4700,4670,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-08-30,4900,5000,4950,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-03,5050,5100,5080,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-04,4950,5000,4970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-05,5000,5050,5020,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-10,4950,5000,4980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-11,4900,4950,4920,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-14,4950,5000,4970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-15,4950,5000,4970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-22,4900,4950,4920,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-23,4900,4950,4930,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-09-28,4900,5000,4950,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-10-03,4950,5000,4970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-10-04,4950,5000,4970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-10-10,4950,5000,4970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-10-21,4950,5000,4970,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-10-24,4950,5000,4980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-10-29,4950,5000,4980,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-05,5250,5300,5270,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-07,5150,5200,5180,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-08,5150,5200,5170,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-09,5150,5200,5170,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-11,5150,5200,5180,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-13,5150,5200,5180,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-17,5150,5200,5170,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-23,5250,5300,5280,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-11-30,5100,5150,5120,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-12-11,5150,5200,5180,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-12-12,5200,5250,5220,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-12-15,5250,5300,5270,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-12-18,5250,5300,5270,7
+Andhra Pradesh,Prakasam,Addanki,Red Gram,Local,Medium,2014-12-26,5250,5300,5280,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-01,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-05,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-06,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-10,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-11,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-12,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-14,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-17,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-30,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-01-31,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-02-02,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-02-03,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-02-05,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-02-18,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-03-06,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-03-13,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-03-14,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-03-24,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-03-25,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-03-27,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-03-28,3950,4150,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-05,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-06,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-13,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-14,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-15,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-16,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-21,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-24,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-04-25,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-02,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-08,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-11,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-19,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-20,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-22,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-23,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-05-25,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-06-11,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-06-13,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-06-23,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-07-03,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-07-11,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-07-17,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-07-20,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-07-22,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-07-28,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-07-29,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-03,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-04,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-06,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-09,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-12,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-15,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-21,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-27,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-08-29,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-09-03,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-09-05,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-09-06,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-09-16,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-09-18,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-09-22,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-10-12,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-10-13,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-10-15,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-10-25,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-10-28,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-10-29,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-11-01,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-11-14,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-11-16,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-12-19,3950,4200,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-12-22,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-12-26,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Darsi,Red Gram,Local,Medium,2014-12-28,4000,4250,4100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-01-09,4120,4150,4130,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-01-16,4000,4100,4050,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-01-19,4100,4130,4120,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-01-22,4000,4100,4050,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-01-28,4050,4100,4080,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-01-29,4030,4100,4050,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-01-30,4030,4100,4050,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-02-01,4100,4150,4130,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-02-02,4050,4150,4100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-02-05,4030,4100,4050,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-02-06,4000,4100,4050,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-02-13,4050,4100,4080,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-02-20,3850,3950,3900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-02-26,3850,4000,3900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-02,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-04,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-09,3900,3950,3930,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-10,3900,3950,3930,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-16,3940,3980,3960,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-21,3950,3980,3970,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-27,3850,4000,3900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-03-29,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-04-02,3850,3900,3880,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-04-05,3900,3980,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-04-12,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-04-15,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-04-17,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-04-27,3850,4000,3900,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-05-01,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-05-08,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-05-10,3900,3950,3930,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-05-18,3900,4000,3950,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-05-24,4000,4100,4050,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-06-05,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-06-16,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-06-22,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-06-25,4050,4150,4100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-06-27,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-02,4000,4200,4100,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-06,4150,4250,4200,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-11,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-14,4150,4250,4200,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-16,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-19,4150,4250,4200,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-20,4150,4250,4200,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-25,4150,4250,4200,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-30,4100,4200,4150,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-07-31,4150,4250,4200,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-08-07,4200,4300,4250,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-08-19,4300,4400,4350,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-08-23,4200,4400,4300,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-01,4300,4400,4350,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-11,4300,4400,4350,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-13,4300,4400,4350,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-14,4300,4400,4350,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-15,4300,4400,4350,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-19,4320,4380,4350,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-20,4320,4360,4340,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-09-29,4350,4410,4380,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-03,4360,4400,4380,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-05,4350,4450,4400,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-06,4350,4450,4400,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-14,4400,4500,4450,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-17,4350,4450,4400,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-21,4400,4500,4450,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-24,4450,4550,4500,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-10-30,4400,4500,4450,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-11-01,4450,4550,4500,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-11-12,4460,4540,4500,7
+Andhra Pradesh,Prakasam,Kanigiri,Red Gram,(Whole),Medium,2014-11-23,4450,4550,4500,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-04-03,2496,2931,2714,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-04-09,2516,2516,2516,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-04-16,2006,2670,2338,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-04-25,2300,2631,2466,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-05-08,1900,2525,2212,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-05-09,2312,2525,2418,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-05-15,1700,2551,2126,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-06-05,1800,2388,2094,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-06-13,1900,2275,2088,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-06-16,1918,2380,2149,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-06-24,1920,2390,2155,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-07-10,1900,2335,2118,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-07-26,2099,2421,2246,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-07-28,1771,2383,2077,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-08-02,2100,2341,2220,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-08-04,1801,2500,2161,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-08-22,1900,2530,2215,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-08-23,1890,2475,2183,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-09-11,2410,2460,2435,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-10-07,2250,2471,2361,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-10-30,2110,2902,2478,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-11-03,1903,2640,2272,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-11-14,1976,2532,2254,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-11-15,1875,2887,2381,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-11-22,1800,2650,2225,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-12-13,1951,2785,2368,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-12-16,1800,2611,2200,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-12-19,2450,2601,2601,7
+Madhya Pradesh,Chhindwara,Chhindwara,Red Gram,Other,FAQ,2014-12-24,2101,2816,2459,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Local,FAQ,2014-07-24,2205,2205,2205,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Local,FAQ,2014-10-29,2400,2405,2402,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Local,FAQ,2014-11-21,2410,2410,2410,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Local,FAQ,2014-12-19,2500,2500,2500,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Local,FAQ,2014-12-25,2600,2700,2650,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Local,FAQ,2014-12-31,2625,2625,2625,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Other,FAQ,2014-02-24,2400,2400,2400,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Other,FAQ,2014-04-30,2400,2450,2425,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Other,FAQ,2014-05-13,2350,2350,2350,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Other,FAQ,2014-06-05,2000,2000,2000,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Other,FAQ,2014-06-11,2200,2200,2200,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Other,FAQ,2014-08-07,2405,2405,2405,7
+Madhya Pradesh,Chhindwara,Pandhurna,Red Gram,Other,FAQ,2014-08-09,2405,2410,2410,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-07-20,2200,2400,2300,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-07-21,2100,2400,2300,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-07-28,2000,2100,2050,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-08-30,1900,2000,1950,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-09-21,2300,2500,2400,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-10-26,1800,1900,1850,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-12-24,2400,2500,2450,7
+Madhya Pradesh,Damoh,Hata,Red Gram,Other,FAQ,2014-12-31,3050,3150,3100,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-07-13,2000,2200,2100,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-07-16,2100,2300,2200,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-07-30,2300,2400,2350,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-07-31,2300,2500,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-08-09,2300,2500,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-08-18,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-08-25,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-08-29,2500,2600,2550,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-09-19,2500,2600,2550,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-09-22,2500,2600,2550,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-10-02,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-10-06,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-10-27,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-10-28,2350,2450,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-11-01,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-11-02,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-11-08,2400,2600,2550,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-11-26,2400,2500,2450,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-11-27,2400,2500,2450,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-11-28,2400,2500,2450,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-12-02,2300,2500,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-12-15,2300,2500,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-12-21,2300,2500,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-12-23,2600,2700,2650,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Desi(Whole),FAQ,2014-12-24,2600,2800,2700,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-01-04,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-01-27,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-02-01,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-02-21,2300,2500,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-02-24,2300,2500,2425,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-02,2600,2700,2650,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-04,2550,2650,2600,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-06,2550,2650,2600,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-12,2700,2800,2780,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-15,2700,2800,2750,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-20,2750,2850,2800,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-23,2750,2850,2800,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-03-29,2750,2850,2800,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-04-10,2600,2700,2650,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-04-11,2600,2700,2650,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-04-15,2500,2700,2600,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-04-24,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-05-02,2500,2700,2600,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-05-03,2400,2600,2500,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-05-19,2300,2500,2400,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-05-29,2200,2300,2250,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-06-10,2200,2400,2300,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-06-16,2200,2400,2300,7
+Madhya Pradesh,Damoh,Javera,Red Gram,Other,FAQ,2014-07-16,2100,2300,2200,7
+Madhya Pradesh,Datia,Bhander,Red Gram,Desi(Whole),FAQ,2014-08-22,2490,2490,2490,7
+Madhya Pradesh,Datia,Bhander,Red Gram,Desi(Whole),FAQ,2014-09-20,2555,2555,2555,7
+Madhya Pradesh,Datia,Bhander,Red Gram,Desi(Whole),FAQ,2014-10-15,2200,2440,2200,7
+Madhya Pradesh,Datia,Bhander,Red Gram,Desi(Whole),FAQ,2014-10-29,2250,2300,2250,7
+Madhya Pradesh,Datia,Bhander,Red Gram,Desi(Whole),FAQ,2014-12-26,2830,2925,2830,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-07-24,2470,2500,2480,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-07-31,2400,2400,2400,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-08-27,2450,2557,2525,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-09-09,2340,2516,2450,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-09-12,2532,2532,2532,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-09-20,2551,2551,2551,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-09-22,2347,2391,2370,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-09-26,2525,2525,2525,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-10-09,2300,2359,2325,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-10-18,2200,2310,2260,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-10-30,2300,2300,2300,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-11-08,2400,2400,2400,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-11-14,2461,2630,2550,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-12-05,2525,2525,2525,7
+Madhya Pradesh,Datia,Datia,Red Gram,Desi(Whole),FAQ,2014-12-30,3050,3150,3100,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-01-02,2490,2644,2575,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-01-08,2441,2504,2475,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-01-17,2555,2655,2600,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-01-20,2546,2640,2600,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-01-28,2649,2707,2675,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-02-06,2513,2547,2525,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-02-07,2490,2490,2490,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-02-12,2530,2605,2560,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-02-17,2630,2650,2640,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-02-19,2606,2606,2606,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-02-25,2471,2627,2550,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-03-07,2841,2919,2875,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-03-13,3030,3030,3030,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-03-29,2850,2850,2850,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-04-10,2741,2902,2850,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-05-02,2450,2611,2575,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-05-23,2301,2431,2400,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-05-27,2300,2411,2375,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-06-03,2351,2581,2500,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-06-05,2325,2431,2400,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-06-13,2330,2411,2375,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-06-16,2300,2481,2425,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-06-17,2322,2500,2425,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-06-21,2250,2301,2275,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-06-27,2100,2271,2225,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-07-03,2300,2525,2450,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-07-08,2050,2101,2100,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-07-09,2261,2371,2325,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-07-21,2630,2630,2630,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-11-11,2512,2651,2575,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-11-24,2400,2636,2550,7
+Madhya Pradesh,Datia,Datia,Red Gram,Other,FAQ,2014-12-08,2450,2450,2450,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-01-13,4040,4040,4040,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-03-05,3001,3001,3001,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-03-08,1900,4100,3000,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-04-04,2601,3010,2800,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-05-05,2830,4191,3500,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-05-19,1200,3000,2600,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-05-30,2201,2201,2201,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-06-09,2410,2410,2410,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-06-17,2801,2801,2801,7
+Madhya Pradesh,Dewas,Dewas,Red Gram,Other,FAQ,2014-06-20,2000,2351,2200,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-08-22,2305,2400,2340,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-09-13,2470,2470,2470,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-09-18,2500,2560,2525,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-11-19,2300,2550,2430,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-11-24,2150,2300,2200,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-11-27,2250,2500,2400,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-12-06,2100,2310,2250,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-12-10,2250,2650,2575,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Local,FAQ,2014-12-23,2690,2690,2690,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Other,FAQ,2014-07-23,2350,2425,2400,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Other,FAQ,2014-08-02,2055,2500,2200,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Other,FAQ,2014-08-21,2450,2660,2570,7
+Madhya Pradesh,Dewas,Kannod,Red Gram,Other,FAQ,2014-12-29,2550,2950,2850,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-07-16,2100,2500,2300,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-07-19,2100,3150,2652,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-08-05,2190,3150,2540,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-08-07,2040,3090,2680,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-08-16,2150,3100,2750,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-08-19,2100,3020,2601,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-08-21,2100,3010,2601,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-08-30,2100,3012,2650,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-09-11,2120,2890,2650,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-09-16,2120,3010,2652,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-09-19,2100,2952,2652,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-09-20,2100,3016,2752,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-09-25,2111,2914,2650,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Local,FAQ,2014-09-30,2120,2650,2402,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Other,FAQ,2014-09-16,2235,2941,2452,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Other,FAQ,2014-09-26,2250,2821,2624,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Other,FAQ,2014-09-27,2140,2680,2350,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Other,FAQ,2014-10-01,2231,2652,2541,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Other,FAQ,2014-10-18,1825,2641,2452,7
+Madhya Pradesh,Dewas,Khategaon,Red Gram,Other,FAQ,2014-10-31,2450,2450,2450,7
+Madhya Pradesh,Dewas,Loharda,Red Gram,Other,FAQ,2014-03-12,2614,2800,2700,7
+Madhya Pradesh,Dindori,Dindori,Red Gram,Local,FAQ,2014-10-15,2050,2250,2150,7
+Madhya Pradesh,Dindori,Dindori,Red Gram,Local,FAQ,2014-10-20,2100,2200,2150,7
+Madhya Pradesh,Dindori,Gorakhpur,Red Gram,Other,FAQ,2014-08-01,1800,1900,1900,7
+Madhya Pradesh,Dindori,Gorakhpur,Red Gram,Other,FAQ,2014-08-13,1900,2100,2000,7
+Madhya Pradesh,Dindori,Gorakhpur,Red Gram,Other,FAQ,2014-09-19,2000,2100,2050,7
+Madhya Pradesh,Dindori,Gorakhpur,Red Gram,Other,FAQ,2014-09-28,2000,2100,2050,7
+Madhya Pradesh,Dindori,Gorakhpur,Red Gram,Other,FAQ,2014-12-30,1900,2100,2000,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-01-20,2200,2718,2400,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-01-21,2130,2724,2510,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-01-23,2500,2736,2597,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-02-05,2135,2555,2320,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-02-12,2055,2615,2490,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-02-19,2450,2640,2550,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-02-22,2300,2665,2500,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-03-03,2801,3055,2900,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-03-04,2650,2915,2820,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-03-07,2400,2750,2615,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-03-15,2570,2850,2681,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-03-25,2180,2791,2550,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-04-03,2591,2876,2700,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-04-24,2050,2850,2500,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-05-15,1875,2875,2435,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-05-20,1935,2711,2455,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-05-21,1900,2605,2350,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-05-27,1890,2555,2250,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-05-29,1870,2777,2350,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-06-04,1890,2500,2303,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-06-05,1881,2590,2300,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-06-07,1505,2855,2200,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-06-09,1780,2700,1900,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-06-10,1850,2435,2020,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-07-01,2200,2957,2400,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-07-08,2050,2450,2175,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-07-09,1885,2450,2203,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-07-16,1900,2950,2400,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-07-17,2000,2695,2323,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-08-21,2290,2858,2480,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-08-25,2100,2506,2400,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-09-10,2380,2533,2400,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-09-12,2100,2845,2450,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-09-22,2125,2770,2315,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-09-23,1800,2386,2056,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-10-07,2181,2275,2266,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-10-08,2100,2390,2250,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-10-10,1960,2425,2350,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-10-11,2105,2405,2230,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-10-13,2125,2450,2285,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-10-29,2105,2600,2315,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-11-22,2100,2705,2300,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-12-16,2100,2621,2500,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-12-22,2555,2942,2701,7
+Madhya Pradesh,Guna,Aron,Red Gram,Other,FAQ,2014-12-23,2500,2828,2675,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-01-09,2400,2580,2540,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-01-17,2400,2640,2500,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-01-29,2100,2485,2320,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-02-01,2200,2400,2300,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-02-08,2140,2395,2280,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-02-09,2080,2445,2215,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-02-10,2350,2440,2380,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-02-12,2450,2475,2460,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-02-13,2450,2660,2520,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-02-20,2200,2495,2390,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-03-05,2345,2760,2630,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-03-20,2115,2780,2620,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-03-24,2285,2770,2600,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-04-02,2570,3110,2780,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-04-28,2400,2700,2575,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-05-10,2200,2710,2480,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-05-12,2235,2690,2480,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-05-14,2200,2900,2545,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-06-06,2100,2500,2340,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-06-11,2185,2400,2250,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-06-13,2190,2600,2325,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-06-14,2100,2445,2235,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-06-18,2020,2890,2345,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-06-21,2250,2800,2420,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-06-29,2575,2695,2590,7
+Madhya Pradesh,Guna,Kumbhraj,Red Gram,Other,FAQ,2014-07-13,2350,2535,2440,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-09-10,2340,2340,2340,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-09-13,2400,2400,2400,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-09-17,2400,2400,2400,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-09-26,2325,2325,2325,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-10-16,2300,2300,2300,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-10-17,2300,2300,2300,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-11-12,2400,2400,2400,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-11-13,2300,2300,2300,7
+Madhya Pradesh,Guna,Maksudangarh,Red Gram,Other,FAQ,2014-11-17,2400,2400,2400,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-03-26,4100,4100,4100,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-03-30,4150,4610,4150,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-04-24,4245,4400,4350,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-05-03,3810,5125,4250,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-05-09,3700,4750,3700,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-05-12,3650,3800,3700,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-05-15,3870,3870,3870,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-05-17,4427,4650,4427,7
+Madhya Pradesh,Gwalior,Lashkar,Red Gram,Other,FAQ,2014-05-28,4050,4450,4050,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-03-27,2341,2800,2712,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-03-28,2240,2834,2680,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-04-02,2200,2800,2550,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-04-05,2200,3000,2758,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-04-17,2399,3100,2599,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-04-22,2291,3100,2525,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-04-23,2051,3100,2580,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-05-08,1371,1550,1550,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-05-17,2330,3100,2402,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-05-22,2190,3100,2300,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-05-26,1926,3100,2301,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-05-30,1901,2350,2300,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-06-02,2200,2300,2201,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-06-10,1800,2601,2151,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-07-03,2060,2340,2201,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-07-04,1781,2401,2124,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-07-09,1873,2371,2168,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-07-12,2242,2318,2260,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-07-30,1951,2231,2125,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-08-02,1901,2211,2200,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-09-15,2376,2376,2376,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-09-22,2310,2353,2353,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-10-01,2525,2551,2551,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-10-13,2389,2389,2389,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-10-20,2001,2261,2261,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-10-27,2300,2455,2351,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-11-01,2411,2411,2411,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-11-11,1900,2401,2400,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-11-14,2000,2332,2176,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-12-03,1801,2100,1850,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-12-08,2201,2450,2351,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-12-09,1850,2361,2152,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-12-11,1750,2450,1961,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-12-12,1901,2399,2245,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-12-15,2250,2450,2399,7
+Madhya Pradesh,Hoshangabad,Banapura,Red Gram,Other,FAQ,2014-12-24,2651,3051,2751,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-01-13,2150,2250,2250,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-02-20,2511,2511,2511,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-03-18,2600,2631,2600,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-03-19,2501,2776,2525,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-03-22,2532,2680,2650,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-03-24,2570,2852,2681,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-03-26,2399,2800,2712,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-04-04,2576,2800,2740,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-04-07,2470,2677,2550,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-04-16,2150,2628,2628,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-04-17,2011,2725,2491,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-04-28,2201,2615,2540,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-05-05,2000,2615,2480,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-05-06,2355,2551,2520,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-05-15,2226,2520,2520,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-05-24,1416,2401,2401,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-06-02,2225,2326,2301,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-06-04,1900,2362,2362,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-06-21,2041,2041,2041,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-06-23,1700,2000,2000,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-06-24,1801,2200,2170,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-06-28,2000,2211,2150,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-07-02,1800,2191,2065,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-07-04,2100,2300,2300,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-07-08,2000,2300,2300,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-08-02,2400,2400,2400,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-08-23,2360,2360,2360,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-10-15,2201,2490,2201,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-10-18,2003,2003,2003,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-10-29,2401,2401,2401,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-11-01,2253,2500,2253,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-11-11,2350,2350,2350,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-11-27,2200,2390,2200,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-12-01,2050,2050,2050,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-12-11,2000,2560,2560,7
+Madhya Pradesh,Hoshangabad,Bankhedi,Red Gram,Other,FAQ,2014-12-16,2000,2000,2000,7
+Madhya Pradesh,Hoshangabad,Hoshangabad,Red Gram,Desi(Whole),FAQ,2014-04-29,3100,3100,3100,7
+Madhya Pradesh,Hoshangabad,Hoshangabad,Red Gram,Desi(Whole),FAQ,2014-05-06,3100,3100,3100,7
+Madhya Pradesh,Hoshangabad,Hoshangabad,Red Gram,Desi(Whole),FAQ,2014-05-09,3100,3100,3100,7
+Madhya Pradesh,Hoshangabad,Hoshangabad,Red Gram,Desi(Whole),FAQ,2014-05-12,3100,3100,3100,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-07-25,2250,2534,2351,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-02,2240,2622,2560,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-06,2077,2550,2451,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-09,2531,2560,2560,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-10,2375,2621,2581,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-12,2142,2681,2507,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-15,2300,2741,2590,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-18,2281,2600,2450,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-09-23,2252,2461,2350,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-11-07,2180,2950,2651,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-11-17,2100,2653,2550,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-11-21,2000,2590,2400,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-11-24,1950,2552,2450,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-12-05,1830,2501,2400,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-12-12,2272,2629,2563,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-12-18,2400,2750,2648,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Desi(Whole),FAQ,2014-12-24,2300,3031,2800,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-01-07,1850,2599,2400,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-01-11,2150,2626,2400,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-01-16,2300,2724,2551,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-01-17,2201,2660,2480,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-01-22,2540,2670,2620,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-02-03,2111,2575,2450,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-02-05,2000,2524,2400,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-02-08,2187,2502,2400,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-02-15,2266,2700,2500,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-02-20,2250,2611,2475,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-03-07,2051,2851,2700,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-03-11,2300,2899,2780,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-03-20,2030,2811,2690,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-04-02,2200,2932,2750,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-04-07,2400,2801,2720,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-04-11,1947,2711,2620,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-04-21,2100,2778,2650,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-05-06,2130,2727,2600,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-05-07,2075,2691,2540,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-05-08,2203,2680,2550,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-06-07,2200,2421,2350,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-06-12,1681,2355,2280,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-06-14,1861,2330,2220,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-06-17,1878,2350,2280,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-06-21,1740,2393,2075,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-07-12,2212,2536,2375,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-07-28,2396,2750,2525,7
+Madhya Pradesh,Hoshangabad,Itarsi,Red Gram,Other,FAQ,2014-07-30,2276,2664,2500,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-01-08,2025,2551,2450,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-01-10,2192,2662,2460,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-01-18,2300,2734,2570,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-01-21,2012,2700,2662,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-01-22,2002,2659,2500,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-01-31,2111,2612,2550,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-02-03,2060,2551,2470,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-02-06,2100,2593,2400,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-02-18,2100,2612,2550,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-02-20,2240,2690,2570,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-02-28,2021,2835,2760,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-03-04,2225,2854,2790,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-03-06,2426,2850,2723,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-03-10,2000,3060,2790,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-03-18,2325,2956,2680,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-03-27,2000,2940,2700,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-04-02,2250,2971,2725,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-04-04,2050,2890,2650,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-04-05,2200,2900,2650,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-04-12,2000,3100,2525,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-04-25,1900,2785,2520,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-04-30,2051,2751,2550,7
+Madhya Pradesh,Shivpuri,Pohari,Red Gram,Desi(Whole),FAQ,2014-08-14,2610,2650,2640,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-08-02,2800,2800,2800,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-08-04,2800,2800,2800,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-08-07,2210,2210,2210,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-08-23,2300,2300,2300,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-08-30,3100,3100,3100,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-09-04,3100,3100,3100,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-09-11,2550,3101,2600,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-09-14,3101,3101,3101,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-09-25,2800,2800,2800,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-10-15,2400,2450,2440,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-10-28,2800,2800,2800,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-10-31,2750,2750,2750,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-11-17,2500,2575,2550,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-12-25,2600,2600,2600,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Local,FAQ,2014-12-28,2390,2700,2400,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-01-01,2200,2300,2250,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-01-21,1990,2000,1995,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-01-24,2200,2250,2225,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-01-25,2200,2250,2225,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-01-27,2230,2265,2248,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-01-29,2200,2300,2250,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-01-30,2240,2250,2245,7
+Madhya Pradesh,Sidhi,Sidhi,Red Gram,Other,FAQ,2014-02-18,2200,2250,2240,7
+Madhya Pradesh,Tikamgarh,Niwadi,Red Gram,Desi(Whole),FAQ,2014-05-05,2450,2500,2480,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-01-03,2200,2375,2250,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-01-04,2400,2400,2400,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-01-11,2360,2360,2360,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-06-23,2275,2275,2275,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-07-26,2275,2275,2275,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-07-27,2260,2260,2260,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-08-16,2351,2375,2351,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-08-25,2100,2100,2100,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-08-28,2425,2425,2425,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-11-02,2400,2400,2400,7
+Madhya Pradesh,Tikamgarh,Tikamgarh,Red Gram,Other,FAQ,2014-11-22,2475,2475,2475,7
+Madhya Pradesh,Ujjain,Mahidpur,Red Gram,Other,FAQ,2014-08-20,2451,2451,2451,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2014-11-08,2201,2650,2500,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2014-11-10,1800,2668,2251,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2014-11-25,2150,2726,2286,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2014-12-08,2401,2401,2401,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2014-12-12,2045,2971,2450,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2014-12-17,1900,2861,2461,7
+Madhya Pradesh,Ujjain,Nagda,Red Gram,Desi(Whole),FAQ,2014-12-24,2671,2822,2822,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-08-09,2380,2625,2530,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-09-11,2250,2551,2551,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-09-13,2485,2485,2485,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-09-17,2326,2326,2326,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-09-19,2150,2345,2318,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-09-20,2259,2615,2330,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-09-29,2122,3105,2826,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-10-01,2299,3000,2750,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-10-07,2200,2200,2200,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-10-10,1900,2700,2250,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-10-16,2550,2550,2550,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-10-30,2431,3011,2573,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-11-01,2200,2800,2501,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-11-07,2241,2617,2502,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-11-08,2040,2711,2640,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-11-18,2190,2491,2281,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-11-27,2000,2681,2436,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-12-10,2300,2587,2476,7
+Madhya Pradesh,Ujjain,Ujjain,Red Gram,Desi(Whole),FAQ,2014-12-11,2076,2571,2400,7
+Madhya Pradesh,Vidisha,Sironj,Red Gram,Other,FAQ,2014-07-22,2100,2595,2347,7
+Odisha,Angul,Talcher,Red Gram,Other,FAQ,2014-02-21,4000,5000,4500,7
+Odisha,Nuapada,Khariar Road,Red Gram,Other,FAQ,2014-03-20,4500,4600,4500,7
+Odisha,Nuapada,Khariar Road,Red Gram,Other,FAQ,2014-04-09,5000,5500,5500,7
+Odisha,Nuapada,Khariar Road,Red Gram,Other,FAQ,2014-04-12,6000,6200,6000,7
+Odisha,Nuapada,Khariar Road,Red Gram,Other,FAQ,2014-04-21,6000,6100,6000,7
+Odisha,Nuapada,Khariar Road,Red Gram,Other,FAQ,2014-04-22,6000,6200,6000,7
+Rajasthan,Alwar,Laxmangarh (Barodamev),Red Gram,Other,FAQ,2014-01-28,2440,2450,2445,7
+Rajasthan,Alwar,Laxmangarh (Barodamev),Red Gram,Other,FAQ,2014-04-04,2685,2800,2700,7
+Rajasthan,Alwar,Laxmangarh (Barodamev),Red Gram,Other,FAQ,2014-04-16,2726,2840,2830,7
+Rajasthan,Alwar,Laxmangarh (Barodamev),Red Gram,Other,FAQ,2014-05-05,2700,2800,2778,7
+Rajasthan,Alwar,Laxmangarh (Barodamev),Red Gram,Other,FAQ,2014-08-21,2751,2770,2764,7
+Rajasthan,Alwar,Laxmangarh (Barodamev),Red Gram,Other,FAQ,2014-08-30,2640,2700,2660,7
+Rajasthan,Alwar,Laxmangarh (Barodamev),Red Gram,Other,FAQ,2014-12-16,2700,0,2795,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-01-29,2575,2600,2580,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-01-30,2520,2540,2526,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-03-12,2840,2855,2842,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-03-19,2560,2640,2600,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-04-02,3700,3700,3700,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-04-10,2700,2760,2720,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-04-29,2780,2802,2786,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-05-24,2669,2705,2685,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-06-05,2670,2680,2677,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-06-13,2559,2559,2559,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-06-14,2580,2580,2580,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-06-18,2611,2626,2615,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-06-21,2575,2590,2578,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-07-17,2665,2680,2670,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-07-28,2650,2680,2660,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-08-22,2695,2720,2700,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-08-23,2670,2700,2680,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-09-03,2625,2625,2625,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-10-11,2600,2630,2620,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-10-15,2605,2605,2605,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-10-16,2551,2551,2551,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-10-28,2700,2700,2700,7
+Rajasthan,Bharatpur,Nagar,Red Gram,Other,FAQ,2014-10-31,2800,2800,2800,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-01-04,2125,2425,2275,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-01-10,2250,2300,2275,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-01-24,2626,2626,2626,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-02-03,2535,2605,2570,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-03-13,2425,2500,2487,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-03-26,2625,2761,2693,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-04,2600,2721,2660,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-09,2500,2675,2587,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-11,2550,2700,2625,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-12,2575,2665,2620,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-16,2700,3100,2900,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-22,2675,3100,2887,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-23,2700,3100,2900,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-04-29,2711,3100,2905,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-05-03,2700,3100,2900,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-05-10,2640,2675,2657,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-05-12,2671,3100,2885,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-05-15,2641,3100,2870,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-05-29,2525,3100,2812,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-05-31,2425,2551,2488,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-06-06,2515,3100,2807,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-06-19,2485,3100,2792,7
+Rajasthan,Bhilwara,Bhilwara,Red Gram,Other,FAQ,2014-06-20,2450,3100,2775,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-01-07,2218,2299,2258,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-01-23,2403,2403,2403,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-01-31,2200,2321,2285,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-02-17,2161,2161,2161,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-02-20,2350,2350,2350,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-02-26,2456,2499,2477,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-03-26,2501,2859,2680,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-03-28,2551,2920,2735,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-03-29,2742,2962,2852,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-04-05,2696,2837,2766,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-04-10,2574,2781,2677,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-04-19,2801,2890,2845,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-04-21,2799,2867,2833,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-05-01,2686,2815,2750,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-05-03,2636,2803,2719,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-05-06,2690,2788,2739,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-05-07,2680,2871,2775,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-05-09,2699,2775,2737,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-05-17,2401,2717,2559,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-05-20,2566,2690,2628,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-06-19,2304,2480,2392,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-06-26,2450,2491,2470,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-07-09,2099,2200,2149,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-07-15,2567,2645,2606,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-07-23,2499,2547,2523,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-07-28,2350,2350,2350,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-08-01,2446,2551,2498,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-08-02,2291,2485,2388,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-08-07,2487,2539,2513,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-09-18,2374,2568,2471,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-10-04,2571,2571,2571,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-10-10,2617,2667,2642,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-10-27,2400,2400,2400,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-11-11,2301,2875,2588,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-11-18,2176,2617,2396,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-11-19,2450,2612,2531,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-12-13,2000,2425,2212,7
+Rajasthan,Bundi,Bundi,Red Gram,Other,FAQ,2014-12-22,2533,2909,2721,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-10-02,2535,2535,2535,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-11-11,2712,2729,2720,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-11-15,2599,2746,2672,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-11-29,2525,2600,2562,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-12-01,2400,2561,2480,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-12-09,2525,2626,2600,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-12-16,2424,2600,2512,7
+Rajasthan,Bundi,Dei,Red Gram,Other,FAQ,2014-12-27,2961,2961,2961,7
+Rajasthan,Bundi,Sumerganj,Red Gram,Other,FAQ,2014-05-14,2510,2510,2510,7
+Rajasthan,Bundi,Sumerganj,Red Gram,Other,FAQ,2014-05-15,2675,2675,2675,7
+Rajasthan,Bundi,Sumerganj,Red Gram,Other,FAQ,2014-05-29,2441,2441,2441,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-03-10,2711,2725,2711,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-03-22,2600,2671,2671,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-05-13,2598,2641,2639,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-05-28,2421,2471,2451,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-05-29,2447,2472,2472,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-06-06,2450,2451,2450,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-06-18,2381,2425,2420,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-07-02,2409,2409,2409,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-07-03,2415,2415,2415,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-07-04,2375,2417,2417,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-07-22,2475,2475,2475,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-07-24,2440,2440,2440,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-07-29,2350,2470,2451,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-08-23,5100,5250,5200,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-10-11,2200,2281,2281,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-10-30,2401,2451,2451,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-10-31,2450,2450,2450,7
+Rajasthan,Chittorgarh,Fatehnagar,Red Gram,Other,FAQ,2014-12-16,2500,2500,2500,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-06-24,2480,2500,2490,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-06-30,2500,2510,2505,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-07-01,2490,2505,2497,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-07-03,2415,2425,2420,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-08-27,2550,2560,2555,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-09-10,2550,2600,2575,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-09-26,2550,2600,2575,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-10-02,2510,2550,2530,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-10-10,2500,2550,2525,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-11-06,2675,2700,2687,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-11-07,2700,2750,2725,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-11-24,2700,2715,2707,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-12-10,2600,2650,2625,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-12-13,2600,2650,2625,7
+Rajasthan,Tonk,Niwai,Red Gram,Other,FAQ,2014-12-24,2800,3000,2900,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-03-06,2820,2865,2851,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-03-12,2801,3011,2949,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-03-14,2700,2850,2849,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-03-25,2799,2800,2800,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-04-05,2800,2900,2820,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-04-15,2600,2644,2640,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-05-05,2716,3100,3100,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-05-17,2700,3100,3100,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-05-23,2800,3100,3100,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-05-27,2800,3100,3100,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-06-14,2460,3100,3100,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-06-19,2505,3100,3100,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-07-03,2400,2500,2440,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-07-05,2200,2400,2400,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-07-10,2250,2400,2400,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-07-12,2250,2475,2400,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-09-17,2600,2611,2611,7
+Rajasthan,Tonk,Tonk,Red Gram,Desi(Whole),FAQ,2014-09-24,2450,2529,2480,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-10-27,2450,2500,2475,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-11-10,2680,2700,2686,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-11-19,2400,2400,2400,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-11-24,2700,2711,2711,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-11-27,2683,2683,2683,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-12-02,2500,2726,2655,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-12-15,2690,2700,2700,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-12-22,2800,2925,2880,7
+Rajasthan,Tonk,Tonk,Red Gram,Local,FAQ,2014-12-29,2900,3260,3151,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-01-28,2290,2400,2390,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-02-13,2000,2350,2150,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-02-20,2375,2425,2400,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-02-26,2370,2425,2400,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-03-13,2375,2425,2400,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-05-01,2500,2650,2610,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-05-02,2500,2650,2615,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-05-06,2500,2640,2600,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-05-22,2510,2625,2620,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-05-27,2500,2610,2600,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-06-18,2440,2450,2445,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-07-01,2440,2455,2450,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-07-10,2450,2455,2450,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-07-11,2450,2455,2450,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-07-14,2425,2450,2440,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-07-28,2425,2450,2440,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-08-01,2430,2450,2440,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-09-10,2100,2700,2675,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-09-11,2110,2700,2670,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-10-13,2100,2500,2480,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-10-29,2290,2800,2490,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-11-05,2300,2545,2500,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-11-07,2300,2545,2500,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-11-14,2650,2670,2660,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-11-19,2660,2700,2675,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-11-21,2660,2700,2680,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-12-01,2670,2700,2690,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-12-04,2670,2700,2690,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-12-09,2670,2750,2700,7
+Rajasthan,Udaipur,Udaipur (Grain),Red Gram,Other,FAQ,2014-12-17,2630,2750,2700,7
+Tamil Nadu,Cuddalore,Virudhachalam,Red Gram,Other,FAQ,2014-02-14,3380,3529,3454,7
+Tamil Nadu,Cuddalore,Virudhachalam,Red Gram,Other,FAQ,2014-03-07,1600,3460,2530,7
+Tamil Nadu,Cuddalore,Virudhachalam,Red Gram,Other,FAQ,2014-03-19,3160,3390,3275,7
+Tamil Nadu,Erode,Anthiyur,Red Gram,Other,FAQ,2014-01-27,3356,4129,3939,7
+Tamil Nadu,Erode,Anthiyur,Red Gram,Other,FAQ,2014-02-03,3419,4229,3789,7
+Tamil Nadu,Erode,Anthiyur,Red Gram,Other,FAQ,2014-03-03,3249,4081,3925,7
+Tamil Nadu,Vellore,Vellore,Red Gram,Other,FAQ,2014-01-06,3261,3300,3270,7
+Tamil Nadu,Vellore,Vellore,Red Gram,Other,FAQ,2014-03-04,2820,3030,2990,7
+Tamil Nadu,Vellore,Vellore,Red Gram,Other,FAQ,2014-12-31,3510,3510,3510,7
+Tamil Nadu,Villupuram,Gingee,Red Gram,Other,FAQ,2014-02-07,2800,2800,2800,7
+Tamil Nadu,Villupuram,Gingee,Red Gram,Other,FAQ,2014-03-21,1800,1800,1800,7
+Tamil Nadu,Villupuram,Kallakurichi,Red Gram,Other,FAQ,2014-02-27,3439,3499,3469,7
+Tamil Nadu,Villupuram,Kallakurichi,Red Gram,Other,FAQ,2014-03-21,3462,3462,3462,7
+Tamil Nadu,Villupuram,Thirukovilur,Red Gram,Other,FAQ,2014-02-14,2229,2229,2229,7
+Tamil Nadu,Villupuram,Thirukovilur,Red Gram,Other,FAQ,2014-02-17,1809,2769,2689,7
+Tamil Nadu,Villupuram,Thirukovilur,Red Gram,Other,FAQ,2014-02-19,2589,2749,2639,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-01-23,4300,4885,4750,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-01-29,4300,4300,4300,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-02-01,4300,4300,4300,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-02-03,4300,4300,4300,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-02-14,4300,4300,4300,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-02-15,4300,4300,4300,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-02-19,4300,4300,4300,7
+Telangana,Adilabad,Adilabad,Red Gram,Local,Medium,2014-02-22,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-02-01,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-02-03,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-02-14,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-02-15,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-02-19,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-02-24,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-03-04,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-03-07,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-03-10,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-03-18,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-03-22,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-03-24,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-03-26,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-06,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-09,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-15,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-18,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-19,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-22,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-23,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-24,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-26,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,Medium,2014-04-29,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-05-13,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-05-19,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-05-24,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-06-14,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-06-16,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-06-28,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-07-01,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-07-23,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-04,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-07,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-10,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-13,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-15,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-17,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-19,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-22,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-26,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-08-27,4300,4300,4300,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-09-03,3850,4300,4000,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-09-11,3850,4300,4050,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-09-17,3850,4300,4050,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-09-19,3850,4300,4050,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-09-20,3850,4300,4050,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-09-23,3850,4300,4050,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-10-16,3850,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-10-21,3850,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-10-22,3850,4300,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-10-23,4000,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-10-24,3950,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-10-25,4050,4350,4150,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-11-01,4000,4350,4150,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-11-03,4000,4350,4150,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-11-08,4000,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-11-10,4000,4350,4150,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-11-12,4000,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-11-17,4000,4350,4150,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-12-02,4000,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-12-06,4000,4350,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-12-22,4000,4250,4100,7
+Telangana,Adilabad,Asifabad,Red Gram,Local,FAQ,2014-12-27,4000,4250,4100,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-02-17,3460,4300,4300,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-02-18,4300,4300,4300,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-02-19,4300,4300,4300,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-02-25,4300,4300,4300,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-02-28,4300,4300,4300,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-03-12,3600,4162,4140,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-03-13,3890,4178,4150,7
+Telangana,Adilabad,Bhainsa,Red Gram,Local,FAQ,2014-04-22,4000,4172,4050,7
+Telangana,Adilabad,Boath,Red Gram,Local,Medium,2014-02-03,4300,4300,4300,7
+Telangana,Adilabad,Indravelly(Utnoor),Red Gram,Other,Medium,2014-02-11,4300,4300,4300,7
+Telangana,Adilabad,Indravelly(Utnoor),Red Gram,Other,Medium,2014-02-13,4300,4300,4300,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2014-02-05,3500,3820,3660,7
+Telangana,Adilabad,Jainath,Red Gram,Local,Medium,2014-02-19,4300,4300,4300,7
+Telangana,Adilabad,Khanapur,Red Gram,Other,FAQ,2014-06-05,2200,2280,2240,7
+Telangana,Adilabad,Kuber,Red Gram,Desi(Whole),FAQ,2014-06-03,4300,4300,4300,7
+Telangana,Adilabad,Kuber,Red Gram,Desi(Whole),FAQ,2014-06-11,4300,4300,4300,7
+Telangana,Adilabad,Kuber,Red Gram,Desi(Whole),FAQ,2014-06-17,4300,4300,4300,7
+Telangana,Adilabad,Kuber,Red Gram,Local,FAQ,2014-03-22,4300,4300,4300,7
+Telangana,Adilabad,Kuber,Red Gram,Local,FAQ,2014-03-26,4300,4300,4300,7
+Telangana,Adilabad,Nirmal,Red Gram,Local,Medium,2014-01-28,4300,4300,4300,7
+Telangana,Adilabad,Nirmal,Red Gram,Local,Medium,2014-02-08,4300,4300,4300,7
+Telangana,Adilabad,Nirmal,Red Gram,Local,Medium,2014-02-17,4300,4300,4300,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2014-02-19,2201,3670,3371,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2014-03-05,2800,3560,3485,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2014-03-15,2550,3750,2550,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2014-03-21,2505,3696,3471,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2014-03-22,2701,3700,3600,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2014-03-27,2900,3785,3352,7
+Telangana,Karimnagar,Choppadandi,Red Gram,Hybrid,FAQ,2014-04-17,3200,3721,3565,7
+Telangana,Karimnagar,Dharmaram,Red Gram,Local,FAQ,2014-02-17,3400,3600,3500,7
+Telangana,Karimnagar,Gollapally,Red Gram,Other,Medium,2014-03-21,3200,3200,3200,7
+Telangana,Karimnagar,Husnabad,Red Gram,Local,Medium,2014-02-18,3000,3500,3300,7
+Telangana,Karimnagar,Husnabad,Red Gram,Local,Medium,2014-03-05,3200,3600,3400,7
+Telangana,Karimnagar,Husnabad,Red Gram,Local,Medium,2014-03-20,3500,4000,3800,7
+Telangana,Karimnagar,Jagtial,Red Gram,Hybrid,Medium,2014-04-12,3250,3600,3300,7
+Telangana,Karimnagar,Jagtial,Red Gram,Hybrid,Medium,2014-04-26,3000,3480,3420,7
+Telangana,Karimnagar,Jagtial,Red Gram,Hybrid,Medium,2014-05-03,3200,3200,3200,7
+Telangana,Karimnagar,Jagtial,Red Gram,Local,Medium,2014-01-23,3590,3650,3590,7
+Telangana,Karimnagar,Jagtial,Red Gram,Local,Medium,2014-02-07,3275,3575,3300,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-05-17,2070,3100,2555,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-05-26,1800,3100,2400,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-05-31,2040,2591,2400,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-06-03,1870,2551,2350,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-06-04,1800,2578,2335,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-06-05,1882,2599,2341,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-06-06,1800,2500,2317,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-06-10,1800,2442,2180,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-08-07,4740,5081,4780,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-08-20,1940,2851,2580,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-09-03,2000,2918,2555,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-09-13,2120,2752,2540,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-09-16,2076,2761,2500,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-09-25,2185,2850,2450,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-10-09,2000,2681,2500,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-10-13,2000,2651,2450,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-10-15,2100,2850,2550,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-10-18,2000,2850,2540,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-11-29,2000,2902,2500,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-12-04,2015,2970,2450,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-12-05,2213,2860,2500,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-12-12,1700,2830,2651,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-12-16,1800,2801,2692,7
+Madhya Pradesh,Hoshangabad,Pipariya,Red Gram,Other,FAQ,2014-12-26,2400,3186,3000,7
+Madhya Pradesh,Hoshangabad,Semriharchand,Red Gram,Other,FAQ,2014-04-23,2450,2450,2450,7
+Madhya Pradesh,Hoshangabad,Semriharchand,Red Gram,Other,FAQ,2014-05-05,2450,2601,2601,7
+Madhya Pradesh,Hoshangabad,Semriharchand,Red Gram,Other,FAQ,2014-10-20,2200,2200,2200,7
+Madhya Pradesh,Hoshangabad,Semriharchand,Red Gram,Other,FAQ,2014-12-18,2271,2271,2271,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-02-12,1777,1777,1777,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-02-22,2500,2550,2525,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-03-03,2400,2700,2500,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-03-07,3500,3500,3500,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-05-01,2400,2500,2450,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-05-10,2350,2350,2350,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-06-17,2100,2100,2100,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-06-18,2250,2350,2300,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-06-23,2000,2100,2050,7
+Madhya Pradesh,Indore,Gautampura,Red Gram,Other,FAQ,2014-07-08,1950,2000,1975,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-01-02,2026,2576,2436,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-01-03,2350,2675,2481,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-01-04,2309,2600,2475,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-01-06,2100,2641,2408,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-01-10,2399,2626,2501,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-01-23,2370,2725,2529,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-02-12,2350,2670,2525,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-02-15,2470,2661,2510,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-02-19,2375,2602,2520,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-02-21,2336,2600,2430,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-02-24,2375,2800,2650,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-03-01,2551,3050,2900,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-03-07,2560,3140,3000,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-03-12,2751,3051,3019,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-03-25,2601,2955,2781,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-04-25,2325,2845,2600,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-04-28,2421,3001,2986,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-04-30,2265,3240,2706,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-05-01,2050,2925,2431,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-05-16,2100,3001,2501,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-06-16,2000,3100,2500,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-06-20,2301,3141,2999,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-01,2200,3400,2465,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-02,2351,3200,2500,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-04,2251,3026,2603,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-05,2125,2600,2500,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-11,2200,2831,2310,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-12,2300,3250,2415,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-15,2000,3201,2374,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-16,2299,2901,2575,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-17,2313,3000,2681,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-07-25,2186,2850,2411,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-08-16,2001,3275,2519,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-09-01,2499,3146,2951,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-09-02,2396,2891,2564,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-09-10,2100,3400,2448,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-09-17,2460,3280,2599,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-09-23,2250,3201,2431,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-10-08,2061,2951,2331,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-10-17,2420,3176,2610,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-10-20,2340,2910,2560,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-11-07,2351,3211,2831,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-11-08,2440,3200,2650,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-11-14,2351,3102,3000,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-11-26,2185,3051,2440,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-11-27,2200,2950,2465,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-12-16,2290,3026,2551,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-12-18,2350,3150,2600,7
+Madhya Pradesh,Jabalpur,Jabalpur,Red Gram,Other,FAQ,2014-12-27,2801,3350,2935,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-01-07,2340,2564,2431,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-01-10,1911,2536,2455,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-01-16,1950,2675,2300,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-01-20,2062,2648,2400,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-01-22,2000,2650,2340,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-02-13,1691,2626,2580,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-02-19,2250,2600,2481,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-02-20,2161,2621,2475,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-03-11,2795,3137,3022,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-03-24,2414,2946,2680,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-04-05,2250,2692,2471,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-04-12,2000,2725,2362,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-04-15,2375,2724,2549,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-04-22,2081,2990,2535,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-05-05,2211,3299,2755,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-05-10,2340,2981,2660,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-05-16,2176,2820,2498,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-05-20,2210,3060,2635,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-05-23,2331,3215,2773,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-07-02,1991,3160,2575,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-07-03,2125,3190,2657,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-07-04,1802,3251,2526,7
+Madhya Pradesh,Jabalpur,Sehora,Red Gram,Other,FAQ,2014-07-10,2176,3061,2618,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-07-21,1966,2990,2478,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-07-23,1815,2955,2370,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-08-04,2181,3060,2403,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-08-16,2100,3160,2635,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-08-20,2401,3341,2773,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-08-23,2390,3082,2651,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-08-28,2300,3079,2606,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-09-05,2300,3251,2506,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-09-11,2241,2911,2560,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-09-18,2101,3299,2547,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-11-14,1900,3180,2470,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-11-21,2000,2821,2632,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-11-22,2000,2781,2611,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-12-06,2014,2650,2501,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-12-17,2341,2780,2641,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-12-23,2201,3000,2870,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-12-26,2260,3172,2899,7
+Madhya Pradesh,Jabalpur,Sihora,Red Gram,Local,FAQ,2014-12-31,2800,3325,3062,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-07-25,2021,2840,2350,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-07-26,2021,2900,2350,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-08-12,2325,2750,2625,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-09-04,2150,2900,2550,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-09-10,2202,3001,2550,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-09-16,2200,3241,2600,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-09-22,2150,2750,2550,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-09-24,2100,3000,2455,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-09-30,2121,2694,2515,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-10-08,2140,2800,2575,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-10-10,2160,2775,2557,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-10-11,2139,2700,2525,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-10-17,2100,2935,2450,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-10-29,2050,2900,2450,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-10-31,2000,3035,2600,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-11-04,1900,3081,2750,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-11-11,1980,2860,2500,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-11-25,2040,2801,2422,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-12-09,1900,2902,2500,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-12-17,2300,3013,2750,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-12-18,2425,3112,2800,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-12-26,2400,3304,3150,7
+Madhya Pradesh,Katni,Katni,Red Gram,Desi(Whole),FAQ,2014-12-27,2669,3310,3150,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-02-07,2125,2451,2401,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-03-02,2425,2875,2665,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-03-04,2575,3021,2751,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-03-26,2425,2861,2710,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-04-06,2361,2836,2671,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-04-18,2304,2725,2561,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-04-19,2411,2800,2642,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-05-17,2011,2467,2251,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-05-21,1950,2400,2331,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-06-01,1991,2289,2101,7
+Madhya Pradesh,Khargone,Bhikangaon,Red Gram,Other,FAQ,2014-10-18,1701,2500,2300,7
+Madhya Pradesh,Mandla,Bichhiya,Red Gram,Other,FAQ,2014-07-25,3100,3100,3100,7
+Madhya Pradesh,Mandla,Bichhiya,Red Gram,Other,FAQ,2014-09-15,2500,2700,2600,7
+Madhya Pradesh,Mandla,Bichhiya,Red Gram,Other,FAQ,2014-12-20,2200,2200,2200,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Desi(Whole),FAQ,2014-07-26,2200,2200,2200,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-01-18,2150,2200,2175,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-06-08,2000,2100,2050,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-06-16,2000,2100,2050,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-07-04,2200,2200,2200,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-08-24,2350,2375,2360,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-08-31,2200,2200,2200,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-11-22,2200,2210,2205,7
+Madhya Pradesh,Mandla,Mandla,Red Gram,Other,FAQ,2014-12-11,2200,2300,2250,7
+Madhya Pradesh,Mandla,Nainpur,Red Gram,Other,FAQ,2014-10-29,2200,2200,2200,7
+Madhya Pradesh,Mandla,Nainpur,Red Gram,Other,FAQ,2014-11-07,2300,2300,2300,7
+Madhya Pradesh,Mandsaur,Sitmau,Red Gram,Other,FAQ,2014-10-28,2550,2550,2550,7
+Madhya Pradesh,Mandsaur,Suvasra,Red Gram,Other,FAQ,2014-03-12,2505,2735,2640,7
+Madhya Pradesh,Mandsaur,Suvasra,Red Gram,Other,FAQ,2014-03-13,2655,2845,2761,7
+Madhya Pradesh,Neemuch,Javad,Red Gram,Other,FAQ,2014-02-28,2300,2300,2300,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-04-26,2300,2560,2450,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-04-29,2300,2550,2500,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-05-15,2300,2510,2450,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-05-23,2250,2350,2300,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-05-28,2270,2270,2270,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-05-30,1800,2325,2000,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-06-05,2265,2265,2265,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-06-18,2300,2500,2325,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-06-20,2400,2475,2435,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-06-21,2400,2500,2450,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-07-03,2150,2150,2150,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-09-17,2550,2601,2601,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-11-15,2400,2400,2400,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-11-28,2200,2200,2200,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-12-05,2435,2435,2435,7
+Madhya Pradesh,Shajapur,Susner,Red Gram,Other,FAQ,2014-12-17,2512,2512,2512,7
+Madhya Pradesh,Shehdol,Shahdol,Red Gram,Other,FAQ,2014-12-09,1600,1600,1600,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2014-11-21,2250,2600,2480,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2014-12-05,2290,2512,2392,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2014-12-10,2400,2450,2441,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2014-12-19,2700,2850,2850,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2014-12-20,2800,2904,2850,7
+Madhya Pradesh,Sheopur,Sheopurkalan,Red Gram,Other,FAQ,2014-12-23,2903,3100,3005,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Desi(Whole),FAQ,2014-08-01,2400,2400,2400,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Desi(Whole),FAQ,2014-09-18,2450,2720,2540,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Desi(Whole),FAQ,2014-10-01,2320,2560,2470,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Desi(Whole),FAQ,2014-10-07,2170,2540,2340,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Other,FAQ,2014-11-01,2290,2650,2510,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Other,FAQ,2014-11-04,2240,2740,2475,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Other,FAQ,2014-11-05,2215,2900,2490,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Other,FAQ,2014-12-18,2225,2760,2515,7
+Madhya Pradesh,Shivpuri,Badarwas,Red Gram,Other,FAQ,2014-12-27,2450,3145,2910,7
+Madhya Pradesh,Shivpuri,Khatora,Red Gram,Other,FAQ,2014-02-28,2405,2800,2750,7
+Madhya Pradesh,Shivpuri,Khatora,Red Gram,Other,FAQ,2014-09-09,2247,2270,2255,7
+Madhya Pradesh,Shivpuri,Khatora,Red Gram,Other,FAQ,2014-12-09,1750,2300,2000,7
+Madhya Pradesh,Shivpuri,Khatora,Red Gram,Other,FAQ,2014-12-13,2170,2310,2220,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-01-06,1600,2609,2400,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-01-11,2375,2650,2500,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-01-18,2100,2675,2645,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-01-31,2290,2602,2520,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-02-06,1800,2471,2330,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-02-21,2000,2351,2301,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-02-24,1850,2734,2550,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-03-10,2040,3075,2501,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-03-27,2200,2900,2700,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-04-02,2160,3070,2650,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-04-22,1800,2934,2550,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-04-23,1871,2980,2520,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-05-08,1650,2911,2400,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-05-13,2100,2961,2450,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-05-30,1950,2961,2350,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-05-31,1800,2960,2350,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-06-13,1750,2671,2150,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-06-14,1950,2736,2250,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-06-20,1931,2706,2275,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-06-21,1875,2801,2285,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-06-24,1935,2775,2345,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-06-26,1800,2775,2255,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-03,1800,2800,2452,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-04,1700,2771,2445,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-05,1802,2757,2331,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-10,1701,2776,2425,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-12,2200,2791,2551,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-14,2175,2779,2531,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-19,2055,2801,2401,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-07-30,2001,2666,2401,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-08-14,1725,2800,2405,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-08-21,1950,2672,2400,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-08-23,2250,2570,2352,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-08-25,2300,2620,2450,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-09-10,2301,2676,2415,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-09-15,2100,2651,2445,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-09-16,2061,2647,2441,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-09-17,2201,2696,2351,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-09-18,1800,2750,2476,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-09-22,2031,2701,2450,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-09-27,2200,2530,2350,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-10-09,2400,2601,2425,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-10-17,2261,2690,2413,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-11-03,2301,2860,2541,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-11-17,2125,2570,2400,7
+Madhya Pradesh,Shivpuri,Kolaras,Red Gram,Other,FAQ,2014-12-08,2100,2650,2415,7
+Madhya Pradesh,Shivpuri,Pohari,Red Gram,Desi(Whole),FAQ,2014-05-30,2400,2500,2450,7
+Madhya Pradesh,Shivpuri,Pohari,Red Gram,Desi(Whole),FAQ,2014-06-02,2380,2450,2400,7
+Madhya Pradesh,Shivpuri,Pohari,Red Gram,Desi(Whole),FAQ,2014-06-09,2280,2350,2300,7
+Madhya Pradesh,Shivpuri,Pohari,Red Gram,Desi(Whole),FAQ,2014-06-10,2250,2360,2310,7
+Madhya Pradesh,Shivpuri,Pohari,Red Gram,Desi(Whole),FAQ,2014-06-13,2280,2360,2320,7
+Madhya Pradesh,Sagar,Rahatgarh,Red Gram,Other,FAQ,2014-12-16,2000,2340,2170,7
+Madhya Pradesh,Sagar,Rahatgarh,Red Gram,Other,FAQ,2014-12-18,1975,2575,2275,7
+Madhya Pradesh,Sagar,Rahatgarh,Red Gram,Other,FAQ,2014-12-19,2060,2660,2360,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-01-01,1825,2632,2572,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-01-05,2000,2621,2550,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-01-15,2100,2671,2600,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-02-01,1850,2625,2590,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-02-02,1651,2560,2550,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-03-04,2000,2850,2750,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-03-15,1500,3005,2540,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-04-25,2150,2850,2750,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-05-01,2150,2945,2765,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-05-14,2150,2865,2700,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-05-20,2225,2970,2790,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-05-23,2050,2800,2690,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-05-28,2000,2725,2550,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-05-31,2040,2750,2600,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-06-04,2000,2715,2600,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-06-06,2000,2715,2575,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-06-17,2000,2475,2300,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-06-20,2000,2525,2365,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-07-09,2000,2561,2460,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-07-11,2000,2575,2425,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-07-12,2000,2660,2500,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-07-27,2150,2745,2625,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-07-28,2150,2615,2550,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-09-01,2300,2801,2700,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-09-03,2150,2701,2600,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-09-12,2300,2671,2500,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-09-19,2150,2701,2585,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-10-18,2250,2671,2540,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-10-29,2250,2690,2550,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-11-09,2250,2805,2685,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-11-16,2250,2700,2575,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-11-18,2175,2715,2550,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-11-26,2200,2800,2625,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-11-30,2150,2750,2590,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-12-07,2150,2750,2600,7
+Madhya Pradesh,Sagar,Sagar,Red Gram,Other,FAQ,2014-12-14,2200,2765,2615,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-01-01,2200,2560,2450,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-01-06,2325,2350,2325,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-01-08,2100,2500,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-02-05,2300,2550,2350,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-02-16,2300,2621,2550,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-02-26,2525,2700,2650,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-03-09,2875,3000,2900,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-04-02,3000,3150,3100,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-04-13,2600,2800,2750,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-05-03,2000,2250,2100,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-05-14,2000,2700,2200,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-05-16,2150,2200,2150,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-05-22,2400,2450,2425,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-05-29,2400,2415,2400,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-06-04,2000,2600,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-06-05,2225,2350,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-07-02,1825,2371,2250,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-07-09,1900,2350,2200,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-07-14,2100,2100,2100,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-07-28,2300,2310,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-08-20,2000,2650,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-09-01,2450,2450,2450,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-09-23,2450,2475,2450,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-09-24,2200,2500,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-10-19,2200,2500,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-10-26,2200,2450,2300,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-11-12,2200,2600,2400,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-11-29,2200,2200,2200,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-12-11,2000,2100,2075,7
+Madhya Pradesh,Satna,Nagod,Red Gram,Other,FAQ,2014-12-31,3000,3240,3150,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-01-10,2270,2380,2300,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-01-17,2250,2610,2350,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-01-21,2305,2615,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-01-24,2350,2575,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-01-29,2301,2625,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-02-06,2350,2580,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-02-15,2300,2545,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-02-18,2350,2575,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-03-10,2600,2900,2700,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-03-15,2590,2910,2650,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-04-04,2400,2900,2750,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-05-28,2100,2750,2575,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-06-11,2200,2650,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-06-14,2100,2525,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-06-20,2100,2550,2300,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-06-24,2150,2710,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-06-30,2150,2635,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-07-04,2150,2500,2350,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-07-07,2120,2630,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-07-25,2165,2630,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-07-31,2150,2651,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-08-04,2201,2665,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-08-16,2230,2600,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-08-21,2150,2730,2550,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-09-03,2150,2701,2575,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-09-05,2150,2660,2560,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-09-06,2230,2665,2525,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-09-23,2200,2651,2525,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-09-24,2170,2765,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-09-29,2150,2675,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-10-07,2150,2620,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-10-08,2200,2600,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-10-13,2150,2580,2450,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-10-17,2250,2651,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-10-21,2201,2651,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-11-06,2250,2801,2550,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-11-11,2100,2781,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-11-15,2300,2720,2500,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-11-21,2401,2905,2600,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-11-29,2200,2600,2400,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-12-15,2351,2740,2550,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-12-18,2460,2810,2600,7
+Madhya Pradesh,Satna,Satna,Red Gram,Other,FAQ,2014-12-29,2510,3165,2900,7
+Madhya Pradesh,Sehore,Baktara,Red Gram,Desi(Whole),FAQ,2014-08-27,2400,2600,2500,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-07-16,1970,2465,2340,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-07-18,1950,2460,2425,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-07-19,1900,2440,2310,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-07-22,1950,2450,2400,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-07-25,1950,2425,2350,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-07-30,1850,2500,2440,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-08-07,1800,2421,2300,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-08-20,2200,2550,2450,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-08-22,2310,2550,2431,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-08-29,2353,2353,2353,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-09-01,2000,2500,2350,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-09-09,2175,2175,2175,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-09-15,2100,2450,2350,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-09-18,2154,2545,2450,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-09-23,2150,2650,2425,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Desi(Whole),FAQ,2014-12-01,1900,2410,2180,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-01-06,2200,2550,2400,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-01-08,2280,2480,2380,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-01-10,2200,2500,2300,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-01-16,2250,2475,2400,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-01-18,2201,2575,2460,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-02-05,2300,2480,2391,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-02-12,2300,2600,2450,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-02-13,2300,2650,2500,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-02-17,2300,2700,2600,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-02-20,2300,2700,2550,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-02-22,2350,2700,2600,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-02-26,2300,2750,2550,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-03-19,2460,2811,2700,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-03-20,2430,2851,2680,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-03-25,2350,2831,2675,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-04-04,2411,2831,2680,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-04-11,2380,2875,2681,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-04-15,2400,2891,2665,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-04-21,2300,2780,2600,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-05-10,2241,2661,2531,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-05-21,2150,2600,2480,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-05-24,2000,2611,2380,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-06-09,1650,2160,1960,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-06-14,1375,2175,2075,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-06-20,1700,2000,1800,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-06-23,1750,2310,2021,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-06-24,1650,2340,2025,7
+Madhya Pradesh,Sehore,Nasrullaganj,Red Gram,Other,FAQ,2014-07-11,2151,2410,2351,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-02-03,3000,3000,3000,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-03-14,2310,2592,2500,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-03-18,2400,2400,2400,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-03-28,2350,2750,2575,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-04-05,2241,2600,2525,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-04-21,2408,2613,2600,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-04-26,2401,2800,2500,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-04-29,3100,3100,3100,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-05-03,2400,3100,3100,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-05-07,2354,3100,2380,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-05-26,2200,2200,2200,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-05-30,2200,2201,2200,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-06-11,1900,1900,1900,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-06-21,1901,1950,1950,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-06-24,1600,1860,1850,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-07-02,2075,2075,2075,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-07-22,1850,1850,1850,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-11-05,2001,2200,2200,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-11-14,2001,2315,2200,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-11-21,2000,2301,2201,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-12-10,2200,2320,2225,7
+Madhya Pradesh,Sehore,Rehati,Red Gram,Other,FAQ,2014-12-23,2200,2200,2200,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Desi(Whole),FAQ,2014-07-21,2100,2600,2403,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Desi(Whole),FAQ,2014-07-23,2000,2461,2381,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Desi(Whole),FAQ,2014-07-30,2368,2550,2525,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-01-07,2150,2550,2541,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-01-21,2270,2563,2525,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-01-22,2240,2618,2470,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-02-04,2151,2365,2320,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-02-19,2301,2665,2561,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-02-22,2250,2500,2460,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-03-03,2400,2865,2752,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-03-05,2240,2855,2791,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-03-13,2501,2931,2766,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-03-15,2491,2809,2770,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-03-24,2400,2901,2870,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-07-14,2070,2372,2300,7
+Madhya Pradesh,Sehore,Sehore,Red Gram,Other,FAQ,2014-07-16,2152,2371,2336,7
+Madhya Pradesh,Sehore,Shyampur,Red Gram,Desi(Whole),FAQ,2014-09-14,2300,2450,2450,7
+Madhya Pradesh,Sehore,Shyampur,Red Gram,Desi(Whole),FAQ,2014-10-04,2400,2402,2400,7
+Madhya Pradesh,Sehore,Shyampur,Red Gram,Desi(Whole),FAQ,2014-10-10,2100,2260,2220,7
+Madhya Pradesh,Sehore,Shyampur,Red Gram,Other,FAQ,2014-07-11,2100,2200,2150,7
+Madhya Pradesh,Sehore,Shyampur,Red Gram,Other,FAQ,2014-11-23,2400,2400,2400,7
+Madhya Pradesh,Seoni,Chhpara,Red Gram,Other,FAQ,2014-01-24,2308,2308,2308,7
+Madhya Pradesh,Seoni,Chhpara,Red Gram,Other,FAQ,2014-08-15,2400,2500,2450,7
+Madhya Pradesh,Seoni,Chhpara,Red Gram,Other,FAQ,2014-09-13,2275,2301,2288,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-07-23,1800,2200,2000,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-08-08,2200,2200,2200,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-08-25,2200,2200,2200,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-09-15,2000,2000,2000,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-09-16,2200,2200,2200,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-09-19,2200,2300,2200,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-10-12,2000,2000,2000,7
+Madhya Pradesh,Seoni,Ghansour,Red Gram,Desi(Whole),FAQ,2014-12-14,2000,2000,2000,7
+Madhya Pradesh,Seoni,Keolari,Red Gram,Other,FAQ,2014-02-04,2200,2200,2200,7
+Madhya Pradesh,Seoni,Keolari,Red Gram,Other,FAQ,2014-08-17,2199,2199,2199,7
+Madhya Pradesh,Seoni,Keolari,Red Gram,Other,FAQ,2014-08-22,2199,2199,2199,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-03-23,2300,2500,2400,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-03-24,2300,2600,2550,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-03-25,2400,2600,2500,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-03-27,2550,2750,2650,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-03-31,2600,2800,2700,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-04-04,2600,2800,2700,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-04-16,2300,2500,2400,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-05-05,2100,2400,2300,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-06-03,2000,2200,2100,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-10-29,2200,2400,2300,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-11-05,2300,2500,2400,7
+Madhya Pradesh,Seoni,Lakhnadon,Red Gram,Other,FAQ,2014-11-15,2200,2400,2300,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-07-17,1900,2371,2000,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-09-11,2310,2400,2390,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-09-12,2500,2500,2500,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-09-13,2400,2550,2530,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-09-22,2100,2571,2550,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-09-29,2100,2525,2470,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-09-30,2156,2540,2500,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-10-13,2175,2500,2375,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-10-15,1949,2455,2190,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-11-01,2368,2526,2470,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-11-07,2096,2671,2550,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-11-10,1951,2600,2450,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-11-15,2090,2455,2400,7
+Madhya Pradesh,Seoni,Seoni,Red Gram,(Whole),FAQ,2014-11-19,1850,2496,2450,7

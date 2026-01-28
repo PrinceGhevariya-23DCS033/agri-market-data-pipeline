@@ -1,0 +1,415 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-01-13,1650,1660,1660,344
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-03-06,1615,1615,1615,344
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-03-16,1645,1660,1660,344
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-03-21,1425,1676,1676,344
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-03-27,1680,1773,1773,344
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-04-12,1686,1791,1791,344
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-05-09,1650,1750,1750,344
+Haryana,Bhiwani,Bhiwani,Indian Colza(Sarson),Other,FAQ,2007-05-14,1725,1760,1760,344
+Haryana,Bhiwani,Tosham,Indian Colza(Sarson),Other,FAQ,2007-03-19,1700,1700,1700,344
+Haryana,Bhiwani,Tosham,Indian Colza(Sarson),Other,FAQ,2007-04-04,1750,1780,1780,344
+Haryana,Bhiwani,Tosham,Indian Colza(Sarson),Other,FAQ,2007-05-16,1730,1730,1730,344
+Haryana,Sirsa,Ding,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-04-04,1670,1784,1700,344
+Haryana,Sirsa,Ding,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-09-06,1700,1700,1700,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-09-18,800,1000,900,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-09-20,700,800,750,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-09-28,400,500,450,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-10-16,300,400,350,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-10-20,400,600,500,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-10-30,300,400,350,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-02,300,400,350,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-13,500,600,550,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-17,400,500,450,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-19,400,600,500,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-23,400,600,500,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-26,300,400,350,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-28,300,400,350,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-12-03,300,400,350,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-12-05,300,500,400,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-12-26,300,400,350,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-12-28,300,400,350,344
+Himachal Pradesh,Kangra,Kangra(Baijnath),Indian Colza(Sarson),Other,FAQ,2007-12-04,300,400,350,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-10-10,500,600,550,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-10-22,300,400,350,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-11-19,300,400,350,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-12-04,300,400,350,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-12-05,300,400,350,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-12-07,400,500,450,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-12-12,300,400,350,344
+Himachal Pradesh,Kangra,Kangra(Jassour),Indian Colza(Sarson),Other,FAQ,2007-12-15,300,400,350,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2007-12-06,500,600,550,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2007-12-18,300,400,350,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-09-26,300,500,400,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-10-11,500,500,500,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-10-16,300,400,350,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-11-02,200,300,250,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-11-07,200,300,250,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-11-20,200,200,200,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-11-21,200,200,200,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-11-30,200,300,250,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-12-03,200,400,300,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-12-04,200,300,250,344
+Himachal Pradesh,Una,Una,Indian Colza(Sarson),Other,FAQ,2007-12-11,300,300,300,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-09-10,500,700,600,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-09-11,400,600,500,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-09-14,200,400,300,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-09-20,280,480,380,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-09-26,500,700,600,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-10-03,300,500,400,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-10-08,400,600,500,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-10-11,400,600,500,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-10-18,400,600,500,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-11-08,300,500,400,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-11-16,300,500,400,344
+Punjab,Barnala,Barnala,Indian Colza(Sarson),Other,FAQ,2007-12-18,300,500,400,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-09-03,300,300,300,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-09-07,300,300,300,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-09-08,300,300,300,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-09-12,400,400,400,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-09-13,300,300,300,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-09-16,300,300,300,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-09-24,800,800,800,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-10-15,300,300,300,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-10-27,500,500,500,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-10-30,300,300,300,344
+Punjab,Fatehgarh,Khamano,Indian Colza(Sarson),Other,FAQ,2007-11-27,500,500,500,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-10-01,500,500,500,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-10-02,500,500,500,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-10-03,500,500,500,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-11-01,300,400,350,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-11-07,300,400,350,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-11-17,300,400,350,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-11-19,400,500,450,344
+Punjab,Jalandhar,Noor Mehal,Indian Colza(Sarson),Other,FAQ,2007-11-28,500,500,500,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-01-05,300,400,400,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-01-06,300,500,500,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-01-07,250,300,300,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-01-14,250,350,350,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-01-24,250,300,300,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-01-25,250,400,300,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-02-09,200,300,200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-05,250,400,400,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-21,200,300,300,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-11-29,600,800,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-12-04,250,300,300,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2007-12-09,300,400,400,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2007-10-10,400,600,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-10-29,800,1000,800,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-10-30,800,1000,800,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-11-11,800,900,800,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-11-16,600,800,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-12-01,600,800,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-12-15,600,1000,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-12-17,600,800,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-12-25,600,600,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-12-29,600,800,700,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-01-07,500,1000,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-01-15,500,1000,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-01-16,500,1000,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-01-20,500,1000,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-02-03,500,1000,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-02-08,500,1000,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-02-10,500,1000,800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-02-17,800,1200,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-02-27,800,1200,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-03-02,800,1200,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-03-17,1000,1500,1200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-03-20,1000,1500,1200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-03-21,1000,1500,1200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-03-22,1000,1500,1200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-03-31,1000,1500,1200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-11-12,1000,1200,1200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-11-28,800,1000,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-12-02,800,1000,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-12-08,800,1000,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-12-22,600,800,700,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2019-12-26,600,800,700,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-08,500,1000,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-18,500,1000,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-28,500,1000,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-06,500,1000,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-08,500,1000,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-10,500,1000,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-18,800,1200,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-19,800,1200,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-05,1000,1200,1100,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-14,1000,1500,1200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-20,1000,1500,1200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-24,1000,1500,1200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-25,1000,1500,1200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-30,1000,1500,1200,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-01,500,500,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-09,690,800,700,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-15,300,500,400,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-16,600,800,700,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-17,300,800,600,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-18,300,500,400,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-24,800,900,900,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-01-25,1000,1000,1000,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-01,300,500,400,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-05,600,800,700,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-02-13,400,500,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-06,500,800,800,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-03-12,1000,1200,1200,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-11-12,1000,1200,1100,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-11-27,500,700,600,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-11-29,400,800,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-12-12,700,900,800,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2019-12-19,500,700,600,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-03,700,780,700,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-21,550,900,550,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-22,610,700,610,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-03-05,600,600,600,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-02,650,800,650,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-03,700,800,700,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-06,800,800,800,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-19,500,660,660,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-21,510,600,510,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-23,470,550,470,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-30,450,600,450,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-03,550,600,550,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-07,400,550,400,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-09,500,500,500,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-21,450,610,450,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-23,500,500,500,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-30,450,690,690,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Other,FAQ,2020-12-02,500,600,550,344
+Himachal Pradesh,Kangra,Kangra,Indian Colza(Sarson),Other,FAQ,2020-12-03,500,600,550,344
+Himachal Pradesh,Kangra,Kangra(Baijnath),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-21,1000,1200,1000,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2020-12-07,1000,1200,1000,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2020-12-29,1000,1200,1000,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2020-12-31,1000,1200,1100,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-26,1200,2000,1600,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-03-12,1200,1500,1350,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-03-20,1200,1500,1350,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-05-01,1000,1500,1250,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-05-04,1000,1500,1250,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-05-11,1000,1500,1250,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-05-15,1300,1500,1400,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-06-24,800,1000,900,344
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-16,1000,1500,1250,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-10,1000,1300,1200,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-12,700,1000,800,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-14,900,1300,1100,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-19,700,1100,900,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-25,1000,1400,1200,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-28,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-16,400,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-18,400,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-25,300,600,500,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-18,300,400,300,344
+Punjab,kapurthala,Bhulath (Ibrahimaaaaval),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-16,700,800,800,344
+Punjab,kapurthala,Bhulath (Ibrahimaaaaval),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-18,600,700,700,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-06,800,800,800,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-07,1000,1000,1000,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-14,1000,1000,1000,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-24,600,600,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-16,400,500,400,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-15,800,1000,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-17,500,800,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-20,500,800,800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-21,800,1000,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-22,1000,1500,1500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-10-27,1500,2000,2000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-10-28,1000,1500,1500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-10-30,1200,1500,1500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-07,800,1000,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-13,800,1000,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-24,800,1000,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-30,400,500,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-15,400,500,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-24,400,500,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-25,400,500,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-26,400,500,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-29,400,500,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-13,600,800,700,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-20,600,800,700,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-01-24,600,800,700,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-02-10,700,900,800,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-06,1000,1200,1100,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-11-13,1200,1400,1300,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2020-12-03,800,1000,900,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-02-28,800,1000,900,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-03-09,800,1000,900,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-08-19,2000,2500,2200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-08-20,2000,2500,2200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-08-25,2000,2500,2200,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-09-20,1000,1800,1500,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-09-28,1000,1800,1500,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-10-02,1500,2000,1800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-10-18,1500,2000,1800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-10-21,1500,2000,1800,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-10-24,1500,2000,1700,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-11-06,800,1200,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-11-07,800,1200,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-11-08,800,1200,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-11-09,800,1200,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-11-20,500,800,700,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-12-13,500,700,600,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-12-27,600,800,700,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-03,800,1000,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-11,800,1000,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-30,800,1000,900,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-31,600,800,700,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-07,800,1000,900,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-10,500,900,600,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-27,800,1000,900,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-28,800,1000,900,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-09,800,1000,900,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-08-13,2000,2500,2200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-03,2000,2500,2200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-18,1000,1800,1500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-21,1000,1800,1500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-02,1500,2000,1800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-09,1500,2000,1800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-13,1500,2000,1800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-14,1500,2000,1800,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-01,1000,1500,1200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-02,1000,1500,1200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-05,800,1200,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-06,800,1200,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-09,1000,1500,1200,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-10,800,1200,1000,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-14,500,700,600,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-17,400,600,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-19,400,600,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-20,400,600,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-24,400,600,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-30,400,600,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-05,400,600,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-06,400,600,500,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-12,600,800,700,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-13,600,800,700,344
+Punjab,Mohali,Banur (Kheragaju),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-17,600,800,700,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-08,800,1000,800,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-09,1000,1000,1000,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-25,600,700,600,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-26,1500,1500,1500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-27,1200,1200,1200,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-29,500,1000,1000,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-16,400,400,400,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-24,1200,1400,1400,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-26,1500,1700,1500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-27,800,1000,1000,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-14,500,600,600,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-17,500,600,600,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-24,700,800,800,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-27,500,800,600,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-10,500,600,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-15,400,500,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-17,400,500,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-18,400,600,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-20,400,500,500,344
+Punjab,Muktsar,Giddarbaha,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-29,800,1000,800,344
+Haryana,Hissar,Barwala(Hisar),Indian Colza(Sarson),Other,FAQ,2018-04-03,3321,3492,3400,344
+Haryana,Hissar,Barwala(Hisar),Indian Colza(Sarson),Other,FAQ,2018-04-09,3400,3437,3437,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-04-03,3335,3575,3500,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-04-07,3290,3450,3345,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-04-09,3225,3500,3440,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-04-14,3150,3490,3380,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-04-18,3900,3900,3900,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-04-25,3900,3900,3900,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-05-04,3900,3900,3900,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-05-16,3350,3360,3360,344
+Haryana,Mahendragarh-Narnaul,Narnaul,Indian Colza(Sarson),Other,FAQ,2018-07-21,3900,3925,3925,344
+Haryana,Sirsa,kalanwali,Indian Colza(Sarson),Other,FAQ,2018-03-30,3200,3482,3400,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-03,310,542,310,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-04,460,603,460,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-05,370,418,370,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-07,390,550,390,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-11,330,389,330,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-23,390,405,390,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-02,500,500,500,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-09,500,500,500,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-20,450,450,450,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-22,390,440,390,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-23,400,450,400,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-24,450,450,450,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-03,450,450,450,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-06,450,500,450,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-09,500,500,500,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-14,480,480,480,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-15,510,510,510,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-16,490,490,490,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-21,450,450,450,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-14,940,940,940,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-13,600,800,600,344
+Haryana,Yamuna Nagar,Chhachrauli,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-17,500,700,660,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2018-01-10,1000,1000,1000,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2018-01-15,1500,1700,1500,344
+Himachal Pradesh,Kangra,Palampur,Indian Colza(Sarson),Other,FAQ,2018-02-01,1000,1000,1000,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-04,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-05,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-06,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-09,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-10,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-14,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-18,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-19,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-27,300,500,400,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-30,300,500,400,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-31,300,500,400,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-07,300,500,400,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-12,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-14,300,500,400,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-16,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-09,800,1200,1000,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-16,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-03-31,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-28,1200,2000,1500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-03,1200,1800,1500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-14,600,1000,800,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-19,1200,1800,1500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-24,600,1000,800,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-02,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-09,800,1300,1000,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-12,500,900,700,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-21,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-25,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-27,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-28,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-05,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-11,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-13,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-14,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-17,500,700,600,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-18,400,600,500,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-22,300,500,400,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-25,300,500,400,344
+Punjab,Barnala,Dhanaula,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-28,400,600,500,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-01,800,900,800,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-12,400,500,500,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-16,400,500,400,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-24,200,300,300,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-01-25,300,400,300,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-01,500,600,600,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-02-02,500,600,600,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-08-30,1400,1700,1700,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-06,1800,2000,2000,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-16,1400,1900,1800,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-18,1500,2000,1800,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-09-26,1000,1400,1300,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-01,1400,1700,1700,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-07,1500,2000,1800,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-10,1100,1500,1400,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-11,1200,1500,1400,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-12,1200,1500,1500,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-13,1400,1500,1400,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-15,1400,1600,1500,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-17,1400,1500,1500,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-24,1500,1800,1800,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-14,500,700,600,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-26,500,600,600,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-02,500,700,700,344
+Punjab,kapurthala,Bhulath,Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-08,600,800,700,344
+Punjab,kapurthala,Bhulath (Ibrahimaaaaval),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-01,2500,2600,2500,344
+Punjab,kapurthala,Bhulath (Ibrahimaaaaval),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-19,1200,1800,1500,344
+Punjab,kapurthala,Bhulath (Ibrahimaaaaval),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-12-01,500,700,600,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-08,1500,2000,1700,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-10-17,1200,1500,1400,344
+Punjab,kapurthala,Bhulath (Nadala),Indian Colza(Sarson),Indian Colza(Sarson),FAQ,2018-11-15,500,700,600,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-01-10,800,1000,900,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-01-16,800,1000,1000,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-01-29,500,700,600,344
+Punjab,Mohali,Banur,Indian Colza(Sarson),Other,FAQ,2018-02-23,800,1000,900,344

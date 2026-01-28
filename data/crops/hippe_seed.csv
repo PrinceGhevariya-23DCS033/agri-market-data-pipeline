@@ -1,0 +1,107 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Mandya,Nagamangala,Hippe Seed,Hippe Seed,Medium,2007-08-13,650,700,665,125
+Karnataka,Mandya,Nagamangala,Hippe Seed,Hippe Seed,Medium,2007-08-28,700,700,700,125
+Karnataka,Mandya,Nagamangala,Hippe Seed,Hippe Seed,Medium,2007-09-20,700,700,700,125
+Karnataka,Mysore,Mysore (Bandipalya),Hippe Seed,Hippe Seed,FAQ,2007-07-02,411,411,411,125
+Karnataka,Mysore,Mysore (Bandipalya),Hippe Seed,Hippe Seed,FAQ,2007-07-13,442,442,442,125
+Karnataka,Mysore,Mysore (Bandipalya),Hippe Seed,Hippe Seed,FAQ,2007-07-17,472,472,472,125
+Karnataka,Mysore,Mysore (Bandipalya),Hippe Seed,Hippe Seed,FAQ,2007-08-11,637,637,637,125
+Karnataka,Mysore,Mysore (Bandipalya),Hippe Seed,Hippe Seed,FAQ,2007-08-17,582,596,582,125
+Karnataka,Mysore,Mysore (Bandipalya),Hippe Seed,Hippe Seed,FAQ,2007-08-24,1156,1189,1156,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-01-03,1890,1915,1915,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-01-04,1855,1885,1885,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-02-07,2250,2300,2300,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-02-26,2650,3000,3000,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-05-21,3500,3510,3510,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-07-24,3592,3605,3605,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-08-18,4400,4500,4500,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-08-20,4100,4200,4200,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Hippe Seed,FAQ,2007-08-27,4300,4300,4300,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Other,FAQ,2007-11-22,2580,2621,2600,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Other,FAQ,2007-11-26,2556,2556,2556,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Other,FAQ,2007-11-28,2960,3000,2975,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Other,FAQ,2007-12-08,2766,2863,2800,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Other,FAQ,2007-12-09,2800,2816,2800,125
+Madhya Pradesh,Mandla,Mandla,Hippe Seed,Other,FAQ,2007-12-17,2725,2778,2770,125
+Maharashtra,Beed,Ambejaogai,Hippe Seed,Other,FAQ,2007-01-13,751,765,751,125
+Maharashtra,Beed,Kille Dharur,Hippe Seed,Other,FAQ,2007-01-08,600,600,600,125
+Maharashtra,Buldhana,Deoulgaon Raja,Hippe Seed,Other,FAQ,2007-01-17,601,601,601,125
+Maharashtra,Buldhana,Deoulgaon Raja,Hippe Seed,Other,FAQ,2007-01-22,600,600,600,125
+Maharashtra,Buldhana,Deoulgaon Raja,Hippe Seed,Other,FAQ,2007-05-19,600,600,600,125
+Maharashtra,Hingoli,Sengoan,Hippe Seed,Other,FAQ,2007-01-12,320,400,350,125
+Maharashtra,Latur,Ahmedpur,Hippe Seed,Other,FAQ,2007-01-27,837,876,855,125
+Maharashtra,Latur,Ahmedpur,Hippe Seed,Other,FAQ,2007-03-22,911,911,911,125
+Maharashtra,Latur,Ausa,Hippe Seed,Other,FAQ,2007-01-28,831,831,831,125
+Maharashtra,Nanded,Loha,Hippe Seed,Other,FAQ,2007-01-31,865,865,865,125
+Maharashtra,Nandurbar,Navapur,Hippe Seed,Other,FAQ,2007-01-08,700,700,700,125
+Maharashtra,Nandurbar,Navapur,Hippe Seed,Other,FAQ,2007-12-29,800,800,800,125
+Maharashtra,Sholapur,Barshi(Vairag),Hippe Seed,Other,FAQ,2007-12-27,750,750,750,125
+Maharashtra,Pune,Pune(Khadiki),Hippe Seed,Other,FAQ,2022-06-08,6,6,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-01-02,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-01-04,7,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-01-10,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-01-14,7,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-01-19,7,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-01-22,6,8,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-02-12,4,6,5,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-02-27,5,6,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-03-19,7,8,8,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-03-31,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-04-03,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-04-29,5,6,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-05-09,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-05-10,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-05-14,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-05-23,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-05-28,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-06-02,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-06-05,3,6,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-06-18,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-06-20,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-06-27,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-06-30,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-07-05,5,7,6,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-07-14,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-07-23,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-07-25,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-07-28,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-07-29,6,7,7,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2022-08-10,6,7,7,125
+Maharashtra,Pune,Pune(Khadiki),Hippe Seed,Other,FAQ,2021-03-24,3,4,3.0,125
+Maharashtra,Pune,Pune(Khadiki),Hippe Seed,Other,FAQ,2021-04-20,5,7,6.0,125
+Maharashtra,Pune,Pune(Khadiki),Hippe Seed,Other,FAQ,2021-05-03,6,7,6.0,125
+Maharashtra,Pune,Pune(Khadiki),Hippe Seed,Other,FAQ,2021-06-01,4,6,5.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-01-04,3,4,4.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-02-17,3,4,4.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-03-24,3,4,4.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-06-12,4,5,5.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-06-23,4,6,5.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-06-26,4,4,4.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-06-30,4,7,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-07-08,3,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-07-09,3,4,3.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-09-06,3,4,4.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-09-18,4,5,5.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-09-22,3,4,4.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-06,7,8,8.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-07,4,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-09,3,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-15,3,5,4.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-18,3,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-23,4,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-27,4,6,5.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-10-28,2,9,5.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-11-02,4,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-11-07,5,8,7.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-11-10,4,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-11-16,7,8,8.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-06,7,8,8.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-07,7,8,8.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-10,7,7,7.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-13,5,8,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-18,7,8,8.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-21,6,7,7.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-23,7,7,7.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-24,5,7,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-27,5,7,6.0,125
+Maharashtra,Pune,Pune(Pimpri),Hippe Seed,Other,FAQ,2021-12-29,5,7,6.0,125

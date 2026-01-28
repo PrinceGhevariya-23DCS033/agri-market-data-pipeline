@@ -1,0 +1,315 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Andhra Pradesh,East Godavari,Jaggampet,Cashewnuts,Local(Raw),FAQ,2007-10-08,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Jaggampet,Cashewnuts,Local(Raw),FAQ,2007-10-18,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Jaggampet,Cashewnuts,Local(Raw),FAQ,2007-11-29,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Jaggampet,Cashewnuts,Local(Raw),FAQ,2007-12-07,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Jaggampet,Cashewnuts,Local(Raw),FAQ,2007-12-12,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-01-02,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-01-19,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-01-25,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-01-27,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-02-02,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-02-06,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-02-08,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-02-12,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-02-13,2700,2800,2750.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-05-08,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-05-19,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-05-22,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-05-29,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-06-08,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-06-16,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-06-18,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-07-17,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-07-31,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-08-09,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-08-10,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-08-18,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-08-30,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-08-31,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-09-01,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-09-10,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-09-20,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-10-01,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-10-22,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-11-05,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-11-09,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-11-19,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-11-20,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-11-21,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-11-29,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-12-04,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-12-14,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-12-15,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-12-20,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-12-21,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Rajahmundry,Cashewnuts,Local(Raw),FAQ,2007-12-23,2700,3000,2900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-01-08,3700,4000,3800.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-01-17,3700,4000,3800.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-01-23,3700,4000,3800.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-01-31,3700,4000,3800.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-02-01,3800,4000,3900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-02-16,3800,4000,3900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-02-17,3800,4000,3900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-06,3800,4000,3900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-07,3800,4000,3900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-18,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-20,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-23,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-24,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-25,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-03-26,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-04-09,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-04-12,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-04-22,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-04-26,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-04-28,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-05-05,2900,3100,3000.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-05-08,2900,3100,3000.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-05-21,2800,3000,2900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-05-22,2800,3000,2900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-05-24,2800,3000,2900.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-05-30,2100,2300,2200.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-06-03,2100,2300,2200.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-06-13,2900,3100,3000.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-06-29,2900,3100,3000.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-07-08,2900,3100,3000.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-07-09,2900,3200,3100.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-07-14,2900,3200,3100.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-07-18,2900,3200,3100.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-07-20,2900,3200,3100.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-08-12,2900,3200,3100.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-08-14,2900,3200,3100.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-08-19,2900,3200,3100.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-08-29,2900,3300,3200.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-09-05,3200,3500,3300.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-09-27,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-10-09,3300,3500,3400.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-10-17,3500,3700,3600.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-10-22,3500,3700,3600.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-10-23,3500,3700,3600.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-11-07,3500,3700,3500.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-11-14,3600,3800,3700.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-12-01,4200,4400,4300.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-12-13,4500,4700,4500.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-12-15,4500,4700,4500.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-12-21,4600,4800,4700.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-12-23,4600,4800,4700.0,36
+Andhra Pradesh,East Godavari,Tuni,Cashewnuts,Local(Raw),FAQ,2007-12-31,4200,4400,4300.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-01-06,25000,26000,25500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-01-22,26000,28000,27000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-02-08,25000,27000,26000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-02-19,25000,26000,25500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-02-20,25000,26000,25500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-02-23,24500,25500,25000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-03-20,24500,25500,25000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-04-17,23000,23500,23250.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-05-14,23000,23500,23250.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-05-28,22000,22500,22250.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-05-31,21500,22000,21750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-06-23,20000,21000,20500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-06-29,20500,21500,21000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-07-03,21000,21500,21250.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-07-05,21000,22000,21500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-07-19,21000,22500,21750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-08-14,23000,25000,24000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-08-27,23000,25000,24000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-01,23000,24000,23500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-08,24000,25000,24500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-11,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-13,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-14,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-19,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-21,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-09-22,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-10-02,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-10-03,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-10-08,24000,25500,24750.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-10-17,25500,26500,26000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-11-07,25000,26000,25500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-11-15,25500,26500,26000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-11-23,27000,28000,27500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-11-26,27000,28000,27500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-12-03,27000,28000,27500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-12-05,27000,28000,27500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-12-10,26000,27000,26500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-12-11,26000,27000,26500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,American(Raw) without Shell,FAQ,2007-12-22,26000,26400,26200.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-01-10,3400,4000,3700.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-01-17,3400,3800,3600.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-02-23,3000,4000,3500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-03-15,3200,3800,3500.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-03-20,3200,3600,3400.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-04-24,2900,3100,3000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-04-25,2900,3100,3000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-06-12,2400,2500,2450.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-06-28,2500,2700,2600.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-07-25,2800,3000,2900.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-07-31,2800,3000,2900.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-08-06,2800,3000,2900.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-08-27,2800,3200,3000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-08-30,2800,3000,2900.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-09-10,2800,3000,2900.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-09-27,2900,3100,3000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-10-23,3000,3400,3200.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-10-25,3000,3400,3200.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-11-02,2600,3400,3000.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-11-14,2600,3200,2900.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-11-20,3000,3400,3200.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-11-23,3000,3700,3350.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-12-05,3000,3800,3400.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-12-07,3000,3800,3400.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-12-09,3000,3800,3400.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-12-11,3000,3800,3400.0,36
+Andhra Pradesh,Prakasam,Chirala,Cashewnuts,Local(Raw),FAQ,2007-12-18,3000,3700,3350.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-01-04,2890,2990,2940.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-01-05,2870,2970,2920.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-02-02,3125,3500,3310.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-02-08,3125,3500,3310.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-02-09,3125,3500,3310.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-03-07,3125,3475,3300.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-04-16,2850,2950,2900.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-05-08,2850,2950,2900.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-07-25,2800,2950,2875.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-07-28,2850,2950,2900.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-08-04,2850,2950,2900.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-08-06,2850,2950,2900.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-08-09,2850,2950,2900.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-08-14,2900,3000,2950.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-08-18,2900,3000,2950.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-08-20,2900,3000,2950.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-08-22,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-09-01,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-09-05,2800,2900,2870.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-09-10,2800,2900,2870.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-09-26,2900,3000,2940.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-09-29,3000,3200,3100.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-10-03,3000,3200,3100.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-10-15,3000,3200,3100.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-10-16,3000,3200,3100.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-10-18,3000,3200,3120.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-10-27,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-10-30,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-10-31,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-11-03,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-11-07,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-11-19,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-11-20,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-11-28,2800,3000,2900.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-11-30,2850,3000,2920.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-12-03,2850,3000,2920.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-12-05,2850,3000,2920.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-12-10,2850,3000,2920.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-12-18,2850,3000,2920.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-12-19,2850,3000,2920.0,36
+Andhra Pradesh,Srikakulam,Sompeta,Cashewnuts,Local(Raw),FAQ,2007-12-28,2850,3000,2920.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-03-23,2800,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-03-29,2800,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-04-23,2800,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-05-01,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-06-13,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-06-14,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-06-29,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-07-09,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-08-17,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-09-06,2800,2900,2870.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-09-22,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-09-29,2700,2900,2800.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-10-05,2900,3000,2930.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-10-06,2900,3000,2950.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-10-08,2800,2900,2850.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-10-17,2900,3000,2950.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-10-26,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-10-29,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-11-03,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-11-05,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-11-15,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-11-28,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-12-01,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-12-05,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-12-12,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-12-17,2600,2800,2700.0,36
+Andhra Pradesh,Srikakulam,Tekkali,Cashewnuts,Local(Raw),FAQ,2007-12-18,2600,2800,2700.0,36
+Andhra Pradesh,Vijayanagaram,Kurupam,Cashewnuts,Other,FAQ,2007-04-19,3100,3300,3300.0,36
+Andhra Pradesh,Vijayanagaram,Kurupam,Cashewnuts,Other,FAQ,2007-04-23,3100,3200,3200.0,36
+Andhra Pradesh,Vijayanagaram,Kurupam,Cashewnuts,Other,FAQ,2007-04-25,3100,3200,3200.0,36
+Andhra Pradesh,Vijayanagaram,Kurupam,Cashewnuts,Other,FAQ,2007-04-30,3100,3200,3200.0,36
+Andhra Pradesh,Vijayanagaram,Kurupam,Cashewnuts,Other,FAQ,2007-05-01,3100,3200,3200.0,36
+Andhra Pradesh,Vijayanagaram,Kurupam,Cashewnuts,Other,FAQ,2007-05-07,3100,3200,3200.0,36
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Cashewnuts,Other,FAQ,2007-04-24,3100,3200,3200.0,36
+Andhra Pradesh,Vijayanagaram,Parvathipuram,Cashewnuts,Other,FAQ,2007-05-02,3100,3200,3200.0,36
+Andhra Pradesh,Visakhapatnam,Chintapally,Cashewnuts,Other,FAQ,2007-07-06,2300,2400,2350.0,36
+Andhra Pradesh,Visakhapatnam,Chintapally,Cashewnuts,Other,FAQ,2007-07-24,2500,2600,2575.0,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-04-30,3000,3600,3200.0,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-05-21,2400,2600,2500.0,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-05-23,2400,2600,2500.0,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-10-18,3800,4000,3900.0,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-10-27,3700,3900,3800,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-11-02,3200,3800,3500,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-11-26,2500,3000,2800,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-12-03,2500,3000,2800,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Local(Raw),FAQ,2007-12-07,2200,2800,2500,36
+Andhra Pradesh,Visakhapatnam,Chodavaram,Cashewnuts,Other,FAQ,2007-11-20,3000,3500,3200,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Local(Raw),FAQ,2007-06-20,2200,2500,2400,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Local(Raw),FAQ,2007-08-17,2400,2800,2600,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-04-13,2800,2900,2850,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-05-16,2400,2500,2450,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-05-30,2500,2600,2550,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-07-13,2400,2400,2400,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-08-13,2500,2600,2550,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-09-07,2400,2500,2450,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-10-18,2200,2300,2250,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-10-23,2200,2300,2250,36
+Andhra Pradesh,Visakhapatnam,Narsipatnam,Cashewnuts,Other,FAQ,2007-11-19,2600,3000,2800,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-04-03,3000,3500,3292,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-04-27,3300,3600,3550,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-06-22,2800,3200,3000,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-07-09,3000,3500,3295,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-07-11,3300,3700,3500,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-08-13,3300,3700,3500,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-11-27,2600,2900,2750,36
+Andhra Pradesh,Visakhapatnam,Yellamanchili,Cashewnuts,Local(Raw),FAQ,2007-12-10,2600,2900,2700,36
+Andhra Pradesh,West Godavari,Gopalavaram,Cashewnuts,Local(Raw),FAQ,2007-01-27,2350,2850,2850,36
+Andhra Pradesh,West Godavari,Gopalavaram,Cashewnuts,Local(Raw),FAQ,2007-01-31,2400,2950,2950,36
+Andhra Pradesh,West Godavari,Gopalavaram,Cashewnuts,Local(Raw),FAQ,2007-02-09,2400,2950,2950,36
+Andhra Pradesh,West Godavari,Gopalavaram,Cashewnuts,Local(Raw),FAQ,2007-02-17,3200,3500,3500,36
+Andhra Pradesh,West Godavari,Gopalavaram,Cashewnuts,Local(Raw),FAQ,2007-02-23,3200,3500,3500,36
+Andhra Pradesh,West Godavari,Gopalavaram,Cashewnuts,Local(Raw),FAQ,2007-03-18,2950,3310,3310,36
+Andhra Pradesh,West Godavari,Gopalavaram,Cashewnuts,Local(Raw),FAQ,2007-04-22,3050,3410,3410,36
+Andhra Pradesh,West Godavari,Polavaram,Cashewnuts,Other,FAQ,2007-04-19,2500,2600,2550,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-03-22,39,39,39,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-05-25,3400,3450,3450,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-05-29,3400,3400,3400,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-05-31,3400,3400,3400,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-06-05,3400,3400,3400,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-06-07,3400,3400,3400,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-06-11,3400,3400,3400,36
+Goa,South Goa,Canacona,Cashewnuts,Local(Raw),FAQ,2007-06-18,3400,3400,3400,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-02-12,2500,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-02-14,2500,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-02-15,2500,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-03-07,2500,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-03-22,2500,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-04-05,2500,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-04-25,2400,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-04-27,2200,2800,2500.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-05-01,2500,2800,2600.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-06-13,2200,2800,2500.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-07-18,2800,3000,2850.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Monday Market,Cashewnuts,Local(Raw),FAQ,2007-07-23,2200,2800,2500.0,36
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri,Cashewnuts,Local(Raw),FAQ,2007-11-22,2000,2400,2200.0,36
+Telangana,Khammam,Dammapet,Cashewnuts,Other,FAQ,2007-10-11,2500,2875,2600.0,36
+West Bengal,Medinipur(E),Egra/contai,Cashewnuts,Kernel,FAQ,2007-12-20,19550,19850,19650.0,36
+West Bengal,Medinipur(E),Egra/contai,Cashewnuts,S.W.,FAQ,2007-08-12,19750,20000,19800.0,36
+West Bengal,Medinipur(E),Egra/contai,Cashewnuts,S.W.,FAQ,2007-09-16,19700,20000,19800.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-01-06,18500,19500,19000.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-01-14,19000,20000,19500.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-01-16,19000,20000,19500.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-01-24,19000,20000,19500.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-01-27,19000,20000,19500.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-01-31,19000,20000,19500.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-02-12,19000,20000,19500.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-02-19,19500,20000,19700.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-02-26,19500,20000,19750.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-03-06,19500,20000,19750.0,36
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Cashewnuts,Local(Raw),FAQ,2007-03-07,19500,20000,19750.0,36

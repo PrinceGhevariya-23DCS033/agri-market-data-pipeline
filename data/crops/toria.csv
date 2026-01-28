@@ -1,0 +1,567 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Surendranagar,Vadhvan,Toria,Toria,FAQ,2007-08-30,800,1000,900,66
+Gujarat,Surendranagar,Vadhvan,Toria,Toria,FAQ,2007-09-01,500,700,600,66
+Gujarat,Surendranagar,Vadhvan,Toria,Toria,FAQ,2007-09-11,500,800,650,66
+Gujarat,Surendranagar,Vadhvan,Toria,Toria,FAQ,2007-09-16,700,900,800,66
+Gujarat,Surendranagar,Vadhvan,Toria,Toria,FAQ,2007-09-19,700,800,750,66
+Gujarat,Surendranagar,Vadhvan,Toria,Toria,FAQ,2007-09-21,400,600,500,66
+Gujarat,Surendranagar,Vadhvan,Toria,Toria,FAQ,2007-10-02,600,700,650,66
+Gujarat,Vadodara(Baroda),Vadodara,Toria,Other,FAQ,2007-02-24,500,1000,600,66
+Gujarat,Vadodara(Baroda),Vadodara,Toria,Other,FAQ,2007-03-31,750,1000,750,66
+Gujarat,Vadodara(Baroda),Vadodara,Toria,Other,FAQ,2007-04-27,500,750,600,66
+Gujarat,Vadodara(Baroda),Vadodara,Toria,Other,FAQ,2007-05-07,400,750,500,66
+Gujarat,Vadodara(Baroda),Vadodara,Toria,Other,FAQ,2007-05-28,300,350,325,66
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Toria,Other,FAQ,2007-09-19,200,400,300,66
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Toria,Other,FAQ,2007-09-21,200,400,300,66
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Toria,Other,FAQ,2007-09-23,200,400,300,66
+Haryana,Bhiwani,Siwani,Toria,Other,FAQ,2007-08-04,400,500,450,66
+Haryana,Bhiwani,Siwani,Toria,Other,FAQ,2007-08-22,350,450,400,66
+Haryana,Bhiwani,Siwani,Toria,Other,FAQ,2007-08-26,350,450,400,66
+Haryana,Bhiwani,Siwani,Toria,Other,FAQ,2007-08-27,350,450,400,66
+Haryana,Bhiwani,Siwani,Toria,Other,FAQ,2007-08-28,400,500,450,66
+Haryana,Bhiwani,Siwani,Toria,Other,FAQ,2007-09-11,350,450,400,66
+Haryana,Bhiwani,Siwani,Toria,Other,FAQ,2007-09-29,400,500,450,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-06-27,1100,1200,1200,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-08-08,600,650,640,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-08-17,580,650,600,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-08-22,500,600,550,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-08-23,600,650,620,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-08-26,600,750,700,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-08-31,600,750,700,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-09-04,650,850,750,66
+Haryana,Karnal,Asandh,Toria,Other,FAQ,2007-09-09,700,750,740,66
+Haryana,Sirsa,kalanwali,Toria,Other,FAQ,2007-08-30,400,400,400,66
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Toria,Other,FAQ,2007-08-24,800,800,800,66
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Toria,Other,FAQ,2007-10-12,800,800,800,66
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Toria,Other,FAQ,2007-10-29,600,600,600,66
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Toria,Other,FAQ,2007-11-17,600,600,600,66
+Himachal Pradesh,Mandi,Mandi(Mandi),Toria,Other,FAQ,2007-06-05,900,1200,1000,66
+Himachal Pradesh,Mandi,Mandi(Mandi),Toria,Other,FAQ,2007-07-27,1000,1000,1000,66
+Himachal Pradesh,Mandi,Mandi(Mandi),Toria,Other,FAQ,2007-08-03,800,1000,800,66
+Himachal Pradesh,Mandi,Mandi(Mandi),Toria,Other,FAQ,2007-09-26,300,400,400,66
+Himachal Pradesh,Mandi,Mandi(Mandi),Toria,Other,FAQ,2007-09-28,300,500,400,66
+Himachal Pradesh,Mandi,Mandi(Mandi),Toria,Toria,FAQ,2007-08-20,1000,1200,1000,66
+Himachal Pradesh,Mandi,Mandi(Mandi),Toria,Toria,FAQ,2007-10-17,700,1000,800,66
+Karnataka,Davangere,Honnali,Toria,Other,FAQ,2007-10-01,210,370,350,66
+Karnataka,Davangere,Honnali,Toria,Other,FAQ,2007-10-19,0,250,250,66
+Madhya Pradesh,Alirajpur,Jobat,Toria,Other,FAQ,2007-02-19,882,882,882,66
+Madhya Pradesh,Badwani,Sendhwa,Toria,Other,FAQ,2007-02-19,882,882,882,66
+Madhya Pradesh,Chhatarpur,Chhatarpur,Toria,Other,FAQ,2007-10-01,925,925,925,66
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),Toria,Other,FAQ,2007-10-01,925,925,925,66
+Madhya Pradesh,Chhatarpur,Rajnagar,Toria,Other,FAQ,2007-10-01,925,925,925,66
+Madhya Pradesh,Dewas,Kannod,Toria,Other,FAQ,2007-04-13,925,943,943,66
+Madhya Pradesh,Khargone,Badwaha,Toria,Other,FAQ,2007-02-19,882,882,882,66
+Madhya Pradesh,Khargone,Kasrawad,Toria,Other,FAQ,2007-02-19,882,882,882,66
+Madhya Pradesh,Mandsaur,Mandsaur,Toria,Other,FAQ,2007-04-13,925,943,943,66
+Madhya Pradesh,Panna,Devandranagar,Toria,Other,FAQ,2007-10-01,925,925,925,66
+Madhya Pradesh,Sagar,Garhakota,Toria,Other,FAQ,2007-10-01,925,925,925,66
+Madhya Pradesh,Shajapur,Shujalpur,Toria,Other,FAQ,2007-04-13,925,943,943,66
+Madhya Pradesh,Ujjain,Badnagar,Toria,Other,FAQ,2007-04-13,925,943,943,66
+Madhya Pradesh,Ujjain,Ujjain,Toria,Other,FAQ,2007-04-13,925,943,943,66
+NCT of Delhi,Delhi,Azadpur,Toria,Other,FAQ,2007-06-20,750,1600,1250,66
+NCT of Delhi,Delhi,Azadpur,Toria,Other,FAQ,2007-06-22,1000,2000,1500,66
+NCT of Delhi,Delhi,Azadpur,Toria,Other,FAQ,2007-07-02,250,900,650,66
+NCT of Delhi,Delhi,Azadpur,Toria,Other,FAQ,2007-07-07,500,1200,900,66
+NCT of Delhi,Delhi,Azadpur,Toria,Other,FAQ,2007-11-05,700,900,800,66
+NCT of Delhi,Delhi,Azadpur,Toria,Other,FAQ,2007-11-08,400,600,500,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-04-26,1500,2500,2000,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-05-03,800,1200,1000,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-05-17,350,1000,650,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-05-25,250,800,525,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-05-28,250,800,525,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-06-04,250,700,425,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-06-07,200,700,450,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-06-08,200,700,450,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-06-14,300,900,600,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-07-24,300,900,600,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-08-03,400,1000,700,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-08-18,300,900,600,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-08-23,250,800,525,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-08-29,200,700,413,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-08-31,200,700,413,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-09-07,300,900,600,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-09-08,300,900,600,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-09-13,600,1100,1000,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-09-18,350,900,750,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-09-29,500,1000,863,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-10-06,600,1400,1213,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-10-31,350,900,563,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-11-08,500,1100,750,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-11-22,750,1600,1125,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-11-29,750,1800,1300,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-11-30,750,1800,1300,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-12-04,750,1800,1250,66
+NCT of Delhi,Delhi,Azadpur,Toria,Toria,FAQ,2007-12-06,900,2000,1400,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-04-01,1600,2000,1800,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-04-13,2200,3000,2600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-04-14,2000,3000,2500,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-04-16,2400,2800,2600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-04-23,1400,1800,1600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-05-28,500,700,600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-05-29,500,700,600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-06-02,300,500,400,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-06-10,300,500,400,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-06-17,400,500,450,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-06-19,900,1200,1050,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-06-28,600,1000,800,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-06-29,600,1000,800,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-07-03,400,600,500,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-07-06,400,600,500,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-07-17,600,800,700,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-07-22,700,900,800,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-07-30,600,800,700,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-07-31,500,800,650,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-08-03,500,700,600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-08-06,500,700,600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-08-09,600,900,750,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-08-11,800,1200,1000,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-08-27,500,700,600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-08-28,400,600,500,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-09-09,500,700,600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-09-15,700,900,800,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-10-01,500,700,600,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-10-05,600,800,700,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-10-09,1000,1400,1200,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-10-12,1000,1200,1100,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-10-16,1000,1200,1100,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-10-20,500,800,650,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-10-25,600,900,750,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-11-09,600,1000,800,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-11-23,1200,1600,1400,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-11-25,900,1300,1100,66
+NCT of Delhi,Delhi,Keshopur,Toria,Other,FAQ,2007-11-30,1600,2000,1800,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-04-19,1400,1600,1500,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-05-10,500,700,600,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-05-14,700,900,800,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-05-31,400,600,500,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-06-08,300,500,400,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-06-13,300,500,400,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-06-26,1200,1600,1400,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-07-03,800,1000,900,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-07-07,800,1000,900,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-07-08,800,1000,900,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-07-10,700,900,800,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-07-11,600,900,800,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-07-21,500,700,600,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-07-28,500,700,600,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-08-04,600,800,700,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-08-16,700,900,800,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-08-21,500,700,600,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-09-07,200,400,300,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-09-15,400,600,500,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-09-17,300,500,400,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-09-19,300,500,400,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-10-05,350,450,400,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-10-11,1000,1400,1200,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-10-24,800,1000,900,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-11-16,700,900,800,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-11-24,1000,1200,1100,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-11-27,900,1100,1000,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-12-04,1000,1400,1200,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-12-06,700,900,800,66
+NCT of Delhi,Delhi,Shahdara,Toria,Toria,FAQ,2007-12-15,1100,1300,1200,66
+Punjab,Barnala,Bhadaur,Toria,Other,FAQ,2007-07-02,500,500,500,66
+Punjab,Barnala,Bhadaur,Toria,Other,FAQ,2007-07-03,500,700,600,66
+Punjab,Barnala,Bhadaur,Toria,Other,FAQ,2007-07-04,700,800,750,66
+Punjab,Faridkot,Faridkot,Toria,Other,FAQ,2007-06-14,300,400,350,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-06-06,200,300,250,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-06-18,250,350,300,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-06-22,600,800,700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-06-26,900,1100,1000,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-06-27,700,900,800,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-07-12,800,1000,900,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-07-13,600,800,700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-07-19,600,800,700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-08-22,500,600,550,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-08-23,500,700,600,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-09-10,600,800,700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-09-15,700,900,800,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-09-19,600,800,700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-09-24,600,800,700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-09-25,700,800,750,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-09-27,700,850,800,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-10-01,800,900,850,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-10-06,800,1000,900,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-10-17,800,1000,900,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-10-23,800,1000,900,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2007-10-26,700,900,800,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-05-17,400,600,500,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-05-31,500,600,550,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-06-01,500,600,550,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-06-05,700,800,750,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-06-11,700,800,750,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-06-16,300,400,350,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-06-30,300,400,350,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-07-03,300,400,350,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-08-17,800,900,850,66
+Punjab,Fazilka,Jalalabad,Toria,Other,FAQ,2007-08-25,700,800,750,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-07-08,450,550,500,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-07-09,400,500,450,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-07-14,250,350,300,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-07-19,600,700,650,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-07-21,650,800,700,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-07-23,650,850,700,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-08-14,500,800,750,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-08-18,850,1000,950,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-08-19,700,900,850,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-08-21,500,700,650,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-09-13,400,500,450,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-09-17,300,500,400,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-09-21,300,500,400,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-09-22,400,600,500,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-10-08,400,600,500,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-10-14,400,600,500,66
+Punjab,Ferozpur,Ferozepur Cantt.,Toria,Other,FAQ,2007-10-24,500,600,550,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2007-06-02,500,700,600,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2007-06-20,1000,1200,1100,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2007-07-03,800,1000,900,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2007-07-10,600,700,650,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2007-07-16,800,1000,900,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2007-08-28,600,900,700,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2007-08-30,500,800,600,66
+Punjab,Ferozpur,Makhu,Toria,Other,FAQ,2007-06-14,350,500,400,66
+Punjab,Ferozpur,Makhu,Toria,Other,FAQ,2007-06-27,450,510,460,66
+Punjab,Ferozpur,Makhu,Toria,Other,FAQ,2007-08-30,600,750,650,66
+Punjab,Ferozpur,Makhu,Toria,Other,FAQ,2007-09-06,400,500,450,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-05-18,900,900,900,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-06-07,500,500,500,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-06-12,500,500,500,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-06-13,400,500,500,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-06-22,400,700,700,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-06-23,600,800,800,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-06-25,500,800,800,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-06-26,600,800,800,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-07-06,500,550,550,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-07-10,400,450,450,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-07-18,500,550,550,66
+Punjab,Jalandhar,Noor Mehal,Toria,Other,FAQ,2007-08-01,250,300,300,66
+Punjab,Ludhiana,Ludhiana,Toria,Other,FAQ,2007-06-12,300,550,425,66
+Punjab,Ludhiana,Ludhiana,Toria,Other,FAQ,2007-06-25,500,800,650,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2007-06-01,350,400,350,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2007-06-07,200,250,200,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2007-06-11,350,400,350,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2007-09-01,500,550,500,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2007-10-09,800,850,800,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2007-10-10,800,850,800,66
+Punjab,Muktsar,Bariwala,Toria,Other,FAQ,2007-06-19,900,1100,1000,66
+Punjab,Muktsar,Bariwala,Toria,Other,FAQ,2007-07-05,900,1100,1000,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-05-19,600,700,650,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-05-26,800,850,825,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-06-05,300,500,400,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-06-06,250,300,275,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-06-25,1000,1200,1100,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-07-02,900,1200,1000,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-07-03,600,800,700,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-08-02,800,900,850,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-08-03,900,1000,950,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-08-09,700,800,750,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-08-18,800,1000,900,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-09-19,700,800,750,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-10-03,700,800,750,66
+Punjab,Muktsar,Malout,Toria,Other,FAQ,2007-10-31,700,800,750,66
+Punjab,Patiala,Nabha,Toria,Other,FAQ,2007-07-17,600,900,700,66
+Punjab,Patiala,Nabha,Toria,Other,FAQ,2007-07-27,500,600,550,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-07-05,400,1000,700,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-07-10,500,1200,850,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-07-25,500,1300,950,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-08-10,500,1100,850,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-08-20,500,1000,850,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-08-22,400,1000,750,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-08-27,500,1000,750,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-08-30,300,600,450,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-08-31,300,600,450,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-09-14,500,1400,1100,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-09-17,400,1200,900,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-10-15,700,1200,900,66
+Rajasthan,Ajmer,Ajmer(F&V),Toria,Other,FAQ,2007-10-16,700,1200,1000,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-04-28,1600,2400,2000,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-05-12,600,1000,800,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-05-15,600,1000,800,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-05-19,600,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-05-20,500,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-05-26,500,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-06-01,300,500,400,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-06-10,200,500,350,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-06-14,600,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-06-16,600,1000,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-06-21,800,1200,1000,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-06-26,800,1200,1000,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-07-02,400,600,500,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-07-08,600,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-07-09,400,700,600,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-07-14,400,800,600,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-07-17,600,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-07-27,400,700,550,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-08-01,400,600,500,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-08-02,400,600,500,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-08-11,600,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-08-14,800,1200,1000,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-08-26,600,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-08-29,600,1000,800,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-09-01,400,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-09-03,400,600,500,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-09-11,500,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-09-14,500,700,600,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-09-24,500,800,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-10-02,600,900,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-10-12,600,900,700,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-10-18,300,600,400,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-10-20,300,600,400,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-10-21,1000,1400,1100,66
+Rajasthan,Alwar,Alwar (F&V),Toria,Other,FAQ,2007-10-30,700,1100,800,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-06-04,200,400,300,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-06-07,300,500,400,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-06-11,300,500,400,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-06-14,300,500,400,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-06-21,600,800,700,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-06-22,500,700,600,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-07-12,200,400,300,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-07-17,200,400,300,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-07-26,200,400,300,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-08-17,900,1100,1000,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-08-20,900,1100,1000,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-09-14,900,1100,1000,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-09-17,1000,1200,1100,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-09-20,700,900,800,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-09-21,600,800,700,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-09-24,700,900,800,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-09-27,800,1000,900,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-09-29,600,800,700,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-10-24,800,1000,900,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-11-06,700,900,800,66
+Rajasthan,Ganganagar,Sriganganagar (F&V),Toria,Other,FAQ,2007-11-21,200,400,300,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-02-19,1800,1800,1800,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-03-07,1000,1400,1200,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-03-26,1400,2000,1700,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-03-27,2000,2200,2100,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-03-28,2000,2200,2100,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-04-25,1000,1200,1100,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-04-29,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-05-06,300,800,550,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-05-09,300,600,450,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-05-11,300,500,400,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-05-24,300,800,550,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-05-26,500,700,600,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-05-27,300,800,550,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-06-02,200,800,500,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-06-05,200,500,350,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-06-10,300,600,450,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-06-28,800,1300,1050,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-07-03,300,1000,650,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-07-11,1000,1400,1200,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-07-13,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-07-22,700,1000,850,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-07-23,200,800,500,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-07-25,700,1500,1100,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-08-05,1000,2000,1500,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-08-10,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-08-16,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-08-18,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-08-19,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-08-25,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-08-31,800,1200,1000,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-09-09,500,800,650,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-09-18,400,600,500,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-09-20,600,1200,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-09-27,500,1500,1000,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-10-02,1500,2000,1750,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-10-03,500,1800,1150,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-10-23,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-10-24,800,1000,900,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-10-30,1200,1500,1350,66
+Rajasthan,Jodhpur,Jodhpur (F&V),Toria,Other,FAQ,2007-10-31,1000,1200,1100,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-09-12,700,1000,850,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-09-19,800,1000,900,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-09-29,800,1200,1000,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-10-15,800,1000,900,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-10-20,400,600,500,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-11-02,400,600,500,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-11-04,200,350,275,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-11-05,700,1000,850,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-11-07,1000,1000,1000,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-11-14,550,800,675,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-11-25,800,1100,950,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-11-26,900,1300,1100,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-12-07,1100,1400,1250,66
+Rajasthan,Kota,Kota (F&V),Toria,Other,FAQ,2007-12-11,1300,1300,1300,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-06-13,0,0,500,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-06-27,0,0,640,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-06-30,0,0,710,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-07-04,0,0,790,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-07-12,0,0,800,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-07-25,0,0,650,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-07-27,0,0,590,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-08-02,0,0,550,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Other,FAQ,2007-08-21,0,0,675,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Toria,FAQ,2007-08-30,515,565,555,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Toria,FAQ,2007-09-03,520,585,560,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Toria,FAQ,2007-09-15,580,615,590,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Toria,FAQ,2007-09-29,415,460,430,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Toria,FAQ,2007-10-03,410,450,425,66
+Uttar Pradesh,Lalitpur,Lalitpur,Toria,Toria,FAQ,2007-10-17,450,475,465,66
+Uttar Pradesh,Mathura,Kosikalan,Toria,Other,FAQ,2007-08-01,350,400,390,66
+Uttar Pradesh,Mathura,Kosikalan,Toria,Other,FAQ,2007-08-03,400,425,410,66
+Uttar Pradesh,Mathura,Kosikalan,Toria,Other,FAQ,2007-08-26,480,500,495,66
+Uttar Pradesh,Muzaffarnagar,Khatauli,Toria,Toria,FAQ,2007-08-13,500,580,530,66
+Uttar Pradesh,Saharanpur,Chutmalpur,Toria,Other,FAQ,2007-09-17,320,340,330,66
+Uttar Pradesh,Saharanpur,Saharanpur,Toria,Other,FAQ,2007-09-20,360,670,465,66
+Uttar Pradesh,Saharanpur,Saharanpur,Toria,Other,FAQ,2007-09-24,370,550,450,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-05-18,325,375,350,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-05-23,335,365,350,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-05-26,315,355,330,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-05-31,250,280,260,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-04,220,260,250,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-08,215,250,230,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-11,250,270,260,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-12,240,270,260,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-14,240,265,250,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-19,340,375,350,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-20,400,450,425,66
+Uttar Pradesh,Shamli,Shamli,Toria,Toria,FAQ,2007-06-24,560,600,575,66
+Uttar Pradesh,Unnao,Unnao,Toria,Toria,FAQ,2007-09-18,0,0,380,66
+Uttar Pradesh,Unnao,Unnao,Toria,Toria,FAQ,2007-09-25,0,0,380,66
+Uttar Pradesh,Unnao,Unnao,Toria,Toria,FAQ,2007-09-29,0,0,375,66
+Uttar Pradesh,Unnao,Unnao,Toria,Toria,FAQ,2007-10-02,0,0,400,66
+Uttar Pradesh,Unnao,Unnao,Toria,Toria,FAQ,2007-10-06,0,0,480,66
+Uttrakhand,Nanital,Ramnagar,Toria,Other,FAQ,2007-08-05,250,350,300,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-07-10,260,300,280,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-07-29,350,400,375,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-08-13,295,305,300,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-10-08,225,275,250,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-10-14,230,270,250,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-10-20,300,320,310,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-10-21,375,425,400,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-10-23,360,400,380,66
+Uttrakhand,UdhamSinghNagar,Sitarganj,Toria,Other,FAQ,2007-12-08,225,275,250,66
+Haryana,Ambala,Naraingarh,Toria,Toria,FAQ,2021-02-22,5250,6000,5800,66
+Haryana,Ambala,Naraingarh,Toria,Toria,FAQ,2021-02-26,5002,6071,6000,66
+Haryana,Ambala,Naraingarh,Toria,Toria,FAQ,2021-02-27,5300,6151,6000,66
+Haryana,Ambala,Naraingarh,Toria,Toria,FAQ,2021-03-01,5300,6125,6000,66
+Haryana,Ambala,Naraingarh,Toria,Toria,FAQ,2021-03-04,5200,6000,5900,66
+Haryana,Ambala,Naraingarh,Toria,Toria,FAQ,2021-03-06,5020,6011,5900,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2021-01-18,4171,4171,4171,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2021-01-21,4570,4570,4570,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2021-02-16,5600,6000,6000,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2021-02-18,5925,6030,6030,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2021-02-19,5750,5950,5871,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2021-02-20,5594,5950,5950,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-04-17,1200,1400,1300,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-04-19,3000,4000,3500,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-04-30,3500,5000,4250,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-07-08,1000,1500,1250,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-07-16,1200,1500,1350,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-07-17,1800,2300,2050,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-07-19,2000,2200,2100,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-07-22,1700,2000,1850,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-07-26,1600,1800,1700,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-08-07,2000,2900,2450,66
+Punjab,Ferozpur,Firozepur City,Toria,Other,FAQ,2021-08-25,1000,1400,1200,66
+Punjab,Moga,Dharamkot,Toria,Other,FAQ,2021-05-31,1500,1500,1500,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2021-07-09,600,800,700,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2021-09-19,800,1000,900,66
+Punjab,Muktsar,Bariwala,Toria,Other,FAQ,2021-04-10,2000,2000,2000,66
+Punjab,Muktsar,Bariwala,Toria,Other,FAQ,2021-08-10,1800,1800,1800,66
+Chattisgarh,Dhamtari,Nagari,Toria,Other,FAQ,2017-01-07,1500,1500,1500,66
+Chattisgarh,Dhamtari,Nagari,Toria,Other,FAQ,2017-04-27,3000,5000,3000,66
+Chattisgarh,Dhamtari,Nagari,Toria,Other,FAQ,2017-05-24,4000,4000,4000,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-01-21,4000,4525,4375,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-01-27,4100,4630,4450,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-01-28,4250,4595,4450,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-01-30,3750,4490,4250,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-01-31,3750,4300,4050,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-02-06,3650,4015,3800,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-02-07,3650,4060,3850,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-02-10,3500,4180,3900,66
+Gujarat,Morbi,Halvad,Toria,Other,FAQ,2017-02-11,3625,4020,3750,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-04,3500,3750,3750,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-05,3780,3780,3780,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-06,3730,3765,3765,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-12,3625,3731,3731,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-19,3550,3821,3732,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-25,3200,3825,3631,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-28,2800,3400,3336,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-01-30,3700,3900,3751,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-02-02,3300,3700,3650,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-02-09,3360,3620,3620,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-02-16,3545,3850,3850,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-02-17,3481,3600,3481,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-02-21,3400,3850,3552,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-03-02,3000,3800,3500,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-03-08,3341,3776,3451,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-03-18,3300,3800,3750,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-03-22,3321,3922,3622,66
+Haryana,Ambala,Shahzadpur,Toria,Toria,FAQ,2017-03-24,3300,3330,3325,66
+Madhya Pradesh,Mandsaur,Mandsaur(F&V),Toria,Other,FAQ,2017-08-14,2600,2800,2700,66
+Madhya Pradesh,Sheopur,Sheopurkalan,Toria,Other,FAQ,2017-01-11,2812,3100,3050,66
+Madhya Pradesh,Sheopur,Sheopurkalan,Toria,Other,FAQ,2017-01-18,2688,2841,2760,66
+Madhya Pradesh,Sheopur,Sheopurkalan,Toria,Toria,FAQ,2017-12-30,3011,3011,3011,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2017-09-09,1600,1800,1700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2017-09-12,1600,1800,1700,66
+Punjab,Fazilka,Fazilka,Toria,Other,FAQ,2017-09-13,1600,1800,1700,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-05-08,3000,3000,3000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-05-16,1700,1750,1750,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-05-20,1400,1500,1450,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-05-23,1400,1500,1450,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-05-24,1400,1450,1450,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-06-08,1000,1000,1000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-06-12,1000,1200,1200,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-06-13,1000,1100,1000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-06-22,1200,1300,1200,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-06-30,1500,1500,1500,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-07-05,1800,1900,1850,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-07-10,1400,1550,1500,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-07-14,1500,1600,1500,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-07-23,1800,1850,1850,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-07-24,2000,2000,2000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-07-28,1800,1900,1800,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-07-30,2000,2100,2000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-08-08,1500,1600,1550,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-08-11,2000,2100,2100,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-08-12,2000,2000,2000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-08-13,1850,2000,1900,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-08-14,2000,2000,2000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-08-20,2100,2100,2100,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-08-26,2300,2500,2400,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-01,2100,2100,2100,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-03,2100,2100,2100,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-07,2000,2000,2000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-14,2200,2200,2200,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-15,2100,2100,2100,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-16,2100,2100,2100,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-24,2400,2400,2400,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-09-28,2000,2100,2000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-10-04,2000,2000,2000,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-10-13,2300,2400,2400,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-10-15,1600,1600,1600,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-10-23,1600,1600,1600,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-10-24,1600,1600,1600,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-10-26,1800,1900,1850,66
+Punjab,Fazilka,Fazilka (Ladhuka),Toria,Other,FAQ,2017-10-27,1600,1700,1650,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-02,1000,1200,1100,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-03,1000,1200,1100,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-06,1000,1300,1200,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-11,1000,1200,1100,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-12,1000,1200,1100,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-13,1000,1200,1100,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-15,1000,1200,1100,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-20,1500,1700,1600,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-21,1600,1800,1700,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-06-23,1500,1700,1600,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-07-02,1300,1500,1400,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-07-07,2500,2700,2600,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-07-11,2300,2500,2400,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-07-27,2400,2500,2420,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-08-13,1400,1600,1500,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-08-23,1800,2000,1900,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-08-29,1600,1800,1700,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-09-01,1000,1200,1100,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-09-23,2500,2700,2600,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-10-03,1500,1700,1600,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-10-22,1500,1700,1600,66
+Punjab,Moga,Kot ise Khan,Toria,Other,FAQ,2017-10-23,2000,2200,2100,66
+Uttrakhand,UdhamSinghNagar,Khateema,Toria,Other,FAQ,2017-05-30,700,800,750,66
+Uttrakhand,UdhamSinghNagar,Khateema,Toria,Other,FAQ,2017-06-14,400,600,500,66
+Uttrakhand,UdhamSinghNagar,Khateema,Toria,Other,FAQ,2017-06-30,500,700,600,66
+Uttrakhand,UdhamSinghNagar,Khateema,Toria,Other,FAQ,2017-08-14,650,750,700,66
+Uttrakhand,UdhamSinghNagar,Khateema,Toria,Other,FAQ,2017-10-11,500,700,600,66
+Uttrakhand,UdhamSinghNagar,Khateema,Toria,Other,FAQ,2017-10-12,500,700,600,66

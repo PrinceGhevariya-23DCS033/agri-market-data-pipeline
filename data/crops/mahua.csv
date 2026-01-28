@@ -1,0 +1,1632 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Other,FAQ,2007-06-17,900,1000,1000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Other,FAQ,2007-04-10,1500,1700,1600,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2007-03-13,500,700,600,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2007-03-14,500,600,550,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2007-04-06,900,1500,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2007-04-08,500,700,600,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2007-05-04,900,1100,1000,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2007-06-01,800,1000,900,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2007-06-09,500,1000,600,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2007-05-21,800,800,800,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2007-09-24,1000,1000,1000,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2007-11-03,1000,1000,1000,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2007-11-20,1000,1000,1000,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2007-10-25,1000,1000,1000,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2007-08-17,1000,1000,1000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-01-31,1000,1000,1000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-03-19,2000,2000,2000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-05-11,1000,1000,1000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-06-14,1000,1000,1000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-06-16,1000,1000,1000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-06-25,1000,1000,1000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-07-16,1000,1000,1000,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2007-08-20,1000,1000,1000,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-01-31,1300,1600,1480,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-02-08,1300,1600,1500,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-02-20,1300,1600,1500,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-03-29,1250,1550,1450,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-04-20,1300,1500,1400,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-04-24,1300,1500,1400,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-05-03,1200,1400,1300,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-05-09,1200,1400,1300,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-05-29,1200,1400,1300,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-05-30,1200,1400,1300,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-07-10,1300,1600,1500,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-07-18,1300,1600,1500,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-07-26,1500,1800,1700,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-07-27,1500,1800,1700,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-08-07,1500,1800,1700,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-08-10,1500,1800,1700,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-08-29,1500,1800,1700,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-09-06,1500,1700,1600,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-09-11,1500,1700,1600,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-09-18,1500,1700,1600,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-09-20,1500,1700,1600,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-09-21,1500,1700,1600,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-10-03,1400,1600,1500,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-10-10,1400,1600,1500,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-10-24,1600,1800,1700,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-11-06,1700,1900,1800,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-11-13,1700,1900,1800,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-11-22,1700,1900,1800,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-11-28,1700,1900,1800,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-12-11,1200,1400,1300,335
+Jharkhand,Pakur,Pakur,Mahua,Other,FAQ,2007-12-19,1050,1200,1150,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-01-12,2100,2200,2150,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-01-24,2200,2300,2250,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-03-20,1600,1700,1650,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-03-23,1600,1700,1650,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-09-27,850,1300,1000,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-10-06,950,1050,1000,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-10-11,900,1050,1000,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-10-17,850,1100,1000,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-10-20,800,1100,950,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-10-25,800,1100,950,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-10-28,900,1100,1000,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-11-01,800,1200,1100,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-11-22,900,1100,1000,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-11-23,900,1100,1000,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-11-28,800,1200,900,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-12-03,800,1200,900,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-12-06,800,1200,900,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-12-14,800,1200,900,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-12-20,800,1200,900,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-12-21,800,1200,900,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2007-12-27,700,1200,900,335
+Karnataka,Bijapur,Bijapur,Mahua,Other,FAQ,2007-10-12,550,600,585,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2007-04-03,1100,1200,1150,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2007-04-11,1100,1200,1150,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2007-05-22,900,1000,950,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2007-05-25,900,1000,950,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2007-05-30,1000,1100,1050,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2007-06-28,1000,1100,1050,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2007-07-23,1400,1500,1450,335
+Madhya Pradesh,Alirajpur,Jobat,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Ashoknagar,Ashoknagar,Mahua,Other,FAQ,2007-05-09,850,1231,1171,335
+Madhya Pradesh,Ashoknagar,Mungawali,Mahua,Other,FAQ,2007-05-09,850,1231,1171,335
+Madhya Pradesh,Badwani,Anjad,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Bhind,Bhind,Mahua,Other,FAQ,2007-05-09,850,1231,1171,335
+Madhya Pradesh,Bhind,Bhind,Mahua,Other,FAQ,2007-08-27,860,860,860,335
+Madhya Pradesh,Bhind,Gohad,Mahua,Other,FAQ,2007-05-08,851,1248,1100,335
+Madhya Pradesh,Bhind,Gohad,Mahua,Other,FAQ,2007-05-11,1160,1160,1160,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2007-04-20,1302,1320,1320,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2007-05-21,953,975,975,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2007-06-30,930,930,930,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2007-04-09,1450,1570,1570,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2007-05-12,1190,1226,1225,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2007-05-25,955,1228,960,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2007-06-08,950,955,955,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2007-06-29,900,958,958,335
+Madhya Pradesh,Chhatarpur,Harpalpur,Mahua,Other,FAQ,2007-04-25,1300,1315,1305,335
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),Mahua,Other,FAQ,2007-05-25,955,1228,960,335
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),Mahua,Other,FAQ,2007-05-26,958,962,962,335
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),Mahua,Other,FAQ,2007-06-01,958,975,975,335
+Madhya Pradesh,Chhatarpur,Rajnagar,Mahua,Other,FAQ,2007-04-09,1450,1570,1570,335
+Madhya Pradesh,Chhindwara,Saunsar,Mahua,Other,FAQ,2007-03-13,1800,1800,1800,335
+Madhya Pradesh,Chhindwara,Saunsar,Mahua,Other,FAQ,2007-05-25,1000,1000,1000,335
+Madhya Pradesh,Chhindwara,Saunsar,Mahua,Other,FAQ,2007-09-03,1200,1200,1200,335
+Madhya Pradesh,Damoh,Damoh,Mahua,Other,FAQ,2007-04-20,1302,1320,1320,335
+Madhya Pradesh,Damoh,Damoh,Mahua,Other,FAQ,2007-05-10,1275,1300,1275,335
+Madhya Pradesh,Damoh,Damoh,Mahua,Other,FAQ,2007-05-19,948,970,962,335
+Madhya Pradesh,Damoh,Damoh,Mahua,Other,FAQ,2007-05-23,950,965,960,335
+Madhya Pradesh,Damoh,Damoh,Mahua,Other,FAQ,2007-06-29,900,958,958,335
+Madhya Pradesh,Damoh,Damoh,Mahua,Other,FAQ,2007-06-30,930,930,930,335
+Madhya Pradesh,Damoh,Hata,Mahua,Other,FAQ,2007-04-09,1450,1570,1570,335
+Madhya Pradesh,Damoh,Hata,Mahua,Other,FAQ,2007-05-19,948,970,962,335
+Madhya Pradesh,Damoh,Hata,Mahua,Other,FAQ,2007-06-30,930,930,930,335
+Madhya Pradesh,Damoh,Javera,Mahua,Other,FAQ,2007-01-29,600,800,700,335
+Madhya Pradesh,Damoh,Javera,Mahua,Other,FAQ,2007-02-13,600,700,650,335
+Madhya Pradesh,Damoh,Javera,Mahua,Other,FAQ,2007-05-03,1300,1360,1300,335
+Madhya Pradesh,Damoh,Javera,Mahua,Other,FAQ,2007-05-12,1190,1226,1225,335
+Madhya Pradesh,Damoh,Javera,Mahua,Other,FAQ,2007-05-20,700,900,800,335
+Madhya Pradesh,Damoh,Javera,Mahua,Other,FAQ,2007-06-03,750,850,800,335
+Madhya Pradesh,Damoh,Patharia,Mahua,Other,FAQ,2007-04-09,1450,1570,1570,335
+Madhya Pradesh,Damoh,Patharia,Mahua,Other,FAQ,2007-04-23,1301,1440,1325,335
+Madhya Pradesh,Damoh,Patharia,Mahua,Other,FAQ,2007-05-23,950,965,960,335
+Madhya Pradesh,Datia,Sevda,Mahua,Other,FAQ,2007-05-10,850,1262,1101,335
+Madhya Pradesh,Dhar,Badnawar,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Guna,Aron,Mahua,Other,FAQ,2007-05-10,850,1262,1101,335
+Madhya Pradesh,Guna,Binaganj,Mahua,Other,FAQ,2007-05-09,850,1231,1171,335
+Madhya Pradesh,Guna,Guna,Mahua,Other,FAQ,2007-08-27,860,860,860,335
+Madhya Pradesh,Guna,Kumbhraj,Mahua,Other,FAQ,2007-05-08,851,1248,1100,335
+Madhya Pradesh,Guna,Kumbhraj,Mahua,Other,FAQ,2007-06-13,805,1200,885,335
+Madhya Pradesh,Gwalior,Dabra,Mahua,Other,FAQ,2007-12-28,960,1135,970,335
+Madhya Pradesh,Gwalior,Lashkar,Mahua,Other,FAQ,2007-05-10,850,1262,1101,335
+Madhya Pradesh,Indore,Indore(F&V),Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Jabalpur,Jabalpur,Mahua,Other,FAQ,2007-05-07,1100,1106,1106,335
+Madhya Pradesh,Jabalpur,Shahpura(Jabalpur),Mahua,Other,FAQ,2007-05-07,1100,1106,1106,335
+Madhya Pradesh,Khandwa,Khandwa,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Khandwa,Pandhana,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Khargone,Badwaha,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Khargone,Kasrawad,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Khargone,Khargone,Mahua,Other,FAQ,2007-02-26,775,775,775,335
+Madhya Pradesh,Morena,Kailaras,Mahua,Other,FAQ,2007-05-09,850,1231,1171,335
+Madhya Pradesh,Morena,Kailaras,Mahua,Other,FAQ,2007-05-10,850,1262,1101,335
+Madhya Pradesh,Morena,Kailaras,Mahua,Other,FAQ,2007-12-28,960,1135,970,335
+Madhya Pradesh,Morena,Morena,Mahua,Other,FAQ,2007-05-11,1160,1160,1160,335
+Madhya Pradesh,Morena,Porsa,Mahua,Other,FAQ,2007-05-09,850,1231,1171,335
+Madhya Pradesh,Panna,Ajaygarh,Mahua,Other,FAQ,2007-05-05,1300,1300,1300,335
+Madhya Pradesh,Panna,Ajaygarh,Mahua,Other,FAQ,2007-05-09,1300,1325,1300,335
+Madhya Pradesh,Panna,Ajaygarh,Mahua,Other,FAQ,2007-05-23,950,965,960,335
+Madhya Pradesh,Panna,Ajaygarh,Mahua,Other,FAQ,2007-05-26,958,962,962,335
+Madhya Pradesh,Panna,Ajaygarh,Mahua,Other,FAQ,2007-06-30,930,930,930,335
+Madhya Pradesh,Panna,Devandranagar,Mahua,Other,FAQ,2007-04-23,1301,1440,1325,335
+Madhya Pradesh,Panna,Devandranagar,Mahua,Other,FAQ,2007-05-12,1190,1226,1225,335
+Madhya Pradesh,Panna,Devandranagar,Mahua,Other,FAQ,2007-05-19,948,970,962,335
+Madhya Pradesh,Panna,Devandranagar,Mahua,Other,FAQ,2007-06-30,930,930,930,335
+Madhya Pradesh,Panna,Panna,Mahua,Other,FAQ,2007-06-01,958,975,975,335
+Madhya Pradesh,Rajgarh,Khilchipur,Mahua,Other,FAQ,2007-05-09,971,971,971,335
+Madhya Pradesh,Rajgarh,Pachaur,Mahua,Other,FAQ,2007-05-09,971,971,971,335
+Madhya Pradesh,Sagar,Bamora,Mahua,Other,FAQ,2007-04-09,1450,1570,1570,335
+Madhya Pradesh,Sagar,Bamora,Mahua,Other,FAQ,2007-04-20,1302,1320,1320,335
+Madhya Pradesh,Sagar,Bamora,Mahua,Other,FAQ,2007-05-09,1300,1325,1300,335
+Madhya Pradesh,Sagar,Bamora,Mahua,Other,FAQ,2007-06-11,950,955,955,335
+Madhya Pradesh,Sagar,Banda,Mahua,Other,FAQ,2007-05-03,1300,1360,1300,335
+Madhya Pradesh,Sagar,Banda,Mahua,Other,FAQ,2007-05-26,958,962,962,335
+Madhya Pradesh,Sagar,Bina,Mahua,Other,FAQ,2007-04-09,1450,1570,1570,335
+Madhya Pradesh,Sagar,Bina,Mahua,Other,FAQ,2007-04-20,1302,1320,1320,335
+Madhya Pradesh,Sagar,Bina,Mahua,Other,FAQ,2007-05-23,950,965,960,335
+Madhya Pradesh,Sagar,Bina,Mahua,Other,FAQ,2007-06-01,958,975,975,335
+Madhya Pradesh,Sagar,Deori,Mahua,Other,FAQ,2007-05-19,948,970,962,335
+Madhya Pradesh,Sagar,Deori,Mahua,Other,FAQ,2007-05-21,953,975,975,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-04-19,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-04-20,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-01,1400,1500,1450,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-11,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-12,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-19,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-20,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-22,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-25,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-05-30,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-06-05,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-06-07,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-06-11,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-06-13,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-06-27,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-06-28,1200,1300,1250,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-06-30,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-07-01,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-07-18,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-07-21,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-07-24,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-07-31,1400,1500,1450,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-08-02,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-08-16,1200,1300,1250,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-08-18,1200,1300,1250,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-08-24,1200,1300,1250,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-08-28,1200,1300,1250,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-09-13,1200,1300,1250,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-11-01,1500,1600,1550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-12-31,1500,1600,1550,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2017-06-21,2000,2000,2000,335
+Chattisgarh,Dhamtari,Gattasilli,Mahua,Other,FAQ,2017-07-19,2000,2000,2000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2017-12-28,2500,2500,2500,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-03-24,2200,2500,2200,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-04-05,2500,2500,2500,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-04-07,2000,2500,2000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-04-10,2000,2000,2000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-04-13,1800,2000,1800,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-04-21,1700,1800,1700,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-04-28,1600,1800,1700,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-05-27,1800,1800,1800,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2017-05-30,1800,2000,1800,335
+Chattisgarh,Gariyaband,Chura,Mahua,Other,FAQ,2017-04-19,1700,1700,1700,335
+Chattisgarh,Gariyaband,Chura,Mahua,Other,FAQ,2017-05-13,2000,2000,2000,335
+Chattisgarh,Gariyaband,Chura,Mahua,Other,FAQ,2017-05-15,1600,1600,1600,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2017-10-28,2070,2070,2070,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-02-25,2125,2125,2125,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-04-25,1500,1500,1500,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-04-26,1500,1500,1500,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-05-02,1700,1700,1700,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-05-09,2000,2000,2000,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-05-30,1800,1800,1800,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-06-12,1365,1365,1365,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Other,FAQ,2017-06-20,1500,2000,2000,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Other,FAQ,2017-04-08,2300,2300,2300,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Other,FAQ,2017-04-19,1600,1700,1600,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Other,FAQ,2017-05-12,1600,1600,1600,335
+Chattisgarh,Janjgir,Amadula,Mahua,Other,FAQ,2017-03-22,2500,2500,2500,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-02-20,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-03-30,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-03-31,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-05-25,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-05-26,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-06-30,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-08-28,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-08-31,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-10-30,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-12-26,2000,2000,2000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2017-12-28,2000,2000,2000,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2017-04-06,2200,2200,2200,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2017-04-14,2000,2000,2000,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2017-04-24,2000,2000,2000,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2017-04-26,2000,2000,2000,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2017-06-29,2000,2000,2000,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2017-07-14,2000,2000,2000,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2017-03-31,2000,2000,2000,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2017-04-20,1800,1800,1800,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2017-07-31,2000,2000,2000,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2017-09-12,2000,2000,2000,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2017-10-30,2000,2000,2000,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2017-11-13,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-02-18,2200,2200,2200,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-03-16,2200,2200,2200,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-04-16,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-04-23,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-04-26,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-04-28,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-05-03,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-05-13,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-05-15,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-05-18,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-05-27,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-05-30,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-05-31,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-06-17,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-06-19,2000,2000,2000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2017-07-26,2000,2000,2000,335
+Chattisgarh,Kanker,Amoda,Mahua,Other,FAQ,2017-03-14,3000,3000,3000,335
+Chattisgarh,Kanker,Amoda,Mahua,Other,FAQ,2017-03-24,2500,2500,2500,335
+Chattisgarh,Kanker,Amoda,Mahua,Other,FAQ,2017-03-25,2500,2500,2500,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2017-03-12,2000,2000,2000,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2017-03-29,2500,2500,2500,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2017-06-09,1600,1600,1600,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2017-06-14,1600,1600,1600,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2017-06-23,1600,1600,1600,335
+Chattisgarh,Kanker,Bhanupratappur,Mahua,Mahua,FAQ,2017-05-03,1800,1800,1800,335
+Chattisgarh,Kanker,Bhanupratappur,Mahua,Mahua,FAQ,2017-05-07,1800,2100,1950,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2017-03-12,2500,2500,2500,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2017-04-09,2000,2500,2250,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2017-04-10,2000,2500,2250,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2017-04-17,2000,2000,2000,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-03-24,2500,2500,2500,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-04-14,2000,2000,2000,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-04-15,2000,2500,2250,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-04-18,1500,2000,1750,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-05-04,1400,1500,1450,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-05-06,1400,1500,1450,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-05-09,1400,1500,1450,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-05-15,1600,1600,1600,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2017-06-04,1500,1500,1500,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-03-21,2000,2000,2000,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-03-30,2200,2200,2200,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-04-11,1500,2000,1750,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-04-15,1500,1700,1600,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-04-23,1400,1400,1400,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-04-24,1200,1400,1300,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-04-25,1300,1500,1400,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-04-26,1400,1600,1500,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-05-01,1800,1800,1800,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-05-02,1700,1700,1700,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2017-06-01,1900,1900,1900,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-03-27,2000,2500,2250,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-04-07,2000,2000,2000,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-04-08,1700,2000,1850,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-04-11,1500,2000,1750,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-04-12,1400,1500,1450,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-04-18,1400,1500,1450,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-04-25,1200,1400,1300,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-04-27,1400,1600,1500,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-05-02,1600,1600,1600,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-05-07,1800,2100,1950,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-05-20,1800,2000,1900,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-06-05,2000,2000,2000,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-06-08,1500,1500,1500,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-06-14,1800,1800,1800,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-06-22,1800,1800,1800,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-06-28,2000,2000,2000,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2017-07-07,2000,2000,2000,335
+Chattisgarh,Kondagaon,Bededonger,Mahua,Other,FAQ,2017-03-02,2500,2500,2500,335
+Chattisgarh,Kondagaon,Bededonger,Mahua,Other,FAQ,2017-03-03,2500,3000,2700,335
+Chattisgarh,Kondagaon,Bededonger,Mahua,Other,FAQ,2017-05-06,1500,1500,1500,335
+Chattisgarh,Kondagaon,Chhinari,Mahua,Other,FAQ,2017-03-04,2500,3000,2700,335
+Chattisgarh,Kondagaon,Gamhari,Mahua,Other,FAQ,2017-04-16,2000,2500,2300,335
+Chattisgarh,Kondagaon,Gamhari,Mahua,Other,FAQ,2017-09-17,1500,1600,1550,335
+Chattisgarh,Kondagaon,Hirapur,Mahua,Other,FAQ,2017-09-07,1500,1500,1500,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-03-02,3000,3500,3200,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-03-16,2500,3000,2750,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-03-17,2500,3000,2750,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-03-24,2500,3000,2750,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-03-28,2500,3000,2750,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-03-29,2500,3000,2750,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-04-20,1500,1800,1650,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-04-24,1500,1800,1650,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-06-29,1500,1600,1550,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2017-09-21,1500,1600,1550,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-03-01,2500,2500,2500,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-03-27,2500,3000,2750,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-03-28,2500,3000,2750,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-03-30,2000,2200,2100,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-03-31,2200,2400,2300,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-06,2000,2200,2100,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-10,1800,2000,1900,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-12,1500,2000,1750,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-15,1100,1300,1200,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-16,1500,2000,1750,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-17,1200,1600,1400,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-21,1200,1600,1400,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-04-23,1200,1600,1400,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-05-04,2000,2000,2000,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-05-17,1500,2000,1750,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-08-10,1500,2000,1750,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2017-08-17,1500,2000,1750,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2017-04-19,1200,1600,1400,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2017-05-30,1500,2000,1750,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2017-06-13,1500,2000,1750,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2017-06-16,1500,2000,1750,335
+Chattisgarh,Kondagaon,Mardapal,Mahua,Other,FAQ,2017-05-13,1800,2000,1900,335
+Chattisgarh,Kondagaon,Mardapal,Mahua,Other,FAQ,2017-06-17,1500,2000,1750,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-03-25,2500,3000,2700,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-04-08,1600,2200,1900,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-04-15,1200,1600,1400,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-05-15,1800,2000,1900,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-05-22,1500,2000,1750,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-05-24,1500,2000,1750,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-06-21,1700,1700,1700,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2017-09-25,2000,2000,2000,335
+Chattisgarh,Korba,Bhaisma,Mahua,Other,FAQ,2017-05-12,2200,2200,2200,335
+Chattisgarh,Korba,Bhaisma,Mahua,Other,FAQ,2017-06-14,2200,2200,2200,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2017-04-15,2200,2200,2200,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2017-04-22,2200,2200,2200,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2017-04-25,2200,2200,2200,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2017-07-06,2200,2200,2200,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2017-07-16,2200,2200,2200,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2017-08-05,2200,2200,2200,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-01-13,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-02-27,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-03-09,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-03-21,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-03-30,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-04-10,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-05-26,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-07-10,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-10-27,1800,1800,1800,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2017-12-07,1800,1800,1800,335
+Chattisgarh,Koria,Manendragarh,Mahua,Other,FAQ,2017-11-29,2200,2200,2200,335
+Chattisgarh,Mahasamund,Bagbahra,Mahua,Other,FAQ,2017-04-22,1500,1700,1600,335
+Chattisgarh,Mahasamund,Bagbahra,Mahua,Other,FAQ,2017-04-30,1500,2000,1750,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2017-04-10,1800,1810,1805,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2017-04-20,1500,1610,1600,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2017-04-26,1610,1700,1680,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2017-05-02,1680,1700,1690,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2017-05-05,1690,1720,1710,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2017-05-08,1750,1810,1780,335
+Chattisgarh,Mahasamund,Bhavarpur,Mahua,Mahua,FAQ,2017-04-21,1600,1700,1650,335
+Chattisgarh,Mahasamund,Bhavarpur,Mahua,Mahua,FAQ,2017-10-31,2000,2000,2000,335
+Chattisgarh,Mahasamund,Bhavarpur,Mahua,Mahua,FAQ,2017-12-07,2000,2000,2000,335
+Chattisgarh,Mahasamund,Bhurkoni,Mahua,Other,FAQ,2017-03-27,2000,2000,2000,335
+Chattisgarh,Mahasamund,Bhurkoni,Mahua,Other,FAQ,2017-03-29,2000,2000,2000,335
+Chattisgarh,Mahasamund,Bhurkoni,Mahua,Other,FAQ,2017-04-18,1500,1500,1500,335
+Chattisgarh,Mahasamund,Pithoura,Mahua,Other,FAQ,2017-06-21,1800,1800,1800,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2017-03-20,1730,1730,1730,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2017-04-15,1800,1800,1800,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2017-04-22,1700,1700,1700,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2017-04-28,1600,1600,1600,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2017-05-06,1500,1600,1600,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2017-03-27,2500,3000,2800,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2017-06-16,1300,1500,1400,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2017-08-17,1700,1900,1800,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-01-31,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-02-27,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-02-28,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-03-15,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-03-28,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-04-28,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-05-05,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-05-06,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-05-09,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-06-14,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-08-12,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-08-19,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-09-23,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-09-25,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-10-31,2000,2000,2000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2017-12-11,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-04-13,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-04-18,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-04-27,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-05-01,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-05-09,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-05-27,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-06-02,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-06-10,2000,2000,2000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2017-12-29,2000,2000,2000,335
+Chattisgarh,Raigarh,Raigarh,Mahua,Other,FAQ,2017-06-30,1600,1600,1600,335
+Chattisgarh,Raigarh,Sarangarh,Mahua,Mahua,FAQ,2017-11-23,2000,2000,2000,335
+Chattisgarh,Raigarh,Sarangarh,Mahua,Mahua,FAQ,2017-11-24,2000,2000,2000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2017-03-31,2000,2000,2000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2017-04-21,1500,1500,1500,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2017-04-27,1500,1600,1600,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2017-05-03,1500,1500,1500,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2017-05-22,1600,2000,2000,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2017-05-09,1990,2000,1995,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2017-06-23,1550,1560,1555,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2017-11-21,1990,2000,1995,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2017-12-22,1900,2000,1950,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-03-10,2000,2000,2000,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-03-23,1500,1500,1500,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-03-29,1500,1500,1500,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-03-31,1500,2000,1700,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-04-04,1500,1500,1500,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-04-08,1500,1500,1500,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-04-16,1200,1200,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-04-23,1200,1200,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-04-28,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-02,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-04,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-13,1000,1200,1100,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-16,1000,1200,1100,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-21,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-22,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-28,1000,1500,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-05-29,1000,1500,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-06-01,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-06-12,1500,1500,1500,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-06-28,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-07-01,1200,1200,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-07-19,1000,1200,1100,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-07-22,1000,1200,1100,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-08-06,1200,1200,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-08-20,1200,1200,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-09-27,1000,1300,1200,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-10-22,1500,1500,1500,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-10-31,1200,1500,1300,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2017-12-30,1200,1500,1300,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2017-05-16,2000,2000,2000,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2017-05-17,2000,2000,2000,335
+Chattisgarh,Balod,Dondi,Mahua,Mahua,FAQ,2017-04-19,1600,1600,1600,335
+Chattisgarh,Balod,Dondi,Mahua,Mahua,FAQ,2017-05-02,1600,1600,1600,335
+Chattisgarh,Balod,Gurur,Mahua,Mahua,FAQ,2017-04-26,2000,2000,2000,335
+Chattisgarh,Balrampur,Kusmee,Mahua,Other,FAQ,2017-03-31,2400,2400,2400,335
+Chattisgarh,Balrampur,Kusmee,Mahua,Other,FAQ,2017-04-20,600,600,600,335
+Chattisgarh,Balrampur,Kusmee,Mahua,Other,FAQ,2017-11-10,600,600,600,335
+Chattisgarh,Balrampur,Rajpur,Mahua,Other,FAQ,2017-12-29,2000,2000,2000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-03-31,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-04-15,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-04-17,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-04-19,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-05-23,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-06-22,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-10-09,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-11-02,1800,1800,1800,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-11-15,2000,2000,2000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2017-11-17,1800,1800,1800,335
+Chattisgarh,Bastar,Devda,Mahua,Other,FAQ,2017-04-22,1500,1800,1650,335
+Chattisgarh,Bastar,Jagdalpur,Mahua,Other,FAQ,2017-03-28,2500,2500,2500,335
+Chattisgarh,Bastar,Jagdalpur,Mahua,Other,FAQ,2017-05-18,1400,1500,1450,335
+Chattisgarh,Bastar,Jaitgiri,Mahua,Other,FAQ,2017-04-02,2000,2200,2100,335
+Chattisgarh,Bastar,Jaitgiri,Mahua,Other,FAQ,2017-04-09,1800,2200,2000,335
+Chattisgarh,Bastar,Jaitgiri,Mahua,Other,FAQ,2017-05-21,1600,2100,1900,335
+Chattisgarh,Bastar,Karpawand,Mahua,Other,FAQ,2017-03-16,2000,2200,2100,335
+Chattisgarh,Bastar,Karpawand,Mahua,Other,FAQ,2017-11-16,1500,1550,1525,335
+Chattisgarh,Bastar,Lohandiguda,Mahua,Other,FAQ,2017-03-17,2000,2200,2100,335
+Chattisgarh,Bastar,Lohandiguda,Mahua,Other,FAQ,2017-04-14,1500,2000,1750,335
+Chattisgarh,Bastar,Muli,Mahua,Other,FAQ,2017-01-23,2000,2100,2050,335
+Chattisgarh,Bastar,Muli,Mahua,Other,FAQ,2017-04-10,1500,1600,1550,335
+Chattisgarh,Bastar,Tokapal,Mahua,Other,FAQ,2017-04-10,1500,2400,1950,335
+Chattisgarh,Bastar,Tokapal,Mahua,Other,FAQ,2017-05-15,2200,2400,2300,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-04-10,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-04-20,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-05-02,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-05-18,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-06-04,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-06-05,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-06-11,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-06-22,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-06-29,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-07-06,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-07-07,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-07-11,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-07-19,1500,2000,1800,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-08-20,1300,1300,1300,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-08-23,1300,1300,1300,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-10-28,1300,1300,1300,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2017-11-23,1300,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-04-04,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-04-08,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-04-19,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-05-04,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-13,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-14,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-16,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-18,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-20,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-22,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-28,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-06-30,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-07-17,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-07-30,1500,2000,1800,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-08-21,1300,1300,1300,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-08-22,1300,1300,1300,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-09-05,1500,1500,1500,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-09-17,1300,1300,1300,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-09-18,1300,1300,1300,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-10-09,1300,1300,1300,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-10-30,1300,1300,1300,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-11-19,1300,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-11-21,1300,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2017-12-31,1300,1300,1300,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-01-25,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-03-21,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-03-28,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-04-19,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-05-07,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-05-26,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-05-29,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-06-17,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-06-23,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-06-29,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-07-07,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-07-17,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-07-18,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-07-20,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-07-30,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-08-01,1500,2000,1800,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-09-02,1300,1800,1500,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-09-06,1500,1500,1500,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-10-28,1300,1300,1300,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-10-31,1300,1300,1300,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-11-20,1300,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2017-11-21,1300,1500,1450,335
+Chattisgarh,Bilaspur,Kota,Mahua,Other,FAQ,2017-04-12,2000,2000,2000,335
+Chattisgarh,Bilaspur,Kota,Mahua,Other,FAQ,2017-04-25,2500,2500,2500,335
+Chattisgarh,Bilaspur,Pendraroad,Mahua,Other,FAQ,2017-06-21,1500,1500,1500,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-02-01,1700,1800,1750,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-02-15,2300,2400,2350,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-02-19,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-03-05,2400,2500,2450,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-03-14,2200,2500,2250,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-03-15,1700,1800,1750,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-03-16,1700,1800,1750,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-03-20,1700,1800,1750,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-03-23,1600,1700,1650,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-04-08,2000,2200,2050,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2017-04-11,2200,2500,2250,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-01-11,4550,4650,4590,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-01-21,4500,4600,4550,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-01-29,4500,4600,4550,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-02-03,4450,4550,4500,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-09-02,5450,5550,5500,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-09-10,5450,5550,5500,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-09-18,5450,5550,5500,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-09-22,5400,5500,5450,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-10-11,4950,5050,5000,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-10-12,4950,5050,5000,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-10-18,4950,5050,5000,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-11-11,4950,5050,5000,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-11-17,4900,5000,4950,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-11-22,5050,5150,5100,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-12-03,5950,6050,6000,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-12-08,5950,6050,6000,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2021-12-17,5900,6000,5950,335
+Chattisgarh,Balod,Balod,Mahua,Mahua,FAQ,2021-03-08,4000,4000,4000,335
+Chattisgarh,Balod,Balod,Mahua,Mahua,FAQ,2021-05-05,3500,3500,3500,335
+Chattisgarh,Balod,Dondi,Mahua,Mahua,FAQ,2021-03-26,3200,3500,3500,335
+Chattisgarh,Balod,Dondilohara,Mahua,Mahua,FAQ,2021-04-12,4000,4000,4000,335
+Chattisgarh,Balod,Gurur,Mahua,Mahua,FAQ,2021-03-31,3000,4000,3500,335
+Chattisgarh,Balod,Gurur,Mahua,Mahua,FAQ,2021-04-12,4000,4000,4000,335
+Chattisgarh,Balod,Gurur,Mahua,Mahua,FAQ,2021-08-10,4000,4000,4000,335
+Chattisgarh,Balod,Gurur,Mahua,Mahua,FAQ,2021-08-16,4000,4000,4000,335
+Chattisgarh,Balrampur,Kusmee,Mahua,Other,FAQ,2021-07-23,2000,2000,2000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2021-05-17,3000,3000,3000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2021-05-31,3000,4000,3500,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-01-16,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-02-27,2000,2000,2000,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-03-11,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-03-30,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-04-10,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-04-26,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-04-30,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-05-15,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-05-17,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-05-29,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-06-08,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-06-13,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-06-17,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-06-22,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-07-11,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-07-15,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-08-04,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-08-05,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-09-05,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-09-06,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-09-29,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-10-21,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-04,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-06,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-08,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-14,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-16,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-20,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-22,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-23,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-28,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-11-29,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-12-06,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-12-21,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-12-24,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-12-25,2300,2500,2400,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2021-12-26,2300,2500,2400,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-01-07,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-01-14,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-02-12,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-03-16,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-04-10,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-04-15,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-04-28,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-05-10,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-05-16,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-05-28,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-05-31,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-06-15,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2021-06-16,1800,2000,1900,335
+Chattisgarh,Balod,Dondilohara,Mahua,Mahua,FAQ,2020-05-30,3800,4000,3900,335
+Chattisgarh,Balodabazar,Bhatgaon,Mahua,Mahua,FAQ,2020-05-11,3500,3500,3500,335
+Chattisgarh,Balrampur,Kusmee,Mahua,Other,FAQ,2020-01-31,2000,2000,2000,335
+Chattisgarh,Balrampur,Kusmee,Mahua,Other,FAQ,2020-09-29,2000,2000,2000,335
+Chattisgarh,Balrampur,Kusmee,Mahua,Other,FAQ,2020-10-30,2500,2500,2500,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2020-05-04,3000,3000,3000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2020-06-30,3000,3000,3000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2020-11-11,3000,3000,3000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2020-11-27,3000,3000,3000,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2020-12-30,3000,3000,3000,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-02-13,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-02-14,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-02-15,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-02-26,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-06-18,1900,2000,1950,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-06-25,1900,2000,1950,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-06-28,1900,2000,1950,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-07-06,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-07-11,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-07-21,1800,2000,1900,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-08-11,1400,1500,1450,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-09-28,1400,1500,1450,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-10-10,1400,1500,1450,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-10-16,1400,1500,1450,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-11-05,1800,2000,1850,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-11-07,1400,1500,1450,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2020-11-08,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-01-30,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-01-31,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-02-12,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-02-14,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-02-21,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-02-24,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-02-26,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-02-28,1800,2000,1950,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-04-30,1300,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-06-22,1900,2000,1950,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-06-24,1900,2000,1950,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-06-26,1900,2000,1950,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-07-11,1800,2000,1900,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-07-21,1800,2000,1950,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-08-09,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-08-11,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-08-23,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-09-11,1300,1500,1400,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-09-25,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-10-19,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-10-26,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-11-20,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-12-12,1400,1500,1450,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2020-12-13,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-04-30,1800,2000,1900,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-06-09,1900,2000,1950,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-06-18,1900,2000,1950,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-06-22,1900,2000,1950,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-07-07,1800,2000,1900,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-07-08,1800,2000,1900,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-07-10,1800,2000,1900,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-07-13,1800,2000,1900,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-07-19,1800,2000,1900,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-07-20,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-08-09,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-08-11,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-08-14,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-08-17,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-09-08,1300,1500,1400,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-09-11,1300,1500,1400,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-09-26,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-09-27,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-10-06,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-10-27,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-11-04,1800,2000,1850,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-11-05,1800,2000,1850,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-11-07,1800,2000,1850,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-11-15,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-12-12,1400,1500,1450,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2020-12-31,1800,2000,1900,335
+Chattisgarh,Bilaspur,Ratanpur,Mahua,Other,FAQ,2020-05-15,1700,1700,1700,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-02-29,2000,2200,2050,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-03-17,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-03-29,2000,2200,2050,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-04-17,2000,2200,2050,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-04-19,1900,2000,1950,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-05-02,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-05-18,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-05-28,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-05-29,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-06-04,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-06-09,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-06-17,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-06-25,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-06-28,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-07-29,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-09-23,2500,2600,2550,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-10-10,2000,2200,2050,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-11-13,2000,2200,2050,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-12-08,2000,2200,2050,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2020-12-30,2000,2200,2050,335
+Chattisgarh,Dhamtari,Belarbahara,Mahua,Mahua,FAQ,2020-05-27,2500,3000,2500,335
+Chattisgarh,Dhamtari,Belargaon,Mahua,Other,FAQ,2020-04-30,3000,3000,3000,335
+Chattisgarh,Dhamtari,Belargaon,Mahua,Other,FAQ,2020-05-11,3000,3000,3000,335
+Chattisgarh,Dhamtari,Belargaon,Mahua,Other,FAQ,2020-05-24,3000,3000,3000,335
+Chattisgarh,Dhamtari,Belargaon,Mahua,Other,FAQ,2020-07-10,2500,2500,2500,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2020-01-10,3000,3000,3000,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2020-04-22,2500,2500,2500,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2020-05-06,2200,3000,2500,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2020-05-12,2500,2500,2500,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2020-05-15,2500,2500,2500,335
+Chattisgarh,Dhamtari,Gattasilli,Mahua,Other,FAQ,2020-04-21,2500,2500,2500,335
+Chattisgarh,Dhamtari,Gattasilli,Mahua,Other,FAQ,2020-04-30,3000,3000,3000,335
+Chattisgarh,Dhamtari,Gattasilli,Mahua,Other,FAQ,2020-05-14,3000,3000,3000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-03-15,2300,2300,2300,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-05-14,3000,3000,3000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-05-19,3000,3000,3000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-05-23,3000,3000,3000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-06-04,3000,3000,3000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-06-14,3000,3000,3000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-07-01,3000,3000,3000,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2020-11-11,4000,4000,4000,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2020-04-17,3000,3500,3500,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2020-04-25,3000,3500,3000,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2020-04-27,3500,3500,3500,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2020-05-08,3200,3500,3200,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2020-05-11,3200,3200,3200,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2020-05-13,3200,3500,3200,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2020-02-28,3000,3000,3000,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2020-04-18,2700,2700,2700,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2020-05-13,3200,3500,3500,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2020-05-14,3200,3500,3500,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2020-05-15,3500,3500,3500,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2020-06-02,3500,3500,3500,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Mahua,FAQ,2020-04-15,3000,3000,3000,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Mahua,FAQ,2020-04-20,2500,3000,2500,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Mahua,FAQ,2020-04-21,3000,3000,3000,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Mahua,FAQ,2020-04-23,3100,3100,3100,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Mahua,FAQ,2020-04-24,3100,3100,3100,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Mahua,FAQ,2020-05-06,4000,4000,4000,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Mahua,FAQ,2020-05-13,4000,4000,4000,335
+Chattisgarh,Janjgir,Amadula,Mahua,Other,FAQ,2020-03-10,4000,4000,4000,335
+Chattisgarh,Janjgir,Chandrapur,Mahua,Other,FAQ,2020-06-06,4000,4000,4000,335
+Chattisgarh,Janjgir,Chandrapur,Mahua,Other,FAQ,2020-06-08,4000,4000,4000,335
+Chattisgarh,Janjgir,Chandrapur,Mahua,Other,FAQ,2020-07-14,4000,4000,4000,335
+Chattisgarh,Janjgir,Chandrapur,Mahua,Other,FAQ,2020-09-07,4000,4000,4000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2020-05-06,3000,3000,3000,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2020-08-20,3000,3000,3000,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2020-05-15,3000,3000,3000,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2020-07-25,3000,3000,3000,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2020-11-17,3000,3000,3000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2020-05-11,3000,3000,3000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2020-05-28,3000,3000,3000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2020-06-30,3000,3000,3000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2020-07-29,3000,3000,3000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2020-08-25,3000,3000,3000,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2020-10-05,3000,3000,3000,335
+Chattisgarh,Kanker,Amoda,Mahua,Other,FAQ,2020-05-19,3200,3200,3200,335
+Chattisgarh,Kanker,Amoda,Mahua,Other,FAQ,2020-05-22,3200,3200,3200,335
+Chattisgarh,Kanker,Amoda,Mahua,Other,FAQ,2020-06-13,3200,3200,3200,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2020-05-19,3200,3200,3200,335
+Chattisgarh,Kanker,Charama,Mahua,Mahua,FAQ,2020-06-25,3000,3000,3000,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2020-05-16,3200,3200,3200,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2020-06-09,3200,3200,3200,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2020-06-18,3200,3200,3200,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2020-04-13,2500,2500,2500,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2020-04-23,3000,3200,3100,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2020-05-22,3200,3200,3200,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2020-12-03,4000,4000,4000,335
+Chattisgarh,Kanker,Sarona,Mahua,Other,FAQ,2020-05-14,3200,3200,3200,335
+Chattisgarh,Kondagaon,Chhinari,Mahua,Other,FAQ,2020-03-14,3000,3000,3000,335
+Chattisgarh,Kondagaon,Chhinari,Mahua,Other,FAQ,2020-05-30,3200,3300,3250,335
+Chattisgarh,Kondagaon,Hirapur,Mahua,Other,FAQ,2020-06-04,3100,3200,3150,335
+Chattisgarh,Kondagaon,Hirapur,Mahua,Other,FAQ,2020-06-18,3100,3200,3150,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2020-04-23,3500,3600,3550,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2020-04-28,3200,3300,3250,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2020-05-29,3100,3200,3150,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2020-04-14,3000,3000,3000,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2020-04-24,3500,3500,3500,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2020-05-04,3500,3500,3500,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2020-05-10,3500,3500,3500,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2020-05-19,3000,3500,3250,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2020-08-09,3100,3200,3150,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2020-04-22,3500,3500,3500,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2020-04-27,3500,3500,3500,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2020-05-21,3200,3300,3250,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2020-06-09,3100,3200,3150,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2020-08-07,3200,3300,3250,335
+Chattisgarh,Kondagaon,Mardapal,Mahua,Other,FAQ,2020-03-21,3200,3300,3250,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-04-26,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-05-07,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-05-08,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-06-02,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-06-13,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-07-09,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-08-28,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-09-04,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-10-12,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-11-22,3300,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-11-24,3000,3300,3300,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2020-11-29,3300,3300,3300,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-03-16,2000,2000,2000,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-03-18,2000,2000,2000,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-06-03,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-06-20,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-06-23,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-06-25,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-07-04,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-07-11,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-08-20,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-08-24,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-08-28,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-09-21,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-09-30,3100,3100,3100,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2020-10-28,3100,3100,3100,335
+Chattisgarh,Koria,Manendragarh,Mahua,Other,FAQ,2020-12-22,2000,2000,2000,335
+Chattisgarh,Mahasamund,Bagbahra,Mahua,Mahua,FAQ,2020-04-30,2000,3000,2500,335
+Chattisgarh,Mahasamund,Bagbahra,Mahua,Mahua,FAQ,2020-10-31,3000,3500,3300,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-01-15,2100,2100,2100,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-04-22,2500,2500,2500,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-05-02,3050,3100,3075,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-05-08,3200,3200,3200,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-05-21,3300,3300,3300,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-06-01,3300,3300,3300,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-06-02,3100,3300,3100,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2020-06-08,3300,3300,3300,335
+Chattisgarh,Mahasamund,Bhavarpur,Mahua,Mahua,FAQ,2020-05-08,3400,3400,3400,335
+Chattisgarh,Mahasamund,Bhurkoni,Mahua,Other,FAQ,2020-04-27,3100,3100,3100,335
+Chattisgarh,Mahasamund,Pirda,Mahua,Other,FAQ,2020-04-30,3100,3200,3100,335
+Chattisgarh,Mahasamund,Pithoura,Mahua,Other,FAQ,2020-04-25,1800,1800,1800,335
+Chattisgarh,Mahasamund,Pithoura,Mahua,Other,FAQ,2020-05-18,3100,3100,3100,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2020-04-25,3200,3200,3200,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2020-04-29,3100,3200,3100,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2020-05-05,3200,3200,3200,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2020-05-13,3200,3200,3200,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2020-05-26,3200,3200,3200,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2020-08-24,2500,2800,2700,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2020-10-09,2700,3000,2900,335
+Chattisgarh,Raigarh,Baramkela,Mahua,Other,FAQ,2020-04-21,2500,2500,2500,335
+Chattisgarh,Raigarh,Baramkela,Mahua,Other,FAQ,2020-04-23,3100,3100,3100,335
+Chattisgarh,Raigarh,Baramkela,Mahua,Other,FAQ,2020-04-28,3100,3100,3100,335
+Chattisgarh,Raigarh,Baramkela,Mahua,Other,FAQ,2020-05-19,3100,3100,3100,335
+Chattisgarh,Raigarh,Baramkela,Mahua,Other,FAQ,2020-10-03,2500,2500,2500,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2020-04-23,3000,3200,3200,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2020-07-25,3000,3000,3000,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2020-08-31,3000,3200,3200,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2020-01-29,3000,3000,3000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2020-04-15,3000,3000,3000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2020-05-21,3200,3200,3200,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2020-05-28,3200,3200,3200,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2020-12-05,3000,3000,3000,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2020-12-22,3000,3000,3000,335
+Chattisgarh,Raigarh,Raigarh,Mahua,Other,FAQ,2020-04-27,3000,3000,3000,335
+Chattisgarh,Raigarh,Raigarh,Mahua,Other,FAQ,2020-05-12,3000,3000,3000,335
+Chattisgarh,Raigarh,Raigarh,Mahua,Other,FAQ,2020-05-31,3000,3000,3000,335
+Chattisgarh,Raigarh,Raigarh,Mahua,Other,FAQ,2020-12-31,2000,2000,2000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2020-05-01,3000,3000,3000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2020-05-13,3000,3000,3000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2020-05-16,3000,3000,3000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2020-05-19,3000,3000,3000,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2020-06-26,3000,3000,3000,335
+Chattisgarh,Rajnandgaon,Dongargaon,Mahua,Mahua,FAQ,2020-03-13,2000,2000,2000,335
+Chattisgarh,Rajnandgaon,Dongargaon,Mahua,Mahua,FAQ,2020-04-30,3500,3500,3500,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2020-05-07,2900,3000,2950,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2020-05-20,3000,3100,3050,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2020-05-29,3000,3000,3000,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2020-08-24,3000,3000,3000,335
+Chattisgarh,Sukma,Doranpal,Mahua,Other,FAQ,2020-05-05,2900,3030,3000,335
+Chattisgarh,Sukma,Doranpal,Mahua,Other,FAQ,2020-08-18,3000,3000,3000,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2020-04-28,2800,3020,3000,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2020-05-25,3000,3050,3030,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2020-07-16,3100,3100,3100,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2020-08-18,3000,3100,3050,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2020-09-15,3000,3000,3000,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2020-12-31,3000,3100,3050,335
+Chattisgarh,Sukma,Kukanar,Mahua,Mahua,FAQ,2020-04-29,2700,3020,2900,335
+Chattisgarh,Sukma,Kukanar,Mahua,Mahua,FAQ,2020-09-15,3000,3000,3000,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-02-29,2000,2000,2000,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-05-12,3000,3100,3050,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-05-23,3000,3100,3050,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-06-23,3000,3100,3050,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-08-18,3000,3100,3050,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-09-08,3000,3000,3000,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-09-12,3000,3200,3100,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-09-16,3000,3000,3000,335
+Chattisgarh,Sukma,Sukma,Mahua,Mahua,FAQ,2020-09-21,3000,3000,3000,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Mahua,FAQ,2020-07-16,3100,3100,3100,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2020-02-19,2500,2500,2500,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2020-10-10,3100,3100,3100,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2020-10-12,3100,3100,3100,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2020-10-29,3000,3000,3000,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2020-11-30,3000,3000,3000,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2020-12-05,3000,3000,3000,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2020-08-31,3100,3100,3100,335
+Madhya Pradesh,Anupur,Anuppur,Mahua,Other,FAQ,2020-05-22,3500,3500,3500,335
+Madhya Pradesh,Anupur,Anuppur,Mahua,Other,FAQ,2020-06-26,3000,3000,3000,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2020-05-18,3570,3660,3600,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-02-12,2500,2850,2750,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-02-25,2400,2540,2450,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-02-28,2400,2650,2490,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-05-19,3515,3600,3550,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-05-27,3510,3560,3530,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-06-06,3150,3600,3500,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-06-09,3550,3600,3565,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-06-20,3550,3600,3570,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2020-06-23,3600,3625,3610,335
+Madhya Pradesh,Chhindwara,Chhindwara,Mahua,Mahua,FAQ,2020-05-16,3300,3600,3400,335
+Madhya Pradesh,Damoh,Javera,Mahua,Mahua,FAQ,2020-05-11,3500,3500,3500,335
+Madhya Pradesh,Damoh,Javera,Mahua,Mahua,FAQ,2020-05-26,3500,3500,3500,335
+Madhya Pradesh,Panna,Devandranagar,Mahua,Mahua,FAQ,2020-05-28,3512,3547,3530,335
+Madhya Pradesh,Raisen,Gairatganj,Mahua,Other,FAQ,2020-05-21,2720,2850,2800,335
+Madhya Pradesh,Raisen,Gairatganj,Mahua,Other,FAQ,2020-05-23,2715,2850,2800,335
+Madhya Pradesh,Raisen,Gairatganj,Mahua,Other,FAQ,2020-05-28,2709,2711,2711,335
+Madhya Pradesh,Rewa,Baikunthpur,Mahua,Other,FAQ,2020-06-03,3500,3510,3505,335
+Madhya Pradesh,Sagar,Kesli,Mahua,Other,FAQ,2020-06-23,3500,3500,3500,335
+Madhya Pradesh,Sagar,Shahagarh,Mahua,Mahua,FAQ,2020-05-14,2600,2800,2700,335
+Madhya Pradesh,Sagar,Shahagarh,Mahua,Mahua,FAQ,2020-05-29,3300,3500,3400,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2020-04-30,3550,3650,3600,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2020-05-11,3750,3850,3800,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2020-05-16,3625,3675,3650,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2020-05-18,3550,3650,3600,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2020-06-19,3650,3675,3662,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2020-06-20,3665,3680,3675,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2020-06-22,3650,3710,3680,335
+Madhya Pradesh,Satna,Ramnagar,Mahua,Other,FAQ,2020-05-22,3550,3620,3585,335
+Madhya Pradesh,Seoni,Lakhnadon,Mahua,Other,FAQ,2020-06-19,1010,1010,1010,335
+Madhya Pradesh,Shehdol,Beohari,Mahua,Other,FAQ,2020-02-14,3500,3500,3500,335
+Madhya Pradesh,Shehdol,Beohari,Mahua,Other,FAQ,2020-02-22,3500,3500,3500,335
+Madhya Pradesh,Shehdol,Beohari,Mahua,Other,FAQ,2020-03-17,3500,3500,3500,335
+Madhya Pradesh,Shehdol,Beohari,Mahua,Other,FAQ,2020-05-28,3550,3620,3600,335
+Madhya Pradesh,Shehdol,Beohari,Mahua,Other,FAQ,2020-06-05,3510,3510,3510,335
+Madhya Pradesh,Shehdol,Budhar,Mahua,Other,FAQ,2020-05-21,3600,3600,3600,335
+Madhya Pradesh,Shehdol,Budhar,Mahua,Other,FAQ,2020-05-22,3500,3600,3600,335
+Madhya Pradesh,Shehdol,Shahdol,Mahua,Other,FAQ,2020-05-28,3600,3615,3615,335
+Madhya Pradesh,Sheopur,Sheopurkalan,Mahua,Mahua,FAQ,2020-04-22,2250,2500,2350,335
+Madhya Pradesh,Sheopur,Sheopurkalan,Mahua,Mahua,FAQ,2020-04-29,2775,2895,2800,335
+Madhya Pradesh,Sheopur,Sheopurkalan,Mahua,Mahua,FAQ,2020-05-19,2975,3025,3000,335
+Madhya Pradesh,Shivpuri,Khaniadhana,Mahua,Mahua,FAQ,2020-05-11,2700,2750,2725,335
+Madhya Pradesh,Shivpuri,Khaniadhana,Mahua,Mahua,FAQ,2020-05-12,2700,2750,2725,335
+Madhya Pradesh,Shivpuri,Khaniadhana,Mahua,Mahua,FAQ,2020-05-13,3835,3945,3890,335
+Madhya Pradesh,Shivpuri,Khaniadhana,Mahua,Mahua,FAQ,2020-05-18,2650,2750,2700,335
+Madhya Pradesh,Shivpuri,Pichhour,Mahua,Mahua,FAQ,2020-05-11,2605,3005,2805,335
+Madhya Pradesh,Shivpuri,Pichhour,Mahua,Mahua,FAQ,2020-05-13,2350,2835,2592,335
+Madhya Pradesh,Shivpuri,Pichhour,Mahua,Mahua,FAQ,2020-05-23,2925,3210,3067,335
+Madhya Pradesh,Shivpuri,Shivpuri,Mahua,Other,FAQ,2020-05-22,3000,3200,3100,335
+Madhya Pradesh,Sidhi,Sidhi,Mahua,Other,FAQ,2020-05-26,3503,3503,3503,335
+Madhya Pradesh,Tikamgarh,Khargapur,Mahua,Mahua,FAQ,2020-05-08,2350,2450,2400,335
+Madhya Pradesh,Tikamgarh,Khargapur,Mahua,Mahua,FAQ,2020-05-14,2690,2900,2800,335
+Madhya Pradesh,Tikamgarh,Khargapur,Mahua,Mahua,FAQ,2020-05-23,2400,2900,2700,335
+Madhya Pradesh,Tikamgarh,Khargapur,Mahua,Mahua,FAQ,2020-06-17,2500,2600,2550,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2020-01-06,2120,2900,2510,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2020-02-09,2610,2690,2650,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2020-06-07,2590,2850,2720,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2020-06-10,3560,4350,3955,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2020-06-20,2900,3500,3200,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2020-05-25,3500,3503,3502,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2020-06-18,3500,3505,3502,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2020-01-15,1750,1950,1850,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2020-02-10,1750,1950,1850,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2020-03-18,1670,1850,1750,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2020-05-05,1700,1900,1800,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2020-05-29,1700,1900,1800,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2020-07-28,1700,1900,1800,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-01-04,4475,4550,4520,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-01-13,4470,4570,4520,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-01-20,4530,4600,4565,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-01-23,4520,4600,4565,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-02-05,4500,4600,4560,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-02-12,4530,4630,4580,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-02-17,4520,4600,4575,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-02-28,4500,4580,4540,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-03-05,3450,3550,3500,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-03-21,2200,2300,2250,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-06-11,2500,2600,2550,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-06-25,2700,2800,2750,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-06-29,2750,2850,2800,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-07-04,2850,2950,2900,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-07-06,2900,3000,2950,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-07-14,3020,3080,3050,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-07-21,3100,3200,3150,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-08-13,3350,3450,3400,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-09-03,3500,3600,3550,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-09-07,3950,4050,4000,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-09-11,4450,4550,4500,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-09-18,4850,4950,4900,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-10-01,4900,5000,4950,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-10-03,4880,4990,4940,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2020-10-06,4900,4975,4940,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-02-26,1800,1800,1800.0,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-06-25,1800,1800,1800.0,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-07-19,1800,1800,1800.0,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-07-24,1800,1800,1800.0,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-07-31,1800,1800,1800.0,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-10-31,1800,1800,1800.0,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-11-30,1800,1800,1800.0,335
+Chattisgarh,Koria,Manendragarh,Mahua,Other,FAQ,2018-01-25,1800,1800,1800.0,335
+Chattisgarh,Mahasamund,Bagbahra,Mahua,Mahua,FAQ,2018-08-31,3400,3500,3450.0,335
+Chattisgarh,Mahasamund,Basana,Mahua,Mahua,FAQ,2018-03-26,1600,1600,1600.0,335
+Chattisgarh,Mahasamund,Bhavarpur,Mahua,Mahua,FAQ,2018-05-28,2500,2500,2500.0,335
+Chattisgarh,Mahasamund,Bhurkoni,Mahua,Other,FAQ,2018-04-27,1500,1500,1500.0,335
+Chattisgarh,Mahasamund,Bhurkoni,Mahua,Other,FAQ,2018-05-11,1500,1500,1500.0,335
+Chattisgarh,Mahasamund,Mahasamund,Mahua,Other,FAQ,2018-04-17,2525,2525,2525.0,335
+Chattisgarh,Mahasamund,Pithoura,Mahua,Other,FAQ,2018-04-26,1850,1850,1850.0,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2018-04-02,1800,2000,1800.0,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2018-04-04,1800,2000,1900.0,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2018-04-07,2000,2000,2000.0,335
+Chattisgarh,Mahasamund,Sakra,Mahua,Other,FAQ,2018-07-13,2000,2000,2000.0,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2018-01-14,1900,2100,2000.0,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2018-01-30,1800,2000,1900.0,335
+Chattisgarh,Narayanpur,Narayanpur,Mahua,Mahua,FAQ,2018-07-05,2000,2200,2100.0,335
+Chattisgarh,Raigarh,Baramkela,Mahua,Other,FAQ,2018-04-05,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-02-23,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-03-19,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-04-16,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-04-19,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-04-28,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-05-04,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-05-12,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-05-16,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-05-21,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-05-22,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-05-30,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-06-21,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-06-30,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Gharghoda,Mahua,Other,FAQ,2018-07-26,2000,2000,2000.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-04-07,2400,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-04-14,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-04-17,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-05-14,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-05-16,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-05-22,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-06-12,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-06-13,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-11-10,2500,2500,2500.0,335
+Chattisgarh,Raigarh,Kharsiya,Mahua,Other,FAQ,2018-11-16,2500,2500,2500.0,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2018-03-26,1700,1700,1700.0,335
+Chattisgarh,Rajnandgaon,Bandhabazar,Mahua,Mahua,FAQ,2018-05-05,2000,2000,2000.0,335
+Chattisgarh,Rajnandgaon,Dongargaon,Mahua,Other,FAQ,2018-05-30,2700,2800,2800.0,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2018-05-23,2400,2500,2450.0,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2018-05-24,2400,2500,2450.0,335
+Chattisgarh,Rajnandgaon,Dongargarh,Mahua,Other,FAQ,2018-08-20,2900,3000,2950.0,335
+Chattisgarh,Sukma,Doranpal,Mahua,Other,FAQ,2018-09-27,1500,1500,1500.0,335
+Chattisgarh,Sukma,Doranpal,Mahua,Other,FAQ,2018-09-28,1500,1500,1500.0,335
+Chattisgarh,Sukma,Doranpal,Mahua,Other,FAQ,2018-12-15,1500,1500,1500.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-04-12,1200,1500,1300.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-04-18,1200,1500,1300.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-04-24,1200,1500,1300.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-04-25,1500,1500,1500.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-05-25,1500,1500,1500.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-06-08,1500,1500,1500.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-06-16,1200,1300,1250.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-07-03,1500,1500,1500.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-08-26,1700,1900,1800.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-08-31,1200,1500,1300.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-09-10,1500,1500,1500.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-09-24,1500,1500,1500.0,335
+Chattisgarh,Sukma,Konta,Mahua,Other,FAQ,2018-09-28,1500,1500,1500.0,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2018-05-02,2000,2000,2000.0,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2018-05-31,2000,2000,2000.0,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2018-06-29,2000,2000,2000.0,335
+Chattisgarh,Surajpur,Pratappur,Mahua,Other,FAQ,2018-08-31,2000,2000,2000.0,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2018-06-29,1800,2000,2000.0,335
+Chattisgarh,Surajpur,Surajpur,Mahua,Other,FAQ,2018-07-04,2200,2200,2200.0,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2018-05-05,1600,2465,2000.0,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2018-05-11,1800,1800,1800.0,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2018-06-30,1525,2000,1750.0,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2018-11-05,3200,3425,3300.0,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2018-11-19,2500,2500,2500.0,335
+Chattisgarh,Surguja,Ambikapur,Mahua,Other,FAQ,2018-12-21,3350,3400,3400.0,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2018-03-31,2000,2000,2000.0,335
+Chattisgarh,Surguja,Sitapur,Mahua,Other,FAQ,2018-04-07,2000,2200,2200.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-02-05,2150,2350,2250.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-02-26,2025,2264,2145.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-03-03,1850,2240,2040.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-03-04,1930,2165,2040.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-04-02,1930,2275,2100.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-05-04,1650,1850,1750.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-05-12,1725,1980,1832.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-05-17,1735,2042,1864.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-06-26,1450,1650,1550.0,335
+Jharkhand,Bokaro,Bokaro (Chas),Mahua,Mahua,FAQ,2018-07-03,1500,1700,1600.0,335
+Jharkhand,Garhwa,Gadhwah,Mahua,Mahua,FAQ,2018-09-27,4730,5000,4870.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-01-04,2900,3200,3000.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-01-06,2900,3100,3000.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-01-17,3000,3400,3250.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-02-07,3100,3300,3200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-02-10,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-02-13,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-02-16,2600,2800,2700.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-02-20,2700,2900,2800.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-02-24,2800,3200,3000.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-02-26,2800,3200,3000.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-03-02,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-03-13,2800,3000,2950.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-03-15,3000,3200,3100.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-03-21,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-03-23,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-03-30,3000,3200,3100.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-03,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-09,3000,3300,3250.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-12,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-13,2800,3000,2900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-17,2800,3000,2950.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-18,3000,3200,3100.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-23,3000,3200,3150.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-28,2800,3000,2950.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-04-30,2800,3000,2950.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-05-08,3400,3600,3500.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-05-24,3300,3500,3400.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-05-29,3400,3600,3500.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-05-30,3200,3500,3400.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-06-06,3300,3500,3400.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-06-23,3200,3500,3400.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-07-03,4200,4500,4300.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-07-05,4400,4600,4500.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-07-13,4400,4800,4600.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-07-16,4800,5000,4900.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-07-19,4500,4800,4600.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-07-29,4500,5000,4800.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-07-30,4500,5000,4800.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-08-08,4500,4800,4600.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-08-11,4400,4600,4500.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-08-27,4400,4800,4500.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-08-29,4400,4800,4600.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-08-31,4500,4700,4600.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-09-06,4600,5000,4800.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-09-07,4600,5000,4800.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-09-13,4600,4800,4700.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-09-15,4600,4800,4700.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-10-10,5000,5500,5200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-10-16,5000,5500,5200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-10-17,5000,5500,5200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-10-18,4800,5500,5200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-10-20,4800,5500,5200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-10-22,4600,5000,4800.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-11-13,4800,5200,5000.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-11-14,4800,5200,5000.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-11-15,4800,5200,5000.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-11-20,5400,5600,5500.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-11-30,5300,5500,5400.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-12-10,6000,6500,6200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-12-11,6000,6500,6200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-12-18,6000,6400,6200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-12-20,6000,6500,6200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-12-21,6000,6500,6200.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-12-26,6500,7000,6800.0,335
+Jharkhand,Lohardaga,Lohardaga,Mahua,Other,FAQ,2018-12-27,6400,6800,6600.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-01-04,2100,3800,3000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-01-05,2100,3800,3000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-01-06,2500,3000,2700.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-01-15,2500,3000,2700.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-01-16,2500,3000,2700.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-01-25,1800,3500,2500.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-02-06,1800,3500,2500.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-02-21,1800,3500,2500.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-02-22,1800,3500,2500.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-02-28,2500,3000,2800.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-03-02,2500,3000,2800.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-03-14,2500,3000,2800.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-04-05,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-04-12,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-04-13,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-04-30,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-03,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-10,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-11,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-12,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-15,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-16,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-23,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-29,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-30,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-05-31,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-06-06,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-06-07,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-06-12,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-06-13,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-06-14,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-06-22,1600,2500,2200.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-07-09,1800,2100,2000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-07-13,1800,2100,2000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-07-18,1800,2100,2000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-07-25,1800,2100,2000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-08-21,3200,4100,4000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-08-24,3200,4100,4000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-08-28,3200,4100,4000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-08-31,3200,4100,4000.0,335
+Jharkhand,Ranchi,Ranchi,Mahua,Mahua,FAQ,2018-09-08,3200,4100,4000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-01-06,1560,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-01-07,1565,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-01-10,1565,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-01-15,1560,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-01-19,1565,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-01-21,1565,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-01-25,1565,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-02-01,1565,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-02-09,1570,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-02-19,1565,2200,2000.0,335
+Chattisgarh,Balod,Dondilohara,Mahua,Mahua,FAQ,2018-04-17,2500,2500,2500.0,335
+Chattisgarh,Balod,Dondilohara,Mahua,Mahua,FAQ,2018-05-28,2500,2500,2500.0,335
+Chattisgarh,Balod,Gurur,Mahua,Mahua,FAQ,2018-04-16,2500,2500,2500.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Mahua,FAQ,2018-07-02,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-03-31,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-04-11,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-04-13,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-05-07,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-05-16,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-05-25,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-05-31,2000,2000,2000.0,335
+Chattisgarh,Balrampur,Ramanujganj,Mahua,Other,FAQ,2018-06-05,2000,2000,2000.0,335
+Chattisgarh,Bastar,Karpawand,Mahua,Other,FAQ,2018-03-22,1800,1800,1800.0,335
+Chattisgarh,Bastar,Karpawand,Mahua,Other,FAQ,2018-06-14,2000,2000,2000.0,335
+Chattisgarh,Bastar,Lohandiguda,Mahua,Other,FAQ,2018-06-01,2300,2500,2400.0,335
+Chattisgarh,Bastar,Tokapal,Mahua,Other,FAQ,2018-06-25,2100,2100,2100.0,335
+Chattisgarh,Bastar,Tokapal,Mahua,Other,FAQ,2018-07-09,2000,2000,2000.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-02-09,1300,1300,1300.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-02-14,1300,1300,1300.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-06-23,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-06-26,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-07-08,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-10-23,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-10-28,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-11-09,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-11-10,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bharamgarh,Mahua,Other,FAQ,2018-12-31,1750,1770,1750.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-07-07,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-07-08,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-10-23,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-10-27,1600,1700,1650.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-11-09,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-11-10,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-11-14,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-11-20,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-11-21,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bhopalpattnam,Mahua,Other,FAQ,2018-11-23,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-04-29,1000,1300,1100.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-05-07,1000,1300,1250.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-05-08,1000,1300,1250.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-07-08,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-10-08,1700,1800,1750.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-10-27,1600,1700,1650.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-10-30,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-11-15,1500,2000,1850.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-11-26,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-12-04,1500,1500,1500.0,335
+Chattisgarh,Bijapur,Bijapur,Mahua,Other,FAQ,2018-12-05,1500,1500,1500.0,335
+Chattisgarh,Bilaspur,Pendraroad,Mahua,Other,FAQ,2018-04-12,2000,2010,2000.0,335
+Chattisgarh,Bilaspur,Pendraroad,Mahua,Other,FAQ,2018-04-18,2000,2010,2000.0,335
+Chattisgarh,Bilaspur,Pendraroad,Mahua,Other,FAQ,2018-04-19,2010,2015,2010.0,335
+Chattisgarh,Bilaspur,Pendraroad,Mahua,Other,FAQ,2018-05-28,2000,2000,2000.0,335
+Chattisgarh,Bilaspur,Takhatpur,Mahua,Other,FAQ,2018-03-08,1800,1800,1800.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-01-02,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-02-17,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-02-19,1200,1300,1250.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-03-21,1200,1300,1250.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-03-28,1100,1200,1150.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-04-14,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-04-20,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-04-25,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-04-27,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-05-07,3000,3500,3050.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-05-10,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-05-17,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-05-24,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-06-01,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-06-17,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-07-03,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-07-06,2000,2500,2050.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-07-15,1800,2000,1850.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-07-16,2000,2200,2050.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-07-17,1800,2000,1850.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-07-21,1800,2000,1850.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-07-23,1800,2000,1850.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-08-06,1700,1800,1750.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-08-10,1700,1800,1750.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-08-16,1700,1800,1750.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-08-19,2000,2200,2050.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-09-05,2000,2200,2050.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-09-12,1800,2000,1850.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-09-28,1700,1800,1750.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-10-01,1700,1800,1750.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-10-21,1500,1600,1550.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-10-24,2200,2500,2250.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-11-17,1800,2000,1850.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-11-29,1600,1700,1650.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-11-30,1800,2000,1850.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-12-07,1700,1800,1750.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-12-30,1700,1800,1750.0,335
+Chattisgarh,Dantewada,Gidam,Mahua,Other,FAQ,2018-12-31,1800,1900,1850.0,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2018-03-28,1800,2000,1800.0,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2018-04-11,2000,2000,2000.0,335
+Chattisgarh,Dhamtari,Boraee,Mahua,Other,FAQ,2018-11-27,4000,4000,4000.0,335
+Chattisgarh,Dhamtari,Gattasilli,Mahua,Other,FAQ,2018-11-28,3000,3000,3000.0,335
+Chattisgarh,Dhamtari,Gattasilli,Mahua,Other,FAQ,2018-11-29,4000,4000,4000.0,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2018-03-21,1800,2000,1800.0,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2018-05-03,2200,2200,2200.0,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Mahua,FAQ,2018-05-18,2200,2500,2200.0,335
+Chattisgarh,Dhamtari,Nagari,Mahua,Other,FAQ,2018-12-08,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2018-04-05,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2018-04-06,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2018-04-11,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2018-05-11,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2018-07-12,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Chura,Mahua,Mahua,FAQ,2018-11-10,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2018-04-11,2000,2200,2000.0,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2018-04-18,2000,2200,2000.0,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2018-06-30,1800,2000,2000.0,335
+Chattisgarh,Gariyaband,Devbhog,Mahua,Mahua,FAQ,2018-11-30,2100,2100,2100.0,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Other,FAQ,2018-04-06,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Other,FAQ,2018-05-11,2000,2000,2000.0,335
+Chattisgarh,Gariyaband,Gariyaband,Mahua,Other,FAQ,2018-12-10,3000,3000,3000.0,335
+Chattisgarh,Janjgir,Amadula,Mahua,Other,FAQ,2018-07-12,3000,3000,3000.0,335
+Chattisgarh,Janjgir,Amadula,Mahua,Other,FAQ,2018-12-08,2500,2500,2500.0,335
+Chattisgarh,Janjgir,Kotmi,Mahua,Other,FAQ,2018-04-06,2500,2500,2500.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-03-15,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-04-30,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-05-10,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-06-02,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-07-31,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-08-08,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-08-30,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Jaspur,Mahua,Other,FAQ,2018-11-22,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2018-04-13,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2018-06-21,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2018-06-26,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Kotba,Mahua,Other,FAQ,2018-10-08,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2018-04-30,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2018-06-30,2500,2500,2500.0,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2018-07-06,3000,3000,3000.0,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2018-07-09,2500,2500,2500.0,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2018-09-19,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2018-10-22,2500,2500,2500.0,335
+Chattisgarh,Jashpur,Kunkuri,Mahua,Other,FAQ,2018-12-21,2500,2500,2500.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-05-04,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-05-21,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-05-22,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-05-25,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-06-06,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-06-20,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-06-30,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-08-31,2000,2000,2000.0,335
+Chattisgarh,Jashpur,Pathalgaon,Mahua,Other,FAQ,2018-09-27,2000,2000,2000.0,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2018-04-25,2000,2000,2000.0,335
+Chattisgarh,Kanker,Bardewri,Mahua,Other,FAQ,2018-04-28,2000,2000,2000.0,335
+Chattisgarh,Kanker,Bhanupratappur,Mahua,Mahua,FAQ,2018-04-14,2500,2500,2500.0,335
+Chattisgarh,Kanker,Charama,Mahua,Mahua,FAQ,2018-06-20,3000,3000,3000.0,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2018-03-28,2000,2000,2000.0,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2018-04-08,2000,2000,2000.0,335
+Chattisgarh,Kanker,Dudhawa,Mahua,Other,FAQ,2018-04-30,2000,2000,2000.0,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2018-04-11,2000,2000,2000.0,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2018-05-01,2000,2000,2000.0,335
+Chattisgarh,Kanker,Kanker,Mahua,Other,FAQ,2018-05-08,2000,2000,2000.0,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2018-04-09,2000,2500,2250.0,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2018-04-11,2500,2500,2500.0,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2018-04-14,2500,2500,2500.0,335
+Chattisgarh,Kanker,Korar,Mahua,Other,FAQ,2018-04-25,2500,2500,2500.0,335
+Chattisgarh,Kanker,Narharpur,Mahua,Mahua,FAQ,2018-04-30,2500,2500,2500.0,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2018-03-25,1500,1600,1550.0,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2018-04-05,2500,2500,2500.0,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2018-04-06,2500,2500,2500.0,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2018-04-14,2500,2500,2500.0,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2018-05-09,2500,2500,2500.0,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2018-05-27,2500,2500,2500.0,335
+Chattisgarh,Kanker,Sambalpur,Mahua,Other,FAQ,2018-11-15,5200,5200,5200.0,335
+Chattisgarh,Kanker,Sarona,Mahua,Other,FAQ,2018-04-06,2000,2000,2000.0,335
+Chattisgarh,Kondagaon,Bededonger,Mahua,Other,FAQ,2018-03-30,2000,2000,2000.0,335
+Chattisgarh,Kondagaon,Chhinari,Mahua,Other,FAQ,2018-04-14,2000,2200,2100.0,335
+Chattisgarh,Kondagaon,Dhanora,Mahua,Other,FAQ,2018-01-20,1900,2000,1950.0,335
+Chattisgarh,Kondagaon,Dhanora,Mahua,Other,FAQ,2018-11-24,2900,3000,2950.0,335
+Chattisgarh,Kondagaon,Dhanora,Mahua,Other,FAQ,2018-12-22,4900,5000,4950.0,335
+Chattisgarh,Kondagaon,Hirapur,Mahua,Other,FAQ,2018-04-05,2000,2000,2000.0,335
+Chattisgarh,Kondagaon,Hirapur,Mahua,Other,FAQ,2018-05-25,2000,2500,2250.0,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2018-01-02,1900,2000,1950.0,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2018-01-04,1900,2000,1950.0,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2018-01-31,1900,2000,1950.0,335
+Chattisgarh,Kondagaon,Keshkal,Mahua,Other,FAQ,2018-05-15,1900,2000,1950.0,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2018-04-04,2000,2000,2000.0,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2018-04-10,2000,2200,2100.0,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2018-04-19,2500,2500,2500.0,335
+Chattisgarh,Kondagaon,Kondagoan,Mahua,Other,FAQ,2018-06-15,2000,2500,2350.0,335
+Chattisgarh,Kondagaon,Makdi,Mahua,Other,FAQ,2018-04-20,2500,2500,2500.0,335
+Chattisgarh,Kondagaon,Mardapal,Mahua,Other,FAQ,2018-04-14,2000,2200,2100.0,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2018-04-16,2000,2500,2350.0,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2018-04-23,2000,2200,2100.0,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2018-04-24,2000,2200,2100.0,335
+Chattisgarh,Kondagaon,Pharasgaon,Mahua,Other,FAQ,2018-04-30,2000,2200,2100.0,335
+Chattisgarh,Kondagaon,Vishrampur,Mahua,Other,FAQ,2018-01-03,1900,2000,1950.0,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2018-01-16,2200,2200,2200.0,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2018-01-18,2200,2200,2200.0,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2018-04-04,2200,2200,2200.0,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2018-04-19,2200,2200,2200.0,335
+Chattisgarh,Korba,Katghora,Mahua,Other,FAQ,2018-11-11,2200,2200,2200.0,335
+Chattisgarh,Koria,Baikunthpur,Mahua,Other,FAQ,2018-01-05,1800,1800,1800.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-02-23,1555,2200,2000.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-03-09,1525,1800,1600.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-03-24,1540,1800,1600.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-04-01,1525,1800,1600.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-04-04,1525,1800,1600.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-04-16,3000,3200,3100.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-04-22,3055,3200,3100.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-04-27,3045,3200,3100.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-05-05,3055,3200,3100.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-05-10,3065,3200,3100.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-05-12,3220,3500,3300.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-06-19,3340,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-06-23,3325,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-06-28,3330,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-07-06,3340,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-07-07,3340,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-07-09,3340,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-07-18,3340,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-07-20,3345,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-08-10,3465,4000,3500.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-08-23,3340,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-08-27,3335,3500,3400.0,335
+Jharkhand,Simdega,Simdega,Mahua,Other,FAQ,2018-10-02,4885,5200,5000.0,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2018-03-29,1500,1700,1600.0,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2018-05-14,2000,2100,2050.0,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2018-06-24,2800,3000,2900.0,335
+Madhya Pradesh,Alirajpur,Alirajpur,Mahua,Other,FAQ,2018-07-04,2800,3050,3000.0,335
+Madhya Pradesh,Alirajpur,Jobat,Mahua,Other,FAQ,2018-05-31,2900,3100,3000.0,335
+Madhya Pradesh,Alirajpur,Jobat,Mahua,Other,FAQ,2018-06-20,3000,3100,3100.0,335
+Madhya Pradesh,Alirajpur,Jobat,Mahua,Other,FAQ,2018-07-18,3000,3200,3000.0,335
+Madhya Pradesh,Anupur,Anuppur,Mahua,Other,FAQ,2018-04-16,2600,2600,2600.0,335
+Madhya Pradesh,Anupur,Anuppur,Mahua,Other,FAQ,2018-07-25,2350,2350,2350.0,335
+Madhya Pradesh,Anupur,Anuppur,Mahua,Other,FAQ,2018-07-26,3000,3000,3000.0,335
+Madhya Pradesh,Anupur,Kotma,Mahua,Other,FAQ,2018-07-19,2450,2450,2450.0,335
+Madhya Pradesh,Anupur,Kotma,Mahua,Other,FAQ,2018-08-11,2450,2450,2450.0,335
+Madhya Pradesh,Anupur,Kotma,Mahua,Other,FAQ,2018-12-30,5000,5000,5000.0,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2018-04-25,2200,2300,2250.0,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2018-04-26,1600,1600,1600.0,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2018-04-28,2200,2300,2250.0,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2018-05-13,2200,2300,2250.0,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2018-05-22,2200,2300,2250.0,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2018-05-23,2300,2350,2325.0,335
+Madhya Pradesh,Chhatarpur,Badamalhera,Mahua,Other,FAQ,2018-05-28,2200,2300,2250.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-01-25,1905,1980,1955.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-01-30,1900,2050,1975.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-04-19,2500,2825,2662.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-04-20,2550,2850,2700.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-04-25,2455,2990,2722.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-04-26,2600,2900,2750.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-05-03,2640,2700,2670.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-05-05,2625,2700,2662.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-05-11,2505,2650,2577.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-05-24,2525,2560,2542.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-05-28,2510,2600,2555.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-05-30,2500,2600,2550.0,335
+Madhya Pradesh,Chhatarpur,Chhatarpur,Mahua,Other,FAQ,2018-06-13,2750,2800,2775.0,335
+Madhya Pradesh,Chhindwara,Saunsar,Mahua,Other,FAQ,2018-01-16,2600,2600,2600.0,335
+Madhya Pradesh,Chhindwara,Saunsar,Mahua,Other,FAQ,2018-09-11,4200,4200,4200.0,335
+Madhya Pradesh,Damoh,Javera,Mahua,Mahua,FAQ,2018-08-21,2300,2500,2400.0,335
+Madhya Pradesh,Dindori,Dindori,Mahua,Mahua,FAQ,2018-04-10,2000,2000,2000.0,335
+Madhya Pradesh,Dindori,Shahpura,Mahua,Mahua,FAQ,2018-04-10,1500,1700,1600.0,335
+Madhya Pradesh,Dindori,Shahpura,Mahua,Mahua,FAQ,2018-04-16,2000,2000,2000.0,335
+Madhya Pradesh,Panna,Ajaygarh,Mahua,Other,FAQ,2018-04-23,2485,2600,2500.0,335
+Madhya Pradesh,Panna,Ajaygarh,Mahua,Other,FAQ,2018-04-25,2400,2710,2400.0,335
+Madhya Pradesh,Rewa,Baikunthpur,Mahua,Other,FAQ,2018-04-19,1950,2190,2190.0,335
+Madhya Pradesh,Rewa,Baikunthpur,Mahua,Other,FAQ,2018-05-16,2475,2475,2475.0,335
+Madhya Pradesh,Rewa,Baikunthpur,Mahua,Other,FAQ,2018-05-29,2050,2115,2115.0,335
+Madhya Pradesh,Sagar,Deori,Mahua,Other,FAQ,2018-01-30,1500,1900,1600.0,335
+Madhya Pradesh,Sagar,Deori,Mahua,Other,FAQ,2018-03-29,1800,4000,1900.0,335
+Madhya Pradesh,Sagar,Deori,Mahua,Other,FAQ,2018-05-28,1500,2800,1900.0,335
+Madhya Pradesh,Sagar,Shahagarh,Mahua,Mahua,FAQ,2018-05-02,1800,1900,1850.0,335
+Madhya Pradesh,Sagar,Shahagarh,Mahua,Mahua,FAQ,2018-05-08,1800,2000,1900.0,335
+Madhya Pradesh,Sagar,Shahagarh,Mahua,Mahua,FAQ,2018-05-18,1800,2000,1900.0,335
+Madhya Pradesh,Sagar,Shahagarh,Mahua,Mahua,FAQ,2018-10-08,1800,2000,1900.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-01-16,1845,1850,1848.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-04-10,1900,2000,1950.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-04-12,1900,2110,2000.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-04-13,1900,2100,2000.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-05-02,1900,2500,2200.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-05-05,1900,2100,2000.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-05-08,1900,2150,2000.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-06-08,1900,2100,2000.0,335
+Madhya Pradesh,Satna,Mehar,Mahua,Mahua,FAQ,2018-06-14,1900,2100,2000.0,335
+Madhya Pradesh,Satna,Ramnagar,Mahua,Other,FAQ,2018-04-25,2500,2800,2600.0,335
+Madhya Pradesh,Satna,Ramnagar,Mahua,Other,FAQ,2018-05-09,2600,2600,2600.0,335
+Madhya Pradesh,Satna,Ramnagar,Mahua,Other,FAQ,2018-05-21,2500,2500,2500.0,335
+Madhya Pradesh,Satna,Ramnagar,Mahua,Other,FAQ,2018-05-22,2600,2600,2600.0,335
+Madhya Pradesh,Shehdol,Budhar,Mahua,Other,FAQ,2018-05-01,2000,2000,2000.0,335
+Madhya Pradesh,Shehdol,Budhar,Mahua,Other,FAQ,2018-05-07,2000,2000,2000.0,335
+Madhya Pradesh,Shehdol,Budhar,Mahua,Other,FAQ,2018-05-08,2500,2500,2500.0,335
+Madhya Pradesh,Shehdol,Shahdol,Mahua,Other,FAQ,2018-08-02,2200,2200,2200.0,335
+Madhya Pradesh,Sheopur,Sheopurkalan,Mahua,Mahua,FAQ,2018-06-02,2250,2365,2300.0,335
+Madhya Pradesh,Shivpuri,Khaniadhana,Mahua,Mahua,FAQ,2018-04-26,2200,2300,2250.0,335
+Madhya Pradesh,Shivpuri,Khaniadhana,Mahua,Mahua,FAQ,2018-05-03,2120,2225,2200.0,335
+Madhya Pradesh,Shivpuri,Khaniadhana,Mahua,Mahua,FAQ,2018-05-08,2100,2350,2220.0,335
+Madhya Pradesh,Shivpuri,Pichhour,Mahua,Mahua,FAQ,2018-04-24,2300,2500,2400.0,335
+Madhya Pradesh,Shivpuri,Pichhour,Mahua,Mahua,FAQ,2018-05-07,2200,2400,2300.0,335
+Madhya Pradesh,Sidhi,Sidhi,Mahua,Other,FAQ,2018-04-17,2249,2261,2255.0,335
+Madhya Pradesh,Sidhi,Sidhi,Mahua,Other,FAQ,2018-04-30,2250,2254,2252.0,335
+Madhya Pradesh,Sidhi,Sidhi,Mahua,Other,FAQ,2018-05-01,2258,2262,2260.0,335
+Madhya Pradesh,Sidhi,Sidhi,Mahua,Other,FAQ,2018-05-18,2258,2262,2260.0,335
+Madhya Pradesh,Sidhi,Sidhi,Mahua,Other,FAQ,2018-06-05,2248,2252,2250.0,335
+Madhya Pradesh,Sidhi,Sidhi,Mahua,Other,FAQ,2018-06-13,2270,2275,2273.0,335
+Madhya Pradesh,Singroli,Singroli,Mahua,Other,FAQ,2018-04-16,1500,2100,1500.0,335
+Madhya Pradesh,Singroli,Singroli,Mahua,Other,FAQ,2018-10-01,3005,3145,3145.0,335
+Madhya Pradesh,Singroli,Singroli,Mahua,Other,FAQ,2018-12-09,3171,3171,3171.0,335
+Madhya Pradesh,Tikamgarh,Khargapur,Mahua,Mahua,FAQ,2018-11-24,1900,1950,1910.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-01-05,1850,2000,1925.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-01-31,1900,2000,1950.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-02-21,1800,1950,1875.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-02-26,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-03-05,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-03-22,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-03-24,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-04-07,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-04-11,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-04-29,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-05-05,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-05-07,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-06-29,1820,1900,1860.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-08-09,1800,1900,1850.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-08-12,2500,2600,2550.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-08-20,2500,2600,2550.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-09-09,2500,2600,2550.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-11-24,2500,2600,2550.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-11-25,2500,2600,2550.0,335
+Madhya Pradesh,Tikamgarh,Niwadi,Mahua,Other,FAQ,2018-12-02,2500,2600,2550.0,335
+Madhya Pradesh,Tikamgarh,Tikamgarh,Mahua,Other,FAQ,2018-05-01,2785,2805,2800.0,335
+Madhya Pradesh,Tikamgarh,Tikamgarh,Mahua,Other,FAQ,2018-05-02,1800,2000,1925.0,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-04-14,1700,1800,1780.0,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-04-20,1800,1800,1800.0,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-05-03,2100,2100,2100.0,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-05-05,2010,2010,2010.0,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-06-05,2075,2100,2087.5,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-06-29,1800,1900,1850.0,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-10-06,2500,2560,2530.0,335
+Madhya Pradesh,Umariya,Umariya,Mahua,Other,FAQ,2018-12-24,2710,2730,2720.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-10-18,4600,4800,4700.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-10-22,4700,4900,4800.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-10-23,4700,4900,4800.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-10-24,4700,4900,4800.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-11-11,4800,5000,4900.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-11-19,4800,5000,4900.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-11-25,4800,5000,4900.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-12-02,4800,5000,4900.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-12-07,4800,5000,4900.0,335
+Odisha,Mayurbhanja,Karanjia,Mahua,Other,FAQ,2018-12-08,4800,5000,4900.0,335
+Odisha,Rayagada,Gunpur,Mahua,Other,FAQ,2018-03-06,1200,1400,1400.0,335
+Odisha,Rayagada,Gunpur,Mahua,Other,FAQ,2018-04-25,1500,1600,1600.0,335
+Odisha,Rayagada,Gunpur,Mahua,Other,FAQ,2018-05-01,2000,2500,2500.0,335
+Odisha,Rayagada,Rayagada(Muniguda),Mahua,Other,FAQ,2018-05-16,2000,2000,2000.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-01-11,1650,1800,1755.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-06-05,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-06-08,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-07-03,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-07-16,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-08-02,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-08-27,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-09-15,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-09-24,1600,1800,1700.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-11-01,1500,1700,1600.0,335
+Rajasthan,Udaipur,Udaipur (Grain),Mahua,Other,FAQ,2018-11-28,1600,1800,1700.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2018-10-08,4200,4300,4250.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2018-10-11,4150,4300,4210.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2018-10-22,4200,4300,4221.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2018-11-13,4100,4200,4140.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2018-11-22,4000,4250,4100.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2018-12-06,3650,3750,3710.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Mahua,FAQ,2018-12-10,3700,3800,3740.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-01-19,1900,2100,2000.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-02-03,1800,2000,1900.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-02-07,1800,1900,1875.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-02-08,1800,2000,1900.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-03-15,2000,2200,2100.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-03-21,2100,2300,2200.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-03-23,2100,2200,2150.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-04-16,2500,2700,2620.0,335
+Uttar Pradesh,Lalitpur,Lalitpur,Mahua,Other,FAQ,2018-10-03,4050,4250,4150.0,335

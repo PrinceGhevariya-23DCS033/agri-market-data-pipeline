@@ -1,0 +1,4 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+NCT of Delhi,Delhi,"Flower Market,Gazipur",Astera,Other,FAQ,2021-03-12,3000,4000,3600.0,232
+NCT of Delhi,Delhi,"Flower Market,Gazipur",Astera,Other,FAQ,2021-03-17,2000,3000,2800.0,232
+NCT of Delhi,Delhi,"Flower Market,Gazipur",Astera,Other,FAQ,2021-10-19,3000,5000,4000.0,232

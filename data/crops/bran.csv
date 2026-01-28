@@ -1,0 +1,31 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Odisha,Ganjam,Digapahandi,Bran,Bran,FAQ,2020-01-02,900,1100,1000,290
+Odisha,Ganjam,Digapahandi,Bran,Bran,FAQ,2020-02-14,800,1000,900,290
+Odisha,Ganjam,Digapahandi,Bran,Bran,FAQ,2020-02-22,900,1100,1000,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-02-07,2650,2750,2700,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-03-06,2250,2350,2300,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-05-08,1920,2000,1960,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-05-29,1950,2030,1980,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-07-03,1650,1750,1700,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-07-17,1550,1650,1600,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-08-28,1550,1650,1600,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-09-11,1550,1650,1600,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-12-11,1700,1800,1750,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2020-12-18,800,900,850,290
+Odisha,Kalahandi,Bhawanipatna,Bran,Other,FAQ,2012-08-14,250,250,250,290
+Odisha,Kalahandi,Kesinga,Bran,Other,FAQ,2012-03-22,400,500,450,290
+Odisha,Kalahandi,Kesinga,Bran,Other,FAQ,2012-08-03,300,500,400,290
+Odisha,Kalahandi,Kesinga,Bran,Other,FAQ,2012-08-16,300,400,350,290
+Odisha,Kalahandi,Kesinga,Bran,Other,FAQ,2012-08-30,300,500,400,290
+Odisha,Rayagada,Rayagada,Bran,Other,FAQ,2012-02-02,700,800,700,290
+Odisha,Rayagada,Rayagada,Bran,Other,FAQ,2012-02-08,700,800,700,290
+Odisha,Ganjam,Digapahandi,Bran,Bran,FAQ,2021-09-12,850,1000,900,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-01-08,1700,1800,1750,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-01-15,1700,1800,1750,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-01-22,1650,1750,1700,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-01-29,1700,1800,1750,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-02-05,1650,1750,1700,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-04-02,1720,1800,1760,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-07-02,1750,1850,1800,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-07-16,1700,1800,1750,290
+Uttar Pradesh,Amethi,Jafarganj,Bran,Bran,FAQ,2021-12-03,1950,2050,2000,290

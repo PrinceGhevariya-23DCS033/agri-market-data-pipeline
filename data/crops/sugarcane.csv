@@ -1,0 +1,95 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Chattisgarh,Balrampur,Kusmee,Sugarcane,Other,FAQ,2007-08-04,1000,1000,1000.0,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2007-01-03,900,900,900.0,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2007-12-30,300,300,300.0,150
+Jharkhand,Gumla,Gumla,Sugarcane,Other,FAQ,2007-05-18,1100,1200,1150.0,150
+Maharashtra,Thane,Ulhasnagar,Sugarcane,Other,FAQ,2007-01-02,250,325,300.0,150
+Maharashtra,Thane,Ulhasnagar,Sugarcane,Other,FAQ,2007-01-10,250,325,300.0,150
+Maharashtra,Thane,Ulhasnagar,Sugarcane,Other,FAQ,2007-01-12,250,325,300.0,150
+Maharashtra,Thane,Ulhasnagar,Sugarcane,Other,FAQ,2007-01-17,250,325,300.0,150
+Maharashtra,Thane,Ulhasnagar,Sugarcane,Other,FAQ,2007-01-18,250,325,300.0,150
+Maharashtra,Thane,Ulhasnagar,Sugarcane,Other,FAQ,2007-01-20,250,325,300.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-02-27,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-03-02,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-03-03,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-03-05,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-03-09,220,260,240.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-03-24,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-03-27,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-04-07,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-07-03,200,300,250.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-07-07,200,300,250.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-07-08,200,300,250.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-08-05,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-08-17,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-09-02,200,250,225.0,150
+NCT of Delhi,Delhi,Keshopur,Sugarcane,Other,FAQ,2007-12-09,200,250,225.0,150
+Odisha,Rayagada,Gunpur,Sugarcane,Other,FAQ,2007-03-07,700,900,800.0,150
+Tamil Nadu,Namakkal,Namakkal,Sugarcane,Sugarcane,FAQ,2007-02-03,1375,1425,1400.0,150
+Chattisgarh,Jashpur,Jaspur,Sugarcane,Other,FAQ,2014-03-31,250,250,250,150
+Chattisgarh,Jashpur,Jaspur,Sugarcane,Other,FAQ,2014-05-22,300,300,300,150
+Chattisgarh,Jashpur,Jaspur,Sugarcane,Other,FAQ,2014-06-23,300,300,300,150
+Chattisgarh,Jashpur,Jaspur,Sugarcane,Other,FAQ,2014-12-26,230,230,230,150
+Chattisgarh,Koria,Manendragarh,Sugarcane,Other,FAQ,2014-06-30,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Sugarcane,FAQ,2014-03-21,210,210,210,150
+Chattisgarh,Surguja,Sitapur,Sugarcane,Other,FAQ,2014-04-22,220,220,220,150
+Maharashtra,Nagpur,Kamthi,Sugarcane,Other,FAQ,2014-10-03,200,400,300,150
+Odisha,Koraput,Koraput,Sugarcane,Other,FAQ,2014-05-09,4000,5000,4500,150
+Odisha,Koraput,Koraput(Semilguda),Sugarcane,Other,FAQ,2014-01-03,3000,4000,3500,150
+Odisha,Koraput,Koraput(Semilguda),Sugarcane,Other,FAQ,2014-01-08,2500,4000,3500,150
+Odisha,Koraput,Koraput(Semilguda),Sugarcane,Other,FAQ,2014-06-13,3000,4000,3500,150
+Chattisgarh,Balrampur,Kusmee,Sugarcane,Sugarcane,FAQ,2022-11-11,200,200,200,150
+Chattisgarh,Surajpur,Pratappur,Sugarcane,Sugarcane,FAQ,2022-05-23,300,300,300,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-01-12,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-01-30,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-02-08,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-02-10,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-02-11,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-02-19,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-02-24,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-02-26,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-03-10,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-04-16,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-04-20,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-04-21,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-04-23,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-05-02,295,295,295,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2022-10-19,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-01-06,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-01-11,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-01-20,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-01-25,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-02-23,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-03-14,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-03-17,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-03-31,285,300,285,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-04-09,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-04-12,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-05-05,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-05-09,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-05-10,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2022-12-22,300,300,300,150
+Chattisgarh,Surguja,Sitapur,Sugarcane,Other,FAQ,2022-01-18,280,280,280,150
+Chattisgarh,Surguja,Sitapur,Sugarcane,Other,FAQ,2022-01-21,280,280,280,150
+Chattisgarh,Surguja,Sitapur,Sugarcane,Other,FAQ,2022-03-25,280,280,280,150
+Chattisgarh,Surguja,Sitapur,Sugarcane,Other,FAQ,2022-04-21,280,280,280,150
+Chattisgarh,Surguja,Sitapur,Sugarcane,Other,FAQ,2022-04-30,280,280,280,150
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Sugarcane,Other,FAQ,2022-01-13,400,1100,700,150
+Tamil Nadu,Erode,Chithode,Sugarcane,Sugarcane,FAQ,2022-07-23,3333,3922,3627,150
+Chattisgarh,Surajpur,Pratappur,Sugarcane,Sugarcane,FAQ,2021-03-01,275,275,275,150
+Chattisgarh,Surajpur,Pratappur,Sugarcane,Sugarcane,FAQ,2021-03-18,275,275,275,150
+Chattisgarh,Surajpur,Pratappur,Sugarcane,Sugarcane,FAQ,2021-03-20,275,275,275,150
+Chattisgarh,Surajpur,Pratappur,Sugarcane,Sugarcane,FAQ,2021-03-26,275,275,275,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2021-01-11,275,275,275,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2021-01-18,275,275,275,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2021-01-26,275,275,275,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2021-01-31,275,275,275,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2021-03-24,275,275,275,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2021-03-27,275,275,275,150
+Chattisgarh,Surajpur,Surajpur,Sugarcane,Other,FAQ,2021-12-15,295,295,295,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2021-01-13,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2021-01-27,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2021-02-28,300,300,300,150
+Chattisgarh,Surguja,Ambikapur,Sugarcane,Other,FAQ,2021-12-31,300,300,300,150
+Chattisgarh,Surguja,Sitapur,Sugarcane,Other,FAQ,2021-01-27,300,300,300,150
+Tamil Nadu,Vellore,Vellore,Sugarcane,Other,FAQ,2021-04-20,3050,4400,4400,150

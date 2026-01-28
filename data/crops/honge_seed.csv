@@ -1,0 +1,58 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Hassan,Holenarsipura,Honge seed,Honge Seed,FAQ,2007-04-17,800,1000,900,124
+Karnataka,Kolar,Chickkaballapura,Honge seed,Honge Seed,FAQ,2007-03-20,1100,1300,1200,124
+Karnataka,Kolar,Gowribidanoor,Honge seed,Honge Seed,FAQ,2007-03-27,1000,1200,1100,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-01-09,1001,1061,1001,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-02-21,1070,1161,1136,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-04-03,1060,1256,1256,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-04-21,1227,1239,1239,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-04-30,1226,1230,1228,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-05-11,1196,1196,1196,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-05-17,1182,1182,1182,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-05-22,1190,1190,1190,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2007-05-28,1200,1200,1200,124
+Karnataka,Bangalore,Hoskote,Honge seed,Honge Seed,FAQ,2014-09-16,1400,1530,1450,124
+Karnataka,Chamrajnagar,Chamaraj Nagar,Honge seed,Honge Seed,Medium,2014-03-03,2116,2116,2116,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-02-06,1875,1938,1896,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-02-17,2012,2019,2015,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-02-19,2041,2041,2041,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-03-01,2118,2120,2119,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-03-10,2162,2162,2162,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-03-13,2002,2094,2054,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-03-14,2069,2094,2079,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-03-28,2089,2111,2109,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-04-03,2106,2110,2109,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-04-15,2170,2185,2183,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,Medium,2014-05-05,2238,2238,2238,124
+Madhya Pradesh,Dewas,Dewas,Honge seed,Other,FAQ,2014-08-06,1900,1900,1900,124
+Madhya Pradesh,Dewas,Dewas,Honge seed,Other,FAQ,2014-08-14,2011,2011,2011,124
+Madhya Pradesh,Dewas,Dewas,Honge seed,Other,FAQ,2014-08-30,2010,2010,2010,124
+Karnataka,Hassan,Arasikere,Honge seed,Honge Seed,FAQ,2022-05-17,4605,4605,4605,124
+Karnataka,Hassan,Hassan,Honge seed,Honge Seed,FAQ,2022-06-14,4665,4665,4665,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2022-02-28,4177,4177,4177,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2022-03-09,4338,4338,4338,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2022-03-24,4650,4650,4650,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2022-04-27,4407,4407,4407,124
+Karnataka,Tumkur,Gubbi,Honge seed,Honge Seed,FAQ,2022-07-25,3100,3100,3100,124
+Karnataka,Tumkur,Gubbi,Honge seed,Honge Seed,FAQ,2022-08-08,2500,2500,2500,124
+Karnataka,Tumkur,Gubbi,Honge seed,Honge Seed,FAQ,2022-10-09,2500,2500,2500,124
+Karnataka,Tumkur,Gubbi,Honge seed,Honge Seed,FAQ,2022-10-17,2500,2500,2500,124
+Karnataka,Tumkur,Gubbi,Honge seed,Honge Seed,FAQ,2022-11-07,2500,3600,3600,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2022-02-19,2650,3520,2850,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2022-04-14,3100,3850,3250,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2022-05-09,3400,4200,3600,124
+Karnataka,Bangalore,Ramanagara,Honge seed,Honge Seed,FAQ,2021-04-01,3300,3500,3400.0,124
+Karnataka,Bangalore,Ramanagara,Honge seed,Honge Seed,FAQ,2021-04-19,3300,3500,3400.0,124
+Karnataka,Bangalore,Ramanagara,Honge seed,Honge Seed,FAQ,2021-04-27,3300,3500,3400.0,124
+Karnataka,Kolar,Gowribidanoor,Honge seed,Honge Seed,FAQ,2021-04-12,3000,3500,3300.0,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2021-02-08,3435,3481,3458.0,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2021-02-09,3438,3438,3438.0,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2021-02-15,3561,3561,3561.0,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2021-02-24,3725,3725,3725.0,124
+Karnataka,Mysore,Mysore (Bandipalya),Honge seed,Honge Seed,FAQ,2021-02-25,3777,3777,3777.0,124
+Karnataka,Tumkur,Huliyar,Honge seed,Honge Seed,FAQ,2021-12-15,4400,4400,4400.0,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2021-02-12,2200,3000,2450.0,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2021-03-25,2400,2950,2550.0,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2021-05-27,2600,3200,2850.0,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2021-07-13,2600,3300,2800.0,124
+Karnataka,Tumkur,Tumkur,Honge seed,Honge Seed,FAQ,2021-07-16,2600,3200,2850.0,124

@@ -1,0 +1,32 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Maharashtra,Ahmednagar,Kopargaon,Sunhemp,Other,FAQ,2007-03-02,1000,1243,1100,139
+Gujarat,Gandhinagar,Mansa,Sunhemp,Sunhemp,FAQ,2022-06-09,6500,7115,7115,139
+Gujarat,Gandhinagar,Mansa,Sunhemp,Sunhemp,FAQ,2022-06-17,7525,7525,7525,139
+Gujarat,Gandhinagar,Mansa,Sunhemp,Sunhemp,FAQ,2022-06-20,7520,7750,7750,139
+Gujarat,Gandhinagar,Mansa,Sunhemp,Sunhemp,FAQ,2022-06-22,6250,7730,7730,139
+Madhya Pradesh,Mandla,Mandla,Sunhemp,Other,FAQ,2022-04-15,5100,5100,5100,139
+Madhya Pradesh,Mandla,Mandla,Sunhemp,Other,FAQ,2022-06-11,5000,5500,5500,139
+Madhya Pradesh,Mandla,Nainpur,Sunhemp,Other,FAQ,2022-02-14,2000,2000,2000,139
+Madhya Pradesh,Mandla,Nainpur,Sunhemp,Other,FAQ,2022-02-23,2000,2000,2000,139
+Madhya Pradesh,Mandla,Nainpur,Sunhemp,Other,FAQ,2022-04-26,1400,1400,1400,139
+Madhya Pradesh,Sidhi,Sidhi,Sunhemp,Other,FAQ,2022-04-16,3000,3000,3000,139
+Madhya Pradesh,Sidhi,Sidhi,Sunhemp,Other,FAQ,2022-07-09,2500,2500,2500,139
+Madhya Pradesh,Sidhi,Sidhi,Sunhemp,Sunhemp,FAQ,2022-11-15,2500,2600,2600,139
+Madhya Pradesh,Singroli,Singroli,Sunhemp,Other,FAQ,2022-03-08,3000,3000,3000,139
+Madhya Pradesh,Singroli,Singroli,Sunhemp,Other,FAQ,2022-03-24,4000,4000,4000,139
+Madhya Pradesh,Singroli,Singroli,Sunhemp,Other,FAQ,2022-12-29,5500,5500,5500,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-02-10,3712,3712,3712,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-03-24,5866,5912,5912,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-04-04,6319,6359,6329,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-04-18,6202,6369,6322,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-04-19,6239,6349,6239,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-05-09,5259,6272,6272,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-06-07,5522,6133,6133,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-06-21,5633,5633,5633,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-06-24,5652,5933,5933,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-06-28,5852,5852,5852,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-08-04,5652,5652,5652,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-09-02,4855,4855,4855,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-11-03,7025,7025,7025,139
+Telangana,Warangal,Warangal,Sunhemp,Sunhemp,FAQ,2022-11-30,6333,6333,6333,139
+Madhya Pradesh,Mandla,Mandla,Sunhemp,Other,FAQ,2021-03-23,5450,5500,5475,139

@@ -1,0 +1,810 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-09-30,18400,18400,18400,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-10-17,18500,18500,18500,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-10-27,18500,18500,18500,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-11-02,18800,18800,18800,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-11-05,19000,19000,19000,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-11-17,19100,19100,19100,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-11-21,19600,19600,19600,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-11-28,19000,20000,19500,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-12-09,20600,0,20600,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-12-21,20800,20800,20800,266
+Kerala,Kannur,Taliparamba,Coconut Oil,Other,FAQ,2020-12-24,20600,20600,20600,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-01-07,16730,16800,16750,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-01-10,16680,16800,16750,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-01-14,16740,16870,16800,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-01-30,16940,17200,17000,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-02-06,17070,17200,17150,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-02-12,17180,17240,17200,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-02-13,17160,17250,17200,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-02-18,17020,17100,17050,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-02-22,16850,17020,17000,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-03-03,19760,19820,19800,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-03-09,16780,16870,16800,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-03-16,16890,17000,16900,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-03-18,16980,17060,17050,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-03-21,16900,17000,16930,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-04-16,17160,17250,17200,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-10-25,18270,18350,18300,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-11-15,18950,19100,19000,266
+Kerala,Kannur,Thalasserry,Coconut Oil,Other,FAQ,2020-12-07,20350,20500,20400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-01-01,18000,18600,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-01-09,17500,18500,18000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-01-12,17800,18400,18000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-01-23,18000,18400,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-01-25,18000,18600,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-02-02,18000,18400,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-02-14,18000,18600,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-02-16,18000,18400,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-02-23,18200,18600,18400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-02-26,18200,18600,18400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-03-01,18200,18600,18400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-03-03,18200,18600,18400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-03-07,18200,18600,18400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-03-09,18200,18600,18400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-03-16,18200,18600,18400,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-05-25,17800,18500,18000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-06-01,17600,18400,18000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-06-08,17800,18400,18000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-06-14,17800,18400,18000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-06-29,18000,18500,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-07-01,18000,18600,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-07-17,18000,18500,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-07-19,18000,18600,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-07-23,18000,18500,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-08-08,18000,18500,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-08-15,18000,18600,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-08-16,18000,18400,18200,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-08-26,18700,19200,18900,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-09-14,18700,19200,18900,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-09-15,18700,19200,18900,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-09-16,18700,19200,18900,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-09-20,18700,19400,19000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-09-21,18800,19400,19000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-09-28,19600,20200,19800,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-10-01,19500,20300,19800,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-10-06,19600,20000,19800,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-10-11,19600,20000,19800,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-10-16,19700,20300,20000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-10-21,19700,20400,20000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-10-23,19700,20400,20000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-10-29,19700,20400,20000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-01,19700,20400,20000,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-07,20300,21000,20600,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-12,20200,21000,20600,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-13,20400,20800,20600,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-15,20400,21000,20600,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-23,20500,21200,20700,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-26,20500,21000,20700,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-27,20500,21000,20700,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-11-28,20500,21000,20700,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-12-02,20500,20900,20700,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-12-16,22100,22500,22300,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-12-27,22100,22500,22300,266
+Kerala,Kasargod,Kanjangadu,Coconut Oil,Other,FAQ,2020-12-29,22100,22600,22300,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-01-07,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-01-20,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-01-22,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-01-24,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-01-27,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-01-28,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-02-11,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-02-13,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-02-24,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-02-25,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-03-03,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-03-10,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-03-17,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-03-18,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-05-20,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-07-02,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-07-11,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-07-18,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-07-21,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-07-23,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-07-30,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-08-05,16500,17500,17000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-08-24,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-08-25,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-08-28,17000,18000,17500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-09-09,17500,18500,18000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-10-14,19000,20000,19500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-10-27,18500,19500,19000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-11-04,18500,19500,19000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-11-16,19000,20000,19500,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-11-30,19500,20500,20000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-12-08,19500,20500,20000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-12-16,19500,20500,20000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-12-21,19500,20500,20000,266
+Kerala,Kasargod,Neeleswaram,Coconut Oil,Other,FAQ,2020-12-28,20000,21000,20500,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-10,17500,17900,17700,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-14,17000,17500,17300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-17,17000,17600,17300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-18,17000,17500,17300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-20,17000,17500,17300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-21,17000,17500,17300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-25,17000,17500,17300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-01-30,16700,17300,17000,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-02-20,18000,18500,18300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-02-24,17800,18300,18100,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-02-27,18000,18500,18300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-02-29,17800,18500,18200,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-03-03,18000,18500,18300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-03-17,18200,18700,18500,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-03-19,18000,18500,18300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-03-21,18000,18500,18300,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-03-24,18200,18800,18500,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-04-03,18300,18700,18500,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-04-04,18200,18700,18500,266
+Kerala,Kottayam,Thalayolaparambu,Coconut Oil,Other,FAQ,2020-04-07,18400,18900,18600,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-01-07,16800,17100,16850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-01-17,17800,17900,17850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-01-20,17800,18100,17850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-02-06,17300,17400,17360,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-02-10,17200,17300,17260,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-02-11,17300,17400,17360,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-03-10,17500,17600,17550,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-04-14,16500,16600,16550,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-04-15,16700,16800,16750,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-04-25,16700,16800,16750,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-05-06,17400,17500,17450,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-05-11,17600,17800,17650,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-05-13,16800,17100,16850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-05-16,16500,16600,16550,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-05-19,17400,17500,17450,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-05-22,17100,17200,17150,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-05-30,16700,16800,16760,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-01,16500,17100,16550,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-02,16800,17100,16950,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-08,16800,17100,16850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-12,16500,16600,16550,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-20,16800,17100,16850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-24,17300,17400,17350,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-26,17500,17600,17550,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-06-30,17200,17300,17250,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-07-08,17200,17300,17250,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-07-09,16800,17100,16850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-07-16,17600,17700,17650,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-07-17,16800,17200,17100,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-07-22,17800,18200,18100,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-08-07,16800,17100,16850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-08-11,17800,17900,17850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-08-14,17800,17900,17850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-08-18,17200,17300,17250,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-08-27,18700,18800,18750,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-09-14,19800,20000,19850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-09-24,18800,19100,18850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-09-28,18600,18700,18650,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-10-03,19200,19300,19250,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-10-05,19200,19300,19250,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-10-07,18300,18450,18350,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-10-20,19800,19900,19850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-10-27,18800,18900,18850,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-11-03,18300,18400,18350,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-11-09,19300,19400,19350,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-11-10,18600,18700,18650,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-11-12,18500,18600,18550,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-11-25,19200,19300,19250,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-12-03,19400,19500,19450,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-12-09,19200,19300,19250,266
+Kerala,Malappuram,Kottakkal,Coconut Oil,Copra Oil,FAQ,2020-12-21,19200,19300,19250,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-01-13,17000,17500,17500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-01-20,17000,17500,17500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-01-27,17000,18000,17500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-01-30,17000,17500,17500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-02-26,17500,18000,17800,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-04-09,18000,18500,18500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-04-20,17500,18000,18000,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-04-27,18000,18500,18500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-05-21,18500,18800,18800,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-06-15,18000,18500,18500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-07-23,19000,22000,20500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-07-30,19000,22000,21000,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-08-10,19000,22000,20000,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-08-17,19000,22000,21000,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-08-24,19000,21000,20000,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-09-24,18000,18500,18200,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-10-12,19000,19500,19500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-11-16,18700,19000,19000,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-11-26,19300,19500,19500,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-12-03,18700,19000,19000,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-12-14,19000,19200,19200,266
+Kerala,Pathanamthitta,Ezhamkulam,Coconut Oil,Copra Oil,FAQ,2020-12-24,19000,19200,19200,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-01-01,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-01-07,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-01-25,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-02-10,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-02-18,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-02-19,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-02-20,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-02-29,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-03-03,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-03-10,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-03-12,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-03-13,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-03-16,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-03-19,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-04-04,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-04-23,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-04-25,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-04-27,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-04-28,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-04-29,13000,17000,15000,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-05-13,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-05-15,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-05-18,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-05-27,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-05-29,16600,17000,16800,266
+Kerala,Pathanamthitta,Kuttoor,Coconut Oil,Copra Oil,FAQ,2020-06-18,16800,17200,17000,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2020-12-03,20700,21100,20700,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2020-12-15,21000,21400,21400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2020-12-18,21000,21400,21400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2020-12-25,21000,21400,21000,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2020-12-27,21000,21400,21400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2020-12-28,21000,21400,21400,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-01-27,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-03-02,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-03-26,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-04-09,21500,22000,22000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-05-21,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-06-11,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-09-07,19500,20000,20000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-09-21,19000,19500,19500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-09-28,19500,20000,20000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-11-09,20000,21000,21000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2020-11-19,19000,19500,19500,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-01-04,15500,15600,15500,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-01-25,14000,14100,14000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-02-01,14000,14100,14100,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-02-26,14800,14900,14850,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-03-14,14500,14600,14500,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-04-29,15000,15100,15000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-05-06,15200,15200,15200,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-05-27,15200,15300,15300,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-06-06,15300,15400,15400,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-06-10,15400,15500,15500,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-06-17,16000,16100,16000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-07-01,16700,16800,16800,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-07-08,16700,16800,16700,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-07-22,16000,16100,16100,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-08-24,16000,16200,16000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-08-29,17000,17100,17000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-10-14,16700,17000,16800,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-10-24,17000,17200,17100,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-12-19,18800,18900,18900,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2020-12-21,18800,18900,18900,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-01-19,9400,9500,9450,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-02-23,10200,10600,10500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-03-08,8900,9200,8900,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-03-24,9400,9600,9500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-03-29,9400,9600,9500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-03-31,9800,10000,9850,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-04-02,9600,9800,9650,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-05-02,10400,10600,10450,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-05-03,10400,10500,10450,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-05-23,10400,10600,10500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-05-26,10500,11000,10500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-05-30,10400,10600,10500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-06-14,10000,10500,10250,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-06-25,10200,10500,10400,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-07-01,9600,9800,9700,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-07-08,9300,9600,9400,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-07-16,8600,8900,8700,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-07-22,9400,9600,9500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-07-25,9400,9600,9500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-07-27,9800,10000,9900,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-07-28,9500,9700,9600,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-08-03,10200,10500,10300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-08-11,10000,10500,10250,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-08-16,9700,9900,9800,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-08-20,9200,9500,9300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-08-22,9600,9800,9700,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-09-12,9200,9500,9350,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-10-03,8600,8800,8700,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-10-11,8000,8500,8250,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-10-15,8200,8500,8300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-11-14,5200,5400,5300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-11-15,8400,8600,8500,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-11-16,5200,5400,5300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-11-26,8500,8800,8650,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2011-12-17,8400,8600,8500,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-09-28,9000,9000,9000,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-10-24,8600,8600,8600,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-11-08,8500,8500,8500,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-11-19,8500,8500,8500,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-12-01,8800,8800,8800,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-12-03,8400,8400,8400,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-12-09,8500,8500,8500,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-12-15,8500,8500,8500,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-12-26,8400,8400,8400,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2011-12-30,8400,8400,8400,266
+Kerala,Alappuzha,Chengannur,Coconut Oil,Refind Copra Oil,FAQ,2011-08-27,10200,10200,10200,266
+Kerala,Alappuzha,Chengannur,Coconut Oil,Refind Copra Oil,FAQ,2011-08-31,10200,10200,10200,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2011-10-29,8400,8500,8500,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2011-11-14,8300,8350,8350,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2011-12-02,8500,8550,8500,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2011-12-06,8250,8250,8250,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2011-12-27,1200,1600,1400,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2011-12-30,8000,8100,8050,266
+Kerala,Alappuzha,Harippad,Coconut Oil,Refind Copra Oil,FAQ,2011-07-01,11000,11000,11000,266
+Kerala,Alappuzha,Harippad,Coconut Oil,Refind Copra Oil,FAQ,2011-07-04,11000,13000,12000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-01-12,900,9400,9200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-01-13,9200,9500,9400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-01-18,9100,9500,9400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-04-28,9000,9600,9400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-05-02,9000,10000,9600,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-05-09,9800,10500,10000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-05-30,9000,10400,10000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-06-02,9400,10200,10000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-06-17,9000,10000,9400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-07-28,9000,9500,9200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-08-25,9000,9600,9400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-09-12,9000,9500,9200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-10-03,9000,9500,9200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-10-10,7800,8500,8000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-12-08,8000,8500,8200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-12-12,1800,2200,2100,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2011-12-19,8000,8500,8400,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2011-02-26,9200,9400,9300,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2011-03-12,8500,8700,8600,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2011-06-11,10000,10500,10300,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2011-07-12,10700,11000,10900,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2011-08-06,10200,10400,10300,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2011-08-20,11000,11300,11200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-08,16300,16500,16400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-16,16400,16600,16500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-18,16400,16600,16500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-22,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-23,16800,17000,16900,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-24,16400,16600,16500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-25,16400,16600,16500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-12-06,16200,16400,16300,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-12-07,16300,16500,16400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-12-08,16100,16300,16200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-12-15,16400,16600,16500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-12-17,16300,16500,16400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-12-23,16100,16300,16200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-12-28,16100,16300,16200,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-01-28,20500,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-02-01,21000,22000,21500,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-02-07,21000,22000,21400,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-02-17,21000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-03-21,20800,23000,21500,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-04-20,21000,22000,22000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-04-21,21000,22000,22000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-04-27,20000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-05-23,20000,21500,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-06-06,20000,21500,20500,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-06-19,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-06-20,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-06-24,19500,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-06-29,19500,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-07-02,19500,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-07-06,19800,22000,20000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-07-07,20000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-07-09,19800,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-07-14,19500,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-07-28,18500,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-07-31,18000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-08-11,18000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-08-18,18000,22000,19000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-09-01,17000,18000,17500,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-09-13,17000,19000,18000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-09-14,17000,18000,17500,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-09-26,17500,18200,18000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-09-29,17000,18000,17500,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-10-05,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-10-10,19000,22000,21500,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-10-12,18500,19500,19000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-10-16,18000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-10-18,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-10-29,19800,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-10-31,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-11-04,18000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-11-08,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-11-09,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-11-30,19000,22000,21000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-12-08,18000,22000,22000,266
+Kerala,Idukki,Kattappana,Coconut Oil,Other,FAQ,2021-12-09,18000,22000,21000,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-01-09,19000,19200,19100,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-01-12,18900,19100,19000,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-01-28,18900,19100,19000,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-01-30,17800,18000,17900,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-02-12,18000,18300,18100,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-02-18,18800,19000,18900,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-03-13,18000,18200,18100,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-04-13,18900,20000,19000,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-04-17,17800,18000,17900,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-05-07,18800,19100,19000,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-05-08,19000,19200,19100,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-05-11,18800,19000,18900,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-05-20,19600,19800,19700,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-05-28,19800,20000,19900,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-06-21,20000,23000,22000,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-07-16,20000,22000,21000,266
+Kerala,Alappuzha,Aroor,Coconut Oil,Other,FAQ,2021-11-03,19800,20000,19900,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-01-02,18400,18600,18500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-01-03,18300,18500,18400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-01-05,18400,18600,18500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-03-16,18900,19100,19000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-04-21,19000,21000,20000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-05-12,19100,19300,19200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-06-21,17400,17600,17500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-07-05,17400,17600,17500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-07-09,17200,17400,17300,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-07-19,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-07-20,16600,16800,16700,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-07-22,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-07-23,17100,17300,17200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-10,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-13,17100,17300,17200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-19,17000,17200,17100,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-20,16800,17000,16900,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-23,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-26,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-27,16700,16900,16800,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-08-31,16800,17000,16900,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-09-02,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-09-03,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-09-07,16900,17100,17000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-09-18,16400,16600,16500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-10-06,16300,16500,16400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-10-20,16300,16500,16400,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-10-25,16200,16400,16300,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-10-26,16200,16400,16300,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2021-11-02,16200,16400,16300,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-03-23,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-03-30,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-04-19,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-04-20,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-04-24,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-04-26,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-05-17,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-06-07,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-06-08,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-06-12,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-06-13,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-06-15,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-06-19,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-06-27,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-07-07,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-07-14,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-07-16,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-07-21,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-07-23,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-07-24,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-08-01,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-08-06,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-08-17,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-08-23,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-09-01,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-09-04,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-09-13,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-09-14,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-09-17,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-09-18,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-09-21,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-10-01,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-10-10,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-11-01,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-11-12,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-11-30,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-12-10,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-12-17,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-12-22,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-12-24,19000,20000,20000,266
+Jharkhand,Deogarh,Madhupur,Coconut Oil,Other,FAQ,2012-12-26,19000,20000,20000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-01-07,7600,7850,7750,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-01-11,7800,8000,7850,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-01-13,8000,8200,8050,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-01-20,7600,7800,7750,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-01-24,7700,7900,7750,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-03-09,6900,7100,6975,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-03-20,6900,7050,7000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-03-24,6800,6900,6800,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-03-27,6800,7000,6850,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-04-03,6900,7100,6950,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-04-11,6900,7100,7000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-04-21,6850,7000,6925,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-05-04,6800,7000,6850,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-05-09,6500,6700,6575,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-05-14,6700,7000,6750,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-05-22,6400,6600,6475,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-06-04,6000,6250,6075,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-06-07,6000,6200,6050,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-06-27,6800,7000,6850,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-07-04,6900,7050,7000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-07-05,6600,6800,6650,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-07-17,6700,6850,6800,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-08-01,6600,6800,6675,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-08-03,6600,6800,6725,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-08-13,6600,6825,6750,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-08-14,6600,6800,6675,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-08-23,6200,6375,6300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-09-06,6400,6600,6475,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-09-20,6375,6500,6400,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-09-27,6000,6400,6200,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-09-29,6175,6400,6250,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-10-16,5925,6200,6000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-01,6100,6400,6300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-16,6200,6500,6300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-17,6250,6500,6300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-19,5800,6200,6000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-20,6000,6500,6300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-21,6000,6500,6300,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-27,6300,6575,6400,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-11-28,6350,6525,6400,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-03,6350,6500,6400,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-10,6600,7000,6800,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-13,6800,7100,6900,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-18,6650,6825,6700,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-19,6900,7175,7000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-21,6975,7250,7100,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-27,6950,7200,7000,266
+Kerala,Alappuzha,Alappuzha,Coconut Oil,Other,FAQ,2012-12-31,6850,7175,7000,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-01-04,8200,8200,8200,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-01-07,8200,8400,8200,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-01-10,8200,8400,8200,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-01-21,8100,8300,8100,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-01-24,7700,7900,7700,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-02-01,7700,7900,7700,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-02-08,7400,7600,7400,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-02-25,6900,7100,6900,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-03-01,6900,7100,6900,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-03-19,7100,7300,7200,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-03-23,7200,7300,7250,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-03-24,7000,7050,7000,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-03-27,6800,6850,6800,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-04-02,6850,6875,6850,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-04-16,7200,7250,7250,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-04-17,7250,7275,7250,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-04-27,7100,7150,7100,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-05-09,7000,7200,7050,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-05-23,6600,6800,6700,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-06-07,6300,6350,6325,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-06-14,6600,6650,6625,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-07-05,6200,6300,6250,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-07-07,6800,6900,6850,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-07-09,6200,6300,6250,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-07-16,6800,6900,6800,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-07-25,6700,6800,6725,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Copra Oil,FAQ,2012-07-28,6300,6700,6350,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-01-06,7400,7600,7400,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-05-14,6800,7000,6850,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-07-30,6300,6700,6700,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-07-31,6700,6800,6700,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-08-06,6800,6900,6850,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-09-20,6400,6500,6450,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-10-03,6300,6400,6350,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-10-05,6300,6400,6350,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-10-25,5900,6000,5950,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-11-03,6200,6400,6250,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-11-06,6300,6500,6400,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-12-11,6800,6900,6850,266
+Kerala,Alappuzha,Chanthroor,Coconut Oil,Other,FAQ,2012-12-29,7000,7200,7100,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-01-03,7500,7850,7700,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-01-25,7400,7800,7600,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-01-28,7000,7300,7100,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-02-10,6500,7000,6700,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-02-14,6500,7000,6800,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-02-17,6800,7100,7000,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-02-21,6900,7050,7000,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-02-24,6300,6700,6550,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-02-29,6400,6800,6550,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-03-02,6500,6900,6850,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-03-13,6350,7200,6900,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-03-17,6550,7200,6980,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-03-19,6250,6900,6500,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-04-12,6250,7400,6900,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-04-16,6250,7400,6900,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-05-23,6000,6500,6250,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-05-26,6050,6600,6350,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-05-28,5750,6300,5900,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-06-07,5850,6400,6000,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-07-11,5950,6400,6250,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-07-20,6200,6800,6450,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-07-24,6450,7000,6600,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-08-03,6200,6800,6450,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-10-01,5600,6200,6000,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-10-15,5400,6000,5600,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-10-16,5500,6000,5800,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-11-03,6000,6500,6350,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-11-08,6100,6700,6400,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-11-16,6000,6500,6200,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-11-27,6000,6500,6250,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-11-29,5850,6300,6050,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-12-06,6000,6500,6300,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-12-18,6400,7000,6700,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-12-22,6400,7200,6800,266
+Kerala,Alappuzha,Cherthala,Coconut Oil,Other,FAQ,2012-12-29,6500,7200,6800,266
+Kerala,Alappuzha,Harippad,Coconut Oil,Refind Copra Oil,FAQ,2012-12-06,6500,7500,7500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-01-02,7500,8000,7600,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-01-05,7000,7500,7000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-01-30,7000,7500,7200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-02-13,6000,6800,6500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-02-27,6400,6700,6500,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-03-22,6500,6800,6600,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-03-31,6600,6800,6800,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-05-21,6000,6500,6200,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-05-28,5800,6000,5850,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-06-18,5900,6250,6100,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-09-03,5500,6000,5750,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-09-10,5500,6050,5800,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-10-02,5500,6000,5700,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-11-26,5900,6100,6000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Copra Oil,FAQ,2012-12-03,5900,6100,6000,266
+Kerala,Ernakulam,Moovattupuzha,Coconut Oil,Other,FAQ,2012-08-13,6150,6500,6250,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-01-21,8500,9800,9150,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-08-11,6700,7000,7000,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-09-22,6600,7000,7000,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-10-13,6000,6500,6200,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-11-10,6500,7000,6500,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-11-17,6500,7500,6500,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-11-24,6400,6600,6400,266
+Kerala,Idukki,Munnar,Coconut Oil,Other,FAQ,2012-12-08,6700,7000,6700,266
+Kerala,Kannur,Irikkur,Coconut Oil,Other,FAQ,2012-01-18,7800,7900,7800,266
+Kerala,Kannur,Irikkur,Coconut Oil,Other,FAQ,2012-01-20,7800,7900,7800,266
+Kerala,Kannur,Irikkur,Coconut Oil,Other,FAQ,2012-03-14,7200,7300,7200,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-01-05,7800,7900,7850,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-01-09,7600,7700,7650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-01-16,7500,7600,7550,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-01-23,7600,7700,7650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-02-02,7300,7400,7350,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-02-03,7000,7100,7050,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-02-16,6800,6900,6850,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-02-23,6900,7000,6950,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-02-24,6900,7000,6950,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-02-29,7000,7200,7100,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-03-08,7200,7400,7300,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-03-22,7000,7100,7050,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-03-28,6800,7000,6900,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-04-11,7100,7200,7150,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-04-21,7000,7100,7050,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-04-25,7100,7200,7150,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-04-30,6900,7000,6950,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-05-04,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-05-09,6600,6700,6650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-05-10,6500,6700,6600,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-05-16,6600,6700,6650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-05-26,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-05-28,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-06-23,6900,7000,6950,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-07-05,7000,7200,7100,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-07-10,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-07-16,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-07-24,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-07-27,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-07-28,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-07-30,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-01,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-07,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-09,6750,6800,6775,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-13,6750,6850,6800,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-14,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-15,6750,6850,6800,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-16,6700,6800,6750,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-25,6500,6700,6600,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-08-27,6600,6700,6650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-09-01,4500,4600,4550,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-09-07,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-09-12,6500,6600,6550,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-09-13,6600,6700,6650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-09-19,6600,6700,6650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-02,6500,6700,6600,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-11,5800,6000,5900,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-12,5800,6000,5900,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-13,5800,6000,5900,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-15,5800,6000,5900,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-19,6300,6400,6350,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-20,6200,6300,6250,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-25,6300,6400,6350,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-29,6200,6300,6250,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-10-31,6300,6400,6350,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-11-03,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-11-06,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-11-21,6300,6400,6350,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-12-04,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-12-08,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-12-10,6400,6500,6450,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-12-19,6500,6600,6550,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-12-21,6600,6700,6650,266
+Kerala,Kannur,Kannur,Coconut Oil,Other,FAQ,2012-12-26,6700,6800,6750,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-01-09,8000,8000,8000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-01-10,8000,8000,8000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-01-11,8000,8000,8000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-01-17,8000,8000,8000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-02-13,7500,7500,7500,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-02,7000,7000,7000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-03,7000,7000,7000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-08,7100,7100,7100,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-09,7100,7100,7100,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-12,7100,7100,7100,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-17,7000,7000,7000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-21,7000,7000,7000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-03-27,6800,6800,6800,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-04-02,6800,6800,6800,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-04-04,6800,6800,6800,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-04-07,6800,6800,6800,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-04-18,7000,7000,7000,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-04-26,6700,6700,6700,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-04-27,6800,6800,6800,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-05-07,6700,6700,6700,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-05-08,6600,6600,6600,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-05-18,6400,6400,6400,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-07-13,6800,6800,6800,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-08-27,6500,6500,6500,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-10-25,6400,6400,6400,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-10-29,6400,6400,6400,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-11-06,6700,6700,6700,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-11-12,6700,6700,6700,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-11-14,6700,6700,6700,266
+Kerala,Kannur,Kuthuparambu,Coconut Oil,Other,FAQ,2012-11-23,6700,6700,6700,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-10-01,19400,22000,19400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-10-14,18200,20000,18200,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-10-18,18400,20000,18400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-10-25,18400,20000,18400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-05,18400,20000,18400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-12,18400,19500,19500,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-13,18400,19500,18400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-15,18400,19500,18400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-16,18400,19500,18400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-18,18400,19500,18400,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-22,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-24,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-11-28,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-12-03,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-12-06,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-12-10,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-12-11,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-12-13,18800,19800,18800,266
+Kerala,Pathanamthitta,Pandalam,Coconut Oil,Copra Oil,FAQ,2021-12-29,18700,19700,18700,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-01-18,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-01-21,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-03-08,24500,25000,25000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-03-15,25000,25500,25500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-03-18,24500,25000,25000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-04-02,21500,22500,22000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-04-08,21500,22000,22000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-05-31,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-06-03,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-07-01,24500,25000,25000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-07-08,24500,25000,25000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-07-15,24500,25000,25000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-07-26,24500,25000,25000,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-08-12,21000,21500,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-08-26,21000,21800,21500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-09-23,23000,23500,23500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-11-16,23000,23500,23500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-11-18,23000,23200,23200,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-12-06,23000,23500,23500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-12-27,23000,24000,23500,266
+Kerala,Pathanamthitta,Parakkodu,Coconut Oil,Other,FAQ,2021-12-30,23000,23500,23500,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-01-18,18000,18200,18100,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-01-23,18000,18200,18200,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-02-01,18500,18700,18600,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-02-08,18500,18600,18600,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-02-22,18000,18150,18100,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-02-27,18200,18350,18300,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-03-06,18000,18200,18200,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-04-03,18800,18900,18800,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-04-24,17600,17800,17700,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-04-28,17500,17600,17600,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-05-05,18000,18100,18000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-05-15,16500,16600,16600,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-05-19,17000,17100,17100,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-05-22,16000,16100,16000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-06-12,17800,18000,17900,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-07-17,17800,17900,17800,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-07-24,17800,17800,17800,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-09-20,17800,18000,17900,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-09-29,18000,18000,18000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-10-04,17800,17900,17800,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-10-09,17700,17800,17800,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-10-18,17800,17900,17900,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-10-23,17800,17900,17900,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-11-04,18700,18800,18700,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-11-17,17000,17100,17000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-11-20,16600,16800,16700,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-11-29,17500,17600,17600,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-12-22,17900,18000,18000,266
+Kerala,Pathanamthitta,Ranniangadi,Coconut Oil,Copra Oil,FAQ,2021-12-30,17500,17600,17600,266

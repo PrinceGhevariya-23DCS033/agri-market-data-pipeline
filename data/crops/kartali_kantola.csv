@@ -1,0 +1,306 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Amreli,Dhari,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-20,2500,5000,3700,305
+Gujarat,Amreli,Dhari,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-22,4000,4200,4100,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-17,8850,12450,12000,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-27,8450,10250,10000,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-09,8150,9275,8875,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-10,7250,8850,8450,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-20,6850,8450,8000,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-22,7750,9350,8875,305
+Gujarat,Surat,Mandvi,Kartali (Kantola),Other,FAQ,2020-07-26,10500,10500,10500,305
+Gujarat,Surat,Mandvi,Kartali (Kantola),Other,FAQ,2020-08-01,10700,10700,10700,305
+Gujarat,Surat,Mandvi,Kartali (Kantola),Other,FAQ,2020-08-07,8600,8600,8600,305
+Gujarat,Surat,S.Mandvi,Kartali (Kantola),Other,FAQ,2020-07-28,9150,9150,9150,305
+Gujarat,Surat,S.Mandvi,Kartali (Kantola),Other,FAQ,2020-08-01,10700,10700,10700,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2020-07-18,3500,8000,5750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2020-07-31,2000,6000,4000,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2020-08-08,2250,7000,4625,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2020-09-08,3250,7000,5125,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2020-09-23,10000,10500,10250,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2020-09-12,6750,7250,7000,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2020-06-30,9100,10000,9600,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2020-07-01,8800,9800,9500,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2020-07-24,6500,7500,7100,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2020-08-06,4500,5500,5200,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-04-20,9000,11000,10000,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-04-24,8000,9000,8500,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-04-29,8000,9000,8500,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-05-07,6000,7000,6500,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-05-23,2200,2500,2300,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-09,4000,4200,4100,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-16,2700,3000,2800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-19,2000,2200,2100,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-24,1500,1700,1600,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-28,1800,2200,2000,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-11,2000,2200,2100,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-17,1800,2000,1900,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-22,1500,1700,1600,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-25,1800,2000,1900,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-26,1000,1200,1100,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-02,2000,2200,2100,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-07,2200,2400,2300,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-15,2800,3000,2900,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-07,2800,3000,2900,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-09,2500,3000,2800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-26,3200,3500,3300,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-01,4500,5000,4800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-07,4500,5000,4800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-10,4500,5000,4800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-14,5500,6000,5800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-15,5000,5300,5200,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-16,6000,6500,6200,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-26,6000,6500,6200,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-27,6500,7000,6800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-07,7000,8000,7500,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-08,7500,8000,7800,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-10,8000,8500,8200,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-11,8000,8500,8200,305
+Tripura,Khowai,Teliamura,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-12,8000,8500,8200,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-07,4000,5000,4500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-11,5000,6000,5500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-24,4000,5000,4500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-29,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-01,3500,4000,3800,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-12,3000,3500,3200,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-20,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-24,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-27,4000,5000,4500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-05,2000,3000,2500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-15,2700,3500,3200,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-17,2000,3000,2500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-20,2000,3000,2500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-07,2000,3000,2500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-12,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-14,2500,3000,2800,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-16,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-17,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-24,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-25,3000,4000,3500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-27,3000,3500,3200,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-28,2800,3500,3200,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-03,2000,3000,2500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-14,4000,6000,5000,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-15,4000,5000,4500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-17,5000,6000,5500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-26,4000,5000,4500,305
+Tripura,North Tripura,Dasda,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-27,4000,5000,4500,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-05-29,3800,4000,3900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-08,4600,5000,4800,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-15,4800,5000,4900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-16,4800,5000,4900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-20,3800,4000,3900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-24,2800,3000,2900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-28,3400,3600,3500,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-08,3200,3400,3300,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-09,3200,3400,3300,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-13,2800,3000,2900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-15,3200,3400,3300,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-16,3200,3400,3300,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-17,2900,3100,3000,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-18,3000,3200,3100,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-01,2500,2700,2600,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-09,2000,2500,2250,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-29,3200,3400,3300,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-31,3200,3400,3300,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-07,2800,3000,2900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-09,2800,3000,2900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-28,3300,3500,3400,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-01,4800,5000,4900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-07,6000,6200,6100,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-22,5800,6000,5900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-27,7800,8000,7900,305
+Tripura,North Tripura,Kadamtala,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-04,7800,8000,7900,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-05-16,5000,6000,5500,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-03,3500,4000,3700,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-05,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-06,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-08,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-16,4500,5000,4800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-27,3000,3500,3200,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-28,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-01,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-07,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-09,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-16,3000,3500,3200,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-01,2000,2500,2200,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-11,2500,3000,2800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-25,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-28,4000,5000,4500,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-29,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-02,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-03,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-05,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-10,4000,5000,4500,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-11,3000,3500,3200,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-13,3000,3500,3200,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-14,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-23,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-28,3500,4000,3800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-08,4500,5000,4800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-15,4500,5000,4800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-17,4500,5000,4800,305
+Tripura,Sepahijala,Bishalgarh,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-19,4500,5000,4800,305
+Tripura,Sepahijala,Bishramganj,Kartali (Kantola),Kartali (Kantola),FAQ,2020-05-21,3000,4000,3500,305
+Tripura,Sepahijala,Bishramganj,Kartali (Kantola),Kartali (Kantola),FAQ,2020-05-31,2500,3500,3000,305
+Tripura,Sepahijala,Bishramganj,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-03,3600,4000,3800,305
+Tripura,Sepahijala,Bishramganj,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-04,4500,5000,4700,305
+Tripura,Sepahijala,Bishramganj,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-05,3500,4000,3700,305
+Tripura,Sepahijala,Bishramganj,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-07,4500,5000,4800,305
+Tripura,Sepahijala,Bishramganj,Kartali (Kantola),Kartali (Kantola),FAQ,2020-06-08,3600,4000,3800,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-19,3600,4000,3800,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-21,3800,4200,4000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-23,3800,4200,4000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-07-28,3800,4200,4000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-01,2800,3200,3000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-04,3000,3250,3200,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-15,2800,3200,3000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-08-18,2800,3200,3000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-13,3200,3500,3400,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-15,2850,3200,3000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-21,3000,3400,3200,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-09-30,3800,4200,4000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-03,3200,3500,3400,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-05,4200,4500,4400,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-07,4800,5060,5000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-11,4500,4600,4550,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-13,4800,5250,5000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-15,6800,7000,6860,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-16,6800,7000,6860,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-18,4800,5200,5000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-22,6500,6800,6750,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-10-28,6800,7000,6860,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-02,7850,8200,8000,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-08,8000,8250,8200,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-09,8400,8700,8650,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-10,8500,8600,8560,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-11,8500,8750,8650,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-16,8400,8600,8500,305
+Tripura,Unokoti,Pabiacherra,Kartali (Kantola),Kartali (Kantola),FAQ,2020-11-18,8600,9000,8800,305
+Gujarat,Amreli,Dhari,Kartali (Kantola),Kartali (Kantola),FAQ,2018-07-31,140,155,150,305
+Gujarat,Amreli,Dhari,Kartali (Kantola),Kartali (Kantola),FAQ,2018-08-07,40,80,62,305
+Gujarat,Amreli,Dhari,Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-01,3000,5000,4000,305
+Gujarat,Amreli,Dhari,Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-10,3000,4000,3600,305
+Gujarat,Amreli,Dhari,Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-12,2500,3000,2800,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-08-07,7500,10000,9750,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-08-29,7500,8800,8400,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-08-31,7500,10000,9250,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-10,8250,10000,9150,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-15,7750,10000,9500,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-17,7650,9450,9000,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-19,7750,10000,9500,305
+Gujarat,Bharuch,Ankleshwar,Kartali (Kantola),Kartali (Kantola),FAQ,2018-10-13,7500,10000,9550,305
+Gujarat,Kheda,Nadiyad(Piplag),Kartali (Kantola),Kartali (Kantola),FAQ,2018-08-30,5500,6000,5750,305
+Gujarat,Kheda,Nadiyad(Piplag),Kartali (Kantola),Kartali (Kantola),FAQ,2018-08-31,5500,6000,5750,305
+Gujarat,Kheda,Nadiyad(Piplag),Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-14,5000,5600,5300,305
+Gujarat,Surat,Mandvi,Kartali (Kantola),Other,FAQ,2018-08-03,10000,10000,10000,305
+Gujarat,Surat,S.Mandvi,Kartali (Kantola),Other,FAQ,2018-08-19,7600,8440,8020,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-07-25,4000,11500,7750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-07-28,2500,10000,6250,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-08-02,2500,9500,6000,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-08-05,2000,8500,5250,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-08-22,1000,4500,2750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-08-23,1500,4500,3000,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-08-24,2000,5000,3500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-09-10,1000,5000,3000,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-09-13,1000,4500,2750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-09-18,1000,4000,2500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-09-25,1000,4000,2500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-10-05,1000,4250,2625,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2018-10-16,1500,4000,2750,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-07-24,8750,10250,9500,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-07-26,9000,10000,9500,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-08-03,6000,7500,6750,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-08-09,7000,7500,7250,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-08-14,5750,7250,6500,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-08-25,5000,6750,6000,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-08-28,5000,7000,6000,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-09-07,5000,7250,6250,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-09-12,6000,6500,6250,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-09-15,4250,5250,4750,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-10-13,5000,6000,5500,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2018-10-25,5500,6500,6000,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-02,6000,7000,6500,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-04,9000,10000,9550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-06,7000,8000,7550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-14,7000,9000,8050,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-20,8000,8500,8250,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-25,8000,10000,9050,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-27,7000,8000,7550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-07-29,7000,8000,7550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-08-10,4500,7500,6050,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-08-12,4500,7500,6050,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-08-13,5000,8000,6550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-08-16,5000,6500,5800,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-08-17,5000,6500,5800,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-08-24,4000,5000,4550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-09-15,4000,4500,4300,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-09-16,4000,4500,4300,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-09-24,3000,3300,3175,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-09-30,3500,4250,3900,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-10-12,5000,5500,5300,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-10-29,4000,5000,4550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-10-30,4000,5000,4550,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2018-10-31,4000,5000,4550,305
+Madhya Pradesh,Gwalior,Lashkar(F&V),Kartali (Kantola),Kartali (Kantola),FAQ,2018-09-07,2800,3200,3000,305
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Kartali (Kantola),Other,FAQ,2011-08-18,2500,3000,2750,305
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Kartali (Kantola),Other,FAQ,2011-08-19,2500,2900,2700,305
+Gujarat,Gir Somnath,Talalagir,Kartali (Kantola),Other,FAQ,2011-06-30,4000,4010,4005,305
+Gujarat,Gir Somnath,Talalagir,Kartali (Kantola),Other,FAQ,2011-07-03,2500,2510,2505,305
+Gujarat,Gir Somnath,Talalagir,Kartali (Kantola),Other,FAQ,2011-07-08,3500,3510,3505,305
+Gujarat,Gir Somnath,Talalagir,Kartali (Kantola),Other,FAQ,2011-07-15,1950,2050,2000,305
+Gujarat,Gir Somnath,Talalagir,Kartali (Kantola),Other,FAQ,2011-08-01,1950,2050,2000,305
+Gujarat,Navsari,Bilimora,Kartali (Kantola),Other,FAQ,2011-09-02,3000,3500,3250,305
+Gujarat,Navsari,Bilimora,Kartali (Kantola),Other,FAQ,2011-09-03,2750,3250,3000,305
+Gujarat,Navsari,Bilimora,Kartali (Kantola),Other,FAQ,2011-09-05,2750,3250,3000,305
+Gujarat,Navsari,Bilimora,Kartali (Kantola),Other,FAQ,2011-09-11,3000,4000,3500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-06-21,6000,7000,6500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-07-02,4000,4500,4250,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-07-07,3500,5000,4250,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-07-09,4000,5000,4500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-07-12,4500,6000,5250,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-07-18,5000,6000,5500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-07-20,4000,5500,4750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-07-26,4250,4750,4500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-08-04,5000,5500,5250,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-08-16,4000,5000,4500,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-09-15,3500,4000,3750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-09-16,3500,4000,3750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-09-24,2500,3250,2875,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-10-04,2500,3000,2750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-10-10,2500,3000,2750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-10-11,2500,3000,2750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-10-20,2500,3000,2750,305
+Gujarat,Surat,Surat,Kartali (Kantola),Other,FAQ,2011-10-21,2500,3250,2875,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2011-08-12,4000,4500,4300,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2011-08-17,4000,5000,4500,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2011-08-20,5000,5500,5250,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2011-09-16,3500,4000,3800,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2011-10-01,3500,4400,4000,305
+Gujarat,Vadodara(Baroda),Padra,Kartali (Kantola),Other,FAQ,2011-10-07,3000,3500,3300,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-06-15,5000,6250,5500,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-06-17,6000,6500,6250,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-06-27,5000,6000,5000,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-06-28,4500,5500,5000,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-04,4000,5000,4500,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-07,3750,4500,4125,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-16,3500,4500,4000,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-22,3500,4000,3750,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-23,3500,4250,3875,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-26,3400,3750,3575,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-27,3250,3750,3475,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-07-28,3000,4000,3500,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-08-05,3000,3750,3375,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-08-08,3000,4000,3500,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-08-09,2500,3000,2750,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-08-22,2500,3500,3250,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-08-28,2000,2500,2250,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-08-30,2000,2750,2400,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-09-19,2000,3000,2750,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-09-22,2000,3250,2650,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-10-03,1500,2500,2125,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-10-04,1500,2750,2200,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-10-06,1750,2500,2250,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-10-12,2000,2500,2300,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-10-15,2000,2500,2300,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-10-24,1250,2000,1700,305
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Kartali (Kantola),Other,FAQ,2011-10-29,1500,2000,1800,305

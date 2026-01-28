@@ -1,0 +1,2129 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-06-07,6600,8100,7200,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-06-09,6900,8400,7400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-06-12,6800,8300,7500,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-06-14,6800,8500,7450,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-06-19,6800,8500,7600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-06-28,6840,8350,7590,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-07-06,7300,8700,8100,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-07-19,6900,8500,8200,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-07-20,6800,8800,8400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-07-31,7800,9100,8500,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-08-10,7300,9400,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-09-13,7500,9200,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-09-15,7300,9200,8800,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-09-19,7400,9300,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-09-25,7300,8900,7800,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-09-28,7300,9200,8400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-10-03,7400,9100,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-10-23,6900,8100,7400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-10-27,6800,8100,7500,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-07,7200,8700,7600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-13,7300,9400,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-14,7250,9400,8500,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-16,7300,9200,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-17,7400,9400,8700,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-20,7600,9300,8500,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-22,7400,9100,8400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-11-30,7700,9050,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-12-04,7750,9050,8400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-12-06,7800,9200,8500,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-12-07,7700,9050,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-12-19,7300,9050,8600,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2017-12-22,7450,9050,8600,39
+Tamil Nadu,Vellore,Vellore,Turmeric,Other,FAQ,2017-02-10,7250,7250,7250,39
+Tamil Nadu,Vellore,Vellore,Turmeric,Other,FAQ,2017-04-06,4550,4550,4550,39
+Tamil Nadu,Vellore,Vellore,Turmeric,Other,FAQ,2017-08-09,7000,7200,7100,39
+Tamil Nadu,Villupuram,Chinnasalem,Turmeric,Other,FAQ,2017-05-22,4861,5919,5500,39
+Tamil Nadu,Villupuram,Chinnasalem,Turmeric,Other,FAQ,2017-06-13,3009,6669,5939,39
+Telangana,Adilabad,Bhainsa,Turmeric,Bulb,FAQ,2017-03-08,4855,5607,5379,39
+Telangana,Adilabad,Bhainsa,Turmeric,Bulb,FAQ,2017-04-25,5002,5282,5202,39
+Telangana,Adilabad,Bhainsa,Turmeric,Bulb,FAQ,2017-04-29,4118,5108,4850,39
+Telangana,Adilabad,Bhainsa,Turmeric,Bulb,FAQ,2017-05-20,4609,4809,4709,39
+Telangana,Adilabad,Bhainsa,Turmeric,Bulb,FAQ,2017-05-23,4504,4918,4854,39
+Telangana,Adilabad,Bhainsa,Turmeric,Bulb,FAQ,2017-07-01,5051,5419,5419,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-04-13,4707,5557,5257,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-04-15,4767,5467,5257,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-04-29,3501,5175,4801,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-05-20,4009,4959,4629,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-05-31,4111,5626,4617,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-06-05,3802,4869,4569,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-06-07,3504,4969,4519,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-06-20,3507,3552,3552,39
+Telangana,Adilabad,Bhainsa,Turmeric,Finger,FAQ,2017-07-01,4011,5666,5276,39
+Telangana,Hyderabad,Hyderabad (F&V),Turmeric,Bulb,Medium,2017-10-27,5000,7000,6000,39
+Telangana,Hyderabad,Hyderabad (F&V),Turmeric,Turmeric,Medium,2017-08-09,7500,7500,7500,39
+Telangana,Hyderabad,Hyderabad (F&V),Turmeric,Turmeric,Medium,2017-09-08,5000,7000,6500,39
+Telangana,Karimnagar,Gollapally,Turmeric,Bulb,Medium,2017-04-08,4000,4400,4200,39
+Telangana,Karimnagar,Gollapally,Turmeric,Bulb,Medium,2017-04-10,3400,5000,4200,39
+Telangana,Karimnagar,Gollapally,Turmeric,Bulb,Medium,2017-04-17,4000,4800,4400,39
+Telangana,Karimnagar,Gollapally,Turmeric,Bulb,Medium,2017-05-20,4700,4700,4700,39
+Telangana,Karimnagar,Gollapally,Turmeric,Bulb,Medium,2017-05-26,4700,4700,4700,39
+Telangana,Karimnagar,Gollapally,Turmeric,Bulb,Medium,2017-06-03,4800,4800,4800,39
+Telangana,Karimnagar,Gollapally,Turmeric,Bulb,Medium,2017-06-29,5200,5200,5200,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-03-18,4100,5100,4600,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-03-24,3900,3900,3900,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-04-01,4000,5000,4500,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-04-08,4250,4800,4525,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-04-10,2800,5000,3900,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-04-17,4000,5000,4500,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-04-18,4000,5000,4500,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-04-29,4000,5100,4550,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-05-03,4600,4600,4600,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-05-05,4000,4400,4200,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-05-20,4800,4800,4800,39
+Telangana,Karimnagar,Gollapally,Turmeric,Finger,Medium,2017-08-22,6000,6000,6000,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-03-20,3800,4410,4000,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-04-15,3800,4700,4100,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-04-24,4250,4800,4500,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-05-02,3500,4800,4200,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-05-04,3800,4300,4100,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-05-10,3300,4300,4101,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-05-11,3675,4011,4000,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-05-17,3751,4250,4201,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-05-26,4100,4100,4100,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-05-30,4175,4250,4250,39
+Telangana,Karimnagar,Jagtial,Turmeric,Bulb,Medium,2017-06-22,4025,4100,4100,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-03-06,4550,5451,5000,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-03-17,4100,5051,4500,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-03-22,3500,4500,4214,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-04-04,3911,4900,4550,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-04-08,4200,5100,5000,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-04-12,4900,5220,5200,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-04-13,4800,5100,5000,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-04-21,3700,5100,4700,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-02,3500,5150,4800,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-05,3250,4551,4116,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-06,4000,4500,4500,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-10,3650,4801,4225,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-13,3851,4900,4351,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-16,4051,4801,4500,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-24,4051,4800,4500,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-05-29,4100,4800,4500,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-06-12,3850,4500,4200,39
+Telangana,Karimnagar,Jagtial,Turmeric,Finger,Medium,2017-07-07,4950,4950,4950,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-03-04,3511,5262,4511,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-03-06,4600,5501,5025,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-04-04,3000,5815,4511,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-04-06,3368,5300,4650,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-04-07,3651,5851,5025,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-04-08,3636,5300,5001,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-05-16,3750,5100,4606,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-05-20,1515,4400,4016,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-05-22,3566,5011,4200,39
+Telangana,Karimnagar,Metpally,Turmeric,Bulb,Medium,2017-06-03,4000,4506,4506,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-03-02,3900,6116,5000,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-03-07,4700,6500,5275,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Large,2017-04-03,3611,5850,4000,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-04-12,4000,5702,5151,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-04-22,4141,5555,5119,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-04-28,3708,5500,5019,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-04,3636,5051,4555,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-05,3611,5001,4511,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-06,3821,5100,4555,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-17,4150,5511,5152,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-18,4000,5350,5253,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-26,3856,5171,5156,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-29,3303,4858,4225,39
+Telangana,Karimnagar,Metpally,Turmeric,Finger,Medium,2017-05-30,3850,5212,4977,39
+Telangana,Karimnagar,Metpally,Turmeric,Turmeric,Medium,2017-04-03,3200,5850,4000,39
+Telangana,Karimnagar,Metpally,Turmeric,Turmeric,Medium,2017-05-11,3800,5329,5151,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-04-15,5001,5508,5001,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-04-17,5121,5383,5291,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-05-10,3000,4733,4605,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-05-18,4809,4887,4887,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-06-07,4400,4855,4688,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-07-05,4600,5889,5706,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-07-26,6251,6729,6507,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-08-17,6858,6858,6858,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-09-13,6011,7251,6858,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-09-16,6300,6909,6612,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-10-10,4685,4685,4685,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-10-11,6300,6300,6300,39
+Telangana,Medak,Sadasivpet,Turmeric,Bulb,FAQ,2017-12-27,7030,7366,7030,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-04-07,5403,5678,5563,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-04-18,5117,5170,5150,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-05-11,4300,5031,4563,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-05-16,4718,4822,4822,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-05-17,3000,4980,4703,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-06-07,3851,4741,4455,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-06-23,5106,5168,5158,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-07-05,5351,5729,5634,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,Large,2017-07-08,4201,5855,5758,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-07-15,6851,7055,7055,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-07-26,6254,6655,6454,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-08-02,4000,7195,7002,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-08-05,6366,6366,6366,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-08-23,6609,7011,6879,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-08-28,5803,7011,6922,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-09-21,5100,7022,6100,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-10-10,4685,4685,4685,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-11-29,6705,6705,6705,39
+Telangana,Medak,Sadasivpet,Turmeric,Finger,FAQ,2017-12-20,7100,7105,7100,39
+Telangana,Medak,Sadasivpet,Turmeric,Local,FAQ,2017-11-06,5600,5600,5600,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-01-18,5700,6733,5900,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-01-24,4219,6896,5860,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-01-30,4510,7350,6145,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-02-01,4500,6821,6250,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-02-07,4466,6825,6277,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-02-09,4330,6868,6145,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-02-13,4019,6952,6085,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-09-09,6400,8325,7800,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-10-13,6295,8350,7400,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-10-17,7800,7800,7800,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-11-08,6385,7700,7500,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-11-09,6445,7785,7405,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-11-15,6500,8000,7325,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-11-22,6800,8480,7600,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-11-30,7550,7950,7850,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2017-12-20,6895,8630,7700,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-04-22,5565,5810,5565,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-04-24,5600,5835,5700,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-05-12,4400,6124,5675,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-05-13,5000,6105,5715,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-05-17,4200,5955,5600,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-05-23,4200,5520,5380,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-06-12,4000,5455,5150,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-06-21,5050,6865,6425,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-06-23,5405,6500,6100,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-06-28,4965,7670,6500,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-08-11,6900,8350,7080,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2017-09-07,7905,8400,8200,39
+Maharashtra,Parbhani,Purna,Turmeric,Rajapuri,FAQ,2017-04-25,5500,5695,5500,39
+Maharashtra,Parbhani,Purna,Turmeric,Rajapuri,FAQ,2017-06-08,4270,5300,5270,39
+Maharashtra,Parbhani,Purna,Turmeric,Rajapuri,FAQ,2017-06-27,4600,6730,5700,39
+Maharashtra,Parbhani,Purna,Turmeric,Rajapuri,FAQ,2017-06-28,5010,6420,6400,39
+Maharashtra,Parbhani,Purna,Turmeric,Rajapuri,FAQ,2017-07-10,6800,8290,7700,39
+Maharashtra,Pune,Pune,Turmeric,Other,FAQ,2017-12-07,10000,15000,12500,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-03-01,13500,15500,14500,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-03-17,13500,16000,14750,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-03-21,8500,12000,10250,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-04-01,9000,12000,10500,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-04-26,7000,12000,9500,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-03,8000,11000,9600,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-04,9000,12000,10500,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-06,8050,11000,9520,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-09,8000,11000,9600,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-11,8050,11000,9525,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-15,8050,11000,9525,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-17,8100,11000,9550,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-26,8100,11000,9550,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-30,8100,11000,9550,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-05-31,7000,9000,8000,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-06-09,8000,12000,10000,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-06-16,8000,12000,10000,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-06-28,8000,12000,10000,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-07-26,9000,12000,10500,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-07-28,9000,12000,10500,39
+Maharashtra,Pune,Pune,Turmeric,Rajapuri,FAQ,2017-09-04,11000,15000,13500,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-01-16,7500,10251,8351,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-01-28,7200,10650,8850,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-02-02,7400,12400,9100,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-02-03,7450,12050,9100,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-02-28,6800,12500,9650,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-03-01,6950,14500,9700,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-03-02,6550,14000,9650,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-03-04,6950,15300,9350,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-03-14,6150,12000,9100,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-03-17,5800,9250,7100,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-03-20,6200,12900,9700,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-04-03,6250,15300,9350,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-04-05,6300,15300,9500,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-04-13,5950,13550,9600,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-04-18,5700,12000,8900,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-04-21,5500,11000,9100,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-05-02,5600,10050,7850,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-05-04,5100,10000,7800,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-05-18,4500,11000,8300,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-05-31,5000,10300,8100,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-06-06,4000,9800,6900,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-06-07,4500,10500,7500,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-06-22,4500,9700,7100,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-07-25,6000,8550,7275,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-08-28,6800,11010,8905,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-08-31,6500,9300,7900,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-09-22,6200,9250,7725,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-10-30,6000,10600,8300,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-11-08,6400,9900,8150,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-11-10,6200,10250,8225,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-11-24,6000,10450,8225,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-12-04,6000,10000,8000,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-12-07,6000,9850,7925,39
+Maharashtra,Sangli,Sangli,Turmeric,Rajapuri,FAQ,2017-12-29,5700,8950,7325,39
+Maharashtra,Sholapur,Barshi,Turmeric,Other,FAQ,2017-04-25,4600,5100,5100,39
+Maharashtra,Vashim,Washim,Turmeric,Other,FAQ,2017-01-07,6500,7150,7000,39
+Maharashtra,Vashim,Washim,Turmeric,Other,FAQ,2017-06-15,3500,3800,3725,39
+Maharashtra,Vashim,Washim,Turmeric,Other,FAQ,2017-07-15,6100,8050,7000,39
+Maharashtra,Vashim,Washim,Turmeric,Other,FAQ,2017-08-19,7000,7500,7200,39
+Maharashtra,Vashim,Washim,Turmeric,Other,FAQ,2017-10-14,6200,7000,6500,39
+Maharashtra,Yavatmal,Umarkhed,Turmeric,Other,FAQ,2017-07-24,6500,7000,6700,39
+Maharashtra,Yavatmal,Umarkhed,Turmeric,Other,FAQ,2017-09-01,7200,7500,7400,39
+Manipur,Thoubal,Thoubal,Turmeric,Turmeric Powder,FAQ,2017-06-23,16450,16550,16500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-04-04,20000,25000,22500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-04-12,20000,25000,22500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-05-06,20000,25000,22500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-05-13,20000,25000,22500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-05-22,20000,25000,22500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-06-15,20000,25000,22500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-07-25,20000,25000,22500,39
+Meghalaya,East Jaintia Hills,Khliehriat,Turmeric,Other,FAQ,2017-11-06,20000,25000,22500,39
+Meghalaya,South West Khasi Hills,Mawkyrwat,Turmeric,Other,FAQ,2017-04-11,23000,23500,23250,39
+Meghalaya,South West Khasi Hills,Mawkyrwat,Turmeric,Other,FAQ,2017-05-05,20000,20300,20150,39
+Meghalaya,West Garo Hills,Tura,Turmeric,Local,FAQ,2017-02-02,900,1000,950,39
+Meghalaya,West Garo Hills,Tura,Turmeric,Local,FAQ,2017-03-07,800,1000,900,39
+Meghalaya,West Garo Hills,Tura,Turmeric,Local,FAQ,2017-03-17,800,1000,900,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-03-01,18000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-03-27,18000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-05-04,18000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-06-29,18000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-08-16,18000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-09-18,20000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-10-03,20000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-10-19,20000,25000,22000,39
+Meghalaya,West Jaintia Hills,Jowai,Turmeric,Turmeric Powder,FAQ,2017-12-30,20000,25000,22000,39
+Meghalaya,West Jaintia Hills,Laskein,Turmeric,Dry,FAQ,2017-07-19,15000,16000,16000,39
+Mizoram,Aizawl,New Market Aizawl,Turmeric,Other,FAQ,2017-05-17,12000,20000,16000,39
+Mizoram,Aizawl,New Market Aizawl,Turmeric,Other,FAQ,2017-07-11,13000,20000,16500,39
+Mizoram,Aizawl,New Market Aizawl,Turmeric,Other,FAQ,2017-07-28,13000,20000,16500,39
+Mizoram,Aizawl,New Market Aizawl,Turmeric,Other,FAQ,2017-09-13,13000,20000,16500,39
+Mizoram,Aizawl,New Market Aizawl,Turmeric,Other,FAQ,2017-09-29,13000,20000,16500,39
+Mizoram,Aizawl,New Market Aizawl,Turmeric,Other,FAQ,2017-10-04,13000,20000,16500,39
+Odisha,Gajapati,Parlakhemundi,Turmeric,Other,FAQ,2017-07-28,16000,20000,20000,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-01-04,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-01-06,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-01-08,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-01-09,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-01-11,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-01-26,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-01-30,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-02-04,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-02-06,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-02-11,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-02-24,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-02-25,6000,6300,6200,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-02-28,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-06,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-12,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-13,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-15,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-17,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-24,5800,6000,5900,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-26,5900,6100,6000,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-03-29,5900,6100,6000,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-04-16,5800,6000,5900,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-04-17,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-05-02,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-05-03,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-05-15,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-05-20,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-05-23,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-06-02,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-06-05,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-06-13,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-07-04,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-07-05,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-07-07,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-07-09,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-07-19,5300,5500,5400,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-07-23,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-07-27,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-10-21,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-10-26,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-10-29,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-11-17,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-11-23,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-11-27,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-11-28,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-12-06,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-12-22,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-12-23,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-12-27,6000,6200,6100,39
+Odisha,Kandhamal,Tikabali,Turmeric,Finger,FAQ,2017-12-30,6000,6200,6100,39
+Odisha,Koraput,Koraput(Semilguda),Turmeric,Other,FAQ,2017-04-07,6400,6500,6450,39
+Odisha,Malkangiri,Malkanagiri,Turmeric,Other,FAQ,2017-11-25,3800,4000,3900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-01-05,7800,7813,7805,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-01-12,7800,7813,7805,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-01-19,7800,7813,7805,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-01-22,7300,8009,7600,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-01-27,7003,7101,7050,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-01-30,7003,7101,7050,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-02-12,8009,8109,8050,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-02-13,8009,8109,8050,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-02-16,6700,7151,6900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-02-23,6700,7506,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-02-24,6700,7506,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-02-27,6700,7506,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-02-28,6309,6309,6309,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-03-10,6806,8006,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-03-23,6809,7409,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-03-27,6809,7409,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-03-28,6809,7409,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-03-31,7215,7650,7400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-04-08,6600,7419,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-04-12,6015,7115,6800,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-04-20,6205,7215,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-04-26,6815,7005,6900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-05-15,6000,6309,6200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-05-18,6000,6309,6200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-05-23,5905,6200,6100,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-05-28,5905,6202,6100,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-05-29,5905,6202,6100,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-06-01,5905,6202,6100,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-06-13,5819,5905,5850,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-06-16,5819,5905,5850,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-06-18,5819,5905,5850,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-06-19,5819,5905,5850,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-06-30,5302,6126,5800,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-07-04,6599,7099,6900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-07-08,6599,7099,6900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-07-18,7399,7499,7420,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-07-23,7399,7499,7420,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-07-25,6500,7349,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-07-31,6500,7349,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-08-01,7309,8042,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-08-06,7309,8042,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-08-16,7306,7806,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-08-23,7506,8009,7750,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-08-24,7506,8009,7750,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-08-26,7777,8309,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-08-31,6600,7907,7400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-09-02,6600,7907,7400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-09-16,6809,7909,7300,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-09-22,6409,8109,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-09-25,6409,8109,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-09-26,6409,8109,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-10-05,6409,8109,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-10-23,6999,7502,7300,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-10-24,6701,7909,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-10-26,6701,7909,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-11-07,7262,7806,7400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-11-10,7262,7806,7400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-11-11,7262,7806,7400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-11-28,6369,7619,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-12-01,7110,7716,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-12-08,6551,8062,7300,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-12-09,6551,8062,7300,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-12-20,6909,7409,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Bulb,FAQ,2017-12-23,6909,7409,7200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-01-18,8309,9009,8600,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-01-19,8309,9009,8600,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-01-20,7509,8461,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-01-21,7509,8461,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-01-26,7301,8021,7800,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-01-28,7301,8021,7800,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-01-31,7269,8303,7900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-02-04,7269,8303,7900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-02-16,7169,7779,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-02-18,7169,7779,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-02-22,6826,8126,7700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-02-23,6826,8126,7700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-02-24,6826,8126,7700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-03-01,7439,8501,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-03-16,7000,8303,7700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-03-24,6616,8339,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-02,7907,8532,8300,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-06,8008,8309,8200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-07,7439,8309,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-14,6785,8205,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-17,6785,8205,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-20,6800,8249,7750,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-22,6800,8249,7750,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-04-24,7215,7809,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-05-03,6235,7409,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-05-08,6235,7409,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-05-10,6235,7409,7000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-05-25,7039,7304,7150,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-05-27,7039,7304,7150,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-05-28,7039,7304,7150,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-06-15,6319,7129,6800,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-06-16,6319,7129,6800,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-06-21,6050,7102,6700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-06-28,6050,7102,6700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-07-02,6050,7102,6700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-07-06,7599,7898,7700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-07-13,5800,7909,6600,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-07-25,6869,8399,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-08-04,7009,8062,7700,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-08-11,7816,8062,7900,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-08-18,7777,8309,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-09-01,6851,8426,7750,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-09-18,6908,8909,8200,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-09-22,7826,8839,8400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-09-23,7826,8839,8400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-10-03,7826,8839,8400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-10-06,7826,8839,8400,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-10-25,7003,8501,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-03,7326,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-08,7326,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-10,7326,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-11,7326,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-17,7326,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-18,7326,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-20,7326,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-22,7136,8062,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-11-25,7136,8062,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-12-08,6856,8536,8000,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-12-22,6936,8069,7500,39
+Tamil Nadu,Coimbatore,Coimbatore,Turmeric,Finger,FAQ,2017-12-23,6936,8069,7500,39
+Tamil Nadu,Coimbatore,Karamadai,Turmeric,Dry,FAQ,2017-05-18,19000,20000,19500,39
+Tamil Nadu,Coimbatore,Sevur,Turmeric,Other,FAQ,2017-01-25,7000,8500,7500,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-02-17,3819,6600,5375,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-03-01,3397,6451,5325,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-03-15,3535,6535,5467,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-03-21,3167,6060,5150,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-04-12,3216,6811,5305,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-04-19,3019,5611,5180,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-04-28,3219,5675,5200,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-05-09,3211,5102,4712,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-06-09,3016,5450,4937,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-07-03,3800,6221,5665,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-07-05,3900,6337,5956,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-07-13,3150,7500,6650,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-07-26,3606,7057,6300,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-08-16,3100,7231,6200,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-08-17,3030,7515,6806,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-08-22,3006,7586,6851,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-08-24,3512,7557,6868,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-08-31,3906,7828,7212,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-09-11,3116,8015,7250,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-09-19,3535,7537,7080,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-10-11,4612,6310,5112,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-10-13,4212,7844,7319,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-11-02,3555,7377,6950,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-11-08,6169,7916,6811,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-11-10,4527,6970,6616,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-11-24,4200,7011,6850,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-12-05,4019,7835,6806,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-12-06,6000,7636,7460,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-12-20,4506,7569,6820,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Bulb,Medium,2017-12-27,4350,7979,6720,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-01-06,4808,7179,6725,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-01-17,5250,7178,6797,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-01-19,5636,7118,6855,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-01-30,5005,7972,7150,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-02-10,4400,8180,6140,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-02-17,3875,7811,6665,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-02-27,3219,7337,6315,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-02-28,4019,7519,6360,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-03-02,3202,7566,6167,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-03-16,3500,7115,6015,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-04-06,3427,7438,5755,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-04-18,3327,6800,5625,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-04-20,3111,6565,5679,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-04-25,3222,6606,5655,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-05-11,3600,6226,5479,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-05-16,3519,6363,5590,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-05-17,3727,6344,5650,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-06-06,3500,5850,5320,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-06-08,3512,6312,5225,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-06-16,3727,5858,5390,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-07-11,3420,7602,6566,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-07-14,4506,7673,7577,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-07-31,3268,7435,6966,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-08-02,3651,8717,7485,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-08-16,3158,7575,6767,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-08-24,4000,8140,7537,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-08-29,3406,7837,7356,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-10-06,4616,7411,7215,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-11-07,5616,7876,7537,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-11-29,6000,8511,7211,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-12-12,6706,7738,7677,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-12-13,4500,8135,7575,39
+Telangana,Nizamabad,Nizamabad,Turmeric,Finger,Medium,2017-12-28,5080,8402,7823,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Bulb,Medium,2017-05-02,4500,5000,4750,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-05-20,4500,4800,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-05-21,4500,4800,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-05-22,4500,4800,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-05-24,4500,4800,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-05-25,4500,4800,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-05-28,4500,4800,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-06-07,4500,4700,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-06-12,4400,4700,4600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-06-20,5000,5300,5200,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-07-10,5200,5600,5400,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-07-11,5200,5600,5400,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-07-30,5200,5600,5400,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-08-19,6500,6900,6600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-08-27,6500,6700,6600,39
+Telangana,Ranga Reddy,Marapally,Turmeric,Turmeric,Medium,2017-09-08,6500,6900,6700,39
+Telangana,Ranga Reddy,Pargi,Turmeric,Local,Medium,2017-05-12,4600,4650,4625,39
+Telangana,Ranga Reddy,Pargi,Turmeric,Local,Medium,2017-05-26,4350,4600,4475,39
+Telangana,Ranga Reddy,Pargi,Turmeric,Local,Medium,2017-06-16,5300,5600,5450,39
+Telangana,Ranga Reddy,Pargi,Turmeric,Local,Medium,2017-07-31,6500,6500,6500,39
+Telangana,Ranga Reddy,Pargi,Turmeric,Local,Medium,2017-08-18,6900,8000,7450,39
+Telangana,Ranga Reddy,Tanduru,Turmeric,Local,Medium,2017-04-18,4950,5101,5025,39
+Telangana,Ranga Reddy,Tanduru,Turmeric,Local,Medium,2017-05-11,4425,4425,4425,39
+Telangana,Ranga Reddy,Tanduru,Turmeric,Local,Medium,2017-06-23,4401,4401,4401,39
+Telangana,Ranga Reddy,Tanduru,Turmeric,Local,Medium,2017-06-26,4401,4401,4401,39
+Telangana,Ranga Reddy,Tanduru,Turmeric,Local,Medium,2017-06-27,4401,4401,4401,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Bulb,Medium,2017-05-15,3700,5155,4765,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Bulb,Medium,2017-06-05,3611,4928,4620,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-05-11,4255,4815,4430,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-05-18,3811,4688,4400,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-05-22,3211,5128,4600,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-05-29,3250,4850,4320,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-06-12,3506,5058,4416,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-06-15,4150,5268,4870,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-07-03,5360,6538,6215,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Finger,Medium,2017-08-28,4111,7338,6680,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Local,Medium,2017-02-06,5875,6521,6100,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Local,Medium,2017-02-08,6115,6225,6220,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Local,Medium,2017-09-30,4044,6925,6312,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-04-17,3511,5731,5211,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-05-17,3700,5155,4765,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-06-13,3506,5058,4416,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-07-06,4550,5962,5670,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-07-07,4550,5962,5670,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-07-09,4550,5962,5670,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-07-21,6030,7528,7050,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-07-25,6030,7528,7050,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-08-03,5290,7529,7230,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-08-19,7120,7238,7200,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-08-22,7120,7238,7200,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-08-27,7120,7238,7200,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-07,4111,7300,6750,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-09,3220,7300,6750,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-11,3220,7300,6750,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-14,3333,7338,6920,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-15,3333,7338,6920,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-19,4141,7329,6520,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-20,4141,7329,6520,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-09-23,4000,6850,5256,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-10-02,4044,6925,6312,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric,Medium,2017-11-03,5355,6848,5355,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric Round,Medium,2017-10-12,5234,6900,5524,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric Round,Medium,2017-10-23,4018,6978,6828,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric Round,Medium,2017-11-09,4222,6700,6700,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric Round,Medium,2017-12-04,4666,5212,5212,39
+Telangana,Ranga Reddy,Vikarabad,Turmeric,Turmeric Round,Medium,2017-12-20,6915,6915,6915,39
+Telangana,Warangal,Kesamudram,Turmeric,Bulb,Medium,2017-04-03,4200,5750,5380,39
+Telangana,Warangal,Kesamudram,Turmeric,Bulb,Medium,2017-05-30,4023,4901,4698,39
+Telangana,Warangal,Kesamudram,Turmeric,Bulb,Medium,2017-05-31,4023,4901,4698,39
+Telangana,Warangal,Kesamudram,Turmeric,Bulb,Medium,2017-07-28,6201,7022,6732,39
+Telangana,Warangal,Kesamudram,Turmeric,Bulb,Medium,2017-07-31,6000,7231,6905,39
+Telangana,Warangal,Kesamudram,Turmeric,Bulb,Medium,2017-09-07,5511,7157,6857,39
+Telangana,Warangal,Kesamudram,Turmeric,Bulb,Medium,2017-09-18,5011,7157,6711,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-05-20,4050,5481,4800,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-05-22,4170,5370,5196,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-05-23,4100,5127,4970,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-05-27,4200,5200,4950,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-05-31,4020,5206,4660,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-06-02,4060,5288,4664,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-07-28,6551,7068,6901,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-08-04,6632,7500,7253,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-08-08,6621,7361,7250,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-08-23,4700,7301,6881,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-09-06,6111,7283,6911,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-09-08,5211,7251,6883,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-09-14,5211,7217,6809,39
+Telangana,Warangal,Kesamudram,Turmeric,Finger,Medium,2017-10-10,3511,5951,5351,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-01-25,6552,6731,6731,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-03-14,6003,6003,6003,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-03-18,5500,5555,5555,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-03-20,5400,5721,5521,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-03-30,5079,5911,5281,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-04-08,5000,5656,5200,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-04-19,4600,5155,4800,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-05-15,4100,4700,4300,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-05-19,3700,4700,4300,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-06-12,4200,4900,4700,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-06-14,4600,5000,4800,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-06-28,4100,5850,5000,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-07-14,5800,6600,6000,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-08-02,6000,6800,6500,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-08-16,6300,7000,6700,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-08-23,5700,6700,6500,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-08-30,6000,7000,6500,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-08-31,5600,6600,6000,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-09-14,5900,6600,6400,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-09-19,5901,6601,6201,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-09-27,5350,6450,5750,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-10-24,4800,5611,5400,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-11-06,5000,6125,5500,39
+Telangana,Warangal,Warangal,Turmeric,Bulb,FAQ,2017-11-09,5200,5800,5500,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-01-18,6272,6802,6802,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-01-28,6652,6652,6652,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-02-10,3425,3425,3425,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-03-22,3636,6309,5555,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-03-24,6262,6311,6311,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-04-19,5100,5911,5300,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-05-16,4000,5000,4700,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-05-22,4000,5150,4800,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-05-29,4000,4850,4400,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-02,4300,5000,4600,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-05,4250,4950,4550,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-08,5000,5000,5000,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-09,4500,5300,5000,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-20,5000,5700,5300,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-23,5200,6211,5700,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-28,5700,6250,6000,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-06-29,5400,6250,5800,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-07-07,5000,5800,5500,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-07-10,5400,6320,5800,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-07-11,6000,7500,6900,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-07-25,6350,7250,6800,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-08-01,6400,7200,6800,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-08-08,6500,7500,7000,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-08-16,6600,7400,7000,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-08-18,6200,7200,6800,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-09-15,6300,7000,6700,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-09-21,6051,7051,6551,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-10-10,5000,5900,5200,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-10-15,6000,6500,6400,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-10-30,5500,6700,6000,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-11-06,6000,6525,6200,39
+Telangana,Warangal,Warangal,Turmeric,Finger,FAQ,2017-12-28,7251,7251,7251,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-01-11,1250,1350,1300,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-01-13,1150,1250,1200,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-05-13,1250,1350,1300,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-06-10,1150,1250,1200,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-06-28,1160,1250,1200,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-07-15,1150,1250,1200,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-09-27,1560,1700,1600,39
+Tripura,Unokoti,Pabiacherra,Turmeric,Other,FAQ,2017-11-04,1750,1850,1800,39
+Uttrakhand,Dehradoon,Vikasnagar,Turmeric,Other,FAQ,2017-07-10,7000,7000,7000,39
+West Bengal,Malda,Samsi,Turmeric,Turmeric Stick,FAQ,2017-01-09,9450,9550,9500,39
+West Bengal,Malda,Samsi,Turmeric,Turmeric Stick,FAQ,2017-01-14,9500,9600,9550,39
+West Bengal,Malda,Samsi,Turmeric,Turmeric Stick,FAQ,2017-01-22,9450,9550,9500,39
+West Bengal,Malda,Samsi,Turmeric,Turmeric Stick,FAQ,2017-01-24,9450,9550,9500,39
+West Bengal,Malda,Samsi,Turmeric,Turmeric Stick,FAQ,2017-01-25,9450,9550,9500,39
+West Bengal,Malda,Samsi,Turmeric,Turmeric Stick,FAQ,2017-01-27,9450,9550,9500,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-01-01,8250,8375,8320,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-01-04,8275,8375,8325,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-01-05,8260,8360,8300,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-01-23,8250,8390,8310,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-01-30,8250,8400,8325,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-02-03,8300,8400,8350,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-02-09,8250,8375,8300,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-02-10,8250,8375,8325,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-02-14,8245,8360,8300,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-02-25,8225,8375,8300,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-03-02,8250,8375,8325,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-03-16,8200,8300,8250,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-03-23,8200,8325,8260,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-03-25,8150,8250,8200,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-03-26,8100,8200,8150,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-02,7700,7900,7800,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-03,7700,7900,7800,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-04,7700,7900,7800,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-15,7350,7450,7400,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-21,7200,7300,7250,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-23,7150,7250,7200,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-25,7150,7250,7200,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-04-26,7100,7200,7150,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-05-01,6400,6600,6500,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-05-12,6450,6550,6500,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-05-14,6400,6500,6450,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-05-24,6350,6450,6400,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-05-27,6300,6400,6350,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-06-04,6300,6400,6350,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-06-11,6200,6300,6250,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-06-16,6250,6350,6300,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-06-20,6100,6300,6200,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-06-27,6200,6300,6250,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-07-11,6200,6300,6250,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-07-12,6200,6300,6250,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-07-14,6150,6350,6250,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-07-20,6000,6200,6100,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-07-26,6000,6200,6100,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-07-31,6050,6150,6100,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-08-02,6000,6100,6050,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-08-04,6000,6200,6100,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-08-06,6300,6500,6400,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-08-09,6500,6700,6600,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-08-10,6500,6700,6600,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-08-17,6600,6800,6700,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-09-01,6800,7000,6900,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-09-10,7050,7150,7100,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-09-13,7000,7200,7100,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-09-19,8000,8200,8100,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-09-20,8300,8500,8400,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-09-22,8400,8600,8500,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-10-05,8550,8650,8600,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-10-06,8300,8500,8400,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-10-08,8300,8500,8400,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-10-11,8400,8550,8480,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-10-13,8400,8550,8475,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2017-10-18,8450,8600,8525,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-09-06,8000,9000,8500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-09-10,7500,8500,8000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-09-18,8000,10000,9000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-09-20,8000,10000,9000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-10-04,8500,11000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-10-12,8500,11000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-10-13,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-10-15,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-10-20,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-11-01,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-11-13,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-11-22,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-11-26,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-11-28,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-01,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-05,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-08,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-17,9000,10000,9500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-21,7500,8500,8000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-22,7500,8500,8000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-27,7500,8500,8000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-28,7500,8500,8000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,Medium,2017-12-30,7500,8500,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-01-07,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-01-08,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-01-11,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-01-13,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-01-25,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-01-27,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-01-30,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-02-01,4000,6000,5000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-02-11,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-02-15,9000,11000,10000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Small,2017-02-21,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-02-28,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-03-06,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-03-09,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-03-19,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-03-23,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-04-08,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-04-11,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-04-18,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-04-27,10000,12000,11000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-05-02,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-05-04,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-05-14,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-05-15,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-05-16,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-05-29,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-06-06,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-06-22,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-06-23,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-07-14,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-07-15,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-07-19,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-07-26,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-07-28,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-07-31,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-04,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-07,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-14,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-18,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-19,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-22,10000,12000,11000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-23,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-25,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-08-29,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-09-01,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-09-03,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-09-16,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-09-19,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-10-01,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-10-08,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-10-18,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-10-19,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-10-27,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-11-02,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-11-16,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-11-19,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-11-27,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-11-30,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-12-03,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-12-05,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-12-12,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-12-20,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-12-22,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-12-23,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Bulb,Medium,2017-12-28,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-01,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-04,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-05,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-06,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-16,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-18,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-30,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-01-31,4000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-02-05,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-02-10,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-02-21,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-02-27,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-03-04,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-03-08,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-03-15,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-03-16,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-03-17,7000,9000,8000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-04-01,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-04-02,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-04-19,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-04-26,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-04-27,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-05-05,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-05-19,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-05-26,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-06-09,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-06-16,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-06-17,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-06-26,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-01,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-10,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-13,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-14,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-16,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-17,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-19,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-22,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-25,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-07-27,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-01,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-07,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-09,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-16,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-18,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-19,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-23,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-08-27,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-03,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-09,5000,70000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-14,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-17,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-19,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-21,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-27,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-09-28,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-10-02,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-10-03,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-10-10,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-10-22,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-11-09,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-11-10,6000,8000,7000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-11-11,6000,8000,7000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-11-14,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-11-20,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-11-21,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-11-25,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-12-19,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-12-20,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-12-24,5000,7000,6000,39
+Andhra Pradesh,Visakhapatnam,Paderu,Turmeric,Finger,Medium,2017-12-27,5000,7000,6000,39
+Assam,Nagaon,Lanka,Turmeric,Turmeric,FAQ,2017-11-17,6900,7800,7350,39
+Assam,Nagaon,Lanka,Turmeric,Turmeric,FAQ,2017-12-05,7000,9000,7500,39
+Assam,Nagaon,Lanka,Turmeric,Turmeric,FAQ,2017-12-06,7000,8800,7900,39
+Assam,Nagaon,Lanka,Turmeric,Turmeric,FAQ,2017-12-12,7000,9000,8000,39
+Assam,Nagaon,Lanka,Turmeric,Turmeric,FAQ,2017-12-18,7000,9000,8000,39
+Assam,Tinsukia,Tinsukia,Turmeric,Other,FAQ,2017-04-04,8500,9500,9000,39
+Chattisgarh,Balrampur,Ramanujganj,Turmeric,Other,FAQ,2017-06-30,6000,6000,6000,39
+Chattisgarh,Balrampur,Ramanujganj,Turmeric,Other,FAQ,2017-12-04,6000,6000,6000,39
+Chattisgarh,Dhamtari,Nagari,Turmeric,Other,FAQ,2017-03-23,9000,9000,9000,39
+Chattisgarh,Dhamtari,Nagari,Turmeric,Other,FAQ,2017-03-30,9000,9000,9000,39
+Chattisgarh,Jashpur,Pathalgaon,Turmeric,Other,FAQ,2017-07-26,6000,6000,6000,39
+Chattisgarh,Kondagaon,Keshkal,Turmeric,Other,FAQ,2017-05-15,4000,4500,4300,39
+Chattisgarh,Koria,Baikunthpur,Turmeric,Other,FAQ,2017-01-13,6000,6000,6000,39
+Chattisgarh,Koria,Baikunthpur,Turmeric,Other,FAQ,2017-12-19,7000,7000,7000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-01-11,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-02-04,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-02-15,8000,12000,12000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-02-16,8000,12000,12000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-02-21,8000,12000,12000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-02-22,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-03-03,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-03-09,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-03-10,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-03-23,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-03-25,8000,9000,9000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-03-27,8000,9000,9000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-03-31,8000,9000,9000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-04-11,8000,9000,9000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-06-13,8000,9000,9000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-06-23,8000,9000,9000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-07-13,8000,9000,9000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-07-18,6000,7000,7000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-07-26,6000,7000,7000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-08-09,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-09-07,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-09-09,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-10-11,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-10-13,8000,10000,10000,39
+Gujarat,Vadodara(Baroda),Vadodara,Turmeric,Other,FAQ,2017-11-20,8000,9000,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-01-04,8000,12500,10250,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-01-11,8500,13000,10750,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-01-13,8500,13000,10750,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-01-18,8000,10000,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-01-27,8000,13000,10500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-02-08,8000,13000,10500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-02-13,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-02-28,7000,10000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-03-03,7000,10000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-03-14,7500,12500,9900,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-03-20,7500,12500,9900,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-03-23,7500,12500,9900,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-03-27,7500,12500,9900,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-03-28,7500,12500,9900,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-03-30,7500,12500,9900,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-04-01,7500,12500,9900,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-05-02,6000,12000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-05-10,6500,10500,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-06-19,7000,11000,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-07-01,7000,13000,9800,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-07-12,8000,11000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-07-15,8000,11000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-07-20,8000,11000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-07-26,8000,11000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-08-14,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-08-22,8000,11000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-08-23,8000,11000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-09-13,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-09-16,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-10-04,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-10-24,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-11-04,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-11-07,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-11-16,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-11-27,8000,12000,10000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2017-12-13,8000,12000,10000,39
+Karnataka,Belgaum,Kudchi,Turmeric,Turmeric,FAQ,2017-03-06,7000,8200,7200,39
+Karnataka,Belgaum,Kudchi,Turmeric,Turmeric,FAQ,2017-03-07,7000,8900,8200,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2017-01-12,6500,7000,7000,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2017-01-27,6500,7600,7400,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2017-02-01,6200,8000,7200,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2017-03-09,4300,9400,7000,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2017-04-11,3500,7600,6000,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2017-05-09,5000,5900,5500,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-01-17,1706,1847,1706,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-01-19,1452,1874,1818,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-01-22,1375,1939,1878,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-02-01,1296,1831,1601,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-02-12,811,1900,1355,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-02-13,1770,1809,1770,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-02-23,1630,1889,1649,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-03-01,1800,1919,1860,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-03-13,1660,1866,1789,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-04-12,1760,1972,1862,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-04-16,1730,1949,1882,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-04-17,1766,1932,1872,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-05-10,1722,1913,1880,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-05-11,1759,1919,1892,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-05-31,1403,1889,1820,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-06-07,1110,1910,1848,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-06-11,1459,1887,1673,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-06-12,1250,1885,1810,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-06-14,1209,1906,1829,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-07-18,1039,2008,1909,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-07-19,1120,1942,1892,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-08-06,1350,1943,1886,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-08-21,1070,2031,1980,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-09-05,1660,1990,1840,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-09-13,1362,1969,1882,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-09-14,1103,1979,1909,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-09-28,1266,1959,1890,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-10-05,1616,2001,1889,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-10-09,1170,1902,1672,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-10-12,1426,1944,1900,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-10-15,1212,1967,1952,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-10-30,1880,2069,2031,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-11-12,1213,1969,1855,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-11-26,1642,2178,1942,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-12-05,1655,2468,2255,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-12-10,2211,2442,2301,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-12-11,1960,2475,2440,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-12-12,2089,2472,2432,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Bulb,FAQ,2007-12-26,1720,2469,2438,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-01-02,1012,1950,1875,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-01-09,1090,2000,1925,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-01-17,1946,1946,1946,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-02-08,1669,1860,1700,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-02-14,1644,1890,1881,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-02-23,1630,1840,1789,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-03-29,1721,2089,2038,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-04-12,1819,2156,2069,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-04-17,1728,1993,1880,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-04-23,1790,1960,1869,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-04-24,1769,1942,1890,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-04-30,1666,1895,1812,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-05-02,1659,1930,1809,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-05-07,1746,1939,1890,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-05-17,1626,1989,1893,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-05-30,1666,1936,1866,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-05-31,1402,1889,1806,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-06-11,1425,1854,1639,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-06-14,1259,1951,1846,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-06-15,1312,1760,1612,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-06-21,1530,1890,1796,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-06-27,1462,1910,1837,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-06-28,1622,1959,1880,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-06-29,1290,1966,1896,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-07-02,1405,1992,1915,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-07-05,1532,2019,1989,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-08-13,1042,2075,1985,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-08-27,1120,1952,1896,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-09-14,1023,2069,1989,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-09-20,1312,1970,1890,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-09-22,2541,2865,2651,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-10-03,1509,1996,1880,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-10-08,1216,1730,1609,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-10-11,1983,1988,1983,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-11-02,1662,2149,1983,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-11-05,1719,2082,2012,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-11-06,1380,2073,1992,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-11-12,1360,1989,1888,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-11-14,1210,2039,1970,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-11-19,1200,2104,2012,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-11-20,1396,2085,2030,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-12-05,1655,2396,2180,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-12-06,2162,2409,2389,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-12-10,2012,2392,2150,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-12-12,2229,2429,2389,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-12-19,2272,2272,2272,39
+Andhra Pradesh,Cuddapah,Cuddapah,Turmeric,Finger,FAQ,2007-12-20,2272,2272,2272,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-01-09,1400,1600,1500,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-01-28,1400,1800,1600,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-03-21,1200,1600,1400,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-03-26,1200,1600,1400,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-03-31,1200,1600,1400,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-04-30,1300,1800,1600,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-05-18,1300,1800,1600,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-06-01,1300,1800,1600,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-06-14,1500,2100,1900,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-07-25,1500,2100,1900,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-08-03,1500,2100,1900,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-08-22,1500,2100,1900,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-08-30,1500,2100,1900,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-09-01,1500,2000,1800,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-09-19,1500,2000,1800,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-10-20,1500,2000,1800,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-10-31,1500,2000,1800,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-12-07,1400,1800,1600,39
+Andhra Pradesh,East Godavari,Ravulapelem,Turmeric,Turmeric,FAQ,2007-12-19,1500,1900,1700,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-01-17,1400,1825,1600,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-01-25,1270,1760,1540,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-01-31,1300,1850,1605,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-02-13,1400,1900,1750,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-03-09,1275,1425,1275,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-04-10,1575,2081,1915,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-04-17,1570,2150,1900,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-04-20,1511,1980,1941,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-04-25,1590,1990,1850,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-04-30,1530,1925,1801,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-05-08,1570,1855,1775,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-05-18,1580,1864,1800,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-06-26,1540,1940,1780,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-06-28,1650,1915,1850,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-06-29,1500,1925,1800,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-07-12,1500,1940,1875,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-07-23,1500,1965,1880,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-07-25,1600,2011,1950,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-07-30,1566,2030,1881,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-08-01,1550,2050,1880,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-08-08,1800,2135,2060,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-09-13,1540,1900,1808,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-09-19,1350,1692,1475,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-01,1500,2000,1870,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-08,1650,1900,1885,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-09,1580,1890,1680,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-10,1600,1950,1875,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-12,1580,1950,1878,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-16,1650,1725,1675,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-18,1501,1850,1751,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-22,1525,1950,1803,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-10-28,1350,1970,1670,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-11-01,1605,2030,1776,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-11-03,1500,1960,1800,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-11-20,1475,2065,1950,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-11-22,1665,2085,1850,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-11-24,1660,2070,1810,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-11-26,1800,2100,2025,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-12-03,1600,2318,2230,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-12-04,1650,2300,2146,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-12-11,1650,2320,2180,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Bulb,FAQ,2007-12-14,1750,2335,2200,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-01-03,1300,2027,1735,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-01-12,1300,1900,1600,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-01-17,1241,1900,1410,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-01-18,1350,1550,1510,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-01-24,1301,1850,1650,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-01-25,1250,1650,1460,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-01-29,1305,1870,1775,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-02-07,1300,1961,1800,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-02-15,1362,1800,1690,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-02-21,1450,2000,1750,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-02-26,1351,2101,1800,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-03-12,1505,1840,1505,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-03-26,1460,2128,1931,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-04-10,1525,2080,1950,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-04-16,1600,2075,1925,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-05-03,1550,2035,1860,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-05-04,1551,2000,1840,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-05-15,1600,2100,1850,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-05-28,1500,1991,1883,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-06-04,1600,2150,1741,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-06-06,1600,1995,1775,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-06-08,1652,2005,1825,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-06-15,1500,1950,1839,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-06-20,1600,1980,1850,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-07-20,1675,2000,1830,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-07-30,1566,2171,1750,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-08-01,1500,2062,1845,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-08-10,1580,2120,1893,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-08-21,1680,2170,1881,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-09-20,1300,2021,1635,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-09-25,1250,1930,1865,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-10-03,1591,2040,1822,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-10-09,1590,1890,1627,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-10-16,1675,2085,1750,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-10-22,1525,1950,1870,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-10-23,1530,1910,1675,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-10-26,1500,1970,1800,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-10-28,1500,1970,1800,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-11-11,1500,2021,1910,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-11-13,1500,2000,1950,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-11-15,1660,2011,1900,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-11-24,1615,2070,1919,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-11-26,1700,2100,2075,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-11-27,1500,2125,2010,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-11-30,1570,2150,1980,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-12-01,1570,2150,1980,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-12-06,1610,2225,2180,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-12-09,1900,2280,2211,39
+Andhra Pradesh,Guntur,Duggirala,Turmeric,Finger,FAQ,2007-12-10,1505,2200,2200,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-01-04,2900,3200,3000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-01-06,2850,3150,2950,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-01-11,2950,3250,3050,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-01-22,2900,3450,3250,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-01-27,3000,3500,3200,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-02-05,3000,3500,3200,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-02-12,2800,3000,2900,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-03-08,2800,3000,2900,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-04-03,2000,2800,2500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-06-23,2400,2600,2500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-07-02,2200,2600,2500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-07-05,2100,2300,2200,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-07-09,2000,2300,2100,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-08-04,1900,2300,2000,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-09-10,2400,2600,2500,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-09-17,2300,2500,2400,39
+Andhra Pradesh,Visakhapatnam,Chodavaram,Turmeric,Finger,FAQ,2007-09-20,2300,2500,2400,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-07-30,5800,6000,5900,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-08-08,5900,6100,6000,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-08-11,6000,6500,6250,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-08-17,6200,6800,6500,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-08-22,6500,7000,6750,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-08-23,6500,7000,6750,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-09-01,6500,7000,6750,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-10-26,5500,6000,5750,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2021-11-07,6500,6800,6650,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-02-10,4500,5000,4800,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-03-15,5500,6525,6325,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-04-05,6000,8001,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-04-07,5500,7700,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-04-14,6000,7425,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-04-21,6000,7650,6600,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-04-24,6500,7500,7200,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-05-12,6000,6900,6400,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-07,5500,6700,6450,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-11,5500,6950,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-14,5500,6700,6450,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-16,5500,6700,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-21,5000,6800,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-24,5500,6575,6450,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-25,6000,6800,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-06-29,6000,6600,6550,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-07-01,6000,6500,6050,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-07-02,6000,6600,6400,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-07-17,5500,6600,6550,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-07-26,6000,6680,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-07-31,6000,6500,6400,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-08-14,5500,6300,6250,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-08-20,6000,7225,6600,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-08-28,6000,7000,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-08-31,6000,7100,6500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-09-03,5700,6850,6000,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-10-04,4000,6605,5500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-10-05,5905,5905,5905,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-10-13,5000,6300,5500,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-11-08,4000,5500,5200,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-11-26,4500,6800,6250,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2021-12-31,7400,8050,7600,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-01-21,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-02-01,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-02-03,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-02-10,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-02-25,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-03-01,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-03-12,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-05-04,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-05-12,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-05-15,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-05-20,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-05-25,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-05-27,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-06-01,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-06-15,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-06-19,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-06-24,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-07-08,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-07-14,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-07-17,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-07-22,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-07-27,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-07-30,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-08-11,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-09-01,9000,15000,13000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-09-18,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-09-28,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-09-29,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-09-30,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-10-09,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-10-13,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-10-18,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-10-26,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-11-01,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-11-11,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-11-12,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-11-25,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-11-27,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-08,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-09,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-11,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-13,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-17,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-21,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-25,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-27,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-28,9000,15000,12000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2021-12-30,9000,15000,12000,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-01,3500,6901,5200,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-02,5407,5407,5407,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-04,4511,7717,6114,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-08,5000,8111,6556,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-09,5000,7300,6150,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-13,6331,7325,6838,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-24,5011,7193,6102,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-03-30,5007,7177,6092,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-04-05,6204,7053,6628,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-04-06,4100,6351,5226,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-04-09,4500,7177,5838,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-04-13,5800,7550,6525,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-04-16,5000,7125,6062,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-04-20,5202,6857,6030,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-05-06,4500,6750,5625,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-05-07,5009,6611,5810,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-05-11,4500,6400,5450,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-05-13,5100,6439,5770,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-05-28,4000,6706,5353,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-06-15,4013,6102,5058,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-06-22,4000,6125,5062,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-06-23,5527,6111,5819,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-06-30,5800,6006,5903,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-07-01,3135,6026,4580,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-07-06,4913,5555,5234,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-07-29,6175,6200,6188,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-08-20,4000,6307,5154,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-09-02,4226,4226,4226,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-11-16,4133,4233,4183,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-12-21,3501,3501,3501,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2021-12-29,6101,6101,6101,39
+Maharashtra,Nanded,Dharmabad,Turmeric,Other,FAQ,2021-03-20,6000,7200,6500,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2021-06-06,6100,6700,6300,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2021-06-08,6100,6600,6300,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2021-06-13,4600,4800,4700,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2021-06-15,6000,6800,6400,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2021-06-19,5800,6800,6300,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2021-08-08,6100,6600,6350,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-06-17,4911,6085,5800,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-07-08,4800,6001,5951,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-07-12,4500,6151,6000,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-07-16,3551,6081,5951,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-07-23,5601,5975,5860,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-07-26,4900,6262,6151,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-07-28,4200,6376,6175,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-08-27,5051,6719,6540,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-09-02,4850,6625,5500,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-09-03,3901,6525,6000,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-09-04,5250,6400,6200,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-11-01,5511,6000,5825,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-11-06,4800,6511,6301,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-11-08,4500,6376,5300,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-11-12,4000,6376,5300,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-11-17,4401,5150,5000,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-11-25,4000,6200,5000,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-11-26,5100,6742,6671,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-12-10,5201,6651,5505,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-12-15,6300,8131,7252,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-12-16,5901,7381,7281,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-12-22,5876,7600,7250,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2021-12-23,6000,6851,6701,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-01-15,5350,5985,5350,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-01-22,4600,6500,5575,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-01-25,5000,6700,6030,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-01-29,5500,7720,6980,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-02-10,6400,8775,7790,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-02-18,6700,8050,7345,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-03-04,6700,11200,8735,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-03-17,7225,8900,8400,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2021-04-06,6995,8690,7995,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Bulb,FAQ,2021-12-31,6150,7310,7020,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-02-05,5306,7095,6668,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-02-11,5999,7469,7010,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-02-12,6002,7472,7022,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-03-03,6910,8250,7980,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-03-09,7280,8945,8750,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-03-15,7450,9300,8970,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-03-25,8350,9800,9215,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-03-29,8362,9822,9632,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-03-31,8049,10443,9500,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-04-21,8099,10030,9065,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-05-04,8170,9350,8640,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-05-12,8140,9250,8565,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-05-19,8540,9130,8750,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-05-20,8345,9150,8730,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-05-24,7500,8950,8450,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-06-10,7800,8850,8590,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-06-17,7400,8820,8350,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-07-02,7050,8270,7630,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-07-09,6960,8150,7590,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-07-23,6580,8230,7690,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-07-26,6510,8250,7640,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-07-28,6410,8250,7650,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-07-29,6470,7540,7050,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-08-06,6120,7250,6890,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-08-09,6240,7180,6950,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-08-10,6270,7150,6900,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-08-14,6200,7180,6970,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-08-17,6340,7150,6990,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-08-18,6340,7150,6990,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-08-24,6240,7250,6750,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-09-08,6280,7420,6850,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-09-20,6250,7390,6920,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-09-28,6280,7340,6990,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-09-29,6280,7340,6990,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-10-04,5990,6580,6240,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-10-21,6310,7340,6850,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-10-27,6390,7380,6940,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-11-09,6320,7380,6950,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-11-19,6370,7340,6980,39
+Tamil Nadu,Namakkal,Namagiripettai,Turmeric,Finger,FAQ,2021-12-02,6960,7360,7050,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-01-21,5233,5899,5600,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-01-22,5233,5899,5600,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-01-25,5102,5899,5500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-01-27,5102,5899,5500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-01-29,5102,5899,5500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-02-08,5102,5899,5500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-02-12,5102,5899,5500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-02-16,6102,7599,7000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-03-09,6953,9699,8450,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-03-15,6589,9499,8500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-04-09,6689,8689,7900,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-04-26,6903,8252,7800,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-04-28,6903,8252,7800,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-05-17,5800,6400,6150,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-05-25,5800,6400,6150,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-05-28,5800,6400,6150,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-06-17,6500,7700,7400,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-06-28,6500,7700,7400,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-07-07,5899,7902,7000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-07-12,6022,8319,7500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-07-16,6022,8379,7500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-07-29,6302,7502,6950,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-08-10,6302,7502,6950,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-08-12,6302,7502,6950,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-08-14,6302,7502,6950,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-08-23,6012,7389,7000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-08-27,6012,7389,7000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-09-14,6122,6512,6350,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-09-16,6122,6512,6350,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-09-28,6139,6404,6200,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-09-30,6139,6404,6200,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-10-18,6012,6433,6250,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-10-20,6012,6433,6250,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-10-22,6012,6433,6250,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-11-15,6032,6842,6500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-11-16,6032,6842,6500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-11-19,6032,6842,6500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-11-29,6032,6842,6500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-12-07,6032,6842,6500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-12-16,6002,8059,7350,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Bulb,FAQ,2021-12-23,6011,8309,7500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-01-06,5508,6102,5850,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-01-08,5508,6102,5850,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-01-18,5399,6402,6000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-01-21,5399,6402,6000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-01-29,6012,6500,6250,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-02-03,6012,6500,6250,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-02-09,6012,6500,6250,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-02-15,6116,8733,8000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-02-17,6116,8733,8000,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-02-22,6222,9399,8500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-02-25,6222,9399,8500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-03-03,6222,9399,8500,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-03-10,7053,12702,10150,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-03-11,7053,12702,10150,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-03-18,7008,11022,9800,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-03-25,7009,10523,9900,39
+Tamil Nadu,Namakkal,Tiruchengode,Turmeric,Finger,FAQ,2021-03-30,7186,10599,9500,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-03-09,4500,6900,5600.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-03-12,4500,6900,5500.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-03-24,4500,6900,5600.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-03-29,4500,6850,5600.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-04-01,4500,6900,5600.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-04-03,4500,6900,5600.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-04-05,4500,6900,5650.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-04-10,4550,6900,5600.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-04-12,4550,6950,5600.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-04-22,4550,6950,5650.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-04-29,4900,6950,5900.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-05-20,5000,7500,6700.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-06-01,5100,7600,6800.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-06-02,5100,7600,6800.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-06-05,5000,7500,6700.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-06-12,4800,7300,6100.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-06-22,4650,7150,6200.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-06-28,4550,7050,6150.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-07-09,4400,7050,6050.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-07-13,4200,7000,6050.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-07-15,4200,7000,6050.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-07-23,4000,6950,5950.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-07-24,4650,7050,5850.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-07-26,4000,6950,5950.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-08-06,4750,6850,5900.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-08-12,5150,6650,5955.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-08-14,5150,6650,5955.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-08-16,5150,6650,5955.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-08-19,5150,7150,6555.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-08-25,5180,7220,6400.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-08-31,5100,6930,6150.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-09-03,5200,7050,6450.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-09-07,5250,6280,5930.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-09-09,5250,5930,5880.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-09-17,5250,6150,5840.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-09-21,5150,6040,5750.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-10-02,5230,6120,5750.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-10-07,5100,6520,5850.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-10-09,4930,6510,5770.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-11-01,4800,6820,5840.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-11-13,4800,6870,5900.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-11-24,4850,6870,5850.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-11-30,4850,6870,5850.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-12-07,5000,7500,6000.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-12-09,5200,7350,6200.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-12-10,5000,7400,6000.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-12-16,5000,7200,6000.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-12-27,6000,9100,7200.0,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2021-12-28,6000,9250,7000.0,39
+Tamil Nadu,Salem,Gangavalli,Turmeric,Finger,FAQ,2021-03-11,7100,7300,7200.0,39
+Tamil Nadu,Salem,Omalur,Turmeric,Bulb,FAQ,2021-01-11,3510,4311,3908.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-01-02,4430,6520,5370.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-01-08,4405,6435,5395.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-01-21,4425,6475,5435.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-02-02,4525,6470,5475.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-02-06,4530,6480,5470.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-02-11,4530,6530,5460.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-02-12,4560,6615,5560.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-02-13,4560,6615,5560.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-02-17,4520,6560,5650.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-03-06,4600,6500,5525.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-03-18,4690,6780,5610.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-03-19,4690,6780,5610.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-03-31,4730,6910,5760.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-04-21,4950,6960,5950.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-04-29,4940,6900,5930.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-05-18,4850,7060,5930.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-05-19,4850,7060,5930.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-06-04,4870,7190,5910.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-06-17,4760,7080,5850.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-06-19,4860,7080,5950.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-06-21,4870,7105,5875.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-07-09,4910,7125,5940.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-07-12,4930,7155,5975.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-07-24,4850,7050,5950.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-07-29,4875,7080,5980.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-07-31,4875,7080,5980.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-09-03,4910,7090,5935.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-09-25,4960,7050,5660.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-11-02,4575,7075,5955.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-11-17,4570,7090,5945.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-11-20,4585,7095,5980.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-11-26,4580,7065,5980.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-12-03,4565,7090,5950.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-12-06,4560,7050,5950.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-12-09,4575,7090,5955.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-12-15,4680,7085,5960.0,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2021-12-24,4610,7090,5990.0,39
+Tamil Nadu,Vellore,Vellore,Turmeric,Other,FAQ,2021-02-19,2790,2790,2790.0,39
+Tamil Nadu,Vellore,Vellore,Turmeric,Other,FAQ,2021-10-01,7100,7100,7100.0,39
+Tamil Nadu,Vellore,Vellore,Turmeric,Other,FAQ,2021-11-01,4502,4502,4502.0,39
+Uttar Pradesh,Amethi,Jafarganj,Turmeric,Bulb,FAQ,2021-01-22,9200,9400,9300.0,39
+Uttar Pradesh,Amethi,Jafarganj,Turmeric,Bulb,FAQ,2021-06-11,9300,9400,9350.0,39
+Uttar Pradesh,Amethi,Jafarganj,Turmeric,Bulb,FAQ,2021-08-27,10900,11100,11000.0,39
+Uttar Pradesh,Amethi,Jafarganj,Turmeric,Bulb,FAQ,2021-10-22,10400,10500,10450.0,39
+Uttar Pradesh,Amethi,Jafarganj,Turmeric,Bulb,FAQ,2021-12-24,11400,11600,11500.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-01-08,10500,11000,10650.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-01-15,10500,11000,10650.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-03-05,10600,11000,10800.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-04-02,10800,11100,11000.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-08-13,10800,11200,11000.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-08-20,10000,10800,10620.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-09-10,10400,11000,10600.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-10-01,10400,10700,10500.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-10-08,10400,10600,10500.0,39
+Uttar Pradesh,Amethi,Sultanpur,Turmeric,Dry,FAQ,2021-12-10,11000,12000,11500.0,39
+Uttar Pradesh,Ayodhya,Faizabad,Turmeric,Bulb,FAQ,2021-04-23,9850,10200,10000.0,39
+Uttar Pradesh,Ayodhya,Faizabad,Turmeric,Bulb,FAQ,2021-04-30,10000,10300,10200.0,39
+Uttar Pradesh,Ayodhya,Faizabad,Turmeric,Turmeric,FAQ,2021-02-26,10000,10400,10200.0,39
+Uttar Pradesh,Ayodhya,Faizabad,Turmeric,Turmeric,FAQ,2021-08-27,11250,11700,11400.0,39
+Uttar Pradesh,Ayodhya,Faizabad,Turmeric,Turmeric,FAQ,2021-09-10,10800,11300,11000.0,39
+Uttar Pradesh,Ayodhya,Faizabad,Turmeric,Turmeric,FAQ,2021-09-24,10500,11000,10800.0,39
+Uttar Pradesh,Ayodhya,Faizabad,Turmeric,Turmeric,FAQ,2021-12-10,11400,11800,11500.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-01-02,6300,6425,6370.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-01-06,6260,6380,6325.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-01-07,6270,6380,6320.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-01-08,6245,6365,6300.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-01-28,6230,6390,6320.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-01-29,6230,6370,6310.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-02-04,6240,6380,6310.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-02-06,6230,6350,6290.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-02-09,6245,6370,6315.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-03-01,6185,6325,6245.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-03-05,6190,6310,6260.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-03-21,6275,6410,6350.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-03-25,6275,6400,6340.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-03-27,6300,6450,6370.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-04-02,6300,6425,6360.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-04-03,6300,6440,6370.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-04-07,6670,6800,6740.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-04-15,6760,6900,6840.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-04-17,6850,6960,6900.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-04-18,6835,6950,6900.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-04-20,6830,6950,6900.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-05-04,7000,7100,7050.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-05-08,7000,7100,7050.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-05-15,7050,7150,7100.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-06-02,7080,7190,7140.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-06-03,7080,7190,7140.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-06-19,7200,7300,7250.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-06-21,7300,7400,7360.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-07-02,7430,7570,7510.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-07-07,7555,7660,7600.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-07-13,7550,7675,7615.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-07-19,7690,7800,7745.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-07-22,7680,7800,7745.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-08-01,7730,7850,7785.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-08-05,7780,7900,7850.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-08-07,7800,7925,7865.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-08-09,7775,7900,7830.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-08-31,7830,7950,7885.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-09-03,7850,8000,7930.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-09-07,7830,8000,7920.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-09-10,7840,8000,7930.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-09-14,7840,8000,7930.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-10-05,7800,7950,7880.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-10-10,7800,7930,7860.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-10-17,7850,7975,7910.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-10-20,7850,7975,7920.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-10-24,7865,7975,7925.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-11-05,8000,8150,8080.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-11-06,8000,8150,8080.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-11-10,8100,8200,8150.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-11-11,8100,8200,8150.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-11-22,8140,8250,8200.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-12-01,8250,8370,8300.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-12-02,8245,8370,8300.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-12-13,8225,8350,8290.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-12-15,8250,8365,8300.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-12-20,8230,8360,8300.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-12-25,8275,8400,8345.0,39
+West Bengal,Murshidabad,Jangipur,Turmeric,Finger,FAQ,2021-12-30,8530,8650,8600.0,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-11-09,6500,9500,8000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-11-11,6500,9500,8000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-11-25,8500,11000,9750,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-12-05,8000,9500,8750,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-12-15,8000,9500,8750,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-12-19,8000,9500,8750,39
+Karnataka,Belgaum,Gokak,Turmeric,Turmeric,FAQ,2020-04-19,4000,4000,4000,39
+Karnataka,Belgaum,Gokak,Turmeric,Turmeric,FAQ,2020-04-21,5800,5800,5800,39
+Karnataka,Belgaum,Gokak,Turmeric,Turmeric,FAQ,2020-04-29,4000,4000,4000,39
+Karnataka,Belgaum,Gokak,Turmeric,Turmeric,FAQ,2020-06-08,4900,5300,4900,39
+Karnataka,Belgaum,Gokak,Turmeric,Turmeric,FAQ,2020-06-15,4900,5100,4900,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Local,FAQ,2020-04-25,1561,1561,1561,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2020-01-09,4300,6000,4300,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2020-01-30,5500,5500,5500,39
+Karnataka,Chamrajnagar,Chamaraj Nagar,Turmeric,Turmeric,FAQ,2020-02-10,4500,6000,4500,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-01-10,4000,4000,4000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-01-27,5790,6400,6400,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-01-30,6000,6000,6000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-02-17,5200,6300,6250,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-03-06,6200,6200,6200,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-03-19,5500,7200,5500,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-04-14,5900,8660,6000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-04-16,5800,6600,6200,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-04-17,4400,6400,6000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-04-22,5750,6300,5950,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-05-07,6100,6100,6100,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-05-17,5000,7500,6250,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-05-20,5800,8660,6000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-05-31,5800,5800,5800,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-06-03,6750,6750,6750,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-06-08,5750,8500,6700,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-06-10,5000,5600,5000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-06-14,4800,6700,6000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-06-24,5700,5700,5700,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-07-09,5150,5300,5150,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-07-10,6500,6500,6500,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-07-29,500,6300,5000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-08-21,6400,6400,6400,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-08-28,5900,5900,5900,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-09-18,5850,5850,5850,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-10-01,6000,9000,6000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-10-13,6000,6000,6000,39
+Karnataka,Chamrajnagar,Gundlupet,Turmeric,Local,FAQ,2020-12-10,4700,4800,4700,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-01-04,4500,6000,5400,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-01-20,5800,6000,5900,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-01-26,5800,5800,5800,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-02-01,5400,5620,5500,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-02-05,5100,5100,5100,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-02-11,5800,5800,5800,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-03-17,2800,2800,2800,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-03-21,5000,5800,5300,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-03-30,5600,5600,5600,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-05-05,4000,5800,5600,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-05-12,5700,5700,5700,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-05-22,5700,6200,5700,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-06-10,5400,6200,5400,39
+Karnataka,Chamrajnagar,Kollegal,Turmeric,Local,Medium,2020-06-18,5650,5650,5650,39
+Karnataka,Chikmagalur,Koppa,Turmeric,Turmeric,FAQ,2020-03-13,5000,7500,7000,39
+Karnataka,Chikmagalur,Koppa,Turmeric,Turmeric,FAQ,2020-05-16,6500,6500,6500,39
+Karnataka,Mysore,Santhesargur,Turmeric,Local,FAQ,2020-01-04,1100,1100,1100,39
+Karnataka,Mysore,Santhesargur,Turmeric,Local,FAQ,2020-08-28,5800,7000,6200,39
+Karnataka,Udupi,Karkala,Turmeric,Turmeric,FAQ,2020-04-30,15445,15445,15445,39
+Kerala,Ernakulam,Moovattupuzha,Turmeric,Dry,FAQ,2020-01-28,7200,7400,7300,39
+Kerala,Ernakulam,Moovattupuzha,Turmeric,Dry,FAQ,2020-01-29,7200,7400,7300,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-01-28,9500,10000,10000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-02-19,9500,10000,10000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-02-25,9500,10000,10000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-02-27,8500,9000,9000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-03-11,8000,8500,8500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-03-13,8000,8500,8500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-06-18,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-06-24,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-06-26,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-06-27,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-06-29,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-06-30,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-07-24,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-08-04,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-08-07,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-08-26,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-09-04,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Dry,FAQ,2020-09-24,10000,11000,11000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-01-23,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-01-29,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-02-01,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-02-04,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-02-08,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-02-10,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-02-12,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-02-19,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-02-20,1500,1600,1600,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-03-07,1200,1300,1300,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-06-12,1800,2000,2000,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-06-18,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-06-22,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-06-24,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-06-30,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-07-03,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-07-08,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-07-13,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-07-15,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-07-16,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-07-22,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-07-28,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-08-03,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-08-10,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-08-13,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-09-03,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-09-04,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-09-08,1400,1500,1500,39
+Kerala,Idukki,Thodupuzha,Turmeric,Other,FAQ,2020-09-23,1400,1500,1500,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-01-07,9600,9600,9600,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-01-10,9600,9600,9600,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-01-14,9600,9600,9600,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-01-28,9800,9800,9800,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-08-14,9500,9500,9500,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-08-21,9500,9500,9500,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-09-15,9200,9200,9200,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-10-06,9200,9200,9200,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-10-09,9200,9200,9200,39
+Kerala,Thiruvananthapuram,Chala,Turmeric,Other,FAQ,2020-11-06,9200,9200,9200,39
+Maharashtra,Amarawati,Morshi,Turmeric,Other,FAQ,2020-05-08,4030,6150,5670,39
+Maharashtra,Amarawati,Morshi,Turmeric,Other,FAQ,2020-07-10,1800,4750,3165,39
+Maharashtra,Amarawati,Morshi,Turmeric,Other,FAQ,2020-07-31,3400,4200,3900,39
+Maharashtra,Amarawati,Morshi,Turmeric,Other,FAQ,2020-12-29,2800,4200,3851,39
+Maharashtra,Chandrapur,Varora,Turmeric,Other,FAQ,2020-05-05,7200,7500,7350,39
+Maharashtra,Chandrapur,Varora,Turmeric,Other,FAQ,2020-05-17,2000,4500,3250,39
+Maharashtra,Chandrapur,Varora,Turmeric,Other,FAQ,2020-05-19,4600,7700,6150,39
+Maharashtra,Chandrapur,Varora,Turmeric,Other,FAQ,2020-05-25,5000,8100,6550,39
+Maharashtra,Chandrapur,Varora,Turmeric,Other,FAQ,2020-06-12,3000,7900,5450,39
+Maharashtra,Chandrapur,Varora,Turmeric,Other,FAQ,2020-06-18,7000,7900,7450,39
+Maharashtra,Chandrapur,Varora,Turmeric,Other,FAQ,2020-06-21,2500,4525,3513,39
+Maharashtra,Hingoli,Akhadabalapur,Turmeric,Rajapuri,FAQ,2020-05-20,5000,6000,5500,39
+Maharashtra,Hingoli,Akhadabalapur,Turmeric,Rajapuri,FAQ,2020-06-02,5000,6000,5500,39
+Maharashtra,Hingoli,Akhadabalapur,Turmeric,Rajapuri,FAQ,2020-06-10,5000,6000,5500,39
+Maharashtra,Hingoli,Akhadabalapur,Turmeric,Rajapuri,FAQ,2020-06-24,5500,6000,5750,39
+Maharashtra,Hingoli,Akhadabalapur,Turmeric,Rajapuri,FAQ,2020-07-18,5500,5700,5600,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-01-02,5151,6800,5800,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-01-06,5150,6300,5700,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-01-09,5400,8101,5850,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-01-20,5109,6609,5423,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-01-30,4909,6339,5768,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-02-06,5129,6359,5698,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-02-13,4800,5455,5185,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-03-05,4906,6009,5529,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-04-24,4600,5890,5400,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-05-23,4610,5825,5131,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-06-03,4300,5709,4850,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-06-18,4764,6564,5452,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-07-22,4800,6262,5531,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-09-03,4905,6139,5461,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-09-04,4929,6107,5631,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-09-14,4500,5859,5303,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-09-29,4952,5675,5279,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-09-30,4926,5656,5360,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-10-01,4750,5835,5269,39
+Maharashtra,Hingoli,Basmat,Turmeric,Other,FAQ,2020-11-10,5155,6155,5359,39
+Maharashtra,Hingoli,Basmat(Kurunda),Turmeric,Other,FAQ,2020-02-22,4600,6300,5750,39
+Maharashtra,Hingoli,Basmat(Kurunda),Turmeric,Other,FAQ,2020-12-14,4180,5900,5450,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-01-09,5200,6200,5700,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-01-13,5100,6100,5600,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-02-24,5000,5800,5400,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-03-05,5000,5500,5250,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-05-08,4560,5500,5030,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-06-01,4300,5300,4800,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-06-19,4600,5600,5100,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-06-22,4700,5700,5200,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-06-26,4800,5800,5300,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-01,4550,5590,5070,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-03,4390,5390,4890,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-14,4450,5405,4927,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-16,4885,5355,5120,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-23,4650,5500,5075,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-25,4560,5555,5057,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-27,4480,5500,4990,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-29,4500,5400,4900,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-07-30,4400,5365,4882,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-10-28,4690,5600,5145,39
+Maharashtra,Hingoli,Hingoli,Turmeric,Other,FAQ,2020-11-04,5150,5670,5385,39
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Turmeric,Other,FAQ,2020-05-18,4600,4800,4700,39
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Turmeric,Other,FAQ,2020-05-20,4600,4800,4700,39
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Turmeric,Other,FAQ,2020-07-02,5000,5300,5150,39
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Turmeric,Other,FAQ,2020-09-11,5000,5200,5100,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-01-02,15,20,20,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-01-16,5900,6100,6000,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-01-19,5800,6000,5900,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-02-08,5300,5500,5400,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-05-11,5000,5200,5100,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-05-15,4800,5000,4900,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-05-17,5100,5300,5200,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-05-20,4700,4900,4800,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-05-22,4700,4900,4800,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-05-24,4700,4900,4800,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-05-26,4800,5000,4900,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-06-02,4900,5100,5000,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-06-15,4900,5100,5000,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-06-17,5000,5200,5100,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-06-19,5000,5200,5100,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-06-23,5200,5400,5300,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-06-25,5200,5400,5300,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-07-09,5200,5400,5300,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-08-28,5100,5300,5200,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-09-03,5200,5400,5300,39
+Maharashtra,Hingoli,Jawala-Bajar,Turmeric,Other,FAQ,2020-09-11,5100,5300,5200,39
+Maharashtra,Hingoli,Kalamnuri,Turmeric,Rajapuri,FAQ,2020-08-27,3000,5000,4500,39
+Maharashtra,Hingoli,Kalamnuri,Turmeric,Rajapuri,FAQ,2020-10-03,4000,5500,4700,39
+Maharashtra,Hingoli,Kalamnuri,Turmeric,Rajapuri,FAQ,2020-11-04,5000,5000,5000,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-05-30,4500,5000,4850,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-06-01,4200,4823,4400,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-06-03,4600,4900,4800,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-06-05,4600,5000,4850,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-06-06,4700,5051,4875,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-06-23,5000,5500,5100,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-06-29,4500,5600,5250,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-07-03,4800,6161,5350,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-08-01,4500,5153,5000,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-08-20,4500,5200,5000,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-09-15,4500,5000,4800,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-09-16,4500,4850,4700,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-09-17,4500,4800,4600,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-09-30,4500,4800,4600,39
+Maharashtra,Hingoli,Sengoan,Turmeric,Other,FAQ,2020-10-01,3700,4951,4751,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-01-06,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-01-07,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-01-08,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-01-11,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-01-30,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-02-11,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-02-12,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-03-05,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-03-13,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-05-19,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-05-29,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-06-09,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-06-19,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-06-26,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-07-21,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-07-22,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-07-30,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-08-04,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-08-08,800,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-09-03,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-09-08,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-09-22,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-09-29,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-10-02,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-10-10,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-10-31,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-11-03,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-12-01,8000,130000,110000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-12-10,8000,13000,10000,39
+Maharashtra,Mumbai,Mumbai,Turmeric,Other,FAQ,2020-12-16,8000,13000,10000,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-03-07,3800,5000,4400,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-03-17,4405,5255,4830,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-03-20,4000,5231,4616,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-05-07,3009,5237,4123,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-05-18,2501,4927,3714,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-05-28,3205,4885,4045,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-06-09,3000,5057,4028,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-07-09,1817,5179,3498,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-07-11,2200,2200,2200,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-07-28,3409,5125,4267,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-07-30,4509,5009,4760,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-08-11,3404,4700,3500,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-08-24,3501,5005,4253,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-08-28,2509,2509,2509,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-09-07,4211,5009,4610,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-09-09,4109,5005,4557,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-09-26,1004,4315,2659,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-09-28,3011,4747,3880,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-10-01,3819,3819,3819,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-11-18,4325,4325,4325,39
+Maharashtra,Nanded,Bhokar,Turmeric,Other,FAQ,2020-11-27,3277,3305,3291,39
+Maharashtra,Nanded,Dharmabad,Turmeric,Other,FAQ,2020-05-27,4050,4800,4450,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2020-05-26,4800,5200,5000,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2020-06-11,4700,4900,4800,39
+Maharashtra,Nanded,Hadgaon(Tamsa),Turmeric,Other,FAQ,2020-06-23,5100,5600,5400,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-05-06,3800,4400,4201,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-05-14,3500,4625,4300,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-05-15,3800,4411,4011,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-05-28,3500,4475,4400,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-06-09,3800,4400,4300,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-06-10,3676,4751,4487,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-06-18,3900,4701,4580,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-06-20,3801,4800,4601,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-06-22,4051,5000,4848,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-07-03,4000,5400,4751,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-08-04,4250,4951,4650,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-08-05,4000,5011,4711,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-09-03,3900,4825,4701,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-09-16,4100,5021,4790,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-09-25,2775,4705,4325,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-11-02,4111,4935,4865,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-11-04,3800,4960,4150,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-11-05,4415,5500,4975,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-11-06,3535,4751,4601,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-11-16,4161,4951,4851,39
+Maharashtra,Nanded,Loha,Turmeric,Rajapuri,FAQ,2020-11-17,3500,4101,4051,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-01-03,5185,7095,5800,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-01-10,4000,6170,5600,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-01-13,5180,6485,5700,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-01-21,4900,5795,5500,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-01-31,4760,6650,5250,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-02-12,4300,6500,6500,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-03-13,4700,6505,6085,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-03-18,4325,6645,5700,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-07-03,4000,6000,5525,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-07-04,4000,6000,5525,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-07-24,5050,6000,5500,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-08-19,4985,5600,5300,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-08-20,5000,5745,5300,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-08-27,4795,5890,5520,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-08-31,5100,6405,5555,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-09-04,4200,5600,5310,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-09-11,4700,5450,5100,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-09-29,4855,5500,5250,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-10-03,4331,5681,5175,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-10-26,4245,6095,5545,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-10-28,4895,6000,5455,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-11-03,4595,6000,5460,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-12-04,4900,5560,5300,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-12-28,4595,6025,5500,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-12-29,4945,5785,5460,39
+Maharashtra,Nanded,Nanded,Turmeric,Other,FAQ,2020-12-31,5065,5750,5485,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-05-11,3500,5390,4900,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-06-03,3600,5020,4800,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-06-17,4100,5750,5100,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-06-24,4305,5570,5050,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-07-29,4450,5400,5150,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-08-20,4000,5555,5190,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-09-03,4100,5335,5275,39
+Maharashtra,Parbhani,Jintur,Turmeric,Other,FAQ,2020-09-21,4305,5900,5000,39
+Maharashtra,Parbhani,Purna,Turmeric,Rajapuri,FAQ,2020-05-06,4410,5270,5200,39
+Maharashtra,Parbhani,Purna,Turmeric,Rajapuri,FAQ,2020-05-18,4400,5100,5000,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2020-12-09,4510,6210,5330,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2020-12-12,4510,6220,5310,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2020-12-15,4510,6220,5310,39
+Tamil Nadu,Salem,Attur,Turmeric,Finger,FAQ,2020-12-28,4400,6540,5400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-01-02,6120,7050,6675,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-01-03,6150,7100,6710,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-01-23,6350,7400,6900,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-01-24,6280,7330,6760,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-01-31,6330,7450,6800,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-02-05,6230,7350,6700,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-02-12,6230,7280,6690,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-02-19,6110,7100,6670,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-02-22,6115,7075,6620,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-02-27,6080,7120,6580,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-03-02,6115,7175,6120,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-03-07,6220,6900,6580,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-03-17,6215,6790,6450,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-03-20,6100,6650,6400,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-03-24,6000,6450,6200,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-03-26,6000,6450,6200,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-03-27,6000,6450,6200,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-04-23,6350,6940,6700,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-04-29,6350,6940,6700,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-05-14,6200,6520,6420,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-05-23,6210,6510,6410,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-05-30,6220,6550,6440,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-06-09,5600,6250,5880,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-06-13,5650,6260,5950,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-06-27,5710,6260,5940,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-07-01,5730,6240,5950,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-07-06,5750,6300,5950,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-07-09,5680,6190,5890,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-07-23,4950,5970,5425,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-07-29,4940,5940,5430,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-08-06,4950,5930,5450,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-08-08,4940,5950,5460,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-08-13,4945,5895,5525,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-08-14,4945,5875,5525,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-08-24,4905,6010,5635,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-09-07,4900,6400,5580,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-09-15,4850,6375,5550,39
+Tamil Nadu,Salem,Salem,Turmeric,Finger,FAQ,2020-09-17,4850,6375,5550,39
+Tamil Nadu,Erode,Erode,Turmeric,Bulb,FAQ,2020-10-22,4669,5677,5173.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Bulb,FAQ,2020-11-24,4299,5769,5034.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Bulb,FAQ,2020-12-15,4526,5609,5068.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-01-08,5556,7109,6333.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-01-09,5517,7256,6387.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-01-24,5522,6909,6216.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-02-25,5089,6589,5839.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-02-26,5109,6256,5683.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-02-27,5432,6916,6174.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-03-17,5414,6919,6167.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-03-18,5489,7157,6323.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-05-13,5300,6427,5864.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-05-18,5211,6349,5780.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-05-19,5229,6529,5879.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-05-20,5222,6416,5819.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-05-23,5166,6559,5863.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-06-19,5259,6489,5874.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-07-15,5555,6309,5932.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-07-20,5239,6555,5897.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-07-21,5239,6589,5914.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-08-24,4888,5734,5311.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-09-09,5102,6159,5631.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-09-10,4900,6093,5497.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-09-16,4911,5889,5400.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-09-18,4889,6028,5459.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-09-25,5229,6225,5727.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-10-05,5011,6028,5520.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-10-16,4994,6135,5565.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-10-22,5059,6069,5564.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-10-27,5159,6039,5599.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-11-11,5114,6425,5770.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-11-20,4899,6095,5497.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-12-07,5069,6299,5684.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-12-10,5169,6199,5684.0,39
+Tamil Nadu,Erode,Erode,Turmeric,Finger,FAQ,2020-12-23,5499,6031,5765.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-01-03,5545,6539,6099.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-01-06,5369,6499,5839.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-01-21,5009,6493,5856.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-02-05,4710,5869,5469.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-04-27,5859,6507,6009.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-05-12,4599,5899,5519.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-05-21,4910,5884,5555.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-05-22,4635,5619,5196.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-06-10,4899,5900,5499.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-06-18,4919,6105,5649.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-06-22,4719,5912,5539.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-06-30,4819,5739,5399.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-07-07,4389,5699,5299.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-07-23,4711,5714,5299.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-07-28,4639,5729,5289.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-08-07,4899,5719,5339.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-08-10,4620,5599,5059.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-09-09,4790,5769,5292.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-09-10,4712,5669,5009.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-09-14,4889,5839,5429.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-09-16,4580,5749,5279.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-09-18,5103,5889,5439.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-09-28,4329,5489,4909.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-10-05,4366,5620,5189.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-10-09,4699,5689,5169.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-10-14,4608,5609,5205.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-11-04,5001,5899,5389.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-11-05,4739,5839,5389.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-11-09,4905,5869,5387.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-11-10,4809,5829,5399.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-11-26,4700,5713,5299.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-12-03,4521,5959,5293.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-12-08,4099,5357,4608.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-12-23,4899,5769,5489.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Bulb,FAQ,2020-12-28,4913,5699,5306.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-01-03,5950,7011,6689.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-01-06,5759,6874,6369.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-01-09,5699,7014,6500.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-01-21,5791,6899,6394.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-01-27,5399,6489,5805.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-02-04,5400,6507,6089.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-02-25,5100,6199,5706.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-02-27,5414,6599,6174.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-04-24,5769,7009,6519.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-05-06,5440,6466,5904.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-05-07,5366,6606,6144.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-05-18,5607,6617,6217.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-06-23,5099,6474,5889.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-07-07,4723,5974,5570.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-07-15,5005,6159,5495.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-07-23,5279,6429,5884.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-07-27,4844,6117,5619.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-07-29,4730,5814,5499.0,39
+Tamil Nadu,Erode,Perundurai,Turmeric,Finger,FAQ,2020-08-18,5150,6129,5600.0,39
+Chattisgarh,Balrampur,Ramanujganj,Turmeric,Local,FAQ,2020-08-28,6000,6000,6000,39
+Chattisgarh,Balrampur,Ramanujganj,Turmeric,Local,FAQ,2020-11-24,6000,6000,6000,39
+Karnataka,Bagalkot,Mhalingapur,Turmeric,Turmeric,FAQ,2020-05-08,5700,5800,5750,39
+Karnataka,Bagalkot,Mhalingapur,Turmeric,Turmeric,FAQ,2020-06-02,5400,5500,5450,39
+Karnataka,Bagalkot,Mhalingapur,Turmeric,Turmeric,FAQ,2020-06-08,5300,5400,5350,39
+Karnataka,Bagalkot,Mhalingapur,Turmeric,Turmeric,FAQ,2020-06-18,5300,5400,5350,39
+Karnataka,Bagalkot,Mhalingapur,Turmeric,Turmeric,FAQ,2020-07-27,5500,5600,5550,39
+Karnataka,Bagalkot,Mhalingapur,Turmeric,Turmeric,FAQ,2020-09-01,5500,5600,5550,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-01-20,8500,11800,10150,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-01-28,7000,11500,9250,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-02-15,7000,11500,9250,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-02-24,7000,11500,9250,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-03-06,7000,12000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-03-11,7000,12000,9500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-03-16,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-03-18,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-04-08,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-04-16,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-04-23,6800,11500,9150,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-04-30,6800,11500,9150,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-06-01,7000,11000,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-06-08,7000,11000,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-06-17,7500,11000,9250,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-06-25,7500,11000,9250,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-07-08,8000,10000,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-07-27,7500,10500,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-08-10,7500,10500,9000,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-08-26,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-08-31,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-09-07,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-10-05,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-10-12,6000,11000,8500,39
+Karnataka,Bangalore,Bangalore,Turmeric,Turmeric Stick,FAQ,2020-11-07,6500,9500,8000,39

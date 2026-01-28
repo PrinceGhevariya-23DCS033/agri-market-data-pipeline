@@ -1,0 +1,5 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Odisha,Cuttack,Banki,Cashew Kernnel,Other,FAQ,2007-05-31,1800,2000,1900.0,238
+West Bengal,Medinipur(E),Egra/contai,Cashew Kernnel,Cashewnut,FAQ,2007-07-22,1970,2000,1975.0,238
+West Bengal,Medinipur(E),Egra/contai,Cashew Kernnel,Cashewnut,FAQ,2007-07-25,1970,2000,1975.0,238
+West Bengal,Medinipur(E),Egra/contai,Cashew Kernnel,Cashewnut,FAQ,2007-08-05,1970,2000,1975.0,238

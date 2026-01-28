@@ -1,0 +1,700 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-01-02,2000,2500,2250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-01-03,1500,2500,2100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-01-10,1000,3500,2500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-01-13,2000,4000,3200,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-01-18,1800,3000,2500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-01-24,1500,2500,2250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-01-30,1000,2000,1600,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-02-01,1500,2000,1800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-02-02,1400,2000,1800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-02-09,2000,3000,2500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-02-11,1000,2000,1800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-02-13,2000,2500,2300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-02-23,800,2000,1500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-03-01,1500,2000,1800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-03-04,1000,2000,1600,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-03-14,2000,2500,2300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-03-16,2000,2500,2300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-03-18,1500,2000,1800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-07-18,3500,4000,3800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-07-19,3500,4500,4100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-08-23,3000,3500,3300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-11-24,5000,10000,8000,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-11-25,10000,12500,11300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-12-09,3500,4500,4100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-12-13,2500,3500,3100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-12-19,1500,3000,2300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-12-20,1750,3000,2450,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-12-22,1000,3000,2100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2017-12-29,1750,3500,2750,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-01-11,1750,2500,2200,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-01-18,2500,3000,2800,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-01-21,2250,2750,2650,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-01-30,1800,2250,2000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-02-06,1750,2050,2000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-02-11,1600,2050,1825,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-02-21,1600,2050,1825,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-02-27,1600,2000,1900,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-03-03,1500,1800,1600,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-03-06,1750,2250,2050,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-03-07,1350,1600,1525,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-03-11,1750,2250,2050,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-03-22,3150,3550,3400,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-04-07,3000,3500,3250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-04-14,4350,4750,4550,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-05-19,4000,5000,4500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-06-30,4300,5350,4950,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-07-08,4500,5500,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-07-26,2650,3325,3150,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-07-27,2750,3500,3250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-07-28,2275,3175,2700,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-08-15,4500,5850,5350,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-08-17,2500,5650,5125,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-08-19,4000,5000,4750,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-08-24,2500,4000,3750,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-08-29,2950,3625,3400,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-09-04,2725,4075,3825,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-09-06,2425,3325,3150,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-09-22,4000,5350,4950,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-09-26,4525,5650,5175,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-10-13,4450,5350,4950,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-10-14,4525,5650,5125,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-10-19,4150,5500,5125,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-11-14,4100,5000,4500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-11-15,3975,4875,4500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-11-17,4275,5175,4950,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-11-18,4000,5350,5125,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-11-24,3625,4525,4300,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-12-07,1600,2050,1825,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-12-08,900,2025,1800,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-12-13,1750,2200,2025,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2017-12-28,2275,2950,2700,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-01-24,700,1200,800,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-01-25,1200,1200,1200,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-01-27,1000,1500,1500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-02-02,700,1000,1000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-02-06,1000,1500,1500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-02-12,1000,1000,1000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-11-25,1500,1750,1750,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-12-09,1000,1000,1000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-12-11,800,800,800,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-12-19,1000,1000,1000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2017-12-29,600,600,600,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-03,1200,2755,1977,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-04,500,2945,1772,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-07,1000,2500,1750,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-11,855,5355,3105,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-19,1055,1055,1055,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-27,1000,2505,1750,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-30,500,2610,1555,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-01,1750,3000,2375,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-03,1010,2945,1977,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-04,1495,2455,1975,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-06,1055,2705,1880,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-08,855,2725,1790,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-28,1455,3600,2527,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-03-02,1840,2500,2170,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-03-03,1725,3775,2750,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-03-04,2150,4495,3322,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-03-07,3750,4055,3902,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-03-08,2850,3850,3350,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-03-28,4000,4230,4115,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-03-30,1665,4500,3082,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-04-06,3500,3500,3500,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-04-22,4005,4005,4005,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-09-11,7750,7750,7750,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-09-15,5055,8505,6780,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-09-18,3500,10115,6807,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-09-24,5565,7305,6435,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-10-01,5150,9505,7327,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-10-08,4495,9750,7122,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-10-11,4225,7600,5912,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-10-14,6065,7750,6907,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-10-18,11000,11025,11012,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-10-26,3150,3150,3150,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-10-29,9655,9655,9655,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-12-18,1910,3905,2907,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-12-21,860,4995,2927,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2017-12-31,2955,4250,3725,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-05,2385,2600,2492,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-06,780,3000,1875,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2017-01-31,1350,2890,2070,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-06,1055,2705,1880,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-13,1000,3885,2427,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2017-02-16,2225,2860,2542,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-09-07,4150,5050,4825,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-09-20,3000,3900,3675,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-09-30,2750,3450,3200,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-10-09,3750,4650,4425,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-10-19,4250,6050,5375,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-11-07,3500,7500,7050,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-11-08,3500,7500,7050,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-02,1850,2750,2525,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-04,1900,3500,2800,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-05,1500,2400,2175,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-09,1725,2175,2000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-14,1400,3000,2600,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-18,2100,3000,2750,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-21,2225,3125,2900,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-12-25,2225,3125,2900,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2018-01-16,1000,1000,1000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2018-01-17,800,800,800,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2018-02-10,900,2000,1000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2018-09-08,2500,2500,2500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2018-09-15,2500,2500,2500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2018-09-28,1500,1500,1500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2018-10-05,2500,2500,2500,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-06-28,3250,5000,4125,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-07-17,2000,2500,2250,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-08-04,2500,3500,3000,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-08-06,2000,3500,2750,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-08-19,3500,4000,3750,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-08-20,3000,3500,3250,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-09-02,3000,4000,3500,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-09-03,1500,4000,2750,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-09-11,1500,4500,3000,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-09-16,1000,3250,2125,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-09-19,1500,2500,2000,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-09-27,1200,4000,2600,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-10-01,1500,2500,2000,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-10-04,2000,4000,3000,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-10-07,1500,5000,3250,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-10-11,3500,5000,4250,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-10-21,5000,7000,6000,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-10-29,3500,4000,3750,300
+Gujarat,Navsari,Bilimora,Surat Beans (Papadi),Other,FAQ,2018-11-06,6000,9000,7500,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-01-06,2385,4550,3467,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-01-11,2890,3390,3120,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-02-11,2505,4455,3480,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-02-20,2495,4000,3247,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-02-21,2505,3500,3002,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-02-22,2270,3355,2812,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-03-10,1390,5500,3445,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-03-15,550,4955,4752,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-03-16,3255,4450,3852,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-08-16,5000,5000,5000,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-08-19,5010,5010,5010,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-05,3655,5505,4580,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-13,7800,8390,8095,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-22,5885,8505,7195,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-24,9500,9500,9500,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-30,7450,7450,7450,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-11,3995,8200,6097,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-12,5755,6655,6205,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-15,2775,5500,4137,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-16,3900,4710,4305,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-17,3850,5500,4675,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-29,1755,3350,2552,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-05,1250,2750,2000,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-17,3000,4890,3945,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-21,5000,5055,5027,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-25,2500,4495,3497,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-27,1500,4105,2802,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-28,2000,4750,3375,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-01-02,2885,3360,3122,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-01-18,3715,3950,3832,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-01-20,1000,4285,2642,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-01-30,1775,4350,3062,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-02-16,1500,3865,2682,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-02-18,1500,4400,2950,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-03-06,2655,6890,4772,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-03-22,2500,5250,3875,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-03-31,5500,5500,5500,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-08-16,5000,5000,5000,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-08-19,5010,5010,5010,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-08-22,5650,5650,5650,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-08,4355,5810,5082,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-14,3250,4615,3932,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-15,3050,4550,3800,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-16,3185,5500,4342,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-24,2500,4000,3250,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-26,4450,5750,5100,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-28,2620,3810,3215,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-09-30,5255,5500,5377,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-05,3655,5505,4580,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-06,2445,4350,3397,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-10-12,5255,6680,5967,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-02,7225,8450,7837,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-03,6730,7200,6965,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-04,7000,8150,7575,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-17,3850,5500,4675,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-19,3000,4700,3850,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-20,3355,4350,3852,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-22,3600,3600,3600,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-11-25,3500,3905,3702,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-10,5000,8205,6602,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-14,1670,7500,4585,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-20,1550,4850,3200,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2018-12-27,1500,4105,2802,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-01-02,2500,5500,4000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-01-05,2000,4500,3250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-01-20,2000,5000,3500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-01-29,2000,4250,3125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-01-31,2000,4250,3125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-02-04,2500,6000,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-02-10,2000,4250,3125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-02-12,2000,4000,3000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-02-14,2000,4250,3125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-03-03,2500,5500,4000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-03-04,2000,4250,3125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-03-06,2000,4250,3125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-03-13,2000,4500,3250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-03-16,2500,5500,4000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-03-18,3000,6000,4500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-04-24,2000,5000,3500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-04-27,2000,5000,3500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-05-01,2000,5000,3500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-05-02,2500,6000,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-05-03,2500,6000,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-05-06,2500,6000,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-05-16,2000,5000,3500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-05-25,2000,5500,3750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-05-26,2000,5500,3750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-06-07,2500,6000,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-06-14,2500,6000,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-06-23,3000,6000,4500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-06-25,3000,5500,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-06-29,2000,6000,4000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-06-30,2500,5500,4000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-01,2500,6000,4250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-03,2000,5000,3500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-08,2000,4000,3000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-15,1250,3500,2375,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-18,1000,3400,2200,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-24,1500,3500,2500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-27,2250,8000,5125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-07-31,2000,9000,5500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-08-16,2500,7000,4750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-08-23,3000,6500,4750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-08-24,3000,7250,5125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-08-25,3000,7500,5250,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-08-28,3500,7500,5500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-09-08,2500,7000,4750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-09-09,3000,6500,4750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-09-13,3000,6000,4500,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-09-23,1500,4000,2750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-09-29,2500,5500,4000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-10-12,3500,9250,6375,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-08-13,3000,3250,3105,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-08-17,2500,3250,2900,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-08-18,2500,3250,2900,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-08-21,2750,3000,2900,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-09-21,2750,3000,2900,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-09-26,2500,3000,2800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-09-29,2250,2750,2550,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-10-16,3500,4000,3800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-11-10,4000,4500,4300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-11-20,3000,3500,3300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-11-22,2500,3000,2800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-12-09,1500,2000,1800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-12-16,2000,2250,2150,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-12-22,2000,2500,2300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-12-27,2000,2750,2400,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-01-01,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-01-21,600,800,750,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-01-25,600,800,750,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-01-31,600,800,750,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-02-01,600,800,750,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-02-07,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-02-10,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-02-21,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-03-05,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-03-21,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-03-24,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-04-04,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-04-05,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-04-09,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-04-21,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-04-23,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-04-29,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-05-08,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-05-12,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-05-13,700,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-05-14,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-05-16,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-06-02,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-06-04,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-06-06,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-06-21,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-07-11,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-07-23,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-09-17,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-10-10,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-10-15,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-10-17,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-11-12,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-11-18,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-11-25,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-12-08,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2018-12-25,800,1000,950,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-11-20,2500,5000,3750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-11-22,2250,4000,3125,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-11-24,2000,4000,3000,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-12-03,1500,3350,2425,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-12-04,2000,3250,2625,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-12-19,1750,4000,2875,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-12-30,2500,5000,3750,300
+Gujarat,Surat,Surat,Surat Beans (Papadi),Other,FAQ,2018-12-31,2000,5000,3500,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-01-08,3500,5000,4250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-02-06,2250,3250,2750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-02-07,1500,2750,2125,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-02-23,2500,3500,3000,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-02-28,3000,3250,3125,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-03-06,3500,4500,4000,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-03-10,3000,3500,3250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-03-20,4500,5000,4750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-04-06,4500,5000,4750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-04-11,5000,6000,5500,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-05-03,5000,5500,5250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-05-09,4500,5000,4750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-05-16,6000,7000,6500,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-05-19,5000,6000,5500,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-06-05,4500,5000,4750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-07-19,2000,2500,2250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-07-23,2000,2500,2250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-07-26,1250,1750,1500,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-08-07,3000,4000,3500,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-08-08,3000,3500,3250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-08-11,2000,2500,2250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-09-03,5000,5500,5250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-09-19,2250,2750,2500,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-09-20,3500,4000,3750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-09-21,2500,3000,2750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-09-22,2500,3750,3100,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-10-02,3500,5000,4250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-11-06,6000,6500,6250,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-11-20,3000,3750,3375,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-11-30,2250,3000,2625,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-12-13,2500,3000,2750,300
+Gujarat,Surat,Vyra,Surat Beans (Papadi),Other,FAQ,2018-12-17,2500,3500,3000,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-01-18,1500,2000,1750,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-02-09,1400,1500,1450,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-02-20,1500,2250,2000,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-02-24,1500,2800,2200,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-02-28,1500,3000,2250,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-03-03,1500,2250,2000,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-03-15,2500,3500,3000,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-03-20,2500,3500,3000,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-04-04,3500,5000,4250,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-04-11,2750,3500,3150,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-04-14,2500,3750,3200,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-04-17,2500,3750,3250,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-04-19,2750,3750,3250,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-04-27,4250,4500,4400,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-04-28,2500,3250,2900,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-05-02,3500,4000,3750,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-05-03,4000,4250,4125,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-10-04,2500,3750,3200,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-10-15,4000,4500,4250,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-10-22,800,1300,1075,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-10-25,3000,4000,3500,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-11-20,1500,1750,1600,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-12-03,1500,3000,2250,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-12-12,2500,3000,2750,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-12-17,1750,2750,2250,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-12-21,2250,3000,2650,300
+Gujarat,Vadodara(Baroda),Padra,Surat Beans (Papadi),Other,FAQ,2018-12-27,2000,3000,2500,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-01-09,4000,4500,4250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-01-17,2500,3500,3025,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-01-21,3000,3500,3250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-01-24,1500,2000,1750,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-01-30,2000,2500,2250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-02-10,2500,3000,2750,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-02-27,1500,3000,2300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-03-04,2000,2500,2300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-03-08,1500,2000,1775,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-03-12,1500,1900,1725,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-03-21,2500,3500,3050,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-03-30,2500,3500,3050,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-04-03,3000,3500,3250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-04-04,3000,3500,3250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-04-11,4000,5000,4550,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-05-30,4500,6000,5300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-06-29,4500,6000,5300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-07-16,3500,4500,4050,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-07-25,2500,3000,2800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-07-26,2500,3000,2800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-07-30,2500,3000,2800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-08-02,3000,4000,3550,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2018-08-05,3000,3500,3300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-01-08,2500,4000,3350,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-01-12,3000,5000,4100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-01-17,1500,3000,2350,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-01-29,1000,3000,2050,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-02-03,1500,4000,2850,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-02-17,1500,5000,3500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-02-20,1000,2500,1850,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-02-24,1000,3500,2500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-02-26,1000,2000,1600,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-02-28,1000,2700,1950,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-03-03,1500,3500,2800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-03-10,1000,2000,1600,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-11-17,6000,8500,7300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-12-03,4000,5500,4850,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2018-12-08,4500,5500,5100,300
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Surat Beans (Papadi),Other,FAQ,2018-12-19,2500,3000,2750,300
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Surat Beans (Papadi),Other,FAQ,2018-12-24,1500,2000,1750,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-01-02,2500,3625,3150,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-01-08,3000,3750,3350,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-01-18,3000,3700,3450,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-03-01,3000,3675,3450,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-03-12,2900,3300,3125,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-03-13,2350,3250,3025,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-03-23,3500,4425,4200,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-03-30,3500,4400,4175,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-04-04,4150,5000,4600,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-04-05,3500,4400,4175,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-05-05,5100,6000,5775,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-07-11,3250,4150,3925,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-07-21,2225,2850,2675,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-07-27,2600,3500,3275,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-08-03,3250,4375,4150,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-08-14,4250,5150,4925,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-08-23,2225,2675,2450,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-08-30,2225,2625,2450,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-09-01,2350,3050,2800,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2018-09-06,2900,3800,3575,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2020-11-05,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2020-11-11,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2020-11-21,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2020-11-23,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2020-11-25,800,1000,950,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2020-12-07,1000,1200,1150,300
+Maharashtra,Nagpur,Nagpur,Surat Beans (Papadi),Other,FAQ,2020-12-12,800,1000,950,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-01-06,6000,7500,7000,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-01-09,4000,6500,5350,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-01-11,5000,8000,6700,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-01-15,1500,5000,3350,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-01-23,2500,3500,2750,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-01-27,2500,4000,3300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-01-29,2000,2500,2300,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-02-05,1500,2500,2250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-02-25,1000,2000,1600,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-02-26,1000,2500,1850,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-03-03,1500,2000,1800,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-03-05,1200,2000,1700,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-03-06,1500,2000,1850,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-03-13,1500,2500,2250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-12-15,2000,4000,3100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-12-21,2000,4000,3250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2020-12-31,4000,6000,5100,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-01-18,3500,4200,3950,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-01-30,2225,3125,2900,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-02-17,1325,2675,2500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-02-26,1100,2225,2000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-03-29,3650,5000,4500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-04-02,1900,2600,2350,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-04-03,1675,2375,2200,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-04-04,1700,3000,2750,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-04-08,2150,3000,2825,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-04-27,4350,5250,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-04-29,4350,5250,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-05-08,4150,5450,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-05-14,5250,7850,7000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-05-15,5150,6450,6000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-05-27,5250,6850,6150,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-05-30,5450,6750,6350,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-07-09,2375,3975,3500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-07-25,4150,5450,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-08-06,3350,4650,4250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-08-08,3000,3900,3650,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-08-12,3250,3950,3725,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-09-02,7250,9750,9000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-09-03,6000,10000,9350,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-09-06,7350,8650,8250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-10-10,5450,7050,6650,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-10-19,6350,7950,7500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-11-18,6150,8350,7950,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-11-20,6150,7950,7500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-12-22,2225,3575,3400,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2020-12-24,3350,4475,4000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2020-11-24,2500,3000,2500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2020-12-04,1500,1500,1500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2020-12-07,1500,1500,1500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2020-12-10,1500,2000,1750,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2020-12-17,800,800,800,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-03,1500,5980,3740,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-15,3550,6000,4775,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-20,3750,5750,4750,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-31,1370,2255,1812,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-02-10,1500,2505,2002,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-02-11,1200,3450,2325,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-02-19,1250,2685,1967,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-02-20,650,2750,1700,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-03-01,1750,3000,2375,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-03-03,1200,1800,1500,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-03-05,1440,2250,1845,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-04-05,6495,6800,6647,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-04-08,4500,7500,6000,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-04-17,2000,6400,4200,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-10-23,9255,11115,10185,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-10-30,13995,13995,13995,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-10-31,11500,11700,11600,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-11-06,9005,12500,10752,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-11-14,10000,13000,11500,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-11-21,4600,5500,5050,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-12-02,3665,4050,3857,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-12-03,2950,3450,3200,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-12-16,2000,7000,4500,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-12-20,2700,4440,3570,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-12-23,2005,5500,3752,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2020-12-25,1515,6250,3882,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-03,1500,5980,3740,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-11,2250,5055,3802,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-20,3750,5750,4750,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-01-30,1440,2385,1912,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-02-06,1570,3100,2335,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-03-05,1440,2250,1845,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-03-16,3755,4995,4375,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-03-17,3890,4995,4442,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-04-03,4250,4250,4250,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-10-20,14000,14000,14000,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-10-21,10000,10000,10000,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-10-25,13000,13135,13067,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2020-11-02,7080,8000,7540,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-09-12,2000,3000,2750,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-09-15,2500,3250,2950,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-09-18,3000,3500,3250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-09-21,2750,3000,2900,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-09-26,2750,3250,3100,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-09-28,2750,3250,3050,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-10-07,2000,2500,2300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-10-08,1750,2250,2100,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-10-29,2500,3000,2800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-10-30,3000,3500,3300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-11-05,3500,4000,3850,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-11-12,3500,4000,3800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-11-16,3000,4000,3550,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-11-17,3500,4500,4050,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-11-21,3500,4000,3800,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-06,1500,2500,2050,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-10,2000,2500,2300,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-11,2000,2750,2400,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-12,2000,2500,2250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-24,1750,2500,2250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-25,2500,3500,3050,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-26,2500,3250,2900,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-29,2500,3500,3250,300
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Surat Beans (Papadi),Other,FAQ,2011-12-31,2500,3250,2900,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-01-04,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-01-05,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-01-13,600,800,700,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-01-27,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-01-31,200,300,250,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-02-05,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-02-10,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-02-16,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-02-17,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-03-03,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-03-13,600,800,700,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-03-19,600,700,650,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-03-30,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-03-31,400,500,450,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-04-11,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-04-20,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-04-26,200,300,250,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-04-27,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-05-05,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-05-07,400,500,450,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-05-10,150,200,175,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-05-11,150,200,175,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-09-08,700,800,750,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-09-12,800,1000,900,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-09-15,1100,1200,1150,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-09-17,800,1000,900,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-09-20,1000,1100,1050,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-09-22,800,900,850,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-10-01,1000,1200,1100,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-10-08,400,500,450,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-11-01,500,600,550,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-11-23,300,400,350,300
+Maharashtra,Nagpur,Nagpur(Mahatma Phule Market),Surat Beans (Papadi),Other,FAQ,2011-12-10,200,300,250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-01-04,4000,7000,6000,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-01-13,5000,9000,7500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-01-18,2000,4000,3250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-02-05,2000,3500,2850,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-02-06,2000,3500,2850,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-02-19,2500,3500,3200,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-02-26,1500,3000,2500,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-03-03,2500,3500,3250,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-03-06,2000,3000,2600,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-03-12,2500,3500,3100,300
+Gujarat,Ahmedabad,Ahmedabad,Surat Beans (Papadi),Other,FAQ,2021-12-17,2500,6000,4500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-01-07,3350,4250,4000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-01-09,3350,4475,4250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-01-10,3950,5250,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-02-04,3350,4250,4000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-02-05,3350,4475,4000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-02-06,3350,4475,4250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-02-16,3350,4250,4000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-02-18,3000,3900,3675,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-02-19,3350,4475,4000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-03-01,3750,5050,4650,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-03-04,3125,4250,4000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-03-16,4250,5375,4900,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-03-26,5150,6450,6000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-04-09,3450,5250,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-04-12,4150,6650,6250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-04-16,4250,6450,6000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-04-21,3350,4475,4250,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-04-26,4150,5450,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-04-29,3350,4250,4000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-05-11,4150,5450,5000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-05-17,5750,7950,7500,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-06-08,5250,6850,6450,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-06-13,6150,6850,6450,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-06-14,6150,7050,6825,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-06-23,6150,8850,8000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-06-24,5150,6450,6000,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-06-28,3875,5000,4600,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-06-30,3750,5050,4650,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-07-13,3450,5050,4350,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-07-17,1675,2575,2400,300
+Gujarat,Bharuch,Ankleshwar,Surat Beans (Papadi),Surat Beans (Papadi),FAQ,2021-07-23,1775,3575,3250,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-01-07,1750,3000,2250,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-02-03,1500,2000,1750,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-02-06,1500,2500,2000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-02-19,1500,2500,2000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-02-20,1500,2500,2000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-03-15,2000,2000,2000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-03-20,2250,2250,2250,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-10-11,6000,6000,6000,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-12-11,2500,2500,2500,300
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Surat Beans (Papadi),Other,FAQ,2021-12-15,3000,3000,3000,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-01-25,3505,5300,4402,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-01-27,4250,5500,4875,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-01-29,4495,6250,5372,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-01-31,3255,5000,4127,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-09,3505,5405,4455,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-11,3505,4100,3802,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-21,2000,4550,3275,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-03-06,2850,4525,3687,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-03-08,2750,7505,5127,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-03-22,5255,5600,5427,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-04-25,4305,4305,4305,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-08-29,650,2500,1575,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-08-30,3155,3155,3155,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-09-02,3270,4300,3785,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-09-06,3180,3180,3180,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-09-11,3205,5760,4482,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-09-14,3975,4805,4390,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-09-20,4440,7550,5995,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-09-23,5250,8505,6877,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-10-07,6500,7850,7175,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-10-10,5555,8255,6905,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-10-23,4500,9000,6750,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-11-03,12995,12995,12995,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-11-19,4595,6300,5447,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-12-03,4440,13500,8970,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-12-06,3250,6755,5002,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-12-10,2000,8255,5127,300
+Gujarat,Surat,Mandvi,Surat Beans (Papadi),Other,FAQ,2021-12-13,4005,10000,7002,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-01-18,4505,5255,4880,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-01-30,4200,5495,4847,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-05,3700,5800,4750,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-15,4105,4750,4427,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-21,2000,4550,3275,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-22,3500,5505,4502,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-02-26,2555,4995,3775,300
+Gujarat,Surat,S.Mandvi,Surat Beans (Papadi),Other,FAQ,2021-03-01,5305,5305,5305,300

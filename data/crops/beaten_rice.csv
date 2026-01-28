@@ -1,0 +1,397 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2009-01-01,1700,1800,1750,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2009-02-03,1700,1800,1750,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2009-02-25,1700,1800,1750,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2009-06-17,1700,1800,1750,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2009-07-20,1450,1600,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-01-12,1540,1550,1545,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-03-30,1600,1750,1650,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-04-03,1600,1725,1625,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-05-06,1600,2050,1750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-05-21,1600,2000,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-05-27,1600,1900,1750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-06-04,1700,1900,1800,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-06-10,1650,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-06-15,1250,1800,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-07-07,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-07-09,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-07-14,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-07-15,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-07-20,1700,2000,1900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-07-21,1500,1700,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-07-24,1500,1750,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-08-10,1500,1640,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-08-12,1500,1700,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-08-26,1500,1800,1650,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-08-28,1500,1800,1750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-08-29,1500,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-09-30,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-10-06,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-10-23,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-10-31,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-11-03,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-11-05,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-11-10,1600,1800,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-11-26,1600,1900,1800,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2009-12-11,1600,1900,1800,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-02-22,1600,1800,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-03-25,1600,1700,1650,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-05-05,1600,1800,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-05-25,1600,1800,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-06-01,1600,1800,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-06-02,1400,1500,1500,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-07-20,1600,1800,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-08-11,1600,1700,1650,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-09-04,1650,1850,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-10-11,1600,1800,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-10-20,1600,1800,1700,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-10-30,1400,1700,1600,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-12-04,1650,1850,1750,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-12-12,1650,1850,1750,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2009-12-19,1650,1850,1750,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-01-02,1800,2000,1900,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-01-06,1800,2000,1900,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-01-11,1800,2000,1900,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-03-23,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-02,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-09,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-15,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-17,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-21,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-26,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-27,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-04-28,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-04,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-06,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-07,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-12,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-14,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-18,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-24,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-05-25,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-06-05,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-06-14,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-06-17,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-07-01,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-07-03,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-07-07,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-07-13,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-07-26,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-07-29,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-08-13,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-08-20,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-08-21,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-08-24,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-08-29,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-02,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-05,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-06,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-07,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-15,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-16,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-19,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-22,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-09-30,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-10-02,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-10-10,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-10-14,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-10-15,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-10-17,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-10-20,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-11-11,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-11-14,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-11-23,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-12-04,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-12-07,1600,1800,1700,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-12-12,1800,2000,1900,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2009-12-14,1800,2000,1900,262
+Odisha,Mayurbhanja,Baripada,Beaten Rice,Other,FAQ,2009-12-04,1200,1600,1400,262
+Odisha,Mayurbhanja,Baripada,Beaten Rice,Other,FAQ,2009-12-13,1200,1600,1400,262
+Odisha,Mayurbhanja,Baripada,Beaten Rice,Other,FAQ,2009-12-30,1200,1600,1400,262
+Odisha,Mayurbhanja,Baripada,Beaten Rice,Other,FAQ,2009-12-31,1200,1600,1400,262
+Odisha,Sundergarh,Panposh,Beaten Rice,Other,FAQ,2009-03-19,1200,1400,1300,262
+Rajasthan,Ajmer,Vijaynagar,Beaten Rice,Other,FAQ,2009-03-17,1600,1750,1650,262
+Uttar Pradesh,Aligarh,Khair,Beaten Rice,Other,FAQ,2009-10-27,1600,1640,1610,262
+Uttar Pradesh,Aligarh,Khair,Beaten Rice,Other,FAQ,2009-11-07,1560,1600,1575,262
+Uttar Pradesh,Aligarh,Khair,Beaten Rice,Other,FAQ,2009-12-04,1590,1620,1605,262
+Uttar Pradesh,Aligarh,Khair,Beaten Rice,Other,FAQ,2009-12-10,1550,1600,1570,262
+Uttar Pradesh,Aligarh,Khair,Beaten Rice,Other,FAQ,2009-12-20,1545,1580,1560,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-05-10,1400,1500,1450,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-06-07,1400,1500,1450,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-07-04,1400,1500,1450,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-07-19,1450,1500,1475,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-08-06,1400,1450,1425,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-09-05,1450,1500,1475,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-09-06,1450,1500,1475,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-10-09,1450,1470,1460,262
+Assam,Barpeta,Bohorihat,Beaten Rice,Other,FAQ,2007-12-20,1420,1460,1435,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-01-09,1200,1800,1480,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-01-25,1200,1800,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-02-21,1200,1800,1400,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-03-08,1200,1800,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-03-13,1200,1800,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-03-26,1200,1800,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-04-27,1200,1800,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-05-29,1500,1600,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-06-06,1200,1800,1550,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-06-19,1600,1800,1650,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-07-13,1650,1700,1650,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-07-17,1600,1800,1650,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-08-31,1100,1800,1300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-10-05,1500,1800,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-10-11,1600,2000,1700,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-11-19,1400,1700,1600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-12-07,1400,1600,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-12-11,1500,1600,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-12-13,1500,1600,1500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2007-12-26,1400,1600,1500,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-03-14,1150,1200,1200,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-03-28,1150,1200,1200,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-04-07,1150,1200,1200,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-04-11,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-05-08,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-06-10,1250,1350,1350,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-07-02,1250,1350,1350,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-07-08,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-07-13,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-08-11,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-10-17,1300,1400,1400,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-11-03,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-11-09,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-11-24,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-12-05,1200,1300,1300,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2007-12-10,1200,1300,1300,262
+Jharkhand,Garhwa,Gadhwah,Beaten Rice,Other,FAQ,2007-12-14,1200,1400,1300,262
+Jharkhand,Gumla,Gumla,Beaten Rice,Other,FAQ,2007-04-28,800,1200,1000,262
+Odisha,Kalahandi,Kesinga,Beaten Rice,Other,FAQ,2007-05-19,312,400,312,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-07-10,500,700,550,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-07-11,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-07-14,500,700,550,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-07-26,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-08-12,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-08-29,500,700,600,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-09-19,500,700,600,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-09-23,500,700,600,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-10-24,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-11-24,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2007-12-24,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Medium Fine,FAQ,2007-04-18,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Medium Fine,FAQ,2007-05-10,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Medium Fine,FAQ,2007-08-03,500,600,500,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Medium Fine,FAQ,2007-08-24,600,700,600,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Medium Fine,FAQ,2007-08-25,600,700,600,262
+Odisha,Sambalpur,Sambalpur,Beaten Rice,Other,FAQ,2007-01-01,1180,1250,1200,262
+Odisha,Sambalpur,Sambalpur,Beaten Rice,Other,FAQ,2007-01-27,1180,1400,1200,262
+Odisha,Sambalpur,Sambalpur,Beaten Rice,Other,FAQ,2007-02-19,1200,1400,1200,262
+Odisha,Sambalpur,Sambalpur,Beaten Rice,Other,FAQ,2007-03-24,1150,1400,1200,262
+Odisha,Sambalpur,Sambalpur,Beaten Rice,Other,FAQ,2007-04-28,1180,1400,1200,262
+Odisha,Sambalpur,Sambalpur,Beaten Rice,Other,FAQ,2007-10-07,1400,1600,1400,262
+Odisha,Sundergarh,Panposh,Beaten Rice,Beaten Rice,FAQ,2007-01-16,1000,1200,1100,262
+Odisha,Sundergarh,Panposh,Beaten Rice,Beaten Rice,FAQ,2007-02-23,1200,1400,1300,262
+Odisha,Sundergarh,Panposh,Beaten Rice,Other,FAQ,2007-02-26,400,550,550,262
+Odisha,Sundergarh,Panposh,Beaten Rice,Other,FAQ,2007-04-18,1200,1400,1300,262
+Odisha,Sundergarh,Panposh,Beaten Rice,Other,FAQ,2007-04-29,1100,1300,1200,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-01-02,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-01-04,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-01-14,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-01-16,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-01-24,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-01-30,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-02-05,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-02-08,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-02-11,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-02-13,2500,3350,2950,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-02-16,2450,3400,2925,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-02-21,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-03-12,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-03-15,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-03-19,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-03-27,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-03-30,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-04-08,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-05-02,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-05-03,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-05-07,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-05-15,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-05-20,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-05-23,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-05-28,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-06-03,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-06-08,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-06-10,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-06-13,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-06-14,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-06-17,2500,3300,2900,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-07-02,2500,3200,2850,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-07-24,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-07-28,2400,3600,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-07-29,2400,3600,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-07-30,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-08-02,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-08-05,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-08-07,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-08-20,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-08-31,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-09-02,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-09-05,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-09-12,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-09-21,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-09-28,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-10-10,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-10-14,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-12-03,2300,3600,2750,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Beaten Rice,FAQ,2019-12-25,2400,3600,3000,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-01-14,2600,2800,2700,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-01-19,2650,2800,2700,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-02-12,2500,2800,2800,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-02-13,2500,2900,2800,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-03-27,2620,2850,2720,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-03-29,2620,2900,2750,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-04-04,2700,2800,2750,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-04-05,2700,2800,2750,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-04-09,2700,2800,2750,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-04-19,2710,2850,2750,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-04-26,2500,2720,2630,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-05-24,2600,2900,2750,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-05-28,2500,2750,2600,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-07-08,2500,2720,2650,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-07-09,2500,2700,2650,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-07-11,2500,2700,2600,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-07-17,2530,2700,2600,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-07-22,2550,2800,2650,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-08-28,2550,2800,2650,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-08-29,2550,2800,2650,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-09-30,2700,2900,2800,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-10-14,2520,2700,2610,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-10-25,2600,2900,2800,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-11-14,2600,2800,2650,262
+Assam,Nagaon,Dhing,Beaten Rice,Beaten Rice,FAQ,2019-11-22,2550,2750,2700,262
+Madhya Pradesh,Alirajpur,Jobat,Beaten Rice,Other,FAQ,2019-05-08,1000,1200,1100,262
+Odisha,Mayurbhanja,Baripada,Beaten Rice,Other,FAQ,2019-07-08,2500,2800,2600,262
+Odisha,Mayurbhanja,Baripada,Beaten Rice,Other,FAQ,2019-10-05,2600,3000,2800,262
+Assam,Dhemaji,Silapathar,Beaten Rice,Beaten Rice,FAQ,2015-04-29,2810,4010,3200,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-03-18,2300,2700,2500,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-03-19,2300,2700,2500,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-03-28,2000,2800,2500,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-03-30,2000,2800,2500,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-04-17,2000,2500,2200,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-08-24,1950,2100,2000,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-08-25,1850,2100,2000,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-08-31,1900,2000,1950,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-09-19,1850,2150,2000,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-09-22,1850,2100,2000,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-10-03,2000,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-10-12,2000,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-10-16,2000,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-10-26,1950,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-10-27,2000,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-11-12,2000,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-11-16,2000,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-11-27,2000,2200,2100,262
+Assam,Jorhat,Jorhat,Beaten Rice,Other,FAQ,2015-12-11,1980,2200,2100,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-01-05,2400,2600,2500,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-01-08,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-01-13,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-01-17,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-01-19,2400,2800,2600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-01-21,2100,2500,2350,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-01-28,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-01,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-02,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-03,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-05,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-08,2100,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-12,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-13,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-14,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-17,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-23,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-26,2200,2800,2600,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-02-28,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-03-01,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-03-03,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-03-10,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-03-15,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-03-16,2200,2400,2300,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-03-29,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-01,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-02,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-06,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-07,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-20,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-23,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-27,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-04-28,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-05-13,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-05-15,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-05-26,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-05-27,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-05-30,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-05-31,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-06-09,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-06-11,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-06-18,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-06-22,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-06-25,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-06-29,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-07-06,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-07-08,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-07-09,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-07-10,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-07-19,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-07-30,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-08-18,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-08-28,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-08-29,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-09-03,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-09-06,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-09-13,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-09-14,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-09-21,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-10-06,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-10-12,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-10-14,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-10-16,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-10-27,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-10-31,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-11-18,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-11-20,2200,3800,3000,262
+Assam,Kamrup,P.O. Uparhali Guwahati,Beaten Rice,Other,FAQ,2015-12-21,2200,3800,3000,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-02-04,3500,4500,4000,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-02-06,3500,4500,4000,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-03-24,3500,4500,4000,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-03-25,3200,4000,3500,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-04-06,3300,4000,3800,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-05-26,3500,4500,4000,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-05-31,3500,4200,3800,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-06-20,4000,4500,4200,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-08-28,4000,5000,4500,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-10-03,4200,4700,4500,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-10-07,4200,4800,4500,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-10-09,4200,4800,4500,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-11-03,4200,4700,4500,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-11-04,4300,4800,4400,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-11-15,4200,4800,4500,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-11-25,4000,4500,4200,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-11-28,4100,4500,4200,262
+Assam,Tinsukia,Tinsukia,Beaten Rice,Other,FAQ,2015-11-30,3500,4200,4000,262
+Chattisgarh,Koria,Baikunthpur,Beaten Rice,Other,FAQ,2015-11-26,600,600,600,262
+Chattisgarh,Koria,Manendragarh,Beaten Rice,Other,FAQ,2015-04-16,800,800,800,262
+Chattisgarh,Koria,Manendragarh,Beaten Rice,Other,FAQ,2015-09-12,850,850,850,262
+Chattisgarh,Koria,Manendragarh,Beaten Rice,Other,FAQ,2015-11-23,850,850,850,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-01-17,2400,2900,2745,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-02-13,2500,2800,2755,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-04-19,2500,2800,2755,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-08-17,2500,2800,2755,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-08-27,2500,3000,2865,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-09-25,2500,2800,2765,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-10-24,2500,2800,2750,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-11-09,2500,2800,2695,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-11-16,2500,2800,2685,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-11-17,2500,2800,2750,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-11-23,2500,2800,2745,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-12-02,2500,2800,2630,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-12-22,2500,2800,2740,262
+Jharkhand,Dhanbad,Dhanbad,Beaten Rice,Other,FAQ,2015-12-24,2500,2800,2685,262
+Odisha,Rayagada,Rayagada(Muniguda),Beaten Rice,Beaten Rice,FAQ,2015-01-05,1600,1800,1800,262
+Odisha,Mayurbhanja,Baripada,Beaten Rice,Other,FAQ,2020-03-24,2500,3000,2800,262

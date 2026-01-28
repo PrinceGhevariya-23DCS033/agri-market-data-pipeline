@@ -1,0 +1,55 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Himachal Pradesh,Kangra,Kangra,Persimon(Japani Fal),Other,Medium,2007-09-22,1000,1200,1100,327
+Himachal Pradesh,Kangra,Kangra,Persimon(Japani Fal),Other,Medium,2007-10-06,400,600,500,327
+Himachal Pradesh,Kangra,Kangra,Persimon(Japani Fal),Other,Medium,2007-10-11,300,400,350,327
+Himachal Pradesh,Kangra,Kangra,Persimon(Japani Fal),Other,Medium,2007-10-12,400,600,500,327
+Himachal Pradesh,Kangra,Kangra,Persimon(Japani Fal),Other,Medium,2007-11-01,500,700,600,327
+Himachal Pradesh,Kangra,Kangra(Jassour),Persimon(Japani Fal),Other,Medium,2007-10-04,500,600,550,327
+Himachal Pradesh,Kangra,Kangra(Jassour),Persimon(Japani Fal),Other,Medium,2007-10-09,500,600,550,327
+Himachal Pradesh,Kangra,Kangra(Jassour),Persimon(Japani Fal),Other,Medium,2007-10-17,900,1000,950,327
+Himachal Pradesh,Kangra,Kangra(Jassour),Persimon(Japani Fal),Other,Medium,2007-11-02,600,700,650,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2007-09-14,500,600,550,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2007-09-20,500,600,550,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2007-09-24,500,600,550,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2007-10-01,400,500,450,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2007-11-06,500,1300,900,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-09-18,300,600,450,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-09-27,200,400,300,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-10-04,200,400,300,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-10-16,400,800,600,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-10-17,500,900,700,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-10-19,500,900,700,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-11-06,800,1600,1100,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-11-07,1000,1500,1250,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2007-11-16,1000,1500,1200,327
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Persimon(Japani Fal),Other,Medium,2007-11-06,1800,1800,1800,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2007-09-27,800,900,800,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2007-10-04,800,1000,1000,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2007-10-11,800,1100,1000,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2007-11-01,1300,1700,1700,327
+Himachal Pradesh,Kullu,Bandrol,Persimon(Japani Fal),Other,Medium,2017-09-19,2500,3000,2800,327
+Himachal Pradesh,Kullu,Bandrol,Persimon(Japani Fal),Other,Medium,2017-09-28,1400,2800,2000,327
+Himachal Pradesh,Kullu,Bandrol,Persimon(Japani Fal),Other,Medium,2017-09-29,1000,2300,1600,327
+Himachal Pradesh,Kullu,Bandrol,Persimon(Japani Fal),Other,Medium,2017-10-17,1500,3900,2700,327
+Himachal Pradesh,Kullu,Bandrol,Persimon(Japani Fal),Other,Medium,2017-10-18,1600,3600,2600,327
+Himachal Pradesh,Kullu,Bandrol,Persimon(Japani Fal),Other,Medium,2017-10-30,1000,2500,1700,327
+Himachal Pradesh,Kullu,Bandrol,Persimon(Japani Fal),Other,Medium,2017-11-01,1500,2600,2000,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2017-10-23,3000,3800,3400,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2017-10-25,3000,4000,3500,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2017-10-29,3500,3700,3600,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2017-11-02,6000,7000,6500,327
+Himachal Pradesh,Kullu,Bhuntar,Persimon(Japani Fal),Other,Medium,2017-11-15,6000,6500,6300,327
+Himachal Pradesh,Kullu,Kullu,Persimon(Japani Fal),Other,Medium,2017-11-03,1000,2500,1700,327
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Persimon(Japani Fal),Other,Medium,2017-10-13,1900,2200,2000,327
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Persimon(Japani Fal),Other,Medium,2017-10-25,2000,2500,2200,327
+Himachal Pradesh,Kullu,Kullu(Chauri Bihal),Persimon(Japani Fal),Other,Medium,2017-10-27,500,3000,1900,327
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Persimon(Japani Fal),Other,Medium,2017-10-07,1500,2500,2000,327
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Persimon(Japani Fal),Other,Medium,2017-10-09,2500,3500,3250,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2017-09-25,1000,2000,1500,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2017-09-29,1800,3500,2000,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2017-10-17,1500,4500,3500,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2017-11-02,3000,4200,3800,327
+Himachal Pradesh,Mandi,Mandi(Mandi),Persimon(Japani Fal),Other,Medium,2017-12-01,3000,4500,3700,327
+Himachal Pradesh,Mandi,Mandi(Takoli),Persimon(Japani Fal),Persimon(Japani Fal),Medium,2017-09-14,1000,3500,2500,327
+Himachal Pradesh,Mandi,Mandi(Takoli),Persimon(Japani Fal),Persimon(Japani Fal),Medium,2017-09-24,2000,3000,2500,327
+Himachal Pradesh,Mandi,Mandi(Takoli),Persimon(Japani Fal),Persimon(Japani Fal),Medium,2017-10-17,1000,3500,2500,327

@@ -1,0 +1,70 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Chattisgarh,Bastar,Jagdalpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-05-24,925,975,950.0,371
+Chattisgarh,Bastar,Jagdalpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-06-20,675,700,688.0,371
+Chattisgarh,Bastar,Jagdalpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-07-13,800,1000,900.0,371
+Chattisgarh,Bastar,Jagdalpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-07-14,1180,1190,1185.0,371
+Chattisgarh,Bastar,Jagdalpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-07-31,1141,1256,1198.0,371
+Chattisgarh,Dantewada,Gidam,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-09-09,700,900,800.0,371
+Chattisgarh,Dantewada,Gidam,Mahua Seed(Hippe seed),Other,FAQ,2006-08-28,670,700,680.0,371
+Chattisgarh,Koria,Manendragarh,Mahua Seed(Hippe seed),Other,FAQ,2006-07-20,1000,1000,1000.0,371
+Chattisgarh,Koria,Manendragarh,Mahua Seed(Hippe seed),Other,FAQ,2006-09-20,1000,1000,1000.0,371
+Chattisgarh,Narayanpur,Narayanpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-07-31,900,1000,900.0,371
+Chattisgarh,Narayanpur,Narayanpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-27,800,1000,900.0,371
+Chattisgarh,Narayanpur,Narayanpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-28,900,1000,900.0,371
+Chattisgarh,Narayanpur,Narayanpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-09-02,800,1000,900.0,371
+Chattisgarh,Raipur,Raipur,Mahua Seed(Hippe seed),Other,FAQ,2006-06-15,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-07-11,650,750,700.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-07-15,575,625,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-11,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-18,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-19,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-24,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-10-17,690,710,700.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-06-03,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-06-09,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-06-14,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-06-27,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-07-17,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-07-20,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-07-21,500,700,600.0,371
+Chattisgarh,Sukma,Konta,Mahua Seed(Hippe seed),Other,FAQ,2006-10-17,690,710,700.0,371
+Madhya Pradesh,Shehdol,Shahdol,Mahua Seed(Hippe seed),Other,FAQ,2006-07-10,1000,1000,1000.0,371
+Madhya Pradesh,Shehdol,Shahdol,Mahua Seed(Hippe seed),Other,FAQ,2006-07-17,1175,1175,1175.0,371
+Madhya Pradesh,Shehdol,Shahdol,Mahua Seed(Hippe seed),Other,FAQ,2006-07-20,900,900,900.0,371
+Madhya Pradesh,Shehdol,Shahdol,Mahua Seed(Hippe seed),Other,FAQ,2006-07-24,900,900,900.0,371
+Madhya Pradesh,Shehdol,Shahdol,Mahua Seed(Hippe seed),Other,FAQ,2006-08-22,1000,1000,1000.0,371
+Odisha,Kalahandi,Bhawanipatna,Mahua Seed(Hippe seed),Other,FAQ,2006-03-26,700,750,750.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-04,1000,1200,1000.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-08-20,900,1100,1000.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2006-11-02,1000,1200,1000.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2006-11-19,500,550,525.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2006-11-21,500,550,525.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2006-12-03,1000,1200,1000.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2006-12-04,1000,1100,1050.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2006-12-22,365,600,500.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2006-12-27,800,900,850.0,371
+Chattisgarh,Bastar,Jagdalpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2007-09-07,350,1005,978.0,371
+Chattisgarh,Bilaspur,Pendraroad,Mahua Seed(Hippe seed),Other,FAQ,2007-04-08,1500,1500,1500.0,371
+Chattisgarh,Jashpur,Kunkuri,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2007-09-15,1000,1000,1000.0,371
+Chattisgarh,Jashpur,Pathalgaon,Mahua Seed(Hippe seed),Other,FAQ,2007-08-05,1000,1000,1000.0,371
+Chattisgarh,Koria,Manendragarh,Mahua Seed(Hippe seed),Other,FAQ,2007-08-11,800,800,800.0,371
+Chattisgarh,Narayanpur,Narayanpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2007-07-11,700,800,800.0,371
+Chattisgarh,Narayanpur,Narayanpur,Mahua Seed(Hippe seed),Mahua Seed,FAQ,2007-07-14,800,900,800.0,371
+Chattisgarh,Narayanpur,Narayanpur,Mahua Seed(Hippe seed),Other,FAQ,2007-08-06,1000,1200,1000.0,371
+Madhya Pradesh,Shehdol,Shahdol,Mahua Seed(Hippe seed),Other,FAQ,2007-07-13,1000,1000,1000.0,371
+Madhya Pradesh,Shehdol,Shahdol,Mahua Seed(Hippe seed),Other,FAQ,2007-08-16,1500,1500,1500.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-07-03,700,800,750.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-07-19,800,900,850.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-07-21,700,800,750.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-09-01,800,850,830.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-09-03,750,800,780.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-09-11,700,800,750.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-09-15,700,800,750.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-09-18,700,752,730.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-09-26,700,750,730.0,371
+Odisha,Malkangiri,Malkanagiri,Mahua Seed(Hippe seed),Other,FAQ,2007-10-12,700,750,730.0,371
+Odisha,Malkangiri,Malkangiri(Korakunda),Mahua Seed(Hippe seed),Other,FAQ,2007-07-09,700,800,750.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2007-03-17,700,900,800.0,371
+Odisha,Rayagada,Gunpur,Mahua Seed(Hippe seed),Other,FAQ,2007-10-24,1700,1900,1800.0,371
+Odisha,Rayagada,Rayagada(Muniguda),Mahua Seed(Hippe seed),Mahua Seed,FAQ,2007-10-03,900,1000,900.0,371
+Odisha,Rayagada,Rayagada(Muniguda),Mahua Seed(Hippe seed),Mahua Seed,FAQ,2007-11-26,900,1000,900.0,371

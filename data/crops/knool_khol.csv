@@ -1,0 +1,1025 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Andaman and Nicobar,North and Middle Andaman ,Diglipur,Knool Khol,Other,FAQ,2015-10-28,3000,4000,3500,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-01-01,300,400,350,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-01-09,200,300,250,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-01-10,300,400,350,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-01-30,300,400,350,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-02-07,300,400,350,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-02-09,200,300,250,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-02-11,300,400,350,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-02-17,300,400,350,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-02-20,200,300,250,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-02-21,200,400,300,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-03-02,200,300,250,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-03-06,200,400,300,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-03-14,400,600,500,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-03-21,600,700,650,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-03-25,400,500,450,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-03-30,600,700,650,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-11-17,1800,2000,1900,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-11-18,1200,1300,1250,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-11-19,1000,1200,1100,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-11-21,1000,1200,1100,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-11-24,800,1000,900,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-11-25,800,900,850,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-12-10,1000,1200,1100,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-12-28,1200,1400,1300,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-12-29,1200,1400,1300,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-12-30,1200,1400,1300,177
+Assam,Darrang,Kharupetia,Knool Khol,Other,FAQ,2015-12-31,1000,1200,1100,177
+Himachal Pradesh,Kangra,Kangra,Knool Khol,Other,FAQ,2015-01-07,1000,1200,1100,177
+Himachal Pradesh,Kangra,Kangra,Knool Khol,Other,FAQ,2015-01-16,800,1000,900,177
+Himachal Pradesh,Kangra,Kangra,Knool Khol,Other,FAQ,2015-01-23,800,1000,900,177
+Himachal Pradesh,Kangra,Kangra,Knool Khol,Other,FAQ,2015-02-02,1000,1200,1100,177
+Himachal Pradesh,Kangra,Kangra,Knool Khol,Other,FAQ,2015-02-10,1000,1200,1100,177
+Himachal Pradesh,Kangra,Kangra,Knool Khol,Other,FAQ,2015-02-20,800,1000,900,177
+Himachal Pradesh,Kangra,Kangra,Knool Khol,Other,FAQ,2015-11-30,800,900,850,177
+Himachal Pradesh,Kangra,Kangra(Jassour),Knool Khol,Other,FAQ,2015-01-27,800,1000,900,177
+Himachal Pradesh,Kangra,Kangra(Jassour),Knool Khol,Other,FAQ,2015-02-11,1200,1300,1250,177
+Himachal Pradesh,Kangra,Kangra(Jassour),Knool Khol,Other,FAQ,2015-02-13,700,800,750,177
+Himachal Pradesh,Kangra,Kangra(Jassour),Knool Khol,Other,FAQ,2015-02-18,800,900,850,177
+Himachal Pradesh,Kangra,Kangra(Jassour),Knool Khol,Other,FAQ,2015-03-17,700,800,750,177
+Himachal Pradesh,Kangra,Kangra(Jassour),Knool Khol,Other,FAQ,2015-04-02,1000,1200,1100,177
+Himachal Pradesh,Kangra,Palampur,Knool Khol,Other,FAQ,2015-02-12,1000,1200,1100,177
+Himachal Pradesh,Kangra,Palampur,Knool Khol,Other,FAQ,2015-03-25,1200,1400,1300,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2015-01-01,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2015-01-02,1000,1200,1000,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-01-10,900,1300,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-01-13,700,1200,900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-01-14,700,1200,1000,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-01-15,800,1300,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-01-17,900,1400,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-02-14,800,1300,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-03-07,1100,1700,1500,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-03-09,1100,1600,1400,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-03-16,1200,1700,1400,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-03-17,1300,1800,1500,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-06-05,1700,2200,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-06-08,1700,2200,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-06-09,1800,2300,2000,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-06-13,1900,2400,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-06-15,1800,2300,2000,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-06-19,1500,2000,1800,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-06-25,1500,2000,1700,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-07-01,1500,2000,1800,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-07-10,1400,1900,1600,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-07-11,1400,1900,1600,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-07-16,1500,2000,1700,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2015-07-22,1200,1700,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-06-12,2000,2400,2200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-06-13,2000,2400,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-06-17,2200,2600,2400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-07-07,3000,3400,3200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-07-22,3400,4000,3600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-07-26,2400,2800,2600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-08-26,800,1200,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-09-01,1000,1200,1100,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-09-03,1000,1400,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-09-06,1000,1200,1100,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-09-10,800,1200,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-09-22,1000,1400,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-09-26,800,1200,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-10-07,1000,1200,1100,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-10-13,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-10-14,1500,1700,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-10-16,2000,2400,2200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-10-20,3600,4000,3800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-10-28,3000,4000,3500,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-10-30,3200,3600,3400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-11-19,3600,4000,3800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-11-20,3000,3200,3100,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-11-25,3800,4000,3900,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-11-28,3600,4000,3800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,Medium,2014-12-22,1200,1600,1400,177
+Karnataka,Bellary,Hospet,Knool Khol,Knool Khol,Medium,2014-10-28,4000,4000,4000,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,Medium,2014-01-22,400,650,500,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,Medium,2014-01-24,480,800,600,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-01-23,300,600,450,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-02-06,700,800,750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-02-18,400,500,450,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-03-05,400,600,500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-03-16,400,600,500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-03-17,400,600,500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-03-20,400,600,500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-03-24,400,700,550,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-03-26,400,600,500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-04-05,600,800,750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-04-19,1500,1600,1550,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-04-26,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-04-30,600,1000,800,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-05-05,800,1200,1000,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-05-06,800,1200,1000,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-05-28,700,1000,850,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-05-31,800,1000,900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-03,800,1100,950,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-04,800,1200,1000,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-07,800,1000,900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-08,700,1000,850,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-09,800,1000,900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-10,800,1100,950,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-17,1000,1500,1200,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-06-30,1000,1800,1400,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-07-05,1000,1500,1250,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-07-26,1200,1800,1500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-07-27,1400,1900,1650,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-07-31,1200,1700,1500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-08-03,2000,2500,2250,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-08-12,1500,2100,1800,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-08-14,1500,2000,1700,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-08-17,1300,1800,1500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-08-25,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-03,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-06,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-16,1500,2000,1750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-18,1000,1500,1250,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-25,1000,1500,1250,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-27,800,1000,900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-28,800,1000,900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-09-30,800,1000,900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-10-12,1500,2000,1750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-10-13,1000,1100,1050,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-10-20,500,1000,750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-10-21,700,800,750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-10-27,1200,1500,1350,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-11-05,2500,3000,2750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-11-06,2500,3000,2750,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-12-03,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-12-09,600,800,700,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-12-18,1200,1400,1300,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-12-21,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-12-29,1500,1600,1550,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-01-04,700,900,800,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-01-06,700,900,800,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-01-15,500,600,550,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-01-19,600,700,650,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-01-25,400,500,450,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-01-30,400,500,450,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-02-11,500,700,600,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-02-16,600,700,650,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-03-09,500,700,600,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-03-30,600,800,700,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-04-09,600,800,700,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-04-12,600,700,650,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-04-20,1300,1400,1300,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-04-26,1400,1700,1500,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-05-05,1400,1600,1500,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-05-10,1500,1700,1600,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-05-19,2000,2500,2250,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-05-28,1200,1400,1300,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-07-31,2000,2500,2250,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-08-10,2000,2500,2250,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-08-12,2400,2600,2500,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-08-13,2000,2500,2250,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-08-14,2200,2600,2400,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-08-31,1700,2000,1800,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-09-03,2500,3500,2800,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-09-09,2000,2200,2100,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-09-14,1600,2200,1800,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-09-24,1100,1300,1200,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-10-16,1800,2000,1900,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-10-22,1800,2200,2000,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-10-29,1400,1600,1500,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-11-02,1200,1600,1400,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-11-06,2800,3200,3000,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-11-24,1200,1600,1400,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-11-30,1800,2000,1900,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-12-03,1800,2000,1900,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-12-04,1700,2000,1800,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-12-09,900,1200,1000,177
+Jammu and Kashmir,Kathua,Kathua,Knool Khol,Other,FAQ,2021-12-17,800,1000,900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-01-11,600,1000,800,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-01-19,600,1000,800,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-02-13,800,1200,1000,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-02-19,800,1000,900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-02,1000,1400,1200,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-04,1000,1200,1100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-05,1100,1300,1200,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-08,1000,1200,1100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-09,1000,1200,1100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-10,1000,1200,1100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-13,1000,1200,1100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-16,1000,1200,1100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-24,1000,1400,1200,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-03-25,1200,1400,1300,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-04-20,2000,2200,2100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-04-28,1800,2000,1900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-04-29,1800,2000,1900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-05-03,1800,2000,1900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-05-04,1800,2000,1900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-05-15,1800,2000,1900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-05-19,1500,2000,1750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-05-20,1500,1700,1600,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-05-21,1400,1800,1600,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-06-05,1600,1800,1700,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-06-16,1600,1800,1700,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-06-18,1500,2000,1750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-06-23,1600,2000,1800,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-02,1700,1900,1800,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-07,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-09,2500,3000,2750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-12,2800,3400,3100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-20,2500,3000,2750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-23,2000,3000,2500,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-27,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-07-31,2500,3000,2750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-08-10,2800,3200,3000,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-08-12,2800,3000,2900,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-08-16,2500,3000,2750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-08-25,3000,3500,3250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-08-28,2500,3000,2750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-09-24,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-10-11,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-10-18,2000,3000,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-10-27,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-11-02,1500,2000,1750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-11-06,2500,3000,2750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-11-16,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-11-27,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-11-30,2000,2500,2250,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-12-09,1500,2000,1750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-12-11,1500,2000,1750,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-12-23,2000,2200,2100,177
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Knool Khol,Other,FAQ,2021-12-24,2000,2500,2250,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-01-27,1200,1600,1400,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-01-28,1200,1600,1400,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-01-29,1200,1600,1400,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-02-02,1400,1600,1500,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-02-15,800,1000,900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-02-16,800,1000,900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-03-04,1800,2200,2000,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-03-17,1500,1800,1650,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-03-18,1500,1800,1650,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-03-22,1600,1800,1700,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-03-24,1200,1500,1350,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-04-01,1600,1800,1700,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-04-03,2000,2200,2100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-04-24,2200,2500,2350,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-04-28,2000,2200,2100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-05-01,2500,3500,3000,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-05-05,3000,3800,3400,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-05-06,3000,3500,3250,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-05-18,2500,3000,2750,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-05-27,1500,1700,1600,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-06-02,1400,1600,1500,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-06-04,2000,2500,2250,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-06-07,1400,1600,1500,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-06-14,1800,2000,1900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-06-30,1800,2000,1900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-07-15,1500,1600,1550,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-07-16,1200,1400,1300,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-08-17,1800,2000,1900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-08-20,1000,1200,1100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-09-09,1000,1200,1100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-09-28,1000,1200,1100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-09-29,1200,1400,1300,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-09-30,800,1000,900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-10-25,1000,1200,1100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-11-05,800,1000,900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-11-10,1500,1800,1650,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-11-16,1000,1200,1100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-11-17,1000,1200,1100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-11-27,800,1000,900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-12-03,1000,1200,1100,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-12-07,1400,1500,1450,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-12-09,800,1000,900,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-12-13,1200,1400,1300,177
+Jammu and Kashmir,Srinagar,Parimpore,Knool Khol,Other,FAQ,2021-12-16,1400,1500,1450,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-02-09,1500,1800,1600,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-02-22,1500,1800,1600,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-03-01,1400,1600,1500,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-03-05,1200,1500,1300,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-03-20,1500,2000,1800,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-03-29,1200,1500,1300,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-04-05,1300,1500,1400,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-04-16,1500,1800,1700,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-04-20,1600,1800,1700,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-05-01,1200,1400,1300,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-05-04,1500,1800,1600,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-05-05,1200,1500,1400,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-05-18,1500,1800,1600,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-06-23,1300,1500,1400,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-06-26,1300,1600,1500,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-07-05,1300,1700,1500,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-07-10,1800,2200,2000,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-07-13,1600,2000,1800,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-07-16,1500,1800,1600,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-07-30,1200,1500,1300,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-08-10,1800,2000,1800,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-09-02,1500,2000,1800,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-09-08,1800,2000,1800,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-09-20,1800,2200,2000,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-10-18,1500,1800,1600,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-11-08,2300,2600,2500,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-11-16,2300,2700,2500,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-11-17,2300,2700,2500,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-11-30,1500,1800,1600,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-12-03,1800,2000,2000,177
+Jammu and Kashmir,Udhampur,Reasi,Knool Khol,Other,FAQ,2021-12-08,1500,1800,1700,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-01-05,1000,1200,1100,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-01-08,700,900,800,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-01-28,800,1200,1000,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-02-04,900,1100,1000,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-02-06,700,900,800,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-02-17,700,900,800,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-02-23,700,900,800,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-02-24,700,900,800,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-03-06,500,700,600,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-03-25,600,800,700,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-03-31,600,800,700,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-04-06,600,800,700,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-04-10,1000,1400,1200,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-04-20,800,1200,1000,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-04-27,2000,2500,2300,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-05-04,2500,3000,2800,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-05-06,2000,3000,2500,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-08-26,1400,1800,1600,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-10-07,1000,1500,1200,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-11-17,1500,2000,1700,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-11-18,1300,2000,1700,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-11-27,1500,2000,1700,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-11-30,1500,2000,1750,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-12-09,1200,1800,1500,177
+Jammu and Kashmir,Udhampur,Udhampur,Knool Khol,Other,FAQ,2021-12-30,1800,2200,2000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-01-11,1000,1200,1100,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-01-12,800,1000,900,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-01-15,850,950,900,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-02-02,1200,1400,1300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-02-03,1100,1300,1200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-02-08,2000,2500,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-02-12,2100,2500,2300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-03-06,1500,1700,1600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-03-10,1400,1600,1500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-03-18,1200,1400,1300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-03-20,1200,1400,1300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-03-23,1100,1300,1200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-04-06,1100,1300,1200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-04-08,1100,1300,1200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-04-09,1200,1400,1300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-04-29,1400,1800,1600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-05-05,1400,2000,1600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-05-19,1600,2000,1800,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-05-20,1800,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-05-31,2500,3500,3000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-02,3000,4000,3500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-03,3000,4000,3500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-07,1400,1800,1600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-10,1200,1700,1500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-21,1800,2200,2000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-22,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-23,2100,2400,2300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-06-24,2400,2800,2600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-07-08,1400,2000,1600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-07-14,1000,1400,1200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-07-20,1200,1500,1300,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-07-22,2000,2400,2200,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-08-07,2200,2600,2400,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-08-09,2500,3000,2700,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-08-23,1600,2000,1800,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-08-24,1600,2000,1800,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-08-30,160,2000,1800,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-09-15,1300,1500,1400,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-09-20,1300,1500,1400,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-09-21,1400,1600,1500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-09-30,1400,1600,1500,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-10-11,500,700,600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-10-21,2500,3000,2700,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-10-28,2400,3000,2600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-11-06,4500,5000,4700,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-11-17,4500,5000,4700,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-11-30,4500,5500,5000,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-12-04,4600,5600,5100,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-12-24,5200,6000,5600,177
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Knool Khol,Knool Khol,FAQ,2021-12-29,3700,4100,3900,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-01-08,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-02-03,2000,2400,2200,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-03-04,1400,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-04-29,1500,2400,1800,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-01-06,1200,1300,1250,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-01-19,1100,1200,1100,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-01-25,1300,1400,1350,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-01-26,1200,1400,1300,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-01-30,1100,1200,1100,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-02-07,1000,1050,1000,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-02-20,1400,1600,1500,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-02-21,1200,1300,1250,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-02-24,900,950,900,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-03-06,1000,1050,1000,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-03-11,800,850,800,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-03-13,900,1000,950,177
+Chattisgarh,Bilaspur,Tiphra,Knool Khol,Knool Khol,FAQ,2021-03-21,700,700,700,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-01-02,1800,2000,1900,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-01-09,800,1000,900,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-01-14,1100,1200,1150,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-02-09,1000,1200,1100,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-03-06,1200,1400,1300,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-03-11,1200,1400,1300,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-03-16,1000,1400,1200,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-03-17,1200,1400,1300,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-03-20,800,1000,900,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-03-21,1000,1200,1100,177
+Chattisgarh,Durg,Durg,Knool Khol,Knool Khol,FAQ,2021-03-23,1500,1600,1550,177
+Jammu and Kashmir,Anantnag,Kulgam,Knool Khol,Knool Khol,FAQ,2021-02-01,1550,1650,1600,177
+Jammu and Kashmir,Anantnag,Kulgam,Knool Khol,Knool Khol,FAQ,2021-02-09,1300,1300,1300,177
+Jammu and Kashmir,Anantnag,Kulgam,Knool Khol,Knool Khol,FAQ,2021-02-11,1470,1530,1500,177
+Jammu and Kashmir,Anantnag,Kulgam,Knool Khol,Knool Khol,FAQ,2021-02-24,1170,1230,1200,177
+Jammu and Kashmir,Anantnag,Kulgam,Knool Khol,Knool Khol,FAQ,2021-03-04,1150,1250,1200,177
+Jammu and Kashmir,Anantnag,Kulgam,Knool Khol,Knool Khol,FAQ,2021-03-13,1400,1600,1500,177
+Jammu and Kashmir,Anantnag,Kulgam,Knool Khol,Knool Khol,FAQ,2021-04-27,1900,2100,2000,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-04,800,1000,900,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-05,800,1200,1000,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-09,800,1000,900,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-18,600,1000,800,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-19,500,900,700,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-21,500,800,650,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-23,600,800,700,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-01-30,500,700,600,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-02-01,700,800,750,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-02-02,700,800,750,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-02-05,700,900,800,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-02-17,600,800,700,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-02-18,700,800,750,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-02-24,600,1000,800,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-02-26,600,1000,800,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-03-05,400,500,450,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-03-08,400,600,500,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-03-18,400,600,500,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-03-26,600,800,700,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-04-12,600,1000,800,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-04-16,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-04-19,1200,1400,1300,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-05-03,1200,1600,1400,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-05-05,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-05-06,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Akhnoor,Knool Khol,Other,FAQ,2021-05-11,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-01-04,1200,1400,1300,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-01-11,1100,1300,1200,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-01-29,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-02-06,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-02-15,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-02-19,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-03-05,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-03-16,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-03-22,1000,1200,1100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-03-27,1100,1300,1200,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-04-06,1200,1400,1300,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-04-16,1300,1500,1400,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-05-05,1400,1600,1500,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-05-18,1400,1600,1500,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-06-09,1600,1800,1700,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-06-10,1500,1700,1600,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-06-14,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-06-17,1400,1600,1500,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-06-23,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-06-24,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-06-30,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-07-07,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-07-08,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-07-23,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-08-11,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-08-20,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-08-21,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-08-23,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-08-31,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-09-09,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-09-15,2200,2400,2300,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-09-21,2100,2300,2200,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-09-22,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-09-25,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-09-28,1800,2000,1900,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-10-07,1600,1800,1700,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-10-16,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-10-25,1600,1800,1700,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-10-29,1600,1800,1700,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-11-06,2200,2400,2300,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-11-13,2000,2400,2200,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-11-22,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-11-23,2000,2200,2100,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-11-26,1800,2200,2000,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-12-03,1600,1800,1700,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-12-06,1500,1700,1600,177
+Jammu and Kashmir,Jammu,Batote,Knool Khol,Other,FAQ,2021-12-17,1500,1700,1600,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-01-07,300,600,450,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-01-14,300,600,450,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-01-16,400,600,500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-01-18,300,600,500,177
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Knool Khol,Other,FAQ,2021-01-19,400,600,500,177
+Tripura,South District,Barpathari,Knool Khol,Knool Khol,FAQ,2021-02-15,1000,1200,1100,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-01,2250,2500,2300,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-07,1800,2200,2000,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-09,2050,2400,2200,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-12,1800,2050,2000,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-15,1950,2200,2000,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-16,1800,2200,2000,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-19,1050,1250,1200,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-22,750,860,800,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-26,650,720,700,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-01-27,650,720,700,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-02-02,750,850,800,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-02-18,560,650,600,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-02-23,560,650,600,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-02-28,450,520,500,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-03-16,520,580,550,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-12-12,3800,4200,4000,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-12-14,3000,3800,3400,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-12-15,3000,3600,3200,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-12-16,3200,3800,3500,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-12-17,3200,3800,3600,177
+Tripura,Unokoti,Pabiacherra,Knool Khol,Knool Khol,FAQ,2021-12-28,2000,2400,2200,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-01-11,1600,2000,1800,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-01-24,800,950,880,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-01-26,800,900,850,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-01-30,650,750,700,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-01-31,700,780,760,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-02-02,730,800,770,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-02-05,600,700,650,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-02-14,600,650,630,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-02-26,700,780,730,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-04,700,850,800,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-05,800,900,850,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-07,600,700,640,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-08,600,700,650,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-11,600,730,650,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-13,500,580,530,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-14,600,730,650,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-03-16,600,700,660,177
+Tripura,Unokoti,Panichowki,Knool Khol,Knool Khol,FAQ,2021-12-28,2300,2500,2400,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-05-15,800,1800,1000,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-05-18,1500,1800,1600,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-05-19,1300,1800,1500,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-05-21,1300,1500,1400,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-05-27,1800,2800,2300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-06-04,2300,2500,2350,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-06-09,1300,2000,1500,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-06-10,1800,2500,2000,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-07-02,500,600,550,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-07-16,300,400,350,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-07-27,700,900,800,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-07-30,800,1800,1300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-08-06,700,1200,900,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-08-10,800,1200,1000,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-08-14,700,900,800,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-08-18,600,700,650,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-08-27,700,1000,800,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-08-31,500,700,600,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-09-01,500,800,700,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-09-02,1000,1400,1200,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-09-20,900,1300,1000,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-09-24,400,600,500,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-10-21,500,1000,800,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-10-28,2800,3800,3300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-11-05,2800,3300,3000,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-11-08,2300,4800,3500,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-11-12,2800,3800,3300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-11-20,3800,4800,4300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-11-23,2300,3800,3000,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-11-24,3800,4800,4300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-11-30,1300,2300,1800,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-12-04,3800,4800,4300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-12-06,3800,5800,4800,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-12-14,3800,4300,4000,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-12-17,3800,4800,4300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-12-28,1800,2800,2300,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-12-30,1300,1800,1500,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-01-06,1000,1200,1100,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-01-08,900,1000,950,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-01-11,600,800,700,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-01-16,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-01-24,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-02-19,500,600,550,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-02-20,500,600,550,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-02-21,500,600,550,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-02-27,500,600,550,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-03-02,400,500,450,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-03-14,500,600,550,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-03-15,400,500,450,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-04-13,500,600,550,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-04-30,800,900,850,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-06-02,2000,2500,2250,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-06-08,1500,2000,1750,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-06-30,1000,1500,1250,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-07-09,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-07-10,500,600,550,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-07-14,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-07-18,500,800,650,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-07-20,600,800,700,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-07-26,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-08-08,1000,1400,1200,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-08-11,1300,1500,1400,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-08-28,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-08-31,500,1000,750,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-09-07,1500,2000,1750,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-09-08,1800,2000,1900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-09-14,1700,2000,1850,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-09-21,1800,2000,1900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-09-25,1000,1400,1200,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-10-08,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-10-09,800,1000,900,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-10-26,2500,3000,2750,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-11-30,3500,4000,3750,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-12-01,3000,4000,3500,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-12-19,6000,7000,6500,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-12-28,3000,3500,3250,177
+Karnataka,Kolar,Chickkaballapura,Knool Khol,Knool Khol,FAQ,2021-12-31,1400,1500,1450,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-01-31,1000,1500,1250,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-05-25,4000,4500,4250,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-06-08,3000,5000,4000,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-06-24,4000,5000,4500,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-07-02,3000,3500,3250,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-08-19,1000,2000,1500,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-08-20,1500,2000,1750,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-09-07,2000,3000,2500,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-10-25,2000,3000,2500,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-11-07,2000,3000,2500,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-12-04,5000,6000,5500,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-12-07,4000,6000,5000,177
+Karnataka,Kolar,Chintamani,Knool Khol,Knool Khol,FAQ,2021-12-20,7000,8000,7500,177
+Karnataka,Kolar,Gowribidanoor,Knool Khol,Knool Khol,FAQ,2021-03-04,650,800,750,177
+Karnataka,Kolar,Gowribidanoor,Knool Khol,Knool Khol,FAQ,2021-04-30,700,800,750,177
+Karnataka,Kolar,Gowribidanoor,Knool Khol,Knool Khol,FAQ,2021-07-18,600,800,750,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-01-06,600,700,650,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-01-13,400,700,550,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-01-29,1000,1200,1100,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-02-05,1000,1200,1100,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-02-14,1000,1500,1300,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-02-17,1500,2000,1700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-02-28,600,700,650,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-03-04,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-03-11,300,600,400,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-03-24,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-04-04,500,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-04-12,300,500,400,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-04-15,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-04-19,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-05-04,500,800,600,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-05-06,1000,1500,1300,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-05-09,1000,1500,1300,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-05-17,1500,1800,1600,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-05-21,1500,2500,2000,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-05-31,2000,3000,2500,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-06-06,1500,3000,2000,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-06-11,2000,2500,2300,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-07-05,400,500,450,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-07-16,800,1000,900,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-07-18,800,1000,900,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-07-20,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-07-26,800,1000,900,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-06,600,1000,800,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-08,1000,1200,1100,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-12,800,1200,1100,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-15,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-17,600,700,650,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-26,800,1000,900,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-27,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-29,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-08-30,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-09-05,300,600,450,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-09-08,800,1500,1300,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-09-21,600,1000,800,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-10-11,600,800,700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-10-17,1000,1500,1300,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-11-04,4000,4500,4300,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-11-07,4000,5000,4500,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-11-09,1500,4000,2700,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-11-24,4000,5000,4500,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-12-15,2500,5000,3800,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-12-20,4000,5000,4500,177
+Karnataka,Kolar,Kolar,Knool Khol,Knool Khol,FAQ,2021-12-30,1500,2000,1700,177
+Karnataka,Kolar,Mulabagilu,Knool Khol,Knool Khol,FAQ,2021-12-30,1000,1800,1200,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-01-02,1100,1300,1200,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-01-21,1000,1200,1100,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-01-27,1000,1200,1150,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-01-31,1000,1200,1100,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-02-03,1000,1200,1100,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-02-14,1200,1400,1350,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-02-18,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-02-22,1000,1200,1100,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-02-23,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-02-28,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-03-01,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-03-02,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-03-05,800,1000,950,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-03-22,800,1000,950,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-03-26,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-04-01,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-04-08,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-04-11,800,1000,950,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-04-12,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-04-18,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-04-28,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-05-04,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-05-05,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-05-09,800,1000,900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-05-11,800,1000,950,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-05-20,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-05-23,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-05-30,1800,2000,1950,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-06-07,2300,2500,2400,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-06-16,1600,2000,1800,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-06-23,2000,2500,2100,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-06-25,1800,2000,1900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-06-27,1800,2000,1950,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-07-14,1000,1200,1100,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-07-16,800,1000,950,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-07-21,1000,1200,1150,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-07-25,1000,1200,1150,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-08-03,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-08-08,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-08-13,120,1400,1300,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-08-17,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-08-19,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-08-22,1000,1600,1400,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-09-05,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-09-07,1600,1800,1700,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-09-14,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-09-23,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-09-24,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-10-12,1400,1600,1500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-10-29,1400,1600,1550,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-11-01,1800,2000,1900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-11-02,1600,2500,2000,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-11-03,2300,2500,2400,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-11-08,3800,4000,3900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-11-15,2800,3000,2900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-11-22,4000,5000,4500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-11-28,2800,3000,2900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-12-06,2800,3000,2900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-12-12,6000,7000,6500,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-12-14,2800,3000,2900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-12-19,2800,3000,2900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-12-21,2800,3000,2900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-12-26,2800,3000,2900,177
+Karnataka,Mysore,Mysore (Bandipalya),Knool Khol,Knool Khol,FAQ,2021-12-30,2800,3000,2900,177
+Karnataka,Mysore,Nanjangud,Knool Khol,Knool Khol,FAQ,2021-01-03,1000,1250,1150,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-01-02,1800,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-01-03,1500,2000,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-01-05,1500,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-01-06,1200,2000,1800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-01-22,1000,2000,1800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-01-28,1400,2200,1800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-01-30,1800,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-02-05,1500,2500,1800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-02-14,2000,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-02-20,1800,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-03-04,800,800,800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-03-10,1000,1200,1000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-03-11,1400,1500,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-03-13,1000,1500,1200,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-03-18,1000,1200,1000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-04-01,1000,1500,1200,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-04-03,1000,1000,1000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-04-07,800,1500,1000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-04-20,1200,1500,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-05-02,1000,2000,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-05-08,1500,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-05-28,1800,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-06-07,1000,3000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-06-24,2000,2500,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-06-29,2000,3000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-07-02,1500,1500,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-07-09,1000,1500,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-07-13,1500,2000,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-07-18,2000,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-07-20,1000,1000,1000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-07-31,1200,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-08-06,1000,2500,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-09-02,1400,1600,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-09-09,1000,2000,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-09-18,1500,2000,2000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-09-29,1500,2000,1800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-10-06,1000,2000,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-10-17,1500,2000,1800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-10-19,1500,2000,1800,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-10-27,1400,2000,1500,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-11-17,2000,7000,3000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-11-23,4000,6000,6000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-11-24,2500,4500,3000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-11-27,4000,6000,6000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-11-28,4000,8000,7000,177
+Karnataka,Mysore,T. Narasipura,Knool Khol,Knool Khol,FAQ,2021-12-31,2500,2500,2500,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-03-31,200,500,400,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-04-01,600,1000,800,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-04-08,400,700,600,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-07-04,800,1000,1000,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-08-11,1000,1200,1100,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-08-25,600,1300,1000,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-09-30,500,1000,900,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-10-07,500,1000,900,177
+Telangana,Hyderabad,Bowenpally,Knool Khol,Knool Khol,FAQ,2021-10-09,600,800,800,177
+Telangana,Hyderabad,Gudimalkapur,Knool Khol,Knool Khol,FAQ,2021-03-07,800,800,800,177
+Telangana,Hyderabad,Gudimalkapur,Knool Khol,Knool Khol,FAQ,2021-03-10,600,800,700,177
+Telangana,Hyderabad,Gudimalkapur,Knool Khol,Knool Khol,FAQ,2021-03-11,1000,1000,1000,177
+Telangana,Hyderabad,Gudimalkapur,Knool Khol,Knool Khol,FAQ,2021-03-23,600,800,700,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-01-01,1400,1600,1500,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-01-15,2500,3000,2800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-01-16,2000,3000,2500,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-01-21,2000,2200,2100,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-01-23,2000,2500,2200,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-02-02,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-02-06,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-02-09,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-02-13,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-02-14,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-02-21,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-02-22,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-03-02,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-03-05,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-03-08,1500,2000,1800,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-03-11,2000,2500,2200,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-03-12,1200,1500,1350,177
+Tripura,Khowai,Teliamura,Knool Khol,Knool Khol,FAQ,2021-03-17,2000,2300,2200,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-09-22,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-09-23,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-10-12,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-10-13,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-10-21,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-11-02,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-11-06,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-11-11,1500,2000,1800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-11-18,2600,3000,2800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-11-26,2600,3000,2800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-11-29,2600,3000,2800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-12-10,2500,3000,2800,177
+Karnataka,Bangalore,Doddaballa Pur,Knool Khol,Knool Khol,FAQ,2021-12-24,2500,3000,2700,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-02,1400,1800,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-03,1400,1600,1500,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-04,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-07,1200,1800,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-08,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-09,1200,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-14,1000,1600,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-16,1000,1600,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-23,1200,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-25,1200,16000,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-28,1000,1600,1300,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-01-30,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-02-08,2000,2400,2200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-02-17,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-02-20,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-02-21,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-02-26,800,1200,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-03-11,1000,1500,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-03-20,800,1100,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-03-29,800,1200,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-04-11,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-04-12,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-04-18,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-04-20,1000,1600,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-05-05,1000,1600,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-05-06,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-05-07,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-05-16,2400,3200,2800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-05-21,2800,3600,3200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-05-22,2800,3600,3200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-05-25,3200,4000,3600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-06-02,3000,4400,3800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-06-09,2800,3300,3000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-06-10,2800,3400,3000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-06-16,2800,3300,3000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-06-22,2400,3200,2800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-02,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-05,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-06,1000,1600,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-07,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-08,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-09,1200,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-17,800,1200,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-18,800,1300,1000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-20,1000,1400,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-07-22,1000,1600,1200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-01,1600,2400,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-04,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-06,1600,2400,2200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-11,1600,2400,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-16,1400,1800,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-17,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-19,2000,2800,2400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-20,1600,2400,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-21,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-23,1000,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-08-27,1200,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-09-06,1600,2400,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-09-07,1200,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-09-08,1600,2200,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-09-16,1600,2000,1800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-09-18,1600,2400,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-09-20,1600,2200,2000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-09-24,1000,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-10-03,1000,1600,1400,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-10-04,1000,2000,1500,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-10-07,1200,2000,1600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-10-13,2000,3000,2800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-10-24,3000,4000,3600,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-10-25,3600,4400,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-11-01,4000,6000,5000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-11-03,4000,5200,4800,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-11-04,3600,4800,4000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-11-24,4500,7500,6500,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-11-25,4000,6000,5000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-12-12,6000,10000,8000,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-12-13,6000,8000,7200,177
+Karnataka,Bangalore,Ramanagara,Knool Khol,Knool Khol,FAQ,2021-12-25,4000,5500,5000,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-01-01,1200,1600,1400,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-01-14,1200,1400,1300,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-01-29,1200,1600,1400,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-01-30,1000,1400,1200,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-02-04,1200,1600,1400,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-04-05,500,700,600,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-04-22,1000,1400,1200,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-04-27,1500,2000,1800,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-05-07,1000,1200,1100,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-05-10,1300,1500,1400,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-05-11,1300,1500,1400,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-05-17,1500,2300,2000,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-06-24,2000,2700,2300,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-07-31,1500,1800,1600,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-08-10,1400,1600,1500,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-08-18,1400,1700,1550,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-08-24,1500,1700,1600,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-08-30,800,1400,1100,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-08-31,1000,1400,1200,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-09-11,1000,1200,1100,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-09-20,1200,1500,1350,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-09-23,1000,1500,1250,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-11-11,2500,3000,2750,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-12-01,3500,4500,4000,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-12-14,3000,4500,4000,177
+Karnataka,Chamrajnagar,Chamaraj Nagar,Knool Khol,Knool Khol,FAQ,2021-12-29,2500,3000,2750,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-01-01,900,1200,1000,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-01-13,800,1033,833,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-02-08,990,1390,1190,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-02-10,911,1311,1111,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-02-20,1335,1735,1535,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-04-12,990,1390,1190,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-04-16,950,1180,980,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-05-12,911,1311,1111,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-05-26,1288,1488,1388,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-06-11,1467,1867,1667,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-06-14,1090,1290,1190,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-06-28,109,1390,1190,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-07-02,1090,1290,1190,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-07-12,1090,1290,1190,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-07-16,1083,1483,1283,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-08-27,1082,1482,1282,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-08-30,1082,1482,1282,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-09-03,1082,1482,1282,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-10-01,1091,1291,1191,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-10-07,1567,1867,1667,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-10-22,1091,1291,1191,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-11-08,1182,1382,1282,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-11-24,1289,1489,1389,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-12-01,1415,1615,1515,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-12-04,1415,1615,1515,177
+Karnataka,Chikmagalur,Chikkamagalore,Knool Khol,Knool Khol,FAQ,2021-12-29,2281,2481,2381,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-01-06,1400,1800,1600,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-01-12,1400,1800,1600,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-02-11,1000,1500,1300,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-02-20,600,1000,800,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-02-25,1000,1400,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-03-03,1000,1400,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-03-06,1000,1400,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-03-17,800,1200,1000,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-03-18,800,1000,900,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-03-20,1000,1400,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-03-30,800,1200,1000,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-04-08,800,1000,900,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-04-15,800,1200,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-04-16,600,1000,800,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-04-20,800,1000,900,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-05-12,800,1200,1000,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-06-15,1400,1600,1500,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-06-16,1400,1600,1500,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-06-22,1600,2000,1800,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-06-24,1800,2000,1900,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-07-01,1800,2200,2000,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-07-02,1600,2000,1800,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-07-06,1800,2000,1900,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-08-07,1800,2200,2000,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-08-18,1600,2000,1800,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-08-25,1000,1400,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-09-09,1200,1600,1400,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-10-07,1000,1400,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-10-12,1000,1400,1200,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-11-23,1600,2000,1800,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-11-25,1400,1800,1600,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-11-26,1500,1900,1600,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-12-02,1600,2000,1800,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-12-09,2100,2800,2300,177
+Karnataka,Davangere,Davangere,Knool Khol,Knool Khol,FAQ,2021-12-16,4000,6000,5000,177
+Karnataka,Davangere,Honnali,Knool Khol,Knool Khol,FAQ,2021-09-08,1200,1200,1200,177
+Karnataka,Davangere,Honnali,Knool Khol,Knool Khol,FAQ,2021-10-12,1600,1600,1600,177
+Karnataka,Davangere,Honnali,Knool Khol,Knool Khol,FAQ,2021-11-26,3000,3000,3000,177
+Karnataka,Davangere,Honnali,Knool Khol,Knool Khol,FAQ,2021-12-10,3000,3000,3000,177
+Karnataka,Hassan,Hassan,Knool Khol,Knool Khol,FAQ,2021-02-10,1000,1000,1000,177
+Karnataka,Hassan,Hassan,Knool Khol,Knool Khol,FAQ,2021-09-29,1100,1200,1200,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-01-25,800,1000,900,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-03-08,400,700,500,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-03-15,600,800,700,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-03-17,400,800,500,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-03-23,500,800,600,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-03-24,500,700,600,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-03-27,600,800,700,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-04-03,300,500,400,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-04-05,400,700,600,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-04-21,200,300,250,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-04-22,500,600,550,177
+Karnataka,Kolar,Bangarpet,Knool Khol,Knool Khol,FAQ,2021-04-24,200,300,250,177

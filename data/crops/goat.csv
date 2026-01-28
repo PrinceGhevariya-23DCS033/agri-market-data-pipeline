@@ -1,0 +1,828 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2021-11-26,3000,5000,4000,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-01-06,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-01-09,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-02-06,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-02-27,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-03-13,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-04-10,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-05-01,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-05-15,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-05-19,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-05-29,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-06-09,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-07-03,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-07-07,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-08-04,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-08-11,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-08-25,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-09-01,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-10-20,4000,5000,4200,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-10-23,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-10-27,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-10-30,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-11-27,4000,5000,4500,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2021-12-16,4000,5000,4500,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-01-29,4490,4510,4500,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-02-05,4490,4510,4500,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-06-18,4490,4510,4500,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-06-25,4490,4510,4500,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-07-09,4540,4560,4550,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-07-16,4540,4560,4550,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-08-27,4390,4410,4400,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-09-24,3890,4010,3900,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-10-08,3940,3960,3950,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-11-12,3810,3830,3820,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-11-26,3890,3910,3900,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-12-03,3940,3960,3950,219
+Uttar Pradesh,Amethi,Jafarganj,Goat,Goat,FAQ,2021-12-17,3920,3940,3930,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-01-15,3400,3500,3450,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-01-29,3440,3500,3460,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-02-19,3450,3500,3470,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-02-26,3450,3500,3470,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-08-20,3800,3930,3900,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-10-15,3850,3950,3900,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-11-12,3800,3900,3850,219
+Uttar Pradesh,Amethi,Sultanpur,Goat,Goat,FAQ,2021-12-17,3900,3960,3920,219
+Karnataka,Belgaum,Athani,Goat,Goat,FAQ,2021-08-07,5000,10000,7000,219
+Karnataka,Belgaum,Athani,Goat,Goat,FAQ,2021-10-17,5000,10000,7000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2021-03-01,4200,6500,5000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2021-04-03,3500,7500,6000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2021-12-14,3800,5500,4800,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2021-12-31,3800,5500,4500,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2021-01-02,2200,9800,4900,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2021-01-23,2200,9800,4900,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2021-02-13,2200,9800,4800,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2021-02-27,2200,9800,4900,219
+Karnataka,Hassan,Arasikere,Goat,Goat,FAQ,2021-01-15,6750,9900,8300,219
+Karnataka,Tumkur,Gubbi,Goat,Goat,FAQ,2021-08-30,10000,12000,10000,219
+Karnataka,Tumkur,Gubbi,Goat,Goat,FAQ,2021-12-06,10000,11000,10000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2021-01-26,3000,6500,5100,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2021-02-16,3100,6900,5800,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2021-03-16,3300,7000,6300,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2021-03-23,2900,7100,6600,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2021-11-23,3300,7200,6400,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2021-01-11,10000,10500,10000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2021-12-20,9500,9700,9500,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2021-09-06,5000,10000,8000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2021-11-01,5000,10000,8000,219
+Maharashtra,Pune,Junnar(Bhlhe),Goat,Other,FAQ,2021-11-22,5000,13000,9000,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2021-11-09,3600,9000,5500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2021-11-16,4500,9000,7000,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2021-12-28,3600,11000,7400,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2021-02-27,7000,8000,8000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2021-04-03,8000,10000,10000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2021-07-31,5800,7000,7000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2021-09-18,8000,9000,9000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2021-10-02,8500,9000,9000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2021-10-30,7000,8000,8000,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2021-03-06,1500,3500,3000,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2021-04-17,1500,3500,1500,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2021-11-27,660,1500,660,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2021-12-18,660,1500,1500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-01-15,4300,10000,5200,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-03-16,3200,8300,6000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-04-06,2200,11400,6000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-04-16,3500,9400,6000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-04-27,2600,11400,6500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-08-13,2500,8800,5500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-08-31,2600,14200,6000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-10-05,2600,15800,6500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-10-22,3300,12600,6500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-11-23,2700,17300,6500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2021-11-30,2700,18500,6500,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2021-01-30,5000,6000,5500,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2021-02-27,4000,5000,4500,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2021-03-27,5000,6000,5500,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2021-06-26,5000,6000,5500,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2021-01-19,4500,6000,5700,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2021-04-13,1500,7000,5500,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2021-05-11,2200,3000,2500,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2021-10-19,2200,4000,3000,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2021-11-09,3200,5500,4500,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-01-19,4000,6000,5000,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-02-09,4000,6000,5000,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-02-23,4000,5000,4500,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-04-20,4000,5000,4500,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-07-20,4000,5000,4500,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-08-10,4000,5000,4500,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-10-12,4000,6000,5000,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-10-26,4000,6000,5000,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-11-16,4000,6000,5000,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-12-14,4000,6000,5000,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2021-12-28,4000,5000,4500,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-01-09,1760,5600,3450,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-01-26,1960,6500,3350,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-04-03,1760,6200,3250,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-04-17,1680,5800,3260,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-04-24,1760,6500,3450,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-09-04,1860,5600,3450,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-09-18,1860,5800,3560,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-10-23,1650,5600,3460,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2021-11-13,1870,6500,3450,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2021-03-07,4200,5000,4500,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2021-04-18,4800,5500,5300,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2021-05-30,4200,5000,4600,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2021-08-15,3500,4000,3800,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2021-09-26,4500,5000,4700,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2021-11-28,3000,3500,3300,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2021-02-05,3000,7000,5500,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2021-02-19,3500,6000,5000,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2021-03-05,3500,6000,5000,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2021-04-23,3000,5000,4000,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2021-05-21,3000,6000,4000,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2021-06-25,3000,4500,3500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-10-09,1500,7200,4000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-11-13,1700,5200,4000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-12-11,1400,6200,4000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-12-29,2200,5500,3800,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2015-01-24,1200,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2015-10-31,2000,5000,3000,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2015-01-03,1,2,1,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2015-02-07,1,2,1,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2015-03-14,1,2,1,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2015-05-30,1500,2000,1750,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2015-08-22,2000,2500,2250,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2015-09-12,2500,3000,2750,219
+Tripura,Dhalai,Gandacharra,Goat,Goat,FAQ,2015-09-03,1000,4000,2500,219
+Tripura,Dhalai,Gandacharra,Goat,Goat,FAQ,2015-09-17,1500,3000,2250,219
+Tripura,Dhalai,Gandacharra,Goat,Goat,FAQ,2015-10-01,1000,3000,2000,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-01-06,2200,2500,2300,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-01-13,2000,2200,2100,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-02-17,1900,2100,2000,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-04-28,1600,1800,1700,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-06-02,1700,1900,1800,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-06-30,2000,2200,2100,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-07-14,2400,2600,2500,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-07-28,1900,2100,2000,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-08-11,2200,2350,2300,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-10-13,2500,2700,2600,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2015-11-03,1400,1600,1500,219
+Tripura,Gomati,Nutanbazar,Goat,Other,FAQ,2015-01-11,1600,1800,1700,219
+Tripura,Gomati,Nutanbazar,Goat,Other,FAQ,2015-01-25,1600,1800,1700,219
+Tripura,Gomati,Nutanbazar,Goat,Other,FAQ,2015-02-08,1400,1600,1500,219
+Tripura,Gomati,Nutanbazar,Goat,Other,FAQ,2015-02-22,1100,1200,1175,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2015-06-30,1400,2000,1700,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2015-07-18,1200,1800,1500,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2015-09-19,1200,1800,1500,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2015-09-29,1300,2200,1750,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2015-10-31,1400,1600,1500,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2015-11-03,1400,1600,1500,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2015-11-21,1600,2400,2000,219
+Tripura,Khowai,Bachaibari,Goat,Other,FAQ,2015-12-15,1500,2000,1750,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-01-12,1800,2200,2000,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-02-01,1800,2200,2000,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-06-21,1800,2200,2000,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-07-19,1800,2200,2000,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-08-09,1800,2200,2000,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-08-16,1600,2000,1800,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-08-23,1200,2000,1600,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-09-27,1000,2000,1500,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2015-11-01,2500,3200,2850,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-02-27,750,2500,2100,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-03-13,850,2200,1900,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-03-27,900,2000,1800,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-04-24,950,2300,1900,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-05-22,900,2300,1800,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-05-29,750,1800,1700,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-09-18,600,2300,2100,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-10-30,900,2000,1700,219
+Tripura,Khowai,Teliamura,Goat,Other,FAQ,2015-12-25,1000,2000,1800,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-01-02,1500,1800,1650,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-01-16,1300,1800,1550,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-01-30,1300,1900,1700,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-03-13,1600,2000,1800,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-03-20,1800,2000,1900,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-05-15,1800,2200,2000,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-06-12,2000,2500,2250,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-07-31,1500,2000,1750,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-08-28,1600,2000,1800,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-09-25,1600,2000,1800,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2015-11-27,1600,2200,1900,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-01-13,800,1800,1200,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-01-20,700,1800,1200,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-02-17,1200,3000,1800,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-03-10,800,1800,1200,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-04-14,800,1800,1200,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-06-30,1200,2400,1600,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-07-14,1200,2400,1800,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-07-28,1200,2000,1800,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-09-15,1200,2400,1800,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-11-03,800,2400,1600,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-12-01,1200,2500,1800,219
+Tripura,Sepahijala,Melaghar,Goat,Goat,FAQ,2015-12-22,1200,2600,1800,219
+Tripura,Sepahijala,Melaghar,Goat,Other,FAQ,2015-02-24,800,1800,1400,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-01-10,2000,4500,3000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-01-24,3000,4000,3800,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-01-31,2000,5000,3000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-02-07,3500,4100,4000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-02-22,2000,6000,5000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-03-30,3500,6000,4000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-04-04,4000,5000,4200,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-05-10,2000,4000,3000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-05-24,2500,6000,5000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-07-04,2500,3000,3000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-08-08,4000,6000,5000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-08-16,3000,6000,4500,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-09-27,1800,1800,1800,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2013-10-03,2000,3600,2900,219
+Karnataka,Belgaum,Athani,Goat,Goat,FAQ,2013-09-29,3000,4000,3500,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2013-01-28,2000,3500,2800,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2013-03-15,2600,3800,3500,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2013-06-07,2200,3500,3000,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2013-06-21,2500,2900,2600,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2013-07-26,1800,3300,2800,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2013-01-27,1300,4900,4400,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2013-03-24,2500,3500,3000,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2013-04-07,1900,3500,3000,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2013-06-16,2200,4200,3600,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2013-06-30,1800,4200,3800,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,Local,2013-07-28,2000,4400,3300,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,Local,2013-09-01,3000,4000,3500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Medium,2013-03-13,3000,3000,3000,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2013-04-06,2500,2500,2500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2013-04-20,2200,2200,2200,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2013-05-01,2500,2500,2500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2013-05-25,2400,2400,2400,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2013-06-22,2200,2200,2200,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2013-06-29,2290,2290,2290,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2013-07-13,2100,2100,2100,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Local,2013-09-19,2500,2500,2500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-01-19,1250,6500,5500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-01-27,1150,5500,4500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-02-23,1550,8500,7500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-03-16,1550,7500,6500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-04-27,1650,6500,5500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-07-06,2200,4500,3100,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-08-31,2000,4100,3100,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-09-28,2000,4000,3000,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2013-12-15,2200,4200,3200,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-01-05,2200,9000,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-01-26,2200,9000,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-03-09,2200,9000,4800,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-04-20,2200,9000,4800,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-05-18,2200,9000,4800,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-06-08,2200,9500,4800,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-06-22,2200,9000,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2013-07-20,2200,9500,4800,219
+Karnataka,Haveri,Ranebennur,Goat,Goat,FAQ,2013-01-24,900,2700,1200,219
+Karnataka,Haveri,Ranebennur,Goat,Goat,FAQ,2013-05-31,6000,15000,9000,219
+Karnataka,Haveri,Ranebennur,Goat,Goat,FAQ,2013-06-21,5000,15000,8000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2013-02-26,1600,6000,4000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2013-06-18,2500,4500,4000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2013-07-22,1600,7000,3800,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2013-01-07,4000,5000,4500,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2013-01-21,4000,5000,4500,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2013-02-11,4000,5000,4500,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2013-04-22,4000,5000,4500,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2013-06-17,4000,5000,4500,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2013-07-01,4000,5000,4500,219
+Karnataka,Mandya,Maddur,Goat,Goat,Medium,2013-02-09,3000,4000,3500,219
+Karnataka,Mandya,Maddur,Goat,Goat,Medium,2013-09-21,5000,6500,5500,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,FAQ,2013-01-21,5000,6000,5500,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,FAQ,2013-04-08,5000,5000,5000,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,Local,2013-08-05,4000,6500,5000,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,Local,2013-09-23,5600,5600,5600,219
+Karnataka,Tumkur,Huliyar,Goat,Goat,FAQ,2013-06-17,2000,6000,5000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2013-02-19,3000,6500,3500,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2013-02-26,3000,4500,3500,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2013-03-19,3500,7000,6000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2013-04-30,3000,6500,4500,219
+Karnataka,Tumkur,Sira,Goat,Goat,Local,2013-07-30,4000,7000,4500,219
+Karnataka,Tumkur,Sira,Goat,Goat,Local,2013-08-20,3500,7000,6000,219
+Karnataka,Tumkur,Sira,Goat,Goat,Local,2013-10-22,4000,7000,6000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2013-01-07,4000,8000,6500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2013-01-28,3000,7000,6000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2013-02-11,3400,6500,5000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2013-04-08,3000,7000,6000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,Local,2013-07-29,4500,7500,6500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2013-09-30,4200,7000,5800,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-02-11,2000,2400,2200,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-02-18,2000,2400,2200,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-04-01,2000,2400,2200,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-04-08,2100,2500,2300,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-05-27,2100,2500,2300,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-07-08,2100,2500,2300,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-09-16,2000,2400,2200,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-10-07,2000,2400,2200,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-10-14,2000,2400,2200,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2013-10-21,2000,2400,2200,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-01-12,1500,3500,1920,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-02-03,2846,2866,2857,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-02-08,3466,3529,3500,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-02-26,1600,6818,5355,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-03-05,1100,3500,3159,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-04-09,2000,2500,2333,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-05-04,1500,3000,2155,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-06-01,1500,4500,2320,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-06-08,1555,4166,2841,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-06-10,1765,1765,1765,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-07-06,1000,4167,2683,219
+Maharashtra,Bhandara,Lakhani,Goat,Goat,FAQ,2013-07-09,2300,2300,2300,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-08-10,1500,3000,2170,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-08-20,2200,2200,2200,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-08-23,3966,3966,3966,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-08-31,1166,3000,1666,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-09-14,1000,3000,1949,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-09-21,1250,5000,1946,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-09-22,3526,3625,3571,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-10-01,750,10500,5043,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2013-12-22,3250,4000,3461,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2013-01-12,2500,5000,3500,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2013-03-08,1500,5000,3500,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2013-05-10,1500,5000,3500,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2013-09-20,2500,5000,3500,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2013-11-08,2500,5000,3500,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2013-11-22,2500,5000,3500,219
+Maharashtra,Kolhapur,Kolhapur(Malkapur),Goat,Goat,FAQ,2013-07-13,900,3000,2200,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2013-06-08,3000,7000,5000,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2013-04-23,1800,4500,2600,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2013-06-11,1800,5600,2700,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2013-07-16,1800,5000,2700,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2013-08-13,1800,5400,2700,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2013-09-17,1700,3400,2500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2013-11-19,1700,6300,2600,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2013-01-14,1000,4500,1365,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2013-02-04,1000,3000,1652,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2013-06-24,1000,3000,1278,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2013-07-08,1000,4000,1729,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2013-09-15,1000,4000,1571,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2013-09-23,1000,3000,1280,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2013-11-11,1000,4000,1492,219
+Maharashtra,Sholapur,Akkalkot,Goat,Goat,FAQ,2013-11-18,2000,5000,4000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2013-01-21,3900,7500,5700,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2013-04-08,2600,6500,4000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2013-07-08,2800,7800,4600,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2013-09-02,2800,7500,4700,219
+Maharashtra,Thane,Kalyan,Goat,Other,FAQ,2013-07-18,3200,4000,3600,219
+Mizoram,Aizawl,New Market Aizawl,Goat,Other,FAQ,2013-05-16,25000,25000,25000,219
+Mizoram,Aizawl,New Market Aizawl,Goat,Other,FAQ,2013-08-26,20000,20000,20000,219
+Mizoram,Aizawl,New Market Aizawl,Goat,Other,FAQ,2013-11-21,18000,18000,18000,219
+Odisha,Angul,Angaura,Goat,Other,FAQ,2013-04-13,28000,30000,29000,219
+Odisha,Bargarh,Sohela,Goat,Other,FAQ,2013-03-02,4000,6000,5000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Goat,FAQ,2013-03-16,2500,3000,3000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Goat,FAQ,2013-05-25,2500,4000,3000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Goat,FAQ,2013-08-17,2500,3000,3000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Goat,FAQ,2013-10-12,3500,4000,4000,219
+Odisha,Kandhamal,Tikabali,Goat,Other,FAQ,2013-07-23,11000,14000,12500,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2013-05-04,660,1000,800,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2013-05-25,660,2000,2000,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2013-06-01,650,2000,650,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2013-07-13,660,1000,660,219
+Odisha,Keonjhar,Saharpada,Goat,Other,FAQ,2013-08-04,660,2000,660,219
+Odisha,Koraput,Koraput,Goat,Other,FAQ,2013-05-28,4000,4500,4300,219
+Odisha,Koraput,Koraput,Goat,Other,FAQ,2013-07-27,3000,5000,4000,219
+Odisha,Koraput,Koraput,Goat,Other,FAQ,2013-08-25,3500,3800,3600,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-02-02,4000,5000,4500,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-02-08,4000,4200,4100,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-02-22,4000,4200,4100,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-07-04,3000,5000,4000,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-07-18,3000,4000,3500,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-07-19,3000,4000,3500,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-08-23,4000,4500,4250,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-12-19,3500,5000,4300,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2013-12-26,4000,5000,4500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Other,FAQ,2013-11-01,2700,7800,5000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Other,FAQ,2013-11-08,3000,9000,6000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-05-11,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-05-18,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-05-25,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-06-01,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-06-22,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-07-06,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-07-20,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-09-28,650,3200,2400,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2013-10-19,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Other,FAQ,2013-01-05,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Other,FAQ,2013-01-26,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Other,FAQ,2013-02-23,700,3000,2000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Other,FAQ,2013-03-23,500,3000,2000,219
+Telangana,Nalgonda,Kodad,Goat,Goat,Medium,2013-01-16,3000,5000,4000,219
+Telangana,Nalgonda,Kodad,Goat,Goat,Medium,2013-02-11,3000,6000,3600,219
+Telangana,Nalgonda,Kodad,Goat,Goat,Medium,2013-02-18,1500,5000,3000,219
+Telangana,Nalgonda,Kodad,Goat,Goat,Medium,2013-06-17,3000,6000,4000,219
+Telangana,Nalgonda,Kodad,Goat,Goat,Medium,2013-07-01,2500,5000,3500,219
+Telangana,Nalgonda,Kodad,Goat,Goat,Medium,2013-07-29,3400,8000,3400,219
+Telangana,Nalgonda,Kodad,Goat,Goat,FAQ,2013-08-26,2000,5667,4000,219
+Telangana,Nalgonda,Kodad,Goat,Goat,FAQ,2013-10-28,4500,10000,5000,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2013-07-02,1500,1800,1600,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2013-10-08,2100,2500,2200,219
+Tripura,Gomati,Nutanbazar,Goat,Goat,FAQ,2013-04-07,1400,1600,1500,219
+Tripura,Gomati,Nutanbazar,Goat,Goat,FAQ,2013-04-14,1600,2000,1800,219
+Tripura,Gomati,Nutanbazar,Goat,Goat,FAQ,2013-06-09,1500,2000,1800,219
+Andhra Pradesh,Vijayanagaram,Gajapathinagaram,Goat,Goat,Medium,2015-08-07,1500,2500,1800,219
+Andhra Pradesh,Vijayanagaram,Gajapathinagaram,Goat,Goat,Medium,2015-10-04,3300,4000,3400,219
+Andhra Pradesh,Vijayanagaram,Gajapathinagaram,Goat,Goat,Medium,2015-11-15,3800,4500,4000,219
+Andhra Pradesh,Vijayanagaram,Gajapathinagaram,Goat,Goat,Medium,2015-11-23,4000,5000,4300,219
+Bihar,Madhepura,Bihariganj,Goat,Other,FAQ,2015-06-14,1500,7500,4500,219
+Bihar,Madhepura,Bihariganj,Goat,Other,FAQ,2015-12-22,4000,8000,6000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-02-27,7000,16000,15000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-03-20,10000,20000,16000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-06-04,8000,12000,9500,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-07-02,9000,12000,12000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-07-09,11600,25000,15000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-07-24,7000,10000,8000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-08-07,10000,25000,12500,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-08-20,10000,16000,12000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-11-06,7000,13000,11000,219
+Karnataka,Bagalkot,Badami,Goat,Goat,FAQ,2015-12-17,8000,8000,8000,219
+Karnataka,Belgaum,Athani,Goat,Goat,FAQ,2015-02-08,2500,4000,3200,219
+Karnataka,Belgaum,Athani,Goat,Goat,FAQ,2015-09-06,3500,7000,4500,219
+Karnataka,Belgaum,Athani,Goat,Goat,FAQ,2015-09-13,4000,4000,4000,219
+Karnataka,Belgaum,Athani,Goat,Goat,FAQ,2015-10-18,3500,8000,5000,219
+Karnataka,Belgaum,Kudchi,Goat,Goat,FAQ,2015-05-05,4360,6070,5850,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-01-30,2500,3000,2800,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-03-27,1500,3000,2500,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-04-04,2000,3000,2500,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-04-10,2000,4000,2500,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-05-15,2000,4500,3200,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-07-31,2500,4000,3000,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-10-09,2000,4000,3000,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-10-30,2000,4000,3000,219
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,2015-12-18,1800,4500,3800,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2015-01-11,2000,4000,3500,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2015-03-15,1800,4500,3000,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2015-04-05,1800,4300,3900,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2015-05-03,2100,5600,4800,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2015-09-13,3000,4000,3800,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,2015-11-22,1900,4100,3800,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-01-10,3500,5500,4200,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Large,2015-01-29,4500,4500,4500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-02-21,4000,4000,4000,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2015-05-02,3500,3500,3500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-05-09,4000,4000,4000,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-05-23,4500,4500,4500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-06-13,5000,5000,5000,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-06-27,5500,5500,5500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-07-11,4500,4500,4500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-07-18,5100,5100,5100,219
+Karnataka,Belgaum,Soundati,Goat,Goat,FAQ,2015-08-22,4800,4800,4800,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2015-10-19,4500,4500,4500,219
+Karnataka,Belgaum,Soundati,Goat,Goat,Small,2015-12-03,3000,3000,3000,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-01-11,2200,4500,3100,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-01-24,2200,4500,3200,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-01-31,2100,4500,3200,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-02-07,2000,4500,3100,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-04-04,2100,4500,3200,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-04-12,2100,4500,3200,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-04-25,2100,4500,3200,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-05-10,2100,4500,3200,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-06-14,2200,4600,3300,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-07-25,2400,5300,3900,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-09-26,2200,4800,3500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-10-11,2400,5100,3500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-10-17,2500,5500,3600,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-12-13,2200,4500,3500,219
+Karnataka,Bellary,H.B. Halli,Goat,Goat,Medium,2015-12-26,2600,4800,3500,219
+Karnataka,Bijapur,Sindagi,Goat,Goat,FAQ,2015-12-21,2000,5000,2000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-01-17,2400,3330,2800,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-01-31,2600,3200,2900,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-04-04,2600,3500,3000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-04-25,2500,3500,3000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-05-16,2400,3200,3000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-06-06,2600,3500,3000,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-06-20,2800,3600,3300,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-07-25,2400,3200,2800,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-09-19,2800,3600,3200,219
+Karnataka,Chikmagalur,Bagepalli,Goat,Goat,FAQ,2015-10-31,3000,3600,3400,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-01-17,2200,9500,4500,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-02-14,2200,9500,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-03-07,2200,9500,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-04-18,2200,9500,4500,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-04-25,2200,9500,4500,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-05-02,2200,9500,4500,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-05-16,2200,9500,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-05-23,2200,9500,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-06-06,2200,9500,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-07-04,2200,9500,4500,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-07-25,2200,9800,4500,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-08-22,2200,9500,4800,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-11-14,2200,9500,4600,219
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,FAQ,2015-12-12,2200,9500,4600,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-01-07,2100,6000,5400,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-02-10,1500,6500,5600,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-03-17,2000,7000,5500,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-03-25,3000,9000,7000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-04-22,2500,7000,6000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-05-04,2500,7500,6000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-06-23,3000,7500,6000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-06-30,2500,6500,6000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-07-07,2000,8000,6500,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-08-11,3000,8500,7500,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-10-26,5000,15000,8000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-11-14,3000,13000,8000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-11-23,3000,13000,9000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-11-30,3500,12000,7000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-12-07,3000,12000,8000,219
+Karnataka,Kolar,Chickkaballapura,Goat,Goat,FAQ,2015-12-12,3500,8000,5750,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2015-01-27,8000,10000,9000,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2015-03-16,8000,10000,9000,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2015-11-02,8000,10000,9000,219
+Karnataka,Kolar,Gowribidanoor,Goat,Goat,FAQ,2015-11-09,8000,10000,9000,219
+Karnataka,Mandya,Maddur,Goat,Goat,FAQ,2015-09-12,6000,6000,6000,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,FAQ,2015-02-23,8500,9500,8800,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,FAQ,2015-05-11,7500,7500,7500,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,FAQ,2015-07-27,7500,9500,8000,219
+Karnataka,Shimoga,Bhadravathi,Goat,Goat,FAQ,2015-08-10,5000,8000,7100,219
+Karnataka,Tumkur,Huliyar,Goat,Goat,FAQ,2015-03-30,2000,8000,6700,219
+Karnataka,Tumkur,Huliyar,Goat,Goat,Medium,2015-05-30,2500,8000,4500,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2015-01-20,3500,7000,6500,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2015-04-21,2500,7000,6500,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2015-05-19,4000,8000,5000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2015-09-15,4000,9000,7000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2015-09-29,4000,7000,6000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2015-10-13,3500,7500,6500,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2015-11-10,3000,7500,6500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,Medium,2015-01-27,3500,7000,5500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-03-16,6000,7500,6900,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-03-30,4000,5600,4500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-04-06,3000,6000,5000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-04-27,3500,6000,4500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-05-25,3500,6500,5500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-06-08,2000,6000,5000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-08-24,3200,6500,4500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-08-31,3200,6000,4800,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-09-14,3500,6500,5500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-11-09,3000,7000,6000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-11-16,4000,7000,6000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2015-11-30,3500,6500,5000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-01-05,2000,3000,2500,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-01-26,2000,4000,3000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-03-09,2500,3000,2750,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-03-23,2500,4000,3250,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-04-06,2000,3000,2500,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-05-04,2500,3500,3000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-05-11,3000,4000,3500,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-05-18,2500,3500,3000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-06-15,2500,3500,2500,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-06-29,2500,3500,3000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-07-06,2500,4000,3000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2015-09-07,2000,5000,2500,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2015-02-03,2500,5000,3750,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2015-02-21,1000,5000,2571,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2015-03-21,1000,5000,2501,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2015-03-27,4066,4091,4069,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2015-04-07,1500,1500,1500,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2015-04-18,1500,4000,2474,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2015-12-04,2500,5000,3500,219
+Maharashtra,Nagpur,Narkhed,Goat,Other,FAQ,2015-02-07,3200,4200,3500,219
+Maharashtra,Pune,Bhor,Goat,Other,FAQ,2015-12-05,1000,5000,3000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-01-03,5000,15000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-01-24,5000,15000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-02-14,5000,15000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-08-01,4000,16000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-08-08,4000,16000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-09-05,5000,15000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-09-12,5000,15000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2015-09-26,5000,15000,10000,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2015-09-08,2000,5400,2600,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2015-10-13,2500,6000,3500,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2015-02-23,1000,6090,2655,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2015-03-06,1000,6000,1629,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2015-03-15,1000,6000,2198,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2015-06-01,1000,6000,1350,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2015-08-31,1000,6000,1333,219
+Maharashtra,Sangli,Vita,Goat,Goat,FAQ,2015-12-14,1000,6000,1608,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-01-25,2800,11000,6900,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-02-01,2800,10000,6400,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-04-12,3500,10000,6700,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-05-10,2600,9000,5500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-05-24,2600,9000,5800,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-05-31,2800,9500,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-06-07,3000,9000,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-06-14,3200,11000,7000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-06-21,3500,10000,6500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-06-26,4000,10000,7000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-06-28,4000,10000,7000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-07-05,3500,11000,7000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-07-12,2800,10000,6500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-08-09,3000,9000,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-08-23,3500,11000,7000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-09-20,4000,12000,7500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-10-04,3500,12000,7500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2015-10-25,3000,9500,6500,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-05-05,2500,11500,5100,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-05-12,4000,8000,5500,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-05-19,4000,8500,5000,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-10-06,4000,13000,7500,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-10-20,2600,12000,6500,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-11-03,3000,8000,5500,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-11-24,3500,8000,5000,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2015-12-22,3000,9000,6000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-01-03,4000,5000,5000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-01-31,5000,6000,6000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-02-07,3500,4000,4000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-03-07,2500,3000,3000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-06-27,2500,6000,6000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-07-25,3500,5000,5000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-09-19,3000,6000,6000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-09-26,3500,6000,6000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-10-03,3500,4000,4000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-10-17,5000,7000,7000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2015-12-19,3500,4000,4000,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2015-01-10,650,3000,660,219
+Odisha,Koraput,Koraput,Goat,Other,FAQ,2015-01-02,4000,5000,4500,219
+Odisha,Koraput,Koraput,Goat,Other,FAQ,2015-06-02,4000,5000,4500,219
+Odisha,Koraput,Koraput(Semilguda),Goat,Other,FAQ,2015-01-09,4000,5000,4500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-01-06,2300,8000,4800,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-01-16,1200,7800,4100,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-01-30,2300,8700,4600,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-02-10,1800,8500,4500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-02-24,1900,5800,4200,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-03-10,1900,8500,4500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-03-27,1900,7600,3700,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-03-31,2300,8100,4500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-04-03,1500,4600,4200,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-04-14,1700,7300,4300,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-04-17,1800,7500,4000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-04-21,1700,6500,3800,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-06-05,1200,9000,5000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-06-09,1300,9300,5000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-07-14,1400,8200,4200,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-08-28,1000,8000,4000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2015-09-04,1800,6800,4500,219
+Karnataka,Tumkur,Gubbi,Goat,Goat,FAQ,2018-09-03,7000,75000,75000,219
+Karnataka,Tumkur,Gubbi,Goat,Goat,FAQ,2018-10-29,7000,7500,7500,219
+Karnataka,Tumkur,Gubbi,Goat,Goat,FAQ,2018-12-10,7000,7500,7500,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-01-02,3200,7500,6000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-02-06,3200,7300,5000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-02-27,4100,7000,5300,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-03-27,4000,6800,5300,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-06-12,3000,6800,5300,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-08-28,3000,6900,6000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-09-04,3100,7000,6300,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-10-30,3000,7000,6400,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,2018-12-11,3100,7200,6300,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-01-22,7500,9000,8000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-03-05,9000,9500,9000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-04-09,9000,10500,9500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-05-28,8500,9500,8500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-07-09,7000,8500,7500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-07-16,7000,8500,7500,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-08-20,10000,10500,10200,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-09-17,7500,9000,8000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-10-09,8000,15000,12000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-10-15,8000,15000,12000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-10-22,9500,10500,10000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-11-19,9500,10500,10000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-12-17,8000,8500,8000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,2018-12-24,9000,10000,9500,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2018-02-05,3000,5000,4500,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2018-03-19,3000,5000,4000,219
+Maharashtra,Amarawati,Anajngaon,Goat,Goat,FAQ,2018-08-06,3000,5000,4000,219
+Maharashtra,Bhandara,Lakhani,Goat,Other,FAQ,2018-06-26,4091,4091,4091,219
+Maharashtra,Chandrapur,Brahmpuri,Goat,Other,FAQ,2018-08-10,3000,7000,5000,219
+Maharashtra,Pune,Bhor,Goat,Other,FAQ,2018-09-22,3000,6000,3500,219
+Maharashtra,Pune,Bhor,Goat,Other,FAQ,2018-10-20,3000,7000,4500,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-01-06,4000,14000,9000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-02-03,4000,16000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-03-17,4000,16000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-03-24,4000,16000,8000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-05-05,4000,15000,9500,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-05-26,4000,16000,10000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-06-23,4000,12000,8000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-07-14,4000,13000,8500,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-08-25,3000,13000,8000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-12-08,3000,15000,9000,219
+Maharashtra,Sangli,Aatpadi,Goat,Goat,FAQ,2018-12-29,3000,15000,9000,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-01-16,2600,8500,3600,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-02-13,2600,8500,3600,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-04-17,2600,9000,4500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-04-24,2600,9000,4500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-05-01,3600,11000,5500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-05-22,2600,9400,4500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-06-05,2600,7500,4500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-07-10,2600,8000,4500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-07-24,2000,8000,3200,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-08-21,3000,9000,4500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-08-28,2600,7500,4600,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-12-04,3000,8300,4500,219
+Maharashtra,Sangli,Palus,Goat,Goat,FAQ,2018-12-25,3000,9000,5500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-02-18,3500,10500,6500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-03-25,3600,10000,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-04-08,3000,11000,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-04-29,3200,9500,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-05-06,3000,9000,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-06-03,3600,12000,7000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-06-10,3200,10000,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-09-16,2500,10500,6500,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-10-14,2500,10500,6000,219
+Maharashtra,Sholapur,Sangola,Goat,Goat,FAQ,2018-12-23,2500,10000,6000,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2018-02-06,3500,7100,4900,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2018-07-10,2500,7500,3450,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2018-09-11,2500,7500,3500,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2018-09-18,2500,7500,3500,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2018-10-09,2500,7500,4000,219
+Maharashtra,Vashim,Malegaon(Vashim),Goat,Goat,FAQ,2018-10-16,2500,10000,4000,219
+Odisha,Angul,Angaura,Goat,Goat,FAQ,2018-12-27,4000,4500,4300,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2018-07-21,5000,6000,6000,219
+Odisha,Gajapati,Parlakhemundi,Goat,Other,FAQ,2018-09-29,4000,6000,6000,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2018-05-26,3000,15000,3000,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2018-12-08,660,4500,660,219
+Odisha,Keonjhar,Keonjhar(Dhekikote),Goat,Other,FAQ,2018-12-15,660,3500,660,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-01-18,500,6000,3500,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-03-08,1000,7000,3800,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-07-05,1000,6000,3200,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-07-19,1000,6000,3000,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-08-02,1000,7000,3800,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-08-09,1000,6800,3200,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-08-23,1000,6500,4200,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-10-11,1500,6000,4500,219
+Odisha,Mayurbhanja,Baripada,Goat,Other,FAQ,2018-12-06,1500,6500,4000,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-03-20,1100,7400,3500,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-03-23,1300,6500,3600,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-06-12,1200,7800,3700,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-06-29,1500,8800,4200,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-07-31,2400,7000,4300,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-08-03,2200,6800,4300,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-08-28,2000,7300,4200,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-09-17,2400,4200,3700,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-09-23,1300,5400,3700,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-10-03,2200,6200,3800,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-10-16,2200,6300,4200,219
+Odisha,Mayurbhanja,Chuliaposi,Goat,Goat,FAQ,2018-12-18,1600,6500,3600,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-01-06,500,6000,1500,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-01-20,500,6000,3500,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-02-10,500,6500,3500,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-03-03,1000,7000,3500,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-03-24,1000,6500,3500,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-05-05,1000,7500,3000,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-07-07,1000,6500,3500,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-11-03,1500,7000,3500,219
+Odisha,Mayurbhanja,Saraskana,Goat,Goat,FAQ,2018-12-29,1800,8000,4000,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2018-01-13,3000,3500,3500,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2018-01-27,3000,4000,3500,219
+Tripura,Dhalai,Chowmanu,Goat,Goat,FAQ,2018-06-02,3,3,3,219
+Tripura,Dhalai,Gandacharra,Goat,Goat,FAQ,2018-07-12,1000,3800,2400,219
+Tripura,Dhalai,Gandacharra,Goat,Goat,FAQ,2018-09-20,1000,4200,2600,219
+Tripura,Dhalai,Gandacharra,Goat,Goat,FAQ,2018-10-04,1000,4000,2500,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2018-05-22,2000,2250,2100,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2018-05-29,2000,2200,2100,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2018-08-28,2700,3500,3000,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2018-09-18,2600,3000,2800,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2018-09-25,2100,2500,2400,219
+Tripura,Dhalai,Kulai,Goat,Goat,FAQ,2018-10-09,2700,3500,3100,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2018-04-24,3000,3500,3500,219
+Tripura,Dhalai,Masli,Goat,Goat,FAQ,2018-05-15,3,3,3,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-01-09,1650,3500,2050,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-02-20,1550,3200,2300,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-03-17,1350,3550,2350,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-03-31,1650,4500,2600,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-06-19,1450,3500,2350,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-07-07,1850,3500,2500,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-07-14,1760,3300,2450,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-07-31,1650,3500,2450,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-08-28,1560,3500,2450,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-09-15,1450,3500,2650,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-10-13,1750,4800,2850,219
+Tripura,Khowai,Bachaibari,Goat,Goat,FAQ,2018-11-10,1450,3500,2300,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2018-06-10,2300,2700,2500,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2018-06-17,2700,3200,2950,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2018-07-08,2250,2600,2500,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2018-10-07,3000,3250,3150,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2018-11-04,2400,2700,2500,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2018-12-16,3000,3250,3200,219
+Tripura,Khowai,Kalyanpur,Goat,Goat,FAQ,2018-12-23,3200,3500,3400,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2018-02-11,2500,2800,2600,219
+Tripura,Khowai,Kalyanpur,Goat,Other,FAQ,2018-05-20,1800,2300,2000,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-01-05,1900,3100,2700,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-01-12,1900,3400,2700,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-01-26,1500,3000,2500,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-03-02,1900,3000,2500,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-04-27,1600,2800,2700,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-05-11,2200,3200,3000,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-05-18,2100,3000,2700,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-07-27,950,2500,2400,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-09-28,1400,2900,2600,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-10-05,1100,2700,2500,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-10-19,1600,3000,2500,219
+Tripura,Khowai,Teliamura,Goat,Goat,FAQ,2018-11-16,1700,2900,2000,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2018-04-13,800,3200,2000,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2018-07-13,2200,3700,2800,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2018-07-20,1200,3800,2500,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2018-08-24,1250,2750,2000,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2018-10-19,2200,3500,2850,219
+Tripura,North Tripura,Dasda,Goat,Other,FAQ,2018-11-23,1700,3100,2400,219
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,2018-01-13,2000,4000,3000,219
+Tripura,South District,Barpathari,Goat,Goat,FAQ,2018-05-07,3000,3400,3200,219
+Tripura,South District,Barpathari,Goat,Goat,FAQ,2018-05-28,3000,3400,3200,219
+Tripura,South District,Barpathari,Goat,Goat,FAQ,2018-06-22,2000,3000,2500,219
+Tripura,South District,Barpathari,Goat,Goat,FAQ,2018-07-21,2400,2800,2600,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-01-08,2000,3000,2500,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-02-12,2000,3000,2500,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-03-12,2000,2500,2300,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-04-06,2500,3000,2700,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-05-25,2000,3000,2500,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-06-01,2000,2500,2200,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-07-27,2000,3000,2500,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-08-17,1200,1700,1500,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-08-31,1700,2200,2000,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-09-14,2000,2500,2200,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-09-18,1800,2200,2000,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-09-21,1800,2200,2000,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-11-05,1500,2000,1700,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-12-07,2000,2300,2100,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-12-10,2000,2500,2200,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-12-11,2000,2500,2200,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-12-24,2000,2500,2200,219
+Tripura,West District,Kamalghat,Goat,Goat,FAQ,2018-12-31,2000,3000,2500,219

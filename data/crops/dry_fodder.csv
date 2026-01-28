@@ -1,0 +1,300 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-01-04,200,272,255,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-01-06,210,285,255,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-01-15,251,300,280,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-01-17,250,310,310,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-01-20,250,315,293,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-01-25,230,325,285,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-01-27,200,300,290,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-02-07,250,330,300,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-02-20,200,325,250,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-03-05,200,312,250,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-03-20,250,420,300,345
+Haryana,Sirsa,Sirsa,Dry Fodder,Other,FAQ,2007-03-31,210,315,252,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-01-03,340,360,350,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-01-13,340,360,350,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-01-23,320,340,330,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-01-28,320,340,330,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-03,330,350,335,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-07,330,340,335,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-09,320,340,330,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-10,320,340,330,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-12,320,340,330,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-13,330,360,345,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-17,330,350,340,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-23,330,350,340,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-02-24,330,350,340,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-03-12,330,345,342,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-03-22,350,380,360,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-03-28,340,360,350,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-04-07,350,370,360,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-04-08,350,370,360,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-04-10,340,360,350,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-04-13,300,320,310,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-04-22,270,290,280,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-04-28,270,290,280,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-05-12,240,260,250,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-05-14,240,260,250,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-05-16,220,240,230,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-05-23,230,250,240,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-05-27,230,250,240,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-05-28,220,250,235,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-05-30,230,250,240,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-06-01,230,250,240,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-06-03,230,250,240,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-06-17,240,270,260,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-06-18,240,260,250,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-06-20,240,260,250,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-06-23,260,290,275,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-06-26,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-07-03,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-07-07,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-07-22,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-08-02,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-08-09,280,320,300,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-08-16,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-08-19,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-08-20,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-08-30,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-08-31,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-09-04,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-09-09,300,330,315,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-09-13,300,320,310,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-09-23,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-10-01,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-10-04,270,300,285,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-10-13,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-10-18,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-10-20,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-10-21,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-10-30,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-01,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-03,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-05,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-10,290,320,305,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-11,280,320,300,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-15,280,310,295,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-22,280,320,300,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-11-24,300,325,312,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-12-12,300,330,315,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-12-15,290,340,315,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-12-16,290,345,315,345
+NCT of Delhi,Delhi,"Fodder Market, Mangolpuri",Dry Fodder,Dry Fodder,FAQ,2007-12-17,300,340,320,345
+Odisha,Sundergarh,Panposh,Dry Fodder,Dry Fodder,FAQ,2007-01-05,200,250,230,345
+Odisha,Sundergarh,Panposh,Dry Fodder,Dry Fodder,FAQ,2007-01-20,200,240,220,345
+Odisha,Sundergarh,Panposh,Dry Fodder,Dry Fodder,FAQ,2007-02-05,200,240,220,345
+Odisha,Sundergarh,Panposh,Dry Fodder,Dry Fodder,FAQ,2007-02-06,200,240,220,345
+Odisha,Sundergarh,Panposh,Dry Fodder,Dry Fodder,FAQ,2007-04-23,200,240,220,345
+Chattisgarh,Narayanpur,Narayanpur,Dry Fodder,Other,FAQ,2019-06-12,4000,5000,4500,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-01-14,590,610,600,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-01-15,580,620,600,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-01-18,550,590,570,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-01-24,600,620,610,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-01-27,600,630,610,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-01-31,500,600,550,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-02-05,620,665,650,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-02-14,650,700,690,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-02-19,650,720,700,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-02-24,600,820,750,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-03-04,700,800,750,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-03-12,680,740,700,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-03-18,650,700,680,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-04-11,600,700,650,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-05-02,390,420,400,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-05-13,350,420,400,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-05-23,380,420,400,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-05-31,350,450,420,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-06-23,300,580,450,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-08-09,520,560,540,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-10-06,500,590,570,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-10-15,600,640,620,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-10-16,600,650,620,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-10-25,600,640,620,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-11-25,650,700,680,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-11-30,630,680,650,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-12-16,700,730,720,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-12-26,600,700,680,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2019-12-30,680,700,690,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-01-25,700,750,750,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-03-04,700,900,750,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-03-05,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-03-10,700,1025,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-05-13,600,700,650,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-05-18,550,650,600,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-06-17,550,650,600,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-07-15,600,650,625,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-08-11,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-08-13,600,670,650,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-09-15,650,700,670,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-09-23,650,750,700,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-10-14,700,750,730,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-11-01,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-11-30,700,750,725,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2019-12-01,700,750,725,345
+Uttar Pradesh,Amethi,Jafarganj,Dry Fodder,Dry Fodder,FAQ,2019-11-15,820,860,840,345
+Uttar Pradesh,Amethi,Jafarganj,Dry Fodder,Dry Fodder,FAQ,2019-11-29,850,900,880,345
+Uttar Pradesh,Amethi,Sultanpur,Dry Fodder,Other,FAQ,2019-09-20,700,800,750,345
+Uttar Pradesh,Amethi,Sultanpur,Dry Fodder,Other,FAQ,2019-10-04,700,800,750,345
+Uttar Pradesh,Amethi,Sultanpur,Dry Fodder,Other,FAQ,2019-10-18,800,900,850,345
+Uttar Pradesh,Amethi,Sultanpur,Dry Fodder,Other,FAQ,2019-10-25,850,900,875,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-01-19,450,500,476,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-01-24,450,500,475,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-02-01,440,500,470,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-02-20,480,530,505,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-02-23,500,535,515,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-03-17,540,630,590,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-03-29,615,650,635,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-03-30,620,665,640,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-04-14,525,580,550,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-05-04,415,465,440,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-05-12,380,440,410,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-05-16,390,430,415,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-06-17,370,380,375,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-07-10,365,375,370,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-07-17,365,375,370,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-07-21,350,375,365,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-07-31,330,380,350,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-08-22,325,390,365,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-08-25,330,400,370,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-08-29,325,400,370,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-08-30,325,400,375,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-09-02,370,385,380,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-09-09,380,430,400,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-09-16,580,630,600,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-09-26,600,650,620,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-10-17,600,670,630,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-10-21,600,660,636,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-10-23,600,660,630,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-10-31,600,670,635,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-11-07,630,680,655,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-11-13,640,680,660,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-11-24,640,700,675,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-11-25,630,700,670,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-12-19,630,700,675,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2019-12-25,630,700,670,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-01-21,650,670,660,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-01-23,650,670,660,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-02-24,520,550,540,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-03-06,550,580,570,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-03-10,520,550,530,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-03-12,500,560,550,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-03-18,530,550,540,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-04-04,370,450,420,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-04-06,450,470,460,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-05-28,520,570,560,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-05-31,550,560,560,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-06-03,540,550,545,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-06-13,470,470,470,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-06-19,570,570,570,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-06-27,550,550,550,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-07-21,550,550,550,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-10-07,500,540,520,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-10-26,530,540,534,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-10-29,520,540,530,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-12-27,510,530,520,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2020-12-28,510,530,520,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-01-08,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-01-11,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-01-16,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-02-08,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-02-12,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-03-13,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-03-18,700,750,720,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-06-06,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-06-10,600,650,625,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-06-21,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-07-01,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-07-02,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-07-10,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-07-12,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-07-13,600,650,620,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2020-07-19,600,650,620,345
+Uttar Pradesh,Amethi,Jafarganj,Dry Fodder,Dry Fodder,FAQ,2020-02-28,1200,1300,1250,345
+Uttar Pradesh,Amethi,Jafarganj,Dry Fodder,Dry Fodder,FAQ,2020-03-06,1250,1350,1300,345
+Uttar Pradesh,Amethi,Jafarganj,Dry Fodder,Dry Fodder,FAQ,2020-07-31,1250,1350,1300,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-01-01,630,710,680,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-01-09,630,700,680,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-01-11,670,700,685,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-01-13,660,700,680,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-01-22,620,700,675,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-01-23,640,685,665,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-01-31,640,670,655,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-02-10,630,670,650,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-02-13,630,670,645,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-02-16,630,665,650,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-02-19,620,650,640,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-02-22,630,655,645,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-02-28,640,675,660,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-03-12,630,660,645,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-03-18,630,670,650,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-03-20,620,660,645,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-04-26,540,570,560,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-04-30,530,560,550,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-06-06,520,560,540,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-06-29,520,560,540,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-07-20,510,550,530,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-08-24,510,535,525,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-08-28,505,535,520,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-09-05,520,540,530,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-09-09,505,530,520,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-09-19,505,525,515,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-09-21,505,530,520,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-09-26,510,535,525,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-10-03,505,525,515,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-10-05,500,520,510,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-10-06,505,525,515,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-10-12,505,525,515,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-10-15,510,535,525,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-10-26,490,515,505,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-10-30,495,515,505,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-11-26,505,530,520,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2020-12-04,500,520,510,345
+Haryana,Ambala,Ambala Cantt.,Dry Fodder,Dry Fodder,FAQ,2018-12-29,500,520,520,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-03-16,700,750,725,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-03-18,700,800,750,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-04-04,700,750,725,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-04-14,600,650,625,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-04-17,700,750,725,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-04-19,500,600,550,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-04-21,500,600,550,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-04-29,400,500,450,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-05-03,500,600,550,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-05-12,500,600,560,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-05-13,500,600,550,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-05-24,425,550,500,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-05-26,500,550,520,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-05-28,450,600,550,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-06-05,600,600,600,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-06-06,600,600,600,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-06-11,500,600,550,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-06-18,600,650,625,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-06-26,500,600,550,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-07-04,600,650,600,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-07-14,600,650,650,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-07-29,650,750,700,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-08-06,600,700,650,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-08-22,600,700,650,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-09-09,700,700,700,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-09-22,600,700,650,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-09-30,600,700,650,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-10-01,650,700,700,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-10-31,700,750,750,345
+Haryana,Faridabad,Ballabhgarh,Dry Fodder,Other,FAQ,2018-11-20,700,750,700,345
+Maharashtra,Sholapur,Barshi,Dry Fodder,Other,FAQ,2018-02-08,250,630,580,345
+Maharashtra,Sholapur,Barshi,Dry Fodder,Other,FAQ,2018-02-17,270,637,572,345
+Maharashtra,Sholapur,Barshi,Dry Fodder,Other,FAQ,2018-02-20,250,630,470,345
+Maharashtra,Sholapur,Barshi,Dry Fodder,Other,FAQ,2018-03-10,336,500,425,345
+Maharashtra,Sholapur,Barshi,Dry Fodder,Other,FAQ,2018-03-15,231,502,375,345
+Maharashtra,Sholapur,Barshi,Dry Fodder,Other,FAQ,2018-09-21,580,866,780,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-08-10,460,510,485,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-08-27,425,520,472,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-09-15,440,560,490,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-10-04,570,590,580,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-10-06,560,580,570,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-10-13,550,600,580,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-10-24,550,575,565,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-10-26,550,600,575,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-11-17,535,600,560,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-11-29,535,600,560,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-12-02,525,600,560,345
+Uttar Pradesh,Jhansi,Jhansi,Dry Fodder,Dry Fodder,FAQ,2018-12-03,535,600,565,345

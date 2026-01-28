@@ -1,0 +1,1153 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Karbuja(Musk Melon),Other,Medium,2015-06-09,1000,1060,1050,187
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Karbuja(Musk Melon),Other,Medium,2015-06-10,1200,1200,1200,187
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Karbuja(Musk Melon),Other,Medium,2015-06-16,600,660,650,187
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Karbuja(Musk Melon),Other,Medium,2015-06-17,500,500,500,187
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Karbuja(Musk Melon),Other,Medium,2015-06-18,600,660,650,187
+Punjab,Sangrur,Lehra Gaga,Karbuja(Musk Melon),Other,Medium,2015-05-19,2000,2000,2000,187
+Punjab,Sangrur,Lehra Gaga,Karbuja(Musk Melon),Other,Medium,2015-05-24,1000,1000,1000,187
+Punjab,Sangrur,Lehra Gaga,Karbuja(Musk Melon),Other,Medium,2015-06-03,500,500,500,187
+Punjab,Sangrur,Lehra Gaga,Karbuja(Musk Melon),Other,Medium,2015-06-12,500,500,500,187
+Punjab,Sangrur,Lehra Gaga,Karbuja(Musk Melon),Other,Medium,2015-06-15,500,500,500,187
+Punjab,Sangrur,Lehra Gaga,Karbuja(Musk Melon),Other,Medium,2015-06-16,500,500,500,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-05-06,2500,2500,2500,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-05-22,600,1000,800,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-05-24,600,800,700,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-05-29,700,1000,1000,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-05-30,300,500,400,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-06-07,200,500,300,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-06-14,300,500,500,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-06-16,150,300,200,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-17,200,300,300,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-06-18,400,400,400,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2015-06-19,400,500,500,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2015-06-10,500,800,600,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2015-06-18,500,700,600,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2015-06-19,300,600,500,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2015-06-21,500,800,700,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2015-06-01,600,800,700,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2015-06-20,300,500,400,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Small,2015-01-18,1000,1800,1500,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Small,2015-03-27,1000,1800,1600,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Small,2015-04-09,700,1800,1500,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2015-05-26,500,1200,1000,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2015-05-30,500,1400,1000,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2015-06-06,500,1000,800,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2015-06-07,500,1000,750,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2015-06-15,600,1200,850,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2015-06-30,500,1000,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-04-26,800,1600,1300,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-05-09,500,1000,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-05-19,500,1000,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-05-20,700,1000,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-05-26,500,1000,700,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-05-30,700,1000,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-06-08,700,1100,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-06-11,500,1100,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-06-19,600,1000,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2015-06-28,1000,1500,1200,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-04-25,1500,1500,1500,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-05-10,1000,1000,1000,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-05-12,1600,1600,1600,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-05-19,800,800,800,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-03,600,600,600,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-04,600,600,600,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-10,800,800,800,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-17,300,300,300,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-23,600,600,600,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-24,600,600,600,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Other,Medium,2015-04-23,2000,3000,2500,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Other,Medium,2015-04-27,1500,2200,1800,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Other,Medium,2015-05-02,1500,2200,1800,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Other,Medium,2015-04-25,400,800,600,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Other,Medium,2015-05-05,1000,1200,1100,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Other,Medium,2015-05-07,800,1000,900,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Other,Medium,2015-05-22,400,800,600,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-11,300,700,500,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-17,400,600,500,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Medium,2015-01-11,3200,3500,3250,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-04-08,1000,3000,2000,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-04-18,1200,2000,1600,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-04-21,1000,1600,1300,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-04-29,800,2200,1500,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-04-30,600,1000,800,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-05-05,800,3000,1900,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-05-10,700,1500,1100,187
+Rajasthan,Kota,Kota (F&V),Karbuja(Musk Melon),Other,Large,2015-05-13,800,1600,1200,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-02-25,1500,2000,1800,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-02,2500,3500,3200,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-09,2000,3000,2800,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-10,2000,3000,2800,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-16,2500,3500,3300,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-17,300,4000,380,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-04-27,1500,1800,1700,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-01,1500,2200,2000,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-04,1500,2000,1800,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-07,1800,2000,1900,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-09,1800,2000,1900,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-25,2000,4000,3500,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-30,1500,2200,2000,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-06-03,150,2000,180,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-06-15,150,2000,180,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-06-22,180,2200,2100,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-07-01,1800,2200,2100,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-07-16,2000,2500,2300,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-09-02,2000,2500,2300,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-09-14,1500,2200,2000,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-11-17,2000,2500,2300,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-12-03,1500,2000,1800,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-12-04,1500,2000,1800,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-02-10,2000,2300,2200,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-02-12,2000,2300,2200,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-02-24,1500,1800,1700,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-04,2000,3000,2800,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-07,2000,3000,2800,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-12,300,4000,3800,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-16,2500,3500,3300,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-19,300,4000,3800,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-28,2000,2500,2300,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-04-09,3000,3500,3300,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-05-04,1500,2000,1800,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-05-27,2000,3500,3000,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-06-16,1700,2000,1900,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-07-06,150,2000,180,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-07-16,200,2500,230,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-08-01,2000,3000,2600,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-08-10,2000,2500,2300,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-08-11,2000,3000,2500,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-09-02,2000,2500,2300,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-09-21,2500,3000,2800,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-11-21,2000,2500,2300,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-12-09,1500,2000,1800,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-03-17,2000,3000,2250,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-03-20,2000,2200,2100,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-03-24,2000,2500,2250,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-04-27,500,600,550,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-04-28,1200,1500,1350,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-05-20,700,1000,950,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-05-22,700,1000,850,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-05-26,500,1000,750,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-03,500,1000,750,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-04,500,1000,750,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-05,500,1000,750,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-12,500,1500,1000,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-18,500,800,650,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-19,550,750,650,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-20,500,700,600,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-22,400,600,500,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-27,250,350,300,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-07-09,300,500,400,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-01-11,1500,2000,1750,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-01-31,1500,2000,1750,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-15,1250,1750,1500,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-16,1250,2000,1500,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-20,1200,1800,1400,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-21,1200,2000,1500,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-04-14,1200,1700,1500,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-05-13,1000,1300,1200,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-06-02,1500,2000,1700,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-06-19,1200,2000,1500,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-06-27,1500,2000,1700,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-11-02,1500,2200,2000,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-11-04,1500,2000,1700,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Small,2015-04-08,1200,1500,1350,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-20,800,1000,900,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-01-09,2000,3000,2500,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-01-16,1600,2400,2000,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-05-24,2000,3000,2500,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-05-27,2000,3000,2500,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-06-19,2000,4000,3000,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-06-30,2000,2500,2300,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-10-22,1500,2000,1800,187
+Haryana,Ambala,Ambala City(Subji Mandi),Karbuja(Musk Melon),Other,Medium,2015-06-01,1400,2900,2000,187
+Haryana,Ambala,Mullana,Karbuja(Musk Melon),Other,Medium,2015-05-26,700,700,700,187
+Haryana,Ambala,Mullana,Karbuja(Musk Melon),Other,Medium,2015-06-04,800,800,800,187
+Haryana,Ambala,Mullana,Karbuja(Musk Melon),Other,Medium,2015-06-11,600,600,600,187
+Haryana,Ambala,Mullana,Karbuja(Musk Melon),Other,Medium,2015-06-18,600,600,600,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-06,2000,2000,2000,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-08,1000,2000,1700,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-11,1000,1500,1200,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-26,300,1000,550,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-27,400,700,600,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-29,400,700,500,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-05,200,500,400,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-08,400,500,470,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-17,400,600,500,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-23,400,400,400,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-16,1178,1178,1178,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-26,452,600,452,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-27,400,400,400,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-29,700,800,800,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Karbhuja,Large,2015-06-20,600,600,600,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-02-26,900,1100,1000,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-03-12,1000,1200,1100,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-04-22,900,1100,1000,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-04-24,1500,2000,1800,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-05-09,1000,1800,1200,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-06-09,600,800,700,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-06-10,800,1000,900,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Medium,2015-06-24,600,800,700,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2015-03-08,2400,2500,2400,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2015-03-10,2500,2700,2500,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2015-03-13,2800,3000,2800,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2015-04-07,2000,2000,2000,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-05-30,500,700,600,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-06-05,500,700,600,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-06-11,600,700,650,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-06-13,500,800,700,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-06-15,300,600,500,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-07-01,1800,1800,1800,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-08-03,2500,2500,2500,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-08-06,3000,3000,3000,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-08-12,2000,2000,2000,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-08-24,3500,3500,3500,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-09-16,3500,3500,3500,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-09-28,2000,2000,2000,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-10-13,2000,2500,2100,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-10-24,2500,2800,2600,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-11-10,2200,2800,2500,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-11-25,2500,2500,2500,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-11-27,3000,3000,3000,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-11-30,2600,2600,2600,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-12-10,2600,2600,2600,187
+Haryana,Sirsa,Sirsa,Karbuja(Musk Melon),Other,Medium,2015-12-28,2500,2500,2500,187
+Haryana,Sonipat,Ganaur,Karbuja(Musk Melon),Other,Large,2015-06-08,2500,3000,2750,187
+Haryana,Sonipat,Ganaur,Karbuja(Musk Melon),Other,Large,2015-06-11,2000,2500,2250,187
+Haryana,Sonipat,Ganaur,Karbuja(Musk Melon),Other,Large,2015-06-16,2000,2500,2250,187
+Haryana,Sonipat,Ganaur,Karbuja(Musk Melon),Other,Large,2015-06-19,1500,2000,1750,187
+Haryana,Sonipat,Ganaur,Karbuja(Musk Melon),Other,Large,2015-06-22,2000,2500,2400,187
+Haryana,Sonipat,Sonepat,Karbuja(Musk Melon),Other,Medium,2015-05-20,2000,2500,2000,187
+Haryana,Sonipat,Sonepat,Karbuja(Musk Melon),Other,Medium,2015-05-30,1600,2000,1600,187
+Haryana,Sonipat,Sonepat,Karbuja(Musk Melon),Other,Medium,2015-06-10,1000,1500,1000,187
+Haryana,Sonipat,Sonepat,Karbuja(Musk Melon),Other,Medium,2015-06-11,1000,1500,1500,187
+Haryana,Sonipat,Sonepat,Karbuja(Musk Melon),Other,Medium,2015-06-23,1000,1500,1000,187
+Haryana,Sonipat,Sonepat,Karbuja(Musk Melon),Other,Medium,2015-06-27,1000,1200,1000,187
+Haryana,Sonipat,Sonepat(Kharkhoda),Karbuja(Musk Melon),Other,Medium,2015-05-28,1400,1600,1400,187
+Haryana,Sonipat,Sonepat(Kharkhoda),Karbuja(Musk Melon),Other,Medium,2015-06-11,1300,1500,1300,187
+Haryana,Sonipat,Sonepat(Kharkhoda),Karbuja(Musk Melon),Other,Medium,2015-06-15,1300,1500,1300,187
+Haryana,Sonipat,Sonepat(Kharkhoda),Karbuja(Musk Melon),Other,Medium,2015-06-16,1300,1500,1300,187
+Haryana,Yamuna Nagar,Chhachrauli,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-02,664,664,664,187
+Haryana,Yamuna Nagar,Chhachrauli,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-05,625,625,625,187
+Haryana,Yamuna Nagar,Chhachrauli,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-14,617,617,617,187
+Haryana,Yamuna Nagar,Chhachrauli,Karbuja(Musk Melon),Karbhuja,Medium,2015-06-19,522,522,522,187
+Haryana,Yamuna Nagar,Radaur,Karbuja(Musk Melon),Other,Medium,2015-06-01,800,1000,900,187
+Haryana,Yamuna Nagar,Radaur,Karbuja(Musk Melon),Other,Medium,2015-06-09,600,800,700,187
+Haryana,Yamuna Nagar,Radaur,Karbuja(Musk Melon),Other,Medium,2015-06-12,600,800,700,187
+Haryana,Yamuna Nagar,Radaur,Karbuja(Musk Melon),Other,Medium,2015-06-14,400,700,500,187
+Haryana,Yamuna Nagar,Radaur,Karbuja(Musk Melon),Other,Medium,2015-06-19,500,700,600,187
+Haryana,Yamuna Nagar,Radaur,Karbuja(Musk Melon),Other,Medium,2015-06-23,500,600,600,187
+Haryana,Yamuna Nagar,Radaur,Karbuja(Musk Melon),Other,Medium,2015-06-27,600,600,600,187
+Haryana,Yamuna Nagar,Yamuna Nagar,Karbuja(Musk Melon),Other,Medium,2015-06-28,600,1200,1000,187
+Haryana,Yamuna Nagar,Yamuna Nagar,Karbuja(Musk Melon),Other,Medium,2015-07-13,600,1200,1000,187
+Haryana,Yamuna Nagar,Yamuna Nagar,Karbuja(Musk Melon),Other,Small,2015-07-15,600,1200,1000,187
+Haryana,Yamuna Nagar,Yamuna Nagar,Karbuja(Musk Melon),Other,Medium,2015-07-16,600,1200,1000,187
+Himachal Pradesh,Chamba,Chamba,Karbuja(Musk Melon),Other,Medium,2015-04-17,1400,1600,1500,187
+Himachal Pradesh,Chamba,Chamba,Karbuja(Musk Melon),Other,Medium,2015-05-18,1200,1300,1250,187
+Himachal Pradesh,Chamba,Chamba,Karbuja(Musk Melon),Other,Medium,2015-05-27,700,900,800,187
+Himachal Pradesh,Chamba,Chamba,Karbuja(Musk Melon),Other,Medium,2015-06-29,500,1200,850,187
+Himachal Pradesh,Hamirpur,Hamirpur,Karbuja(Musk Melon),Other,Large,2015-05-11,2400,2400,2400,187
+Himachal Pradesh,Hamirpur,Hamirpur,Karbuja(Musk Melon),Other,Large,2015-05-16,3100,3100,3100,187
+Himachal Pradesh,Hamirpur,Hamirpur,Karbuja(Musk Melon),Other,Large,2015-05-29,800,1200,1000,187
+Himachal Pradesh,Hamirpur,Hamirpur,Karbuja(Musk Melon),Other,Large,2015-06-01,1000,1500,1200,187
+Himachal Pradesh,Hamirpur,Hamirpur,Karbuja(Musk Melon),Other,Large,2015-06-03,800,1000,900,187
+Himachal Pradesh,Hamirpur,Hamirpur,Karbuja(Musk Melon),Other,Large,2015-06-11,900,1500,1200,187
+Himachal Pradesh,Hamirpur,Hamirpur,Karbuja(Musk Melon),Other,Large,2015-06-25,800,1000,900,187
+Himachal Pradesh,Kullu,Bhuntar,Karbuja(Musk Melon),Other,Medium,2015-06-01,1400,1500,1450,187
+Himachal Pradesh,Kullu,Bhuntar,Karbuja(Musk Melon),Other,Medium,2015-06-04,1200,1300,1250,187
+Himachal Pradesh,Kullu,Bhuntar,Karbuja(Musk Melon),Other,Medium,2015-06-05,1300,1400,1350,187
+Himachal Pradesh,Kullu,Bhuntar,Karbuja(Musk Melon),Other,Medium,2015-06-16,900,1000,950,187
+Himachal Pradesh,Kullu,Bhuntar,Karbuja(Musk Melon),Other,Medium,2015-06-17,1000,1200,1100,187
+Himachal Pradesh,Kullu,Bhuntar,Karbuja(Musk Melon),Other,Medium,2015-06-22,900,1000,930,187
+Himachal Pradesh,Kullu,Bhuntar,Karbuja(Musk Melon),Other,Medium,2015-06-25,1000,1100,1030,187
+Himachal Pradesh,Kullu,Kullu,Karbuja(Musk Melon),Other,Medium,2015-06-04,1200,1400,1300,187
+Himachal Pradesh,Kullu,Kullu,Karbuja(Musk Melon),Other,Medium,2015-06-08,1200,1300,1250,187
+Himachal Pradesh,Kullu,Kullu,Karbuja(Musk Melon),Other,Medium,2015-06-25,1000,1200,1100,187
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-14,1800,2000,1800,187
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-18,1400,2000,1600,187
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Karbuja(Musk Melon),Karbhuja,Medium,2015-06-20,500,800,600,187
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Karbuja(Musk Melon),Karbhuja,Large,2015-06-24,800,1100,1000,187
+Himachal Pradesh,Mandi,Mandi(Mandi),Karbuja(Musk Melon),Other,Medium,2015-06-20,700,1400,1000,187
+Himachal Pradesh,Sirmore,Nahan,Karbuja(Musk Melon),Other,Medium,2015-06-19,1100,1300,1200,187
+Himachal Pradesh,Sirmore,Nahan,Karbuja(Musk Melon),Other,Medium,2015-06-20,1000,1000,1000,187
+Himachal Pradesh,Sirmore,Paonta Sahib,Karbuja(Musk Melon),Other,Medium,2015-06-19,800,1000,900,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-04-22,2500,3000,2750,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-04-25,3000,4000,3500,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-05-14,2000,3000,2500,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-05-15,2000,2500,2250,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-05-26,1000,1500,1250,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-06-02,1000,2000,1500,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-06-18,1000,1500,1250,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-06-20,1000,1500,1250,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-06-22,1000,1500,1250,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-07-12,1000,1500,1250,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-07-14,1000,1400,1200,187
+Himachal Pradesh,Solan,Solan,Karbuja(Musk Melon),Other,Medium,2015-07-15,1000,1700,1350,187
+Himachal Pradesh,Solan,Solan(Nalagarh),Karbuja(Musk Melon),Other,Medium,2015-05-28,800,1000,900,187
+Himachal Pradesh,Una,Santoshgarh,Karbuja(Musk Melon),Other,Medium,2015-05-26,1000,1200,1100,187
+Himachal Pradesh,Una,Santoshgarh,Karbuja(Musk Melon),Other,Medium,2015-06-11,600,600,600,187
+Himachal Pradesh,Una,Santoshgarh,Karbuja(Musk Melon),Other,Medium,2015-06-16,500,500,500,187
+Himachal Pradesh,Una,Santoshgarh,Karbuja(Musk Melon),Other,Medium,2015-06-17,400,600,500,187
+Himachal Pradesh,Una,Santoshgarh,Karbuja(Musk Melon),Other,Medium,2015-06-20,600,600,600,187
+Himachal Pradesh,Una,Una,Karbuja(Musk Melon),Other,Medium,2015-05-09,4000,4000,4000,187
+Himachal Pradesh,Una,Una,Karbuja(Musk Melon),Other,Medium,2015-06-05,600,700,700,187
+Himachal Pradesh,Una,Una,Karbuja(Musk Melon),Other,Medium,2015-06-07,500,800,600,187
+Himachal Pradesh,Una,Una,Karbuja(Musk Melon),Other,Medium,2015-06-17,400,600,500,187
+Himachal Pradesh,Una,Una,Karbuja(Musk Melon),Other,Medium,2015-06-19,600,800,700,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-05-25,800,1200,1000,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-09,500,600,550,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-16,500,600,550,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-17,500,600,550,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-25,1000,1350,1150,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-06-26,1000,1200,1100,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-07-01,500,800,650,187
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Karbuja(Musk Melon),Other,Medium,2015-07-02,1000,1300,1150,187
+Jammu and Kashmir,Kathua,Kathua,Karbuja(Musk Melon),Other,Medium,2015-05-09,4200,4500,4500,187
+Jammu and Kashmir,Kathua,Kathua,Karbuja(Musk Melon),Other,Medium,2015-05-13,4000,4400,4200,187
+Jammu and Kashmir,Kathua,Kathua,Karbuja(Musk Melon),Other,Medium,2015-06-12,600,700,650,187
+Jammu and Kashmir,Kathua,Kathua,Karbuja(Musk Melon),Other,Medium,2015-06-18,800,1000,900,187
+Jammu and Kashmir,Kathua,Kathua,Karbuja(Musk Melon),Other,Medium,2015-06-22,600,700,650,187
+Jammu and Kashmir,Kathua,Kathua,Karbuja(Musk Melon),Other,Medium,2015-06-27,700,800,750,187
+Jammu and Kashmir,Kathua,Kathua,Karbuja(Musk Melon),Other,Medium,2015-07-02,700,900,800,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-03-27,4000,5000,4500,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-04-15,4500,5000,4750,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-09-12,4285,4715,4500,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-09-15,4285,4710,4500,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-09-19,4285,4715,4500,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-09-21,4285,4715,4500,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-10-17,3000,3500,3250,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-10-22,3000,3500,3250,187
+Jammu and Kashmir,Srinagar,Parimpore,Karbuja(Musk Melon),Other,Medium,2015-10-24,3000,3500,3250,187
+Jammu and Kashmir,Udhampur,Reasi,Karbuja(Musk Melon),Other,Medium,2015-05-26,2000,2200,2200,187
+Jammu and Kashmir,Udhampur,Reasi,Karbuja(Musk Melon),Other,Medium,2015-06-08,1400,1600,1500,187
+Jammu and Kashmir,Udhampur,Reasi,Karbuja(Musk Melon),Other,Medium,2015-06-11,1400,1800,1500,187
+Jammu and Kashmir,Udhampur,Reasi,Karbuja(Musk Melon),Other,Medium,2015-06-22,1000,1200,1100,187
+Jammu and Kashmir,Udhampur,Reasi,Karbuja(Musk Melon),Other,Medium,2015-06-26,1200,1400,1200,187
+Jammu and Kashmir,Udhampur,Reasi,Karbuja(Musk Melon),Other,Medium,2015-07-03,1200,1500,1400,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-01-14,800,1400,1100,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-01-19,600,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-01-23,700,1400,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,Medium,2015-01-28,600,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-01-31,600,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-02-03,400,1200,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-02-05,400,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-02-13,700,1500,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-03-03,700,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-03-30,900,1600,1200,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-04-07,600,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-04-09,600,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-04-17,800,1000,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-04-27,600,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-04-28,800,1000,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-05-27,700,1500,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-06-01,700,1500,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-06-03,400,1200,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-06-09,700,1400,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-06-15,700,1500,1200,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-06-16,800,1600,1200,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-06-22,600,1500,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-07-04,800,1500,1200,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-07-06,800,1600,1200,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-07-07,800,1500,1200,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-07-17,800,1400,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-08-05,500,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-08-18,500,1500,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-08-26,500,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-08-28,600,1200,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-09-09,500,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-09-15,500,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-09-21,500,1500,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-09-24,600,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-10-05,600,1200,900,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-10-07,600,1400,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-10-14,700,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-10-17,800,1800,1400,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-10-29,800,1400,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-10-31,600,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-11-07,500,1200,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-11-19,500,900,700,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-11-20,500,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-11-30,600,1400,1000,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-12-04,500,1200,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-12-08,600,1200,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-12-16,500,1000,800,187
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Karbuja(Musk Melon),Karbhuja,FAQ,2015-12-19,400,1200,800,187
+Karnataka,Bangalore,Hoskote,Karbuja(Musk Melon),Karbhuja,FAQ,2015-06-06,2500,3000,2800,187
+Karnataka,Bangalore,Hoskote,Karbuja(Musk Melon),Karbhuja,FAQ,2015-08-31,1800,1800,1800,187
+Karnataka,Bangalore,Hoskote,Karbuja(Musk Melon),Karbhuja,FAQ,2015-12-09,1200,1400,1200,187
+Madhya Pradesh,Bhopal,Bhopal(F&V),Karbuja(Musk Melon),Other,Small,2015-05-15,300,500,400,187
+Madhya Pradesh,Bhopal,Bhopal(F&V),Karbuja(Musk Melon),Other,Small,2015-05-23,300,500,400,187
+Madhya Pradesh,Bhopal,Bhopal(F&V),Karbuja(Musk Melon),Other,Small,2015-05-28,300,500,400,187
+Madhya Pradesh,Bhopal,Bhopal(F&V),Karbuja(Musk Melon),Other,Small,2015-05-29,300,500,400,187
+Madhya Pradesh,Bhopal,Bhopal(F&V),Karbuja(Musk Melon),Other,Medium,2015-06-10,300,800,500,187
+Madhya Pradesh,Bhopal,Bhopal(F&V),Karbuja(Musk Melon),Other,Medium,2015-06-16,500,1000,600,187
+Madhya Pradesh,Bhopal,Bhopal(F&V),Karbuja(Musk Melon),Other,Medium,2015-06-17,500,1000,600,187
+Madhya Pradesh,Gwalior,Lashkar(F&V),Karbuja(Musk Melon),Karbhuja,Medium,2015-04-12,1400,1600,1500,187
+Madhya Pradesh,Gwalior,Lashkar(F&V),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-17,800,1200,1000,187
+Madhya Pradesh,Gwalior,Lashkar(F&V),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-18,800,1200,1000,187
+Madhya Pradesh,Gwalior,Lashkar(F&V),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-20,700,900,800,187
+Madhya Pradesh,Gwalior,Lashkar(F&V),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-23,600,800,700,187
+Madhya Pradesh,Ujjain,Ujjain(F&V),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-01,1000,1600,1490,187
+Madhya Pradesh,Ujjain,Ujjain(F&V),Karbuja(Musk Melon),Karbhuja,Medium,2015-05-05,1000,1000,1000,187
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Karbuja(Musk Melon),Other,Medium,2014-05-13,600,800,650,187
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Karbuja(Musk Melon),Other,Medium,2014-05-20,500,650,600,187
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Karbuja(Musk Melon),Other,Medium,2014-05-27,450,600,500,187
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Karbuja(Musk Melon),Other,Medium,2014-05-31,500,600,500,187
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Karbuja(Musk Melon),Other,Medium,2014-06-06,450,600,500,187
+Punjab,Hoshiarpur,Garh Shankar(Mahalpur),Karbuja(Musk Melon),Other,Medium,2014-06-09,400,500,400,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-08,600,900,750,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-11,1000,1200,1100,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-17,300,400,350,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-24,300,400,350,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-25,300,400,350,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-26,300,400,350,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-27,300,400,350,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-05-30,300,400,350,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-06-08,200,300,250,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-06-10,150,250,200,187
+Punjab,Hoshiarpur,Hoshiarpur,Karbuja(Musk Melon),Other,Small,2014-06-14,150,250,200,187
+Punjab,Hoshiarpur,Mukerian,Karbuja(Musk Melon),Karbhuja,Medium,2014-05-17,1200,1400,1350,187
+Punjab,Hoshiarpur,Mukerian,Karbuja(Musk Melon),Karbhuja,Medium,2014-05-26,600,900,750,187
+Punjab,Hoshiarpur,Mukerian,Karbuja(Musk Melon),Karbhuja,Medium,2014-05-27,400,650,550,187
+Punjab,Hoshiarpur,Mukerian,Karbuja(Musk Melon),Karbhuja,Medium,2014-06-01,400,600,550,187
+Punjab,Hoshiarpur,Mukerian,Karbuja(Musk Melon),Karbhuja,Medium,2014-06-07,600,850,800,187
+Punjab,Hoshiarpur,Mukerian,Karbuja(Musk Melon),Karbhuja,Medium,2014-06-09,600,800,700,187
+Punjab,Hoshiarpur,Mukerian,Karbuja(Musk Melon),Karbhuja,Medium,2014-06-22,400,500,450,187
+Punjab,Hoshiarpur,Mukerian(Talwara),Karbuja(Musk Melon),Karbhuja,Medium,2014-05-29,300,500,400,187
+Punjab,Hoshiarpur,Mukerian(Talwara),Karbuja(Musk Melon),Karbhuja,Medium,2014-06-03,400,500,400,187
+Punjab,Hoshiarpur,Mukerian(Talwara),Karbuja(Musk Melon),Karbhuja,Medium,2014-06-16,400,500,450,187
+Punjab,Hoshiarpur,Mukerian(Talwara),Karbuja(Musk Melon),Karbhuja,Medium,2014-06-22,300,400,350,187
+Punjab,Hoshiarpur,Mukerian(Talwara),Karbuja(Musk Melon),Karbhuja,Medium,2014-06-23,500,550,500,187
+Punjab,Hoshiarpur,Mukerian(Talwara),Karbuja(Musk Melon),Karbhuja,Medium,2014-06-24,500,1000,800,187
+Punjab,Hoshiarpur,Mukerian(Talwara),Karbuja(Musk Melon),Karbhuja,Medium,2014-06-26,400,500,500,187
+Punjab,Jalandhar,Adampur,Karbuja(Musk Melon),Other,Medium,2014-05-21,700,1000,1000,187
+Punjab,Jalandhar,Adampur,Karbuja(Musk Melon),Other,Medium,2014-05-23,500,700,700,187
+Punjab,Jalandhar,Adampur,Karbuja(Musk Melon),Other,Medium,2014-05-24,500,700,700,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-04-21,1400,1600,1500,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-04-22,1400,1600,1500,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-04-27,1200,1600,1400,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-04-30,1200,1800,1500,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-05-03,1000,1200,1100,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-05-04,2500,3500,3000,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-05-12,1200,1800,1500,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-05-15,1800,2000,1900,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-05-22,1400,2000,1700,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-06-09,1600,1800,1700,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-06-13,1600,1800,1700,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-06-14,1600,1800,1700,187
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Karbuja(Musk Melon),Other,FAQ,2018-12-31,1800,2200,2000,187
+Maharashtra,Chandrapur,Chandrapur,Karbuja(Musk Melon),Other,FAQ,2018-01-13,2000,2500,2300,187
+Maharashtra,Chandrapur,Chandrapur,Karbuja(Musk Melon),Other,FAQ,2018-01-30,1200,1800,1500,187
+Maharashtra,Chandrapur,Chandrapur,Karbuja(Musk Melon),Other,FAQ,2018-02-19,1000,1800,1400,187
+Maharashtra,Chandrapur,Chandrapur,Karbuja(Musk Melon),Other,FAQ,2018-03-01,1000,2000,1500,187
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Karbuja(Musk Melon),Other,FAQ,2018-04-19,1200,2500,1700,187
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Karbuja(Musk Melon),Other,FAQ,2018-05-03,1500,2500,2000,187
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Karbuja(Musk Melon),Other,FAQ,2018-05-17,1500,2700,2000,187
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Karbuja(Musk Melon),Other,FAQ,2018-05-21,2000,3000,2500,187
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Karbuja(Musk Melon),Other,FAQ,2018-06-02,1400,2500,1800,187
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Karbuja(Musk Melon),Other,FAQ,2018-08-26,1800,3000,2600,187
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Karbuja(Musk Melon),Other,FAQ,2018-09-03,1000,2200,1500,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-01-29,1600,2300,1950,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-02-10,1000,2000,1500,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-02-11,1600,2000,1800,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-02-13,1000,2200,1600,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-02-18,1600,2000,1800,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-02-27,1000,1400,1200,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-03-03,1200,1800,1500,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-03-07,1000,2000,1500,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-03-15,1000,1800,1400,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-03-18,1200,1600,1400,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-03-24,1000,1800,1400,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-03-25,1200,2000,1600,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-03-26,1400,2000,1700,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-04-08,1000,1500,1250,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-04-09,1000,1400,1200,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-04-16,1000,1800,1400,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-04-22,400,1200,800,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-04-29,600,1000,800,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-05-13,1000,1600,1300,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-05-15,1800,2000,1900,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-05-26,1500,2500,2000,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-06-06,1500,2600,2050,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-06-10,1600,2200,1900,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-11-10,600,1000,800,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-12-20,1800,2000,1900,187
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Karbuja(Musk Melon),Other,FAQ,2018-12-27,1000,1500,1250,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-02-14,800,1800,1300,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-02-18,1200,2000,1600,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-02-20,800,2000,1400,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-02-22,800,1500,1150,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-02-24,900,1700,1300,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-04-01,700,1700,1200,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-04-26,700,1300,1000,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-04-28,600,1100,850,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-05-24,500,2200,1350,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-06-08,2200,3000,2600,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-06-15,1600,1700,1650,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-12-18,700,1700,1200,187
+Maharashtra,Dharashiv(Usmanabad),Dharashiv,Karbuja(Musk Melon),Other,FAQ,2018-12-24,1300,1600,1450,187
+Maharashtra,Mumbai,Mumbai- Fruit Market,Karbuja(Musk Melon),Other,FAQ,2018-03-23,1400,1800,1600,187
+Maharashtra,Mumbai,Mumbai- Fruit Market,Karbuja(Musk Melon),Other,FAQ,2018-05-31,900,2400,1400,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-03-29,1500,1800,1725,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-04-11,1200,1600,1500,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-04-28,1000,1500,1375,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-05-02,1200,1500,1425,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-05-15,1200,1500,1425,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-05-21,2000,2200,2150,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-06-02,1500,1800,1725,187
+Maharashtra,Nagpur,Nagpur,Karbuja(Musk Melon),Other,FAQ,2018-06-10,1200,1400,1350,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-01-08,100,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-01-11,1000,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-01-12,1000,2800,1950,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-01-20,1000,2800,1950,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-02-07,500,900,700,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-02-22,1000,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-02-23,1000,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-02-27,1000,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-03-06,1000,2200,1700,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-03-29,1000,2200,1700,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-03-30,1000,2200,1700,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-04-02,1000,2200,1700,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-04-09,900,1500,1100,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-04-10,900,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-04-12,900,1500,1100,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-04-21,700,2100,1700,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-04-27,1500,2500,1900,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-04-28,1000,2000,1600,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-05-29,1000,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-06-05,1000,2000,1400,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-06-08,1000,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-06-13,1000,2000,1500,187
+Maharashtra,Nashik,Nasik,Karbuja(Musk Melon),Other,FAQ,2018-09-05,1000,2500,1800,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-02-05,1000,3000,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-02-14,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-02-15,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-02-18,1000,3000,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-02-21,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-03-07,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-03-11,1000,2500,2000,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-03-14,1000,2500,2000,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-03-15,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-03-22,1000,2000,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-03-26,1000,2000,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-03-30,1000,2500,2000,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-04-09,1000,2200,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-04-19,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-05-06,500,2000,1000,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-05-07,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-05-24,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-05-25,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-06-05,1500,2500,1900,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-06-06,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-06-17,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-06-20,1000,2000,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-06-24,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-06-26,1000,2000,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-06-28,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-01,1000,2500,2000,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-04,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-05,1000,1500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-12,1000,2000,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-19,1000,2500,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-26,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-29,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-07-31,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-08-02,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-08-06,1000,2500,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-08-19,1000,2500,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-08-26,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-09-16,1000,2500,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-09-17,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-09-18,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-10-01,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-10-09,1000,2500,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-10-11,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-10-14,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-10-15,1000,2500,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-11-09,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-11-18,1500,2500,1600,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-11-19,1000,2000,1200,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-11-22,700,1500,1000,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-11-26,1000,1500,1300,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-05,1000,2000,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-09,1000,2000,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-11,1000,2000,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-16,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-18,1000,2500,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-24,1000,2200,1400,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-27,1000,2000,1500,187
+Maharashtra,Pune,Pune,Karbuja(Musk Melon),Other,FAQ,2018-12-28,1000,2000,1200,187
+Maharashtra,Satara,Phaltan,Karbuja(Musk Melon),Other,FAQ,2018-04-03,500,1600,1000,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-01-01,750,3125,1729,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-01-15,750,2875,1729,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-01-19,750,2500,1542,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-01-22,750,2500,1563,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-02-10,750,3250,1688,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-02-14,750,4100,1889,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-02-15,750,4100,1889,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-02-27,750,4000,1892,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-03-10,875,4600,2039,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-04-05,875,5333,2283,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-04-07,875,5333,2276,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-04-14,875,4333,2217,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-04-18,800,3333,1925,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-04-30,667,3333,1719,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-03,667,3333,1719,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-11,667,4000,2042,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-17,533,4500,1716,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-22,533,4875,1774,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-25,533,4875,1774,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-06-02,533,4875,1774,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-06-07,533,5000,1824,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-06-09,533,5000,1824,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-06-18,533,4375,1781,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-07-12,750,3125,1938,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-07-20,500,2000,1219,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-08-02,500,2375,1438,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-08-07,500,2375,1323,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-08-08,500,2500,1354,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-08-10,500,2375,1375,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-08-23,500,2125,1333,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-08-24,500,2125,1333,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-08-25,500,2125,1333,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-09-06,1000,2500,1583,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-09-15,750,3000,1667,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-09-26,750,2750,1583,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-09-28,750,2750,1542,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-10-08,750,3125,1708,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-10-17,750,2875,1500,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-10-22,750,3125,1625,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-10-31,750,2750,1583,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-11-02,750,2750,1583,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-11-17,750,2750,1542,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-11-28,1000,2500,1583,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-12-08,1250,3750,2313,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-12-18,875,2500,1542,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-12-20,875,2500,1542,187
+NCT of Delhi,Delhi,Azadpur,Karbuja(Musk Melon),Karbhuja,Large,2018-12-21,875,2500,1542,187
+Punjab,Amritsar,Ajnala,Karbuja(Musk Melon),Karbhuja,Small,2018-06-25,800,1100,1000,187
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Karbuja(Musk Melon),Other,Medium,2018-04-04,1800,2600,2400,187
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Karbuja(Musk Melon),Other,Medium,2018-04-14,1800,2200,2000,187
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Karbuja(Musk Melon),Other,Medium,2018-04-17,2000,2400,2200,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-04-22,1300,1500,1400,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-04-23,1200,1500,1350,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-04-24,1000,1300,1150,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-05-05,1000,1200,1100,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-05-11,1000,1500,1250,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-05-19,700,900,800,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-05-26,800,1000,900,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-05-29,1000,1500,1250,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-06-04,800,1200,1000,187
+Punjab,Barnala,Barnala,Karbuja(Musk Melon),Other,Large,2018-06-06,1000,1200,1100,187
+Punjab,Bhatinda,Talwandi Sabo,Karbuja(Musk Melon),Other,Medium,2018-05-08,500,700,600,187
+Punjab,Bhatinda,Talwandi Sabo,Karbuja(Musk Melon),Other,Medium,2018-05-17,800,1000,900,187
+Punjab,Bhatinda,Talwandi Sabo,Karbuja(Musk Melon),Other,Medium,2018-05-18,900,1100,1000,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-02,1000,1500,1500,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-07,1000,1500,1500,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-14,800,1000,850,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-15,800,1000,1000,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-21,700,1000,850,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-23,800,1250,1000,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-25,1150,1550,1350,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-05-29,1000,1550,1250,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-06-02,1500,2000,1500,187
+Punjab,Faridkot,Faridkot,Karbuja(Musk Melon),Karbhuja,Large,2018-06-15,1200,1500,1350,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-27,1200,1500,1300,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-28,1000,1300,1200,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-08,1000,1000,1000,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-15,1200,1500,1300,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-17,3000,3500,3200,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-29,1200,1500,1400,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-01,1000,1200,1100,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Large,2018-06-02,1000,1200,1100,187
+Punjab,Fatehgarh,Bassi Pathana,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-05,1100,1300,1200,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-04-30,1800,2300,2000,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-05-01,1800,2200,2000,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-05-07,900,1500,1000,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-05-08,900,2000,1200,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-05-11,1200,2000,1600,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-05-16,1000,1500,1200,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-05-23,1000,2000,1500,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-05-26,1000,2200,1500,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-06-09,1500,2000,1800,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-06-11,1500,2000,1800,187
+Punjab,Fatehgarh,Sirhind,Karbuja(Musk Melon),Other,Medium,2018-06-14,1600,2200,1900,187
+Punjab,Fazilka,Abohar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-04,700,1200,1200,187
+Punjab,Fazilka,Abohar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-07,750,1200,950,187
+Punjab,Fazilka,Abohar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-09,750,1000,900,187
+Punjab,Fazilka,Abohar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-22,650,1000,700,187
+Punjab,Fazilka,Abohar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-30,800,1250,1050,187
+Punjab,Fazilka,Abohar,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-01,1200,1500,1200,187
+Punjab,Fazilka,Abohar,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-19,700,1000,900,187
+Punjab,Ferozpur,Firozepur City,Karbuja(Musk Melon),Other,Medium,2018-05-22,600,800,700,187
+Punjab,Ferozpur,Firozepur City,Karbuja(Musk Melon),Other,Medium,2018-05-23,700,1000,850,187
+Punjab,Ferozpur,Firozepur City,Karbuja(Musk Melon),Other,Medium,2018-05-29,800,1100,950,187
+Punjab,Ferozpur,Firozepur City,Karbuja(Musk Melon),Other,Medium,2018-06-07,1000,1200,1100,187
+Punjab,Ferozpur,Firozepur City,Karbuja(Musk Melon),Other,Medium,2018-06-19,1000,1400,1200,187
+Punjab,Ferozpur,Firozepur City,Karbuja(Musk Melon),Other,Medium,2018-06-22,800,1000,900,187
+Punjab,Ferozpur,Guru Har Sahai,Karbuja(Musk Melon),Other,Medium,2018-07-12,600,1000,800,187
+Punjab,Ferozpur,Zira,Karbuja(Musk Melon),Other,Medium,2018-05-11,700,900,800,187
+Punjab,Ferozpur,Zira,Karbuja(Musk Melon),Other,Medium,2018-05-22,300,500,400,187
+Punjab,Ferozpur,Zira,Karbuja(Musk Melon),Other,Medium,2018-06-08,400,600,500,187
+Punjab,Ferozpur,Zira,Karbuja(Musk Melon),Other,Medium,2018-06-16,400,600,500,187
+Punjab,Ferozpur,Zira,Karbuja(Musk Melon),Other,Medium,2018-06-19,300,500,400,187
+Punjab,Ferozpur,Zira,Karbuja(Musk Melon),Other,Medium,2018-06-23,400,600,500,187
+Punjab,Gurdaspur,Batala,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,1000,1200,1100,187
+Punjab,Gurdaspur,Dera Baba Nanak,Karbuja(Musk Melon),Other,Medium,2018-05-15,1000,1200,1100,187
+Punjab,Gurdaspur,Dera Baba Nanak,Karbuja(Musk Melon),Other,Medium,2018-05-28,800,1000,900,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-11,1200,1600,1400,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-13,700,1000,800,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-20,800,1100,1000,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,1400,1600,1500,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-04,1700,2000,1800,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-06,1700,2000,1800,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-10,1600,1800,1700,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-11,1300,1600,1400,187
+Punjab,Gurdaspur,Dinanagar,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-15,2000,2400,2200,187
+Punjab,Gurdaspur,F.G.Churian,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-09,920,950,940,187
+Punjab,Gurdaspur,F.G.Churian,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-11,600,670,620,187
+Punjab,Gurdaspur,F.G.Churian,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-08,420,500,440,187
+Punjab,Gurdaspur,F.G.Churian,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-15,400,450,410,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-04-13,1500,2000,1700,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-04-16,1800,2000,1875,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-04-20,1800,2500,2200,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-04-21,1800,2300,2100,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-04-24,2500,3000,2700,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-07,900,1100,975,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-10,700,1000,800,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-17,2000,3200,2700,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-18,1500,1800,1600,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-23,400,500,450,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-25,900,1100,1000,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-28,1000,1200,1100,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-05-29,900,1200,1000,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-06-06,1800,2000,1900,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-06-08,1000,1500,1300,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-06-14,1000,1500,1200,187
+Punjab,Gurdaspur,Gurdaspur,Karbuja(Musk Melon),Other,Medium,2018-06-20,600,800,700,187
+Punjab,Gurdaspur,Quadian,Karbuja(Musk Melon),Other,Medium,2018-06-01,1200,1400,1300,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-06,5500,6000,6000,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Large,2018-04-14,4500,5000,5000,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Small,2018-04-30,500,800,800,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-05,1000,1200,1200,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-07,800,1000,1000,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-10,700,800,800,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-12,500,700,700,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-19,600,700,700,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-01,2000,2800,2400,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-01,2000,2500,2250,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-04,2400,2600,2500,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-09,2000,2500,2250,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-12,2000,2500,2250,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-16,1800,2200,2000,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-17,2000,2200,2100,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-20,3000,3500,3250,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-22,3200,3600,3400,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-23,3000,3500,3250,187
+Chattisgarh,Durg,Durg,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-24,3200,3600,3400,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2018-05-03,500,700,600,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2018-05-15,1000,1400,1200,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2018-05-25,1400,1500,1450,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2018-06-05,900,1100,1000,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2018-06-06,1000,1500,1250,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2018-06-09,900,1400,1150,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2018-06-13,900,1100,1000,187
+Haryana,Ambala,Ambala Cantt.,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-29,700,1200,800,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-01-20,4400,4500,4400,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-01-21,4300,4400,4300,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-01-28,3700,3800,3700,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-07,3000,4200,3500,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-12,3500,4400,4000,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-13,4000,5000,4500,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-14,4000,5000,4500,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-22,3500,4500,4000,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-26,3100,3500,3300,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-29,3100,4100,3500,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-03-30,3100,4200,3500,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Large,2018-06-13,1500,2800,2400,187
+Haryana,Ambala,Ambala City,Karbuja(Musk Melon),Other,Medium,2018-12-06,3800,3800,3800,187
+Haryana,Ambala,Mullana,Karbuja(Musk Melon),Other,Medium,2018-05-07,900,900,900,187
+Haryana,Ambala,Mullana,Karbuja(Musk Melon),Other,Medium,2018-05-09,900,900,900,187
+Haryana,Ambala,Mullana,Karbuja(Musk Melon),Other,Medium,2018-05-21,800,800,800,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-11,4000,4000,4000,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-13,3000,3000,3000,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-21,2500,4000,3000,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-27,2000,2000,2000,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-28,2600,3000,2800,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-11,1500,1500,1500,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-16,700,1000,1000,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-24,1000,1000,1000,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,700,1300,1300,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-31,1300,1300,1300,187
+Haryana,Ambala,Naraingarh,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-11,1000,1200,1100,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Other,Large,2018-05-07,1000,1000,1000,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Other,Large,2018-05-23,995,995,995,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Other,Large,2018-05-24,998,1000,998,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Other,Large,2018-05-26,1003,1003,1003,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Other,Large,2018-06-01,1400,1400,1400,187
+Haryana,Ambala,Shahzadpur,Karbuja(Musk Melon),Other,Large,2018-06-02,1200,1200,1200,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-04-21,1800,2000,1900,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-04-23,1500,2000,1800,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-04-25,1600,2000,1800,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-04-28,1600,2000,1800,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-04-30,1500,2000,1800,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-05-16,1200,1500,1400,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-05-21,1000,1400,1200,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-05-30,1400,1600,1500,187
+Haryana,Faridabad,Ballabhgarh,Karbuja(Musk Melon),Other,Large,2018-06-03,1200,2500,2000,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-04-09,2500,3000,2750,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-04-20,2000,2500,2250,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-04-29,1500,2000,1750,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-05-10,700,2000,1350,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-05-13,800,2000,1400,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-05-17,800,1000,900,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-05-19,800,1000,900,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-05-21,800,1000,900,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-05-24,800,1000,900,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-06-01,1000,2000,1500,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-06-02,1500,2000,1750,187
+Haryana,Faridabad,Faridabad,Karbuja(Musk Melon),Karbhuja,Large,2018-06-03,1000,2000,1500,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-03-31,4000,4000,4000,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-04-06,3500,3500,3500,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-04-09,4000,4500,4000,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-04-11,3500,4000,3500,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-04-14,4000,4000,4000,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-04-17,3500,4000,3500,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-04-19,3000,3200,3000,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-04-23,2200,2500,2200,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-05-03,1500,1800,1800,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-05-08,1200,1500,1200,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-05-12,1000,1200,1000,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-05-13,1000,1000,1000,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-05-24,1000,1200,1000,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-05-31,1500,1500,1500,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-06-06,1800,2000,1800,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-06-11,1800,2500,1800,187
+Haryana,Fatehabad,Fatehabad,Karbuja(Musk Melon),Other,Medium,2018-06-16,1800,2000,1800,187
+Haryana,Fatehabad,Jakhal,Karbuja(Musk Melon),Other,Large,2018-06-01,2000,2000,2000,187
+Haryana,Fatehabad,Jakhal,Karbuja(Musk Melon),Other,Large,2018-06-05,1500,1500,1500,187
+Haryana,Fatehabad,Jakhal,Karbuja(Musk Melon),Other,Large,2018-06-15,1200,1200,1200,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-04-21,1000,1200,1100,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-04-25,800,1000,900,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-04-28,800,1000,900,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-02,800,1000,900,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-03,800,900,850,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-05,700,1000,800,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-12,800,900,850,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-14,800,900,850,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-15,800,1000,900,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-19,800,900,850,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-23,800,1000,900,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-05-29,800,900,850,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-06-08,1000,1000,1000,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-06-10,800,800,800,187
+Haryana,Fatehabad,Ratia,Karbuja(Musk Melon),Other,Large,2018-06-11,1000,1000,1000,187
+Haryana,Gurgaon,Gurgaon,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-07,2500,6000,4250,187
+Haryana,Gurgaon,Gurgaon,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-27,2000,2500,2250,187
+Haryana,Gurgaon,Gurgaon,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-01,2500,3000,2750,187
+Haryana,Gurgaon,Gurgaon,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-03,2500,3000,2750,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-22,500,700,700,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Small,2018-05-22,200,300,300,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Small,2018-05-26,300,400,400,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,600,800,800,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Small,2018-05-29,300,400,400,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Small,2018-05-31,500,700,700,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-01,1000,1200,1200,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-09,800,1000,1000,187
+Punjab,Hoshiarpur,Dasuya,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-11,800,1000,1000,187
+Punjab,Hoshiarpur,Garh Shankar,Karbuja(Musk Melon),Other,Medium,2018-05-17,500,700,700,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-18,400,600,500,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-20,400,600,500,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-23,400,600,500,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-24,400,600,500,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-25,400,600,500,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-26,400,600,500,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-28,400,600,500,187
+Punjab,Jalandhar,Lohian Khas,Karbuja(Musk Melon),Karbhuja,Small,2018-05-30,400,600,500,187
+Punjab,Jalandhar,Shahkot,Karbuja(Musk Melon),Other,Medium,2018-05-30,800,1000,900,187
+Punjab,Jalandhar,Shahkot,Karbuja(Musk Melon),Other,Medium,2018-06-04,300,800,600,187
+Punjab,kapurthala,Bhulath,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-15,1000,1200,1100,187
+Punjab,kapurthala,Bhulath,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-19,1000,1300,1100,187
+Punjab,kapurthala,Bhulath,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-20,800,1100,1000,187
+Punjab,kapurthala,Bhulath,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-26,600,900,800,187
+Punjab,kapurthala,Bhulath,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,500,800,800,187
+Punjab,kapurthala,Bhulath,Karbuja(Musk Melon),Karbhuja,Large,2018-06-06,700,800,700,187
+Punjab,kapurthala,Bhulath,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-10,900,1000,1000,187
+Punjab,kapurthala,Sultanpur,Karbuja(Musk Melon),Karbhuja,Small,2018-05-13,500,500,500,187
+Punjab,kapurthala,Sultanpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-18,500,500,500,187
+Punjab,Ludhiana,Jagraon,Karbuja(Musk Melon),Other,Large,2018-05-09,1000,1200,1100,187
+Punjab,Ludhiana,Jagraon,Karbuja(Musk Melon),Other,Large,2018-05-10,800,1000,900,187
+Punjab,Ludhiana,Jagraon,Karbuja(Musk Melon),Other,Large,2018-05-12,700,1000,900,187
+Punjab,Ludhiana,Jagraon,Karbuja(Musk Melon),Other,Large,2018-05-22,850,1000,950,187
+Punjab,Ludhiana,Jagraon,Karbuja(Musk Melon),Other,Large,2018-05-28,650,850,750,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-05-18,800,1500,1000,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-05-28,600,1500,1200,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-05-30,800,1500,1300,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-05-31,800,1500,1000,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-06-02,1000,1800,1500,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-06-12,600,1200,1000,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-06-22,600,1000,800,187
+Punjab,Ludhiana,Khanna,Karbuja(Musk Melon),Other,Medium,2018-06-23,1500,2500,2000,187
+Punjab,Ludhiana,Machhiwara,Karbuja(Musk Melon),Other,Small,2018-05-12,500,500,500,187
+Punjab,Ludhiana,Machhiwara,Karbuja(Musk Melon),Other,Medium,2018-05-18,500,500,500,187
+Punjab,Ludhiana,Machhiwara,Karbuja(Musk Melon),Other,Medium,2018-05-31,1000,1000,1000,187
+Punjab,Ludhiana,Raikot,Karbuja(Musk Melon),Other,Medium,2018-05-12,400,600,500,187
+Punjab,Ludhiana,Raikot,Karbuja(Musk Melon),Other,Medium,2018-05-14,400,600,500,187
+Punjab,Ludhiana,Raikot,Karbuja(Musk Melon),Other,Medium,2018-05-20,400,800,600,187
+Punjab,Ludhiana,Raikot,Karbuja(Musk Melon),Other,Medium,2018-05-27,400,700,500,187
+Punjab,Ludhiana,Raikot,Karbuja(Musk Melon),Other,Medium,2018-05-29,400,600,500,187
+Punjab,Mansa,Mansa,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-20,700,1000,800,187
+Punjab,Mansa,Mansa,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-02,700,1200,900,187
+Punjab,Moga,Dharamkot,Karbuja(Musk Melon),Other,Medium,2018-05-16,1000,1000,1000,187
+Punjab,Mohali,Kharar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-05,1200,1500,1300,187
+Punjab,Mohali,Kharar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-11,1000,1400,1200,187
+Punjab,Mohali,Kharar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-12,1000,1200,1100,187
+Punjab,Mohali,Kharar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-13,1000,1200,1100,187
+Punjab,Mohali,Kharar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-23,900,1000,1000,187
+Punjab,Mohali,Kharar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-24,900,1000,1000,187
+Punjab,Mohali,Kharar,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-30,1000,1200,1100,187
+Punjab,Mohali,Kurali,Karbuja(Musk Melon),Other,Medium,2018-05-07,1000,1100,1050,187
+Punjab,Mohali,Kurali,Karbuja(Musk Melon),Other,Medium,2018-05-17,800,1000,900,187
+Punjab,Mohali,Kurali,Karbuja(Musk Melon),Other,Medium,2018-05-24,1000,1000,1000,187
+Punjab,Mohali,Lalru,Karbuja(Musk Melon),Other,Medium,2018-05-07,400,600,500,187
+Punjab,Mohali,Lalru,Karbuja(Musk Melon),Other,Medium,2018-05-11,500,900,600,187
+Punjab,Mohali,Lalru,Karbuja(Musk Melon),Other,Medium,2018-05-13,400,400,400,187
+Punjab,Mohali,Lalru,Karbuja(Musk Melon),Other,Medium,2018-05-15,1000,1000,1000,187
+Punjab,Mohali,Lalru,Karbuja(Musk Melon),Other,Large,2018-05-16,600,1000,1000,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-04-30,1400,1600,1500,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-05-03,1000,1200,1100,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-05-04,800,1000,900,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-05-16,900,1200,1000,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-05-22,600,800,700,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-05-27,600,800,700,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-05-28,600,800,700,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-06-20,700,1200,800,187
+Punjab,Muktsar,Malout,Karbuja(Musk Melon),Other,Medium,2018-06-22,1000,1500,1200,187
+Punjab,Muktsar,Muktsar,Karbuja(Musk Melon),Other,Large,2018-05-30,500,700,600,187
+Punjab,Muktsar,Muktsar,Karbuja(Musk Melon),Other,Large,2018-06-08,500,700,600,187
+Punjab,Muktsar,Muktsar,Karbuja(Musk Melon),Other,Large,2018-06-12,400,600,500,187
+Punjab,Nawanshahr,Banga,Karbuja(Musk Melon),Other,Medium,2018-05-06,1385,1385,1385,187
+Punjab,Nawanshahr,Banga,Karbuja(Musk Melon),Other,Medium,2018-05-17,1000,1000,1000,187
+Punjab,Nawanshahr,Banga,Karbuja(Musk Melon),Other,Medium,2018-05-23,1000,1198,1198,187
+Punjab,Nawanshahr,Banga,Karbuja(Musk Melon),Other,Medium,2018-06-04,2677,2677,2677,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-03-26,2000,3000,2550,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-04-07,1000,2000,1600,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-04-19,1000,2000,1550,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Large,2018-04-26,1500,2500,2100,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-01,1500,2000,1700,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-02,1500,2000,1700,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-03,1000,2000,1400,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-08,1000,1500,1200,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-16,800,1200,1000,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-17,800,1200,1000,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-24,800,1200,1050,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-05-25,800,1000,925,187
+Punjab,Nawanshahr,Nawan Shahar(Subzi Mandi),Karbuja(Musk Melon),Other,Medium,2018-06-12,500,1000,750,187
+Punjab,Patiala,Patiala,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-18,800,1100,900,187
+Punjab,Patiala,Patiala,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-27,900,1100,1000,187
+Punjab,Patiala,Patiala,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-30,800,1000,900,187
+Punjab,Patiala,Patiala,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-25,1500,2200,2000,187
+Punjab,Patiala,Rajpura,Karbuja(Musk Melon),Other,Medium,2018-05-17,400,500,450,187
+Punjab,Patiala,Rajpura,Karbuja(Musk Melon),Other,Medium,2018-05-19,400,500,450,187
+Punjab,Sangrur,Bhawanigarh,Karbuja(Musk Melon),Other,Medium,2018-05-22,800,800,800,187
+Punjab,Sangrur,Dhuri,Karbuja(Musk Melon),Other,Medium,2018-05-15,1600,1900,1800,187
+Punjab,Sangrur,Dhuri,Karbuja(Musk Melon),Other,Medium,2018-05-19,1000,1300,1200,187
+Punjab,Sangrur,Dhuri,Karbuja(Musk Melon),Other,Medium,2018-06-06,1000,1200,1100,187
+Punjab,Sangrur,Dhuri,Karbuja(Musk Melon),Other,Medium,2018-06-21,1000,1200,1100,187
+Punjab,Sangrur,Lehra Gaga,Karbuja(Musk Melon),Other,Medium,2018-06-13,2200,2200,2200,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-17,1500,1700,1500,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-04-22,1000,2000,1000,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-04-26,1000,1500,1400,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-02,2000,2800,2500,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Small,2018-05-03,1000,1000,1000,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-06,1000,1800,1500,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-10,1000,1800,1200,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-15,1000,1500,1200,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-22,800,1200,1000,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-23,800,1600,1200,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-24,1000,2800,1400,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-28,1000,1600,1400,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-05-30,1200,1700,1500,187
+Punjab,Sangrur,Sangrur,Karbuja(Musk Melon),Karbhuja,Large,2018-06-05,1300,1300,1300,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2018-05-29,1000,1200,1100,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2018-06-16,500,700,600,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2018-06-17,600,900,800,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2018-06-19,600,1000,800,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2018-06-21,800,1000,900,187
+Punjab,Sangrur,Sunam,Karbuja(Musk Melon),Other,Medium,2018-06-22,800,1000,900,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-05-11,500,700,530,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-05-15,600,750,700,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-06-07,600,1000,800,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-06-08,500,600,530,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-06-11,400,700,500,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-06-14,400,600,500,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-06-15,500,700,600,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-06-17,500,700,600,187
+Punjab,Tarntaran,Patti,Karbuja(Musk Melon),Other,Medium,2018-06-22,600,800,700,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-04-07,700,1400,1200,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-04-09,700,1200,1000,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-04-16,500,1200,900,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-05-21,500,1600,1200,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-05-25,500,1500,1000,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-05-26,500,1600,1200,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-06-01,500,1600,1200,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-06-04,700,1600,1100,187
+Rajasthan,Ajmer,Ajmer(F&V),Karbuja(Musk Melon),Other,Large,2018-06-07,600,1500,1000,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2018-04-20,800,1000,900,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2018-04-25,600,800,700,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2018-04-26,700,1000,850,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2018-05-02,600,1000,800,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2018-05-08,500,700,600,187
+Rajasthan,Chittorgarh,Chittorgarh,Karbuja(Musk Melon),Other,Medium,2018-05-10,600,700,650,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-04-11,1800,1800,1800,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-04-26,1500,1500,1500,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-05-03,1300,1300,1300,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-05-05,1000,1000,1000,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-05-06,1100,1100,1100,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-05-08,1200,1200,1200,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-05-09,1100,1100,1100,187
+Rajasthan,Ganganagar,Sriganganagar (F&V),Karbuja(Musk Melon),Other,Medium,2018-06-07,1400,1400,1400,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Karbhuja,Large,2018-05-21,1300,1500,1400,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Karbhuja,Large,2018-06-05,900,1100,1000,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Karbhuja,Large,2018-06-08,900,1100,1000,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Karbhuja,Large,2018-06-09,900,1100,1000,187
+Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-27,900,1100,1000,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-01-20,1500,2000,1750,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-02-12,1000,1600,1300,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-03-10,1000,2000,1500,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-03-20,1000,2000,1500,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-04-05,1000,2000,1500,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-05-04,800,1000,900,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-06-05,600,1000,800,187
+Rajasthan,Jodhpur,Jodhpur (F&V),Karbuja(Musk Melon),Karbhuja,Medium,2018-06-12,600,1000,800,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-02-08,800,1600,1200,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-02-28,1000,1900,1450,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-03-07,700,1500,1100,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-03-16,800,1500,1150,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-03-26,700,1500,1100,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-03-27,800,1600,1200,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-03-28,700,1600,1150,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-04-02,1500,1500,1500,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-04-12,500,1500,1000,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-05-05,400,1200,800,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-05-24,500,1500,1000,187
+Rajasthan,Udaipur,Udaipur (F&V),Karbuja(Musk Melon),Other,Medium,2018-12-04,1500,1500,1500,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-05,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-08,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-14,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-16,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-19,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-21,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-27,300,800,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-01-31,350,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-02-01,350,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-02-13,200,700,450,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-04,200,750,300,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-06,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-11,300,750,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-15,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-21,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-23,300,750,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-03-29,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-09,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-18,250,650,300,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-25,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-29,350,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-01,300,800,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-02,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-03,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-09,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-16,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-17,300,750,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-18,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-21,250,750,450,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-27,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-30,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-21,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-23,300,700,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-07-01,300,800,400,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-07-07,300,1000,500,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-07-23,500,1000,700,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-08-07,500,1000,750,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-08-16,500,1100,750,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-08-24,500,1000,800,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-08-29,500,1000,700,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-09-02,500,1000,700,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-09-03,500,1100,750,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-09-20,600,1400,1000,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-09-26,500,1600,1000,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-10-02,500,1500,1000,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-10-08,500,1200,800,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-10-11,500,1100,800,187
+Telangana,Hyderabad,Gaddiannaram,Karbuja(Musk Melon),Karbhuja,Medium,2018-10-23,500,1000,700,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-20,1250,1400,1320,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-21,1300,1400,1350,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-27,1100,1250,1180,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-06,1500,1600,1550,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-09,1350,1500,1410,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-21,1200,1300,1260,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-26,900,1050,990,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-27,900,1000,950,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-08,950,1050,1000,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-14,800,950,880,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-18,950,1080,1020,187
+Uttar Pradesh,Agra,Agra,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-22,1050,1150,1100,187
+Uttar Pradesh,Aligarh,Atrauli,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,780,800,790,187
+Uttar Pradesh,Auraiya,Dibiapur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-22,500,600,550,187
+Uttar Pradesh,Ayodhya,Faizabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-13,2100,2250,2200,187
+Uttar Pradesh,Ayodhya,Faizabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-29,1750,2000,1800,187
+Uttar Pradesh,Ayodhya,Faizabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-30,1800,2000,1900,187
+Uttar Pradesh,Baghpat,Bagpat,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-26,1800,2000,1900,187
+Uttar Pradesh,Baghpat,Bagpat,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-02,2000,2200,2100,187
+Uttar Pradesh,Baghpat,Khekda,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-22,0,0,1600,187
+Uttar Pradesh,Baghpat,Khekda,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-26,1200,1500,1300,187
+Uttar Pradesh,Baghpat,Khekda,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,2000,2200,2100,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-04,1310,1390,1350,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-07,1250,1350,1300,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-09,1240,1320,1280,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-10,1230,1320,1270,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-18,1240,1320,1280,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-21,1280,1360,1320,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-23,1300,1350,1330,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-27,1250,1340,1300,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,1280,1350,1310,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-01,1260,1340,1300,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-05,1310,1390,1350,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-07,1350,1450,1400,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-08,1200,1300,1250,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-15,1200,1270,1230,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-20,1100,1200,1150,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-22,1000,1100,1050,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-23,1000,1080,1040,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-24,1000,1100,1050,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-27,980,1060,1020,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-28,1000,1100,1050,187
+Uttar Pradesh,Bijnor,Bijnaur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-29,1040,1120,1080,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-05,1400,1500,1450,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-14,700,800,750,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-16,650,750,700,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-17,700,800,750,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-21,700,800,750,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-23,600,800,750,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-25,800,900,850,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-28,700,800,750,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-09,600,700,650,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-21,600,700,650,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-27,700,800,750,187
+Uttar Pradesh,Bijnor,Chaandpur,Karbuja(Musk Melon),Karbhuja,Large,2018-07-04,600,700,650,187
+Uttar Pradesh,Bijnor,Kiratpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-17,600,700,650,187
+Uttar Pradesh,Bijnor,Kiratpur,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-24,600,700,650,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-17,2900,3100,3000,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-21,2450,2480,2470,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-04-25,2420,2460,2450,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-04,950,980,970,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-23,815,820,818,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-14,950,980,970,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-17,980,1020,1000,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-18,1010,1030,1020,187
+Uttar Pradesh,Bijnor,Najibabad,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-21,1050,1080,1070,187
+Uttar Pradesh,Bulandshahar,Khurja,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-04,900,1150,1040,187
+Uttar Pradesh,Bulandshahar,Khurja,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-14,760,970,850,187
+Uttar Pradesh,Bulandshahar,Khurja,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-15,900,1100,1000,187
+Uttar Pradesh,Bulandshahar,Khurja,Karbuja(Musk Melon),Karbhuja,Medium,2018-05-31,940,1135,1000,187
+Uttar Pradesh,Bulandshahar,Khurja,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-06,1000,1150,1070,187
+Uttar Pradesh,Bulandshahar,Khurja,Karbuja(Musk Melon),Karbhuja,Medium,2018-06-08,1000,1150,1060,187

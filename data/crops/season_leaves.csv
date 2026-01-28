@@ -1,0 +1,589 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-01-02,300,400,400,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-01-11,300,400,400,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-01-12,200,400,300,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-01-14,400,400,400,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-01-29,200,400,300,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-02-04,200,300,250,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-02-24,500,500,500,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-09-29,1500,1500,1500,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-09-30,1500,1500,1500,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-04,1000,1000,1000,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-08,1000,1000,1000,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-09,1000,1000,1000,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-10,1000,1000,1000,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-11,1000,1000,1000,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-15,1000,1000,1000,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-16,1000,1000,1000,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-26,700,700,700,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-10-27,700,700,700,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-11-04,700,700,700,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-12-07,500,500,500,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-12-11,500,500,500,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-12-20,500,500,500,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-12-22,500,500,500,277
+Haryana,Fatehabad,Fatehabad,Season Leaves,Other,FAQ,2009-12-25,400,400,400,277
+Haryana,Hissar,Adampur,Season Leaves,Other,FAQ,2009-08-31,800,1000,900,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-01-06,400,400,400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-01-07,400,500,500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-01-12,400,500,400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-01-14,300,500,400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-01-27,300,400,400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-02-18,200,300,200,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-02-28,250,400,400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-03-04,250,300,300,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-03-06,300,400,300,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-03-14,300,400,300,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-03-18,300,400,300,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-03-21,300,400,400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-03-25,250,400,300,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-04-06,300,400,400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-04-13,500,600,500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-04-16,700,800,700,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-04-20,600,800,700,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-04-24,400,500,500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-05-08,1400,1500,1450,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-05-19,1000,1400,1400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-05-23,500,800,700,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-05-26,400,800,800,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-06-02,600,1000,800,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-06-11,600,1200,1200,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-06-18,800,1000,1000,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-06-30,600,900,700,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-07-07,600,800,700,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-07-21,600,700,600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-07-30,1400,1500,1400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-08-17,1000,1500,1500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-08-19,1300,1400,1400,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-09-07,1300,1500,1500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-09-08,1000,1100,1000,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-09-09,1000,1200,1200,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-09-14,1600,1700,1600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-10-22,1000,1600,1200,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-10-24,1500,1600,1600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-11-09,600,1500,800,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-11-19,400,600,500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-12-05,600,700,700,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-12-19,500,800,700,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2009-12-30,500,700,600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Season Leaves,FAQ,2009-03-20,400,500,400,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-01,250,300,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-03,200,250,250,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-06,250,300,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-07,250,300,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-09,250,250,250,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-14,250,500,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-21,200,300,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-22,200,300,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-01-27,200,200,200,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-02-11,200,300,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-02-19,200,250,250,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-02-20,200,200,200,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-02-23,300,400,400,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-02-27,300,400,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-02-28,200,250,250,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-03-02,250,350,250,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-03-04,400,500,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-03-06,350,400,400,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-03-10,300,350,350,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-03-17,300,300,300,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-04-14,300,400,400,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-04-15,400,500,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-04-24,400,500,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-04-27,500,600,600,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-04-30,500,600,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-05-06,500,600,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-05-19,500,600,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-06-17,600,1000,1000,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-06-18,600,800,800,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-06-23,700,900,900,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-06-30,900,1000,900,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-07-01,500,1000,800,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-07-07,1000,1100,1000,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-07-14,1200,1200,1200,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-07-18,600,800,600,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-08-10,1000,1200,1200,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-10-06,1000,1400,1400,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-10-08,1000,1200,1200,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-10-14,700,1100,1100,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-10-15,1000,1200,1200,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-10-21,1000,1500,1500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-10-22,1100,1200,1200,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-10-26,1400,1500,1500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-11-05,800,1000,1000,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-11-06,600,1000,1000,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-11-18,300,600,600,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-11-19,300,500,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-11-21,500,700,500,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-11-23,400,800,400,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-12-08,700,900,900,277
+Himachal Pradesh,Mandi,Mandi(Mandi),Season Leaves,Other,FAQ,2009-12-30,500,700,700,277
+Himachal Pradesh,Mandi,Mandi(Takoli),Season Leaves,Other,FAQ,2009-11-30,200,400,400,277
+Himachal Pradesh,Mandi,Mandi(Takoli),Season Leaves,Other,FAQ,2009-12-17,200,500,400,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-09-24,600,600,600,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-09-25,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-10-06,600,800,700,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-10-18,200,500,350,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-10-19,400,500,450,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-10-28,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-11-03,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-11-09,400,400,400,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-11-16,200,500,350,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-11-18,200,400,300,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-11-21,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2009-11-25,200,500,350,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-01-08,200,300,250,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-01-22,300,300,300,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-01-25,300,300,300,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-02-01,200,250,225,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-02-02,200,250,225,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-09-18,600,800,700,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-09-24,400,600,500,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-10-06,400,600,500,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-10-10,500,500,500,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-10-13,400,600,500,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-10-19,500,600,600,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-10-28,450,500,500,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-11-18,300,500,400,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-11-19,200,300,250,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-12-13,400,500,500,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2009-12-18,300,300,300,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Other,FAQ,2009-04-03,100,200,150,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Other,FAQ,2009-04-09,100,200,150,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Other,FAQ,2009-10-31,500,700,600,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Other,FAQ,2009-12-12,200,300,250,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Other,FAQ,2009-12-18,200,300,250,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Other,FAQ,2009-12-24,200,300,250,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Other,FAQ,2009-12-26,200,300,250,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Season Leaves,FAQ,2009-01-01,200,400,300,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Season Leaves,FAQ,2009-01-05,300,500,400,277
+Punjab,Hoshiarpur,Garh Shankar,Season Leaves,Season Leaves,FAQ,2009-01-21,200,300,250,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-01-06,200,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-01-11,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-01-12,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-01-15,200,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-01-20,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-01-24,200,400,300,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-02-02,200,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-02-08,200,500,300,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-02-13,200,400,300,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-02-14,200,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-02-22,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-03-20,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-03-21,200,500,360,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-03-23,200,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-03-30,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-04-07,200,300,250,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-04-10,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-04-13,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-04-17,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-04-18,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-04-25,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-05-01,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-02,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-03,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-05,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-08,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-09,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-20,500,1000,800,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-25,500,1000,800,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-26,500,600,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-06-27,500,1000,800,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-07-03,600,1000,800,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-07-08,600,1000,800,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-07-09,600,1000,800,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-07-13,800,1000,900,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-07-17,500,1000,800,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-11-02,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-11-10,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-11-11,300,400,350,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-11-18,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-11-21,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-11-26,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-12-04,500,800,600,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-12-10,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-12-11,400,500,450,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2009-12-15,400,500,450,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Season Leaves,FAQ,2009-09-28,0,0,300,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Season Leaves,FAQ,2009-09-29,0,0,300,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Season Leaves,FAQ,2009-10-02,0,0,350,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-10-10,800,800,800,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-02,800,800,800,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-06,900,900,900,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-10,1000,1000,1000,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-13,900,900,900,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-15,700,700,700,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-16,800,800,800,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-21,700,800,750,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-11-22,700,700,700,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-12-01,800,800,800,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-12-08,700,700,700,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2009-12-19,700,800,750,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-01-08,250,250,250,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-01-09,150,150,150,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-01-14,150,150,150,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-01-19,150,150,150,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-02-25,200,200,200,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-03-13,300,300,300,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-03-19,400,400,400,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-08-25,500,500,500,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-09-02,600,600,600,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-09-14,600,600,600,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-10-05,400,400,400,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-10-08,450,450,450,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-10-22,450,450,450,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2009-10-30,350,350,350,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-01-16,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-01-18,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-01-27,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-02-04,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-02-11,400,450,400,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-02-21,400,450,400,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-02-25,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-02-27,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-09-28,1000,1050,1000,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-10-10,1000,1050,1000,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-10-24,600,650,600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-11-02,600,650,600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-11-11,600,650,600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-11-14,1000,1050,1000,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-11-19,1000,1050,1000,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-11-28,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-12-03,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-12-12,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-12-14,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-12-20,500,550,500,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2009-12-22,600,650,600,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-04-14,3500,3500,3500,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-04-18,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-04-23,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-04-27,6000,6000,6000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-04-28,5000,5000,5000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-05-07,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-05-12,3000,3000,3000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-05-19,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-06-08,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-06-10,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-06-18,3000,3000,3000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-06-27,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-07-07,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-07-08,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-07-10,3000,3000,3000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-07-15,3000,3000,3000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-07-28,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-07-29,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-08-09,4000,4000,4000,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-08-15,4000,5000,4500,277
+Karnataka,Dharwad,Dharwar,Season Leaves,Season Leaves,FAQ,2020-08-18,3500,4000,3750,277
+Karnataka,Dharwad,Hubli (Amaragol),Season Leaves,Season Leaves,FAQ,2020-04-15,1500,3000,2200,277
+Karnataka,Dharwad,Hubli (Amaragol),Season Leaves,Season Leaves,FAQ,2020-04-26,3800,6500,5000,277
+Karnataka,Dharwad,Hubli (Amaragol),Season Leaves,Season Leaves,FAQ,2020-04-29,2800,4000,3400,277
+Karnataka,Dharwad,Hubli (Amaragol),Season Leaves,Season Leaves,FAQ,2020-05-16,1800,3000,2500,277
+Karnataka,Dharwad,Hubli (Amaragol),Season Leaves,Season Leaves,FAQ,2020-05-28,1600,2600,2100,277
+Karnataka,Dharwad,Hubli (Amaragol),Season Leaves,Season Leaves,FAQ,2020-06-01,1200,2300,1600,277
+Karnataka,Dharwad,Hubli (Amaragol),Season Leaves,Season Leaves,FAQ,2020-06-16,1500,2500,2000,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-04-12,500,800,600,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-04-19,500,1000,800,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-04-29,800,1200,900,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-05-05,200,1500,1000,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-05-09,200,800,600,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-05-23,800,1000,900,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-06-13,400,800,600,277
+Karnataka,Gadag,Gadag,Season Leaves,Season Leaves,FAQ,2020-06-27,300,600,500,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-09-28,2000,5500,3750,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-10-08,1500,5000,3000,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-10-13,1500,5000,3000,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-10-14,1500,5000,3000,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-10-15,1500,4500,2650,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-10-16,1500,4500,2650,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-10-27,1500,3500,2400,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-10-30,1500,3500,2400,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-11-05,500,1000,800,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-11-06,500,1000,800,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-11-07,800,1400,1100,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-11-10,800,1400,1100,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-11-11,800,1400,1100,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-11-16,600,1200,800,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-11-23,700,1200,900,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-12-01,700,1200,900,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-12-08,700,1200,900,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-12-22,500,1000,800,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-12-28,500,1000,800,277
+NCT of Delhi,Delhi,Azadpur,Season Leaves,Season Leaves,FAQ,2020-12-29,500,1000,800,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2020-01-07,750,850,800,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2020-01-11,800,800,800,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2020-01-29,900,1000,950,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-01-06,1200,1500,1500,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-01-07,1200,1500,1500,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-01-09,1500,2000,2000,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-01-11,1500,1800,1800,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-01-23,800,1000,1000,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-01-28,600,800,800,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-02-12,400,500,500,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-02-16,600,800,800,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-10-30,1000,1200,1100,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-11-08,600,1000,800,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-11-11,500,800,650,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-11-17,600,700,650,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-11-30,500,700,600,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-12-09,400,600,500,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-12-15,500,700,600,277
+Punjab,Hoshiarpur,Dasuya,Season Leaves,Other,FAQ,2020-12-16,600,600,600,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2020-01-25,600,800,800,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-01-13,700,700,700,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-09-15,800,800,800,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-09-16,800,800,800,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-09-29,900,900,900,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-10-26,700,700,700,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-11-04,700,700,700,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-11-06,600,600,600,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-11-14,700,700,700,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-11-20,400,400,400,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2020-11-21,300,300,300,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2020-01-04,1200,1400,1300,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2020-01-19,1200,1400,1300,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2020-01-20,1000,1200,1100,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2020-03-15,1000,1200,1100,277
+Punjab,Jalandhar,Shahkot,Season Leaves,Other,FAQ,2020-01-06,600,1000,900,277
+Punjab,Jalandhar,Shahkot,Season Leaves,Other,FAQ,2020-02-10,600,1000,800,277
+Punjab,Jalandhar,Shahkot,Season Leaves,Other,FAQ,2020-09-22,900,1100,1000,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2020-09-29,500,1200,1000,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2020-11-18,1450,1650,1500,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2020-12-13,970,1040,1000,277
+Punjab,Moga,Dharamkot,Season Leaves,Other,FAQ,2020-11-06,800,900,900,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-01-01,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-01-11,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-01-20,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-01-27,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-01-29,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-01-30,1200,1400,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-02-10,1200,1400,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-03-02,1200,1400,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-03-11,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-09-29,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-03,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-04,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-06,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-07,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-09,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-12,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-16,1500,1700,1600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-27,1600,1800,1700,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-10-29,1600,1800,1700,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-02,1200,1400,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-04,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-06,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-07,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-09,1200,1400,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-11,1200,1400,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-16,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-17,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-11-30,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-02,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-03,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-05,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-07,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-13,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-14,1200,1400,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-17,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-25,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-28,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2020-12-31,1000,1200,1100,277
+Punjab,Patiala,Patran,Season Leaves,Other,FAQ,2020-01-18,500,500,500,277
+Punjab,Patiala,Patran,Season Leaves,Other,FAQ,2020-01-20,700,700,700,277
+Punjab,Patiala,Patran,Season Leaves,Other,FAQ,2020-01-21,600,700,650,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-01-05,2000,2200,2100,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-01-07,2050,2250,2150,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-01-10,2050,2250,2150,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-01-16,2200,2300,2250,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-01-27,2150,2350,2250,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-01-28,2150,2350,2250,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-01-30,2150,2350,2250,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-02-01,2225,2350,2275,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-02-03,2150,2250,2200,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-02-21,1900,2000,1950,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-02-22,1900,2000,1950,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-02-23,1850,1975,1925,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-02-27,1850,1950,1900,277
+Uttar Pradesh,Unnao,Unnao,Season Leaves,Season Leaves,FAQ,2020-03-06,1850,1975,1925,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2011-11-06,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2011-11-09,300,300,300,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2011-11-14,200,500,350,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2011-11-15,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2011-11-17,400,400,400,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2011-12-08,300,300,300,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-01-12,325,340,325,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-01-13,400,500,400,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-01-14,280,300,290,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-10-16,600,900,800,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-10-19,600,1000,800,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-10-29,400,500,400,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-11-07,280,300,300,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-11-09,350,400,350,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-11-10,300,500,400,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-11-24,300,300,300,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-11-26,200,300,200,277
+Punjab,Fazilka,Fazilka (Ladhuka),Season Leaves,Other,FAQ,2011-12-03,160,200,160,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-01-03,300,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-01-11,300,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-01-20,300,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-01-29,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-01-31,300,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-02-03,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-02-18,200,300,200,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-02-24,200,200,200,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-03-22,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-03-24,500,600,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-03-28,500,600,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-04-02,500,600,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-04-09,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-09-23,1000,1200,1200,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-09-24,1000,1200,1200,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-09-30,1200,1400,1200,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-10-11,800,1000,1000,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-10-19,1000,1000,1000,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-11-03,500,600,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-11-11,300,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-12-01,200,300,200,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-12-03,300,400,300,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-12-06,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-12-16,400,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-12-21,400,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2011-12-26,400,500,400,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Season Leaves,FAQ,2011-09-28,500,500,500,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2011-12-22,400,500,450,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2011-12-27,500,600,550,277
+Punjab,Jalandhar,Bilga,Season Leaves,Other,FAQ,2011-12-29,500,600,550,277
+Punjab,Jalandhar,Goraya,Season Leaves,Other,FAQ,2011-09-27,600,600,600,277
+Punjab,Jalandhar,Goraya,Season Leaves,Other,FAQ,2011-10-28,500,500,500,277
+Punjab,Jalandhar,Goraya,Season Leaves,Other,FAQ,2011-11-02,500,500,500,277
+Punjab,Jalandhar,Goraya,Season Leaves,Other,FAQ,2011-11-09,400,400,400,277
+Punjab,Jalandhar,Goraya,Season Leaves,Other,FAQ,2011-11-30,500,500,500,277
+Punjab,Jalandhar,Goraya,Season Leaves,Other,FAQ,2011-12-23,400,400,400,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-01-06,200,200,200,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-04-05,150,150,150,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-04-13,100,100,100,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-04-16,200,200,200,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-09-15,800,800,800,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-11-08,400,400,400,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-11-11,300,400,400,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-11-15,200,200,200,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-12-06,200,200,200,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-12-13,300,300,300,277
+Punjab,kapurthala,Sultanpur,Season Leaves,Other,FAQ,2011-12-19,200,200,200,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-02-03,1000,1050,1025,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-02-06,500,550,525,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-09-17,1000,1500,1200,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-09-18,1000,1500,1200,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-09-19,1000,1500,1300,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-09-22,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-10-13,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-10-21,1000,1500,1200,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-10-30,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-11-01,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-11-11,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-11-12,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-11-17,500,600,550,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-11-18,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-12-03,1000,1200,1100,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-12-12,500,700,600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-12-18,500,700,600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-12-25,500,800,600,277
+Punjab,Moga,Kot ise Khan,Season Leaves,Other,FAQ,2011-12-29,600,800,700,277
+West Bengal,North 24 Parganas,Diamond Harbour	,Season Leaves,Other,FAQ,2011-12-09,400,500,450,277
+West Bengal,Sounth 24 Parganas,Baruipur(Canning),Season Leaves,Other,FAQ,2011-12-07,500,600,550,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-01-11,200,300,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-02-17,200,250,250,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-02-22,200,400,400,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-02-24,200,500,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-02-29,200,400,400,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-06,200,500,500,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-16,200,250,250,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-17,200,300,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-19,200,300,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-20,200,300,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-21,100,200,200,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-27,200,300,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-03-30,200,500,500,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-04-07,200,300,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-04-26,400,500,500,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-05-07,400,500,500,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-05-08,300,400,400,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-07-27,400,400,400,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-08-01,300,400,350,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-08-06,300,500,400,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-08-11,400,600,500,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-08-13,300,800,600,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-08-23,400,500,450,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-08-31,500,600,550,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-09-03,600,800,700,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-09-07,1500,2000,1800,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-09-11,500,800,600,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-09-13,600,1000,800,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-09-20,500,1000,800,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-09-28,800,1600,1000,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-10-15,400,600,500,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-11-01,200,400,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-11-02,200,400,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-11-05,200,300,200,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-11-21,150,300,200,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-11-22,100,200,150,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-11-24,200,300,200,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-12-11,200,500,300,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-12-15,300,500,400,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-12-19,300,400,350,277
+Haryana,Kurukshetra,Shahabad,Season Leaves,Other,FAQ,2012-12-20,200,400,300,277
+Himachal Pradesh,Hamirpur,Hamirpur,Season Leaves,Other,FAQ,2012-10-04,1200,1200,1200,277
+Himachal Pradesh,Hamirpur,Hamirpur,Season Leaves,Other,FAQ,2012-10-10,1500,1500,1500,277
+Himachal Pradesh,Hamirpur,Hamirpur,Season Leaves,Other,FAQ,2012-11-02,800,1000,800,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-03-14,450,600,600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-03-16,500,600,500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-04-03,600,700,600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-04-05,500,700,600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-04-23,1200,1500,1200,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-04-26,1500,1600,1500,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-05-01,800,1000,800,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-05-03,500,600,600,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-05-07,800,1000,1000,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-05-21,700,800,800,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-06-01,500,1000,900,277
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Season Leaves,Other,FAQ,2012-06-05,800,1000,900,277
+Himachal Pradesh,Una,Una,Season Leaves,Other,FAQ,2012-02-22,1500,1500,1500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-02,1000,1000,1000,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-04,500,800,700,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-05,400,800,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-07,400,800,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-10,400,800,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-17,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-20,500,500,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-21,400,600,500,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-24,300,400,350,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-10-30,300,500,400,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-11-03,300,500,400,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-11-12,300,400,350,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-11-17,300,400,350,277
+Punjab,Barnala,Bhadaur,Season Leaves,Other,FAQ,2012-12-22,200,200,200,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2012-11-13,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2012-11-14,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2012-11-22,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2012-12-13,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2012-12-18,500,600,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2012-12-25,400,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Other,FAQ,2012-12-31,400,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-01-04,500,600,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-01-07,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-01-10,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-01-26,500,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-01-30,400,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-02-02,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-02-03,400,500,500,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-02-04,400,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-02-10,400,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-02-17,200,250,250,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-02-18,300,400,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-02-24,300,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-03-10,400,500,400,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-03-23,1000,1000,1000,277
+Punjab,Jalandhar,Adampur,Season Leaves,Season Leaves,FAQ,2012-03-26,1000,1000,1000,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2012-09-12,200,400,300,277
+Punjab,Jalandhar,Bhogpur,Season Leaves,Other,FAQ,2012-09-28,300,500,400,277

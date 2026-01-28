@@ -1,0 +1,596 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-06-12,1000,1500,1250,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-06-19,1500,1800,1650,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-07-17,1000,1200,1100,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-08-07,1000,1200,1100,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-09-04,1200,1500,1350,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-09-18,1000,1200,1100,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-11-13,1000,1200,1100,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2015-12-11,2500,3000,2750,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-03-12,500,600,567,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-05-22,1000,1000,1000,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-06-01,1000,1000,1000,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-06-03,1000,1000,1000,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-06-10,1000,1000,1000,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-07-07,800,800,800,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-09-04,1000,1000,1000,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-09-10,300,400,400,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-10-28,1100,1100,1100,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-10-30,500,500,500,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-12-10,1000,1000,1000,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2015-12-17,1167,1600,1600,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,Large,2015-01-24,600,700,650,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,Large,2015-02-03,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-02-11,300,400,350,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-02-13,300,400,350,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,Large,2015-02-16,200,300,250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-03-10,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-03-11,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-03-20,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-03-28,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-08-14,700,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-08-21,700,900,800,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-09-15,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-09-22,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-09-25,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-09-27,300,400,350,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-09-29,350,400,380,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-10-09,400,450,430,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-10-11,450,500,480,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-10-16,450,500,480,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-10-31,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-11-17,300,350,320,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-11-21,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-11-28,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-12-01,1400,1600,1500,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-12-07,1400,1800,1600,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-12-11,1300,1500,1400,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-12-14,1200,1500,1400,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-12-18,1000,1400,1200,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2015-12-22,1200,1400,1300,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,Medium,2015-01-25,1200,1600,1400,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,Medium,2015-01-28,600,1000,800,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,FAQ,2015-01-28,600,1000,800,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,FAQ,2015-02-26,500,700,600,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,FAQ,2015-03-12,600,800,700,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,FAQ,2015-07-07,600,800,700,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,FAQ,2015-08-24,1000,1200,1100,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,FAQ,2015-10-18,500,700,600,176
+Karnataka,Kolar,Kolar,Seemebadnekai,Seemebadanekai,FAQ,2015-12-30,1500,2000,1800,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-01-14,700,800,750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-02-23,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-04-01,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-07-21,600,700,650,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-07-27,700,800,750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-07-28,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-08-03,700,800,750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-08-06,2000,2500,2200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-08-18,600,700,650,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-08-24,600,700,650,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-08-25,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-08-26,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-08-27,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-09-09,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-09-10,400,500,450,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-09-14,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-09-21,500,700,600,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-09-24,300,400,350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-10-03,300,400,350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-10-06,400,600,500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-10-09,400,500,450,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-11-02,700,800,750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-11-05,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2015-11-11,500,600,550,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-02-18,1000,1200,1100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-06-03,1500,1700,1600,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-07-15,1000,1200,1100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-08-19,800,1000,900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-09-09,800,1000,900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-10-07,800,1000,900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-12-02,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2015-12-16,1800,2000,1900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-09-21,200,2400,2200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-09-24,1800,2200,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-09-26,2000,2200,2100,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-10-04,1800,2000,1900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-10-08,2000,2200,2100,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-10-12,2800,3200,3000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-10-14,1800,2000,1900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-10-31,1800,2000,1900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-11-12,1800,2000,1900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-11-23,2000,2400,2200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-11-28,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-11-30,1600,1900,1700,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-03,1400,1600,1500,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-04,1400,1600,1500,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-14,1400,1600,1500,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-16,1800,2000,1900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-17,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-20,1800,2000,1900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-27,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2019-12-30,1400,1600,1500,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-03-08,1800,2000,1900,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-03-15,1500,1800,1650,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-04-05,2000,2500,2250,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-05-03,1500,2000,1750,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-08-16,2000,2500,2250,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-10-19,2000,2500,2250,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-12-13,2000,2200,2100,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2019-12-20,1500,2000,1750,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2019-03-20,1400,1400,1400,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2019-04-09,739,739,739,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-07,600,700,650,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-09,600,700,650,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-11,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-12,600,700,650,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-18,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-20,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-21,800,900,850,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-22,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-23,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-25,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-01-28,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-02-08,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-02-12,600,700,650,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-02-16,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-02-22,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-02-23,1000,1200,1100,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-02-25,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-03-03,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-03-08,1000,1200,1100,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-03-09,1000,1200,1100,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-03-12,1300,1500,1400,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-05-31,1200,1400,1300,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-06-24,1500,1600,1550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-07-20,1500,2000,1750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-08-14,1800,2000,1900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-08-18,2000,2500,2250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-08-23,2000,2200,2100,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-09-24,1500,1600,1550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-10-04,1200,1300,1250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-10-08,1200,1300,1250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-10-14,1200,1400,1300,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-10-26,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-11-02,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-11-11,1000,1200,1100,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-11-16,1000,1100,1050,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-12-03,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-12-11,600,700,650,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-12-13,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-12-20,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-12-25,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2019-12-28,500,600,550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-05,700,800,750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-13,1000,1100,1050,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-14,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-22,1000,1100,1050,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-23,1000,1100,1050,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-24,1000,1100,1050,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-27,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-28,900,1000,950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-01-30,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-04,700,800,750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-07,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-11,800,900,850,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-17,800,900,850,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-19,1000,1200,1150,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-20,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-27,1300,1500,1400,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-02-28,1500,1600,1550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-03-07,1500,1600,1550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-03-13,2000,2100,2050,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-03-20,1800,2100,2000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-03-21,1800,2000,1900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-03-26,2100,2300,2200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-03-29,2100,2300,2200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-04-21,2100,2300,2200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-04-23,2000,2300,2150,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-04-29,2200,2500,2300,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-05-01,2300,2500,2400,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-05-20,3200,3400,3350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-05-23,3300,3500,3450,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-05-27,3100,3300,3200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-06-02,2600,2800,2750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-06-04,2300,2500,2400,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-06-11,2500,2700,2600,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-06-18,2400,2600,2500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-06-19,2400,2600,2550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-07-14,2100,2300,2200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-07-15,2100,2300,2200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-07-21,1900,2100,2000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-07-22,1900,2100,2000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-07-24,1900,2100,2000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-08-07,2000,2200,2150,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-08-15,2000,2200,2100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-08-22,1800,2000,1950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-08-28,1800,2000,1950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-08-29,1800,2000,1950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-09-03,2200,2400,2350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-09-05,2200,2400,2350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-09-15,2100,2300,2250,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-09-19,1800,2000,1900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-09-25,1000,1300,1150,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-09-26,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-10-28,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-11-07,1100,1300,1200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-11-11,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-11-17,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-11-20,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-12-13,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-12-16,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-12-17,800,1000,950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-12-19,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-12-23,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-12-26,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2019-12-31,700,900,850,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-04-24,3900,4000,4000,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-05-08,3900,4000,4000,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-06-12,3900,4100,4000,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-08-14,3900,4100,4000,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-08-21,3900,4100,4000,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-09-25,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-10-23,1200,14000,1300,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2019-10-30,1400,1600,1500,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-09-13,1200,1300,1250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-09-17,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-09-29,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-10-05,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-10-12,500,700,600,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-10-17,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-10-23,500,700,600,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-11-12,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-11-14,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-11-16,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-11-30,1500,1600,1550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-12-03,1600,1800,1700,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-12-04,1600,1800,1700,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-12-05,1800,1900,1850,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-12-08,1800,2000,1900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-12-27,1200,1300,1250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-12-28,1200,1400,1300,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-12-29,1300,1500,1400,176
+Karnataka,Mandya,Mandya,Seemebadnekai,Seemebadanekai,FAQ,2021-12-22,2000,2000,2000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-01-03,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-01-06,700,900,800,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-01-10,600,800,750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-01-15,700,900,800,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-01-28,800,1000,950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-02-07,1200,1400,1300,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-02-09,1200,1400,1300,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-02-15,1200,1400,1350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-02-19,1000,1200,1150,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-02-24,800,1000,950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-02-25,800,1000,950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-01,700,900,850,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-02,700,900,850,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-12,700,900,850,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-14,800,1000,950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-17,1600,1800,1750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-18,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-23,1800,2000,1950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-24,1800,2000,1950,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-25,1600,1800,1700,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-29,1500,1700,1600,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-03-31,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-04-02,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-04-11,1500,1700,1600,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-04-20,1600,1800,1750,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-04-23,1400,1600,1550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-05-03,1300,1500,1400,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-05-05,1300,1500,1450,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-05-10,1400,1600,1550,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-05-12,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-05-18,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-05-24,1300,1500,1400,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-05-25,1300,1500,1400,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-06-04,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-06-10,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-06-11,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-06-17,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-06-23,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-06-27,1600,1800,1700,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-06-28,1600,1800,1700,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-07-14,1500,1700,1600,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-07-22,1400,1600,1500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-07-28,1600,1800,1700,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-07-30,1600,1800,1700,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-08-04,1800,2000,1900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-08-06,1800,2000,1900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-08-11,1800,2000,1900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-08-13,1800,2000,1900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-08-24,1600,1800,1700,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-09-07,1100,1300,1200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-09-16,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-09-19,1000,1200,1100,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-09-24,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-09-28,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-09-29,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-10-06,800,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-10-11,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-10-12,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-10-14,800,1000,900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-10-18,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-10-24,900,1100,1000,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-11-01,1100,1300,1200,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-11-07,1300,1400,1350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-11-10,1300,1400,1350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-11-16,1200,1400,1350,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-11-29,1800,2000,1900,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-12-10,2400,2600,2500,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-12-13,2300,2500,2400,176
+Karnataka,Mysore,Mysore (Bandipalya),Seemebadnekai,Seemebadanekai,FAQ,2021-12-23,1800,2000,1900,176
+Karnataka,Mysore,T. Narasipura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-27,1000,1000,1000,176
+Karnataka,Mysore,T. Narasipura,Seemebadnekai,Seemebadanekai,FAQ,2021-02-13,1500,1600,1500,176
+Karnataka,Mysore,T. Narasipura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-09,2000,2000,2000,176
+Karnataka,Mysore,T. Narasipura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-11,1800,2000,2000,176
+Karnataka,Mysore,T. Narasipura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-23,1500,1600,1500,176
+Karnataka,Mysore,T. Narasipura,Seemebadnekai,Seemebadanekai,FAQ,2021-10-17,1500,1600,1500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-01-06,1000,1200,1100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-01-12,1000,1200,1100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-01-18,800,1000,900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-02-01,800,1000,900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-02-04,1200,1400,1300,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-02-15,1400,1600,1500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-02-23,1000,1400,1200,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-03-19,1200,1500,1400,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-03-25,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-04-03,1400,1600,1500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-04-06,1400,1600,1500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-04-08,1200,1400,1300,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-04-09,1200,1400,1300,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-04-26,1000,1200,1100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-05-04,2000,2200,2100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-05-11,2000,2100,2100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-05-21,2400,2500,2500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-06-07,1800,2200,2000,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-06-11,2000,2400,2400,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-06-16,2000,2400,2200,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-06-21,2000,2400,2200,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-06-22,2000,2400,2200,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-06-28,1900,2000,2000,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-07-19,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-08-04,2400,2600,2500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-08-07,2400,2600,2500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-08-10,2400,2600,2500,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-08-17,2000,2200,2100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-08-19,2000,2400,2200,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-08-23,2000,2400,2200,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-08-24,2000,2400,2200,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-09-04,1600,1800,1700,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-09-14,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-09-22,1200,1500,1400,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-09-29,1000,1200,1100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-09-30,1000,1200,1100,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-10-22,1500,1800,1600,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-10-28,1500,1800,1600,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-11-02,1500,1800,1600,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-11-04,1500,2000,1800,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-11-18,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-11-19,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-11-23,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-11-29,1800,2000,1900,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-12-16,2500,2800,2600,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-12-17,2500,2800,2600,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-12-27,2500,2800,2600,176
+Karnataka,Udupi,Udupi,Seemebadnekai,Seemebadanekai,FAQ,2021-12-31,2500,2800,2600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-01-01,1400,1600,1500,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-01-02,900,1100,1000,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-01-12,600,800,700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-01-27,1100,1300,1200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-02-08,700,900,800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-02-10,600,800,700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-02-12,600,800,700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-02-17,600,800,700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-03-15,1200,1400,1300,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-03-16,1200,1400,1300,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-03-17,1200,1400,1300,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-03-18,1200,1400,1300,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-03-29,2400,2600,2500,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-03-31,2400,2600,2500,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-04-17,2800,3000,2900,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-04-19,1600,2000,1800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-04-22,1800,2000,1900,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-05-03,1600,2000,1800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-05-04,1600,1800,1700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-05-10,1400,1800,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-05-11,2000,2400,2200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-05-24,1400,2000,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-05-26,1400,2200,1800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-05-27,1600,2000,1800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-06-03,1400,2000,1700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-06-21,2000,3000,2500,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-07-14,1200,1800,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-07-19,1600,2000,1800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-07-26,1600,2000,1800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-07-28,1800,2000,1900,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-08-07,1600,2000,1800,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-08-26,1500,1800,1700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-09-01,1200,1400,1300,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-09-14,1000,1200,1100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-09-16,1000,1200,1100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-09-24,1400,1600,1500,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-09-30,1500,1700,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-10-12,600,800,700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-10-13,650,850,750,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-10-27,1200,1400,1300,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-11-06,1000,1200,1100,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-11-12,1400,1800,1600,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-11-25,3000,3500,3200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-11-29,3500,4000,3700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-12-02,3200,3800,3500,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-12-09,3500,3900,3700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-12-10,3500,4000,3700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-12-13,3500,4000,3700,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-12-17,3000,3500,3200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-12-18,3000,3500,3200,176
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Seemebadnekai,Seemebadanekai,FAQ,2021-12-21,2400,3000,2700,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-01-03,1000,1200,1100,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-01-09,1000,1300,1200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-01-14,1000,1300,1200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-02-01,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-02-02,1000,1400,1200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-02-14,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-02-17,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-02-21,800,1000,900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-02-25,800,1000,900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-02-27,800,1000,900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-08,1000,1600,1200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-10,800,1000,900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-12,800,1000,900,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-17,1000,1500,1300,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-19,1000,1300,1200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-23,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-24,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-25,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-03-27,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-04-07,1500,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-04-19,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-04-22,2400,2600,2500,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-04-26,2400,2800,2600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-04-29,2000,2600,2400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-05-11,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-05-16,1600,2200,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-05-17,1400,1600,1500,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-05-20,1400,1800,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-05-24,1400,2000,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-05-25,1400,1800,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-05-26,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-06-09,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-06-17,1600,2400,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-06-19,1600,2400,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-06-20,1800,2200,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-06-26,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-07-02,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-07-04,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-07-14,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-07-31,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-08-07,1800,2400,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-08-12,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-08-13,1800,2200,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-08-18,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-08-23,1600,2200,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-08-26,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-09-01,1400,1800,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-09-16,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-09-19,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-09-21,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-09-22,1000,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-09-29,900,1200,1000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-10-06,800,1300,1000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-10-12,800,1200,1000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-10-14,800,1200,1000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-10-15,800,1200,1000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-10-22,1000,1200,1100,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-10-26,800,1300,1000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-10-28,1000,1200,1100,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-11-04,1000,1200,1100,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-11-06,1000,1400,1200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-11-08,1200,1600,1400,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-11-11,1000,1300,1200,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-11-16,900,1300,1000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-11-25,1400,1800,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-11-26,1400,1900,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-01,1400,2000,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-03,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-05,1800,2400,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-09,1800,2300,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-13,1600,2200,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-15,1600,2100,2000,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-18,1600,2100,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-24,1200,2000,1600,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-27,1600,2000,1800,176
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,2021-12-30,1600,2000,1800,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-01-16,1000,1500,1300,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-01-21,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-02-02,800,1000,900,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-02-05,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-02-09,1000,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-02-20,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-02-24,1000,1400,1200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-03-04,1000,1400,1200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-03-17,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-03-20,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-03-25,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-04-03,600,1000,800,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-04-06,600,1000,900,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-04-27,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-04-28,1500,2000,1700,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-04-30,1000,1400,1200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-05-15,800,1000,900,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-05-18,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-05-20,1000,1200,1100,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-05-26,800,1200,1000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-05-29,1200,1500,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-06-10,1200,1500,1300,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-06-17,1200,1800,1600,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-06-19,1800,2200,2000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-07-03,1600,2000,1800,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-07-14,1800,2200,2000,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-07-27,1400,1600,1500,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-08-13,1600,2000,1800,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-08-19,1500,1800,1600,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-08-25,1200,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-08-26,1500,1800,1600,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-09-01,1200,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-09-14,1200,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-09-16,1400,1600,1500,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-09-24,1200,1400,1300,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-09-28,1000,1200,1100,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-10-07,1200,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-10-12,1000,1400,1200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-10-16,1000,1400,1200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-10-30,1000,1400,1200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-11-06,1200,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-11-12,1200,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-11-19,1500,1800,1600,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-11-24,1200,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-12-01,1300,1600,1400,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-12-03,1600,1800,1700,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-12-04,1700,1900,1800,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-12-09,1800,2000,1900,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-12-23,1800,2500,2200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-12-24,1800,2500,2200,176
+Karnataka,Davangere,Davangere,Seemebadnekai,Seemebadanekai,FAQ,2021-12-31,1400,1800,1600,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2021-02-02,600,600,600,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2021-04-15,1350,1350,1350,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2021-08-18,1100,1100,1100,176
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,FAQ,2021-11-17,3200,3200,3200,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-01,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-11,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-18,200,300,250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-19,200,300,250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-22,200,300,250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-23,200,300,250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-01-27,300,400,350,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-02-01,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-02-07,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-02-24,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-02-27,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-02-28,500,600,550,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-03-09,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-03-10,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-03-15,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-03-17,400,500,450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-03-20,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-03-24,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-04-21,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-04-30,1000,1200,1100,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-05-01,1000,1200,1100,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-05-09,1200,1400,1300,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-05-14,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-05-17,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-05-24,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-07,1000,1500,1250,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-23,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-25,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-28,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-29,800,900,850,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-06-30,700,800,750,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-07-07,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-07-09,800,1000,900,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-07-10,800,900,850,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-07-16,900,1000,950,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-07-26,1400,1600,1500,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-08-03,1400,1600,1500,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-08-08,1400,1500,1450,176
+Karnataka,Kolar,Chickkaballapura,Seemebadnekai,Seemebadanekai,FAQ,2021-08-10,1400,1600,1500,176

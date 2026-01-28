@@ -1,0 +1,5 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+West Bengal,Malda,Samsi,Duck,Other,FAQ,2006-04-27,220,220,220.0,370
+West Bengal,Malda,Samsi,Duck,Other,FAQ,2006-06-01,210,210,210.0,370
+West Bengal,Malda,Samsi,Duck,Other,FAQ,2006-06-29,220,220,220.0,370
+West Bengal,Malda,Samsi,Duck,Other,FAQ,2006-07-20,240,240,240.0,370
