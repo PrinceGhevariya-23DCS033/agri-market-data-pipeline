@@ -1,0 +1,155 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Chamrajnagar,Kollegal,Hybrid Cumbu,Other,Medium,2013-06-10,1400,1450,1400,119
+Karnataka,Chamrajnagar,Kollegal,Hybrid Cumbu,Other,Medium,2013-10-03,1200,1400,1300,119
+Pondicherry,Pondicherry,Madagadipet,Hybrid Cumbu,Other,FAQ,2013-07-11,1436,1436,1436,119
+Pondicherry,Pondicherry,Madagadipet,Hybrid Cumbu,Other,FAQ,2013-10-01,1306,1306,1306,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-05-07,1389,1474,1474,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-05-13,1390,1390,1390,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-05-14,1359,1370,1360,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-05-28,1397,1414,1400,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-06-07,1459,1488,1488,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-06-12,1439,1482,1482,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-07-11,1483,1503,1503,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-07-17,1476,1513,1513,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-07-18,1469,1509,1509,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-07-31,1500,1500,1500,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-08-21,1389,1389,1389,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-09-19,1103,1260,1220,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-09-23,912,1297,1110,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-09-24,982,1303,1100,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-10-09,1267,1267,1267,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-10-31,1247,1247,1247,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-11-21,1419,1419,1419,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2013-11-26,1420,1420,1420,119
+Tamil Nadu,Cuddalore,Cuddalore,Hybrid Cumbu,Other,FAQ,2013-09-19,1309,1315,1312,119
+Tamil Nadu,Cuddalore,Cuddalore,Hybrid Cumbu,Other,FAQ,2013-10-09,1252,1252,1252,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-08-12,1409,1659,1534,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-08-14,1403,1403,1403,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-08-19,1111,1461,1286,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-08-22,1420,1440,1430,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-09-03,1396,1396,1396,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-09-20,1152,1392,1272,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-10-22,1291,1291,1291,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-10-24,1339,1339,1339,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-10-25,1219,1332,1276,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-10-31,1316,1371,1344,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-11-27,1391,1680,1536,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-11-28,1201,1562,1382,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-12-16,1219,1219,1219,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2013-12-26,1392,1555,1474,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-01-04,1439,1889,1664,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-01-11,1836,1851,1844,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-01-22,1879,1879,1879,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-01-28,1788,1846,1817,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-02-20,1689,1689,1689,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-02-22,1729,1749,1739,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-03-01,1772,1839,1806,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-03-05,1729,1729,1729,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2013-03-15,1812,1812,1812,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-01-04,1580,1600,1590,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-01-31,1450,1500,1475,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-02-01,1450,1500,1475,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-02-07,1450,1500,1475,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-02-08,1430,1450,1440,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-03-14,1480,1500,1490,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-03-21,1480,1500,1490,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-04-10,1540,1560,1550,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-04-22,1530,1550,1540,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-04-30,1500,1550,1525,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-05-16,1500,1540,1520,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-05-22,1500,1540,1520,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-05-27,1480,1500,1490,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-05-29,1480,1500,1490,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-06-24,1540,1560,1550,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-07-17,1550,1560,1550,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-08-26,1540,1550,1540,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-09-30,1550,1560,1550,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-10-15,1500,1550,1520,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-11-11,1450,1500,1480,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-11-21,1500,1550,1520,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-12-06,1500,1550,1520,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2013-12-20,1500,1550,1520,119
+Pondicherry,Pondicherry,Madagadipet,Hybrid Cumbu,Other,FAQ,2012-10-09,1179,1179,1179,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-02-23,1323,1323,1323,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-05-31,1112,1139,1139,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-06-07,1063,1067,1067,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-06-11,1071,1087,1087,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-06-13,1083,1083,1083,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-07-20,1313,1320,1320,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-08-02,1179,1306,1200,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-08-13,1259,1280,1280,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-08-14,1274,1274,1274,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-08-24,1209,1324,1324,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-08-28,1346,1367,1367,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-09-14,1379,1379,1379,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-10-01,1224,1300,1300,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-10-10,1264,1264,1264,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-10-11,1100,1297,1297,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-10-12,1244,1244,1244,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-11-26,1371,1371,1371,119
+Pondicherry,Pondicherry,Thattanchavady,Hybrid Cumbu,Other,FAQ,2012-12-31,1590,1590,1590,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-01-04,1117,1117,1117,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-01-10,1239,1257,1248,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-01-11,1250,1263,1257,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-01-13,1296,1296,1296,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-02-09,1329,1429,1380,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-06-14,1729,1729,1729,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-06-25,950,1159,1055,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-11-29,999,1716,1357,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-12-12,1939,1939,1939,119
+Tamil Nadu,Cuddalore,Panruti,Hybrid Cumbu,Other,FAQ,2012-12-18,1889,1889,1889,119
+Tamil Nadu,Madurai,Usilampatty,Hybrid Cumbu,Other,FAQ,2012-01-12,1080,1190,1135,119
+Tamil Nadu,Madurai,Usilampatty,Hybrid Cumbu,Other,FAQ,2012-01-18,1050,1150,1100,119
+Tamil Nadu,Madurai,Usilampatty,Hybrid Cumbu,Other,FAQ,2012-01-20,1040,1140,1090,119
+Tamil Nadu,Madurai,Usilampatty,Hybrid Cumbu,Other,FAQ,2012-01-24,1080,1180,1130,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-08-10,1200,1300,1250,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-09-05,1200,1250,1200,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-09-07,1200,1300,1250,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-10-10,1250,1350,1300,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-10-19,1400,1450,1400,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-11-09,1400,1500,1450,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-11-23,1350,1450,1400,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-11-26,1500,1600,1500,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-12-12,1500,1600,1550,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-12-21,1500,1600,1550,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-12-27,1500,1600,1550,119
+Tamil Nadu,Thiruchirappalli,Thuraiyur,Hybrid Cumbu,Other,FAQ,2012-12-31,1300,1350,1300,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-04-11,1436,1436,1436,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-04-16,1489,1489,1489,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-04-20,1555,1555,1555,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-04-24,1557,1557,1557,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-05-21,1189,1462,1326.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-05-23,1469,1469,1469.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-05-24,1449,1449,1449.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-06-18,1101,1519,1310.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-07-17,1329,1890,1610.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-07-23,1343,2005,1674.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-07-24,1339,2111,1725.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-07-25,1267,2157,1712.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-08-07,1699,1699,1699.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-08-14,1229,1926,1578.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-08-30,1436,1469,1452.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-09-03,2016,2016,2016.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-10-30,1275,1723,1499.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-11-01,1637,1637,1637.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-11-21,1816,1816,1816.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-11-23,1820,1840,1830.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-11-29,1770,1777,1774.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-12-04,1335,1350,1343.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-12-07,1886,1903,1895.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-12-13,1809,1829,1819.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-12-24,1906,1906,1906.0,119
+Tamil Nadu,Villupuram,Kallakurichi,Hybrid Cumbu,Other,FAQ,2012-12-27,1861,1912,1887.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-01-30,1200,1240,1220.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-02-29,1100,1140,1120.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-05-17,1250,1280,1265.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-05-25,1740,1760,1750.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-06-22,1200,1240,1220.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-07-12,1300,1320,1310.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-10-16,1400,1450,1425.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-10-19,1400,1450,1425.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-10-29,1400,1450,1425.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-11-10,1470,1500,1485.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-11-28,1450,1500,1475.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-12-03,1450,1500,1475.0,119
+Tamil Nadu,Virudhunagar,Aruppukottai,Hybrid Cumbu,Other,FAQ,2012-12-31,1580,1600,1590.0,119

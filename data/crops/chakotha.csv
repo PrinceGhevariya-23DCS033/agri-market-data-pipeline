@@ -1,0 +1,12 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-08,1500,1800,1650,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-17,1000,1200,1100,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-18,0,1300,650,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-28,0,1000,500,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-02,0,1200,600,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-05,800,1000,900,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-08,0,1000,500,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-12,900,1000,950,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-18,0,1200,600,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-20,0,1000,500,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-26,0,1200,600,188

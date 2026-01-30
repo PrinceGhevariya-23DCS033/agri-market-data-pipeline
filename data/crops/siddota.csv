@@ -1,0 +1,10 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Punjab,Ropar (Rupnagar),Chamkaur Sahib,Siddota,Other,Large,2021-03-11,4400,4500,4450,183
+Rajasthan,Ajmer,Ajmer(F&V),Siddota,Other,Small,2011-11-13,1000,2000,1500,183
+Rajasthan,Ajmer,Ajmer(F&V),Siddota,Other,Small,2011-11-14,1000,2000,1500,183
+Rajasthan,Ajmer,Ajmer(F&V),Siddota,Other,Small,2011-12-02,1000,1400,1200,183
+Rajasthan,Ajmer,Ajmer(F&V),Siddota,Other,Small,2011-12-16,800,1600,1300,183
+Rajasthan,Ajmer,Ajmer(F&V),Siddota,Other,Small,2011-12-23,1000,1400,1200,183
+Rajasthan,Ajmer,Ajmer(F&V),Siddota,Other,Small,2011-12-30,800,1300,1000,183
+Rajasthan,Jalore,Jalore,Siddota,Other,Medium,2011-11-17,600,800,700,183
+Rajasthan,Jalore,Jalore,Siddota,Other,Medium,2011-11-22,900,1200,1050,183

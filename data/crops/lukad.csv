@@ -1,2 +1,23 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
 Uttar Pradesh,Shamli,Thanabhavan,Lukad,Lukad,Medium,2020-03-12,1000,1200,1120,337
+Haryana,Fatehabad,Fatehabad,Lukad,Other,Medium,2012-06-02,4000,5000,4000,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-04-05,3000,4000,3500,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-04-06,2500,3000,2750,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-04-17,3000,3500,3250,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-04-18,2000,2200,2100,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-04-23,4000,4500,4250,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-05-04,4500,5000,4750,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-05-08,4500,4800,4650,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-05-09,4000,5000,4500,337
+Himachal Pradesh,Kangra,Kangra,Lukad,Other,Medium,2012-05-17,3500,4000,3750,337
+Himachal Pradesh,Kangra,Kangra(Jassour),Lukad,Other,Medium,2012-04-27,1800,2000,1900,337
+Himachal Pradesh,Kangra,Kangra(Jassour),Lukad,Other,Medium,2012-04-28,1800,2000,1900,337
+Punjab,Gurdaspur,Gurdaspur,Lukad,Other,Medium,2012-04-17,1500,2000,1750,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-04-09,2000,4500,3250,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-04-10,2000,4000,3000,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-04-12,2000,4500,3250,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-04-18,1500,4000,2750,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-04-26,1500,3500,2500,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-05-01,2500,4500,3500,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-05-04,2000,4000,3000,337
+Punjab,Ludhiana,Ludhiana,Lukad,Other,Medium,2012-05-05,1500,4000,2750,337

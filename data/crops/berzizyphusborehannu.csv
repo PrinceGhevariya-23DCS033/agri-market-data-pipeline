@@ -1329,3 +1329,782 @@ Uttar Pradesh,Sambhal,Bhehjoi,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-28,0,
 Uttrakhand,Dehradoon,Rishikesh,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-10,450,700,550,357
 Uttrakhand,Haridwar,Roorkee,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-05,400,1000,750,357
 Uttrakhand,UdhamSinghNagar,Kicchha,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-02-25,300,400,390,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-10,800,1000,900,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-14,800,900,850,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-16,900,1000,950,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-23,700,800,750,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-29,900,1100,1000,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-01,1200,1400,1300,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-04,1500,1600,1550,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-14,1200,1400,1300,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-05,1200,1300,1250,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-18,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2011-05-18,9200,9300,9250,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-27,800,1100,950,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-17,800,1000,900,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-23,800,1000,900,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-24,800,1000,900,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-07,1000,1100,1050,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-02,900,1000,950,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-05,900,1000,950,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-07,700,1200,950,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-08,900,1000,950,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-11,900,1000,950,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-16,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-25,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-28,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-04,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-19,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-24,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-28,1200,1400,1300,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-29,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-04-04,1200,1300,1250,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-04-08,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-04-20,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2011-04-26,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-01-31,1200,1500,1350,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-05,1300,1500,1400,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-07,1300,1400,1350,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-08,1300,1400,1350,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-03-03,1300,1500,1400,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-03-11,1000,1200,1100,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-03-19,1400,1500,1450,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-21,1800,2000,1900,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-24,1500,1600,1550,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-02,1200,1400,1300,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-07,1000,1200,1100,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09,1000,1200,1100,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-12,1200,1500,1350,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-19,1500,1600,1550,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-22,1200,1400,1300,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-01,1400,1800,1600,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-05,800,1000,900,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-07,1000,1200,1100,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-12,1000,1200,1100,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-01,1000,2500,1800,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-05,500,1200,1000,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-09,800,1200,1000,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-12,800,1000,800,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-22,1300,1500,1300,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-24,1300,1500,1400,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-25,1300,1800,1400,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-17,1400,1800,1600,357
+Himachal Pradesh,Mandi,Mandi(Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-30,400,1000,600,357
+Himachal Pradesh,Sirmore,Nahan,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-02,1500,1500,1500,357
+Himachal Pradesh,Sirmore,Paonta Sahib,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-03,1200,1300,1200,357
+Himachal Pradesh,Una,Santoshgarh,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-30,1400,1800,1600,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-22,1500,1700,1600,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-23,1700,1700,1700,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-26,1400,1600,1500,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-31,1500,1500,1500,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-07,1500,1500,1500,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-13,1500,1500,1500,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-18,1300,1500,1400,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-21,1400,1600,1500,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-27,1600,2000,1800,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-06,1700,1700,1700,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-08,2000,2000,2000,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-04,1600,1600,1600,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-05,1600,2400,2000,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-18,1400,1500,1450,357
+Jammu and Kashmir,Kathua,Kathua,Ber(Zizyphus/Borehannu),Other,Small,2011-03-30,900,1000,950,357
+Jammu and Kashmir,Kathua,Kathua,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-09,900,1100,1000,357
+Jammu and Kashmir,Kathua,Kathua,Ber(Zizyphus/Borehannu),Other,Small,2011-04-20,700,800,750,357
+Jammu and Kashmir,Udhampur,Udhampur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-05,1000,1200,1100,357
+Punjab,Fatehgarh,Bassi Pathana,Ber(Zizyphus/Borehannu),Other,Small,2011-02-17,1000,1000,1000,357
+Punjab,Fatehgarh,Bassi Pathana,Ber(Zizyphus/Borehannu),Other,Small,2011-03-22,800,800,800,357
+Punjab,Fatehgarh,Bassi Pathana,Ber(Zizyphus/Borehannu),Other,Small,2011-03-26,800,1000,900,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-11,400,500,400,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-14,600,700,700,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2011-04-01,550,700,550,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2011-04-05,1000,1500,1200,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2011-04-19,1000,1000,1000,357
+Punjab,Fazilka,Jalalabad,Ber(Zizyphus/Borehannu),Other,Small,2011-03-24,800,1100,900,357
+Punjab,Fazilka,Jalalabad,Ber(Zizyphus/Borehannu),Other,Small,2011-03-28,500,700,600,357
+Punjab,Fazilka,Jalalabad,Ber(Zizyphus/Borehannu),Other,Small,2011-03-29,500,600,550,357
+Punjab,Ferozpur,Talwandi Bhai,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-03-28,1000,1000,1000,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-29,600,1800,1200,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-31,500,1600,1050,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09,500,1500,1000,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-14,500,1300,900,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-17,500,1300,900,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-23,500,1500,1000,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-24,500,1400,950,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-07,400,1100,750,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-11,500,1300,900,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-01,500,2000,1250,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-09,500,1600,1050,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-11,500,2000,1250,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-16,500,1500,1000,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2011-06-02,1200,1600,1400,357
+Punjab,Muktsar,Bariwala,Ber(Zizyphus/Borehannu),Other,Small,2011-03-09,1150,1150,1150,357
+Punjab,Muktsar,Bariwala,Ber(Zizyphus/Borehannu),Other,Small,2011-04-05,800,800,800,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-11,1000,1500,1200,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-17,800,1200,1000,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-03,700,1100,900,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-17,800,1400,1200,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-31,700,1100,900,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-01,800,1200,1000,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-08,600,1000,800,357
+Punjab,Sangrur,Lehra Gaga,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-25,1400,1400,1400,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-02-13,1000,1000,1000,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-02-19,900,900,900,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-02-24,800,900,900,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-02-26,800,800,800,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-03-02,900,900,900,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-03-26,1600,1700,1700,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-30,900,900,900,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-04-08,1300,1300,1300,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-04-09,1200,1300,1300,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-04-09,600,600,600,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-04-14,1600,1600,1600,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-04-18,1800,1800,1800,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-04-22,1700,1700,1700,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2011-04-23,1600,1600,1600,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Other,Large,2011-04-01,1700,1700,1700,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Other,Large,2011-04-04,1200,1200,1200,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Other,Small,2011-04-04,500,500,500,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Other,Small,2011-04-05,500,500,500,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Other,Large,2011-04-06,1300,1600,1600,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Other,Large,2011-04-10,1000,1300,1300,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-03,600,800,700,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-05,600,700,650,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-09,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-14,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-17,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-21,800,900,850,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2011-12-16,600,800,700,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2011-12-19,1500,1800,1650,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-27,800,1200,1000,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-07,1000,1200,1100,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-08,1000,1200,1100,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09,600,1000,800,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-11,600,1000,800,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-24,1000,1000,1000,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-04,600,700,650,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-07,500,700,600,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-01,400,600,500,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-01-04,600,1000,800,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-01-06,600,900,750,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-01-13,600,1000,800,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-01-20,600,1000,800,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-01-30,600,900,750,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-02-03,600,800,700,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-02-07,600,800,700,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-02-10,600,700,650,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-02-19,600,1200,900,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-02-25,600,800,700,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-12-02,500,1000,750,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Small,2011-12-06,600,1000,800,357
+Uttar Pradesh,Bulandshahar,Sikanderabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-14,580,630,600,357
+Uttar Pradesh,Bulandshahar,Sikanderabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-23,540,590,570,357
+Uttar Pradesh,Bulandshahar,Sikanderabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-05-14,740,780,761,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-07,340,450,400,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-08,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-11,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-13,400,580,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-17,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-20,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-28,500,700,600,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-03,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-13,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-19,400,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-21,420,650,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-24,450,600,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-29,340,580,500,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-04,540,730,600,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-05,500,700,600,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-06,500,700,600,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-08,450,650,540,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-11,500,700,600,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-12,500,700,600,357
+Uttar Pradesh,Bulandshahar,Sikarpur,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-23,285,500,400,357
+Uttar Pradesh,Hathras,Shadabad,Ber(Zizyphus/Borehannu),Other,Small,2011-03-23,310,490,400,357
+Uttar Pradesh,Jhansi,Jhansi,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-10,0,0,675,357
+Uttar Pradesh,Saharanpur,Deoband,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-24,2200,2600,2430,357
+Uttar Pradesh,Saharanpur,Deoband,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-22,850,1375,1350,357
+Uttrakhand,Haridwar,Roorkee,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-20,700,900,850,357
+Uttrakhand,Haridwar,Roorkee,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09,400,850,600,357
+Uttrakhand,Haridwar,Roorkee,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-10,400,900,580,357
+Uttrakhand,UdhamSinghNagar,Kicchha,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-03-03,800,800,800,357
+Chattisgarh,Surguja,Sitapur,Ber(Zizyphus/Borehannu),Other,Small,2011-06-30,200,200,200,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-01-06,1000,1500,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-01-08,1000,1500,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-01-31,1000,1500,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-02-22,1000,1500,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-11-18,800,1200,1100,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-12-01,1000,1500,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-12-03,1000,1500,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-12-16,1300,1400,1350,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-12-26,1000,1200,1100,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-12-30,1500,1600,1600,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-01-04,1000,1500,1350,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-01-06,1000,1500,1300,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-01-12,1000,2000,1700,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-02,1000,1500,1300,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-21,1000,1500,1300,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-10-19,800,1000,950,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-11-09,1000,1500,1300,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-11-16,1000,1500,1300,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-11-18,800,1200,1100,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-13,1000,1400,1200,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-16,1300,1400,1350,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-24,1000,1500,1300,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-26,1000,1200,1100,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-31,1200,1600,1400,357
+Gujarat,Banaskanth,Deesa,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-22,700,900,800,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-06,900,1000,950,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-10,1000,1200,1100,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-20,1000,1100,1050,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-25,800,1000,900,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-31,900,1100,1000,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-04,800,1000,900,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-15,800,900,850,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-22,700,900,800,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-23,800,900,850,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-26,800,1000,900,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-01,1700,2000,1850,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-16,1000,1500,1250,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-18,1250,1300,1275,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-22,1200,1400,1300,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-26,1000,1500,1250,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-30,1000,1200,1100,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-01,1000,1200,1100,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-02,1000,1100,1050,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-09,1000,1500,1250,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-27,800,1000,900,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-28,900,1100,1000,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-31,1000,1100,1050,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-11,800,1200,1000,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-18,800,1200,1000,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-31,800,1200,1000,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-20,800,1200,1000,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-21,800,1200,1000,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-22,800,1200,1000,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-10-18,4000,6000,5500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-02,600,1000,850,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-09,600,1000,850,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-18,1000,2000,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-11,600,1000,900,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-14,600,1000,900,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-21,600,1000,800,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-28,1000,1000,1000,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-01,700,1100,1000,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-07,700,700,700,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-11,700,700,700,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-12,700,700,700,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-21,300,300,300,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Other,Small,2011-03-18,773,773,773,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Other,Small,2011-03-19,602,1236,602,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Other,Small,2011-03-25,565,565,565,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Other,Small,2011-03-30,468,468,468,357
+Haryana,Bhiwani,Bhiwani,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-12-15,800,800,800,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-26,800,1000,900,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-06,600,800,700,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-13,600,700,650,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-15,600,700,650,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-03,800,1200,1000,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-04,800,1200,1000,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-11,800,1000,900,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-19,700,1100,900,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-20,500,1000,700,357
+Haryana,Bhiwani,Ch. Dadri,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-24,600,900,800,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-22,1000,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-26,1000,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-31,800,800,800,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-02,1000,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-03,900,900,900,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-04,900,1000,900,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09,900,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-11,800,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-13,1000,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-20,1000,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-01,900,1000,900,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-02,1000,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-08,700,700,700,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-17,900,1000,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-18,800,800,800,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2011-06-03,700,700,700,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-27,900,900,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-30,800,800,800,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-04,800,900,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-06,700,900,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-10,700,900,800,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-13,800,1000,1000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-23,700,1000,1000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-26,700,700,700,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-03,450,800,700,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-06,600,800,800,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-09,500,700,700,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-15,500,600,600,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-21,500,800,800,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-24,300,700,600,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-26,300,1000,700,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-06,300,700,600,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-09,300,900,600,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-11-13,3000,3000,3000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-11-17,2000,2000,2000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-11-18,2000,2000,2000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-12-02,1800,2000,2000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2011-12-12,1000,1000,1000,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-03-05,700,700,700,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-03-06,700,1000,900,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-03-08,600,800,625,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-03-11,550,550,550,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-03-17,550,550,550,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-04-02,521,521,521,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-04-05,575,575,575,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-04-17,650,700,675,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2011-04-25,650,650,650,357
+Haryana,Hissar,Barwala(Hisar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-01-31,1100,1100,1100,357
+Haryana,Hissar,Barwala(Hisar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-22,600,600,600,357
+Haryana,Hissar,Barwala(Hisar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-04-05,800,800,800,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Other,Medium,2011-04-20,1000,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2011-11-08,0,1500,1500,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2011-11-18,0,1500,1500,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-01-26,600,700,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-01-27,500,600,500,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-02-06,600,800,700,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-02-08,400,500,400,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-02-09,400,400,400,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-02-18,400,400,400,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-02-25,500,500,500,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-02-27,500,600,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-03-24,500,500,500,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-03-26,500,500,500,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-11-15,700,1000,1000,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-12-09,600,600,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-12-12,500,600,500,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-12-14,1000,1000,1000,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-12-20,800,800,800,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2011-12-23,800,800,800,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-02-11,650,1800,1225,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-02-24,600,1100,850,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-05,500,1300,900,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-11,500,1000,750,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-12,500,1000,750,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-21,600,800,700,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-23,300,1000,650,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-25,500,800,650,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-27,400,1000,700,357
+Haryana,Palwal,Palwal,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2011-03-29,400,1000,700,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2011-09-16,1100,1200,1150,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-03,0,1400,700,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-17,1400,1500,1450,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-02-18,0,1200,600,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-03-10,0,1000,500,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-04-07,0,1200,600,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2011-04-11,0,1200,600,357
+Haryana,Rohtak,Rohtak,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-08,500,800,700,357
+Haryana,Rohtak,Rohtak,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-24,400,600,500,357
+Haryana,Sirsa,Dabwali,Ber(Zizyphus/Borehannu),Other,Medium,2011-12-13,2500,2500,2500,357
+Himachal Pradesh,Bilaspur,Bilaspur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-03,1000,1500,1250,357
+Himachal Pradesh,Bilaspur,Bilaspur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-05,1000,1400,1200,357
+Himachal Pradesh,Bilaspur,Bilaspur,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-10,800,1000,900,357
+Himachal Pradesh,Bilaspur,Bilaspur,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-19,1200,1500,1350,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-01-17,1800,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-01-20,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-01-21,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-01-22,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-02-04,1800,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-02-05,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-02-10,1200,1800,1600,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-03-08,1200,1800,1600,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2011-03-09,1800,2000,2000,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-01-22,2000,2200,2100,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-12,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-16,1200,1400,1300,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-02-21,1200,1500,1350,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2011-03-04,1200,1500,1350,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-29,1800,2000,1800,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-30,1800,2500,2000,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-03,1500,2000,1800,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-07,1500,2000,1800,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-12,1200,1700,1500,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-14,1500,2000,1800,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-19,2400,2500,2400,357
+Himachal Pradesh,Una,Una,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-29,2000,2500,2200,357
+Punjab,Fatehgarh,Bassi Pathana,Ber(Zizyphus/Borehannu),Other,Small,2012-02-10,2000,2000,2000,357
+Punjab,Fatehgarh,Bassi Pathana,Ber(Zizyphus/Borehannu),Other,Small,2012-03-24,600,600,600,357
+Punjab,Fatehgarh,Bassi Pathana,Ber(Zizyphus/Borehannu),Other,Small,2012-04-03,1000,1200,1100,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-03,1200,1200,1200,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-30,800,1000,1000,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-02,700,800,700,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-04,750,750,750,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-16,1000,1000,1000,357
+Punjab,Fazilka,Fazilka (Ladhuka),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-18,800,800,800,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-26,1300,1400,1350,357
+Punjab,Ferozpur,Guru Har Sahai,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-01,1000,1000,1000,357
+Punjab,Ferozpur,Guru Har Sahai,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-22,1000,1000,1000,357
+Punjab,Ferozpur,Guru Har Sahai,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-27,1000,1000,1000,357
+Punjab,Ferozpur,Talwandi Bhai,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-04-04,1000,1000,1000,357
+Punjab,Jalandhar,Adampur,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-10,1200,1200,1200,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-17,700,1600,1150,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-18,700,2700,1700,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-20,800,2700,1750,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-22,700,1800,1250,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-27,700,2200,1450,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-28,800,2100,1450,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-07,700,1800,1250,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-09,700,1600,1150,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-28,600,1700,1150,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-05,600,1600,1100,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-06,500,1100,800,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-11,500,1100,800,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-16,500,1400,950,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2012-10-19,500,600,550,357
+Punjab,Muktsar,Bariwala,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-13,1000,1000,1000,357
+Punjab,Muktsar,Bariwala,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-02,1300,1300,1300,357
+Punjab,Muktsar,Bariwala,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-13,500,1200,1200,357
+Punjab,Muktsar,Bariwala,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-14,1200,1250,1200,357
+Punjab,Patiala,Dudhansadhan,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-20,1200,1500,1350,357
+Punjab,Patiala,Ghanaur,Ber(Zizyphus/Borehannu),Other,Small,2012-02-22,1000,1000,1000,357
+Punjab,Patiala,Ghanaur,Ber(Zizyphus/Borehannu),Other,Small,2012-02-23,1000,1000,1000,357
+Punjab,Patiala,Ghanaur,Ber(Zizyphus/Borehannu),Other,Small,2012-03-07,1000,1000,1000,357
+Punjab,Patiala,Ghanaur,Ber(Zizyphus/Borehannu),Other,Small,2012-03-15,1000,1000,1000,357
+Punjab,Patiala,Ghanaur,Ber(Zizyphus/Borehannu),Other,Small,2012-03-25,1000,1000,1000,357
+Punjab,Patiala,Ghanaur,Ber(Zizyphus/Borehannu),Other,Small,2012-04-12,1200,1200,1200,357
+Punjab,Patiala,Ghanaur,Ber(Zizyphus/Borehannu),Other,Small,2012-05-22,1000,1000,1000,357
+Punjab,Patiala,Patiala,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-13,1000,1100,1100,357
+Punjab,Patiala,Patiala,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-25,1000,1100,1100,357
+Punjab,Patiala,Patiala,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-29,1000,1200,1200,357
+Punjab,Patiala,Patiala,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-30,500,600,600,357
+Punjab,Patiala,Patiala,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-05,500,1500,1000,357
+Punjab,Patiala,Patiala,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-18,500,1600,1100,357
+Punjab,Patiala,Samana,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-17,1000,1200,1000,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2012-01-26,1300,1300,1300,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-02,1200,1300,1300,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-05,1200,1200,1200,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-16,1300,1500,1500,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-23,1500,1500,1500,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-02,1400,1400,1400,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2012-03-29,1300,1500,1500,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-29,700,700,700,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2012-04-02,1200,1700,1500,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2012-04-05,1400,1500,1500,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2012-04-11,1200,1700,1400,357
+Punjab,Sangrur,Sangrur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-04-23,600,600,600,357
+Punjab,Tarntaran,Patti,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-07,900,1100,1000,357
+Punjab,Tarntaran,Patti,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-22,800,1000,900,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-10,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-11,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-14,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-18,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-21,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-28,800,900,850,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-06,1000,1100,1050,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-23,800,1000,900,357
+Rajasthan,Jaipur,Chomu (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-26,700,800,750,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-11,1000,1500,1300,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-20,1200,1600,1400,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Small,2012-02-02,700,900,800,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Small,2012-02-12,500,700,600,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-14,800,1000,900,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-16,800,900,850,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-17,800,1000,900,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-20,700,1000,850,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-21,700,900,800,357
+Rajasthan,Jalore,Jalore,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-23,700,900,800,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-20,1000,1200,1000,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-10,800,1200,1000,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-20,800,1200,1000,357
+Rajasthan,Jodhpur,Jodhpur (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-29,800,1200,1000,357
+Rajasthan,Kota,Kota (F&V),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-13,600,800,700,357
+Uttrakhand,Dehradoon,Vikasnagar,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-19,500,1200,1200,357
+Uttrakhand,Garhwal (Pauri),Kotadwara,Ber(Zizyphus/Borehannu),Other,Large,2012-02-17,800,1200,1000,357
+Uttrakhand,Garhwal (Pauri),Kotadwara,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-17,800,1200,1000,357
+Uttrakhand,Garhwal (Pauri),Kotadwara,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-18,640,1200,1000,357
+Uttrakhand,Garhwal (Pauri),Kotadwara,Ber(Zizyphus/Borehannu),Other,Large,2012-02-19,620,1400,840,357
+Uttrakhand,UdhamSinghNagar,Kicchha,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-24,495,505,500,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-01-03,1200,1300,1250,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-01-04,1000,1500,1350,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-01-11,1500,2000,1850,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-01-18,1400,2000,1800,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-01-19,1000,1500,1350,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-01-24,1000,1500,1350,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-02-07,1000,1500,1350,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-02-13,1200,1300,1250,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-02-18,1000,1500,1350,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-02-27,1000,1400,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-11-26,1500,2000,1800,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-11-28,1500,2000,1800,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-03,1500,2000,1800,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-11,1500,2000,1800,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-15,1400,1500,1450,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-17,1400,1500,1450,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-18,1400,1500,1450,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-19,1500,2500,2150,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-22,1500,2500,2100,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-25,1500,1800,1700,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-27,1000,1500,1300,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-28,1000,1500,1350,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2012-12-29,1000,1500,1350,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-01-02,1200,1300,1250,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-01-10,1000,1500,1350,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-01-28,1000,1500,1300,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-02-03,1000,1500,1350,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-02-14,1000,1300,1200,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-11-29,1500,2000,1800,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-12-04,1500,2000,1800,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-12-08,1300,1700,1600,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-12-10,1500,2000,1800,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-12-11,1500,2000,1800,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-12-18,1400,1500,1450,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2012-12-31,1000,1500,1300,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-19,1000,1500,1250,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-31,1000,1500,1250,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-03,1000,1500,1250,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-08,800,1100,950,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-16,1100,1250,1175,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-21,1700,1800,1750,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-22,900,1000,950,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-29,500,1000,750,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-01,500,1000,750,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2012-10-27,1000,2000,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-04,600,1000,850,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-10,600,1000,900,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-17,600,1000,800,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-03,600,1000,850,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-06,600,1000,900,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-12,600,1000,900,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-16,600,1000,800,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-22,600,1000,800,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-11-28,1000,1500,1200,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-08,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-11,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-13,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-16,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-20,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-21,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-22,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-27,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-28,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-30,1000,1800,1500,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-31,1000,1800,1500,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-28,1000,2700,2000,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-04,1200,1600,1400,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-06,1300,3000,1500,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-14,800,1700,1000,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-16,900,3000,1500,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-22,1100,1200,1100,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-27,1400,2000,1800,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-14,600,850,700,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-24,600,1500,1000,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-05,700,1000,800,357
+Haryana,Ambala,Ambala City,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-12,400,1300,800,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-23,1000,1000,1000,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-25,1000,1000,1000,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-23,300,1000,800,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-26,200,300,240,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-10,200,1000,700,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-17,1800,1800,1800,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-14,971,971,971,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-20,600,600,600,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-30,477,477,477,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-04-05,520,520,520,357
+Haryana,Bhiwani,Bhiwani,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-02-17,900,1200,1100,357
+Haryana,Bhiwani,Bhiwani,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-29,700,1200,900,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-03,800,1100,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-07,800,1000,900,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-19,900,1200,1150,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-05,400,500,450,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-06,500,500,500,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-13,1400,1600,1500,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-16,1000,1100,1000,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-28,600,800,700,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-07,600,700,650,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-08,600,700,700,357
+Haryana,Fatehabad,Bhuna,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-14,800,1000,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-27,800,1000,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-04,900,1200,1000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-06,1000,1000,1000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-12,1000,1000,1000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-22,800,1000,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-19,800,1000,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-27,800,800,800,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-08,800,1000,900,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-11,500,1000,600,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-20,800,1000,1000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-10-10,2500,2500,2500,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-10-15,2000,2000,2000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-10-21,2000,2000,2000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-10-27,2000,2000,2000,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-12-14,1500,2000,1500,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-12-20,1500,2000,1500,357
+Haryana,Fatehabad,Fatehabad,Ber(Zizyphus/Borehannu),Other,Medium,2012-12-24,1500,1500,1500,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-01-18,1500,1800,1800,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-02-12,1500,1500,1500,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-02-22,700,1200,1000,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-03-14,1200,1200,1200,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-03-24,1000,1000,1000,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-04-01,1000,1500,1300,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-04-09,500,1200,1000,357
+Haryana,Fatehabad,Ratia,Ber(Zizyphus/Borehannu),Other,Small,2012-04-17,1000,1500,1200,357
+Haryana,Fatehabad,Tohana,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-12,700,1200,700,357
+Haryana,Fatehabad,Tohana,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-18,600,1500,600,357
+Haryana,Gurgaon,Pataudi,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-27,1000,1000,1000,357
+Haryana,Gurgaon,Pataudi,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-03,1000,2000,1500,357
+Haryana,Gurgaon,Pataudi,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-13,1000,1000,1000,357
+Haryana,Gurgaon,Pataudi,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-14,1000,1000,1000,357
+Haryana,Gurgaon,Pataudi,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-25,700,700,700,357
+Haryana,Gurgaon,Pataudi,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-28,800,800,800,357
+Haryana,Hissar,Narnaund,Ber(Zizyphus/Borehannu),Other,Small,2012-03-07,800,1000,900,357
+Haryana,Hissar,Narnaund,Ber(Zizyphus/Borehannu),Other,Small,2012-03-08,800,1000,900,357
+Haryana,Hissar,Narnaund,Ber(Zizyphus/Borehannu),Other,Small,2012-03-10,800,1000,900,357
+Haryana,Hissar,Narnaund,Ber(Zizyphus/Borehannu),Other,Small,2012-04-01,1100,1200,1150,357
+Haryana,Hissar,Narnaund,Ber(Zizyphus/Borehannu),Other,Small,2012-04-02,1000,1200,1100,357
+Haryana,Hissar,Narnaund,Ber(Zizyphus/Borehannu),Other,Small,2012-04-04,800,1000,900,357
+Haryana,Hissar,Narnaund,Ber(Zizyphus/Borehannu),Other,Small,2012-04-05,1000,1200,1100,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-01-22,1200,1200,1200,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-01-23,1200,1200,1200,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-17,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-30,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-31,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-04-05,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-04-09,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-04-16,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-13,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-13,1000,1200,1200,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-16,1000,1000,1000,357
+Haryana,Hissar,Uklana,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-17,1000,1000,1000,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-01-27,1000,1000,1000,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-01-28,1500,1500,1500,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-08,1000,1000,1000,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-19,1000,1600,1500,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-26,700,1000,850,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-03-06,1000,1000,1000,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-03-07,700,1000,850,357
+Haryana,Jhajar,Bahadurgarh,Ber(Zizyphus/Borehannu),Other,Small,2012-03-18,700,700,700,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-01-01,0,1500,1500,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-01-08,0,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-01-20,0,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-02-08,0,1200,1200,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-02-10,600,1500,1500,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-02-13,0,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-02-28,0,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-03-03,0,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-03-04,400,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-03-06,600,1400,1400,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-03-22,0,1200,1200,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-03-24,0,1000,1000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-11-09,0,2500,2500,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-11-16,0,2500,2500,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-11-25,0,2000,2000,357
+Haryana,Jhajar,Jhajjar,Ber(Zizyphus/Borehannu),Other,Small,2012-12-23,0,2000,2000,357
+Haryana,Karnal,Nissing,Ber(Zizyphus/Borehannu),Other,Small,2012-04-11,500,500,500,357
+Haryana,Karnal,Nissing,Ber(Zizyphus/Borehannu),Other,Small,2012-04-14,500,500,500,357
+Haryana,Mahendragarh-Narnaul,Ateli,Ber(Zizyphus/Borehannu),Other,Small,2012-02-15,300,300,300,357
+Haryana,Mahendragarh-Narnaul,Ateli,Ber(Zizyphus/Borehannu),Other,Small,2012-02-20,250,250,250,357
+Haryana,Mahendragarh-Narnaul,Ateli,Ber(Zizyphus/Borehannu),Other,Small,2012-02-25,300,300,300,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-01-15,800,800,800,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-01-18,800,800,800,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-01-24,700,700,700,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-01-30,1000,1000,1000,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-02,600,800,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-09,600,700,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-11,600,600,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-14,600,600,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-02-15,600,600,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-03-03,600,600,600,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-03-16,500,500,500,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-11-13,2000,2000,2000,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-12-18,1000,1000,1000,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-12-19,1000,1000,1000,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Small,2012-12-22,1000,1000,1000,357
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Ber(Zizyphus/Borehannu),Other,Medium,2012-12-29,1200,1200,1200,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2012-02-13,1000,1000,1000,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2012-02-18,1000,1000,1000,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2012-03-03,1000,1000,1000,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2012-03-06,800,1000,900,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2012-04-09,1000,1200,1100,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2012-04-10,1000,1400,1200,357
+Haryana,Panchkula,Barwala,Ber(Zizyphus/Borehannu),Other,Small,2012-04-26,1000,1000,1000,357
+Haryana,Panipat,Samalkha,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-08,1000,1200,1100,357
+Haryana,Panipat,Samalkha,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-19,400,1000,700,357
+Haryana,Panipat,Samalkha,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-20,1000,1200,1100,357
+Haryana,Panipat,Samalkha,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-26,300,400,350,357
+Haryana,Panipat,Samalkha,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-29,800,1000,900,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-27,0,1200,600,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-13,0,1300,650,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-14,0,1200,600,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-15,0,1200,600,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-27,0,1500,750,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-28,0,1500,750,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-15,0,1400,700,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-28,0,1400,700,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-30,0,1500,750,357
+Haryana,Rohtak,Meham,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-02,0,1200,600,357
+Haryana,Sirsa,Dabwali,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-18,600,600,600,357
+Haryana,Sirsa,kalanwali,Ber(Zizyphus/Borehannu),Other,Medium,2012-05-01,800,900,800,357
+Haryana,Sonipat,Gohana,Ber(Zizyphus/Borehannu),Other,Large,2012-03-21,600,1000,800,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-02,1200,1500,1200,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-11,1000,1500,1200,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-17,1200,1500,1300,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-18,1200,1500,1400,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-19,1000,1500,1300,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Small,2012-03-23,1200,1500,1300,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-01,1000,1200,1100,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-02,1000,1200,1100,357
+Haryana,Sonipat,Sonepat,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-09,1000,1200,1100,357
+Haryana,Yamuna Nagar,Mustafabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-24,2300,2300,2300,357
+Haryana,Yamuna Nagar,Mustafabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Small,2012-03-25,2200,2200,2200,357
+Haryana,Yamuna Nagar,Sadhaura,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-15,800,1200,1000,357
+Haryana,Yamuna Nagar,Sadhaura,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-29,1000,1200,1100,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-01-30,1800,2200,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-01-31,1800,1800,1800,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-02-07,2000,2200,2200,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-02-08,2000,2200,2200,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-03-19,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-03-24,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-04-01,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-04-05,2000,2000,2000,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Large,2012-04-10,1500,1500,1500,357
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Ber(Zizyphus/Borehannu),Other,Large,2012-03-05,1800,2000,2000,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-01-24,2000,2200,2100,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-17,1600,1800,1700,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-25,2000,2200,2100,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-05,1500,2000,1750,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-06,1500,1800,1650,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-07,2200,2500,2350,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-10,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-21,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-03-27,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-16,1400,1600,1500,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-21,1700,1800,1750,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-23,1600,1700,1650,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-08,1200,1300,1250,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-15,1100,1200,1150,357
+Himachal Pradesh,Kangra,Kangra(Baijnath),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-24,1300,1400,1350,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-01,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-18,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-29,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-01-23,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-11,1200,1500,1350,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-02-21,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-02,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-03,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-05,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-09,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-14,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-16,1800,2000,1900,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-23,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-03-31,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-04,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-10,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-12,1500,1600,1550,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2012-04-21,1400,1500,1450,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-01-24,700,800,750,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-09,1300,1400,1350,357
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-02-15,1100,1200,1150,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-23,1500,1600,1550,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2012-04-10,2000,2500,2250,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-13,1500,1800,1800,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-14,1600,1800,1800,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-17,1000,1200,1200,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-19,1500,1600,1600,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-21,1200,1500,1200,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-03-22,1500,1700,1600,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2012-04-06,1500,1800,1800,357
+Himachal Pradesh,Sirmore,Nahan,Ber(Zizyphus/Borehannu),Other,Medium,2012-02-12,1800,1800,1800,357
