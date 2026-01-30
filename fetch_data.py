@@ -23,7 +23,7 @@ SHORT_BACKOFF = 2
 LONG_SLEEP_1 = 300    # 5 minutes
 LONG_SLEEP_2 = 900    # 15 minutes
 
-MAX_OFFSET = 4_000_000
+MAX_OFFSET = 3_000_000
 
 DATA_DIR = "data/crops"
 os.makedirs(DATA_DIR, exist_ok=True)
