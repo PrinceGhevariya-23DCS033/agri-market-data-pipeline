@@ -23,19 +23,23 @@ SHORT_BACKOFF = 2
 LONG_SLEEP_1 = 300    # 5 minutes
 LONG_SLEEP_2 = 900    # 15 minutes
 
-MAX_OFFSET = 4_100_000
+MAX_OFFSET = 10_100_000
 
 DATA_DIR = "data/crops"
 os.makedirs(DATA_DIR, exist_ok=True)
 
 PROGRESS_FILE = "data/progress.json"
+
+# ⏱️ TIME CONTROL (KEY PART)
+START_TIME = time.time()
+MAX_RUNTIME = 2 * 60 * 60 + 55 * 60   # 2h 55m
 # ==========================================
 
 
 # ========== SAFE FILENAME ==========
 def safe_name(text: str) -> str:
     text = text.lower().strip()
-    text = re.sub(r"[^\w\s-]", "", text)   # remove (), etc
+    text = re.sub(r"[^\w\s-]", "", text)
     text = re.sub(r"\s+", "_", text)
     return text
 # ===================================
@@ -48,8 +52,7 @@ def load_progress():
 
     try:
         with open(PROGRESS_FILE, "r") as f:
-            data = json.load(f)
-            return {"last_offset": data.get("last_offset", 0)}
+            return json.load(f)
     except Exception:
         return {"last_offset": 0}
 
@@ -60,9 +63,8 @@ def save_progress(offset):
 # ==============================
 
 
-# ========== API FETCH WITH LONG RETRY ==========
+# ========== API FETCH ==========
 def fetch_page_with_resilience(offset):
-    # first short retries
     for attempt in range(1, SHORT_RETRIES + 1):
         try:
             r = requests.get(
@@ -80,72 +82,49 @@ def fetch_page_with_resilience(offset):
             return r.json().get("records", [])
         except (Timeout, RequestException, ValueError):
             wait = SHORT_BACKOFF ** attempt
-            print(f"⚠️ Short retry {attempt}/{SHORT_RETRIES} | offset={offset} | wait={wait}s")
+            print(f"⚠️ Retry {attempt}/{SHORT_RETRIES} | offset={offset} | wait={wait}s")
             time.sleep(wait)
 
-    # long sleep 1
-    print(f"🕒 API unstable at offset {offset}. Sleeping {LONG_SLEEP_1//60} minutes...")
+    print(f"🕒 API unstable. Sleeping {LONG_SLEEP_1//60} minutes...")
     time.sleep(LONG_SLEEP_1)
-
-    # second round
-    for attempt in range(1, SHORT_RETRIES + 1):
-        try:
-            r = requests.get(
-                BASE_URL,
-                params={
-                    "api-key": API_KEY,
-                    "format": "json",
-                    "limit": LIMIT,
-                    "offset": offset
-                },
-                timeout=REQUEST_TIMEOUT
-            )
-            if r.status_code != 200:
-                raise RequestException(f"HTTP {r.status_code}")
-            return r.json().get("records", [])
-        except (Timeout, RequestException, ValueError):
-            wait = SHORT_BACKOFF ** attempt
-            print(f"⚠️ Retry after cooldown {attempt}/{SHORT_RETRIES} | wait={wait}s")
-            time.sleep(wait)
-
-    # final long sleep
-    print(f"🛑 API still failing. Sleeping {LONG_SLEEP_2//60} minutes before skip.")
-    time.sleep(LONG_SLEEP_2)
     return []
 # =============================================
 
 
-# ========== APPEND / CREATE ==========
+# ========== APPEND ==========
 def append_to_crop_csv(df, crop):
     crop_file = safe_name(crop) + ".csv"
     path = os.path.join(DATA_DIR, crop_file)
 
     if os.path.exists(path):
         df.to_csv(path, mode="a", header=False, index=False)
-        print(f"➕ Appended {len(df)} rows → {crop_file}")
     else:
         df.to_csv(path, index=False)
-        print(f"🆕 Created {crop_file} ({len(df)} rows)")
 # ===================================
 
 
 # ========== MAIN LOOP ==========
 progress = load_progress()
-offset = progress["last_offset"]
+offset = progress.get("last_offset", 0)
 
 print(f"▶ Resuming from offset: {offset}")
 
 while offset <= MAX_OFFSET:
+
+    # ⏱️ GRACEFUL STOP CHECK
+    if time.time() - START_TIME >= MAX_RUNTIME:
+        print("⏹️ Time window reached (2h55m). Saving progress & exiting safely.")
+        save_progress(offset)
+        break
+
     records = fetch_page_with_resilience(offset)
     if not records:
-        print(f"⚠️ No records at offset {offset}, moving on")
         offset += LIMIT
         save_progress(offset)
         continue
 
     df = pd.DataFrame(records)
 
-    # FIX DATE WARNING (Indian format)
     df["Arrival_Date"] = pd.to_datetime(
         df["Arrival_Date"],
         dayfirst=True,
@@ -164,5 +143,5 @@ while offset <= MAX_OFFSET:
 
     time.sleep(0.3)
 
-print("🎉 DATA COLLECTION COMPLETED SAFELY")
+print("✅ Run finished cleanly")
 # =====================================
