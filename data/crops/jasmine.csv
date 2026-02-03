@@ -2,3 +2,64 @@ State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,M
 Kerala,Palakad,Koduvayoor,Jasmine,Other,FAQ,2021-12-01,110000,120000,115000,229
 Kerala,Palakad,Koduvayoor,Jasmine,Other,FAQ,2021-12-06,100000,170000,130000,229
 Kerala,Palakad,Koduvayoor,Jasmine,Other,FAQ,2021-12-16,150000,160000,155000,229
+Kerala,Palakad,Palakkad,Jasmine,Other,FAQ,2008-01-22,25000,30000,27500,229
+Kerala,Palakad,Palakkad,Jasmine,Other,FAQ,2008-06-10,7000,8000,7500,229
+Kerala,Palakad,Palakkad,Jasmine,Other,FAQ,2008-06-17,8000,10000,9000,229
+Kerala,Palakad,Palakkad,Jasmine,Other,FAQ,2008-08-07,6000,7000,6500,229
+Kerala,Palakad,Palakkad,Jasmine,Other,FAQ,2008-08-19,10000,12000,11000,229
+Kerala,Palakad,Palakkad,Jasmine,Other,FAQ,2008-08-21,10000,12000,11000,229
+Kerala,Palakad,Palakkad,Jasmine,Other,FAQ,2008-10-16,25000,30000,27500,229
+Maharashtra,Pune,Pune,Jasmine,Other,FAQ,2008-02-06,200,250,225,229
+Maharashtra,Pune,Pune,Jasmine,Other,FAQ,2008-02-25,200,250,225,229
+Maharashtra,Pune,Pune,Jasmine,Other,FAQ,2008-09-06,200,250,225,229
+Maharashtra,Pune,Pune,Jasmine,Other,FAQ,2008-10-07,300,400,350,229
+Tamil Nadu,Madurai,Madurai,Jasmine,Other,FAQ,2008-01-10,15000,18000,16500,229
+Tamil Nadu,Madurai,Madurai,Jasmine,Other,FAQ,2008-01-18,25000,30000,27500,229
+Tamil Nadu,Madurai,Madurai,Jasmine,Other,FAQ,2008-01-21,12000,15000,13500,229
+Tamil Nadu,Madurai,Madurai,Jasmine,Other,FAQ,2008-02-11,28000,30000,29000,229
+Tamil Nadu,Madurai,Madurai,Jasmine,Other,FAQ,2008-02-12,15000,20000,17500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-04-25,5000,6000,5500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-07,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-16,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-19,5000,6000,5500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-20,5000,6000,5500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-21,5000,6000,5500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-25,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-30,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-05-31,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-01,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-08,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-09,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-10,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-13,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-14,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-16,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-18,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-19,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-20,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-24,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-06-26,4000,5000,4500,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-07-14,10000,13000,12000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-07-24,12000,15000,13000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-08-03,12000,15000,14000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-08-05,12000,15000,14000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-08-08,13000,16000,15000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-08-17,13000,16000,15000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-08-19,13000,16000,15000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-08-21,13000,16000,15000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-08-30,14000,17000,16000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-09-01,14000,17000,16000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-09-04,14000,17000,16000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-09-07,14000,17000,16000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-09-08,14000,17000,16000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-09-20,13000,17000,15000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-09-23,12000,15000,14000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-09-26,9000,12000,10000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-10-05,10000,14000,12000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-10-07,10000,14000,12000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-10-10,12000,17000,15000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-10-22,12000,15000,13000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-10-24,13000,16000,14000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-10-26,14000,17000,15000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-10-28,15000,18000,16000,229
+West Bengal,Medinipur(E),Tamluk (Medinipur E),Jasmine,Other,FAQ,2008-11-14,12000,15000,13000,229

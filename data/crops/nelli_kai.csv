@@ -1,0 +1,9 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-01-25,2000,2500,2300,223
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-02-01,1800,2000,1900,223
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-04-11,1900,2000,2000,223
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-06-06,1800,2000,1900,223
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-07-04,3000,3500,3000,223
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-07-08,3500,4000,3800,223
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-07-15,2500,3000,2800,223
+Kerala,Kollam,Kollam,Nelli Kai,Other,FAQ,2008-10-10,2000,2500,2400,223
