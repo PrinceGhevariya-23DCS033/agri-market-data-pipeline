@@ -1,9 +1,9 @@
 name: Agri Market Data Pipeline (Every 3 Hours)
 
 on:
-  workflow_dispatch:    # manual run if needed
+  workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"   # every 3 hours
+    - cron: "0 */3 * * *"
 
 jobs:
   run-pipeline:
@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit data & progress
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add data/
-          git commit -m "Auto update agmarknet data (3h cycle)" || echo "No changes"
+          git commit -m "Checkpoint: agmarknet offset update" || echo "No changes"
           git push
