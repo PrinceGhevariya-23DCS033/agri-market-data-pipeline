@@ -1,35 +1,35 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-10-31,600,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-06,400,800,600,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-15,600,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-19,500,900,700,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-26,400,800,600,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-27,500,700,600,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-28,600,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-12-15,400,800,500,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-01-01,400,800,600,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-01-17,400,800,600,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-02-01,400,800,600,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,Large,2011-02-24,400,600,500,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,Large,2011-11-02,500,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,Large,2011-11-05,500,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-19,500,1800,1500,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-21,500,1800,1500,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-23,500,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-26,500,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-28,500,1800,1500,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-12-07,700,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-12-17,600,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-12-27,600,1000,800,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-01-04,500,1500,1000,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-05,800,1600,1200,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-14,1000,1600,1300,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-18,1000,1600,1300,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-19,1000,1800,1400,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-09-01,1000,2000,1500,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-09-22,1000,2000,1500,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-09-30,1000,1600,1300,189
-Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-10-03,1000,1800,1400,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-10-31,600,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-06,400,800,600.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-15,600,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-19,500,900,700.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-26,400,800,600.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-27,500,700,600.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-11-28,600,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2007-12-15,400,800,500.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-01-01,400,800,600.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-01-17,400,800,600.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-02-01,400,800,600.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,Large,2011-02-24,400,600,500.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,Large,2011-11-02,500,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,Large,2011-11-05,500,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-19,500,1800,1500.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-21,500,1800,1500.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-23,500,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-26,500,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-11-28,500,1800,1500.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-12-07,700,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-12-17,600,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2011-12-27,600,1000,800.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-01-04,500,1500,1000.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-05,800,1600,1200.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-14,1000,1600,1300.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-18,1000,1600,1300.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-08-19,1000,1800,1400.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-09-01,1000,2000,1500.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-09-22,1000,2000,1500.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-09-30,1000,1600,1300.0,189
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2020-10-03,1000,1800,1400.0,189
 Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2008-01-05,400,600,500.0,189
 Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2008-01-09,400,600,500.0,189
 Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2008-02-04,300,500,400.0,189
@@ -37,3 +37,144 @@ Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2008-0
 Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2008-11-19,600,1200,900.0,189
 Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2008-11-20,500,1000,800.0,189
 Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Borehannu,Borehannu,FAQ,2008-12-10,600,1000,800.0,189
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-04 00:00:00,2000,2000,2000.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-13 00:00:00,3700,3700,3700.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-20 00:00:00,2500,3600,2800.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-23 00:00:00,2800,2800,2800.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-25 00:00:00,2500,2500,2500.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-30 00:00:00,2500,2500,2500.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-06 00:00:00,2000,2000,2000.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-26 00:00:00,1500,1500,1500.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-03 00:00:00,1500,1500,1500.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-05 00:00:00,2000,2000,2000.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-13 00:00:00,1000,1000,1000.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-04-12 00:00:00,800,800,800.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-12-13 00:00:00,4000,4000,4000.0,357
+Haryana,Ambala,Naraingarh,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-12-25 00:00:00,3500,3500,3500.0,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-09 00:00:00,3000,3000,3000.0,357
+Haryana,Ambala,Shahzadpur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-26 00:00:00,1100,1100,1100.0,357
+Haryana,Kurukshetra,Ladwa,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-11 00:00:00,1500,2000,1750.0,357
+Haryana,Kurukshetra,Ladwa,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-24 00:00:00,1000,1500,1250.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-01 00:00:00,2500,3500,3000.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-04 00:00:00,2000,3000,2500.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-30 00:00:00,2500,3200,2700.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-15 00:00:00,2800,3500,3200.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-17 00:00:00,2500,3000,2700.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-18 00:00:00,2500,3000,2700.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-23 00:00:00,2000,4000,3000.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-25 00:00:00,3000,3000,3000.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-01 00:00:00,1500,3000,2000.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-05 00:00:00,1500,2000,1700.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-10 00:00:00,1400,2400,1500.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-04-01 00:00:00,1800,1800,1800.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-12-01 00:00:00,3500,3500,3500.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-12-27 00:00:00,2185,4000,2500.0,357
+Haryana,Kurukshetra,Shahabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,2021-12-28 00:00:00,2500,3000,2700.0,357
+Haryana,Yamuna Nagar,Chhachrauli,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-18 00:00:00,1000,1000,1000.0,357
+Haryana,Yamuna Nagar,Chhachrauli,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-19 00:00:00,1000,1000,1000.0,357
+Himachal Pradesh,Chamba,Chamba,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-28 00:00:00,2800,3000,2900.0,357
+Himachal Pradesh,Chamba,Chamba,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-04 00:00:00,3000,4000,3500.0,357
+Himachal Pradesh,Chamba,Chamba,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-05 00:00:00,3000,4000,3500.0,357
+Himachal Pradesh,Chamba,Chamba,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-04 00:00:00,2500,3500,3000.0,357
+Himachal Pradesh,Chamba,Chamba,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-06 00:00:00,2000,3000,2500.0,357
+Himachal Pradesh,Chamba,Chamba,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-09 00:00:00,2500,3500,3000.0,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-18 00:00:00,3000,3500,3250.0,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-25 00:00:00,3000,3500,3250.0,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-06 00:00:00,3000,3500,3250.0,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-16 00:00:00,3000,3500,3250.0,357
+Himachal Pradesh,Hamirpur,Hamirpur,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-23 00:00:00,4000,4000,4000.0,357
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-10 00:00:00,3200,3700,3500.0,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-09 00:00:00,4500,5000,4750.0,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-11 00:00:00,4500,5000,4750.0,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-18 00:00:00,3500,4000,3750.0,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-19 00:00:00,3500,4000,3750.0,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-06 00:00:00,3300,3500,3400.0,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-19 00:00:00,2500,3000,2750.0,357
+Himachal Pradesh,Kangra,Kangra,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-27 00:00:00,2500,3000,2750.0,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2021-01-09 00:00:00,3500,4000,3750.0,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2021-01-13 00:00:00,3500,4000,3750.0,357
+Himachal Pradesh,Kangra,Kangra(Jassour),Ber(Zizyphus/Borehannu),Other,Medium,2021-01-30 00:00:00,3500,4000,3750.0,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-03 00:00:00,4000,4500,4200.0,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-22 00:00:00,2500,3000,2800.0,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-03 00:00:00,2500,3000,2700.0,357
+Himachal Pradesh,Kangra,Palampur,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-09 00:00:00,2500,3000,2700.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-01-29 00:00:00,3500,3500,3500.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-15 00:00:00,2500,3000,2750.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-16 00:00:00,2500,3000,2750.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-17 00:00:00,2000,2500,2250.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-18 00:00:00,2000,3000,2500.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-19 00:00:00,2500,3000,2750.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-24 00:00:00,2000,2800,2400.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-03-03 00:00:00,2200,2600,2400.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-03-09 00:00:00,2200,2600,2400.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-03-15 00:00:00,2300,2500,2400.0,357
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-03-20 00:00:00,2500,2700,2600.0,357
+Himachal Pradesh,Sirmore,Paonta Sahib,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-24 00:00:00,1800,2200,2000.0,357
+Himachal Pradesh,Sirmore,Paonta Sahib,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-11 00:00:00,3000,4000,3500.0,357
+Madhya Pradesh,Bhopal,Bhopal(F&V),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-24 00:00:00,1200,2000,1500.0,357
+Madhya Pradesh,Bhopal,Bhopal(F&V),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-16 00:00:00,1000,2000,1500.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-01-23 00:00:00,1000,2000,1500.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-01-30 00:00:00,1000,2000,1500.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-11 00:00:00,300,2000,900.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-15 00:00:00,300,1200,700.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-02-24 00:00:00,400,1200,800.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-03-24 00:00:00,400,1400,800.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-04-12 00:00:00,400,1000,800.0,357
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Ber(Zizyphus/Borehannu),Other,Medium,2021-12-13 00:00:00,1000,2000,1500.0,357
+Punjab,Bhatinda,Maur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-19 00:00:00,2800,3000,2900.0,357
+Punjab,Bhatinda,Maur,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-02 00:00:00,2000,2500,2200.0,357
+Punjab,Fatehgarh,Bassi Pathana,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-24 00:00:00,3000,3000,3000.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-11 00:00:00,1500,2000,1750.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-04 00:00:00,1500,2000,1750.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-06 00:00:00,1500,1600,1550.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-10 00:00:00,1200,1500,1350.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-12 00:00:00,1500,2000,1750.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-15 00:00:00,1000,2000,1500.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-17 00:00:00,1800,2000,1900.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-19 00:00:00,1500,1700,1600.0,357
+Punjab,Ferozpur,Firozepur City,Ber(Zizyphus/Borehannu),Other,Medium,2021-04-05 00:00:00,800,1200,1000.0,357
+Punjab,Hoshiarpur,Dasuya,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-03 00:00:00,2000,2400,2200.0,357
+Punjab,Hoshiarpur,Dasuya,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-25 00:00:00,2000,2000,2000.0,357
+Punjab,Hoshiarpur,Dasuya,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-27 00:00:00,2000,2000,2000.0,357
+Punjab,Hoshiarpur,Dasuya,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-10 00:00:00,2000,2500,2250.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-23 00:00:00,1000,2500,1500.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-01-29 00:00:00,1000,2000,1500.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-08 00:00:00,1000,2000,1400.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-12 00:00:00,1000,1800,1500.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-20 00:00:00,1100,2200,1500.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-25 00:00:00,1000,2000,1500.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-10 00:00:00,1000,2500,1600.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-13 00:00:00,1000,2200,1500.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-15 00:00:00,1300,2200,1700.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-17 00:00:00,1200,2200,1700.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-18 00:00:00,1000,2000,1500.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-22 00:00:00,1000,2000,1400.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-03-24 00:00:00,700,1800,1100.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-04-09 00:00:00,1000,2000,1200.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-11-17 00:00:00,2000,4000,3000.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-11-20 00:00:00,1500,3500,2400.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-11-22 00:00:00,1500,3500,2200.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-12-09 00:00:00,2000,3500,2300.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-12-18 00:00:00,1500,3500,2000.0,357
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-12-29 00:00:00,1500,3000,2200.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-22 00:00:00,1000,1500,1300.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-23 00:00:00,1000,2000,1500.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-01-25 00:00:00,1000,1500,1300.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-13 00:00:00,1000,1500,1200.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-15 00:00:00,1000,1500,1200.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-23 00:00:00,1000,1500,1200.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-25 00:00:00,1000,1500,1200.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-27 00:00:00,1000,1500,1200.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Large,2021-03-05 00:00:00,700,1500,1000.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-08 00:00:00,800,1500,1000.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-16 00:00:00,700,1500,1000.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-18 00:00:00,1000,2500,1500.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-25 00:00:00,1000,2500,1500.0,357
+Punjab,Ludhiana,Ludhiana,Ber(Zizyphus/Borehannu),Other,Medium,2021-03-27 00:00:00,1000,2500,1500.0,357
+Punjab,Muktsar,Muktsar,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-19 00:00:00,2000,3000,2500.0,357
+Punjab,Muktsar,Muktsar,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-20 00:00:00,2000,3000,2500.0,357
+Punjab,Muktsar,Muktsar,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-25 00:00:00,1500,3000,2250.0,357
+Punjab,Muktsar,Muktsar,Ber(Zizyphus/Borehannu),Other,Medium,2021-02-27 00:00:00,1500,3000,2250.0,357
+Punjab,Nawanshahr,Balachaur,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-13 00:00:00,4000,4000,4000.0,357
+Punjab,Pathankot,Pathankot,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-09 00:00:00,1800,2000,1900.0,357
+Punjab,Patiala,Rajpura,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2021-02-23 00:00:00,2000,2200,2100.0,357

@@ -1,3 +1,63 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
 Madhya Pradesh,Guna,Guna,Ground Nut Oil,Other,FAQ,2009-12-19,2495,2495,2495,267
 Telangana,Mahbubnagar,Kalwakurthy,Ground Nut Oil,Ground Nut Oil,FAQ,2008-03-24,2400,2720,2600,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-01-08 00:00:00,9750,9800,9770,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-01-14 00:00:00,9950,10010,9980,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-01-16 00:00:00,9940,10010,9980,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-01-20 00:00:00,9950,10020,10000,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-01-28 00:00:00,10000,10080,10030,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-02-14 00:00:00,10300,10400,10350,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-03-10 00:00:00,9920,9960,9940,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-03-17 00:00:00,9100,9140,9120,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-03-23 00:00:00,9420,9510,9450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-03-30 00:00:00,9400,9500,9450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-03-31 00:00:00,9680,9750,9720,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-04-01 00:00:00,9700,9750,9720,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-04-02 00:00:00,9710,9780,9750,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-04-14 00:00:00,9980,10040,10015,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-04-15 00:00:00,9940,10000,9960,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-04-17 00:00:00,9900,9940,9920,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-04-22 00:00:00,9900,9950,9920,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-05-12 00:00:00,10200,10300,10250,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-06-09 00:00:00,10300,10400,10350,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-06-16 00:00:00,10300,10400,10350,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-06-27 00:00:00,10400,10500,10450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-06-30 00:00:00,10800,10900,10850,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-07-03 00:00:00,10820,10900,10850,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-07-06 00:00:00,10920,11000,10950,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-07-08 00:00:00,10920,11000,10950,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-07-14 00:00:00,10900,11000,10950,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-07-21 00:00:00,10920,11000,10980,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-08-05 00:00:00,10920,11000,10970,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-08-21 00:00:00,10920,11000,10960,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-08-24 00:00:00,11000,11100,11050,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-08-26 00:00:00,11400,11500,11450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-08-28 00:00:00,11000,11100,11050,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-09-05 00:00:00,11000,11100,11050,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-09-08 00:00:00,10950,11050,11000,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-09-11 00:00:00,10900,11000,10950,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-09-19 00:00:00,10900,11000,10950,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-09-22 00:00:00,10900,11000,10950,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-09-28 00:00:00,11400,11500,11450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-10-23 00:00:00,12800,12900,12850,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-11-05 00:00:00,13800,13900,13850,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-11-10 00:00:00,13400,13500,13450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-11-18 00:00:00,13400,13500,13450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-11-21 00:00:00,13400,13500,13450,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-11-26 00:00:00,13400,13550,13500,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-12-04 00:00:00,12800,12900,12850,267
+Jharkhand,Deogarh,Madhupur,Ground Nut Oil,Ground Nut Oil,FAQ,2015-12-05 00:00:00,12800,12900,12850,267
+Tamil Nadu,Villupuram,Manalurpet,Ground Nut Oil,Other,FAQ,2015-01-05 00:00:00,3897,3897,3897,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-06-12 00:00:00,10200,10200,10200,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-06-13 00:00:00,10200,10200,10200,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-06-17 00:00:00,10200,10200,10200,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Medium,2015-06-21 00:00:00,10200,10200,10200,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-06-28 00:00:00,10200,10200,10200,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-07-01 00:00:00,10200,10200,10200,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-07-08 00:00:00,10200,10200,10200,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-07-14 00:00:00,10300,10300,10300,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-07-25 00:00:00,10700,10700,10700,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-07-28 00:00:00,10700,10700,10700,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-08-02 00:00:00,10700,10700,10700,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Ground Nut Oil,Large,2015-08-04 00:00:00,10700,10700,10700,267
+Telangana,Adilabad,Adilabad(Rythu Bazar),Ground Nut Oil,Refined Ground Nut Oil,Large,2015-07-17 00:00:00,10300,10300,10300,267

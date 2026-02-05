@@ -1,2 +1,322 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
 Madhya Pradesh,Mandla,Bichhiya,Jute Seed,Other,FAQ,2007-03-19,350,350,350,210
+West Bengal,Nadia,Nadia,Jute,TD-5,FAQ,2007-06-02 00:00:00,960,1000,980,16
+West Bengal,Nadia,Nadia,Jute,TD-5,FAQ,2007-06-03 00:00:00,960,1000,980,16
+West Bengal,Nadia,Nadia,Jute,TD-5,FAQ,2007-06-10 00:00:00,905,945,925,16
+West Bengal,Nadia,Nadia,Jute,TD-5,FAQ,2007-06-13 00:00:00,905,945,925,16
+West Bengal,Nadia,Nadia,Jute,TD-5,FAQ,2007-06-27 00:00:00,900,940,920,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-03-25 00:00:00,1200,1300,1200,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-03-27 00:00:00,1200,1300,1200,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-03-30 00:00:00,1200,1300,1200,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-04-06 00:00:00,1100,1200,1100,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-04-08 00:00:00,1100,1200,1100,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-05-12 00:00:00,1000,1050,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-05-15 00:00:00,1000,1050,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-05-18 00:00:00,1000,1050,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-05-23 00:00:00,1000,1050,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-06-12 00:00:00,1450,1550,1500,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-06-25 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-07-05 00:00:00,850,900,850,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-07-13 00:00:00,950,1000,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-07-16 00:00:00,950,1000,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-07-18 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-08-01 00:00:00,950,1000,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-08-10 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-08-18 00:00:00,1050,1150,1100,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-08-24 00:00:00,1050,1150,1100,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-09-05 00:00:00,1000,1200,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-09-14 00:00:00,1000,1200,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-09-18 00:00:00,1000,1200,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-08 00:00:00,1000,1150,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-09 00:00:00,1000,1150,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-10 00:00:00,1000,1150,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-13 00:00:00,1000,1100,1050,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-14 00:00:00,1000,1100,1050,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-21 00:00:00,1000,1100,1050,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-22 00:00:00,1000,1100,1050,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-10-26 00:00:00,1000,1100,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-11-21 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-11-25 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-11-27 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-11-28 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-11-30 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-12-03 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-12-04 00:00:00,950,1050,950,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-12-09 00:00:00,1000,1050,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-12-27 00:00:00,1000,1050,1000,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-12-29 00:00:00,1025,1125,1025,16
+West Bengal,North 24 Parganas,Barasat,Jute,TD-5,FAQ,2007-12-31 00:00:00,1025,1125,1025,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-03-20 00:00:00,1050,1100,1050,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-03-28 00:00:00,1050,1150,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-04-09 00:00:00,1050,1150,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-04-10 00:00:00,1050,1150,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-04-11 00:00:00,1050,1150,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-04-20 00:00:00,1050,1100,1050,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-04-21 00:00:00,1000,1050,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-04-28 00:00:00,1000,1100,1050,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-05-07 00:00:00,975,1025,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-05-10 00:00:00,1000,1050,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-05-16 00:00:00,950,1050,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-06-01 00:00:00,950,1000,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-06-20 00:00:00,900,1000,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-06-28 00:00:00,900,950,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-06-29 00:00:00,900,950,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-01 00:00:00,900,1000,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-11 00:00:00,900,1000,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-13 00:00:00,920,980,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-14 00:00:00,900,950,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-15 00:00:00,900,1000,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-17 00:00:00,900,950,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-19 00:00:00,950,1000,980,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-07-26 00:00:00,950,1000,970,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-08-02 00:00:00,900,1000,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-08-15 00:00:00,1000,1050,1050,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-08-19 00:00:00,1080,1130,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-08-25 00:00:00,1050,1100,1080,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-08-27 00:00:00,1080,1130,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-08-28 00:00:00,1050,1100,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-08-29 00:00:00,1050,1150,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-09-07 00:00:00,1050,1150,1100,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-09-24 00:00:00,1025,1075,1050,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-09-26 00:00:00,1000,1050,1025,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-09-27 00:00:00,975,1025,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-09-28 00:00:00,1000,1030,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-10-02 00:00:00,950,1000,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-10-05 00:00:00,975,1025,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-10-23 00:00:00,1000,1050,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-10-24 00:00:00,950,1000,980,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-10-25 00:00:00,950,1000,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-10-28 00:00:00,970,1020,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-10-29 00:00:00,950,1000,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-11-11 00:00:00,920,970,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-11-14 00:00:00,930,980,960,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-11-15 00:00:00,900,980,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-11-24 00:00:00,900,980,950,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-11-29 00:00:00,950,1000,980,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-12-04 00:00:00,980,1030,1000,16
+West Bengal,Purba Bardhaman,Kalna,Jute,TD-5,FAQ,2007-12-05 00:00:00,970,1000,990,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-03-29 00:00:00,1100,1150,1120,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-03-30 00:00:00,1080,1130,1100,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-04-07 00:00:00,1100,1150,1125,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-04-11 00:00:00,1100,1150,1120,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-05-08 00:00:00,1000,1050,1020,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-05-09 00:00:00,970,1030,1000,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-05-10 00:00:00,980,1020,1000,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-05-24 00:00:00,900,970,940,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-05-28 00:00:00,920,980,950,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-05-30 00:00:00,920,980,950,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-06-01 00:00:00,920,980,950,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-06-06 00:00:00,880,920,900,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-06-20 00:00:00,900,930,920,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-06-22 00:00:00,900,940,920,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-06-29 00:00:00,900,950,925,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-07-02 00:00:00,900,950,925,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-07-03 00:00:00,900,950,925,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-07-10 00:00:00,940,960,950,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-07-11 00:00:00,940,960,950,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-07-13 00:00:00,920,960,940,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-07-16 00:00:00,925,975,950,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-07-18 00:00:00,930,970,950,16
+West Bengal,Purba Bardhaman,Katwa,Jute,TD-5,FAQ,2007-11-03 00:00:00,985,1010,1000,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-03-22 00:00:00,1100,1200,1160,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-03-28 00:00:00,1080,1180,1150,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-03-30 00:00:00,1085,1183,1150,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-04-02 00:00:00,1060,1160,1100,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-04-24 00:00:00,1015,1205,1070,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-05-17 00:00:00,1065,1160,1100,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-05-23 00:00:00,1000,2000,1050,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-06-30 00:00:00,1000,1090,1050,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-07-02 00:00:00,990,1110,995,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-08-20 00:00:00,1050,1250,1100,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-08-22 00:00:00,970,1085,1025,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-08-29 00:00:00,990,1125,1115,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-09-13 00:00:00,1100,1200,1150,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-09-14 00:00:00,1100,1200,1150,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-09-26 00:00:00,1110,1200,1150,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-10-04 00:00:00,1080,1140,1110,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-11-23 00:00:00,1080,1135,1100,16
+West Bengal,Uttar Dinajpur,Islampur,Jute,TD-5,FAQ,2007-12-11 00:00:00,1065,1150,1120,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-03-22 00:00:00,1115,1175,1150,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-03-23 00:00:00,1050,1140,1100,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-03-26 00:00:00,1060,1140,1100,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-04-17 00:00:00,1020,1090,1050,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-04-18 00:00:00,1010,1090,1050,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-04-24 00:00:00,960,1040,1000,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-06-07 00:00:00,950,1060,1000,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-06-08 00:00:00,960,1040,1010,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-06-21 00:00:00,980,1050,1010,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-07-16 00:00:00,910,1010,960,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-07-26 00:00:00,960,1070,1010,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-08-14 00:00:00,970,1080,1050,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-08-16 00:00:00,960,1070,1015,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-10-01 00:00:00,1075,1150,1100,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-10-16 00:00:00,1085,1175,1140,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-11-28 00:00:00,1040,1150,1100,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-12-03 00:00:00,1070,1125,1100,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-12-07 00:00:00,1030,1080,1050,16
+West Bengal,Uttar Dinajpur,Kaliaganj,Jute,TD-5,FAQ,2007-12-10 00:00:00,1050,1100,1080,16
+Maharashtra,Nashik,Satana,Jute,Other,FAQ,2009-07-13 00:00:00,2361,2361,2361,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-01-23 00:00:00,1400,1600,1500,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-10-10 00:00:00,1250,2000,2000,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-10-13 00:00:00,1250,2000,1666,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-10-26 00:00:00,1250,2000,1666,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-11-09 00:00:00,1250,2200,2000,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-11-14 00:00:00,1250,2200,2000,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-11-19 00:00:00,2000,2200,2000,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-11-26 00:00:00,1250,2200,2000,16
+Odisha,Cuttack,Kendupatna,Jute,Other,FAQ,2009-11-29 00:00:00,1250,2200,2000,16
+Odisha,Jajpur,Jajpur,Jute,W-5/TD-5,FAQ,2009-11-21 00:00:00,2300,2600,2400,16
+Odisha,Jajpur,Jajpur,Jute,W-5/TD-5,FAQ,2009-12-10 00:00:00,2000,2300,2100,16
+Odisha,Kendrapara,Kendrapara,Jute,Other,FAQ,2009-01-06 00:00:00,1300,1500,1400,16
+Odisha,Kendrapara,Kendrapara,Jute,Other,FAQ,2009-01-31 00:00:00,1300,1500,1400,16
+Odisha,Kendrapara,Kendrapara,Jute,Other,FAQ,2009-03-05 00:00:00,1300,1500,1400,16
+Odisha,Kendrapara,Kendrapara,Jute,Other,FAQ,2009-04-08 00:00:00,1300,1500,1400,16
+Odisha,Kendrapara,Kendrapara,Jute,Other,FAQ,2009-04-10 00:00:00,1300,1500,1400,16
+Odisha,Kendrapara,Kendrapara,Jute,Other,FAQ,2009-04-15 00:00:00,1300,1500,1400,16
+Odisha,Kendrapara,Kendrapara,Jute,Other,FAQ,2009-06-25 00:00:00,1300,1500,1400,16
+Odisha,Kendrapara,Kendrapara(Marshaghai),Jute,Other,FAQ,2009-02-13 00:00:00,1700,1900,1800,16
+Odisha,Kendrapara,Kendrapara(Marshaghai),Jute,Other,FAQ,2009-02-18 00:00:00,1700,1900,1800,16
+Odisha,Kendrapara,Kendrapara(Marshaghai),Jute,Other,FAQ,2009-02-23 00:00:00,1650,1850,1750,16
+Odisha,Kendrapara,Kendrapara(Marshaghai),Jute,Other,FAQ,2009-03-03 00:00:00,1700,1900,1800,16
+Odisha,Kendrapara,Kendrapara(Marshaghai),Jute,Other,FAQ,2009-03-05 00:00:00,1700,1900,1800,16
+Odisha,Kendrapara,Kendrapara(Marshaghai),Jute,Other,FAQ,2009-03-16 00:00:00,1880,2080,1980,16
+Odisha,Kendrapara,Kendrapara(Marshaghai),Jute,Other,FAQ,2009-03-17 00:00:00,1880,2080,1980,16
+Odisha,Nowarangpur,Nabarangpur(Umerkote),Jute,Jute,FAQ,2009-03-09 00:00:00,600,600,600,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-01-07 00:00:00,1550,1600,1575,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-02-13 00:00:00,1725,1775,1750,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-02-18 00:00:00,1725,1775,1750,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-02-27 00:00:00,1725,1775,1750,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-03-09 00:00:00,1700,1775,1750,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-03-16 00:00:00,1730,1775,1760,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-03-20 00:00:00,1775,1825,1800,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-04-06 00:00:00,1825,1900,1875,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-04-07 00:00:00,1875,1930,1900,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-04-08 00:00:00,1875,1950,1900,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-04-09 00:00:00,1875,1950,1900,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-04-13 00:00:00,2000,2100,2050,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-04-17 00:00:00,1900,1975,1950,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-05-26 00:00:00,2100,2200,2175,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-06-16 00:00:00,2150,2250,2225,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-06-17 00:00:00,2150,2250,2225,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-06-23 00:00:00,2100,2250,2225,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-06-29 00:00:00,2100,2200,2150,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-07-14 00:00:00,2200,2400,2300,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-07-16 00:00:00,2350,2500,2400,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-08-17 00:00:00,2200,2300,2250,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-08-18 00:00:00,2175,2300,2250,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-08-20 00:00:00,2200,2300,2275,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-09-15 00:00:00,2000,2100,2050,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-10-01 00:00:00,2175,2225,2200,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-10-12 00:00:00,2150,2250,2225,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-10-13 00:00:00,2175,2250,2225,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-10-20 00:00:00,2175,2300,2275,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-10-28 00:00:00,2175,2275,2250,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-10-30 00:00:00,2250,2300,2275,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-08 00:00:00,2175,2225,2200,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-11 00:00:00,2175,2225,2200,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-12 00:00:00,2175,2225,2200,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-16 00:00:00,2275,2375,2350,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-18 00:00:00,2275,2350,2325,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-19 00:00:00,2275,2350,2325,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-20 00:00:00,2275,2350,2325,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-23 00:00:00,2275,2350,2325,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-26 00:00:00,2275,2350,2325,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-11-27 00:00:00,2275,2350,2325,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-03 00:00:00,2300,2400,2375,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-04 00:00:00,2300,2400,2375,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-08 00:00:00,2400,2500,2460,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-14 00:00:00,2500,2600,2575,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-18 00:00:00,2575,2625,2600,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-23 00:00:00,2575,2625,2600,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-24 00:00:00,2575,2625,2600,16
+West Bengal,Coochbehar,Coochbehar,Jute,TD-5,FAQ,2009-12-29 00:00:00,2600,2650,2625,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-02-02 00:00:00,1740,1780,1760,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-02-06 00:00:00,1730,1780,1750,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-02-23 00:00:00,1780,1830,1810,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-02-25 00:00:00,1810,1850,1830,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-03-09 00:00:00,1850,1910,1880,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-03-18 00:00:00,1875,1930,1910,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-03-20 00:00:00,1880,1930,1910,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-04-01 00:00:00,1850,1910,1880,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-05-15 00:00:00,2400,2450,2420,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-05-18 00:00:00,2425,2480,2450,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-05-29 00:00:00,2450,2510,2480,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-06-29 00:00:00,2460,2510,2480,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-07-06 00:00:00,2500,2550,2520,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-07-13 00:00:00,2600,2650,2620,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-09-09 00:00:00,1850,1910,1880,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-09-11 00:00:00,1850,1910,1880,16
+West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,2009-09-14 00:00:00,2025,2080,2050,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-01-07 00:00:00,1600,1700,1650,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-01-09 00:00:00,1500,1550,1525,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-01-11 00:00:00,1600,1700,1650,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-01-25 00:00:00,1500,1600,1550,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-02-04 00:00:00,1500,1600,1550,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-02-05 00:00:00,1500,1600,1550,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-02-06 00:00:00,1600,1700,1650,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-04-11 00:00:00,1700,1800,1750,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-04-12 00:00:00,1800,1900,1850,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-04-23 00:00:00,1750,1850,1800,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-05-05 00:00:00,1800,1900,1850,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-05-08 00:00:00,1400,1600,1500,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-05-22 00:00:00,1900,2000,1950,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-05-24 00:00:00,2000,2200,2100,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-05-29 00:00:00,1900,2000,1950,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-05-30 00:00:00,1900,2000,1950,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-05-31 00:00:00,1900,2000,1950,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-02 00:00:00,1800,2000,1900,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-04 00:00:00,1900,2000,1950,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-05 00:00:00,1800,2000,1900,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-07 00:00:00,1900,2000,1950,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-16 00:00:00,2000,2100,2050,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-21 00:00:00,2200,2300,2250,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-25 00:00:00,2000,2100,2050,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-27 00:00:00,2100,2200,2150,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-06-29 00:00:00,1900,2100,2000,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-07-04 00:00:00,2000,2100,2050,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-07-09 00:00:00,2400,2550,2475,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-07-12 00:00:00,2300,2400,2350,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-07-21 00:00:00,2400,2500,2450,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-11-27 00:00:00,2200,2300,2250,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-11-29 00:00:00,2250,2300,2275,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-12-02 00:00:00,2225,2275,2250,16
+West Bengal,Coochbehar,Haldibari,Jute,Other,FAQ,2009-12-04 00:00:00,2200,2300,2250,16
+West Bengal,Coochbehar,Pundibari,Jute,TD-5,FAQ,2009-01-04 00:00:00,1500,1550,1525,16
+West Bengal,Coochbehar,Pundibari,Jute,TD-5,FAQ,2009-10-14 00:00:00,2250,2300,2275,16
+West Bengal,Coochbehar,Pundibari,Jute,TD-5,FAQ,2009-10-28 00:00:00,2150,2250,2225,16
+West Bengal,Coochbehar,Pundibari,Jute,TD-5,FAQ,2009-11-08 00:00:00,2175,2225,2200,16
+West Bengal,Coochbehar,Pundibari,Jute,TD-5,FAQ,2009-11-11 00:00:00,2175,2225,2200,16
+West Bengal,Dakshin Dinajpur,Balurghat,Jute,TD-5,FAQ,2009-08-02 00:00:00,2500,2570,2535,16
+West Bengal,Dakshin Dinajpur,Balurghat,Jute,TD-5,FAQ,2009-08-23 00:00:00,1825,1880,1840,16
+West Bengal,Dakshin Dinajpur,Balurghat,Jute,TD-5,FAQ,2009-08-24 00:00:00,1820,1860,1840,16
+West Bengal,Dakshin Dinajpur,Balurghat,Jute,TD-5,FAQ,2009-08-29 00:00:00,1715,1785,1750,16
+West Bengal,Dakshin Dinajpur,Balurghat,Jute,TD-5,FAQ,2009-09-08 00:00:00,1935,2035,2000,16
+West Bengal,Dakshin Dinajpur,Balurghat,Jute,TD-5,FAQ,2009-09-11 00:00:00,1960,2050,2020,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-08-26 00:00:00,3480,3520,3500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-08-27 00:00:00,3480,3520,3500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-08-30 00:00:00,3480,3520,3500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-09-03 00:00:00,3490,3510,3500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-09-07 00:00:00,3490,3510,3500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-09-08 00:00:00,3490,3510,3500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-09-12 00:00:00,3740,3760,3750,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-09-19 00:00:00,3740,3760,3750,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-09-26 00:00:00,3790,3810,3800,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-10-06 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-10-07 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-10-10 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-10-16 00:00:00,4490,4510,4500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-10-21 00:00:00,4490,4510,4500,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-10-29 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-03 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-04 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-05 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-06 00:00:00,3990,4015,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-07 00:00:00,3990,4015,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-08 00:00:00,3990,4015,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-15 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-17 00:00:00,3990,4010,4000,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-24 00:00:00,3790,3810,3800,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-11-26 00:00:00,3790,3810,3800,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-12-02 00:00:00,3790,3810,3800,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-12-03 00:00:00,3610,3635,3625,16
+West Bengal,Coochbehar,Mathabhanga,Jute,TD-5,FAQ,2010-12-06 00:00:00,3610,3635,3625,16
