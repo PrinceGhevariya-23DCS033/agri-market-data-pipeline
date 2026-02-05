@@ -9,7 +9,7 @@ from requests.exceptions import RequestException, Timeout
 # ================= CONFIG =================
 API_KEY = os.getenv("DATA_GOV_API_KEY")
 if not API_KEY:
-    raise RuntimeError("DATA_GOV_API_KEY missing in GitHub Secrets")
+    raise RuntimeError("DATA_GOV_API_KEY missing")
 
 RESOURCE_ID = "35985678-0d79-46b4-9ed6-6f13308a1d24"
 BASE_URL = f"https://api.data.gov.in/resource/{RESOURCE_ID}"
@@ -20,51 +20,58 @@ REQUEST_TIMEOUT = 20
 SHORT_RETRIES = 5
 SHORT_BACKOFF = 2
 
-LONG_SLEEP_1 = 300    # 5 minutes
-LONG_SLEEP_2 = 900    # 15 minutes
-
-MAX_OFFSET = 10_100_000
+LONG_SLEEP = 300  # 5 minutes
 
 DATA_DIR = "data/crops"
 os.makedirs(DATA_DIR, exist_ok=True)
 
 PROGRESS_FILE = "data/progress.json"
 
-# ⏱️ TIME CONTROL (KEY PART)
 START_TIME = time.time()
-MAX_RUNTIME = 2 * 60 * 60 + 55 * 60   # 2h 55m
-# ==========================================
+MAX_RUNTIME = 2 * 60 * 60 + 55 * 60  # 2h55m
+# =========================================
 
 
-# ========== SAFE FILENAME ==========
+# ========== UTILS ==========
 def safe_name(text: str) -> str:
     text = text.lower().strip()
     text = re.sub(r"[^\w\s-]", "", text)
-    text = re.sub(r"\s+", "_", text)
-    return text
-# ===================================
+    return re.sub(r"\s+", "_", text)
+# ===========================
 
 
 # ========== PROGRESS ==========
 def load_progress():
     if not os.path.exists(PROGRESS_FILE):
-        return {"last_offset": 0}
-
+        return {}
     try:
         with open(PROGRESS_FILE, "r") as f:
             return json.load(f)
     except Exception:
-        return {"last_offset": 0}
+        return {}
 
-
-def save_progress(offset):
+def save_progress(progress):
     with open(PROGRESS_FILE, "w") as f:
-        json.dump({"last_offset": offset}, f, indent=2)
-# ==============================
+        json.dump(progress, f, indent=2)
+# =============================
+
+
+# ========== CSV LAST YEAR ==========
+def get_last_year_from_csv(crop):
+    path = os.path.join(DATA_DIR, safe_name(crop) + ".csv")
+    if not os.path.exists(path):
+        return None
+
+    df = pd.read_csv(path, usecols=["Arrival_Date"])
+    df["Arrival_Date"] = pd.to_datetime(df["Arrival_Date"], errors="coerce")
+    if df.empty:
+        return None
+    return int(df["Arrival_Date"].dt.year.max())
+# ==================================
 
 
 # ========== API FETCH ==========
-def fetch_page_with_resilience(offset):
+def fetch_year_page(year, offset):
     for attempt in range(1, SHORT_RETRIES + 1):
         try:
             r = requests.get(
@@ -73,75 +80,107 @@ def fetch_page_with_resilience(offset):
                     "api-key": API_KEY,
                     "format": "json",
                     "limit": LIMIT,
-                    "offset": offset
+                    "offset": offset,
+                    "filters[Arrival_Date]": f"{year}-01-01:{year}-12-31"
                 },
                 timeout=REQUEST_TIMEOUT
             )
+
             if r.status_code != 200:
                 raise RequestException(f"HTTP {r.status_code}")
+
             return r.json().get("records", [])
+
         except (Timeout, RequestException, ValueError):
             wait = SHORT_BACKOFF ** attempt
-            print(f"⚠️ Retry {attempt}/{SHORT_RETRIES} | offset={offset} | wait={wait}s")
+            print(f"⚠️ Retry {attempt}/{SHORT_RETRIES} | year={year} | offset={offset}")
             time.sleep(wait)
 
-    print(f"🕒 API unstable. Sleeping {LONG_SLEEP_1//60} minutes...")
-    time.sleep(LONG_SLEEP_1)
-    return []
-# =============================================
+    print("🕒 API unstable. Sleeping 5 minutes...")
+    time.sleep(LONG_SLEEP)
+    return None
+# =============================
 
 
-# ========== APPEND ==========
+# ========== APPEND WITH DEDUP ==========
 def append_to_crop_csv(df, crop):
     crop_file = safe_name(crop) + ".csv"
     path = os.path.join(DATA_DIR, crop_file)
 
+    key_cols = ["State", "District", "Market", "Commodity", "Arrival_Date"]
+
     if os.path.exists(path):
-        df.to_csv(path, mode="a", header=False, index=False)
+        old = pd.read_csv(path)
+        combined = pd.concat([old, df], ignore_index=True)
+        combined.drop_duplicates(subset=key_cols, inplace=True)
     else:
-        df.to_csv(path, index=False)
-# ===================================
+        combined = df
+
+    combined.to_csv(path, index=False)
+# ======================================
 
 
-# ========== MAIN LOOP ==========
+# ========== MAIN ==========
+print("🚜 Agri Market Data Pipeline (Year-wise, Incremental)")
+
 progress = load_progress()
-offset = progress.get("last_offset", 0)
+CURRENT_YEAR = pd.Timestamp.now().year
 
-print(f"▶ Resuming from offset: {offset}")
+# Crop list will grow automatically
+known_crops = list(progress.keys())
 
-while offset <= MAX_OFFSET:
+if not known_crops:
+    print("🌱 First run detected. Crops will be discovered automatically.")
 
-    # ⏱️ GRACEFUL STOP CHECK
-    if time.time() - START_TIME >= MAX_RUNTIME:
-        print("⏹️ Time window reached (2h55m). Saving progress & exiting safely.")
-        save_progress(offset)
-        break
+for crop in known_crops or ["__DISCOVER__"]:
 
-    records = fetch_page_with_resilience(offset)
-    if not records:
-        offset += LIMIT
-        save_progress(offset)
-        continue
+    if crop != "__DISCOVER__":
+        print(f"\n🌾 Crop: {crop}")
 
-    df = pd.DataFrame(records)
+    last_csv_year = get_last_year_from_csv(crop) if crop != "__DISCOVER__" else None
+    last_progress_year = progress.get(crop)
 
-    df["Arrival_Date"] = pd.to_datetime(
-        df["Arrival_Date"],
-        dayfirst=True,
-        errors="coerce"
+    start_year = (
+        max(y for y in [last_csv_year, last_progress_year] if y is not None) + 1
+        if (last_csv_year or last_progress_year)
+        else 2010
     )
-    df["Modal_Price"] = pd.to_numeric(df["Modal_Price"], errors="coerce")
 
-    df = df.dropna(subset=["Commodity", "Modal_Price"])
+    for year in range(start_year, CURRENT_YEAR + 1):
+        print(f"📅 Fetching year {year}")
+        offset = 0
 
-    for crop, group in df.groupby("Commodity"):
-        append_to_crop_csv(group, crop)
+        while True:
+            if time.time() - START_TIME >= MAX_RUNTIME:
+                print("⏹ Runtime limit reached. Saving progress.")
+                save_progress(progress)
+                exit(0)
 
-    offset += LIMIT
-    save_progress(offset)
-    print(f"📊 Progress saved | next offset = {offset}")
+            records = fetch_year_page(year, offset)
 
-    time.sleep(0.3)
+            if records is None:
+                break
 
-print("✅ Run finished cleanly")
-# =====================================
+            if not records:
+                print(f"✅ Completed year {year}")
+                if crop != "__DISCOVER__":
+                    progress[crop] = year
+                    save_progress(progress)
+                break
+
+            df = pd.DataFrame(records)
+            df["Arrival_Date"] = pd.to_datetime(df["Arrival_Date"], dayfirst=True, errors="coerce")
+            df["Modal_Price"] = pd.to_numeric(df["Modal_Price"], errors="coerce")
+            df = df.dropna(subset=["Commodity", "Modal_Price"])
+
+            for c, g in df.groupby("Commodity"):
+                cname = safe_name(c)
+                append_to_crop_csv(g, c)
+                progress.setdefault(cname, year)
+
+            save_progress(progress)
+            offset += LIMIT
+            time.sleep(1.2)
+
+print("✅ Pipeline finished cleanly")
+# ==============================
