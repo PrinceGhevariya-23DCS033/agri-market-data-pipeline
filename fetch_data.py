@@ -19,7 +19,6 @@ REQUEST_TIMEOUT = 20
 
 SHORT_RETRIES = 5
 SHORT_BACKOFF = 2
-
 LONG_SLEEP = 300  # 5 minutes
 
 DATA_DIR = "data/crops"
@@ -29,6 +28,7 @@ PROGRESS_FILE = "data/progress.json"
 
 START_TIME = time.time()
 MAX_RUNTIME = 2 * 60 * 60 + 55 * 60  # 2h55m
+START_YEAR = 2010
 # =========================================
 
 
@@ -56,20 +56,6 @@ def save_progress(progress):
 # =============================
 
 
-# ========== CSV LAST YEAR ==========
-def get_last_year_from_csv(crop):
-    path = os.path.join(DATA_DIR, safe_name(crop) + ".csv")
-    if not os.path.exists(path):
-        return None
-
-    df = pd.read_csv(path, usecols=["Arrival_Date"])
-    df["Arrival_Date"] = pd.to_datetime(df["Arrival_Date"], errors="coerce")
-    if df.empty:
-        return None
-    return int(df["Arrival_Date"].dt.year.max())
-# ==================================
-
-
 # ========== API FETCH ==========
 def fetch_year_page(year, offset):
     for attempt in range(1, SHORT_RETRIES + 1):
@@ -81,7 +67,8 @@ def fetch_year_page(year, offset):
                     "format": "json",
                     "limit": LIMIT,
                     "offset": offset,
-                    "filters[Arrival_Date]": f"{year}-01-01:{year}-12-31"
+                    # ✅ CORRECT year filter for Agmarknet
+                    "filters[Arrival_Date]": str(year)
                 },
                 timeout=REQUEST_TIMEOUT
             )
@@ -102,7 +89,7 @@ def fetch_year_page(year, offset):
 # =============================
 
 
-# ========== APPEND WITH DEDUP ==========
+# ========== APPEND ==========
 def append_to_crop_csv(df, crop):
     crop_file = safe_name(crop) + ".csv"
     path = os.path.join(DATA_DIR, crop_file)
@@ -126,61 +113,48 @@ print("🚜 Agri Market Data Pipeline (Year-wise, Incremental)")
 progress = load_progress()
 CURRENT_YEAR = pd.Timestamp.now().year
 
-# Crop list will grow automatically
-known_crops = list(progress.keys())
+for year in range(START_YEAR, CURRENT_YEAR + 1):
+    print(f"\n📅 Fetching year {year}")
+    offset = 0
 
-if not known_crops:
-    print("🌱 First run detected. Crops will be discovered automatically.")
-
-for crop in known_crops or ["__DISCOVER__"]:
-
-    if crop != "__DISCOVER__":
-        print(f"\n🌾 Crop: {crop}")
-
-    last_csv_year = get_last_year_from_csv(crop) if crop != "__DISCOVER__" else None
-    last_progress_year = progress.get(crop)
-
-    start_year = (
-        max(y for y in [last_csv_year, last_progress_year] if y is not None) + 1
-        if (last_csv_year or last_progress_year)
-        else 2010
-    )
-
-    for year in range(start_year, CURRENT_YEAR + 1):
-        print(f"📅 Fetching year {year}")
-        offset = 0
-
-        while True:
-            if time.time() - START_TIME >= MAX_RUNTIME:
-                print("⏹ Runtime limit reached. Saving progress.")
-                save_progress(progress)
-                exit(0)
-
-            records = fetch_year_page(year, offset)
-
-            if records is None:
-                break
-
-            if not records:
-                print(f"✅ Completed year {year}")
-                if crop != "__DISCOVER__":
-                    progress[crop] = year
-                    save_progress(progress)
-                break
-
-            df = pd.DataFrame(records)
-            df["Arrival_Date"] = pd.to_datetime(df["Arrival_Date"], dayfirst=True, errors="coerce")
-            df["Modal_Price"] = pd.to_numeric(df["Modal_Price"], errors="coerce")
-            df = df.dropna(subset=["Commodity", "Modal_Price"])
-
-            for c, g in df.groupby("Commodity"):
-                cname = safe_name(c)
-                append_to_crop_csv(g, c)
-                progress.setdefault(cname, year)
-
+    while True:
+        # ⏱ Runtime safety
+        if time.time() - START_TIME >= MAX_RUNTIME:
+            print("⏹ Runtime limit reached. Saving progress.")
             save_progress(progress)
-            offset += LIMIT
-            time.sleep(1.2)
+            exit(0)
+
+        records = fetch_year_page(year, offset)
+
+        if records is None:
+            break
+
+        if not records:
+            print(f"✅ Completed year {year}")
+            break
+
+        df = pd.DataFrame(records)
+
+        df["Arrival_Date"] = pd.to_datetime(
+            df["Arrival_Date"], dayfirst=True, errors="coerce"
+        )
+        df["Modal_Price"] = pd.to_numeric(df["Modal_Price"], errors="coerce")
+        df = df.dropna(subset=["Commodity", "Modal_Price"])
+
+        for crop, group in df.groupby("Commodity"):
+            crop_key = safe_name(crop)
+            last_done = progress.get(crop_key, START_YEAR - 1)
+
+            # ⛔ prevent overlap
+            if year <= last_done:
+                continue
+
+            append_to_crop_csv(group, crop)
+            progress[crop_key] = year
+
+        save_progress(progress)
+        offset += LIMIT
+        time.sleep(1.2)
 
 print("✅ Pipeline finished cleanly")
 # ==============================
