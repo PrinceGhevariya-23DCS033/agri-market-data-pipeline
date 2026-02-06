@@ -1,15 +1,15 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-08,1500,1800,1650,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-17,1000,1200,1100,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-18,0,1300,650,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-28,0,1000,500,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-02,0,1200,600,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-05,800,1000,900,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-08,0,1000,500,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-12,900,1000,950,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-18,0,1200,600,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-20,0,1000,500,188
-Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-26,0,1200,600,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-08,1500,1800,1650.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-17,1000,1200,1100.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-18,0,1300,650.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-03-28,0,1000,500.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-02,0,1200,600.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-05,800,1000,900.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-08,0,1000,500.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-12,900,1000,950.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-18,0,1200,600.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-20,0,1000,500.0,188
+Haryana,Rohtak,Meham,Chakotha,Chakootha,Medium,2011-04-26,0,1200,600.0,188
 Haryana,Fatehabad,Fatehabad,Chakotha,Other,Medium,2008-04-13,700,1200,1000.0,188
 Haryana,Fatehabad,Fatehabad,Chakotha,Other,Medium,2008-04-18,1000,1100,1100.0,188
 Haryana,Fatehabad,Fatehabad,Chakotha,Other,Medium,2008-04-19,1000,1000,1000.0,188
@@ -17,3 +17,20 @@ Haryana,Fatehabad,Fatehabad,Chakotha,Other,Medium,2008-04-27,700,800,800.0,188
 Haryana,Fatehabad,Fatehabad,Chakotha,Other,Medium,2008-04-30,1000,1000,1000.0,188
 Haryana,Fatehabad,Fatehabad,Chakotha,Other,Medium,2008-05-13,500,500,500.0,188
 Haryana,Fatehabad,Fatehabad,Chakotha,Other,Medium,2008-05-31,6000,6000,6000.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-01-02 00:00:00,1100,1200,1200.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-01-03 00:00:00,1200,1400,1400.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-01-05 00:00:00,1400,1400,1400.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-01-15 00:00:00,1400,2000,2000.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Medium,2013-01-28 00:00:00,1000,1100,1100.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-02-05 00:00:00,1100,1100,1100.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Medium,2013-02-23 00:00:00,1300,1300,1300.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-03-11 00:00:00,1000,1500,1300.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-03-21 00:00:00,850,1300,1100.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-03-28 00:00:00,900,1200,1000.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-04-23 00:00:00,900,1200,1200.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-11-14 00:00:00,1800,2100,2000.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-11-18 00:00:00,1800,2000,2000.0,188
+Haryana,Hissar,Hissar,Chakotha,Other,Small,2013-12-25 00:00:00,1100,1200,1200.0,188
+Haryana,Rohtak,Meham,Chakotha,Other,Medium,2013-04-10 00:00:00,1500,1600,1550.0,188
+Haryana,Rohtak,Meham,Chakotha,Other,Medium,2013-04-17 00:00:00,0,1500,750.0,188
+Haryana,Rohtak,Meham,Chakotha,Other,Medium,2013-04-20 00:00:00,1800,2000,1900.0,188
