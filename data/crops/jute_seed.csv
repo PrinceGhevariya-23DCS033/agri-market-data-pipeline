@@ -1944,3 +1944,445 @@ West Bengal,Uttar Dinajpur,Raiganj,Jute,TD-5,FAQ,2015-12-10 00:00:00,4500,4700,4
 West Bengal,Uttar Dinajpur,Raiganj,Jute,TD-5,FAQ,2015-12-11 00:00:00,4500,4700,4600.0,16
 West Bengal,Uttar Dinajpur,Raiganj,Jute,TD-5,FAQ,2015-12-28 00:00:00,5000,5200,5100.0,16
 West Bengal,Uttar Dinajpur,Raiganj,Jute,TD-5,FAQ,2015-12-29 00:00:00,5000,5200,5100.0,16
+West Bengal,Dakshin Dinajpur,Gangarampur,Jute,TD-5,FAQ,2013-01-31 00:00:00,2440,2500,2460.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-01 00:00:00,2250,2350,2300.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-03 00:00:00,2250,2350,2300.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-06 00:00:00,2200,2300,2250.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-07 00:00:00,2200,2300,2250.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-15 00:00:00,2250,2350,2300.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-18 00:00:00,2200,2300,2250.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-23 00:00:00,2150,2250,2200.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-28 00:00:00,2050,2150,2100.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-08-30 00:00:00,2000,2100,2050.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-09-12 00:00:00,2150,2250,2200.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-09-15 00:00:00,2200,2300,2250.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-09-20 00:00:00,2200,2300,2250.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-09-22 00:00:00,2200,2300,2250.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-09-26 00:00:00,2250,2350,2300.0,16
+West Bengal,Hooghly,Champadanga,Jute,Other,FAQ,2013-09-29 00:00:00,2300,2400,2350.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-03-12 00:00:00,2650,2750,2700.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-03-25 00:00:00,2700,2800,2750.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-03-29 00:00:00,2700,2800,2750.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-04-05 00:00:00,2750,2850,2800.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-04-17 00:00:00,2750,2850,2800.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-04-21 00:00:00,2750,2850,2800.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-04-23 00:00:00,2700,2800,2750.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-05-03 00:00:00,2700,2800,2750.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-05-11 00:00:00,2750,2850,2800.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-05-13 00:00:00,2750,2850,2800.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-05-15 00:00:00,2750,2850,2800.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-05-16 00:00:00,2750,2850,2800.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-07-19 00:00:00,2350,2550,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-08-14 00:00:00,2250,2350,2300.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-10-03 00:00:00,2300,2400,2350.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-10-08 00:00:00,2300,2400,2350.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-10-29 00:00:00,2400,2500,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-10-30 00:00:00,2400,2500,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-06 00:00:00,2400,2500,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-07 00:00:00,2400,2500,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-11 00:00:00,2400,2500,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-20 00:00:00,2400,2475,2425.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-21 00:00:00,2400,2475,2425.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-25 00:00:00,2400,2500,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-26 00:00:00,2400,2500,2450.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-11-28 00:00:00,2450,2550,2500.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-12-02 00:00:00,2450,2550,2500.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-12-13 00:00:00,2550,2650,2600.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-12-17 00:00:00,2550,2650,2600.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-12-19 00:00:00,2550,2650,2600.0,16
+West Bengal,Hooghly,Champadanga,Jute,TD-5,FAQ,2013-12-27 00:00:00,2700,2800,2750.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,Other,FAQ,2013-08-05 00:00:00,2525,2575,2550.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,Other,FAQ,2013-08-08 00:00:00,2525,2575,2550.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,Other,FAQ,2013-08-11 00:00:00,2550,2600,2575.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,Other,FAQ,2013-08-16 00:00:00,2525,2575,2550.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,Other,FAQ,2013-08-17 00:00:00,2525,2575,2550.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-01-03 00:00:00,2400,2450,2425.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-01-06 00:00:00,2400,2450,2425.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-02-23 00:00:00,2675,2725,2700.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-02-24 00:00:00,2675,2725,2700.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-03-05 00:00:00,2775,2825,2800.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-03-07 00:00:00,2825,2875,2850.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-03-12 00:00:00,2800,2850,2825.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-03-17 00:00:00,2800,2850,2825.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-03-20 00:00:00,2800,2850,2825.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-03-26 00:00:00,2850,2900,2875.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-04-03 00:00:00,2850,2921,2900.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-04-10 00:00:00,2850,2950,2900.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-04-12 00:00:00,2850,2950,2900.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-04-16 00:00:00,2850,2950,2900.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-04-29 00:00:00,2800,2950,2875.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-05-03 00:00:00,2875,2925,2900.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-05-05 00:00:00,2875,2925,2900.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-05-09 00:00:00,2875,2925,2900.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-05-17 00:00:00,2800,2900,2850.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-05-19 00:00:00,2800,2900,2850.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-05-22 00:00:00,2700,2800,2750.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-05-29 00:00:00,2700,2800,2750.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-06-07 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-06-14 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-06-15 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-06-19 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-06-29 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-06-30 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-07-01 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-07-07 00:00:00,2575,2625,2600.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-07-08 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-07-10 00:00:00,2625,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-07-29 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-08-01 00:00:00,2650,2700,2650.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-08-14 00:00:00,2575,2625,2600.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-08-26 00:00:00,2400,2450,2425.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-08-27 00:00:00,2400,2450,2425.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-09-01 00:00:00,2425,2475,2450.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-09-05 00:00:00,2475,2525,2500.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-09-07 00:00:00,2550,2600,2575.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-09-09 00:00:00,2550,2600,2575.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-09-20 00:00:00,2550,2600,2575.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-09-30 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-05 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-06 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-09 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-12 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-13 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-17 00:00:00,4500,5000,4750.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-18 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-28 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-10-29 00:00:00,2650,2700,2675.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-01 00:00:00,2625,2675,2650.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-05 00:00:00,2625,2675,2650.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-10 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-11 00:00:00,2600,2650,2625.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-13 00:00:00,2500,2550,2525.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-17 00:00:00,2525,2575,2550.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-19 00:00:00,2550,2600,2575.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-11-27 00:00:00,2750,2800,2775.0,16
+West Bengal,Hooghly,Sheoraphuly,Jute,TD-5,FAQ,2013-12-08 00:00:00,2800,2850,2825.0,16
+West Bengal,Malda,Samsi,Jute,Jute,FAQ,2013-01-03 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Jute,FAQ,2013-01-14 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Jute,FAQ,2013-01-28 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Jute,FAQ,2013-01-29 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Jute,FAQ,2013-02-03 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Jute,FAQ,2013-02-09 00:00:00,2400,2500,2450.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-02-28 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-03-03 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-03-10 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-03-18 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-03-20 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-03-26 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-03-27 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-03-30 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-04-07 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-04-08 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-04-09 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-04-25 00:00:00,2550,2650,2600.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-05-19 00:00:00,2550,2650,2600.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-05-23 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-05-25 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-05-26 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-05-28 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-06-04 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-06-07 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-06-10 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-06-24 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-07-08 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-07-11 00:00:00,2350,2480,2400.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-07-29 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-02 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-09 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-12 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-17 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-20 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-22 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-24 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-08-29 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-09-02 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-09-20 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-10-07 00:00:00,2300,2400,2350.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-10-08 00:00:00,2300,2400,2350.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-10-12 00:00:00,2300,2400,2350.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-10-14 00:00:00,2300,2400,2350.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-10-24 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-10-26 00:00:00,2250,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-11-08 00:00:00,2325,2375,2350.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-11-22 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-11-25 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-11-27 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-12-02 00:00:00,2550,2650,2600.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-12-19 00:00:00,2650,2750,2700.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-12-26 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-12-27 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,Other,FAQ,2013-12-29 00:00:00,2750,2850,2800.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-01-05 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-01-12 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-02-04 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-02-05 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-02-13 00:00:00,2300,2400,2350.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-03-01 00:00:00,2650,2750,2700.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-03-08 00:00:00,2650,2750,2700.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-03-17 00:00:00,2650,2750,2700.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-03-24 00:00:00,2650,2750,2700.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-03-25 00:00:00,2650,2750,2700.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-04-18 00:00:00,2400,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-04-19 00:00:00,2650,2750,2700.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-04-30 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-05-02 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-05-08 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-05-10 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-05-14 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-05-17 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-06-03 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-06-09 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-06-12 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-06-28 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-07-01 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-07-25 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-07-26 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-07-27 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-08-05 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-08-06 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-08-18 00:00:00,2350,2450,2400.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-09-04 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-09-05 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-09-10 00:00:00,2050,2150,2100.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-09-16 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-09-18 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-09-19 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-09-30 00:00:00,2150,2250,2200.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-10-03 00:00:00,2200,2300,2250.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-10-05 00:00:00,2200,2300,2250.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-10-11 00:00:00,2200,2300,2250.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-10-15 00:00:00,2200,2300,2250.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-10-18 00:00:00,2200,2300,2250.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-10-19 00:00:00,2200,2300,2250.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-10-27 00:00:00,2250,2350,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-11-06 00:00:00,2300,2400,2350.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-11-09 00:00:00,2225,2275,2250.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-11-18 00:00:00,2275,2325,2300.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-12-01 00:00:00,2550,2650,2600.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-12-04 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-12-11 00:00:00,2450,2550,2500.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-12-12 00:00:00,2550,2650,2600.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-12-21 00:00:00,2550,2650,2600.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-12-22 00:00:00,2550,2650,2600.0,16
+West Bengal,Malda,Samsi,Jute,TD-5,FAQ,2013-12-31 00:00:00,2650,2750,2700.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-01-02 00:00:00,2100,2200,2150.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-05-10 00:00:00,2500,2550,2525.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-05-17 00:00:00,2500,2530,2515.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-05-18 00:00:00,2500,2530,2515.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-05-27 00:00:00,2420,2460,2440.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-06-03 00:00:00,2400,2440,2420.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-06-15 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-06-17 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-06-22 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-07-05 00:00:00,2200,2300,2250.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-07-18 00:00:00,2200,2300,2250.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-07-31 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-08-07 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-08-10 00:00:00,2250,2400,2325.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-08-17 00:00:00,2200,2400,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-08-18 00:00:00,2200,2400,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-08-25 00:00:00,2150,2350,2250.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-08-26 00:00:00,2150,2350,2250.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-09-01 00:00:00,2150,2350,2250.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-09-02 00:00:00,2150,2350,2250.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-09-06 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-09-11 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-09-12 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-09-15 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-09-25 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-10-02 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-10-04 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-10-10 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-10-17 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-10-19 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-10-28 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-11-02 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-11-18 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-11-22 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-11-27 00:00:00,2250,2350,2300.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-11-30 00:00:00,2300,2400,2350.0,16
+West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,2013-12-02 00:00:00,2350,2450,2400.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-01-01 00:00:00,1570,1590,1580.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-01-16 00:00:00,1670,1690,1680.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-01-24 00:00:00,1780,1800,1790.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-01-25 00:00:00,1860,1880,1870.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-02-21 00:00:00,1840,1860,1850.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-02-28 00:00:00,2400,2420,2410.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-03-01 00:00:00,2390,2410,2400.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-03-04 00:00:00,2390,2410,2400.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-04-01 00:00:00,2380,2400,2390.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-04-03 00:00:00,2370,2390,2380.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-04-11 00:00:00,2280,2300,2290.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-04-25 00:00:00,2470,2490,2480.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-04-29 00:00:00,2360,2380,2370.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-05-01 00:00:00,2400,2420,2410.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-05-28 00:00:00,2160,2180,2170.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-06-17 00:00:00,2180,2200,2190.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-06-18 00:00:00,2270,2290,2280.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-06-20 00:00:00,2230,2250,2240.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-07-09 00:00:00,2130,2150,2140.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-07-24 00:00:00,2160,2180,2170.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-07-25 00:00:00,2160,2180,2170.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-08-02 00:00:00,2120,2140,2130.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-08-07 00:00:00,2130,2150,2140.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-08-08 00:00:00,2130,2150,2140.0,16
+West Bengal,Murshidabad,Jangipur,Jute,TD-5,FAQ,2013-08-19 00:00:00,2420,2440,2430.0,16
+West Bengal,Murshidabad,Jiaganj(Lalbagh),Jute,TD-5,FAQ,2013-01-15 00:00:00,1950,2050,2000.0,16
+West Bengal,Murshidabad,Jiaganj(Lalbagh),Jute,TD-5,FAQ,2013-01-16 00:00:00,1950,2050,2000.0,16
+West Bengal,Murshidabad,Jiaganj(Lalbagh),Jute,TD-5,FAQ,2013-01-17 00:00:00,1950,2050,2000.0,16
+West Bengal,Murshidabad,Jiaganj(Lalbagh),Jute,TD-5,FAQ,2013-01-18 00:00:00,1950,2050,2000.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-01-06 00:00:00,2095,2110,2100.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-01-07 00:00:00,2095,2110,2100.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-01-12 00:00:00,2145,2160,2150.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-01-15 00:00:00,2145,2160,2150.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-01-19 00:00:00,2145,2160,2150.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-01-22 00:00:00,2145,2160,2150.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-01-27 00:00:00,2245,2260,2250.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-04 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-06 00:00:00,2395,2410,2400.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-11 00:00:00,2445,2460,2450.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-14 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-16 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-18 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-23 00:00:00,2595,2610,2600.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-02-25 00:00:00,2595,2610,2600.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-03-03 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-03-06 00:00:00,2695,2710,2700.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-03-18 00:00:00,2595,2610,2600.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-03-19 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-03-25 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-01 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-02 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-03 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-04 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-15 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-20 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-21 00:00:00,2645,2660,2650.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-23 00:00:00,2570,2585,2575.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-25 00:00:00,2745,2760,2750.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-04-30 00:00:00,2545,2560,2550.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-05-05 00:00:00,2545,2560,2550.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-05-06 00:00:00,2545,2560,2550.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-05-15 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-05-19 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-05-21 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-05-26 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-06-04 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-06-15 00:00:00,2395,2410,2400.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-06-29 00:00:00,2395,2410,2400.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-01 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-02 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-09 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-14 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-15 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-28 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-29 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-07-31 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-08-08 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-08-10 00:00:00,2545,2560,2550.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-08-11 00:00:00,2545,2560,2550.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-08-21 00:00:00,2245,2260,2250.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-08-26 00:00:00,2045,2060,2050.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-08-31 00:00:00,2195,2210,2200.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-09-18 00:00:00,2245,2260,2250.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-09-19 00:00:00,2245,2260,2250.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-09-22 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-09-29 00:00:00,2245,2260,2250.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-10-01 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-10-09 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-10-10 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-10-24 00:00:00,2345,2360,2350.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-10-28 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-10-30 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-11-06 00:00:00,2195,2210,2200.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-11-09 00:00:00,2245,2260,2250.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-11-11 00:00:00,2245,2260,2250.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-11-18 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-11-20 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-11-21 00:00:00,2295,2310,2300.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-11-25 00:00:00,2445,2460,2450.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-12-02 00:00:00,2495,2510,2500.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-12-03 00:00:00,2595,2610,2600.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-12-12 00:00:00,2695,2710,2700.0,16
+West Bengal,Nadia,Bethuadahari,Jute,TD-5,FAQ,2013-12-23 00:00:00,2795,2810,2800.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-01-14 00:00:00,2150,2200,2175.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-01-16 00:00:00,2150,2200,2175.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-06-28 00:00:00,2250,2300,2275.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-07-07 00:00:00,2200,2250,2225.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-07-12 00:00:00,2250,2300,2275.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-08-03 00:00:00,2300,2350,2325.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-08-10 00:00:00,2300,2350,2325.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-08-11 00:00:00,2300,2350,2325.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-08-18 00:00:00,2150,2200,2175.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-09-24 00:00:00,2300,2350,2325.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-10-07 00:00:00,2300,2350,2325.0,16
+West Bengal,Nadia,Karimpur,Jute,TD-5,FAQ,2013-10-14 00:00:00,2300,2350,2325.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-06-06 00:00:00,2500,3000,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-06-15 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-06-18 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-06-21 00:00:00,2500,3000,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-06-24 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-07-11 00:00:00,2500,2700,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-07-17 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-07-26 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-08-05 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-08-16 00:00:00,2500,3000,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-08-25 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-08-26 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-08-27 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-09-01 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-09-08 00:00:00,2500,3000,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-09-15 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-09-16 00:00:00,2500,3000,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-09-26 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-09-27 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-09-30 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-02 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-07 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-12 00:00:00,2500,3000,2800.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-18 00:00:00,2500,3000,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-21 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-25 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-26 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-28 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-10-29 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-11-12 00:00:00,3000,3200,3200.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-11-23 00:00:00,2500,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-12-02 00:00:00,2700,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-12-04 00:00:00,2700,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-12-06 00:00:00,2500,3000,2700.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-12-08 00:00:00,2700,3000,3000.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-12-21 00:00:00,3000,3100,3100.0,16
+Odisha,Jajpur,Jajpur,Jute,Other,FAQ,2015-12-25 00:00:00,3000,3200,3200.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-01-09 00:00:00,2200,3000,2400.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-01-19 00:00:00,2200,3000,2500.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-02-17 00:00:00,2200,2800,2400.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-04-04 00:00:00,2700,2700,2700.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-04-26 00:00:00,2700,2700,2700.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-04-28 00:00:00,2700,2700,2700.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-05-01 00:00:00,2700,2700,2700.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-05-11 00:00:00,2700,2700,2700.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-06-23 00:00:00,2700,2700,2700.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-08-03 00:00:00,2700,2700,2700.0,16
+Odisha,Keonjhar,Anandapur,Jute,Jute,FAQ,2015-09-28 00:00:00,2700,2700,2700.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-01-29 00:00:00,2950,3150,3050.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-02-10 00:00:00,3000,3200,3100.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-02-23 00:00:00,3000,3200,3100.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-02-24 00:00:00,3025,3225,3125.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-02-27 00:00:00,3100,3300,3200.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-03-09 00:00:00,3100,3300,3200.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-03-16 00:00:00,3125,3250,3200.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-03-20 00:00:00,3100,3300,3200.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-04 00:00:00,3000,3200,3100.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-06 00:00:00,3000,3200,3100.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-07 00:00:00,3000,3200,3100.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-13 00:00:00,3000,3200,3100.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-14 00:00:00,3050,3250,3150.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-20 00:00:00,3200,3275,3250.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-24 00:00:00,3150,3250,3200.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-04-28 00:00:00,3150,3250,3200.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-05-07 00:00:00,3175,3275,3225.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-05-08 00:00:00,3175,3275,3225.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-05-13 00:00:00,3175,3275,3225.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-05-17 00:00:00,3150,3250,3200.0,16
+West Bengal,Alipurduar,Falakata,Jute,TD-5,FAQ,2015-05-29 00:00:00,3125,3225,3175.0,16
