@@ -1,84 +1,84 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-01-30,3460,5235,4173,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-01-31,4301,5301,5069,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-01,4131,5369,5311,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-06,4669,6597,6559,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-15,5445,6633,6091,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-20,1609,7299,7009,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-21,4583,6759,6000,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-27,5850,7319,6315,115
-Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2019-05-31,5200,5200,5200,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-07,6264,6464,6331,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-20,5050,7050,6050,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-21,6850,7070,6950,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-01,9300,9300,9300,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-07,7583,10160,8871,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-11,6090,6889,6489,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-04,7000,10569,8784,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-05,7005,10390,8697,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-07,3689,5881,4785,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-04,3000,10551,6275,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-18,2000,8719,5009,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-21,2300,9750,6025,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-22,897,9919,5408,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-24,2000,9825,5611,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-06,2000,9289,5279,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-07,850,9889,5369,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-11,769,9696,5232,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-02,550,6497,3523,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-05,4777,5517,5147,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-17,4499,7401,5950,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-25,2569,7319,4944,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-27,1369,6119,3744,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-07-25,8251,9651,8951,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-09-13,5320,5320,5320,115
-Tamil Nadu,Cuddalore,Cuddalore,Karamani,Other,FAQ,2022-08-18,3663,3663,3663,115
-Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2022-02-28,6012,6012,6012,115
-Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2022-03-01,5202,6302,6302,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-22,4569,5033,4801,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-28,4731,5229,4980,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-03-05,3311,6229,4770,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-03-26,3233,3233,3233,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-04-04,3087,4287,3687,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-04-12,3189,3393,3291,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-02-21,4450,5533,5150,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-13,4489,5189,4839,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-18,4020,5379,4669,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-20,3930,5469,4969,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-26,4509,4609,4559,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-02,4510,5009,4789,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-03,3269,5598,4489,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-10,4479,4910,4509,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-19,4000,4409,4205,115
-Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-05-13,4299,5289,4699,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-07,3029,5721,4500,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-14,4329,5822,5000,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-18,3765,4889,4200,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-19,2169,5639,4300,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-27,3689,4911,4300,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-28,4389,5415,5000,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-04,4409,4409,4409,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-18,1489,1489,1489,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-23,4089,4089,4089,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-24,3800,6109,5200,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-05-28,3300,3300,3300,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-06-26,2389,2389,2389,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-02-25,4601,5019,4800,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-03-01,1900,6189,5000,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-03-11,2190,6201,4500,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-04-02,2297,5297,3500,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-04-08,3997,3997,3997,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-04-25,2997,2997,2997,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-05-14,1997,3097,2900,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-06-20,3900,3900,3900,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-06-26,4397,4397,4397,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-07-24,2999,2999,2999,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-12-31,3037,3037,3037,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-01-29,2619,4800,3710,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-01-30,4251,5069,4660,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-01-31,5167,5814,5491,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-04,3733,6450,5092,115
-Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-14,6222,6686,6454,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-01-30,3460,5235,4173.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-01-31,4301,5301,5069.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-01,4131,5369,5311.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-06,4669,6597,6559.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-15,5445,6633,6091.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-20,1609,7299,7009.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-21,4583,6759,6000.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2019-03-27,5850,7319,6315.0,115
+Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2019-05-31,5200,5200,5200.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-07,6264,6464,6331.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-20,5050,7050,6050.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2019-03-21,6850,7070,6950.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-01,9300,9300,9300.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-07,7583,10160,8871.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-03-11,6090,6889,6489.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-04,7000,10569,8784.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-05,7005,10390,8697.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2022-04-07,3689,5881,4785.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-04,3000,10551,6275.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-18,2000,8719,5009.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-21,2300,9750,6025.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-22,897,9919,5408.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-03-24,2000,9825,5611.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-06,2000,9289,5279.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-07,850,9889,5369.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-04-11,769,9696,5232.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-02,550,6497,3523.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-05,4777,5517,5147.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-17,4499,7401,5950.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-25,2569,7319,4944.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-05-27,1369,6119,3744.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-07-25,8251,9651,8951.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2022-09-13,5320,5320,5320.0,115
+Tamil Nadu,Cuddalore,Cuddalore,Karamani,Other,FAQ,2022-08-18,3663,3663,3663.0,115
+Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2022-02-28,6012,6012,6012.0,115
+Tamil Nadu,Vellore,Vellore,Karamani,Other,FAQ,2022-03-01,5202,6302,6302.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-22,4569,5033,4801.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-28,4731,5229,4980.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-03-05,3311,6229,4770.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-03-26,3233,3233,3233.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-04-04,3087,4287,3687.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-04-12,3189,3393,3291.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-02-21,4450,5533,5150.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-13,4489,5189,4839.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-18,4020,5379,4669.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-20,3930,5469,4969.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-03-26,4509,4609,4559.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-02,4510,5009,4789.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-03,3269,5598,4489.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-10,4479,4910,4509.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-04-19,4000,4409,4205.0,115
+Tamil Nadu,Villupuram,Gingee,Karamani,Other,FAQ,2013-05-13,4299,5289,4699.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-07,3029,5721,4500.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-14,4329,5822,5000.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-18,3765,4889,4200.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-19,2169,5639,4300.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-27,3689,4911,4300.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-03-28,4389,5415,5000.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-04,4409,4409,4409.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-18,1489,1489,1489.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-23,4089,4089,4089.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-04-24,3800,6109,5200.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-05-28,3300,3300,3300.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2013-06-26,2389,2389,2389.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-02-25,4601,5019,4800.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-03-01,1900,6189,5000.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-03-11,2190,6201,4500.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-04-02,2297,5297,3500.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-04-08,3997,3997,3997.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-04-25,2997,2997,2997.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-05-14,1997,3097,2900.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-06-20,3900,3900,3900.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-06-26,4397,4397,4397.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-07-24,2999,2999,2999.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2013-12-31,3037,3037,3037.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-01-29,2619,4800,3710.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-01-30,4251,5069,4660.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-01-31,5167,5814,5491.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-04,3733,6450,5092.0,115
+Tamil Nadu,Cuddalore,Panruti,Karamani,Other,FAQ,2013-02-14,6222,6686,6454.0,115
 Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2012-03-08,2412,2634,2540.0,115
 Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2012-03-09,989,2471,1730.0,115
 Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2012-03-22,2789,3539,3200.0,115
@@ -191,43 +191,45 @@ Tamil Nadu,Villupuram,Villupuram,Karamani,Other,FAQ,2017-04-13,4333,5123,4879.0,
 Tamil Nadu,Villupuram,Villupuram,Karamani,Other,FAQ,2017-04-17,4001,5069,4679.0,115
 Tamil Nadu,Villupuram,Villupuram,Karamani,Other,FAQ,2017-04-18,3019,5011,4150.0,115
 Tamil Nadu,Villupuram,Villupuram,Karamani,Other,FAQ,2017-05-18,3006,4371,4119.0,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-16,9209,9209,9209,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-22,2869,8689,5779,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-23,4690,8609,6649,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-28,6309,8589,7449,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-03,4771,8389,6580,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-07,8915,8915,8915,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-13,5771,8889,7330,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-24,4060,9789,6924,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-04-11,7869,8469,8169,115
-Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-04-19,6400,6500,6450,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-02-13,10151,10451,10301,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-02-27,5090,9569,7330,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-02,5501,8811,7156,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-06,8319,9101,8710,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-10,4399,8819,6609,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-24,5855,9669,7762,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-31,5666,9292,7479,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-04-13,5055,8055,6555,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-05-16,6699,8999,7849,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-05-26,8011,8011,8011,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-05-29,7097,7097,7097,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-01,7227,7227,7227,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-12,5666,5666,5666,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-14,5679,7799,6739,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-16,8111,8111,8111,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-07-10,7119,7119,7119,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-07-24,6666,6666,6666,115
-Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-08-07,7119,7119,7119,115
-Tamil Nadu,Cuddalore,Cuddalore,Karamani,Other,FAQ,2023-04-13,6669,6669,6669,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-02-08,5009,10779,9000,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-02-17,8289,9969,9559,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-06,6792,9850,8893,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-17,5000,8811,8711,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-25,5100,8585,7500,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-26,6689,8305,7800,115
-Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-27,5339,8109,7109,115
-Tamil Nadu,Villupuram,Ulundurpettai,Karamani,Karamani,FAQ,2023-11-08,2799,2799,2799,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-16,9209,9209,9209.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-22,2869,8689,5779.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-23,4690,8609,6649.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-02-28,6309,8589,7449.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-03,4771,8389,6580.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-07,8915,8915,8915.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-13,5771,8889,7330.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-03-24,4060,9789,6924.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-04-11,7869,8469,8169.0,115
+Pondicherry,Pondicherry,Madagadipet,Karamani,Other,FAQ,2023-04-19,6400,6500,6450.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-02-13,10151,10451,10301.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-02-27,5090,9569,7330.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-02,5501,8811,7156.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-06,8319,9101,8710.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-10,4399,8819,6609.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-24,5855,9669,7762.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-03-31,5666,9292,7479.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-04-13,5055,8055,6555.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-05-16,6699,8999,7849.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-05-26,8011,8011,8011.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-05-29,7097,7097,7097.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-01,7227,7227,7227.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-12,5666,5666,5666.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-14,5679,7799,6739.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-06-16,8111,8111,8111.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-07-10,7119,7119,7119.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-07-24,6666,6666,6666.0,115
+Pondicherry,Pondicherry,Thattanchavady,Karamani,Other,FAQ,2023-08-07,7119,7119,7119.0,115
+Tamil Nadu,Cuddalore,Cuddalore,Karamani,Other,FAQ,2023-04-13,6669,6669,6669.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-02-08,5009,10779,9000.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-02-17,8289,9969,9559.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-06,6792,9850,8893.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-17,5000,8811,8711.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-25,5100,8585,7500.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-26,6689,8305,7800.0,115
+Tamil Nadu,Villupuram,Tindivanam,Karamani,Other,FAQ,2023-04-27,5339,8109,7109.0,115
+Tamil Nadu,Villupuram,Ulundurpettai,Karamani,Karamani,FAQ,2023-11-08,2799,2799,2799.0,115
 Tamil Nadu,Villupuram,Ulundurpettai,Karamani,Karamani,FAQ,2024-02-12,6019,6019,6019.0,115
 Tamil Nadu,Villupuram,Ulundurpettai,Karamani,Karamani,FAQ,2024-02-14,5369,5369,5369.0,115
 Tamil Nadu,Villupuram,Ulundurpettai,Karamani,Karamani,FAQ,2024-03-14,4411,4411,4411.0,115
+Karnataka,Bagalkot,Badami,Ram,Ram,Medium,2009-11-26 00:00:00,1500,5000,2000.0,282
+Karnataka,Dharwad,Annigeri,Ram,Ram,Medium,2009-12-15 00:00:00,1800,2200,2000.0,282
