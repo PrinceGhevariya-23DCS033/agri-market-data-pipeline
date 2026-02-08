@@ -93480,80 +93480,526 @@ Gujarat,Mehsana,Mehsana(Mehsana Veg),Cauliflower,Cauliflower,FAQ,2017-12-19 00:0
 Gujarat,Mehsana,Mehsana(Mehsana Veg),Cauliflower,Cauliflower,FAQ,2017-12-27 00:00:00,500.0,1500,1100.0,34
 Gujarat,Mehsana,Mehsana(Mehsana Veg),Cauliflower,Cauliflower,FAQ,2017-12-30 00:00:00,750.0,2000,1300.0,34
 Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-01-10 00:00:00,100.0,425,250.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-11-04 00:00:00,1050,1200,1150.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-11-06 00:00:00,1000,1100,1050.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-11-20 00:00:00,760,900,800.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-11-28 00:00:00,1200,1300,1250.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-12-01 00:00:00,1350,1450,1400.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-12-04 00:00:00,1350,1450,1400.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-12-08 00:00:00,1150,1250,1200.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-12-15 00:00:00,1300,1400,1350.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,2017-12-20 00:00:00,1250,1350,1300.0,34
-Uttar Pradesh,Agra,Achnera,Cauliflower,Other,FAQ,2017-09-12 00:00:00,2750,2880,2800.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-01-05 00:00:00,0,0,500.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-01-19 00:00:00,0,0,540.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-01-23 00:00:00,0,0,510.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-01-24 00:00:00,0,0,500.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-01-25 00:00:00,0,0,520.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-02-07 00:00:00,0,0,610.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-02-14 00:00:00,0,0,610.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-02-22 00:00:00,0,0,810.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-02-25 00:00:00,0,0,820.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,2017-03-17 00:00:00,0,0,800.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-10-13 00:00:00,1480,1650,1570.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-10-24 00:00:00,2250,2350,2300.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-11-03 00:00:00,1300,1400,1350.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-11-06 00:00:00,1280,1400,1320.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-12-05 00:00:00,2100,2200,2150.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-12-15 00:00:00,1600,1750,1680.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-12-21 00:00:00,1550,1650,1600.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-12-22 00:00:00,1520,1650,1565.0,34
-Uttar Pradesh,Agra,Agra,Cauliflower,Local,FAQ,2017-12-28 00:00:00,1400,1500,1450.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-09-07 00:00:00,1650,1690,1670.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-09-09 00:00:00,1630,1670,1650.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-09-14 00:00:00,800,840,830.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-09-16 00:00:00,760,780,770.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-09-18 00:00:00,1500,1540,1520.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-09-21 00:00:00,1370,1420,1380.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-04 00:00:00,800,870,840.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-05 00:00:00,770,840,800.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-09 00:00:00,700,760,730.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-12 00:00:00,680,750,730.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-15 00:00:00,760,800,770.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-19 00:00:00,850,1050,900.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-25 00:00:00,1270,1430,1300.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-26 00:00:00,900,950,930.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-10-28 00:00:00,1250,1340,1280.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-11-12 00:00:00,780,800,790.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-11-13 00:00:00,750,800,770.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-11-15 00:00:00,740,760,750.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-11-26 00:00:00,800,850,830.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-12-02 00:00:00,920,1000,950.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-12-04 00:00:00,850,940,880.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-12-20 00:00:00,900,980,940.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-12-24 00:00:00,900,950,930.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-12-25 00:00:00,1000,1080,1050.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-12-26 00:00:00,1000,1050,1020.0,34
-Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,2017-12-31 00:00:00,800,880,850.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-08-16 00:00:00,1500,1700,1600.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-08-17 00:00:00,1600,1700,1650.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-08-21 00:00:00,1700,1800,1750.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-08-22 00:00:00,1750,1850,1800.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-08-27 00:00:00,1650,1850,1750.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-08-30 00:00:00,1750,1790,1770.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-09-12 00:00:00,1500,1600,1550.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-09-16 00:00:00,1200,1300,1250.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-09-25 00:00:00,600,800,700.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-09-28 00:00:00,800,900,850.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-10-02 00:00:00,0,0,750.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-10-09 00:00:00,770,830,800.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-10-17 00:00:00,1100,1200,1150.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-10-19 00:00:00,1000,1200,1100.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-10-27 00:00:00,1350,1450,1400.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-11-02 00:00:00,1120,1200,1160.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-11-03 00:00:00,1150,1250,1200.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-11-06 00:00:00,1050,1150,1100.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-11-09 00:00:00,1040,1120,1080.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-11-14 00:00:00,1050,1150,1100.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-11-25 00:00:00,1040,1100,1070.0,34
-Uttar Pradesh,Agra,Fatehpur Sikri,Cauliflower,Cauliflower,FAQ,2017-12-01 00:00:00,1120,1200,1160.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-01-18 00:00:00,600,1000,850.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-01-23 00:00:00,200,450,350.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-02-06 00:00:00,150,250,200.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-02-20 00:00:00,100,200,150.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-02-23 00:00:00,100,170,150.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-04-08 00:00:00,600,600,600.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-04-11 00:00:00,250,800,500.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-04-17 00:00:00,250,1000,650.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-04-19 00:00:00,1000,1000,1000.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-04-22 00:00:00,250,500,375.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-05-15 00:00:00,625,1000,810.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-09-16 00:00:00,1000,3000,1250.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-09-27 00:00:00,2405,3205,2750.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-11-03 00:00:00,1000,1400,1250.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-11-18 00:00:00,350,600,450.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-11-22 00:00:00,170,700,450.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-11-24 00:00:00,200,700,450.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-11-29 00:00:00,800,1150,950.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-12-06 00:00:00,200,850,525.0,34
+Gujarat,Mehsana,Vijapur(veg),Cauliflower,Other,FAQ,2017-12-11 00:00:00,250,700,500.0,34
+Gujarat,Navsari,Bilimora,Cauliflower,Other,FAQ,2017-07-04 00:00:00,1000,1400,1200.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-01-04 00:00:00,500,700,600.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-01-08 00:00:00,600,800,700.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-01-15 00:00:00,700,900,800.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-01-19 00:00:00,1000,1200,1100.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-01-25 00:00:00,500,700,600.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-01-27 00:00:00,400,600,500.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-01-31 00:00:00,400,600,500.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-02-10 00:00:00,400,600,500.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-02-13 00:00:00,500,700,600.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-02-22 00:00:00,300,400,350.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-02-26 00:00:00,400,600,500.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-03-03 00:00:00,400,600,500.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-03-05 00:00:00,500,700,600.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-10-19 00:00:00,3000,3800,3400.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-10-29 00:00:00,2500,3000,2750.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-03 00:00:00,2500,2750,2625.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-07 00:00:00,1200,1500,1350.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-12 00:00:00,500,800,650.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-14 00:00:00,450,850,650.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-17 00:00:00,800,1000,900.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-22 00:00:00,650,800,725.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-26 00:00:00,800,1200,1000.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-11-30 00:00:00,700,900,800.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-12-11 00:00:00,400,500,450.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-12-13 00:00:00,400,600,500.0,34
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Cauliflower,Other,FAQ,2017-12-25 00:00:00,800,1000,900.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-01-05 00:00:00,200,700,500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-01-13 00:00:00,500,1100,800.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-01-18 00:00:00,400,1200,800.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-01-26 00:00:00,250,750,500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-01-28 00:00:00,500,1000,750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-01-31 00:00:00,500,1500,1000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-02-02 00:00:00,200,600,400.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-02-03 00:00:00,400,800,600.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-02-06 00:00:00,100,500,300.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-02-08 00:00:00,400,800,600.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-02-17 00:00:00,200,850,500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-02-21 00:00:00,300,500,400.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-02-26 00:00:00,200,800,500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-03-10 00:00:00,300,700,500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-03-11 00:00:00,500,1000,750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-03-12 00:00:00,500,1000,750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-03-18 00:00:00,250,950,600.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-03-26 00:00:00,400,1000,700.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-04-04 00:00:00,500,1200,900.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-04-14 00:00:00,1500,2500,2000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-04-24 00:00:00,1000,2000,1500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-04-30 00:00:00,1000,2000,1500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-04 00:00:00,1500,2500,2000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-06 00:00:00,2500,4000,3250.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-08 00:00:00,3500,4000,3750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-09 00:00:00,2000,4000,3000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-10 00:00:00,2500,3000,2750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-13 00:00:00,2000,3000,2500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-14 00:00:00,2000,3000,2500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-15 00:00:00,2500,3250,3000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-05-17 00:00:00,1500,3500,2500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-06-02 00:00:00,2000,5500,3500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-06-06 00:00:00,2500,4000,3500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-06-14 00:00:00,3000,4000,3500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-06-15 00:00:00,2000,4000,3000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-06-19 00:00:00,1500,3500,2500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-07-02 00:00:00,3500,4000,3750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-07-13 00:00:00,4000,5000,4500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-07-20 00:00:00,4000,5000,4500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-07-25 00:00:00,4000,5000,4500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-07-30 00:00:00,4000,6000,5000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-07-31 00:00:00,3000,6000,4500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-08-06 00:00:00,2500,3500,3000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-08-07 00:00:00,2500,3500,3000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-08-09 00:00:00,2500,3500,3500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-08-28 00:00:00,1000,2500,1750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-08-29 00:00:00,1500,3000,2500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-09-19 00:00:00,1500,2500,2000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-09-26 00:00:00,1500,3000,2250.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-09-27 00:00:00,1500,2500,2000.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-10-06 00:00:00,1500,2000,1750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-10-25 00:00:00,1000,2500,1750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-10-26 00:00:00,1500,3000,2250.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-11-05 00:00:00,1000,2000,1500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-11-08 00:00:00,1500,2000,1750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-11-11 00:00:00,1000,1500,1250.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-11-26 00:00:00,1000,1500,1250.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-11-27 00:00:00,1000,2000,1500.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-12-05 00:00:00,500,1000,750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-12-06 00:00:00,500,1000,750.0,34
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,2017-12-28 00:00:00,1000,1500,1250.0,34
+Gujarat,Surat,Bardoli(Katod),Cauliflower,Other,FAQ,2017-01-02 00:00:00,600,1000,800.0,34
+Gujarat,Surat,Bardoli(Katod),Cauliflower,Other,FAQ,2017-01-15 00:00:00,300,900,600.0,34
+Gujarat,Surat,Bardoli(Katod),Cauliflower,Other,FAQ,2017-01-20 00:00:00,500,1100,800.0,34
+Gujarat,Surat,Bardoli(Katod),Cauliflower,Other,FAQ,2017-01-31 00:00:00,500,900,800.0,34
+Gujarat,Surat,Bardoli(Katod),Cauliflower,Other,FAQ,2017-02-03 00:00:00,400,800,600.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-01-04 00:00:00,735,1350,1042.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-01-13 00:00:00,1505,1595,1550.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-01-28 00:00:00,605,900,752.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-01-30 00:00:00,250,655,452.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-02-01 00:00:00,300,1255,777.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-02-02 00:00:00,300,1060,680.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-02-06 00:00:00,100,1000,550.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-02-08 00:00:00,250,1050,650.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-03-15 00:00:00,750,750,750.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-12-22 00:00:00,2065,2500,2282.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-12-30 00:00:00,2750,2855,2802.0,34
+Gujarat,Surat,Mandvi,Cauliflower,Other,FAQ,2017-12-31 00:00:00,1000,2940,1970.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-01-03 00:00:00,1200,1450,1325.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-01-05 00:00:00,1610,1610,1610.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-01-08 00:00:00,1205,1305,1255.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-01-24 00:00:00,1055,1340,1197.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-02-02 00:00:00,300,1060,680.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-02-08 00:00:00,250,1050,650.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-02-17 00:00:00,1000,1000,1000.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-12-24 00:00:00,2750,2750,2750.0,34
+Gujarat,Surat,S.Mandvi,Cauliflower,Other,FAQ,2017-12-26 00:00:00,2055,2530,2292.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-03-09 00:00:00,1000,2000,1500.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-03-15 00:00:00,1400,2250,1825.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-03-19 00:00:00,1250,2250,1750.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-03-29 00:00:00,750,1500,1125.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-03-30 00:00:00,500,1500,1000.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-04-10 00:00:00,800,1300,1050.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-04-12 00:00:00,1000,1500,1250.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-04-14 00:00:00,1000,1800,1400.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-04-16 00:00:00,800,1800,1300.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-04-24 00:00:00,1000,1600,1300.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-04-27 00:00:00,800,1400,1100.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-05-02 00:00:00,1000,1800,1400.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-05-04 00:00:00,900,1800,1350.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-05-06 00:00:00,1000,1800,1400.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-05-09 00:00:00,1100,2250,1675.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-05-18 00:00:00,900,1300,1100.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-05-22 00:00:00,1000,1400,1200.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-06-04 00:00:00,1500,2000,1750.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-06-21 00:00:00,1000,1700,1350.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-06-23 00:00:00,1000,3750,2375.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-07-02 00:00:00,1750,3750,2750.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-07-03 00:00:00,1750,3750,2750.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-07-07 00:00:00,1300,4000,2650.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-07-11 00:00:00,1500,3750,2625.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-07-19 00:00:00,1200,3250,2225.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-07-24 00:00:00,1250,3000,2125.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-07-30 00:00:00,900,2750,1825.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-01 00:00:00,1000,3000,2000.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-15 00:00:00,1300,3000,2150.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-17 00:00:00,1000,2500,1750.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-18 00:00:00,1300,2750,2025.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-20 00:00:00,1000,3000,2000.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-23 00:00:00,800,2750,1775.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-24 00:00:00,1000,3000,2000.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-08-30 00:00:00,800,2750,1775.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-09-03 00:00:00,1400,3000,2200.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-09-13 00:00:00,1000,2750,1875.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-09-14 00:00:00,1000,2750,1875.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-09-19 00:00:00,500,2500,1500.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-09-27 00:00:00,1300,3250,2275.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-09-29 00:00:00,1300,3000,2150.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-10-02 00:00:00,1300,3250,2275.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-10-03 00:00:00,1300,3250,2275.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-10-16 00:00:00,1000,3750,2375.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-10-30 00:00:00,2250,3500,2875.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-11-01 00:00:00,1500,3500,2500.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-11-05 00:00:00,1750,3000,2375.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-11-17 00:00:00,1000,3000,2000.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-11-25 00:00:00,1000,2000,1500.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-11-28 00:00:00,750,2000,1375.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-11-29 00:00:00,1000,2000,1500.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-02 00:00:00,1000,1750,1375.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-08 00:00:00,800,2000,1400.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-15 00:00:00,1000,2250,1625.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-18 00:00:00,800,1900,1350.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-20 00:00:00,1000,2250,1625.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-21 00:00:00,1400,2500,1950.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-23 00:00:00,1200,2400,1800.0,34
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,2017-12-24 00:00:00,1200,2500,1850.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-01-02 00:00:00,600,1000,800.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-01-06 00:00:00,500,1000,750.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-01-13 00:00:00,500,850,675.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-02-01 00:00:00,500,700,600.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-02-04 00:00:00,500,800,650.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-02-10 00:00:00,500,600,550.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-02-11 00:00:00,500,750,625.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-02-14 00:00:00,500,600,550.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-02-20 00:00:00,500,1000,750.0,34
+Gujarat,Surat,Vyra,Cauliflower,Other,FAQ,2017-03-03 00:00:00,500,1000,750.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-03-29 00:00:00,400,600,500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-04-02 00:00:00,500,700,600.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-04-18 00:00:00,1000,1500,1250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-04-30 00:00:00,1000,2000,1500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-05-02 00:00:00,500,2000,1250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-05-04 00:00:00,600,2000,1300.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-05-06 00:00:00,1000,3200,2100.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-05-17 00:00:00,2500,3500,3000.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-05-18 00:00:00,1500,2500,2000.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-05-28 00:00:00,1000,2500,1750.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-06-16 00:00:00,1000,2000,1500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-06-18 00:00:00,1000,2000,1500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-06-21 00:00:00,1000,1500,1250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-06-23 00:00:00,1000,1600,1300.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-07-08 00:00:00,1000,1500,1250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-07-14 00:00:00,1000,2500,1750.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-07-28 00:00:00,1000,2800,1900.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-08-06 00:00:00,800,3000,1900.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-08-09 00:00:00,1500,3500,2500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-08-10 00:00:00,1500,3500,2500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-08-20 00:00:00,2500,4000,3250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-08-22 00:00:00,1000,3500,2250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-03 00:00:00,1500,3500,2500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-10 00:00:00,3000,4000,3500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-16 00:00:00,2800,4000,3400.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-17 00:00:00,2000,4100,3050.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-22 00:00:00,2000,3000,2500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-24 00:00:00,1500,3000,2250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-28 00:00:00,1000,2000,1500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-09-29 00:00:00,1000,2000,1500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-10-04 00:00:00,1000,1700,1350.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-10-10 00:00:00,1000,2000,1500.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-10-21 00:00:00,1000,1700,1350.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-10-24 00:00:00,800,1200,1000.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-10-26 00:00:00,800,1100,950.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-10-31 00:00:00,700,1200,950.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-11-01 00:00:00,800,1300,1050.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-11-04 00:00:00,800,1500,1150.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-11-08 00:00:00,1000,1500,1250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-11-30 00:00:00,1800,3000,2400.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-12-06 00:00:00,1200,2300,1750.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-12-08 00:00:00,2000,2200,2100.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-12-10 00:00:00,2000,2500,2250.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-12-19 00:00:00,1000,2200,1600.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-12-22 00:00:00,1500,2000,1750.0,34
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,2017-12-24 00:00:00,1200,1500,1350.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-01-27 00:00:00,600,1000,800.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-02-02 00:00:00,600,800,700.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-02-15 00:00:00,800,1200,1000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-02-17 00:00:00,600,800,700.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-02-21 00:00:00,1000,2000,1500.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-02-22 00:00:00,800,1200,1000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-03-02 00:00:00,500,700,600.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-03-07 00:00:00,600,1000,800.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-03-09 00:00:00,600,1200,900.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-03-25 00:00:00,600,1200,900.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-04-02 00:00:00,800,1200,1000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-04-11 00:00:00,600,1000,800.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-04-16 00:00:00,1800,2000,1900.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-05-10 00:00:00,1200,1300,1250.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-05-12 00:00:00,1500,2000,1750.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-05-17 00:00:00,2500,2600,2550.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-05-23 00:00:00,1500,2500,2000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-05-24 00:00:00,1500,2500,2000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-05-27 00:00:00,2000,2500,2250.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-06-10 00:00:00,2000,2500,2250.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-06-15 00:00:00,2000,3000,2500.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-07-11 00:00:00,3000,4000,3500.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-07-15 00:00:00,4000,5000,4500.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-07-18 00:00:00,3000,4000,3500.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-07-29 00:00:00,4000,5000,4500.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-08-04 00:00:00,3500,4000,3750.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-08-20 00:00:00,1500,2500,2000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-08-22 00:00:00,2000,3000,2500.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-09-01 00:00:00,1000,1500,1250.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-09-23 00:00:00,1500,2000,1750.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-09-27 00:00:00,1500,2000,1750.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-10-04 00:00:00,1500,2500,2000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-10-11 00:00:00,1500,2500,2000.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-10-27 00:00:00,2500,3000,2750.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-11-29 00:00:00,1500,2000,1750.0,34
+Chattisgarh,Durg,Durg,Cauliflower,Other,FAQ,2017-12-02 00:00:00,1500,2000,1750.0,34
+Goa,North Goa,"Horticulture Corp,Caranzalem, Panaji",Cauliflower,Cauliflower,FAQ,2017-01-03 00:00:00,1300,0,1300.0,34
+Goa,North Goa,"Horticulture Corp,Caranzalem, Panaji",Cauliflower,Cauliflower,FAQ,2017-01-28 00:00:00,1600,0,1600.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-01-06 00:00:00,400,800,700.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-01-16 00:00:00,900,1300,1150.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-01-24 00:00:00,250,600,500.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-02-08 00:00:00,200,500,400.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-02-09 00:00:00,200,400,300.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-02-16 00:00:00,150,400,300.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-02-20 00:00:00,200,500,400.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-02-23 00:00:00,150,500,350.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-03-02 00:00:00,250,600,450.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-03-03 00:00:00,500,900,650.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-03-18 00:00:00,600,1300,1000.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-03-31 00:00:00,500,1200,1000.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-04-06 00:00:00,500,1100,900.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-04-07 00:00:00,500,1000,800.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-04-12 00:00:00,1000,2000,1500.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-04-17 00:00:00,800,1600,1300.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-04-26 00:00:00,700,1200,1000.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-04-29 00:00:00,500,1500,1100.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-02 00:00:00,500,1800,1200.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-09 00:00:00,1000,2000,1600.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-12 00:00:00,500,1800,1250.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-17 00:00:00,1000,2000,1600.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-22 00:00:00,1000,1700,1500.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-24 00:00:00,1200,2000,1800.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-26 00:00:00,1000,2300,1700.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-05-29 00:00:00,1000,2500,1800.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-06-02 00:00:00,800,2000,1450.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-06-05 00:00:00,1000,4500,2800.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-06-07 00:00:00,1300,2600,2000.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-06-14 00:00:00,1000,2300,1700.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-07-01 00:00:00,2000,3500,2800.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-07-06 00:00:00,1200,2500,1900.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-07-07 00:00:00,1500,2800,2300.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-07-08 00:00:00,1700,2600,2200.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-07-19 00:00:00,1200,2300,1800.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-07-27 00:00:00,1000,1800,1500.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-08-14 00:00:00,800,1600,1250.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-08-28 00:00:00,500,1200,900.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-05 00:00:00,800,2000,1500.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-08 00:00:00,1800,2600,2250.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-11 00:00:00,1000,2200,1650.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-16 00:00:00,500,1600,1100.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-22 00:00:00,1000,1600,1400.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-25 00:00:00,500,1500,1050.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-26 00:00:00,800,4000,2500.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-09-27 00:00:00,1200,4500,2900.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-10-03 00:00:00,1300,4500,3000.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-10-27 00:00:00,1600,4500,3250.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-11-06 00:00:00,1500,2250,1900.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-11-21 00:00:00,800,1400,1200.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-11-28 00:00:00,1000,1500,1300.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-11-29 00:00:00,1000,1500,1300.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-12-07 00:00:00,500,1200,900.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-12-21 00:00:00,500,1200,900.0,34
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,2017-12-28 00:00:00,1200,1750,1500.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-01-13 00:00:00,600,800,700.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-01-18 00:00:00,750,1000,900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-01-30 00:00:00,500,750,600.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-02-10 00:00:00,400,500,450.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-03-06 00:00:00,600,800,700.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-03-15 00:00:00,1000,1250,1100.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-03-20 00:00:00,250,300,280.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-03-23 00:00:00,500,750,600.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-03-25 00:00:00,500,750,600.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-04-12 00:00:00,1000,1250,1150.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-04-26 00:00:00,1000,1250,1150.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-04-29 00:00:00,1250,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-05-01 00:00:00,1250,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-05-25 00:00:00,1500,2000,1750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-06-13 00:00:00,1500,1750,1600.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-06-14 00:00:00,1500,1750,1650.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-06-20 00:00:00,1250,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-06-23 00:00:00,1250,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-06-28 00:00:00,1250,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-07-06 00:00:00,1500,2000,1750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-07-14 00:00:00,1500,2000,1750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-07-24 00:00:00,1250,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-07-25 00:00:00,1500,2000,1750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-07-27 00:00:00,1500,2000,1750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-08-09 00:00:00,2000,2500,2250.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-08-19 00:00:00,1750,2000,1900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-08-25 00:00:00,1500,1750,1600.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-08-28 00:00:00,1500,1750,1600.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-09-04 00:00:00,2000,2250,2100.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-09-18 00:00:00,1000,1500,1250.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-10-05 00:00:00,2500,3000,2750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-10-10 00:00:00,2500,3000,2750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-10-28 00:00:00,2500,3000,2750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-10-30 00:00:00,1000,1500,1250.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-10-31 00:00:00,2500,3000,2750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-11-02 00:00:00,2000,2500,2250.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-11-06 00:00:00,1500,2000,1750.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-11-07 00:00:00,1300,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-11-13 00:00:00,750,1000,900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-11-25 00:00:00,750,1000,900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-11-28 00:00:00,750,1000,900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-12-01 00:00:00,1250,1500,1400.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-12-02 00:00:00,750,1000,900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-12-09 00:00:00,500,1000,900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-12-13 00:00:00,500,750,600.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-12-20 00:00:00,750,1000,900.0,34
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Other,FAQ,2017-12-23 00:00:00,750,1000,900.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-01-02 00:00:00,400,600,500.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-01-21 00:00:00,700,1200,950.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-02-04 00:00:00,500,700,600.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-02-08 00:00:00,600,800,700.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-02-16 00:00:00,300,400,350.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-02-23 00:00:00,400,500,450.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-03-02 00:00:00,300,400,350.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-03-18 00:00:00,400,450,425.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-04-03 00:00:00,700,1000,850.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-04-06 00:00:00,400,600,500.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-04-17 00:00:00,500,700,600.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-04-18 00:00:00,500,800,650.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-04-19 00:00:00,500,800,650.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-04-22 00:00:00,400,700,550.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-05-09 00:00:00,500,600,550.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-05-18 00:00:00,400,900,650.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-08-16 00:00:00,2000,2500,2250.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-08-17 00:00:00,2000,2500,2250.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-08-30 00:00:00,1750,2000,1875.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-09-14 00:00:00,1500,1900,1700.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-09-16 00:00:00,3000,5000,4000.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-09-23 00:00:00,1500,2500,2000.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-09-27 00:00:00,2000,2500,2250.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-10-04 00:00:00,1000,1500,1250.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-11-08 00:00:00,800,1250,1025.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-11-10 00:00:00,800,1200,1000.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-11-21 00:00:00,750,1000,875.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-11-24 00:00:00,1200,1350,1275.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-12-20 00:00:00,600,900,750.0,34
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,2017-12-26 00:00:00,600,800,700.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-01-03 00:00:00,400,1150,900.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-01-16 00:00:00,1300,1800,1525.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-01-17 00:00:00,900,2025,1750.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-01-19 00:00:00,1075,1350,1300.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-01-27 00:00:00,650,1100,975.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-02-10 00:00:00,500,900,725.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-02-16 00:00:00,350,650,525.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-03-15 00:00:00,1300,1800,1600.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-03-16 00:00:00,1000,1800,1500.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-03-17 00:00:00,1600,2000,1800.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-03-20 00:00:00,1150,1800,1525.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-03-27 00:00:00,1125,1600,1525.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-03-29 00:00:00,1125,1600,1525.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-03-30 00:00:00,1125,1600,1525.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-04-07 00:00:00,1125,1600,1300.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-04-19 00:00:00,1150,1800,1300.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-04-26 00:00:00,1300,1800,1600.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-05-05 00:00:00,900,1600,1300.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-05-20 00:00:00,1350,1750,1600.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-05-22 00:00:00,1300,1700,1500.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-05-24 00:00:00,1525,1800,1600.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-06-07 00:00:00,2750,3250,3000.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-06-28 00:00:00,1600,2000,1800.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-06-29 00:00:00,1400,2100,1850.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-06-30 00:00:00,2250,2950,2650.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-07-04 00:00:00,2000,3000,2500.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-07-06 00:00:00,1750,2200,1975.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-07-13 00:00:00,1400,3000,2550.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-07-20 00:00:00,1600,2500,2250.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-10 00:00:00,1750,3100,2700.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-14 00:00:00,2200,3325,2950.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-15 00:00:00,2250,3375,3100.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-16 00:00:00,2350,3000,2800.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-17 00:00:00,2275,2950,2700.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-18 00:00:00,2000,3250,2850.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-23 00:00:00,2250,4050,3400.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-30 00:00:00,2250,3375,3100.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-08-31 00:00:00,1750,3325,2950.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-09-13 00:00:00,1825,3175,2925.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-09-22 00:00:00,2200,3775,3400.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-10-18 00:00:00,2700,4500,4050.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-11-15 00:00:00,1500,1950,1800.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-11-21 00:00:00,1350,2700,2250.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-11-22 00:00:00,1350,2475,2250.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-11-28 00:00:00,925,2050,1750.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-11-30 00:00:00,1200,2100,1825.0,34
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,2017-12-26 00:00:00,1575,2025,1800.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-01-02 00:00:00,600,800,750.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-01-19 00:00:00,400,600,500.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-01-21 00:00:00,500,650,550.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-01-27 00:00:00,500,600,550.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-01-28 00:00:00,400,650,500.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-01-30 00:00:00,400,600,500.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-01-31 00:00:00,400,650,500.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-02-08 00:00:00,400,600,500.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-02-11 00:00:00,400,550,500.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-02-17 00:00:00,400,650,500.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-03-22 00:00:00,800,1350,1000.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-03-26 00:00:00,800,1300,1000.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-05-03 00:00:00,1300,1850,1750.0,34
+Gujarat,Bharuch,Bharuch,Cauliflower,Other,FAQ,2017-05-04 00:00:00,1300,1750,1500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-08-21 00:00:00,2000,3000,2500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-08-22 00:00:00,2000,3000,2500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-08-26 00:00:00,2000,3000,2500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-08-29 00:00:00,2000,3000,2500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-09-01 00:00:00,3000,4000,3500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-09-03 00:00:00,3000,4000,3500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-09-09 00:00:00,3000,4000,3500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-09-12 00:00:00,3000,4000,3500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-09-20 00:00:00,1200,2000,1800.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-09-21 00:00:00,1200,2000,1800.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-10-19 00:00:00,1200,1600,1500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-10-22 00:00:00,1200,1600,1500.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-11-01 00:00:00,1000,1400,1100.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-11-12 00:00:00,1000,1400,1200.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-11-16 00:00:00,1000,1400,1200.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-11-22 00:00:00,1200,1500,1400.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-11-29 00:00:00,1200,1600,1400.0,34
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,2017-12-31 00:00:00,1000,1400,1200.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-01-01 00:00:00,200,300,250.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-01-10 00:00:00,200,300,250.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-01-13 00:00:00,150,200,175.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-01-22 00:00:00,200,500,350.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-04-01 00:00:00,300,700,500.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-04-02 00:00:00,400,600,500.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-06-18 00:00:00,1100,1800,1450.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-07-14 00:00:00,700,2500,1600.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-08-06 00:00:00,900,3000,1800.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-08-08 00:00:00,600,3000,2000.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-08-10 00:00:00,1800,3300,2700.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-08-19 00:00:00,2000,3500,2500.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-08-22 00:00:00,1400,3700,2800.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-09-05 00:00:00,2200,3800,3000.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-09-06 00:00:00,2000,4000,3000.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-09-09 00:00:00,2000,4000,3100.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-09-15 00:00:00,2000,3500,2800.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-09-19 00:00:00,1300,3000,2300.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-09-20 00:00:00,1400,3500,2800.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-09-29 00:00:00,1000,2000,1600.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-10-09 00:00:00,600,1500,1000.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-11-02 00:00:00,1000,1600,1400.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-11-05 00:00:00,1100,1500,1300.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-11-06 00:00:00,1100,1500,1300.0,34
+Haryana,Ambala,Ambala City,Cauliflower,Cauliflower,FAQ,2017-11-07 00:00:00,150,650,500.0,34

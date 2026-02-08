@@ -3591,81 +3591,366 @@ Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-04-28 00:00:00,3650.
 Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-05-04 00:00:00,3701.0,3701.0,3701.0,256
 Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-07-07 00:00:00,4000.0,4000.0,4000.0,256
 Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-12-31 00:00:00,3650.0,3650.0,3650.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-03-27 00:00:00,3900,3900,3900.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-04-24 00:00:00,3981,3981,3981.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-05-08 00:00:00,2800,4000,3500.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-05-10 00:00:00,4000,4000,4000.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-05-18 00:00:00,3000,3000,3000.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-05-19 00:00:00,2725,2725,2725.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-06-08 00:00:00,2701,2701,2701.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-09-01 00:00:00,3000,3000,3000.0,256
-Rajasthan,Nagaur,Degana,Isabgul (Psyllium),Other,FAQ,2010-10-18 00:00:00,4300,4300,4300.0,256
-Rajasthan,Nagaur,Kuchaman City,Isabgul (Psyllium),Other,FAQ,2010-03-23 00:00:00,4075,4075,4075.0,256
-Rajasthan,Nagaur,Kuchaman City,Isabgul (Psyllium),Other,FAQ,2010-08-06 00:00:00,4800,4800,4800.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-04-09 00:00:00,3500,4500,4000.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-04-10 00:00:00,3500,4500,4000.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-04-14 00:00:00,3500,4500,4000.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-04-20 00:00:00,3500,4500,4000.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-04-22 00:00:00,3500,4500,4000.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-05-05 00:00:00,400,4500,4250.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-05-08 00:00:00,4000,4500,4250.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-05-16 00:00:00,4000,4500,4250.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-06-05 00:00:00,4100,4700,4400.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-06-11 00:00:00,4100,4700,4400.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-06-23 00:00:00,4150,4650,4400.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-06-24 00:00:00,4000,4600,4300.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-06-26 00:00:00,4000,4600,4300.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-06-29 00:00:00,4121,4450,4285.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-07-05 00:00:00,4000,4400,4200.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-07-09 00:00:00,400,4450,4225.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-07-14 00:00:00,4000,4030,4015.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-07-17 00:00:00,4000,4600,4300.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-07-29 00:00:00,4300,4800,4550.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-08-01 00:00:00,4400,4900,4650.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-08-05 00:00:00,4300,4800,4550.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-08-12 00:00:00,4300,4700,4500.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-08-13 00:00:00,4350,4800,4575.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-08-24 00:00:00,4475,4725,4625.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-08-27 00:00:00,4350,4750,4550.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-09-01 00:00:00,4350,4750,4550.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-09-02 00:00:00,4350,4550,4450.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-09-07 00:00:00,4350,4750,4550.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-09-09 00:00:00,4050,4575,4325.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-09-24 00:00:00,4150,4350,4250.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-10-01 00:00:00,4100,4600,4350.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-10-06 00:00:00,4000,4500,4250.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-10-19 00:00:00,4000,4500,4250.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-10-21 00:00:00,4300,4400,4350.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-10-24 00:00:00,4300,4400,4350.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-11-03 00:00:00,4150,4450,4300.0,256
-Rajasthan,Nagaur,Merta City,Isabgul (Psyllium),Other,FAQ,2010-11-10 00:00:00,4100,4500,4300.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-03-10 00:00:00,4550,4671,4660.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-03-15 00:00:00,3801,4601,4201.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-03-22 00:00:00,4000,5500,4750.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-07-16 00:00:00,4100,4440,4270.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-09-21 00:00:00,3350,4361,3856.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-10-13 00:00:00,4300,4750,4525.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-10-25 00:00:00,4000,4800,4400.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-11-23 00:00:00,4000,4600,4300.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-12-09 00:00:00,4000,4700,4350.0,256
-Rajasthan,Nagaur,Nagaur,Isabgul (Psyllium),Other,FAQ,2010-12-10 00:00:00,4100,4700,4400.0,256
-Rajasthan,Nagaur,Nagaur(Jayal),Isabgul (Psyllium),Other,FAQ,2010-08-16 00:00:00,4300,4500,4400.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-03-05 00:00:00,4100,4100,4100.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-03-06 00:00:00,4200,4200,4200.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-03-10 00:00:00,4300,4390,4345.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-03-11 00:00:00,4250,4500,4375.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-03-15 00:00:00,4001,4500,4251.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-03-16 00:00:00,3722,4300,4011.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-04-20 00:00:00,3680,3810,3745.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-05-25 00:00:00,4000,4300,4150.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-06-01 00:00:00,4425,4425,4425.0,256
-Rajasthan,Pali,Jaitaran,Isabgul (Psyllium),Other,FAQ,2010-06-03 00:00:00,4300,4300,4300.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-03-10 00:00:00,3301,4431,3301.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-03-26 00:00:00,4100,4100,4100.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-04-10 00:00:00,3950,3960,3960.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-04-15 00:00:00,3815,3815,3815.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-04-26 00:00:00,4020,4020,4020.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-04-28 00:00:00,3650,4051,4051.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-05-04 00:00:00,3701,3701,3701.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-07-07 00:00:00,4000,4000,4000.0,256
-Rajasthan,Pali,Sojat Road,Isabgul (Psyllium),Other,FAQ,2010-12-31 00:00:00,3650,3650,3650.0,256
+Gujarat,Amreli,Amreli,Isabgul (Psyllium),Other,FAQ,2010-04-08 00:00:00,4005,4005,4005.0,256
+Gujarat,Amreli,Amreli,Isabgul (Psyllium),Other,FAQ,2010-06-25 00:00:00,3950,3950,3950.0,256
+Gujarat,Amreli,Amreli,Isabgul (Psyllium),Other,FAQ,2010-07-20 00:00:00,2400,4025,4025.0,256
+Gujarat,Amreli,Amreli,Isabgul (Psyllium),Other,FAQ,2010-10-12 00:00:00,4500,4500,4500.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-03-26 00:00:00,4250,4800,4525.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-01 00:00:00,4000,4550,4275.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-30 00:00:00,3725,4150,3935.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-04 00:00:00,3650,4250,3950.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-11 00:00:00,3750,4400,4075.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-12 00:00:00,3750,4400,4075.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-13 00:00:00,3700,4400,4050.0,256
+Gujarat,Banaskanth,Bhabhar,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-29 00:00:00,4200,4800,4500.0,256
+Gujarat,Banaskanth,Deesa(Bhildi),Isabgul (Psyllium),Other,FAQ,2010-03-26 00:00:00,4300,4560,4300.0,256
+Gujarat,Banaskanth,Deesa(Bhildi),Isabgul (Psyllium),Other,FAQ,2010-04-01 00:00:00,4075,4075,4075.0,256
+Gujarat,Banaskanth,Deesa(Bhildi),Isabgul (Psyllium),Other,FAQ,2010-04-16 00:00:00,3500,4500,4350.0,256
+Gujarat,Banaskanth,Deesa(Bhildi),Isabgul (Psyllium),Other,FAQ,2010-04-21 00:00:00,4205,4205,4205.0,256
+Gujarat,Banaskanth,Deesa(Bhildi),Isabgul (Psyllium),Other,FAQ,2010-05-20 00:00:00,3900,3900,3900.0,256
+Gujarat,Banaskanth,Deesa(Bhildi),Isabgul (Psyllium),Other,FAQ,2010-05-25 00:00:00,3750,3750,3750.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-01-01 00:00:00,6105,6105,6105.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-01-16 00:00:00,5000,5000,5000.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-01-18 00:00:00,5205,5205,5205.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-01-21 00:00:00,5000,5325,5162.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-01-22 00:00:00,4255,5940,5097.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-02-09 00:00:00,4750,4750,4750.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-02-19 00:00:00,4685,4685,4685.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-03-11 00:00:00,3505,4725,4115.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-03-23 00:00:00,3750,5105,4427.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-03-26 00:00:00,4000,5025,4512.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-04-10 00:00:00,4000,5030,4515.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-04-20 00:00:00,4000,4850,4425.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-05-03 00:00:00,4100,4810,4455.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-05-14 00:00:00,4000,4630,4315.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-06-09 00:00:00,3260,4755,4007.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-06-14 00:00:00,4105,4850,4477.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-06-25 00:00:00,4135,4595,4365.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-07-09 00:00:00,4125,4745,4435.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-07-16 00:00:00,4075,4680,4377.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-07-31 00:00:00,4150,4820,4485.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-08-07 00:00:00,3705,4775,4240.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-08-20 00:00:00,4050,4700,4375.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-08-21 00:00:00,4465,4695,4580.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-09-25 00:00:00,4110,4635,4372.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-10-01 00:00:00,4075,4625,4350.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-10-04 00:00:00,3605,4755,4180.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-10-06 00:00:00,4220,4750,4485.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-10-18 00:00:00,4000,4805,4402.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-10-19 00:00:00,3575,5000,4287.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-10-25 00:00:00,3800,4700,4250.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-11-01 00:00:00,4000,4705,4352.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-11-10 00:00:00,3900,4625,4262.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-11-30 00:00:00,3275,4755,4015.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-01 00:00:00,3750,4600,4175.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-02 00:00:00,4450,4500,4475.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-04 00:00:00,4415,4650,4532.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-07 00:00:00,4250,4755,4502.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-10 00:00:00,4250,4725,4487.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-14 00:00:00,3955,4770,4362.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-22 00:00:00,4300,4800,4550.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2010-12-23 00:00:00,3750,4760,4255.0,256
+Gujarat,Banaskanth,Palanpur,Isabgul (Psyllium),Other,FAQ,2010-04-30 00:00:00,3300,4480,4250.0,256
+Gujarat,Banaskanth,Palanpur,Isabgul (Psyllium),Other,FAQ,2010-05-04 00:00:00,3500,4350,4000.0,256
+Gujarat,Banaskanth,Palanpur,Isabgul (Psyllium),Other,FAQ,2010-05-05 00:00:00,3575,4465,3850.0,256
+Gujarat,Banaskanth,Panthawada,Isabgul (Psyllium),Other,FAQ,2010-04-03 00:00:00,2655,4105,3880.0,256
+Gujarat,Banaskanth,Panthawada,Isabgul (Psyllium),Other,FAQ,2010-04-06 00:00:00,3875,4200,4037.5,256
+Gujarat,Banaskanth,Panthawada,Isabgul (Psyllium),Other,FAQ,2010-04-17 00:00:00,3835,4050,3942.5,256
+Gujarat,Banaskanth,Panthawada,Isabgul (Psyllium),Other,FAQ,2010-04-20 00:00:00,3750,4050,3900.0,256
+Gujarat,Banaskanth,Panthawada,Isabgul (Psyllium),Other,FAQ,2010-04-27 00:00:00,3610,3880,3745.0,256
+Gujarat,Banaskanth,Panthawada,Isabgul (Psyllium),Other,FAQ,2010-04-30 00:00:00,3905,4100,4002.5,256
+Gujarat,Banaskanth,Panthawada,Isabgul (Psyllium),Other,FAQ,2010-05-19 00:00:00,4020,4195,4107.5,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-01-02 00:00:00,6500,6855,6680.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-01-04 00:00:00,6000,6605,6600.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-01-20 00:00:00,6000,6350,6200.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-01-21 00:00:00,5000,6000,5840.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-02-05 00:00:00,5000,5500,5300.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-03-18 00:00:00,4000,5325,5000.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-03-23 00:00:00,4505,4600,4550.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-04-07 00:00:00,4500,5000,4750.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-04-09 00:00:00,4250,4880,4565.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-04-22 00:00:00,4300,5000,4950.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-04-23 00:00:00,4300,5105,4910.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-04-27 00:00:00,4055,4805,4500.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-06-07 00:00:00,4575,5175,5000.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-06-11 00:00:00,4875,5000,4980.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-06-18 00:00:00,4750,5100,5000.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-07-03 00:00:00,4450,4805,4710.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-10-14 00:00:00,4750,4800,4800.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-10-15 00:00:00,4625,4900,4850.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-10-28 00:00:00,4600,5025,4900.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-11-12 00:00:00,4525,5005,4870.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-11-17 00:00:00,4800,4850,4825.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-12-02 00:00:00,4585,4600,4595.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-12-14 00:00:00,4600,4875,4800.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-12-25 00:00:00,4900,5000,5000.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-12-28 00:00:00,4900,5065,5000.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2010-12-30 00:00:00,4950,5075,5000.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-04-02 00:00:00,4750,5125,5000.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-04-03 00:00:00,4750,5000,4900.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-04-08 00:00:00,4000,4750,4500.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-04-09 00:00:00,4250,4650,4500.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-04-12 00:00:00,4250,5000,4700.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-05-03 00:00:00,4150,4600,4510.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-05-04 00:00:00,4000,4650,4500.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-05-06 00:00:00,4000,4600,4400.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-05-08 00:00:00,4000,4550,4450.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-05-14 00:00:00,4250,4500,4400.0,256
+Gujarat,Banaskanth,Tharad(Rah),Isabgul (Psyllium),Other,FAQ,2010-05-21 00:00:00,4300,4600,4500.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-03-19 00:00:00,3000,3000,3000.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-01 00:00:00,4355,4355,4355.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-06 00:00:00,3755,4135,3945.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-12 00:00:00,4025,4175,4100.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-16 00:00:00,3755,3755,3755.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-19 00:00:00,3025,4045,3535.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-22 00:00:00,3625,3625,3625.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-27 00:00:00,3605,4125,3865.0,256
+Gujarat,Banaskanth,Vadgam,Isabgul (Psyllium),Other,FAQ,2010-10-06 00:00:00,3705,3705,3705.0,256
+Gujarat,Jamnagar,Jamnagar,Isabgul (Psyllium),Other,FAQ,2010-05-14 00:00:00,3500,3760,3630.0,256
+Gujarat,Jamnagar,Jamnagar,Isabgul (Psyllium),Other,FAQ,2010-05-20 00:00:00,2750,3125,3000.0,256
+Gujarat,Jamnagar,Jamnagar,Isabgul (Psyllium),Other,FAQ,2010-07-10 00:00:00,4000,4120,4060.0,256
+Gujarat,Jamnagar,Jamnagar,Isabgul (Psyllium),Other,FAQ,2010-10-14 00:00:00,3500,3825,3750.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-05-03 00:00:00,600,780,710.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-05-12 00:00:00,720,815,775.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-05-20 00:00:00,700,847,780.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-05-25 00:00:00,750,869,840.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-05-27 00:00:00,750,803,785.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-06-04 00:00:00,805,860,825.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-06-05 00:00:00,750,840,795.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-06-18 00:00:00,3500,4075,3900.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-07-24 00:00:00,3750,4250,4000.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-08-28 00:00:00,3900,4275,4000.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-09-14 00:00:00,3750,4470,4125.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-10-27 00:00:00,2500,3850,3250.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-11-25 00:00:00,3500,4060,3780.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-12-06 00:00:00,4000,4260,4150.0,256
+Gujarat,Junagarh,Junagadh,Isabgul (Psyllium),Other,FAQ,2010-12-20 00:00:00,3750,4355,4000.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-01-12 00:00:00,4345,5605,4975.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-02-22 00:00:00,3735,4765,4250.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-02-24 00:00:00,3760,4740,4250.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-03-09 00:00:00,3955,4665,4310.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-03-10 00:00:00,3750,4640,4195.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-03-19 00:00:00,3500,3930,3715.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-03-20 00:00:00,3625,3955,3790.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-04-05 00:00:00,3750,4050,3900.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-04-10 00:00:00,3500,3800,3650.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-04-19 00:00:00,3240,3630,3435.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-04-27 00:00:00,3200,3710,3455.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-05-03 00:00:00,3565,3935,3750.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-05-17 00:00:00,3455,3955,3705.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-05-19 00:00:00,3625,4015,3820.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-06-01 00:00:00,3730,4100,3915.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-06-08 00:00:00,3760,4000,3880.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-06-10 00:00:00,3760,4130,3945.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-06-11 00:00:00,3730,4000,3865.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-06-12 00:00:00,3750,4050,3900.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-06-17 00:00:00,3680,4050,3865.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-07-28 00:00:00,3500,4060,3780.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-08-14 00:00:00,3900,4250,4075.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-09-07 00:00:00,3840,4060,3950.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-09-15 00:00:00,3815,4005,3910.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-10-04 00:00:00,3000,3900,3450.0,256
+Gujarat,Junagarh,Visavadar,Isabgul (Psyllium),Other,FAQ,2010-10-25 00:00:00,3780,4190,3985.0,256
+Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2010-04-02 00:00:00,4000,4002,4002.0,256
+Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2010-04-10 00:00:00,4000,4265,4265.0,256
+Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2010-04-28 00:00:00,3887,3980,3980.0,256
+Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2010-05-26 00:00:00,3827,3827,3827.0,256
+Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2010-12-01 00:00:00,4500,4500,4500.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-03-29 00:00:00,3600,4420,4010.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-04-03 00:00:00,3875,4645,4260.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-04-07 00:00:00,4002,4677,4339.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-04-09 00:00:00,3262,4510,3886.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-04-26 00:00:00,2500,4175,3337.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-05-11 00:00:00,3250,4602,3926.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-05-24 00:00:00,4000,4762,4381.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-05-26 00:00:00,3685,4625,4125.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-05-28 00:00:00,3212,4777,3994.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-05-31 00:00:00,4150,5000,4575.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-06-01 00:00:00,4375,5060,4717.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-06-10 00:00:00,4000,4750,4375.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-06-18 00:00:00,3750,4500,4125.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-06-23 00:00:00,3805,4560,4182.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-06-29 00:00:00,3750,4625,4187.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-07-23 00:00:00,3500,4562,4031.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-08-11 00:00:00,3875,4610,4242.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-08-16 00:00:00,3875,4615,4245.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-08-17 00:00:00,3625,4625,4125.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Other,FAQ,2010-11-10 00:00:00,3500,4487,3993.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-01-18 00:00:00,5000,5000,5000.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-03-23 00:00:00,4000,4135,4070.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-03-31 00:00:00,3000,4375,4240.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-04-08 00:00:00,4080,4080,4080.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-04-13 00:00:00,3315,4180,4080.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-04-17 00:00:00,3475,4375,3855.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-04-22 00:00:00,3250,4445,4135.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-04-27 00:00:00,4060,4360,4235.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-04-28 00:00:00,3610,4430,4275.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-04-30 00:00:00,3525,4255,4165.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-05-04 00:00:00,3325,3905,3810.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-05-10 00:00:00,3500,3725,3615.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-05-11 00:00:00,4475,4475,4475.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-05-14 00:00:00,3110,4000,3555.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-05-17 00:00:00,4125,4125,4125.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-05-29 00:00:00,3675,4485,4080.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-06-02 00:00:00,3810,4150,4140.0,256
+Gujarat,Kachchh,Rapar,Isabgul (Psyllium),Other,FAQ,2010-06-04 00:00:00,4250,4250,4250.0,256
+Gujarat,Mehsana,Kadi,Isabgul (Psyllium),Other,FAQ,2010-06-18 00:00:00,4000,4290,4175.0,256
+Gujarat,Mehsana,Kadi,Isabgul (Psyllium),Other,FAQ,2010-06-19 00:00:00,4125,4125,4125.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-01-01 00:00:00,6205,7070,6205.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-01-02 00:00:00,6255,7000,6255.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-01-04 00:00:00,6200,7025,6300.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-01-05 00:00:00,6155,7000,6250.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-01-12 00:00:00,5150,6860,6050.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-01-21 00:00:00,5625,6935,5975.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-01-25 00:00:00,4980,6855,5950.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-02-01 00:00:00,5200,6275,5750.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-02-22 00:00:00,4405,5130,5075.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-02-23 00:00:00,4660,5275,5050.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-02-26 00:00:00,4600,5125,5050.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-03-18 00:00:00,4105,5155,4850.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-03-20 00:00:00,3625,5020,4850.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-03-23 00:00:00,3650,5205,4750.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-02 00:00:00,3750,5120,4650.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-15 00:00:00,3805,5050,4350.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-20 00:00:00,2875,4975,4375.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-22 00:00:00,3375,5000,4300.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-23 00:00:00,3605,4895,4325.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-06 00:00:00,4070,5030,4325.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-31 00:00:00,4255,5255,4625.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-06-10 00:00:00,4125,5215,4500.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-06-11 00:00:00,4375,5255,4525.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-06-12 00:00:00,4000,5130,4500.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-06-18 00:00:00,4135,5100,4425.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-03 00:00:00,4200,5195,4400.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-06 00:00:00,4125,5230,4350.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-08 00:00:00,4375,5225,4400.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-12 00:00:00,4150,5255,4450.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-14 00:00:00,4150,5260,4400.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-15 00:00:00,4175,5325,4425.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-20 00:00:00,4360,5455,4400.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-21 00:00:00,4425,5555,4425.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-26 00:00:00,4475,4905,4650.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-07 00:00:00,4205,4990,4575.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-09 00:00:00,4050,5190,4600.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-18 00:00:00,4155,5140,4775.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-30 00:00:00,4455,5100,4750.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-14 00:00:00,4525,5000,4700.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-16 00:00:00,4460,4655,4650.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-23 00:00:00,4000,4750,4600.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-24 00:00:00,4285,4750,4575.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-28 00:00:00,4255,4800,4600.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-29 00:00:00,4290,4800,4625.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-30 00:00:00,4000,5000,4650.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-05 00:00:00,4175,5080,4600.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-06 00:00:00,4305,4855,4550.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-09 00:00:00,4400,5450,4600.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-14 00:00:00,4480,5165,4650.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-15 00:00:00,4340,5180,4625.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-30 00:00:00,4155,5280,5000.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-12 00:00:00,4375,5145,4950.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-22 00:00:00,4455,5000,4875.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-27 00:00:00,4590,5145,4900.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-30 00:00:00,4540,5030,4825.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-07 00:00:00,4405,5205,4775.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-16 00:00:00,4100,4961.25,4775.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-20 00:00:00,4450,5075,4725.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-22 00:00:00,4575,5105,4775.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-28 00:00:00,4400,5125,4750.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-29 00:00:00,4305,5165,4800.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-31 00:00:00,4635,5265,4750.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-04-07 00:00:00,3500,3980,3750.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-04-13 00:00:00,3125,4000,3625.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-04-15 00:00:00,3250,3780,3500.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-04-19 00:00:00,3305,4065,3750.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-04-21 00:00:00,3505,4000,3750.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-05-12 00:00:00,3505,3690,3625.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-06-08 00:00:00,3105,3500,3325.0,256
+Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2010-07-12 00:00:00,4575,5270,5150.0,256
+Gujarat,Morbi,Vankaner,Isabgul (Psyllium),Other,FAQ,2010-04-16 00:00:00,3590,3830,3780.0,256
+Gujarat,Morbi,Vankaner,Isabgul (Psyllium),Other,FAQ,2010-04-17 00:00:00,3700,3750,3725.0,256
+Gujarat,Morbi,Vankaner,Isabgul (Psyllium),Other,FAQ,2010-12-22 00:00:00,2000,2000,2000.0,256
+Gujarat,Morbi,Vankaner,Isabgul (Psyllium),Other,FAQ,2010-12-28 00:00:00,4255,4255,4255.0,256
+Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2010-04-20 00:00:00,3750,4720,4300.0,256
+Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2010-04-26 00:00:00,3750,4590,4200.0,256
+Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2010-05-08 00:00:00,3500,4675,4200.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Other,FAQ,2010-04-08 00:00:00,3505,4550,4250.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Other,FAQ,2010-04-15 00:00:00,3500,4325,3800.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Other,FAQ,2010-06-07 00:00:00,3575,4350,4175.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Other,FAQ,2010-07-14 00:00:00,3950,4600,4250.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-03-16 00:00:00,4000,4000,4000.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-03-20 00:00:00,4500,4500,4500.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-04-01 00:00:00,2875,4455,3665.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-04-09 00:00:00,3775,4925,4350.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-04-10 00:00:00,3050,4875,3960.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-04-29 00:00:00,3955,4855,4405.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-04-30 00:00:00,4000,4855,4425.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-05-15 00:00:00,4125,4405,4265.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-05-18 00:00:00,4185,4775,4480.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-05-20 00:00:00,4335,4955,4645.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-06-16 00:00:00,3625,4500,4060.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-06-21 00:00:00,4805,4805,4805.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Other,FAQ,2010-07-03 00:00:00,4500,4925,4710.0,256
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-15 00:00:00,3005,3430,3255.0,256
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-17 00:00:00,3250,3605,3500.0,256
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-22 00:00:00,1250,1505,1385.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-02-18 00:00:00,4500,4500,4500.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-03-09 00:00:00,4400,4485,4450.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-03-11 00:00:00,4355,4476,4430.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Other,FAQ,2010-03-19 00:00:00,3600,4030,4000.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Other,FAQ,2010-03-20 00:00:00,3200,4130,3900.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Other,FAQ,2010-03-27 00:00:00,3300,4081,3900.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Other,FAQ,2010-04-09 00:00:00,3450,4010,3800.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Other,FAQ,2010-04-18 00:00:00,3600,4075,3900.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Other,FAQ,2010-04-20 00:00:00,4150,4150,4150.0,256
+Madhya Pradesh,Mandsaur,Piplya,Isabgul (Psyllium),Other,FAQ,2010-04-21 00:00:00,3900,4250,4100.0,256
+Madhya Pradesh,Neemuch,Javad,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-13 00:00:00,3500,3500,3500.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-02-24 00:00:00,4000,5100,4800.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-07 00:00:00,3000,4672,4200.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-21 00:00:00,2800,4660,4400.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-04-29 00:00:00,1900,4670,4400.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-06 00:00:00,3500,4640,4150.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-10 00:00:00,3000,4700,4200.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-11 00:00:00,2900,4711,4250.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-15 00:00:00,3000,4651,4250.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-18 00:00:00,2800,4640,4250.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-22 00:00:00,3950,5000,4200.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-05-24 00:00:00,2900,4700,4100.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-06-24 00:00:00,3000,4700,4450.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-02 00:00:00,3451,4630,4300.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-06 00:00:00,3650,4740,4350.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-07 00:00:00,4000,4811,4350.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-13 00:00:00,3300,5030,4550.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-07-22 00:00:00,2771,5432,4700.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-14 00:00:00,3850,5011,4700.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-25 00:00:00,3733,4950,4550.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-08-31 00:00:00,3600,4990,4700.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-07 00:00:00,3000,4882,4430.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-20 00:00:00,3251,4600,4250.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-09-27 00:00:00,3800,4700,4200.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-21 00:00:00,3839,4781,4500.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-10-30 00:00:00,3500,5151,4650.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-01 00:00:00,3200,4951,4290.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-02 00:00:00,3600,4751,4200.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-22 00:00:00,3103,4921,4781.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-25 00:00:00,3300,5036,4800.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-11-30 00:00:00,4000,4970,4800.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-08 00:00:00,4150,5133,4750.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-09 00:00:00,4371,5141,4750.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-20 00:00:00,4100,5210,4650.0,256
+Madhya Pradesh,Neemuch,Neemuch,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2010-12-31 00:00:00,4000,5000,4800.0,256
+Rajasthan,Jalore,Sanchore,Isabgul (Psyllium),Other,FAQ,2010-04-22 00:00:00,4000,4200,4100.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-01-04 00:00:00,6000,6500,6250.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-03-28 00:00:00,4000,4500,4250.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-04-16 00:00:00,4100,4150,4125.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-05-01 00:00:00,4000,4300,4150.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-05-03 00:00:00,4000,4300,4150.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-05-07 00:00:00,4100,4400,4250.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-05-16 00:00:00,4000,4300,4150.0,256
+Rajasthan,Jodhpur,Bhagat Ki Kothi,Isabgul (Psyllium),Other,FAQ,2010-11-01 00:00:00,4200,4350,4275.0,256
+Rajasthan,Jodhpur,Bhagat Kii Phalodi,Isabgul (Psyllium),Other,FAQ,2010-08-20 00:00:00,0,0,4300.0,256
+Rajasthan,Jodhpur,Bhagat Kii Phalodi,Isabgul (Psyllium),Other,FAQ,2010-09-22 00:00:00,0,0,4050.0,256
+Rajasthan,Jodhpur,Jodhpur (Grain),Isabgul (Psyllium),Other,FAQ,2010-06-09 00:00:00,4200,4600,4400.0,256
+Rajasthan,Jodhpur,Jodhpur (Grain),Isabgul (Psyllium),Other,FAQ,2010-06-11 00:00:00,4200,4600,4400.0,256
+Rajasthan,Jodhpur,Jodhpur (Grain),Isabgul (Psyllium),Other,FAQ,2010-06-24 00:00:00,4100,4500,4200.0,256
+Rajasthan,Jodhpur,Jodhpur (Grain),Isabgul (Psyllium),Other,FAQ,2010-07-21 00:00:00,4200,4300,4250.0,256
+Rajasthan,Jodhpur,Jodhpur (Grain),Isabgul (Psyllium),Other,FAQ,2010-08-12 00:00:00,4000,4600,4300.0,256
