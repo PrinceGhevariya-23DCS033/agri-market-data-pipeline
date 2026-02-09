@@ -6955,82 +6955,649 @@ Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2009-12-13 00:00:00,4000.0,5500.0,4750.0,298
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2009-12-14 00:00:00,5000.0,6000.0,5500.0,298
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2009-12-21 00:00:00,5250.0,6000.0,5500.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-01-04 00:00:00,2000,2400,2200.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-01-11 00:00:00,2000,2750,2375.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-01-15 00:00:00,2000,2300,2150.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-01-18 00:00:00,1500,2000,1750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-01-21 00:00:00,1500,1800,1650.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-01-28 00:00:00,2000,2250,2125.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-02-03 00:00:00,1250,1500,1375.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-02-06 00:00:00,1000,1100,1050.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-02-08 00:00:00,1000,1300,1150.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-02-26 00:00:00,900,1000,950.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-03-03 00:00:00,1200,1300,1250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-03-09 00:00:00,1200,1300,1250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-03-19 00:00:00,2000,2200,2100.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-03-23 00:00:00,1500,2000,1750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-04-01 00:00:00,1500,2000,1750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-04-15 00:00:00,1400,1750,1575.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-05-14 00:00:00,2000,5000,3500.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-06-08 00:00:00,3500,4000,3750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-06-16 00:00:00,4500,5000,4750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-06-19 00:00:00,4500,5000,4750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-07-17 00:00:00,2500,3000,2750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-08-03 00:00:00,3500,4000,3750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-08-05 00:00:00,3000,3500,3250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-08-06 00:00:00,2000,2500,2250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-08-07 00:00:00,2000,2500,2250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-08-09 00:00:00,2000,2500,2250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-08-19 00:00:00,1000,1100,1050.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-08-31 00:00:00,500,700,600.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-09-09 00:00:00,1000,1200,1100.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-09-14 00:00:00,1500,2000,1750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-09-15 00:00:00,2500,3000,2750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-09-17 00:00:00,2000,2500,2250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-09-30 00:00:00,1750,2000,1875.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-11-02 00:00:00,3000,3250,3125.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-11-08 00:00:00,3250,3500,3375.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-11-15 00:00:00,2500,3000,2750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-11-19 00:00:00,2000,2500,2250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-11-29 00:00:00,4000,4500,4250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-12-04 00:00:00,3000,3250,3125.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-12-13 00:00:00,3500,4000,3750.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-12-15 00:00:00,4000,4500,4250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-12-28 00:00:00,3000,3500,3250.0,298
-Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2010-12-29 00:00:00,3000,3500,3250.0,298
-Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2010-01-05 00:00:00,1125,1200,1162.0,298
-Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2010-01-13 00:00:00,1500,1750,1625.0,298
-Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2010-01-20 00:00:00,1000,1100,1050.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-01-11 00:00:00,2500,3900,2700.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-01-19 00:00:00,2500,3000,2750.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-02-03 00:00:00,1100,1600,1400.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-02-15 00:00:00,1000,1500,1250.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-02-18 00:00:00,1000,1500,1250.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-02-23 00:00:00,1000,1200,1125.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-03-03 00:00:00,1200,1500,1350.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-03-13 00:00:00,1250,2000,1650.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-03-31 00:00:00,1750,2250,1950.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-04-01 00:00:00,1700,2200,1900.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-04-05 00:00:00,1600,2400,2000.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-04-16 00:00:00,1500,2250,1875.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-04-18 00:00:00,1500,2500,2000.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-04-27 00:00:00,2000,2500,2300.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-05-01 00:00:00,2000,3000,2500.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-05-10 00:00:00,4000,5000,4500.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-05-14 00:00:00,3000,4500,3750.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-06-02 00:00:00,3000,3500,3200.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-06-05 00:00:00,2250,3000,2625.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-06-13 00:00:00,1500,2500,2000.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-06-15 00:00:00,3500,4000,3800.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-06-20 00:00:00,2000,3000,2500.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-06-28 00:00:00,3500,4000,3750.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-06-30 00:00:00,3500,4000,3750.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-07-02 00:00:00,2300,3300,2850.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-07-09 00:00:00,3000,3500,3250.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-07-17 00:00:00,1500,2500,2000.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-07-20 00:00:00,2000,2600,2300.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-12-06 00:00:00,2250,3000,2625.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-12-22 00:00:00,3000,3500,3200.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-12-27 00:00:00,2300,3400,2900.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-12-28 00:00:00,2400,3500,3000.0,298
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2010-12-30 00:00:00,2400,3500,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2011-06-14 00:00:00,2500.0,3000.0,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2011-09-23 00:00:00,2350.0,4000.0,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2011-10-15 00:00:00,2500.0,2500.0,2500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2011-11-16 00:00:00,3500.0,4000.0,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2011-11-23 00:00:00,2500.0,3000.0,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2011-11-29 00:00:00,2500.0,3500.0,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2011-12-19 00:00:00,2500.0,3000.0,3000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-01-04 00:00:00,2100.0,2250.0,2175.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-01-06 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-01-19 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-01-20 00:00:00,1250.0,1500.0,1375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-01-25 00:00:00,1250.0,1600.0,1425.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-02-18 00:00:00,1500.0,1750.0,1625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-02-28 00:00:00,1250.0,1400.0,1325.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-03-05 00:00:00,800.0,1100.0,950.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-03-10 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-03-16 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-03-19 00:00:00,1500.0,1700.0,1600.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-03-29 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-04-11 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-04-19 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-04-21 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-04-22 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-04-28 00:00:00,1750.0,2000.0,1875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-05-23 00:00:00,5000.0,6000.0,5500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-05-30 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-06-06 00:00:00,3000.0,3500.0,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-06-07 00:00:00,4000.0,4250.0,4125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-06-13 00:00:00,3500.0,4000.0,3750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-07-01 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-07-02 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-07-07 00:00:00,2250.0,2750.0,2500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-07-08 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-07-11 00:00:00,1000.0,2000.0,1500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-07-22 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-08-02 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-08-05 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-08-08 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-08-30 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-08-31 00:00:00,1750.0,2000.0,1875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-09-05 00:00:00,1250.0,1500.0,1375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-09-08 00:00:00,1250.0,1500.0,1375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-09-09 00:00:00,1000.0,1300.0,1150.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-09-13 00:00:00,1250.0,1500.0,1375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-09-17 00:00:00,2250.0,2500.0,2375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-09-30 00:00:00,1250.0,1500.0,1375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-10-03 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-10-13 00:00:00,1000.0,1300.0,1150.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-11-17 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-11-18 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-11-24 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-11-26 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-12-01 00:00:00,1250.0,1750.0,1500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-12-07 00:00:00,1200.0,1500.0,1350.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-12-10 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-12-16 00:00:00,1500.0,1750.0,1625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-12-23 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2011-12-24 00:00:00,1500.0,1800.0,1650.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2011-01-16 00:00:00,800.0,1200.0,1000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2011-03-15 00:00:00,500.0,1000.0,750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-01-08 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-01-18 00:00:00,1900.0,2900.0,2250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-01-28 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-01-30 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-02-07 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-02-13 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-02-17 00:00:00,2000.0,2600.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-02-19 00:00:00,2000.0,2800.0,2400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-02-24 00:00:00,1500.0,2100.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-03-01 00:00:00,1750.0,2100.0,1900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-03-07 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-03-18 00:00:00,1800.0,2400.0,2100.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-03-26 00:00:00,1600.0,2100.0,1850.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-03-28 00:00:00,1600.0,1900.0,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-03-29 00:00:00,1500.0,1800.0,1650.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-04-06 00:00:00,2000.0,2400.0,2200.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-04-12 00:00:00,3400.0,3900.0,3650.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-04-15 00:00:00,3100.0,3500.0,3300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-05-09 00:00:00,1200.0,1500.0,1350.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-05-10 00:00:00,1200.0,1550.0,1400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-05-22 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-05-23 00:00:00,2100.0,2600.0,2350.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-06-05 00:00:00,2250.0,2500.0,2375.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-06-17 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-06-27 00:00:00,2000.0,2750.0,2375.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-07-03 00:00:00,2000.0,2750.0,2375.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-07-16 00:00:00,1750.0,2250.0,2000.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-07-22 00:00:00,2000.0,3000.0,2500.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-07-28 00:00:00,2000.0,2750.0,2375.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-07-31 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-02 00:00:00,2000.0,2900.0,2450.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-03 00:00:00,2300.0,2900.0,2600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-04 00:00:00,2250.0,2500.0,2375.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-11 00:00:00,2000.0,2250.0,2125.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-12 00:00:00,2250.0,2500.0,2375.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-20 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-26 00:00:00,1500.0,2000.0,1850.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-08-30 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-09-10 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-09-25 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-03 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-07 00:00:00,1200.0,1500.0,1400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-10 00:00:00,1200.0,1500.0,1400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-11 00:00:00,1200.0,1500.0,1400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-12 00:00:00,1200.0,1600.0,1450.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-13 00:00:00,1200.0,1600.0,1450.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-16 00:00:00,1200.0,1500.0,1400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-22 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-10-31 00:00:00,4000.0,5000.0,4650.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-01 00:00:00,3500.0,4000.0,3800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-02 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-06 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-07 00:00:00,2500.0,3000.0,2750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-08 00:00:00,2500.0,3000.0,2800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-10 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-12 00:00:00,3500.0,4000.0,3800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-15 00:00:00,2500.0,3500.0,3000.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-11-19 00:00:00,2000.0,2750.0,2400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-04 00:00:00,1500.0,1750.0,1650.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-07 00:00:00,1400.0,1700.0,1575.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-12 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-13 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-17 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-18 00:00:00,1700.0,2000.0,1900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-23 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2011-12-29 00:00:00,1750.0,2250.0,2050.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-10-18 00:00:00,7000.0,9000.0,8000.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-10-22 00:00:00,6000.0,9000.0,8000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2024-10-03 00:00:00,5000.0,5000.0,5000.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-10-26 00:00:00,6000.0,7000.0,6500.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-11-28 00:00:00,2000.0,3500.0,2900.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2024-11-13 00:00:00,5000.0,5000.0,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2024-11-25 00:00:00,5000.0,5000.0,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2024-11-27 00:00:00,5000.0,5000.0,5000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-11-12 00:00:00,2100.0,4400.0,3400.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-11-18 00:00:00,2000.0,3000.0,2500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-11-19 00:00:00,2000.0,3500.0,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-11-25 00:00:00,2000.0,4500.0,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-11-29 00:00:00,2000.0,3800.0,2900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-11-06 00:00:00,7000.0,8000.0,7500.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-11-07 00:00:00,3000.0,4000.0,3500.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-11-22 00:00:00,2800.0,3000.0,2900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-11-26 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-11-27 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-11-30 00:00:00,3000.0,3200.0,3100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-07 00:00:00,2500.0,3500.0,3100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-10 00:00:00,1000.0,3000.0,2250.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-13 00:00:00,2500.0,3500.0,3250.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-15 00:00:00,2500.0,3000.0,2800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-22 00:00:00,1500.0,2500.0,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-28 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-30 00:00:00,1000.0,1500.0,1350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-01-31 00:00:00,1000.0,1500.0,1300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-02-10 00:00:00,1500.0,2200.0,2000.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-02-13 00:00:00,1000.0,1500.0,1300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-02-15 00:00:00,800.0,1500.0,1250.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-02-17 00:00:00,1000.0,1500.0,1300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-02-20 00:00:00,500.0,1300.0,1000.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-02-25 00:00:00,1000.0,2000.0,1600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-03-03 00:00:00,1000.0,2000.0,1600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-03-04 00:00:00,1000.0,2200.0,1700.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-03-06 00:00:00,1000.0,2000.0,1600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-03-07 00:00:00,1000.0,2000.0,1600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-03-11 00:00:00,2500.0,3500.0,3100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-03-14 00:00:00,1500.0,3000.0,2350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-03-26 00:00:00,2000.0,2500.0,2350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-06-17 00:00:00,6000.0,7500.0,7000.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-06-22 00:00:00,2000.0,2500.0,2350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-07-15 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-07-30 00:00:00,2000.0,3000.0,2750.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-10-08 00:00:00,5000.0,6000.0,5600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-10-10 00:00:00,5000.0,6000.0,5600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-11-07 00:00:00,4000.0,6000.0,5100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-11-12 00:00:00,6000.0,7500.0,7000.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-11-24 00:00:00,2000.0,2500.0,2350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-12-09 00:00:00,3000.0,4000.0,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-12-15 00:00:00,2000.0,2500.0,2350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2020-12-19 00:00:00,2000.0,2500.0,2350.0,298
+Gujarat,Bharuch,Ankleshwar,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-02-12 00:00:00,1325.0,2225.0,2000.0,298
+Gujarat,Bharuch,Ankleshwar,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-07-09 00:00:00,3250.0,3950.0,3775.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-01-17 00:00:00,4000.0,4000.0,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-01-28 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-02-02 00:00:00,2000.0,2000.0,2000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-02-04 00:00:00,1200.0,2000.0,1500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-02-11 00:00:00,5500.0,5500.0,5500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-02-28 00:00:00,2000.0,2000.0,2000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-02-29 00:00:00,1000.0,2000.0,1500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-03-09 00:00:00,1500.0,2000.0,1700.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-07-14 00:00:00,6000.0,6500.0,6250.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-07-16 00:00:00,5000.0,5000.0,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-08-26 00:00:00,5000.0,5000.0,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-08-29 00:00:00,5000.0,5000.0,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-10-07 00:00:00,6000.0,6000.0,6000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-11-12 00:00:00,6500.0,7000.0,6500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-11-19 00:00:00,6000.0,6000.0,6000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-11-23 00:00:00,4000.0,4000.0,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-12-01 00:00:00,4000.0,4000.0,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2020-12-15 00:00:00,4000.0,4000.0,4000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-01-12 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-01-26 00:00:00,800.0,1500.0,1150.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-02-02 00:00:00,600.0,1100.0,850.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-02-03 00:00:00,700.0,1200.0,950.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-02-08 00:00:00,500.0,1000.0,750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-02-09 00:00:00,800.0,1200.0,1000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-02-17 00:00:00,800.0,1300.0,1050.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-02-27 00:00:00,600.0,1000.0,800.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-03-05 00:00:00,1300.0,2000.0,1650.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-03-09 00:00:00,600.0,1300.0,950.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-03-29 00:00:00,1750.0,2500.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-03-31 00:00:00,1750.0,2500.0,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-04-12 00:00:00,1750.0,3250.0,2500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-04-19 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-04-20 00:00:00,2000.0,2900.0,2450.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-04-26 00:00:00,2250.0,4000.0,3125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-05-05 00:00:00,1500.0,3750.0,2625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-05-27 00:00:00,3500.0,5000.0,4250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-06-06 00:00:00,2000.0,5000.0,3500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-06-10 00:00:00,2500.0,9000.0,5750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-07-07 00:00:00,2250.0,4500.0,3375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-07-15 00:00:00,2750.0,5000.0,3875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-07-17 00:00:00,2000.0,4500.0,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-07-30 00:00:00,1250.0,4500.0,2875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-08-07 00:00:00,600.0,2000.0,1300.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-08-14 00:00:00,1500.0,2250.0,1875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-08-18 00:00:00,2000.0,5000.0,3500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-08-28 00:00:00,2500.0,4000.0,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-09-11 00:00:00,2000.0,3250.0,2625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-09-15 00:00:00,2500.0,4000.0,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-09-26 00:00:00,3500.0,5500.0,4500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-10-10 00:00:00,3000.0,6000.0,4500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-10-17 00:00:00,3000.0,5000.0,4000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-10-21 00:00:00,6000.0,8500.0,7250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-10-22 00:00:00,4000.0,6000.0,5000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-10-23 00:00:00,5000.0,7500.0,6250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-10-26 00:00:00,5000.0,9000.0,7000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-11-10 00:00:00,3500.0,5000.0,4250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-11-25 00:00:00,2000.0,2750.0,2375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-11-26 00:00:00,1500.0,2500.0,2000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-11-28 00:00:00,1750.0,2750.0,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-12-22 00:00:00,3000.0,4500.0,3750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2020-12-29 00:00:00,2000.0,3750.0,2875.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-01-02 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-01-13 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-02-01 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-02-05 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-02-10 00:00:00,750.0,1000.0,875.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-02-27 00:00:00,1000.0,1250.0,1125.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-03-07 00:00:00,750.0,1000.0,875.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-04-02 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-04-04 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-07-28 00:00:00,4000.0,5000.0,4500.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-07-30 00:00:00,3500.0,4500.0,4000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-08-02 00:00:00,3500.0,4500.0,4000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-08-04 00:00:00,4000.0,5000.0,4500.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-09-07 00:00:00,4000.0,4500.0,4250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-09-08 00:00:00,4000.0,4500.0,4250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-09-21 00:00:00,4500.0,5000.0,4750.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-09-26 00:00:00,4500.0,5000.0,4750.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-10-07 00:00:00,3500.0,4000.0,3750.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-10-16 00:00:00,3000.0,3500.0,3250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-10-23 00:00:00,3000.0,3500.0,3250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-10-27 00:00:00,2500.0,3500.0,3000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-11-04 00:00:00,4000.0,6000.0,5000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-11-05 00:00:00,4000.0,6000.0,5000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-11-07 00:00:00,4000.0,5500.0,4750.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-11-11 00:00:00,4500.0,6000.0,5250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-11-21 00:00:00,3500.0,5000.0,4250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-11-24 00:00:00,3000.0,3500.0,3250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-12-06 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-12-08 00:00:00,2000.0,2500.0,2250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-12-13 00:00:00,1000.0,1150.0,1075.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-12-19 00:00:00,500.0,750.0,625.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-12-22 00:00:00,500.0,750.0,625.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-12-24 00:00:00,500.0,750.0,625.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2020-12-26 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-01-03 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-01-05 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-01-06 00:00:00,2500.0,3000.0,2800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-01-22 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-01-25 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-02-04 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-02-25 00:00:00,1500.0,1800.0,1700.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-03-05 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-03-06 00:00:00,1500.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-03-14 00:00:00,1700.0,2000.0,1900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-03-20 00:00:00,2500.0,3000.0,2800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-04-27 00:00:00,2300.0,2500.0,2450.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-04-30 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-05-16 00:00:00,3000.0,3500.0,3300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-06-05 00:00:00,5000.0,6000.0,5700.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-06-08 00:00:00,5000.0,6000.0,5700.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-06-14 00:00:00,5500.0,6500.0,6100.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-06-16 00:00:00,6000.0,7000.0,6600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-07-02 00:00:00,5000.0,6000.0,5600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-07-13 00:00:00,3500.0,4500.0,4100.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-07-18 00:00:00,2000.0,3000.0,2600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-07-23 00:00:00,2000.0,3000.0,2700.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-08-08 00:00:00,1500.0,2500.0,2100.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-11-08 00:00:00,6500.0,7000.0,6800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-11-11 00:00:00,4000.0,4500.0,4300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-11-21 00:00:00,5000.0,6000.0,5550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-12-07 00:00:00,1700.0,2300.0,2100.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-12-16 00:00:00,2000.0,2800.0,2500.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-12-21 00:00:00,1600.0,2000.0,1850.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2002-09-06 00:00:00,2500.0,5000.0,3750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-01 00:00:00,2500.0,2750.0,2600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-11 00:00:00,2250.0,2500.0,2325.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-12 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-13 00:00:00,2000.0,2500.0,2350.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-31 00:00:00,1000.0,1400.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2007-01-22 00:00:00,600.0,700.0,650.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2007-02-05 00:00:00,600.0,1000.0,800.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2007-02-06 00:00:00,400.0,700.0,550.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2007-02-07 00:00:00,700.0,1000.0,850.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2007-02-15 00:00:00,700.0,900.0,800.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2007-02-27 00:00:00,600.0,700.0,650.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2007-12-03 00:00:00,1400.0,2000.0,1700.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-01-06 00:00:00,600.0,1000.0,750.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-01-09 00:00:00,600.0,1100.0,775.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-01-21 00:00:00,600.0,1100.0,875.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-01-25 00:00:00,800.0,1100.0,1000.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-02-01 00:00:00,500.0,750.0,650.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-02-13 00:00:00,500.0,750.0,600.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-02-14 00:00:00,600.0,900.0,800.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-02-20 00:00:00,500.0,1200.0,900.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-02-22 00:00:00,500.0,1250.0,825.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-02-27 00:00:00,500.0,1200.0,800.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-03-01 00:00:00,1100.0,1300.0,1200.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-03-13 00:00:00,600.0,1300.0,800.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-03-14 00:00:00,600.0,1300.0,925.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-03-17 00:00:00,600.0,1400.0,1000.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-03-21 00:00:00,650.0,1400.0,900.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-03-25 00:00:00,750.0,1500.0,1000.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-03-29 00:00:00,800.0,1600.0,1100.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-04-05 00:00:00,1250.0,2200.0,1700.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-04-13 00:00:00,1000.0,2000.0,1600.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-04-14 00:00:00,1000.0,2000.0,1500.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-04-29 00:00:00,1000.0,2000.0,1300.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-04-30 00:00:00,1000.0,2000.0,1250.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-01 00:00:00,1000.0,2250.0,1500.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-11 00:00:00,1000.0,2000.0,1500.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-12 00:00:00,1000.0,2000.0,1250.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-22 00:00:00,1000.0,1800.0,1250.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-23 00:00:00,1000.0,2250.0,1625.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-24 00:00:00,1000.0,2250.0,1500.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-26 00:00:00,1000.0,2000.0,1300.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-28 00:00:00,1000.0,2250.0,1600.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-05-29 00:00:00,1000.0,2000.0,1475.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-06-11 00:00:00,1000.0,1750.0,1300.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-06-19 00:00:00,1000.0,1700.0,1250.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-06-24 00:00:00,1000.0,2000.0,1500.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-07-01 00:00:00,1000.0,2500.0,1600.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-07-02 00:00:00,1000.0,2500.0,1700.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-07-07 00:00:00,1000.0,2250.0,1700.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-07-14 00:00:00,1000.0,2250.0,1600.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-07-16 00:00:00,1000.0,2500.0,1700.0,298
+Gujarat,Vadodara(Baroda),Vadodara,French Beans (Frasbean),Other,FAQ,2007-07-21 00:00:00,700.0,1200.0,1000.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-07-25 00:00:00,700.0,1600.0,1125.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-07-26 00:00:00,700.0,1100.0,900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-01 00:00:00,600.0,1000.0,650.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-02 00:00:00,600.0,1000.0,650.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-05 00:00:00,600.0,900.0,600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-20 00:00:00,600.0,1100.0,750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-22 00:00:00,500.0,750.0,600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-23 00:00:00,500.0,700.0,600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-24 00:00:00,500.0,700.0,600.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-08-27 00:00:00,500.0,900.0,700.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-09-13 00:00:00,300.0,750.0,500.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-09-21 00:00:00,600.0,1000.0,800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-09-27 00:00:00,750.0,1500.0,800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-09-28 00:00:00,750.0,1800.0,1250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-10-09 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-10-13 00:00:00,1400.0,1600.0,1475.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-10-15 00:00:00,1000.0,1500.0,1200.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-10-29 00:00:00,1750.0,2000.0,1850.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-10-30 00:00:00,1750.0,2000.0,1850.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-11-08 00:00:00,900.0,1700.0,1250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-11-21 00:00:00,2500.0,3250.0,2900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-11-23 00:00:00,2750.0,3500.0,3150.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-03 00:00:00,2250.0,2750.0,2550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-06 00:00:00,2000.0,2750.0,2400.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-10 00:00:00,2250.0,2750.0,2425.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-15 00:00:00,2250.0,2500.0,2350.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-18 00:00:00,1500.0,1750.0,1650.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-22 00:00:00,1900.0,2250.0,2000.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2007-12-28 00:00:00,1250.0,1500.0,1400.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2004-02-26 00:00:00,900.0,1200.0,1050.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2004-08-19 00:00:00,13000.0,15000.0,14000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2004-08-21 00:00:00,13000.0,16000.0,14500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2004-08-26 00:00:00,1200.0,1400.0,1300.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2004-08-27 00:00:00,1300.0,1500.0,1400.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2004-10-15 00:00:00,25000.0,35000.0,30000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2004-11-20 00:00:00,6000.0,8000.0,7000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-01-17 00:00:00,3000.0,4000.0,3500.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-07-26 00:00:00,1100.0,1250.0,1125.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-07-27 00:00:00,1000.0,1250.0,1125.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-09-01 00:00:00,1000.0,1500.0,1250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-09-10 00:00:00,1500.0,1700.0,1600.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-09-27 00:00:00,1000.0,1200.0,1100.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-10-04 00:00:00,1000.0,1250.0,1125.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-10-06 00:00:00,1500.0,1700.0,1600.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-10-30 00:00:00,1200.0,1500.0,1350.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-11-01 00:00:00,1000.0,1250.0,1125.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-11-08 00:00:00,800.0,900.0,850.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-11-17 00:00:00,500.0,700.0,600.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-11-23 00:00:00,700.0,800.0,750.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-12-01 00:00:00,700.0,900.0,800.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-12-02 00:00:00,700.0,800.0,750.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-12-08 00:00:00,1000.0,1225.0,1112.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-12-15 00:00:00,1300.0,1500.0,1400.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2004-12-17 00:00:00,1000.0,1125.0,1062.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-12-03 00:00:00,2500.0,4000.0,3650.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-12-04 00:00:00,3000.0,4500.0,3750.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-12-06 00:00:00,2500.0,4000.0,3300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-12-07 00:00:00,1500.0,2000.0,1900.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-12-11 00:00:00,2000.0,2500.0,2350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2024-12-23 00:00:00,3000.0,3500.0,3250.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2024-12-05 00:00:00,5000.0,6000.0,5500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-12-06 00:00:00,2500.0,4000.0,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-12-13 00:00:00,2000.0,4500.0,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-12-18 00:00:00,3000.0,6500.0,4750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-12-23 00:00:00,3000.0,5000.0,4000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2024-12-31 00:00:00,2000.0,4500.0,3250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2024-12-12 00:00:00,2000.0,3000.0,2500.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2024-12-17 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2024-12-23 00:00:00,3000.0,3500.0,3250.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),French Beans (Frasbean),FAQ,2024-12-31 00:00:00,1500.0,2000.0,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-12-04 00:00:00,3800.0,4000.0,3900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-12-07 00:00:00,3800.0,4000.0,3900.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-12-22 00:00:00,4000.0,4500.0,4300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2024-12-24 00:00:00,3500.0,4000.0,3800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-11-23 00:00:00,2000.0,2500.0,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-12-08 00:00:00,1700.0,2300.0,2100.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-12-18 00:00:00,1800.0,2000.0,1950.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-12-22 00:00:00,1600.0,2000.0,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2020-12-31 00:00:00,3500.0,4000.0,3800.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-02-11 00:00:00,750,1000,875.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-02-13 00:00:00,500,600,550.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-02-14 00:00:00,1000,1250,1125.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-02-16 00:00:00,500,600,550.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-12-14 00:00:00,1500,2000,1750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-01-02 00:00:00,1000,1500,1300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-01-20 00:00:00,1000,1500,1300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-01-26 00:00:00,2000,2500,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-02-10 00:00:00,1500,2000,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-02-15 00:00:00,1500,2500,2050.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-02-28 00:00:00,1500,2000,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-03-01 00:00:00,2000,3000,2550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-03-02 00:00:00,2000,3000,2550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-03-31 00:00:00,2000,2500,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-04-01 00:00:00,2500,3000,2800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-04-05 00:00:00,3000,4000,3550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-04-12 00:00:00,1000,3000,2050.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-04-16 00:00:00,4000,4500,4300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-04-19 00:00:00,2000,2500,2300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-04-24 00:00:00,1500,2000,1800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-05-01 00:00:00,6000,8000,7050.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-05-05 00:00:00,4000,5000,4550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-05-06 00:00:00,4000,5000,4550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-05-18 00:00:00,6000,7000,6550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-05-23 00:00:00,6000,8000,7050.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-06-07 00:00:00,6000,8000,6550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-06-18 00:00:00,4000,5000,4550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-06-19 00:00:00,5000,6000,5550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-06-25 00:00:00,3500,4000,3800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-06-29 00:00:00,4000,6500,5300.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-07-21 00:00:00,5500,6000,5800.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-08-03 00:00:00,7000,8000,7550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-08-13 00:00:00,3000,4000,3550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-08-25 00:00:00,2000,2500,2250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-08-27 00:00:00,2000,2300,2150.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-08-28 00:00:00,2000,2300,2150.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-09-12 00:00:00,2500,4000,3250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-09-25 00:00:00,3500,4000,3775.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-10-12 00:00:00,3500,4000,3750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-10-13 00:00:00,4000,4500,4250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-03 00:00:00,4000,5000,4525.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-06 00:00:00,5000,6000,5550.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-09 00:00:00,4500,5000,4750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-10 00:00:00,4500,6000,5250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-13 00:00:00,3500,4000,3750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-14 00:00:00,4500,5000,4750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-19 00:00:00,5000,5500,5250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-20 00:00:00,5000,5500,5250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-22 00:00:00,4000,5000,4525.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-23 00:00:00,4000,4500,4250.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-11-26 00:00:00,3400,4000,3700.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-12-03 00:00:00,3500,4000,3750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-12-11 00:00:00,3500,4000,3750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-12-21 00:00:00,4500,5000,4750.0,298
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),French Beans (Frasbean),Other,FAQ,2017-12-23 00:00:00,4500,5000,4750.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-01-03 00:00:00,1800,2500,2200.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-01-19 00:00:00,1500,3000,2400.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-01-31 00:00:00,1500,2500,2200.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-02-03 00:00:00,1500,2500,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-02-14 00:00:00,1500,2600,2200.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-02-20 00:00:00,1500,3000,2300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-02-21 00:00:00,1500,2000,1800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-03-01 00:00:00,1500,2500,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-03-24 00:00:00,2000,3000,2600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-03-28 00:00:00,2000,3500,3000.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-03-31 00:00:00,1000,3000,2200.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-01 00:00:00,1000,3000,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-03 00:00:00,1000,3000,2200.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-06 00:00:00,1500,2500,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-07 00:00:00,1500,2500,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-08 00:00:00,2500,3500,3200.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-12 00:00:00,2500,3000,2750.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-17 00:00:00,1200,3000,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-18 00:00:00,4000,4500,4300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-04-19 00:00:00,2500,3500,3100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-05-09 00:00:00,3000,9000,6100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-05-23 00:00:00,5000,7000,6500.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-06-01 00:00:00,3000,3500,3300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-06-08 00:00:00,2000,6000,4100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-06-14 00:00:00,2000,2500,2300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-06-22 00:00:00,3000,4000,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-07-04 00:00:00,1500,2500,2100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-07-11 00:00:00,3500,4000,3800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-07-20 00:00:00,3000,4000,3700.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-07-21 00:00:00,3500,4000,3800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-07-25 00:00:00,2000,4000,3200.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-08-28 00:00:00,2000,3000,2600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-09-05 00:00:00,2500,3500,3100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-09-06 00:00:00,2000,3000,2600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-09-07 00:00:00,3000,4000,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-09-22 00:00:00,3000,4000,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-09-25 00:00:00,3000,4000,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-09-27 00:00:00,3000,4500,3800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-09-29 00:00:00,3000,3500,3300.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-10-03 00:00:00,3000,4000,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-10-14 00:00:00,3000,4500,3800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-10-28 00:00:00,3000,4500,3800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-11-01 00:00:00,5000,6000,5600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-11-03 00:00:00,5000,6000,5600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-11-06 00:00:00,4000,7500,5800.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-11-13 00:00:00,4000,5500,4850.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-11-18 00:00:00,4500,5500,5100.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-11-21 00:00:00,3000,4000,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-12-01 00:00:00,3000,4000,3600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-12-04 00:00:00,4000,4500,4350.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-12-12 00:00:00,1500,3000,2600.0,298
+Gujarat,Ahmedabad,Ahmedabad,French Beans (Frasbean),Other,FAQ,2017-12-23 00:00:00,3500,4000,3800.0,298
+Gujarat,Bharuch,Ankleshwar,French Beans (Frasbean),French Beans (Frasbean),FAQ,2017-01-06 00:00:00,2000,2500,2250.0,298
+Gujarat,Bharuch,Ankleshwar,French Beans (Frasbean),French Beans (Frasbean),FAQ,2017-01-25 00:00:00,1500,2000,1800.0,298
+Gujarat,Bharuch,Ankleshwar,French Beans (Frasbean),French Beans (Frasbean),FAQ,2017-06-16 00:00:00,2750,3250,3000.0,298
+Gujarat,Bharuch,Ankleshwar,French Beans (Frasbean),French Beans (Frasbean),FAQ,2017-08-25 00:00:00,2000,2750,2250.0,298
+Gujarat,Bharuch,Ankleshwar,French Beans (Frasbean),French Beans (Frasbean),FAQ,2017-10-09 00:00:00,2500,3400,3150.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-01-20 00:00:00,2800,2800,2800.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-01-23 00:00:00,2500,3000,2700.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-01-31 00:00:00,2500,3500,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-02-02 00:00:00,3000,4000,3500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-02-17 00:00:00,3000,4000,3500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-03-09 00:00:00,3000,4500,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-03-15 00:00:00,2500,2500,2500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-04-22 00:00:00,4000,4000,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-05-28 00:00:00,8000,10000,9000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-06-20 00:00:00,6500,7000,7000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-07-15 00:00:00,5000,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-07-19 00:00:00,6000,6000,6000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-08-09 00:00:00,5000,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-08-13 00:00:00,2000,3500,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-08-30 00:00:00,2500,3000,3000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-09-03 00:00:00,1500,2500,2000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-09-08 00:00:00,3500,5000,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-09-09 00:00:00,3500,5000,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-09-10 00:00:00,5500,5500,5500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-09-18 00:00:00,3000,5000,4000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-09-24 00:00:00,4500,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-10-04 00:00:00,4500,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-10-12 00:00:00,5000,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-10-15 00:00:00,6000,6000,6000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-10-17 00:00:00,2500,4000,3500.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-10-28 00:00:00,4500,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-11-10 00:00:00,6000,6500,6100.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-11-23 00:00:00,5500,6000,5600.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-11-25 00:00:00,5000,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-12-08 00:00:00,5000,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-12-09 00:00:00,5000,5000,5000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-12-13 00:00:00,6000,6000,6000.0,298
+Gujarat,Dahod,Dahod(Veg. Market),French Beans (Frasbean),Other,FAQ,2017-12-29 00:00:00,4000,6500,6500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-02-28 00:00:00,2000,2500,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-03 00:00:00,3500,4500,4000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-08 00:00:00,2750,3750,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-09 00:00:00,2500,3500,3000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-10 00:00:00,3500,4500,4000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-23 00:00:00,2000,4000,3000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-25 00:00:00,2250,3250,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-26 00:00:00,2000,3000,2500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-03-28 00:00:00,1750,2750,2250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-04-01 00:00:00,3000,4250,3625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-04-04 00:00:00,2500,3250,2875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-04-05 00:00:00,2000,3250,2625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-05-11 00:00:00,5000,11000,8000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-05-21 00:00:00,6000,7000,6500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-05-23 00:00:00,5500,6000,5750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-05-26 00:00:00,5000,7000,6000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-05-27 00:00:00,9000,11000,10000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-06-03 00:00:00,4500,5000,4750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-06-11 00:00:00,4750,5000,4875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-06-14 00:00:00,5250,6000,5625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-06-15 00:00:00,4500,6000,5250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-06-20 00:00:00,4500,6000,5250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-06-23 00:00:00,3000,4000,3500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-06-27 00:00:00,3000,5000,4000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-07-01 00:00:00,2500,4000,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-07-06 00:00:00,4000,6000,5000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-07-22 00:00:00,4500,6000,5250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-07-28 00:00:00,3250,4500,3875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-08-04 00:00:00,3000,4000,3500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-08-12 00:00:00,2500,3500,3000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-08-20 00:00:00,1750,2500,2125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-08-23 00:00:00,1500,2500,2000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-08-24 00:00:00,1500,2000,1750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-09-03 00:00:00,1500,2500,2000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-09-06 00:00:00,2500,4000,3250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-09-08 00:00:00,2000,3000,2500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-09-15 00:00:00,2750,3500,3125.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-09-20 00:00:00,2500,5000,3750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-09-21 00:00:00,2250,3750,3000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-09-26 00:00:00,3500,5000,4250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-10-04 00:00:00,2250,3500,2875.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-10-23 00:00:00,4000,6500,5250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-10-24 00:00:00,3000,6000,4500.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-10-29 00:00:00,4000,8500,6250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-11-04 00:00:00,3500,6500,5000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-11-09 00:00:00,3500,5000,4250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-11-17 00:00:00,3000,4500,3750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-11-23 00:00:00,3000,4250,3625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-11-24 00:00:00,2000,4000,3000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-11-26 00:00:00,2500,4250,3375.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-12-01 00:00:00,3500,5000,4250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-12-03 00:00:00,5000,7500,6250.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-12-06 00:00:00,3000,4500,3750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-12-11 00:00:00,2000,3250,2625.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-12-23 00:00:00,2500,3000,2750.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-12-27 00:00:00,3000,5000,4000.0,298
+Gujarat,Surat,Surat,French Beans (Frasbean),Other,FAQ,2017-12-28 00:00:00,2000,4000,3000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-02 00:00:00,500,750,625.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-04 00:00:00,500,750,625.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-11 00:00:00,1000,1200,1100.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-16 00:00:00,750,1250,1000.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-23 00:00:00,750,1000,875.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-24 00:00:00,750,1000,875.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-28 00:00:00,750,1000,875.0,298
+Gujarat,Surendranagar,Vadhvan,French Beans (Frasbean),Other,FAQ,2017-01-31 00:00:00,600,750,675.0,298

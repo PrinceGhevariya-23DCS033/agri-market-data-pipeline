@@ -1928,71 +1928,312 @@ Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2012-12-01 00:00:00,650,1500,1
 Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2012-12-04 00:00:00,700,1700,1300.0,180
 Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2012-12-22 00:00:00,600,1500,1000.0,180
 Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2012-12-24 00:00:00,800,1500,1100.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-02 00:00:00,1300,2000,1800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-09 00:00:00,1700,2200,2000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-12 00:00:00,2500,2800,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-15 00:00:00,2500,3000,2800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-16 00:00:00,2500,3000,2800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-18 00:00:00,2500,3200,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-23 00:00:00,2400,3000,2750.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-24 00:00:00,2500,3000,2800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-26 00:00:00,2500,3200,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-01-28 00:00:00,2500,3200,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-02-07 00:00:00,2000,3000,2700.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-02-11 00:00:00,2500,3200,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-02-17 00:00:00,2000,3000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-02-21 00:00:00,1800,3000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-02-26 00:00:00,2000,2800,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-05 00:00:00,2000,3000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-15 00:00:00,3500,4500,4000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-18 00:00:00,3000,4500,4000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-19 00:00:00,3000,5000,4500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-20 00:00:00,3500,5000,4500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-23 00:00:00,3800,4500,4300.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-28 00:00:00,4000,5000,4500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-03-31 00:00:00,4000,5000,4500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-04-09 00:00:00,3000,4500,4300.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-04-16 00:00:00,4500,5500,5000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-04-18 00:00:00,4000,5500,5000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-04-19 00:00:00,4000,5500,5000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-05-07 00:00:00,4500,5500,5200.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-05-13 00:00:00,4000,5500,5000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-05-22 00:00:00,4500,6000,5500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-05-26 00:00:00,5000,6500,6000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-01 00:00:00,4000,6000,5500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-02 00:00:00,4000,6000,5500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-06 00:00:00,2000,5000,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-08 00:00:00,3000,5000,3500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-09 00:00:00,2000,5000,4000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-10 00:00:00,3000,5000,4500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-15 00:00:00,2000,4000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-20 00:00:00,1500,3000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-06-30 00:00:00,1200,2500,1500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-07-02 00:00:00,1500,2500,2000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-07-08 00:00:00,1500,2500,2000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-07-13 00:00:00,1200,2000,1800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-07-16 00:00:00,1500,2500,2000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-07-18 00:00:00,2000,3000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-07-27 00:00:00,1500,2000,1800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-08-11 00:00:00,500,1300,900.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-08-12 00:00:00,700,1300,1000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-08-16 00:00:00,600,1200,900.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-08-17 00:00:00,500,1200,1000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-08-22 00:00:00,500,1100,800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-08-31 00:00:00,600,1500,1200.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-09-03 00:00:00,1000,2000,1200.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-09-30 00:00:00,3500,5000,4000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-10-05 00:00:00,2000,3500,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-10-06 00:00:00,2000,4000,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-10-24 00:00:00,2000,3500,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-10-26 00:00:00,1500,3000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-10-28 00:00:00,1800,3500,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-11-06 00:00:00,2000,3000,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-11-12 00:00:00,2500,3500,3000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-11-20 00:00:00,1300,3500,2500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-11-22 00:00:00,1000,2500,1500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-11-23 00:00:00,1500,2500,1800.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-11-26 00:00:00,600,2000,1500.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-12-10 00:00:00,600,1500,1000.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-12-23 00:00:00,1500,2500,2300.0,180
-Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2013-12-31 00:00:00,2000,3000,2500.0,180
+Gujarat,Ahmedabad,Ahmedabad,Lime,Other,Medium,2001-11-29 00:00:00,500,600,550.0,180
+Gujarat,Ahmedabad,Ahmedabad,Lime,Other,Large,2001-12-05 00:00:00,400,800,700.0,180
+Gujarat,Ahmedabad,Ahmedabad,Lime,Other,Large,2001-12-15 00:00:00,300,800,600.0,180
+Gujarat,Ahmedabad,Ahmedabad,Lime,Other,Large,2001-12-17 00:00:00,500,800,700.0,180
+Gujarat,Ahmedabad,Ahmedabad,Lime,Other,Large,2001-12-29 00:00:00,400,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2001-12-12 00:00:00,600,1200,1000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2001-12-22 00:00:00,1000,1400,1300.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2001-12-24 00:00:00,1000,1400,1100.0,180
+Gujarat,Rajkot,Gondal,Lime,Other,Medium,2001-12-19 00:00:00,500,750,600.0,180
+Gujarat,Rajkot,Gondal,Lime,Other,Medium,2001-12-21 00:00:00,500,750,600.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-01-18 00:00:00,1500,1800,1650.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-01-20 00:00:00,1200,1600,1400.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-01-29 00:00:00,1500,1800,1600.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-01 00:00:00,1100,1700,1500.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-03 00:00:00,1500,2200,2150.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-09 00:00:00,1750,2500,2200.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-01 00:00:00,1800,2000,1900.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-19 00:00:00,1500,2200,2000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-21 00:00:00,2600,3000,2800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-23 00:00:00,2500,3200,2800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-25 00:00:00,2300,3000,2800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-26 00:00:00,2700,3000,2800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-28 00:00:00,1500,3000,3000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-07 00:00:00,2500,3200,2850.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-18 00:00:00,1600,2200,1900.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-22 00:00:00,1300,2500,2200.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-26 00:00:00,1300,2000,1650.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-02 00:00:00,1300,1500,1400.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-08 00:00:00,1200,1500,1400.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-13 00:00:00,1500,2000,1800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-25 00:00:00,1000,1500,1200.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-26 00:00:00,1300,1875,1600.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-27 00:00:00,1200,1600,1400.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-28 00:00:00,1200,1600,1400.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-03 00:00:00,1200,2250,1750.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-05 00:00:00,600,1200,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-16 00:00:00,400,800,650.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-21 00:00:00,550,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-24 00:00:00,500,900,700.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-25 00:00:00,500,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-30 00:00:00,600,900,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-31 00:00:00,800,1000,1000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-07 00:00:00,500,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-09 00:00:00,500,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-10 00:00:00,500,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-16 00:00:00,800,1100,1000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-09-06 00:00:00,1200,2200,1800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-09-17 00:00:00,2000,2200,2100.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-11-16 00:00:00,1200,2000,1600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-11-18 00:00:00,1200,2000,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-11-28 00:00:00,800,1600,1000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-12-15 00:00:00,600,800,700.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-12-22 00:00:00,400,900,700.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-12-24 00:00:00,500,800,600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-12-30 00:00:00,400,800,700.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-01 00:00:00,300,650,550.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-02 00:00:00,450,650,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-03 00:00:00,400,575,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-12 00:00:00,500,900,800.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-17 00:00:00,900,1100,1000.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-20 00:00:00,500,1050,875.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-25 00:00:00,800,1100,1000.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-08 00:00:00,750,1500,1250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-09 00:00:00,1000,1400,1300.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-12 00:00:00,1000,1400,1350.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-17 00:00:00,1000,1400,1250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-05 00:00:00,1300,1500,1400.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-13 00:00:00,750,1500,1250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-15 00:00:00,600,1500,1300.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-26 00:00:00,1500,2000,1750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-07 00:00:00,1000,1900,1600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-09 00:00:00,1250,2000,1750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-17 00:00:00,1500,1785,1500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-23 00:00:00,1350,1900,1625.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-27 00:00:00,750,2150,1750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-05-16 00:00:00,600,1350,1100.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-05-17 00:00:00,650,1400,1100.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-05-29 00:00:00,500,1125,900.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-05-30 00:00:00,350,1100,900.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-05 00:00:00,500,1000,850.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-06 00:00:00,625,1000,850.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-07 00:00:00,500,1200,950.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-12 00:00:00,1000,1550,1375.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-14 00:00:00,750,1750,1150.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-19 00:00:00,350,800,575.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-03 00:00:00,300,650,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-11 00:00:00,250,600,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-12 00:00:00,300,600,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-23 00:00:00,250,550,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-31 00:00:00,250,550,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-08-01 00:00:00,300,650,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-08-04 00:00:00,300,550,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-08-25 00:00:00,250,725,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-17 00:00:00,750,1750,1400.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-18 00:00:00,750,1750,1450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-24 00:00:00,1100,1625,1375.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-27 00:00:00,700,1900,1500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-01 00:00:00,400,1700,1350.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-06 00:00:00,250,1200,750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-08 00:00:00,250,1150,750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-11 00:00:00,300,1225,750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-13 00:00:00,300,1100,750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-19 00:00:00,300,750,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-20 00:00:00,200,900,550.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-22 00:00:00,200,600,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-23 00:00:00,200,625,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-11-15 00:00:00,250,625,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-11-16 00:00:00,200,650,375.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-11-20 00:00:00,300,650,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-18 00:00:00,200,325,250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-20 00:00:00,200,325,275.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-31 00:00:00,200,300,250.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-09-02 00:00:00,300,400,350.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-09-05 00:00:00,200,300,250.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-09-13 00:00:00,500,600,550.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-09-16 00:00:00,500,550,525.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-09-21 00:00:00,600,750,675.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-09-24 00:00:00,750,1000,875.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-09-27 00:00:00,650,850,750.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-10-11 00:00:00,600,800,700.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-10-13 00:00:00,600,800,700.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-10-14 00:00:00,650,800,725.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-10-19 00:00:00,700,850,750.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-10-23 00:00:00,700,850,800.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-10-25 00:00:00,700,900,800.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-11-06 00:00:00,750,1005,1000.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-11-10 00:00:00,700,1000,850.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-11-24 00:00:00,400,400,400.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-11-28 00:00:00,500,600,550.0,180
+Gujarat,Ahmedabad,Dholka,Lime,Other,Large,2005-12-01 00:00:00,550,650,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Medium,2005-03-01 00:00:00,400,725,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Medium,2005-03-03 00:00:00,400,750,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Medium,2005-03-04 00:00:00,400,800,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Medium,2005-03-18 00:00:00,600,1050,900.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Medium,2005-04-05 00:00:00,400,1500,1350.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Medium,2005-04-06 00:00:00,500,1500,1375.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-04-09 00:00:00,500,1550,1400.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Medium,2005-04-19 00:00:00,500,1200,1000.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-04-27 00:00:00,500,1125,950.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-05-13 00:00:00,300,800,650.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-05-30 00:00:00,400,975,750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-06-06 00:00:00,250,975,700.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-06-17 00:00:00,300,950,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-06-23 00:00:00,500,1000,750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-06-27 00:00:00,200,1100,800.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-06-29 00:00:00,250,750,550.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-07-04 00:00:00,150,600,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-07-06 00:00:00,250,675,550.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-07-07 00:00:00,100,425,275.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-07-13 00:00:00,125,525,375.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-08-01 00:00:00,125,400,350.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-08-03 00:00:00,150,450,350.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-08-13 00:00:00,100,350,275.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-08-26 00:00:00,300,500,400.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-09-30 00:00:00,400,800,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-10-27 00:00:00,300,850,625.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-11-09 00:00:00,400,850,700.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-11-12 00:00:00,300,950,750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-11-19 00:00:00,250,600,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-11-24 00:00:00,250,550,425.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-11-28 00:00:00,250,500,400.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-12-03 00:00:00,250,525,375.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-12-17 00:00:00,250,450,325.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-12-19 00:00:00,250,425,350.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2005-12-27 00:00:00,250,400,350.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-01-06 00:00:00,1200,1500,1350.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-01-09 00:00:00,1000,1500,1250.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-01-15 00:00:00,1200,1800,1600.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-01-19 00:00:00,1500,1800,1650.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-06 00:00:00,1750,2500,2250.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-07 00:00:00,1000,2500,2300.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-08 00:00:00,1500,2600,2500.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-15 00:00:00,1500,2500,2250.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-17 00:00:00,1750,2700,2200.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-20 00:00:00,1500,2300,2000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-02-22 00:00:00,1750,2300,2000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-12 00:00:00,1500,2200,2000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-13 00:00:00,1500,2200,2000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-17 00:00:00,1500,2000,1800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-26 00:00:00,2000,2500,2200.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-03-29 00:00:00,2000,3000,3000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-05 00:00:00,2700,3000,2800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-16 00:00:00,2500,3500,3000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-24 00:00:00,2000,3000,2700.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-04-30 00:00:00,2500,3000,3000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-03 00:00:00,3000,3500,3200.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-10 00:00:00,1200,2400,1800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-15 00:00:00,1500,2500,1800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-05-21 00:00:00,2200,2500,2500.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-01 00:00:00,800,1000,900.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-04 00:00:00,1100,1500,1200.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-15 00:00:00,1500,2000,1700.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-06-20 00:00:00,1500,1800,1600.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-02 00:00:00,600,1000,900.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-06 00:00:00,750,1200,1000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-11 00:00:00,500,1200,1000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-13 00:00:00,500,800,700.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-07-20 00:00:00,400,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-06 00:00:00,800,900,900.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-11 00:00:00,550,1000,800.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-17 00:00:00,800,1100,1000.0,180
+Gujarat,Dahod,Dahod,Lime,Other,Medium,2007-08-21 00:00:00,700,1200,1100.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-09-01 00:00:00,1200,1500,1400.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-10-09 00:00:00,1400,1800,1600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-10-17 00:00:00,1200,2000,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-10-24 00:00:00,900,1500,1400.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-11-03 00:00:00,1000,1800,1600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-11-17 00:00:00,1200,2000,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-11-23 00:00:00,1000,2000,1600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-12-07 00:00:00,400,700,600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-12-25 00:00:00,400,800,600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Medium,2007-12-26 00:00:00,400,800,700.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-18 00:00:00,850,1125,1000.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-01-24 00:00:00,850,1200,1100.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-06 00:00:00,1200,1400,1300.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-07 00:00:00,750,1400,1250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-10 00:00:00,750,1600,1300.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-15 00:00:00,750,1400,1200.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-20 00:00:00,1150,1500,1300.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-22 00:00:00,1000,1600,1350.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-02-27 00:00:00,750,1400,1250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-03 00:00:00,1250,1550,1375.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-08 00:00:00,500,1400,1200.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-21 00:00:00,750,1500,1250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-22 00:00:00,1250,1700,1450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-03-23 00:00:00,750,1850,1500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-04 00:00:00,1750,2385,2150.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-18 00:00:00,750,2065,1750.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-04-24 00:00:00,750,1725,1500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-05-11 00:00:00,750,1900,1625.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-22 00:00:00,400,1100,725.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-23 00:00:00,500,900,700.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-28 00:00:00,400,950,700.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-06-30 00:00:00,300,600,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-06 00:00:00,200,525,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-19 00:00:00,250,600,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-21 00:00:00,250,600,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-07-28 00:00:00,250,550,450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-08-10 00:00:00,400,750,600.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-08-11 00:00:00,250,750,550.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-08-18 00:00:00,350,700,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-08-23 00:00:00,250,700,500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-09 00:00:00,500,1250,1000.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-10 00:00:00,750,1400,1100.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-14 00:00:00,750,1550,1250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-19 00:00:00,750,1750,1400.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-25 00:00:00,800,1875,1500.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-09-29 00:00:00,500,1750,1450.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-04 00:00:00,350,1250,875.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-09 00:00:00,250,1200,700.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-10-12 00:00:00,250,1300,850.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-11-08 00:00:00,200,650,400.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-03 00:00:00,200,600,275.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-21 00:00:00,200,300,250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-24 00:00:00,200,300,250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-27 00:00:00,200,300,250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-28 00:00:00,200,300,250.0,180
+Gujarat,Mehsana,Mehsana,Lime,Other,Large,2007-12-29 00:00:00,200,350,275.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-01-05 00:00:00,1100,1500,1300.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-01-11 00:00:00,1000,1500,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-01-12 00:00:00,1000,1600,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-01-18 00:00:00,1100,1800,1700.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-01-20 00:00:00,1000,2000,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-01-25 00:00:00,1300,2500,1800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-02-01 00:00:00,2000,3000,2500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-02-05 00:00:00,2000,2800,2500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-02-12 00:00:00,1500,3000,2500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-02-15 00:00:00,3500,4000,3800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-03-06 00:00:00,4200,5000,4500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-03-08 00:00:00,4500,6000,5000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-03-10 00:00:00,5000,6500,5500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-04-06 00:00:00,5300,7000,6000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-04-13 00:00:00,5500,6500,6000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-04-14 00:00:00,5000,6500,6000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-04-23 00:00:00,4500,6000,5500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-04-24 00:00:00,5000,6000,5500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-05-02 00:00:00,5500,6500,6000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-05-03 00:00:00,5500,6500,6000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-05-04 00:00:00,5000,6500,5500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-05-10 00:00:00,4500,6000,5500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-05-21 00:00:00,3500,5000,4500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-05-28 00:00:00,2000,5000,4500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-06-13 00:00:00,1800,3000,2300.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-06-27 00:00:00,1700,2000,1800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-07-08 00:00:00,800,1800,1600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-07-18 00:00:00,700,2000,1800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-07-24 00:00:00,600,1500,1200.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-07-31 00:00:00,500,1000,700.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-08-01 00:00:00,500,800,700.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-08-16 00:00:00,500,1000,800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-08-18 00:00:00,500,1000,700.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-08-25 00:00:00,600,2000,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-08-29 00:00:00,500,2000,800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-09-03 00:00:00,700,1300,1000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-09-05 00:00:00,600,1200,900.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-09-06 00:00:00,500,1500,900.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-09-21 00:00:00,600,1500,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-09-28 00:00:00,1200,2000,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-10-03 00:00:00,800,1800,1500.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-10-24 00:00:00,1200,3000,2000.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-10-28 00:00:00,1500,2500,1800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-11-04 00:00:00,1500,2500,2200.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-11-16 00:00:00,800,1700,1200.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-11-17 00:00:00,500,2000,1200.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-11-18 00:00:00,1000,2000,1600.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-12-09 00:00:00,600,1000,800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-12-11 00:00:00,500,1000,800.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-12-14 00:00:00,400,1000,700.0,180
+Gujarat,Dahod,Dahod(Veg. Market),Lime,Other,Small,2011-12-17 00:00:00,400,800,600.0,180
