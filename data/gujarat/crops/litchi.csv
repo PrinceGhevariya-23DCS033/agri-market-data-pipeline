@@ -1,0 +1,10 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Litchi,Other,Medium,2019-06-01,8000,10000,9000.0,351
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Litchi,Other,Medium,2019-06-01,8000,10000,9000.0,351
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Litchi,Other,Medium,2015-06-18 00:00:00,7000,10000,9000.0,351
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Litchi,Other,Medium,2015-07-30 00:00:00,5000,9000,7000.0,351
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Litchi,Other,Medium,2017-06-13 00:00:00,8000,10000,9000.0,351
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Litchi,Other,Medium,2017-06-29 00:00:00,8000,10000,9500.0,351
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Litchi,Other,Medium,2017-06-29 00:00:00,8000,10000,9500.0,351
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Litchi,Other,Medium,2017-07-01 00:00:00,8000,10000,9500.0,351
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Litchi,Other,Medium,2016-05-31 00:00:00,7000,10000,8500.0,351

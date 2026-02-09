@@ -1,0 +1,50 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2009-01-06,700,750,725.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2009-01-11,750,900,825.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2009-01-17,400,500,450.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2009-05-19,350,500,425.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2009-06-08,450,550,500.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-07-12,500,1000,750.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-07-14,500,600,550.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-07-18,500,750,625.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-07-23,400,2050,1800.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-07-24,750,1000,825.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-07-27,1000,1300,1150.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-08-04,1000,1250,1125.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-08-07,1000,1250,1125.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-09-05,300,500,400.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Other,FAQ,2009-09-07,500,600,550.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-08-20 00:00:00,400,500,450.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-04 00:00:00,700,725,700.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-10 00:00:00,500,600,550.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-11 00:00:00,200,600,400.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-16 00:00:00,625,800,700.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-19 00:00:00,500,1050,800.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-20 00:00:00,1000,1500,1250.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-21 00:00:00,1250,1500,1400.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-09-25 00:00:00,400,500,450.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-06 00:00:00,400,900,600.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-10 00:00:00,400,650,500.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-11 00:00:00,600,700,650.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-17 00:00:00,500,1150,1000.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-20 00:00:00,400,600,500.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-23 00:00:00,500,1050,750.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-25 00:00:00,400,500,450.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-26 00:00:00,500,600,550.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-10-27 00:00:00,500,800,650.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-03 00:00:00,350,450,400.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-05 00:00:00,400,550,450.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-13 00:00:00,500,625,575.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-15 00:00:00,700,750,725.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-17 00:00:00,350,400,375.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-18 00:00:00,500,750,600.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-27 00:00:00,400,625,500.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-11-29 00:00:00,300,350,325.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-08 00:00:00,750,800,775.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-10 00:00:00,400,500,450.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-11 00:00:00,625,750,675.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-17 00:00:00,300,750,550.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-18 00:00:00,700,725,725.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-24 00:00:00,500,600,550.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-25 00:00:00,600,700,650.0,83
+Gujarat,Rajkot,Gondal,Ashgourd,Gouard,FAQ,2008-12-30 00:00:00,200,750,500.0,83

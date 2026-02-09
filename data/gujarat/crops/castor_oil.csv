@@ -1,0 +1,17 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Junagarh,Junagadh,Castor Oil,Other,FAQ,2004-11-19,1625,1750,1700.0,270
+Gujarat,Kheda,Mehmadabad,Castor Oil,Other,FAQ,2010-02-23 00:00:00,2500,2600,2560.0,270
+Gujarat,Kheda,Mehmadabad,Castor Oil,Other,FAQ,2010-02-25 00:00:00,2500,2600,2560.0,270
+Gujarat,Ahmedabad,Viramgam,Castor Oil,Other,FAQ,2014-09-06 00:00:00,760,775,767.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-02-25 00:00:00,1500,1550,1530.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-03-03 00:00:00,1450,1550,1500.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-03-08 00:00:00,1450,1550,1500.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-04-04 00:00:00,1500,1550,1550.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-04-11 00:00:00,1450,1550,1550.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-04-15 00:00:00,1550,1650,1650.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-05-07 00:00:00,1450,1575,1550.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-05-15 00:00:00,1450,1650,1535.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-05-19 00:00:00,1450,1600,1550.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-05-20 00:00:00,1500,1650,1600.0,270
+Gujarat,Kheda,Matar,Castor Oil,Other,FAQ,2008-05-23 00:00:00,1550,1700,1600.0,270
+Gujarat,Bhavnagar,Palitana,Castor Oil,Other,FAQ,2012-11-20 00:00:00,2250,2750,2500.0,270

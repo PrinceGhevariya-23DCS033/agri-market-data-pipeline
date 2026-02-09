@@ -1,0 +1,14 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Junagarh,Junagadh,Knool Khol,Knool Khol,FAQ,2010-05-04,220,240,230.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Knool Khol,FAQ,2010-05-06,300,360,330.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Knool Khol,FAQ,2010-05-08,350,480,405.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-05-27,240,270,255.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-05-28,250,320,285.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-05-29,280,350,315.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-05-31,350,420,385.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-06-02,350,400,375.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-06-03,280,350,315.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-06-07,380,450,415.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-07-03,1800,2250,2025.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-07-22,1000,1200,1100.0,177
+Gujarat,Junagarh,Junagadh,Knool Khol,Other,FAQ,2010-08-26,1000,1200,1100.0,177

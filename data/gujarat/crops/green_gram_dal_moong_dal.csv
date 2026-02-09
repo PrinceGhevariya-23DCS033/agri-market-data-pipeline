@@ -1,0 +1,43 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2016-12-09,4000,8585,6293.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2016-12-13,3300,7255,5278.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2016-12-20,4000,6455,5228.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2016-12-28,5200,6855,6028.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2016-12-30,3850,7000,5425.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-10-03 00:00:00,790,1965,1377.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-10-22 00:00:00,1000,1355,1200.0,265
+Gujarat,Junagarh,Bhesan,Green Gram Dal (Moong Dal),Other,FAQ,2014-07-16 00:00:00,2100,2500,2300.0,265
+Gujarat,Junagarh,Bhesan,Green Gram Dal (Moong Dal),Other,FAQ,2014-07-19 00:00:00,4700,6000,5350.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2018-10-18 00:00:00,3000,3700,3350.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2018-12-11 00:00:00,3500,4025,3762.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-01-06 00:00:00,5650,6505,6078.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-01-13 00:00:00,6325,6325,6325.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-01-25 00:00:00,5855,6125,5990.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-02-15 00:00:00,4000,5500,4750.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-02-21 00:00:00,6200,6200,6200.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-02-27 00:00:00,3750,5055,4403.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-03-04 00:00:00,2500,5400,3950.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-03-09 00:00:00,3505,3505,3505.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-03-14 00:00:00,3250,5750,4500.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-03-18 00:00:00,6155,6155,6155.0,265
+Gujarat,Amreli,Rajula,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-04-20 00:00:00,5255,5255,5255.0,265
+Gujarat,Junagarh,Junagadh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2017-09-13 00:00:00,4025,4025,4025.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2019-01-08 00:00:00,3055,3905,3480.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2019-01-11 00:00:00,3170,3865,3517.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2019-02-11 00:00:00,3540,4295,3917.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2019-10-09 00:00:00,2250,4550,3400.0,265
+Gujarat,Junagarh,Junagadh,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2025-01-04 00:00:00,6875,9110,8000.0,265
+Gujarat,Kachchh,Bachau,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2023-10-25 00:00:00,5250,8850,7050.0,265
+Gujarat,Kachchh,Bachau,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2023-11-03 00:00:00,4500,8660,6580.0,265
+Gujarat,Kachchh,Bachau,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2023-11-09 00:00:00,5100,8595,6847.0,265
+Gujarat,Kachchh,Bachau,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2023-12-02 00:00:00,6000,8325,7162.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-09-24 00:00:00,825,1810,1700.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-09-25 00:00:00,775,1970,1900.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-10-01 00:00:00,1455,1855,1700.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-10-06 00:00:00,1160,1820,1490.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-11-10 00:00:00,1055,1290,1125.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-12-06 00:00:00,850,1170,1000.0,265
+Gujarat,Banaskanth,Palanpur,Green Gram Dal (Moong Dal),Other,FAQ,2003-12-10 00:00:00,1150,1300,1200.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2018-10-19 00:00:00,3120,3780,3450.0,265
+Gujarat,Amreli,Bagasara,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2018-12-24 00:00:00,3145,3990,3567.0,265
+Gujarat,Anand,Anand,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,2018-10-15 00:00:00,4300,4395,4350.0,265

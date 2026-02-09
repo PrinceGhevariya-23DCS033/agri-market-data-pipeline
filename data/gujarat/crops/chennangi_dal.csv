@@ -1,0 +1,50 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-03-11,4200,4200,4200.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-03-20,4000,4535,4267.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-03-22,4250,4450,4350.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-03-31,3890,4255,4150.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-04-11,5000,5255,5127.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-04-12,5000,5225,5112.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-04-24,4450,5500,4975.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-05-01,5390,5405,5395.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-11-29,6825,6825,6825.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2016-12-08,6100,6100,6100.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-02-27 00:00:00,3455,3535,3495.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-02-28 00:00:00,3615,3615,3615.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-03-10 00:00:00,3505,3505,3505.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-03-16 00:00:00,3360,3500,3430.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-03-19 00:00:00,3500,3680,3590.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-03-22 00:00:00,3450,3625,3537.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-03-24 00:00:00,3350,3600,3475.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-04-07 00:00:00,3450,3550,3500.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-04-10 00:00:00,3500,3615,3557.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-04-21 00:00:00,3450,3625,3537.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-05-01 00:00:00,3325,3500,3412.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-05-02 00:00:00,3300,3675,3487.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-05-09 00:00:00,3260,3310,3285.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-05-10 00:00:00,3330,3330,3330.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-05-26 00:00:00,3305,3340,3322.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-05-30 00:00:00,3300,3625,3462.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Gram Chapa,FAQ,2018-06-27 00:00:00,3205,3205,3205.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2018-03-07 00:00:00,3500,3740,3620.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-02-27 00:00:00,4555,4555,4555.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-03-09 00:00:00,4595,4955,4775.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-03-18 00:00:00,4650,4865,4757.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-04-15 00:00:00,5500,5750,5625.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-04-17 00:00:00,5500,5800,5650.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-04-19 00:00:00,5555,5825,5690.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-04-27 00:00:00,5500,5500,5500.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-05-03 00:00:00,5135,5500,5317.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-05-08 00:00:00,5250,5250,5250.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-05-18 00:00:00,5400,5685,5542.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-05-19 00:00:00,5500,5740,5620.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-05-24 00:00:00,5250,5250,5250.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-06-06 00:00:00,4750,5100,4925.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-06-20 00:00:00,4500,5100,4800.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-06-21 00:00:00,3850,5105,4477.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2017-06-24 00:00:00,4175,4175,4175.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-03-17 00:00:00,3380,3535,3457.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-01-22 00:00:00,3057,3057,3057.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-02-26 00:00:00,3610,3610,3610.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-03-14 00:00:00,3345,3450,3397.0,295
+Gujarat,Surat,Songadh,Chennangi Dal,Other,FAQ,2015-03-21 00:00:00,3325,3510,3417.0,295

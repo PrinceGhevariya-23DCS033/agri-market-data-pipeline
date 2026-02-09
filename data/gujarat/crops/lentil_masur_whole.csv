@@ -1,0 +1,75 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Kala Masoor New,FAQ,2021-03-11,7400,7525,7462.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Kala Masoor New,FAQ,2021-03-15,7525,7525,7525.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Kala Masoor New,FAQ,2021-03-22,8055,8100,8088.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Kala Masoor New,FAQ,2021-03-25,7500,8105,7802.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2020-02-25 00:00:00,3300,3500,3450.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2020-02-27 00:00:00,3300,3500,3400.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2020-06-03 00:00:00,3700,4000,3900.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2020-06-30 00:00:00,3700,4200,4000.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2020-07-06 00:00:00,3600,3800,3700.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2020-07-08 00:00:00,3800,4400,4000.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Masoor Gola,FAQ,2020-02-26 00:00:00,5760,6050,5905.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Masoor Gola,FAQ,2020-03-09 00:00:00,5360,5750,5555.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Masoor Gola,FAQ,2020-04-30 00:00:00,5750,6250,6000.0,63
+Gujarat,Surat,Vyra,Lentil (Masur)(Whole),Other,FAQ,2024-05-13 00:00:00,8000,9000,8500.0,63
+Gujarat,Surat,Vyra,Lentil (Masur)(Whole),Other,FAQ,2024-05-17 00:00:00,8500,9000,8750.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2016-10-22 00:00:00,4000,4500,4300.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2016-10-24 00:00:00,4000,4500,4300.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2016-10-25 00:00:00,4000,4500,4300.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2016-10-28 00:00:00,4000,4500,4300.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2016-10-29 00:00:00,4000,4500,4300.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2016-03-14 00:00:00,6850,6850,6850.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2016-03-20 00:00:00,6500,6500,6500.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2017-07-22 00:00:00,2900,3000,2950.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2017-09-13 00:00:00,2800,3000,2975.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2017-09-14 00:00:00,2800,3000,2900.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2017-11-22 00:00:00,2600,2800,2700.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-02-27 00:00:00,6355,6355,6355.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-03-03 00:00:00,6500,6525,6508.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-03-07 00:00:00,6750,6750,6750.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-03-25 00:00:00,6000,6000,6000.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-04-08 00:00:00,6100,6100,6100.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-04-13 00:00:00,5875,5875,5875.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-04-27 00:00:00,5950,5950,5950.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-05-18 00:00:00,5450,5685,5502.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-05-26 00:00:00,4625,5365,4994.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-06-01 00:00:00,4750,5300,5025.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-06-13 00:00:00,4805,5125,4965.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-02-17 00:00:00,2500,2700,2625.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-03-26 00:00:00,2500,2800,2700.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-04-13 00:00:00,2700,2800,2750.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-05-09 00:00:00,2600,2800,2700.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-05-12 00:00:00,2600,2800,2700.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-05-18 00:00:00,2600,2900,2800.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-05-24 00:00:00,2600,2800,2700.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-05-25 00:00:00,2600,2800,2700.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-08-25 00:00:00,2800,3000,2900.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Masur Dal,FAQ,2018-03-09 00:00:00,4065,4065,4065.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2018-02-28 00:00:00,4100,4675,4337.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2019-01-22 00:00:00,2750,2850,2800.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2019-02-08 00:00:00,2800,3000,2900.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2019-02-12 00:00:00,2800,3000,2900.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2009-05-05 00:00:00,2000,3000,2700.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2015-05-13 00:00:00,4800,5000,4900.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2015-03-17 00:00:00,6755,6755,6755.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2015-03-19 00:00:00,6500,6650,6575.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2015-03-24 00:00:00,6445,6445,6445.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2015-03-31 00:00:00,6000,6100,6055.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2015-04-16 00:00:00,6025,6025,6025.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2015-05-30 00:00:00,5450,5450,5450.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2022-04-22 00:00:00,4000,4600,4400.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2017-05-06 00:00:00,3600,3700,3650.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2017-07-31 00:00:00,2800,3000,2900.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-03-01 00:00:00,6255,6370,6315.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-03-06 00:00:00,6735,6735,6735.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-03-09 00:00:00,6630,6630,6630.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-04-19 00:00:00,5900,5900,5900.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-04-24 00:00:00,5500,5975,5737.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-05-29 00:00:00,4625,5525,5075.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-06-05 00:00:00,4800,5400,5100.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2017-06-23 00:00:00,4050,5000,4525.0,63
+Gujarat,Dahod,Dahod,Lentil (Masur)(Whole),Other,FAQ,2018-05-10 00:00:00,2600,2800,2700.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2018-02-12 00:00:00,4815,4815,4815.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2018-02-27 00:00:00,4600,4600,4600.0,63
+Gujarat,Surat,Songadh,Lentil (Masur)(Whole),Other,FAQ,2018-03-07 00:00:00,4125,4125,4125.0,63

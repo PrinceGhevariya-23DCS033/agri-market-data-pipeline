@@ -1,0 +1,340 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Other,Local,2025-11-28,3041.667275,3400.00068,3191.667305,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Other,Non-FAQ,2025-12-04,2055.0,2055.0,2055.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Paddy,Non-FAQ,2025-11-17,1835.0,2005.0,1915.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Paddy,Non-FAQ,2025-11-18,1780.0,1995.0,1815.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Paddy,Non-FAQ,2025-11-20,1825.0,2030.0,1945.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Paddy,Local,2025-11-26,1875.0,2020.0,1960.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Paddy,Non-FAQ,2025-11-27,1870.0,2005.0,1930.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Other,FAQ,2025-11-13,1705.0,1855.0,1780.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Paddy,Non-FAQ,2025-12-05,1705.0,1975.0,1845.0,2
+Gujarat,Panchmahals,Godhra(Kakanpur) APMC,Paddy(Common),Other,Non-FAQ,2025-11-24,1725.0,1990.0,1805.0,2
+Gujarat,Vadodara(Baroda),Vagodiya APMC,Paddy(Common),G. R. 11,Local,2025-11-13 00:00:00,2375.0,2375.0,2375.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Masuri,Local,2025-11-24 00:00:00,2150.0,2220.0,2180.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Masuri,Local,2025-11-26 00:00:00,2130.0,2190.0,2160.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Masuri,Local,2025-11-27 00:00:00,2180.0,2250.0,2210.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-11-08 00:00:00,1850.0,2500.0,2175.0,2
+Gujarat,Dahod,Jhalod APMC,Paddy(Common),Other,Local,2025-11-11 00:00:00,1500.0,1500.0,1500.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,FAQ,2025-11-03 00:00:00,1675.0,2300.0,2300.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,FAQ,2025-11-03 00:00:00,1950.0,2300.0,2300.0,2
+Gujarat,Surat,Kosamba APMC,Paddy(Common),Other,FAQ,2025-11-03 00:00:00,2250.0,2300.0,2275.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-11-04 00:00:00,1650.0,1850.0,1850.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2025-11-05 00:00:00,2105.0,2620.0,2362.0,2
+Gujarat,Surat,Kosamba APMC,Paddy(Common),Other,FAQ,2025-11-05 00:00:00,2200.0,2300.0,2250.0,2
+Gujarat,Surat,Kosamba APMC,Paddy(Common),Other,FAQ,2025-11-06 00:00:00,2200.0,2300.0,2250.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2025-11-10 00:00:00,2425.0,2425.0,2425.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2025-11-13 00:00:00,2370.0,2370.0,2370.0,2
+Gujarat,Surat,Bardoli(Madhi) APMC,Paddy(Common),Other,FAQ,2025-11-06 00:00:00,1900.0,2200.0,2100.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-11-13 00:00:00,1650.0,1650.0,1650.0,2
+Gujarat,Surat,Bardoli APMC,Paddy(Common),Other,Local,2025-11-14 00:00:00,1950.0,2300.0,2200.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2025-11-14 00:00:00,1750.0,2550.0,2369.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-11-15 00:00:00,1700.0,2155.0,1841.0,2
+Gujarat,The Dangs,Ahwa-Dang APMC,Paddy(Common),Other,Non-FAQ,2025-11-15 00:00:00,1800.0,1850.0,1825.0,2
+Gujarat,Sabarkantha,Prantij APMC,Paddy(Common),Other,Local,2025-11-15 00:00:00,1500.0,2575.0,2000.0,2
+Gujarat,Anand,Tarapur APMC,Paddy(Common),Other,Local,2025-11-15 00:00:00,2450.0,3225.0,2700.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2025-11-18 00:00:00,1800.0,1900.0,1850.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-11-18 00:00:00,1650.0,1650.0,1650.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-11-18 00:00:00,2480.0,2540.0,2515.0,2
+Gujarat,Panchmahals,Gogamba(Similiya) APMC,Paddy(Common),Other,Local,2025-11-18 00:00:00,1850.0,1850.0,1850.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2025-11-17 00:00:00,1685.0,2369.0,2369.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-11-17 00:00:00,1800.0,2100.0,1841.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2025-11-17 00:00:00,1800.0,1900.0,1850.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2025-11-17 00:00:00,2373.0,2373.0,2373.0,2
+Gujarat,Surat,Bardoli APMC,Paddy(Common),Other,Local,2025-11-18 00:00:00,2200.0,2300.0,2250.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-11-19 00:00:00,1790.0,2200.0,1840.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2025-11-19 00:00:00,1500.0,2075.0,1787.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2025-11-21 00:00:00,1500.0,2025.0,1762.0,2
+Gujarat,Anand,Tarapur APMC,Paddy(Common),Other,Local,2025-11-20 00:00:00,2450.0,3100.0,2700.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-11-21 00:00:00,1750.0,2575.0,2162.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2025-11-21 00:00:00,1800.0,1900.0,1850.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-11-21 00:00:00,2475.0,2530.0,2500.0,2
+Gujarat,Panchmahals,Godhra(Timbaroad) APMC,Paddy(Common),Other,Local,2025-11-22 00:00:00,1815.0,2035.0,1905.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2025-11-25 00:00:00,1850.0,1850.0,1850.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2025-11-25 00:00:00,2050.0,2050.0,2050.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-11-24 00:00:00,1700.0,1825.0,1820.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-11-24 00:00:00,1650.0,1650.0,1650.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-11-24 00:00:00,1750.0,2250.0,1831.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Non-FAQ,2025-11-24 00:00:00,1760.0,2035.0,1870.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-11-26 00:00:00,1700.0,1825.0,1820.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Other,Local,2025-11-27 00:00:00,1750.0,2250.0,2000.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-11-26 00:00:00,1725.0,2500.0,2112.0,2
+Gujarat,Anand,Tarapur APMC,Paddy(Common),Other,Local,2025-11-27 00:00:00,2425.0,3100.0,2750.0,2
+Gujarat,Surat,Bardoli APMC,Paddy(Common),Other,Local,2025-11-27 00:00:00,2250.0,2400.0,2350.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-11-28 00:00:00,1750.0,2525.0,2137.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Local,2025-11-26 00:00:00,1815.0,1965.0,1875.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-11-27 00:00:00,1750.0,2225.0,1831.0,2
+Gujarat,Panchmahals,Godhra(Timbaroad) APMC,Paddy(Common),Other,Local,2025-11-08 00:00:00,1795.0,1845.0,1803.46,2
+Gujarat,Panchmahals,Godhra Kakanpur APMC,Paddy(Common),Other,Local,2025-11-08 00:00:00,1795.0,1795.0,1795.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-11-12 00:00:00,1650.0,1650.0,1650.0,2
+Gujarat,Dahod,Jhalod APMC,Paddy(Common),Other,Local,2025-11-14 00:00:00,1500.0,1500.0,1500.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2025-11-06 00:00:00,2095.0,2610.0,2352.0,2
+Gujarat,Panchmahals,Godhra Kakanpur APMC,Paddy(Common),Other,FAQ,2025-11-07 00:00:00,1755.0,1755.0,1755.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2025-11-10 00:00:00,1810.0,1810.0,1810.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-11-11 00:00:00,1800.0,2150.0,1845.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-11-12 00:00:00,2025.0,2120.0,2060.0,2
+Gujarat,Anand,Tarapur APMC,Paddy(Common),Other,Grade Range-1,2025-11-11 00:00:00,2450.0,3175.0,2750.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2025-11-08 00:00:00,1805.0,1805.0,1805.0,2
+Gujarat,Sabarkantha,Prantij(Salala) APMC,Paddy(Common),Other,Local,2025-11-07 00:00:00,1700.0,2300.0,2000.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2025-11-08 00:00:00,1800.0,1900.0,1850.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-11-11 00:00:00,2639.99934,2799.9993,2733.33265,2
+Gujarat,Panchmahals,Godhra Kakanpur APMC,Paddy(Common),Other,FAQ,2025-11-13 00:00:00,1705.0,1855.0,1780.0,2
+Gujarat,Kheda,Matar(Limbasi) APMC,Paddy(Common),Other,Local,2025-11-13 00:00:00,2050.0,2105.0,2075.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Other,Local,2025-11-13 00:00:00,1400.0,2000.0,1700.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2025-11-13 00:00:00,1375.0,2375.0,1875.0,2
+Gujarat,Anand,Tarapur APMC,Paddy(Common),Other,Local,2025-11-13 00:00:00,2425.0,3175.0,2700.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-11-13 00:00:00,2270.0,2320.0,2300.0,2
+Gujarat,Surat,Bardoli(Madhi) APMC,Paddy(Common),Other,FAQ,2025-11-03 00:00:00,1900.0,2200.0,1950.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-11-12 00:00:00,1625.0,2600.0,2112.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-11-13 00:00:00,1650.0,2575.0,2112.0,2
+Gujarat,Dahod,Limkheda APMC,Paddy(Common),Other,Local,2025-11-13 00:00:00,1700.0,2000.0,1850.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2025-11-02 00:00:00,1500.0,1950.0,1725.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Other,FAQ,2025-11-03 00:00:00,1750.0,2230.0,2000.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-11-03 00:00:00,1800.0,2250.0,2025.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-11-19 00:00:00,1400.0,2655.0,2100.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2025-11-20 00:00:00,1625.0,2400.0,2369.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-11-20 00:00:00,2480.0,2540.0,2510.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2025-11-21 00:00:00,1850.0,1850.0,1850.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-11-21 00:00:00,1700.0,1875.0,1870.0,2
+Gujarat,Surat,Bardoli APMC,Paddy(Common),Other,Local,2025-11-24 00:00:00,2250.0,2400.0,2350.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-11-22 00:00:00,1790.0,2200.0,1835.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-11-25 00:00:00,1700.0,1825.0,1820.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2025-11-24 00:00:00,1800.0,1850.0,1830.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-11-24 00:00:00,1500.0,2620.0,2150.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2025-11-26 00:00:00,2376.0,2376.0,2376.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2025-11-29 00:00:00,1500.0,2050.0,1775.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2025-11-29 00:00:00,1370.0,2315.0,1910.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2025-11-29 00:00:00,1610.0,2595.0,2102.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-11-29 00:00:00,1825.0,1825.0,1825.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,FAQ,2025-11-04 00:00:00,1500.0,2300.0,1900.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Non-FAQ,2025-11-05 00:00:00,1500.0,2300.0,1900.0,2
+Gujarat,Surat,Songadh APMC,Paddy(Common),Paddy,Grade Range-2,2025-11-11 00:00:00,2160.0,2160.0,2160.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Grade Range-2,2025-11-08 00:00:00,2000.0,2000.0,2000.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Paddy,Local,2025-11-14 00:00:00,1810.0,1810.0,1810.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Local,2025-11-18 00:00:00,1400.0,2000.0,1700.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2025-11-18 00:00:00,2500.0,3075.0,2750.0,2
+Gujarat,Dahod,Jhalod APMC,Paddy(Common),Paddy,Local,2025-11-24 00:00:00,2666.67,2666.67,2666.67,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Local,2025-11-25 00:00:00,1400.0,2000.0,1700.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Local,2025-11-28 00:00:00,1400.0,2000.0,1700.0,2
+Gujarat,Panchmahals,Godhra Kakanpur APMC,Paddy(Common),Paddy,Non-FAQ,2025-11-27 00:00:00,1870.0,2005.0,1930.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Paddy Coarse,Non-FAQ,2025-11-04 00:00:00,1650.0,1675.0,1665.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Paddy fine,Non-FAQ,2025-11-06 00:00:00,1800.0,1850.0,1825.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-11-05 00:00:00,1300.0,1330.0,1320.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Common,Local,2025-11-18 00:00:00,2050.0,2050.0,2050.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-11-11 00:00:00,1350.0,1370.0,1360.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-11-04 00:00:00,1300.0,1350.0,1325.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-11-21 00:00:00,1360.0,1400.0,1370.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-11-20 00:00:00,1380.0,1400.0,1390.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,FAQ,2025-11-22 00:00:00,1850.0,1900.0,1875.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-11-22 00:00:00,1380.0,1390.0,1385.0,2
+Gujarat,Surat,Vyara(Paati) APMC,Paddy(Common),Common,FAQ,2025-11-24 00:00:00,2371.0,2371.0,2371.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-11-26 00:00:00,1350.0,1390.0,1370.0,2
+Gujarat,Surat,Vyara(Paati) APMC,Paddy(Common),Common,FAQ,2025-11-26 00:00:00,2373.0,2373.0,2373.0,2
+Gujarat,Surat,Vyara(Paati) APMC,Paddy(Common),Common,FAQ,2025-11-29 00:00:00,2371.0,2371.0,2371.0,2
+Gujarat,Surat,Vyara(Paati) APMC,Paddy(Common),Common,FAQ,2025-11-28 00:00:00,2372.0,2372.0,2372.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,Non-FAQ,2025-11-12 00:00:00,2500.0,2500.0,2500.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,Non-FAQ,2025-11-11 00:00:00,2500.0,2500.0,2500.0,2
+Gujarat,Surat,Vyara(Paati) APMC,Paddy(Common),Common,Non-FAQ,2025-11-10 00:00:00,1700.0,1700.0,1700.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-11-12 00:00:00,1380.0,1400.0,1390.0,2
+Gujarat,Surat,Vyara(Paati) APMC,Paddy(Common),Common,Non-FAQ,2025-11-11 00:00:00,2833.33,2833.33,2833.33,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-11-14 00:00:00,1380.0,1400.0,1390.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-11-18 00:00:00,1380.0,1400.0,1390.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-11-17 00:00:00,1360.0,1380.0,1370.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,FAQ,2025-11-18 00:00:00,3083.33395,3166.6673,3125.000625,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,FAQ,2025-11-19 00:00:00,3083.33395,3166.6673,3125.000625,2
+Gujarat,Dahod,Limkheda APMC,Paddy(Common),Other,Local,2025-12-02 00:00:00,1700.0,2000.0,1850.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-02 00:00:00,1500.0,2700.0,2250.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-03 00:00:00,1400.0,2675.0,2150.0,2
+Gujarat,The Dangs,Ahwa-Dang APMC,Paddy(Common),Other,Non-FAQ,2025-12-05 00:00:00,1700.0,1900.0,1800.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-12-04 00:00:00,1700.0,1825.0,1820.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-12-04 00:00:00,2570.0,2630.0,2605.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2025-12-04 00:00:00,1685.0,2405.0,2369.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-12-05 00:00:00,2600.0,2670.0,2630.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-12-09 00:00:00,1625.0,1625.0,1625.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-12-09 00:00:00,1880.0,2300.0,1921.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-12-09 00:00:00,2580.0,2650.0,2610.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2025-12-06 00:00:00,1610.0,2369.0,2369.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-12-05 00:00:00,1625.0,1625.0,1625.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-12-05 00:00:00,1800.0,2300.0,1865.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-12-06 00:00:00,1850.0,2300.0,1905.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-06 00:00:00,1400.0,2695.0,2400.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2025-12-06 00:00:00,2533.33,2533.33,2533.33,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-12-10 00:00:00,1625.0,1625.0,1625.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-12-08 00:00:00,1700.0,1825.0,1815.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2025-12-08 00:00:00,1625.0,1625.0,1625.0,2
+Gujarat,Panchmahals,Godhra Kakanpur APMC,Paddy(Common),Other,Non-FAQ,2025-12-07 00:00:00,1900.0,1990.0,1925.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2025-12-11 00:00:00,1395.0,2435.0,1915.0,2
+Gujarat,Surat,Bardoli APMC,Paddy(Common),Other,Local,2025-12-11 00:00:00,2200.0,2400.0,2300.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-12-30 00:00:00,2505.0,2560.0,2535.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-12-11 00:00:00,1650.0,1850.0,1845.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2025-12-10 00:00:00,1835.0,2650.0,2242.0,2
+Gujarat,Panchmahals,Gogamba(Similiya) APMC,Paddy(Common),Other,Local,2025-12-10 00:00:00,1950.0,1950.0,1950.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-11 00:00:00,1500.0,2660.0,2150.0,2
+Gujarat,The Dangs,Ahwa-Dang APMC,Paddy(Common),Other,Non-FAQ,2025-12-12 00:00:00,1800.0,1900.0,1850.0,2
+Gujarat,Surat,Uchhal APMC,Paddy(Common),Other,Non-FAQ,2025-12-12 00:00:00,1800.0,2400.0,1925.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-12 00:00:00,1500.0,2700.0,2050.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2025-12-13 00:00:00,1370.0,2450.0,1910.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-13 00:00:00,1750.0,2675.0,2250.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2025-12-13 00:00:00,3800.0,3800.0,3800.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-12-12 00:00:00,1650.0,1850.0,1845.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,Local,2025-12-13 00:00:00,1795.0,2635.0,2215.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,Local,2025-12-13 00:00:00,1700.0,2600.0,2150.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2025-12-15 00:00:00,2540.0,2610.0,2580.0,2
+Gujarat,Anand,Tarapur APMC,Paddy(Common),Other,Local,2025-12-15 00:00:00,2400.0,3050.0,2625.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2025-12-15 00:00:00,1500.0,1900.0,1700.0,2
+Gujarat,Panchmahals,Godhra Kakanpur APMC,Paddy(Common),Other,Local,2025-12-15 00:00:00,1735.0,1890.0,1805.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2025-12-15 00:00:00,1950.0,1950.0,1950.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2025-12-17 00:00:00,1460.0,2420.0,1940.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2025-12-23 00:00:00,1615.0,2400.0,2369.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-30 00:00:00,1500.0,2600.0,2100.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-12-18 00:00:00,1650.0,1850.0,1845.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2025-12-30 00:00:00,1675.0,2500.0,2087.0,2
+Gujarat,Surat,Bardoli APMC,Paddy(Common),Other,Local,2025-12-18 00:00:00,2200.0,2350.0,2250.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2025-12-19 00:00:00,1500.0,2605.0,2100.0,2
+Gujarat,Surat,Bardoli APMC,Paddy(Common),Other,Local,2025-12-23 00:00:00,2200.0,2400.0,2300.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2025-12-20 00:00:00,1650.0,1850.0,1845.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-12-02 00:00:00,1380.0,1400.0,1390.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-02 00:00:00,1360.0,1380.0,1370.0,2
+Gujarat,Vadodara(Baroda),Vagodiya APMC,Paddy(Common),G. R. 11,Local,2025-12-02 00:00:00,2369.0,2369.0,2369.0,2
+Gujarat,Vadodara(Baroda),Vagodiya APMC,Paddy(Common),G. R. 11,Local,2025-12-29 00:00:00,2369.0,2369.0,2369.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-23 00:00:00,1320.0,1340.0,1330.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-20 00:00:00,1320.0,1340.0,1330.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-22 00:00:00,1320.0,1340.0,1330.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,FAQ,2025-12-25 00:00:00,1900.0,2000.0,1950.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-25 00:00:00,1320.0,1340.0,1330.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-05 00:00:00,1360.0,1380.0,1370.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-12-06 00:00:00,1380.0,1400.0,1390.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-08 00:00:00,1360.0,1380.0,1370.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2025-12-22 00:00:00,1330.0,1350.0,1340.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-30 00:00:00,1320.0,1340.0,1330.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-01 00:00:00,1360.0,1380.0,1370.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2025-12-03 00:00:00,1360.0,1380.0,1370.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,FAQ,2025-12-04 00:00:00,1850.0,1900.0,1875.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2026-01-01 00:00:00,1330.0,1350.0,1340.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2026-01-15 00:00:00,1350.0,1380.0,1360.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2026-01-17 00:00:00,1350.0,1380.0,1360.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2026-01-17 00:00:00,1350.0,1400.0,1380.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Common,Local,2026-01-20 00:00:00,1825.0,1825.0,1825.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,FAQ,2026-01-19 00:00:00,2000.0,2075.0,2037.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2026-01-30 00:00:00,1350.0,1400.0,1380.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2026-01-31 00:00:00,1350.0,1370.0,1360.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2026-02-02 00:00:00,1350.0,1380.0,1360.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2026-02-03 00:00:00,1350.0,1400.0,1380.0,2
+Gujarat,Dahod,Davgadbaria(Piplod) APMC,Paddy(Common),Common,Non-FAQ,2026-02-05 00:00:00,1350.0,1380.0,1360.0,2
+Gujarat,Dahod,Devgadhbaria APMC,Paddy(Common),Common,Non-FAQ,2026-02-05 00:00:00,1350.0,1400.0,1380.0,2
+Gujarat,Surat,Vyra APMC,Paddy(Common),Common,FAQ,2026-02-07 00:00:00,1975.0,2075.0,2025.0,2
+Gujarat,Vadodara(Baroda),Vagodiya APMC,Paddy(Common),G. R. 11,Local,2026-01-24 00:00:00,2369.0,2369.0,2369.0,2
+Gujarat,Vadodara(Baroda),Vagodiya APMC,Paddy(Common),G. R. 11,Local,2026-01-30 00:00:00,2369.0,2369.0,2369.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-01-06 00:00:00,1800.0,1900.0,1850.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-01-06 00:00:00,2381.0,2381.0,2381.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2026-01-06 00:00:00,1700.0,1700.0,1700.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-01-06 00:00:00,1545.0,2369.0,2369.0,2
+Gujarat,Anand,Umreth APMC,Paddy(Common),Other,Non-FAQ,2026-01-06 00:00:00,1650.0,1825.0,1820.0,2
+Gujarat,The Dangs,Ahwa-Dang APMC,Paddy(Common),Other,Non-FAQ,2026-01-07 00:00:00,1950.0,2050.0,2000.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Non-FAQ,2026-01-07 00:00:00,1625.0,1705.0,1665.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2026-01-08 00:00:00,1700.0,1700.0,1700.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2026-01-08 00:00:00,1850.0,1900.0,1875.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2026-01-07 00:00:00,1500.0,2755.0,2100.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2026-01-09 00:00:00,1800.0,1900.0,1850.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-01-09 00:00:00,2371.0,2371.0,2371.0,2
+Gujarat,Panchmahals,Gogamba(Similiya) APMC,Paddy(Common),Other,Local,2026-01-08 00:00:00,1800.0,1800.0,1800.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2026-01-07 00:00:00,1875.0,1875.0,1875.0,2
+Gujarat,Dahod,Limkheda APMC,Paddy(Common),Other,Local,2026-01-09 00:00:00,1700.0,2000.0,1850.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2026-01-09 00:00:00,2245.0,2510.0,2377.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2026-01-09 00:00:00,1800.0,2400.0,2100.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-01-09 00:00:00,1505.0,2375.0,2369.0,2
+Gujarat,Sabarkantha,Talod APMC,Paddy(Common),Other,Grade Range-1,2026-01-09 00:00:00,1500.0,2625.0,2063.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2026-01-10 00:00:00,1900.0,1900.0,1900.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Local,2026-01-12 00:00:00,1840.0,1870.0,1865.0,2
+Gujarat,Dahod,Limkheda APMC,Paddy(Common),Other,Local,2026-01-13 00:00:00,1700.0,2000.0,1850.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-01-12 00:00:00,1825.0,1850.0,1837.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Local,2026-01-16 00:00:00,1850.0,1880.0,1865.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-01-15 00:00:00,1800.0,1850.0,1825.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2026-01-15 00:00:00,2125.0,2125.0,2125.0,2
+Gujarat,The Dangs,Ahwa-Dang APMC,Paddy(Common),Other,Non-FAQ,2026-01-15 00:00:00,1950.0,2050.0,2000.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2026-01-16 00:00:00,1750.0,1900.0,1800.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2026-01-16 00:00:00,1900.0,1900.0,1900.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2026-01-16 00:00:00,2175.0,2450.0,2312.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2026-01-20 00:00:00,2100.0,2100.0,2100.0,2
+Gujarat,Anand,Borsad APMC,Paddy(Common),Other,Local,2026-01-20 00:00:00,1625.0,1625.0,1625.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-01-20 00:00:00,2370.0,2370.0,2370.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-01-17 00:00:00,1500.0,2369.0,2369.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2026-01-17 00:00:00,1995.0,2555.0,2275.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2026-01-17 00:00:00,1925.0,2500.0,2212.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2026-01-19 00:00:00,1900.0,1900.0,1900.0,2
+Gujarat,Panchmahals,Gogamba(Similiya) APMC,Paddy(Common),Other,Local,2026-01-19 00:00:00,1900.0,1900.0,1900.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2026-01-20 00:00:00,1950.0,1950.0,1950.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2026-01-27 00:00:00,1850.0,1850.0,1850.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2026-01-21 00:00:00,1750.0,1925.0,1820.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-01-19 00:00:00,1525.0,2375.0,2369.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2026-01-19 00:00:00,1990.0,2580.0,2285.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-01-21 00:00:00,1500.0,1925.0,1712.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Non-FAQ,2026-01-21 00:00:00,1915.0,1950.0,1935.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-01-22 00:00:00,1585.0,2400.0,2369.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-01-22 00:00:00,2381.0,2381.0,2381.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2026-01-22 00:00:00,2050.0,2500.0,2275.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Non-FAQ,2026-01-23 00:00:00,1625.0,1670.0,1660.0,2
+Gujarat,Sabarkantha,Talod APMC,Paddy(Common),Other,FAQ,2026-01-23 00:00:00,1650.0,2635.0,2142.0,2
+Gujarat,Panchmahals,Gogamba APMC,Paddy(Common),Other,Local,2026-01-22 00:00:00,1950.0,1950.0,1950.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-01-22 00:00:00,1850.0,1925.0,1887.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Non-FAQ,2026-01-24 00:00:00,1770.0,1820.0,1795.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-01-27 00:00:00,1500.0,2370.0,2369.0,2
+Gujarat,Sabarkantha,Talod APMC,Paddy(Common),Other,FAQ,2026-01-27 00:00:00,1625.0,2665.0,2145.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,FAQ,2026-01-21 00:00:00,1750.0,2335.0,2050.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2026-01-16 00:00:00,2500.0,3050.0,2750.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,Local,2026-01-17 00:00:00,1925.0,2245.0,2000.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2026-01-19 00:00:00,2500.0,3090.0,2750.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,FAQ,2026-02-02 00:00:00,1685.0,2385.0,2050.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,Local,2026-02-04 00:00:00,1800.0,2335.0,2000.0,2
+Gujarat,Dahod,Jhalod APMC,Paddy(Common),Paddy,Local,2026-02-05 00:00:00,3083.33,3083.33,3083.33,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Masuri,Local,2026-01-01 00:00:00,2230.0,2285.0,2255.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-01-01 00:00:00,2370.0,2370.0,2370.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2026-01-01 00:00:00,1700.0,2575.0,2137.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2026-01-01 00:00:00,1550.0,2605.0,2250.0,2
+Gujarat,Panchmahals,Godhra APMC,Paddy(Common),Other,Non-FAQ,2026-01-02 00:00:00,2286.666095,2319.99942,2306.66609,2
+Gujarat,Panchmahals,Godhra(Timbaroad) APMC,Paddy(Common),Other,Non-FAQ,2026-01-02 00:00:00,1725.0,1765.0,1740.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2026-01-02 00:00:00,1500.0,2640.0,2150.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-01-02 00:00:00,1500.0,1900.0,1700.0,2
+Gujarat,Gandhinagar,Dehgam APMC,Paddy(Common),Other,FAQ,2026-01-03 00:00:00,1760.0,2500.0,2130.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-01-03 00:00:00,2375.0,2375.0,2375.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2026-01-03 00:00:00,1800.0,1900.0,1845.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-01-05 00:00:00,1585.0,2400.0,2369.0,2
+Gujarat,Gandhinagar,Dehgam(Rekhiyal) APMC,Paddy(Common),Other,FAQ,2026-01-28 00:00:00,2075.0,2350.0,2212.0,2
+Gujarat,Sabarkantha,Prantij APMC,Paddy(Common),Other,Local,2026-01-28 00:00:00,2000.0,2375.0,2190.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2026-01-28 00:00:00,1350.0,2080.0,1715.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2026-01-28 00:00:00,1500.0,2850.0,2350.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2026-01-30 00:00:00,2100.0,2100.0,2100.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-01-31 00:00:00,2370.0,2370.0,2370.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2026-02-02 00:00:00,1900.0,2050.0,1980.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2026-02-02 00:00:00,2000.0,2000.0,2000.0,2
+Gujarat,Dahod,Limkheda APMC,Paddy(Common),Other,Local,2026-02-02 00:00:00,1700.0,2000.0,1850.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-02-01 00:00:00,1825.0,1825.0,1825.0,2
+Gujarat,Surat,Mandvi APMC,Paddy(Common),Other,Non-FAQ,2026-02-02 00:00:00,1850.0,1925.0,1887.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2026-02-02 00:00:00,2410.0,2460.0,2440.0,2
+Gujarat,Sabarkantha,Talod APMC,Paddy(Common),Other,FAQ,2026-02-04 00:00:00,1750.0,2600.0,2175.0,2
+Gujarat,Anand,Tarapur APMC,Paddy(Common),Other,Local,2026-02-04 00:00:00,2375.0,3125.0,2550.0,2
+Gujarat,Dahod,Dahod APMC,Paddy(Common),Other,Local,2026-02-05 00:00:00,1900.0,2000.0,1950.0,2
+Gujarat,Kheda,Matar APMC,Paddy(Common),Other,Local,2026-02-03 00:00:00,2420.0,2470.0,2445.0,2
+Gujarat,Sabarkantha,Talod APMC,Paddy(Common),Other,FAQ,2026-02-05 00:00:00,2000.0,2650.0,2325.0,2
+Gujarat,Gandhinagar,Kalol APMC,Paddy(Common),Other,Local,2026-02-06 00:00:00,1500.0,2200.0,1750.0,2
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy(Common),Other,Grade Range-2,2026-02-06 00:00:00,2100.0,2100.0,2100.0,2
+Gujarat,Ahmedabad,Viramgam APMC,Paddy(Common),Other,Local,2026-02-05 00:00:00,1625.0,2000.0,1810.0,2
+Gujarat,The Dangs,Ahwa-Dang APMC,Paddy(Common),Other,Non-FAQ,2026-02-04 00:00:00,2000.0,2100.0,2050.0,2
+Gujarat,Dahod,Limkheda APMC,Paddy(Common),Other,Local,2026-02-07 00:00:00,1500.0,2000.0,1750.0,2
+Gujarat,Ahmedabad,Sanad APMC,Paddy(Common),Other,FAQ,2026-02-06 00:00:00,2372.0,2372.0,2372.0,2
+Gujarat,Ahmedabad,Dholka APMC,Paddy(Common),Other,Grade Range-2,2026-02-07 00:00:00,1505.0,2385.0,2369.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Local,2026-01-01 00:00:00,1300.0,2050.0,1675.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Local,2026-01-02 00:00:00,1300.0,2075.0,1675.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,Local,2026-01-05 00:00:00,1500.0,2270.0,2000.0,2
+Gujarat,Panchmahals,Morva Hafad APMC,Paddy(Common),Paddy,Local,2026-01-06 00:00:00,1400.0,2100.0,1750.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,FAQ,2026-01-07 00:00:00,1500.0,2245.0,2000.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2026-01-06 00:00:00,2500.0,3075.0,2750.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2026-01-09 00:00:00,2500.0,3050.0,2750.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,Local,2026-01-09 00:00:00,1450.0,2260.0,2000.0,2
+Gujarat,Panchmahals,Godhra(Timbaroad) APMC,Paddy(Common),Paddy,Non-FAQ,2026-01-09 00:00:00,1695.0,1695.0,1695.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2026-01-08 00:00:00,2250.0,3050.0,2625.0,2
+Gujarat,Sabarkantha,Modasa APMC,Paddy(Common),Paddy,Non-FAQ,2026-02-05 00:00:00,1700.0,1930.0,1930.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2026-02-05 00:00:00,2500.0,3025.0,2750.0,2
+Gujarat,Anand,Khambhat(Grain Market) APMC,Paddy(Common),Paddy,Local,2026-02-02 00:00:00,2500.0,3050.0,2750.0,2
+Gujarat,Mehsana,Kadi APMC,Paddy(Common),Paddy,Local,2026-02-07 00:00:00,1800.0,2325.0,2050.0,2
+Gujarat,Panchmahals,Godhra(Timbaroad) APMC,Paddy(Common),Paddy Dappa,Local,2026-01-16 00:00:00,1590.0,1660.0,1625.0,2
+Gujarat,Panchmahals,Godhra(Timbaroad) APMC,Paddy(Common),Paddy fine,Non-FAQ,2026-01-28 00:00:00,1825.0,1865.0,1840.0,2

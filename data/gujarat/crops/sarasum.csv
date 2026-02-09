@@ -1,0 +1,27 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Sabarkantha,Idar,Sarasum,Other,FAQ,2017-01-17,4000,5560,4780.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2010-02-20 00:00:00,1750,1750,1750.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2010-03-20 00:00:00,2145,2145,2145.0,247
+Gujarat,Banaskanth,Panthawada,Sarasum,Other,FAQ,2010-03-08 00:00:00,2355,2880,2617.5,247
+Gujarat,Banaskanth,Panthawada,Sarasum,Other,FAQ,2010-03-10 00:00:00,2425,2835,2630.0,247
+Gujarat,Banaskanth,Panthawada,Sarasum,Other,FAQ,2010-03-16 00:00:00,2500,2625,2562.5,247
+Gujarat,Banaskanth,Panthawada,Sarasum,Other,FAQ,2010-03-18 00:00:00,2565,2675,2620.0,247
+Gujarat,Banaskanth,Panthawada,Sarasum,Other,FAQ,2010-03-23 00:00:00,2240,2705,2472.5,247
+Gujarat,Banaskanth,Panthawada,Sarasum,Other,FAQ,2010-05-26 00:00:00,2225,2300,2262.5,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-02-24 00:00:00,370,380,375.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-03-04 00:00:00,353,469,357.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-03-19 00:00:00,356,392,390.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-03-21 00:00:00,335,391,360.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-04-18 00:00:00,445,534,470.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-11-14 00:00:00,5750,7075,6900.0,247
+Gujarat,Banaskanth,Panthawada,Sarasum,Other,FAQ,2009-11-27 00:00:00,2645,2645,2645.0,247
+Gujarat,Sabarkantha,Idar,Sarasum,Other,FAQ,2016-01-21 00:00:00,4250,4710,4480.0,247
+Gujarat,Sabarkantha,Idar,Sarasum,Other,FAQ,2016-11-19 00:00:00,4300,4555,4428.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-02-18 00:00:00,370,370,370.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-02-21 00:00:00,311,350,350.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-03-07 00:00:00,351,351,351.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-03-17 00:00:00,400,415,415.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-03-24 00:00:00,385,385,385.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-04-08 00:00:00,400,400,400.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-11-19 00:00:00,6355,6695,6550.0,247
+Gujarat,Banaskanth,Deesa(Bhildi),Sarasum,Other,FAQ,2009-11-25 00:00:00,2515,2515,2515.0,247

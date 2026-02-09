@@ -1,0 +1,19 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Kachchh,Anjar,Foxtail Millet(Navane),Other,FAQ,2005-10-01,1405.0,1405.0,1405.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-06-05 00:00:00,2755.0,2755.0,2755.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-06-09 00:00:00,1750.0,1750.0,1750.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-06-18 00:00:00,2350.0,2820.0,2625.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-06-21 00:00:00,1500.0,1705.0,1705.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-06-30 00:00:00,1805.0,2815.0,2555.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-07-19 00:00:00,1180.0,2500.0,1600.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-05-22 00:00:00,2075.0,2300.0,2300.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-05-23 00:00:00,1525.0,1570.0,1570.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-10-01 00:00:00,1825.0,1950.0,1950.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-11-01 00:00:00,1585.0,2350.0,2350.0,121
+Gujarat,Amreli,Amreli APMC,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-11-19 00:00:00,2175.0,2905.0,2675.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-08-07 00:00:00,1725.0,2855.0,2550.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-08-11 00:00:00,1375.0,2480.0,2285.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-09-12 00:00:00,2000.0,2000.0,2000.0,121
+Gujarat,Amreli,Amreli,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-09-25 00:00:00,1275.0,2295.0,1945.0,121
+Gujarat,Amreli,Amreli APMC,Foxtail Millet(Navane),Navane Hybrid,FAQ,2025-12-08 00:00:00,2620.0,2620.0,2620.0,121
+Gujarat,Amreli,Amreli APMC,Foxtail Millet(Navane),Navane Hybrid,FAQ,2026-01-07 00:00:00,2850,2850,2850.0,121

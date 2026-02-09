@@ -1,0 +1,38 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Kheda,Matar,Coconut Seed,Other,FAQ,2007-07-21,1500.0,1600.0,1550.0,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2013-10-24 00:00:00,32.7,105.5,69.1,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2013-10-30 00:00:00,23.5,111.3,67.4,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2013-12-07 00:00:00,31.5,103.0,75.0,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2013-12-14 00:00:00,26.0,97.2,61.6,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2013-12-30 00:00:00,22.8,95.2,59.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2017-12-06 00:00:00,28.0,133.1,100.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2017-12-20 00:00:00,31.7,130.7,81.2,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2017-12-29 00:00:00,25.1,136.0,100.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2016-12-20 00:00:00,26.1,83.0,54.6,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2016-12-29 00:00:00,27.7,106.4,75.0,112
+Gujarat,Anand,Umreth,Coconut Seed,Other,FAQ,2009-08-26 00:00:00,2500.0,2575.0,2575.0,112
+Gujarat,Anand,Umreth,Coconut Seed,Other,FAQ,2009-08-27 00:00:00,2550.0,2600.0,2600.0,112
+Gujarat,Patan,Siddhpur,Coconut Seed,Other,FAQ,2009-11-04 00:00:00,6250.0,6825.0,6540.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-02 00:00:00,34.1,99.0,66.6,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-06 00:00:00,28.1,86.9,55.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-09 00:00:00,30.0,90.1,60.1,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-19 00:00:00,25.0,83.7,50.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-29 00:00:00,30.3,95.1,62.7,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-31 00:00:00,26.8,96.8,61.8,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2014-06-23 00:00:00,290.0,1253.0,772.0,112
+Gujarat,Jamnagar,Jam Jodhpur,Coconut Seed,Other,FAQ,2010-02-01 00:00:00,500.0,600.0,550.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-02 00:00:00,43.4,89.9,70.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-12 00:00:00,35.4,95.1,80.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-23 00:00:00,30.0,103.2,66.6,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-26 00:00:00,35.1,92.5,70.0,112
+Gujarat,Surendranagar,Chotila,Coconut Seed,Other,FAQ,2008-06-19 00:00:00,2000.0,2700.0,2500.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-03 00:00:00,30.0,95.1,62.6,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2014-12-04 00:00:00,26.0,100.1,63.1,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2014-06-25 00:00:00,376.0,1111.0,744.0,112
+Gujarat,Surat,Mahuva,Coconut Seed,Other,FAQ,2014-06-30 00:00:00,275.0,1218.0,747.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-01 00:00:00,40.0,100.8,80.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-08 00:00:00,42.5,90.1,80.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-14 00:00:00,33.6,95.1,80.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-21 00:00:00,47.0,103.7,75.4,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-28 00:00:00,34.5,85.1,65.0,112
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut Seed,Other,FAQ,2015-12-29 00:00:00,48.4,90,65.0,112

@@ -1,0 +1,5 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Rajkot,Gondal,Mustard Oil,Other,FAQ,2007-02-01,1730,2100,1805.0,324
+Gujarat,Rajkot,Gondal,Mustard Oil,Other,FAQ,2007-02-09,1500,2080,1830.0,324
+Gujarat,Rajkot,Gondal,Mustard Oil,Other,FAQ,2007-02-12,1530,2100,1930.0,324
+Gujarat,Amreli,Babra,Mustard Oil,Other,FAQ,2010-04-23 00:00:00,0,0,4500.0,324

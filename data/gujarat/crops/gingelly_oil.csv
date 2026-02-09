@@ -1,0 +1,8 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Gujarat,Junagarh,Bhesan,Gingelly Oil,Other,FAQ,2014-04-10,8000,12000,10000.0,276
+Gujarat,Junagarh,Bhesan,Gingelly Oil,Other,FAQ,2014-04-11,7500,11750,9625.0,276
+Gujarat,Junagarh,Bhesan,Gingelly Oil,Other,FAQ,2014-01-02 00:00:00,11700,15000,13350.0,276
+Gujarat,Junagarh,Bhesan,Gingelly Oil,Other,FAQ,2014-01-16 00:00:00,11250,15200,13225.0,276
+Gujarat,Junagarh,Bhesan,Gingelly Oil,Other,FAQ,2014-01-23 00:00:00,11500,15500,13500.0,276
+Gujarat,Junagarh,Bhesan,Gingelly Oil,Other,FAQ,2014-03-20 00:00:00,9000,15000,12000.0,276
+Gujarat,Junagarh,Bhesan,Gingelly Oil,Other,FAQ,2014-04-12 00:00:00,6000,15000,10500.0,276
