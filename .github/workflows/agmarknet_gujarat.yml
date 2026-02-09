@@ -1,0 +1,36 @@
+name: Agri Market Data Pipeline – Gujarat (Every 3 Hours)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+
+jobs:
+  run-gujarat-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 185   # ~3h 5m safety buffer
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Gujarat data collection
+        env:
+          DATA_GOV_API_KEY: ${{ secrets.DATA_GOV_API_KEY }}
+        run: python fetch_data_gujarat.py
+
+      - name: Commit Gujarat data & progress
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/gujarat/
+          git commit -m "Checkpoint: Gujarat agmarknet update" || echo "No changes"
+          git push
