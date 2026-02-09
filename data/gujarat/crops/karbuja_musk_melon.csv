@@ -1571,68 +1571,350 @@ Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2023-0
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2023-06-10 00:00:00,500.0,1450.0,975.0,187
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2023-06-22 00:00:00,500.0,1200.0,850.0,187
 Gujarat,Bharuch,Bharuch APMC,Karbuja(Musk Melon),Other,Local,2026-02-07 00:00:00,1300.0,2000.0,1500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-01-20 00:00:00,1500,2200,1900.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-01-22 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-02 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-09 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-13 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-26 00:00:00,1800,2200,2100.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-03-07 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-03-08 00:00:00,1300,1800,1600.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-01 00:00:00,1200,1800,1500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-11 00:00:00,1200,1800,1500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-12 00:00:00,1200,1800,1500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-13 00:00:00,1200,1800,1500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-16 00:00:00,1200,1800,1600.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-18 00:00:00,1200,1800,1500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-21 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-23 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-27 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-02 00:00:00,1500,1800,1700.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-05 00:00:00,1200,1800,1500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-10 00:00:00,1000,1400,1200.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-13 00:00:00,1000,1400,1200.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-16 00:00:00,1000,1400,1200.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-26 00:00:00,1000,1400,1200.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-30 00:00:00,600,1200,900.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-06-01 00:00:00,500,800,650.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-06-02 00:00:00,500,800,650.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-10-03 00:00:00,2000,2500,2300.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-12-08 00:00:00,1500,3000,2500.0,187
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-12-16 00:00:00,1500,2500,2100.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-01-05 00:00:00,2000,2500,2300.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-01-07 00:00:00,2000,2500,2300.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-01-11 00:00:00,2000,2500,2300.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-01-16 00:00:00,1500,2200,2000.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-02-04 00:00:00,1500,1800,1700.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-02-06 00:00:00,1800,2000,1900.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-02-09 00:00:00,1500,2200,1800.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-02-13 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-02-22 00:00:00,1800,2200,2100.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-02-26 00:00:00,1800,2200,2100.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-02-27 00:00:00,1800,2000,1900.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-04-13 00:00:00,1200,1800,1500.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-04-16 00:00:00,1200,1800,1600.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-04-22 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-04-25 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-04-27 00:00:00,1500,2000,1800.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-05-09 00:00:00,1000,1400,1300.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-05-12 00:00:00,1000,1400,1200.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-05-19 00:00:00,1000,1400,1200.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-05-20 00:00:00,1200,1500,1400.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-06-02 00:00:00,500,800,650.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-06-06 00:00:00,500,800,650.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-06-13 00:00:00,1000,1500,1300.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-08-22 00:00:00,2000,2200,2100.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Large,2016-10-03 00:00:00,2000,2500,2300.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-12-08 00:00:00,1500,3000,2500.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-12-13 00:00:00,1500,2500,2200.0,187
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-12-19 00:00:00,1500,3000,2500.0,187
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2016-02-29 00:00:00,1500,2000,1750.0,187
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2016-03-01 00:00:00,1500,2000,1750.0,187
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2016-06-20 00:00:00,600,1000,800.0,187
-Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2016-02-11 00:00:00,1500,2200,2000.0,187
-Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2016-03-07 00:00:00,1200,2000,1500.0,187
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2016-02-26 00:00:00,1000,2000,1600.0,187
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2016-02-29 00:00:00,1000,2000,1600.0,187
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2016-03-01 00:00:00,1000,2000,1600.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-02-25 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-02 00:00:00,2500.0,3500.0,3200.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-09 00:00:00,2000.0,3000.0,2800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-10 00:00:00,2000.0,3000.0,2800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-16 00:00:00,2500.0,3500.0,3300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-03-17 00:00:00,300.0,4000.0,380.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-04-27 00:00:00,1500.0,1800.0,1700.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-01 00:00:00,1500.0,2200.0,2000.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-04 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-07 00:00:00,1800.0,2000.0,1900.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-09 00:00:00,1800.0,2000.0,1900.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-25 00:00:00,2000.0,4000.0,3500.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-05-30 00:00:00,1500.0,2200.0,2000.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-06-03 00:00:00,150.0,2000.0,180.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-06-15 00:00:00,150.0,2000.0,180.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-06-22 00:00:00,180.0,2200.0,2100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-07-01 00:00:00,1800.0,2200.0,2100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-07-16 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-09-02 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-09-14 00:00:00,1500.0,2200.0,2000.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-11-17 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-12-03 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2015-12-04 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-02-10 00:00:00,2000.0,2300.0,2200.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-02-12 00:00:00,2000.0,2300.0,2200.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-02-24 00:00:00,1500.0,1800.0,1700.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-04 00:00:00,2000.0,3000.0,2800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-07 00:00:00,2000.0,3000.0,2800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-12 00:00:00,300.0,4000.0,3800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-16 00:00:00,2500.0,3500.0,3300.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-19 00:00:00,300.0,4000.0,3800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-03-28 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-04-09 00:00:00,3000.0,3500.0,3300.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-05-04 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-05-27 00:00:00,2000.0,3500.0,3000.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-06-16 00:00:00,1700.0,2000.0,1900.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-07-06 00:00:00,150.0,2000.0,180.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-07-16 00:00:00,200.0,2500.0,230.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-08-01 00:00:00,2000.0,3000.0,2600.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-08-10 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-08-11 00:00:00,2000.0,3000.0,2500.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-09-02 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-09-21 00:00:00,2500.0,3000.0,2800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-11-21 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2015-12-09 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-03-17 00:00:00,2000.0,3000.0,2250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-03-20 00:00:00,2000.0,2200.0,2100.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-03-24 00:00:00,2000.0,2500.0,2250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-04-27 00:00:00,500.0,600.0,550.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-04-28 00:00:00,1200.0,1500.0,1350.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-05-20 00:00:00,700.0,1000.0,950.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-05-22 00:00:00,700.0,1000.0,850.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-05-26 00:00:00,500.0,1000.0,750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-03 00:00:00,500.0,1000.0,750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-04 00:00:00,500.0,1000.0,750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-05 00:00:00,500.0,1000.0,750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-12 00:00:00,500.0,1500.0,1000.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-18 00:00:00,500.0,800.0,650.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-19 00:00:00,550.0,750.0,650.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-20 00:00:00,500.0,700.0,600.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-22 00:00:00,400.0,600.0,500.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-06-27 00:00:00,250.0,350.0,300.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2015-07-09 00:00:00,300.0,500.0,400.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-01-11 00:00:00,1500.0,2000.0,1750.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-01-31 00:00:00,1500.0,2000.0,1750.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-15 00:00:00,1250.0,1750.0,1500.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-16 00:00:00,1250.0,2000.0,1500.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-20 00:00:00,1200.0,1800.0,1400.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-03-21 00:00:00,1200.0,2000.0,1500.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-04-14 00:00:00,1200.0,1700.0,1500.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-05-13 00:00:00,1000.0,1300.0,1200.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-06-02 00:00:00,1500.0,2000.0,1700.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-06-19 00:00:00,1200.0,2000.0,1500.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-06-27 00:00:00,1500.0,2000.0,1700.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-11-02 00:00:00,1500.0,2200.0,2000.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2015-11-04 00:00:00,1500.0,2000.0,1700.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Small,2015-04-08 00:00:00,1200.0,1500.0,1350.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2015-05-20 00:00:00,800.0,1000.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-01-09 00:00:00,2000.0,3000.0,2500.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-01-16 00:00:00,1600.0,2400.0,2000.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-05-24 00:00:00,2000.0,3000.0,2500.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-05-27 00:00:00,2000.0,3000.0,2500.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-06-19 00:00:00,2000.0,4000.0,3000.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-06-30 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2015-10-22 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-01-09 00:00:00,1800.0,2000.0,1900.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-01-20 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-01-21 00:00:00,1500.0,2500.0,2100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-01-27 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-02-03 00:00:00,1000.0,2000.0,1700.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-02-17 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-03-24 00:00:00,1200.0,1800.0,1600.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-04-10 00:00:00,1200.0,2000.0,1700.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-04-12 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-04-29 00:00:00,1400.0,1600.0,1500.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-05-02 00:00:00,1200.0,1600.0,1500.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-05-04 00:00:00,1200.0,1500.0,1400.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-05-12 00:00:00,1000.0,1500.0,1300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-05-29 00:00:00,900.0,1200.0,1100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-06-02 00:00:00,900.0,1200.0,1100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-06-14 00:00:00,1000.0,1400.0,1300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-07-27 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-09-20 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-09-28 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2017-10-12 00:00:00,2000.0,2200.0,2100.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-01-16 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-01-21 00:00:00,1500.0,2500.0,2100.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-01-30 00:00:00,1000.0,2000.0,1600.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-02-04 00:00:00,1000.0,1800.0,1500.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-02-07 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-02-08 00:00:00,1000.0,2000.0,1700.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-02-15 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-02-23 00:00:00,1200.0,1800.0,1600.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-03-03 00:00:00,1500.0,2500.0,2200.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-03-11 00:00:00,1800.0,2400.0,2200.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-03-28 00:00:00,1200.0,1700.0,1500.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-03-30 00:00:00,1200.0,1600.0,1500.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-04-07 00:00:00,1000.0,1300.0,1200.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-04-20 00:00:00,1400.0,1600.0,1500.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-04-21 00:00:00,1300.0,1600.0,1500.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-05-17 00:00:00,800.0,1200.0,1100.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-05-18 00:00:00,800.0,1200.0,1100.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-06-01 00:00:00,800.0,1200.0,1100.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-07-17 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-08-11 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-08-16 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-09-14 00:00:00,1500.0,1800.0,1700.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2017-10-12 00:00:00,2000.0,2200.0,2100.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2017-04-17 00:00:00,1500.0,2000.0,1750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2017-05-01 00:00:00,1250.0,1400.0,1325.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2017-05-17 00:00:00,600.0,900.0,750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2017-05-27 00:00:00,550.0,700.0,625.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2017-06-06 00:00:00,500.0,550.0,525.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-02-25 00:00:00,1500.0,1700.0,1600.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-02-29 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-03-03 00:00:00,1100.0,1200.0,1150.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-03-05 00:00:00,1400.0,1500.0,1450.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-03-12 00:00:00,1000.0,1400.0,1200.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-03-23 00:00:00,1500.0,2000.0,1750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-04-02 00:00:00,1500.0,2000.0,1750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-05-01 00:00:00,1500.0,2000.0,1750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-05-04 00:00:00,1500.0,2000.0,1750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-05-28 00:00:00,700.0,1000.0,850.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-06-05 00:00:00,1000.0,1300.0,1150.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-05-31 00:00:00,1400.0,1500.0,1450.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-06-02 00:00:00,1500.0,1700.0,1600.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-06-03 00:00:00,1400.0,1600.0,1500.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-06-16 00:00:00,1400.0,1600.0,1500.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-07-25 00:00:00,1500.0,1700.0,1600.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-08-08 00:00:00,1800.0,2200.0,2000.0,187
+Gujarat,Dahod,Dahod(Veg. Market),Karbuja(Musk Melon),Other,Small,2012-11-06 00:00:00,140.0,240.0,170.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2012-04-05 00:00:00,1250.0,1500.0,1375.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2012-04-07 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-01-03 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-01-18 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-24 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-02 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-04 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-05 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-19 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-29 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-07 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-08 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-12 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-14 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-16 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-18 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-24 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-29 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-06 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-07 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-09 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-10 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-13 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-18 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-22 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-23 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-26 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-06-05 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-06-07 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-06-09 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-07-13 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-07-24 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-01 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-05 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-08 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-12 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-19 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-09-19 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-10-07 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-10-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-10-31 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-11-24 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-12-26 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-12-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Banaskanth,Deesa,Karbuja(Musk Melon),Other,Medium,2012-06-09 00:00:00,1000.0,1300.0,1150.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-01-30 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-02-22 00:00:00,1800.0,2100.0,1950.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-02-27 00:00:00,1500.0,1600.0,1550.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-02-28 00:00:00,1000.0,1400.0,1200.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-03-16 00:00:00,1500.0,1600.0,1550.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-04-16 00:00:00,2200.0,2300.0,2250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-04-18 00:00:00,2000.0,2200.0,2100.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-04-23 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-04-28 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-04-30 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-05-10 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-05-22 00:00:00,500.0,1000.0,750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-05-24 00:00:00,800.0,1000.0,900.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-08-06 00:00:00,500.0,600.0,550.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2012-08-20 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-06-09 00:00:00,1400.0,1500.0,1450.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-06-14 00:00:00,1400.0,1500.0,1450.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Medium,2012-08-09 00:00:00,1800.0,2200.0,2000.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2012-04-21 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2012-04-22 00:00:00,1000.0,1100.0,1050.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2012-04-23 00:00:00,1000.0,1250.0,1125.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-01-10 00:00:00,800.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-01-22 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-01-26 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-01-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-01 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-03 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-11 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-16 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-17 00:00:00,1000.0,1200.0,1150.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-02-23 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-09 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-17 00:00:00,1000.0,1200.0,1150.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-23 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-28 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-03-31 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-04 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-15 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-22 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-04-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-02 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-04 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-05 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-11 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-12 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-14 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-16 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-20 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-05-24 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-06-01 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-06-03 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-06-11 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-07-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-07-30 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-11 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-15 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-18 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-22 00:00:00,1000.0,1200.0,1000.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-24 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-08-28 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-09-28 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-10-21 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-10-30 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-11-27 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-12-01 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2012-12-28 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-01-29 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-01-30 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-04 00:00:00,1500.0,1800.0,1700.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-05 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-18 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-23 00:00:00,1800.0,2200.0,2100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-02-27 00:00:00,1800.0,2000.0,1900.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-03-02 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-03-05 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-02 00:00:00,1000.0,1500.0,1300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-05 00:00:00,1000.0,1800.0,1400.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-04-26 00:00:00,1500.0,2000.0,1800.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-03 00:00:00,1200.0,1800.0,1500.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-11 00:00:00,1000.0,1400.0,1200.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-21 00:00:00,1200.0,1500.0,1400.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-05-28 00:00:00,800.0,1300.0,1100.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-06-04 00:00:00,500.0,800.0,650.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-06-06 00:00:00,500.0,800.0,650.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-06-09 00:00:00,700.0,1000.0,850.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-07-13 00:00:00,2500.0,3000.0,2750.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-08-08 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Karbuja(Musk Melon),Other,Medium,2016-12-30 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Karbuja(Musk Melon),Other,Medium,2016-01-02 00:00:00,2000.0,2500.0,2300.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-04-06 00:00:00,2250.0,3000.0,2625.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-04-16 00:00:00,1000.0,1300.0,1150.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-04-18 00:00:00,900.0,1200.0,1050.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-04-29 00:00:00,1000.0,1400.0,1200.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-02 00:00:00,900.0,1000.0,950.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-04 00:00:00,800.0,1000.0,900.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-08 00:00:00,800.0,900.0,850.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-18 00:00:00,700.0,800.0,750.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-20 00:00:00,1000.0,1200.0,1100.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-25 00:00:00,1000.0,1100.0,1050.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-27 00:00:00,800.0,900.0,850.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-28 00:00:00,800.0,900.0,850.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-05-29 00:00:00,800.0,1000.0,900.0,187
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Karbuja(Musk Melon),Other,Medium,2009-06-10 00:00:00,1000.0,1100.0,1050.0,187
+Gujarat,Bharuch,Bharuch,Karbuja(Musk Melon),Other,Small,2009-11-21 00:00:00,1200.0,1500.0,1350.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2009-05-01 00:00:00,500.0,650.0,575.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2009-05-09 00:00:00,400.0,500.0,450.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2009-05-29 00:00:00,500.0,600.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-01-08 00:00:00,1000.0,1500.0,1250.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-01-11 00:00:00,800.0,1150.0,1000.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-01-18 00:00:00,900.0,1450.0,1150.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-01-20 00:00:00,900.0,1450.0,1150.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-01-21 00:00:00,900.0,1450.0,1150.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-01-31 00:00:00,900.0,1450.0,1150.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-06 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-09 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-11 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-12 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-17 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-18 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-21 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-25 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-02-28 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-03-02 00:00:00,700.0,1100.0,900.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-03-05 00:00:00,600.0,850.0,700.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-03-06 00:00:00,600.0,850.0,700.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-04-01 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-04-02 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-04-06 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-04-07 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-04-13 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-04-14 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-04-17 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-05-16 00:00:00,400.0,800.0,550.0,187
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Karbuja(Musk Melon),Other,Medium,2009-05-28 00:00:00,400.0,800.0,550.0,187
+Gujarat,Gandhinagar,Mansa,Karbuja(Musk Melon),Other,Large,2005-05-03 00:00:00,500,600,600.0,187
+Gujarat,Gandhinagar,Mansa,Karbuja(Musk Melon),Other,Large,2005-05-07 00:00:00,450,500,500.0,187
+Gujarat,Gandhinagar,Mansa,Karbuja(Musk Melon),Other,Large,2005-05-10 00:00:00,300,400,350.0,187
+Gujarat,Gandhinagar,Mansa,Karbuja(Musk Melon),Other,Large,2005-05-19 00:00:00,500,500,500.0,187
+Gujarat,Gandhinagar,Mansa,Karbuja(Musk Melon),Other,Large,2005-05-25 00:00:00,400,600,550.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,FAQ,2005-03-01 00:00:00,400,500,450.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,FAQ,2005-05-13 00:00:00,300,500,400.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,FAQ,2005-05-18 00:00:00,250,400,325.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,FAQ,2005-05-20 00:00:00,250,350,300.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2005-05-26 00:00:00,300,400,350.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2005-06-01 00:00:00,300,400,350.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Large,2005-10-05 00:00:00,300,400,350.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Medium,2005-10-10 00:00:00,250,300,275.0,187
+Gujarat,Surendranagar,Vadhvan,Karbuja(Musk Melon),Karbhuja,Large,2005-10-18 00:00:00,200,250,225.0,187

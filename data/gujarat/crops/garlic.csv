@@ -13338,21 +13338,1037 @@ Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2015-10-08 00:00:00,6000.0,90
 Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2015-10-13 00:00:00,5000.0,8000.0,8000.0,25
 Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2015-10-16 00:00:00,5000.0,8000.0,8000.0,25
 Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2015-11-04 00:00:00,7000.0,11000.0,11000.0,25
-Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-06-23 00:00:00,7600,9400,8500.0,25
-Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-07-02 00:00:00,4500,7200,6100.0,25
-Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-08-26 00:00:00,4500,6100,5400.0,25
-Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-08-27 00:00:00,7000,9000,8800.0,25
-Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-10-02 00:00:00,5400,6300,5800.0,25
-Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-10-11 00:00:00,5400,8100,7200.0,25
-Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-11-19 00:00:00,8100,10800,9000.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-01-12 00:00:00,3000,4500,4000.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-01-23 00:00:00,4000,6500,5500.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-07 00:00:00,5000,8000,6000.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-14 00:00:00,5000,9000,6000.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-15 00:00:00,5000,8000,6500.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-23 00:00:00,3000,8000,6000.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-25 00:00:00,3000,8000,5500.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-09 00:00:00,2500,5000,4500.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-11 00:00:00,3500,6300,5500.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-14 00:00:00,4500,7000,6000.0,25
-Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-20 00:00:00,3200,6500,5000.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-06-23 00:00:00,7600.0,9400.0,8500.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-07-02 00:00:00,4500.0,7200.0,6100.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-08-26 00:00:00,4500.0,6100.0,5400.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-08-27 00:00:00,7000.0,9000.0,8800.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-10-02 00:00:00,5400.0,6300.0,5800.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-10-11 00:00:00,5400.0,8100.0,7200.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2015-11-19 00:00:00,8100.0,10800.0,9000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-01-12 00:00:00,3000.0,4500.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-01-23 00:00:00,4000.0,6500.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-07 00:00:00,5000.0,8000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-14 00:00:00,5000.0,9000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-15 00:00:00,5000.0,8000.0,6500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-23 00:00:00,3000.0,8000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-02-25 00:00:00,3000.0,8000.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-09 00:00:00,2500.0,5000.0,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-11 00:00:00,3500.0,6300.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-14 00:00:00,4500.0,7000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2015-03-20 00:00:00,3200.0,6500.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2011-07-11 00:00:00,4000.0,6000.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2011-02-20 00:00:00,4500.0,10000.0,7000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2011-02-24 00:00:00,4000.0,9000.0,7000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2011-02-27 00:00:00,3900.0,7000.0,4000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2012-01-06 00:00:00,1000.0,3000.0,2500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2012-01-10 00:00:00,1500.0,3500.0,2500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2012-01-13 00:00:00,1250.0,3250.0,2250.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2012-01-20 00:00:00,1250.0,3250.0,2250.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2012-02-02 00:00:00,1000.0,2875.0,1938.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2012-01-02 00:00:00,2250.0,3210.0,2730.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2012-01-18 00:00:00,2750.0,3160.0,2955.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2012-01-20 00:00:00,1450.0,2500.0,1975.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2012-01-04 00:00:00,1500.0,4160.0,2875.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2012-01-12 00:00:00,1000.0,3340.0,2250.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2012-01-13 00:00:00,1000.0,3575.0,2500.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2012-01-23 00:00:00,1250.0,4125.0,2750.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2012-01-24 00:00:00,1100.0,2810.0,2000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2012-04-05 00:00:00,500.0,1250.0,625.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2012-05-01 00:00:00,1250.0,1250.0,1250.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2012-07-16 00:00:00,1160.0,1160.0,1160.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2012-07-26 00:00:00,3375.0,3375.0,3375.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2012-10-03 00:00:00,1280.0,1280.0,1280.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2012-11-24 00:00:00,1080.0,1080.0,1080.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-01-06 00:00:00,1260.0,2805.0,2130.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-01-13 00:00:00,1080.0,2850.0,2105.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-07-18 00:00:00,405.0,1230.0,905.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-07-19 00:00:00,405.0,1230.0,905.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-07-24 00:00:00,455.0,1280.0,1055.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-07-26 00:00:00,450.0,1205.0,855.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-09-13 00:00:00,475.0,1130.0,875.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2012-09-24 00:00:00,450.0,975.0,650.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-01-03 00:00:00,1500.0,3580.0,2500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-01-04 00:00:00,1875.0,3810.0,2500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-01-09 00:00:00,1125.0,3310.0,2250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-01-10 00:00:00,1125.0,3400.0,2250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-01-13 00:00:00,1250.0,3555.0,2250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-01-17 00:00:00,1150.0,3350.0,2500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-01-25 00:00:00,1500.0,3450.0,2750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-02-06 00:00:00,1150.0,2375.0,1750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-02-16 00:00:00,1000.0,2250.0,1625.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-02-18 00:00:00,1025.0,2000.0,1500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-02-28 00:00:00,1025.0,2350.0,1875.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2012-03-15 00:00:00,1405.0,2000.0,1700.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-02-04 00:00:00,1750.0,3750.0,2750.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-02-09 00:00:00,1500.0,3000.0,2250.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-02-13 00:00:00,1500.0,3000.0,2250.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-02-16 00:00:00,1250.0,2750.0,2000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-02-23 00:00:00,1250.0,2250.0,1750.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-02-24 00:00:00,1250.0,2250.0,1750.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-02-28 00:00:00,1250.0,2250.0,1750.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-03-29 00:00:00,1000.0,2000.0,1500.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-04-03 00:00:00,1250.0,1750.0,1500.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-05-23 00:00:00,1250.0,2250.0,1750.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-06-01 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-06-02 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-06-04 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-06-11 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2012-06-18 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-01-03 00:00:00,4000.0,6000.0,6000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-01-10 00:00:00,4000.0,6000.0,5500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-01-11 00:00:00,4000.0,6000.0,5500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-02-02 00:00:00,2000.0,4000.0,4000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-02-10 00:00:00,2500.0,4000.0,4000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-02-27 00:00:00,1000.0,3000.0,3000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-03-02 00:00:00,1000.0,3000.0,3000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-03-20 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-04-23 00:00:00,1200.0,1800.0,1800.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-05-25 00:00:00,1000.0,1800.0,1800.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-05-26 00:00:00,1000.0,1800.0,1800.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-07-23 00:00:00,1000.0,2000.0,2000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-08-23 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-08-25 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-08-29 00:00:00,1000.0,2000.0,2000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-09-04 00:00:00,1000.0,2000.0,2000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-10-31 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-11-02 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-11-06 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-11-20 00:00:00,1000.0,1500.0,1300.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-11-21 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-11-27 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2012-11-30 00:00:00,1000.0,1500.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-01-10 00:00:00,3000.0,5000.0,4250.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-01-12 00:00:00,3000.0,5000.0,4250.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-01-13 00:00:00,3000.0,5000.0,4250.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-02-18 00:00:00,3000.0,5000.0,4250.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-02-19 00:00:00,3000.0,5000.0,4250.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-02-20 00:00:00,3000.0,5000.0,4250.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-02-26 00:00:00,2000.0,2500.0,2375.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-02-28 00:00:00,2000.0,2500.0,2375.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-02-29 00:00:00,2000.0,2500.0,2375.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-03-05 00:00:00,1750.0,2250.0,2125.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-03-10 00:00:00,1000.0,1500.0,1300.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-03-15 00:00:00,1300.0,2000.0,1750.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-03-16 00:00:00,1300.0,2000.0,1750.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-03-17 00:00:00,1300.0,2000.0,1750.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-03-27 00:00:00,1300.0,1750.0,1550.0,25
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Garlic,Other,FAQ,2012-03-28 00:00:00,1300.0,1750.0,1550.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-07-21 00:00:00,4500.0,8805.0,7055.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-07-23 00:00:00,5005.0,9750.0,7875.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-08-10 00:00:00,5505.0,10000.0,7250.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-09-06 00:00:00,3750.0,8955.0,6750.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-12-08 00:00:00,3750.0,5750.0,4750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-01-01 00:00:00,6830.0,9300.0,7800.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-01-02 00:00:00,5600.0,9600.0,8500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-01-13 00:00:00,4600.0,8400.0,7000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-01-18 00:00:00,4100.0,8000.0,6000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-01-23 00:00:00,5350.0,8950.0,6750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-01-28 00:00:00,6000.0,8615.0,7500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-02-03 00:00:00,6000.0,8400.0,7250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-02-20 00:00:00,4250.0,6050.0,4875.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-02-23 00:00:00,3600.0,5325.0,4875.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-03-03 00:00:00,3625.0,5250.0,4375.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-03-04 00:00:00,3625.0,5250.0,4500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-03-11 00:00:00,3550.0,5040.0,4625.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-03-19 00:00:00,3750.0,5200.0,4855.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-04-08 00:00:00,3575.0,6000.0,4900.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-04-19 00:00:00,3750.0,5510.0,5200.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-04-30 00:00:00,3500.0,6100.0,5400.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-05-04 00:00:00,3500.0,5900.0,5400.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-05-05 00:00:00,3525.0,6250.0,4250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-05-09 00:00:00,3625.0,7375.0,5400.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-05-13 00:00:00,3750.0,7500.0,5250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-05-14 00:00:00,4250.0,7585.0,6250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-05-20 00:00:00,5000.0,8750.0,7500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-05-27 00:00:00,5025.0,7750.0,6450.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-06-08 00:00:00,5040.0,8505.0,5750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-06-11 00:00:00,5075.0,8600.0,7750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-06-15 00:00:00,5125.0,8510.0,7750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-06-17 00:00:00,5050.0,8640.0,6750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-06-27 00:00:00,4525.0,8400.0,6000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-07-01 00:00:00,4625.0,8250.0,6250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-07-02 00:00:00,4450.0,7750.0,6400.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-07-11 00:00:00,5250.0,8710.0,7050.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-07-14 00:00:00,4875.0,8150.0,6375.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-07-16 00:00:00,4750.0,8510.0,6875.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-07-21 00:00:00,5625.0,10000.0,8625.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-08-02 00:00:00,5575.0,9575.0,8375.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-08-05 00:00:00,5875.0,10125.0,9075.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-08-08 00:00:00,5575.0,10125.0,8525.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-08-09 00:00:00,5875.0,11025.0,8875.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-09-03 00:00:00,6250.0,10125.0,8525.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-09-06 00:00:00,6250.0,9450.0,8575.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-09-12 00:00:00,6325.0,9025.0,8025.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-09-23 00:00:00,6375.0,9250.0,8125.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-09-26 00:00:00,5875.0,8005.0,7725.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-10-01 00:00:00,6275.0,9300.0,8250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-10-05 00:00:00,6175.0,8510.0,7500.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-11-15 00:00:00,6675.0,8650.0,8250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-12-09 00:00:00,3500.0,7000.0,6000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-12-13 00:00:00,4250.0,7375.0,6250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-12-22 00:00:00,6750.0,8250.0,7750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2016-12-31 00:00:00,8000.0,11000.0,9000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-02-17 00:00:00,6000.0,8000.0,8000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-03-09 00:00:00,4000.0,10000.0,10000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-03-31 00:00:00,4000.0,8000.0,8000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-04-25 00:00:00,4000.0,6000.0,6000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-05-21 00:00:00,3000.0,6000.0,6000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-06-09 00:00:00,5000.0,7500.0,7500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-07-11 00:00:00,5000.0,8000.0,8000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-08-04 00:00:00,6000.0,11000.0,11000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-08-08 00:00:00,6000.0,11000.0,11000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-09-08 00:00:00,7000.0,10000.0,10000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-09-14 00:00:00,7000.0,10000.0,10000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-09-28 00:00:00,8000.0,10000.0,10000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2016-11-23 00:00:00,5600.0,8000.0,8000.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,China,FAQ,2016-12-02 00:00:00,9000.0,16000.0,13500.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-01-12 00:00:00,7000.0,11500.0,9000.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-02-11 00:00:00,8500.0,10300.0,9400.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-02-12 00:00:00,8500.0,10300.0,9400.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-02-22 00:00:00,7000.0,10300.0,9000.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-04-11 00:00:00,5800.0,7600.0,6700.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-05-11 00:00:00,4450.0,5350.0,4900.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-05-13 00:00:00,4900.0,5800.0,5350.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-07-08 00:00:00,6250.0,7150.0,6700.0,25
+Gujarat,Bharuch,Ankleshwar,Garlic,Garlic,FAQ,2016-07-23 00:00:00,9100.0,10000.0,9550.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-01-05 00:00:00,10000.0,12000.0,11800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-01-07 00:00:00,9000.0,12500.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-01-18 00:00:00,9000.0,12000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-01-21 00:00:00,9000.0,12000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-02-02 00:00:00,8000.0,10000.0,9000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-02-08 00:00:00,8500.0,11000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-02-23 00:00:00,6000.0,10000.0,8500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-02-28 00:00:00,5000.0,9000.0,7000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-03-03 00:00:00,3500.0,7000.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-03-12 00:00:00,4000.0,6500.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-03-19 00:00:00,3000.0,6500.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-03-27 00:00:00,4000.0,6000.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-03-31 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-04-11 00:00:00,3000.0,6500.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-04-29 00:00:00,5000.0,10500.0,8000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-05-10 00:00:00,4000.0,8000.0,7000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-05-17 00:00:00,5000.0,8000.0,7000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-05-20 00:00:00,4500.0,8000.0,7000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-05-23 00:00:00,5000.0,9000.0,7000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-05-25 00:00:00,7000.0,10000.0,8000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-05-26 00:00:00,7000.0,13000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-06-04 00:00:00,10000.0,12500.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-06-07 00:00:00,6000.0,12500.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-06-08 00:00:00,9000.0,12500.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-06-16 00:00:00,9000.0,11500.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-07-09 00:00:00,7500.0,10000.0,9000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-07-10 00:00:00,7500.0,11000.0,9000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-07-14 00:00:00,8000.0,12000.0,9000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-07-17 00:00:00,7500.0,11000.0,9500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-07-25 00:00:00,9000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-05 00:00:00,9000.0,12000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-06 00:00:00,8000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-11 00:00:00,9000.0,13000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-14 00:00:00,9000.0,13000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-16 00:00:00,9000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-22 00:00:00,8000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-26 00:00:00,8000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-28 00:00:00,8000.0,11000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-08-29 00:00:00,8000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-09-11 00:00:00,10000.0,12500.0,11500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-09-19 00:00:00,9000.0,12500.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-09-23 00:00:00,9000.0,11000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-09-27 00:00:00,5000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-10-02 00:00:00,8000.0,12000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-10-17 00:00:00,8000.0,13000.0,12000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-10-19 00:00:00,8000.0,12000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-10-23 00:00:00,8000.0,12500.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-10-27 00:00:00,8000.0,12000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-06 00:00:00,8000.0,12000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-11 00:00:00,9000.0,13000.0,12000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-12 00:00:00,9000.0,13000.0,11500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-13 00:00:00,9000.0,13000.0,12000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-16 00:00:00,9000.0,13000.0,12000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-17 00:00:00,8000.0,13000.0,12000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-22 00:00:00,8000.0,12000.0,11000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-11-29 00:00:00,9000.0,11750.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-12-03 00:00:00,8000.0,10000.0,10000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-12-10 00:00:00,6000.0,10000.0,8000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2016-12-21 00:00:00,6000.0,10000.0,8000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-01-02 00:00:00,5375.0,9000.0,7188.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-01-07 00:00:00,5250.0,7500.0,6375.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-01-13 00:00:00,2850.0,7250.0,5050.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-01-18 00:00:00,2750.0,6850.0,4800.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-02-09 00:00:00,3175.0,7550.0,5363.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-02-20 00:00:00,4250.0,6400.0,5325.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-02-26 00:00:00,3750.0,6300.0,5025.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-03-05 00:00:00,2525.0,4525.0,3525.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-03-08 00:00:00,2000.0,4525.0,3263.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-03-11 00:00:00,2550.0,4575.0,3563.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-03-12 00:00:00,2750.0,4525.0,3638.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-04-12 00:00:00,2250.0,5400.0,3825.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-04-27 00:00:00,2250.0,7125.0,4688.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-05-07 00:00:00,2750.0,7525.0,5138.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-06-03 00:00:00,3000.0,9075.0,6038.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-06-09 00:00:00,2750.0,9300.0,6025.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-07-04 00:00:00,3800.0,8550.0,6175.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-07-08 00:00:00,2750.0,8900.0,5825.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-07-12 00:00:00,3850.0,7725.0,5788.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-07-18 00:00:00,2500.0,9400.0,5950.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-08-09 00:00:00,3775.0,11050.0,7413.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-08-20 00:00:00,4150.0,9500.0,6825.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-09-03 00:00:00,4550.0,9000.0,6775.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-09-16 00:00:00,4150.0,8850.0,6500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-09-19 00:00:00,3800.0,8950.0,6375.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-09-23 00:00:00,6000.0,9000.0,7500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-09-27 00:00:00,5450.0,8800.0,7125.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-09-29 00:00:00,4375.0,9000.0,6688.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-10-17 00:00:00,5000.0,8375.0,6688.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-10-18 00:00:00,4300.0,8500.0,6400.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-10-20 00:00:00,4750.0,9300.0,7025.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-11-06 00:00:00,4500.0,9100.0,6800.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-11-24 00:00:00,4500.0,8025.0,5263.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-12-05 00:00:00,3500.0,6550.0,5025.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-12-14 00:00:00,3500.0,7500.0,5500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-12-17 00:00:00,4000.0,9250.0,6625.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-12-20 00:00:00,4000.0,10625.0,7313.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-12-21 00:00:00,4500.0,9800.0,7150.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2016-12-30 00:00:00,4500.0,10125.0,7313.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-05-18 00:00:00,3750.0,3750.0,3750.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-05-25 00:00:00,4000.0,5850.0,5000.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-06-06 00:00:00,4500.0,5650.0,5000.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-06-18 00:00:00,5000.0,7000.0,6500.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-07-14 00:00:00,3000.0,4575.0,3900.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-09-23 00:00:00,6325.0,6325.0,6325.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-09-26 00:00:00,2505.0,2505.0,2505.0,25
+Gujarat,Junagarh,Junagadh,Garlic,Other,FAQ,2016-10-03 00:00:00,5500.0,5500.0,5500.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-02-08 00:00:00,4500.0,7000.0,5750.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-02-12 00:00:00,4750.0,7000.0,5875.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-02-15 00:00:00,4700.0,6640.0,5670.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-02-18 00:00:00,3775.0,5355.0,4565.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-02-23 00:00:00,3495.0,5025.0,4260.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-02-25 00:00:00,3000.0,4150.0,3575.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-03-04 00:00:00,2250.0,4000.0,3125.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-03-17 00:00:00,2200.0,3950.0,3075.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-03-18 00:00:00,2155.0,3625.0,2890.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-03-22 00:00:00,2165.0,4055.0,3110.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-04-22 00:00:00,1400.0,5500.0,3450.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-04-27 00:00:00,2600.0,5270.0,3935.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-05-06 00:00:00,3000.0,5700.0,4350.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-06-01 00:00:00,4065.0,8375.0,6220.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-06-04 00:00:00,4700.0,5760.0,5230.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-06-09 00:00:00,4765.0,8875.0,6820.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-06-11 00:00:00,4600.0,7000.0,5800.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-06-14 00:00:00,3865.0,7225.0,5545.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-06-18 00:00:00,3890.0,6230.0,5060.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-06-22 00:00:00,4165.0,6455.0,5310.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-07-15 00:00:00,3500.0,5000.0,4500.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-07-18 00:00:00,3115.0,6775.0,4945.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-07-26 00:00:00,4250.0,6750.0,5500.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-07-27 00:00:00,4545.0,8875.0,6710.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-08-03 00:00:00,4500.0,8150.0,6325.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-08-05 00:00:00,4735.0,7750.0,6245.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-08-09 00:00:00,4385.0,8575.0,6480.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-08-11 00:00:00,4750.0,8950.0,6850.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-09-05 00:00:00,3750.0,7650.0,5700.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-09-24 00:00:00,4355.0,7575.0,5965.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-10-03 00:00:00,5275.0,7315.0,6295.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-10-07 00:00:00,5250.0,7400.0,6325.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-11-05 00:00:00,5000.0,7500.0,6250.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-12-01 00:00:00,3000.0,5360.0,4180.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-12-06 00:00:00,4425.0,5485.0,4955.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-12-08 00:00:00,2850.0,4090.0,3470.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-12-10 00:00:00,3000.0,4350.0,3675.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2016-12-14 00:00:00,3625.0,5765.0,4695.0,25
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Garlic,Other,FAQ,2016-01-04 00:00:00,3400.0,4000.0,3700.0,25
+Gujarat,Porbandar,Porbandar,Garlic,Average,FAQ,2016-09-28 00:00:00,0.0,7125.0,7125.0,25
+Gujarat,Rajkot,Dhoraji,Garlic,Average,FAQ,2016-05-26 00:00:00,4230.0,7005.0,5755.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-01-04 00:00:00,4255.0,8005.0,6505.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-01-06 00:00:00,3955.0,8055.0,6305.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-01-07 00:00:00,3455.0,7555.0,6255.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-01-19 00:00:00,4455.0,9455.0,7205.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-02-10 00:00:00,2905.0,9270.0,6955.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-02-23 00:00:00,3005.0,5305.0,4995.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-02-24 00:00:00,3205.0,5705.0,5105.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-02-26 00:00:00,2705.0,4905.0,4055.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-02-27 00:00:00,3055.0,4755.0,4205.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-01 00:00:00,2955.0,8755.0,4755.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-02 00:00:00,3055.0,4705.0,4255.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-03 00:00:00,2705.0,4755.0,3885.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-04 00:00:00,2905.0,4505.0,4055.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-15 00:00:00,3255.0,4455.0,3655.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-19 00:00:00,3755.0,5205.0,4355.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-22 00:00:00,3405.0,5655.0,4405.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-03-23 00:00:00,3405.0,5605.0,3955.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-04-04 00:00:00,2805.0,5855.0,3555.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-04-08 00:00:00,2755.0,4605.0,3655.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-04-09 00:00:00,2655.0,5455.0,3755.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-04-30 00:00:00,2155.0,6705.0,3155.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-05-09 00:00:00,2755.0,6305.0,3655.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-05-17 00:00:00,4005.0,8305.0,5655.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-05-23 00:00:00,3500.0,8005.0,6555.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-05-27 00:00:00,4005.0,9455.0,6455.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-05-31 00:00:00,3755.0,9355.0,6755.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-01 00:00:00,3750.0,8755.0,6155.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-03 00:00:00,4155.0,8355.0,6555.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-04 00:00:00,4250.0,8305.0,6655.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-09 00:00:00,4500.0,9305.0,6705.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-15 00:00:00,3755.0,8105.0,6500.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-18 00:00:00,3500.0,7755.0,6105.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-20 00:00:00,4155.0,8105.0,6205.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-22 00:00:00,4250.0,8705.0,6255.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-06-24 00:00:00,4500.0,8755.0,6255.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-07-05 00:00:00,4000.0,6955.0,6105.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-07-09 00:00:00,4000.0,7805.0,6005.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-07-12 00:00:00,3655.0,7305.0,5905.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-07-18 00:00:00,4705.0,9805.0,7105.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-07-25 00:00:00,2905.0,10155.0,7705.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-07-28 00:00:00,3500.0,11205.0,7855.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-08-03 00:00:00,3305.0,11205.0,7905.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-08-12 00:00:00,2500.0,9905.0,7805.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-08-13 00:00:00,3555.0,9705.0,7805.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-08-22 00:00:00,2505.0,10005.0,8155.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-08-29 00:00:00,3500.0,9555.0,8105.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-08-30 00:00:00,3000.0,10205.0,8205.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-09-05 00:00:00,3355.0,9205.0,7805.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-09-20 00:00:00,4505.0,9255.0,8205.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-09-22 00:00:00,4055.0,9205.0,7605.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-09-29 00:00:00,3885.0,8905.0,7505.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-10-15 00:00:00,4205.0,9205.0,7355.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-10-18 00:00:00,4405.0,8705.0,7255.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-11-22 00:00:00,4500.0,8885.0,7055.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-11-24 00:00:00,4755.0,8885.0,7005.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2016-11-26 00:00:00,4105.0,8005.0,6605.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-01-08 00:00:00,5500.0,8000.0,7000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-01-19 00:00:00,6500.0,6500.0,6500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-03-08 00:00:00,2330.0,2330.0,2330.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-04-21 00:00:00,2580.0,5725.0,4000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-04-23 00:00:00,2000.0,2505.0,2250.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-05-03 00:00:00,1900.0,3305.0,2500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-05-06 00:00:00,2000.0,4560.0,2500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-05-13 00:00:00,2405.0,7450.0,5000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-05-16 00:00:00,2500.0,6000.0,5000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-05-17 00:00:00,3730.0,6875.0,6000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-05-19 00:00:00,2000.0,2000.0,2000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-05-24 00:00:00,2750.0,3575.0,3250.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-06-04 00:00:00,3000.0,5300.0,4005.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-06-07 00:00:00,4750.0,9400.0,7815.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-06-10 00:00:00,6160.0,7500.0,6750.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-06-13 00:00:00,5075.0,10000.0,9500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-06-15 00:00:00,4005.0,4005.0,4005.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-07-07 00:00:00,7200.0,7750.0,7500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-07-09 00:00:00,3500.0,8000.0,5000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-07-12 00:00:00,8050.0,8050.0,8050.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-07-19 00:00:00,4500.0,8375.0,6000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-08-29 00:00:00,9050.0,9050.0,9050.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-08-30 00:00:00,6805.0,6805.0,6805.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-10-14 00:00:00,5000.0,8750.0,7500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-10-17 00:00:00,5000.0,9000.0,7500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-10-20 00:00:00,2500.0,7500.0,6500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-11-07 00:00:00,3500.0,6750.0,6000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-11-30 00:00:00,5425.0,5425.0,5425.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-12-09 00:00:00,4850.0,5125.0,5000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Garlic,FAQ,2016-12-13 00:00:00,3000.0,6750.0,4500.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-01-22 00:00:00,5005.0,9500.0,6755.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-02-08 00:00:00,5005.0,7505.0,6425.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-02-10 00:00:00,4750.0,6505.0,5500.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-02-12 00:00:00,4250.0,6000.0,5000.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-04-04 00:00:00,2305.0,3505.0,2705.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-05-20 00:00:00,3785.0,8255.0,4800.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-06-07 00:00:00,5180.0,6600.0,6080.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-06-12 00:00:00,3850.0,8350.0,4855.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-06-27 00:00:00,3750.0,8105.0,7130.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-06-30 00:00:00,4750.0,8655.0,6250.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2016-07-07 00:00:00,3750.0,6875.0,4750.0,25
+Gujarat,Bhavnagar,Palitana,Garlic,Garlic,FAQ,2024-08-01 00:00:00,14000.0,18000.0,16000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2024-08-02 00:00:00,12000.0,20000.0,16000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2024-08-04 00:00:00,12000.0,20000.0,16000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2024-08-13 00:00:00,13000.0,25000.0,20000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2024-08-22 00:00:00,12500.0,25000.0,19000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2024-08-25 00:00:00,12500.0,25000.0,19500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2024-08-12 00:00:00,4000.0,19900.0,12225.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2024-08-13 00:00:00,10050.0,13480.0,11765.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2024-08-20 00:00:00,14980.0,20980.0,17980.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2024-08-30 00:00:00,12775.0,19105.0,15940.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2024-08-09 00:00:00,7250.0,17680.0,12105.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2024-08-14 00:00:00,10750.0,21080.0,12250.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2024-08-20 00:00:00,10750.0,21255.0,16730.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2024-08-31 00:00:00,11250.0,22480.0,17750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2024-08-01 00:00:00,11375.0,16850.0,14000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2024-08-03 00:00:00,11250.0,15850.0,13250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2024-08-10 00:00:00,12750.0,17505.0,15000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2024-08-14 00:00:00,15000.0,21075.0,17000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2024-08-21 00:00:00,16250.0,22750.0,18000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2024-08-24 00:00:00,22500.0,32000.0,25500.0,25
+Gujarat,Surendranagar,Vadhvan,Garlic,Garlic,FAQ,2024-08-08 00:00:00,16500.0,17000.0,16750.0,25
+Gujarat,Surendranagar,Vadhvan,Garlic,Garlic,FAQ,2024-08-09 00:00:00,16500.0,17000.0,16750.0,25
+Gujarat,Surendranagar,Vadhvan,Garlic,Garlic,FAQ,2024-08-10 00:00:00,16500.0,17000.0,16750.0,25
+Gujarat,Surendranagar,Vadhvan,Garlic,Garlic,FAQ,2024-08-16 00:00:00,16000.0,17000.0,16500.0,25
+Gujarat,Surendranagar,Vadhvan,Garlic,Garlic,FAQ,2024-08-29 00:00:00,17500.0,19000.0,18250.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2024-08-06 00:00:00,10000.0,15000.0,15000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2008-02-08 00:00:00,1500.0,1670.0,1595.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2008-04-04 00:00:00,500.0,1950.0,1370.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-01-03 00:00:00,2260.0,4620.0,3440.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-01-07 00:00:00,2240.0,4260.0,3250.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-01-09 00:00:00,2350.0,5410.0,3880.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-01-16 00:00:00,2445.0,4755.0,3600.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-01-18 00:00:00,2370.0,4610.0,3490.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-01-22 00:00:00,2315.0,4775.0,3545.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-01-25 00:00:00,2350.0,4630.0,3490.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Desi,FAQ,2008-04-04 00:00:00,600.0,1310.0,955.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2008-10-13 00:00:00,200.0,840.0,450.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2008-10-17 00:00:00,200.0,830.0,400.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2008-10-20 00:00:00,200.0,850.0,425.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2008-01-01 00:00:00,4600.0,4655.0,4625.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2008-01-10 00:00:00,4775.0,4775.0,4775.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2008-01-31 00:00:00,4005.0,4005.0,4005.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2008-02-01 00:00:00,4300.0,5115.0,4600.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2008-02-06 00:00:00,2360.0,5300.0,5000.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2008-02-15 00:00:00,2075.0,2075.0,2075.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2008-03-11 00:00:00,1000.0,1500.0,1250.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-01-01 00:00:00,2250.0,5100.0,4350.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-01-05 00:00:00,2250.0,4505.0,3400.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-01-19 00:00:00,2600.0,5550.0,3825.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-01-30 00:00:00,2250.0,4005.0,3450.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-02-01 00:00:00,2250.0,3900.0,3425.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-02-06 00:00:00,2250.0,4005.0,3100.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-02-08 00:00:00,2100.0,3545.0,3100.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Other,FAQ,2008-02-13 00:00:00,1850.0,3850.0,3000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-01-01 00:00:00,3050.0,4850.0,4375.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-01-10 00:00:00,2675.0,4755.0,4250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-01-23 00:00:00,3050.0,5150.0,4625.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-01-25 00:00:00,3000.0,4700.0,4000.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-02-08 00:00:00,1250.0,3450.0,2250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-02-11 00:00:00,1105.0,3875.0,3250.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-03-03 00:00:00,1050.0,2250.0,1750.0,25
+Gujarat,Rajkot,Rajkot,Garlic,Garlic,FAQ,2008-03-04 00:00:00,1025.0,2250.0,1750.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-01-08 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-01-09 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-01-17 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-01-28 00:00:00,6000.0,7000.0,6500.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-01-30 00:00:00,6000.0,7000.0,6500.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-02-26 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-04-02 00:00:00,1000.0,1500.0,1250.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-05-01 00:00:00,1000.0,1750.0,1375.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-05-13 00:00:00,1000.0,2000.0,1500.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-05-14 00:00:00,1000.0,2000.0,1500.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-05-15 00:00:00,1000.0,2000.0,1500.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-05-28 00:00:00,1000.0,1750.0,1375.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-06-04 00:00:00,1000.0,1375.0,1187.5,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-06-09 00:00:00,1000.0,1500.0,1250.0,25
+Gujarat,Surat,Surat,Garlic,Other,FAQ,2008-06-13 00:00:00,1000.0,1750.0,1375.0,25
+Gujarat,Surendranagar,Vadhvan,Garlic,Garlic,FAQ,2008-05-08 00:00:00,1000.0,1375.0,1188.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-01-07 00:00:00,3000.0,6000.0,5000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-01-12 00:00:00,2500.0,5000.0,4500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-01-26 00:00:00,2000.0,4000.0,3600.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-02-08 00:00:00,1200.0,3000.0,2500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-02-11 00:00:00,1500.0,3500.0,3000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-02-16 00:00:00,2000.0,2500.0,2300.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-03-12 00:00:00,1200.0,2000.0,1800.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-03-13 00:00:00,1200.0,2000.0,1800.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-03-19 00:00:00,1000.0,1800.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-03-26 00:00:00,1000.0,1800.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-03-31 00:00:00,1000.0,1800.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-04-26 00:00:00,1000.0,1500.0,1300.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-04-29 00:00:00,1000.0,1500.0,1300.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-05-01 00:00:00,1000.0,1800.0,1500.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-05-21 00:00:00,2000.0,2500.0,2300.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-05-23 00:00:00,1250.0,2500.0,2000.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-06-09 00:00:00,1250.0,2000.0,1700.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-06-10 00:00:00,1250.0,2000.0,1700.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-06-14 00:00:00,1250.0,2000.0,1700.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-06-18 00:00:00,1250.0,2000.0,1700.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-07-05 00:00:00,1500.0,2000.0,1700.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-09-08 00:00:00,1000.0,1500.0,1300.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-11-07 00:00:00,800.0,1000.0,900.0,25
+Gujarat,Vadodara(Baroda),Vadodara,Garlic,Other,FAQ,2008-11-10 00:00:00,800.0,1000.0,800.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-03-14 00:00:00,1500.0,2500.0,2125.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-04-28 00:00:00,2000.0,2000.0,2000.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-05-03 00:00:00,1000.0,2125.0,1875.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-06-29 00:00:00,3625.0,3625.0,3625.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-07-01 00:00:00,3250.0,3250.0,3250.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-08-02 00:00:00,1500.0,1925.0,1750.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-08-09 00:00:00,3500.0,3500.0,3500.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-09-19 00:00:00,2350.0,2350.0,2350.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-10-11 00:00:00,4750.0,4750.0,4750.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-10-26 00:00:00,5000.0,5000.0,5000.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2011-12-01 00:00:00,3500.0,3500.0,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-02-09 00:00:00,15000.0,20000.0,17500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-03-16 00:00:00,4000.0,5000.0,4500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-04-07 00:00:00,2500.0,3000.0,2750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-04-09 00:00:00,2500.0,3000.0,2750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-04-11 00:00:00,2500.0,2600.0,2550.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-07-07 00:00:00,3000.0,4100.0,3550.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-07-30 00:00:00,3000.0,3500.0,3250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-08-16 00:00:00,2500.0,2700.0,2600.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-09-07 00:00:00,3000.0,4000.0,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-09-15 00:00:00,3000.0,4000.0,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-09-22 00:00:00,3500.0,4500.0,4000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-10-03 00:00:00,5000.0,6000.0,5500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-11-03 00:00:00,7500.0,8500.0,8000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-12-01 00:00:00,6000.0,7000.0,6500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-12-19 00:00:00,4000.0,5000.0,4500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2011-12-31 00:00:00,4000.0,5500.0,4750.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-01-05 00:00:00,3000.0,4500.0,3750.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-01-13 00:00:00,2500.0,4750.0,3625.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-01-16 00:00:00,3000.0,5000.0,4000.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-01-25 00:00:00,2500.0,4500.0,3500.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-02-07 00:00:00,4000.0,5250.0,4625.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-02-11 00:00:00,2000.0,5000.0,3500.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-02-23 00:00:00,800.0,2500.0,1650.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-02-26 00:00:00,750.0,2500.0,1625.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-02-27 00:00:00,1000.0,3500.0,2250.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-03-17 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-03-21 00:00:00,1250.0,2500.0,1875.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-03-22 00:00:00,1000.0,2550.0,1775.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2011-03-24 00:00:00,1500.0,2500.0,2000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2011-07-08 00:00:00,4000.0,6350.0,5500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-01-02 00:00:00,500.0,1000.0,750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-01-03 00:00:00,600.0,1200.0,900.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-01-11 00:00:00,3000.0,4000.0,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-01-27 00:00:00,1500.0,2000.0,1750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-01-29 00:00:00,2000.0,2500.0,2250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-02-02 00:00:00,500.0,1000.0,750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-02-03 00:00:00,2000.0,2500.0,2250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-02-11 00:00:00,2000.0,3500.0,2750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-02-15 00:00:00,1000.0,3500.0,2250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-03-13 00:00:00,1000.0,3000.0,2000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-06-02 00:00:00,2000.0,2500.0,2250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-06-05 00:00:00,1500.0,3500.0,2500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-06-17 00:00:00,2500.0,3000.0,2750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-06-21 00:00:00,3500.0,4000.0,3750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-07-09 00:00:00,3000.0,4000.0,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-07-14 00:00:00,3000.0,4000.0,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-07-16 00:00:00,3500.0,4000.0,3750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-07-22 00:00:00,3500.0,4000.0,3750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-06 00:00:00,4000.0,5000.0,4500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-07 00:00:00,3500.0,5000.0,4250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-12 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-14 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-16 00:00:00,4000.0,5000.0,4500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-22 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-23 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-27 00:00:00,3500.0,4000.0,3750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-08-28 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-09-01 00:00:00,4000.0,5000.0,4500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-09-04 00:00:00,4500.0,5500.0,5000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-09-08 00:00:00,4000.0,5000.0,4500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-09-19 00:00:00,4000.0,5500.0,4750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2014-09-23 00:00:00,4500.0,5000.0,4750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-01-01 00:00:00,3100.0,7000.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-01-08 00:00:00,4000.0,7000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-01-11 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-01-17 00:00:00,4000.0,5000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-01-23 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-01-24 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-02-01 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-02-02 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-02-03 00:00:00,4000.0,6000.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-02-06 00:00:00,3000.0,5000.0,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-02-12 00:00:00,3500.0,6000.0,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-02-24 00:00:00,3500.0,5000.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-03-18 00:00:00,3500.0,4500.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-03-19 00:00:00,2000.0,4000.0,2500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-03-26 00:00:00,2500.0,3500.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-04-06 00:00:00,1500.0,4000.0,3700.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-04-11 00:00:00,1500.0,3500.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-04-14 00:00:00,1500.0,3500.0,2500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-04-18 00:00:00,1500.0,4000.0,2500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-04-19 00:00:00,1300.0,4000.0,2500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-04-20 00:00:00,1500.0,4000.0,2800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-04-24 00:00:00,1300.0,4000.0,2500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-05-03 00:00:00,1500.0,4500.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-05-06 00:00:00,2000.0,4000.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-05-09 00:00:00,2000.0,4500.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-02 00:00:00,1500.0,4000.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-03 00:00:00,1500.0,4000.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-08 00:00:00,1500.0,4000.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-09 00:00:00,1500.0,4000.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-11 00:00:00,1200.0,3500.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-14 00:00:00,1200.0,4000.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-16 00:00:00,1200.0,4000.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-19 00:00:00,1500.0,4000.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-21 00:00:00,1500.0,5000.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-24 00:00:00,1200.0,4500.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-28 00:00:00,2000.0,5000.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-06-30 00:00:00,2000.0,5000.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Garlic,FAQ,2014-07-01 00:00:00,2500.0,4500.0,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-08-31 00:00:00,3500.0,7000.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-09-14 00:00:00,4000.0,7000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-09-15 00:00:00,4000.0,7000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-09-16 00:00:00,4000.0,7000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-09-20 00:00:00,4000.0,8000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-09-22 00:00:00,3500.0,7000.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-09-26 00:00:00,4000.0,6500.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-09-30 00:00:00,3500.0,6500.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-10-09 00:00:00,4000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-10-15 00:00:00,2000.0,6000.0,4200.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-10-16 00:00:00,3000.0,6000.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-10-22 00:00:00,3000.0,5500.0,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-10-27 00:00:00,2000.0,5500.0,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-11-01 00:00:00,3000.0,5000.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-11-07 00:00:00,3000.0,5500.0,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-11-14 00:00:00,3000.0,5000.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-11-21 00:00:00,4000.0,5500.0,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-12-09 00:00:00,3000.0,5500.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-12-11 00:00:00,2500.0,5500.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-12-14 00:00:00,2500.0,5500.0,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-12-25 00:00:00,2000.0,4500.0,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2014-12-27 00:00:00,2000.0,4500.0,4000.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-09-15 00:00:00,1500.0,2605.0,2000.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-09-29 00:00:00,2000.0,3105.0,2900.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-10-01 00:00:00,2330.0,2715.0,2500.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-10-08 00:00:00,2000.0,2380.0,2200.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-11-13 00:00:00,1255.0,1855.0,1400.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-11-17 00:00:00,1000.0,1505.0,1400.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-12-25 00:00:00,855.0,1580.0,1200.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-12-26 00:00:00,1805.0,1805.0,1805.0,25
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Garlic,Other,FAQ,2014-12-30 00:00:00,2000.0,3080.0,2500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-01-16 00:00:00,1250.0,3025.0,2138.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-01-21 00:00:00,1250.0,3140.0,2500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-02-07 00:00:00,400.0,2140.0,1270.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-02-11 00:00:00,250.0,2220.0,2000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-02-17 00:00:00,500.0,2250.0,1375.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-02-21 00:00:00,250.0,2600.0,1425.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-02-28 00:00:00,250.0,2090.0,1170.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-03-04 00:00:00,500.0,2300.0,1400.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-03-11 00:00:00,1250.0,3190.0,2220.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-03-13 00:00:00,500.0,2500.0,1500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-03-22 00:00:00,1000.0,3175.0,3000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-04-16 00:00:00,1750.0,4055.0,2903.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-05-14 00:00:00,1000.0,3655.0,2328.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-05-20 00:00:00,750.0,3620.0,2600.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-05-26 00:00:00,750.0,3830.0,3500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-05-29 00:00:00,750.0,3675.0,3000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-06-17 00:00:00,750.0,4385.0,3500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-07-03 00:00:00,750.0,3970.0,2360.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-07-09 00:00:00,1000.0,3960.0,2480.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-07-16 00:00:00,1250.0,5375.0,3400.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-07-17 00:00:00,1250.0,5490.0,3370.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-07-19 00:00:00,1500.0,5055.0,3300.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-08-14 00:00:00,1250.0,3950.0,2600.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-09-05 00:00:00,1250.0,4150.0,2700.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-09-12 00:00:00,1250.0,5000.0,3125.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-09-16 00:00:00,1250.0,4555.0,2903.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-09-19 00:00:00,1000.0,3630.0,2315.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-09-27 00:00:00,1250.0,4650.0,2950.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-10-16 00:00:00,1250.0,3475.0,2363.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-10-20 00:00:00,750.0,2905.0,1828.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-10-29 00:00:00,1250.0,3755.0,2503.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-11-20 00:00:00,1250.0,4250.0,2750.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-12-02 00:00:00,1250.0,2725.0,1988.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-12-03 00:00:00,1250.0,3600.0,2425.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-12-09 00:00:00,1250.0,3500.0,2375.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-12-11 00:00:00,1250.0,3805.0,2528.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2014-12-17 00:00:00,1250.0,3605.0,2428.0,25
+Gujarat,Jamnagar,Kalawad,Garlic,Other,FAQ,2014-04-02 00:00:00,750.0,2025.0,1388.0,25
+Gujarat,Jamnagar,Kalawad,Garlic,Other,FAQ,2014-04-24 00:00:00,525.0,1500.0,1013.0,25
+Gujarat,Jamnagar,Kalawad,Garlic,Other,FAQ,2014-04-26 00:00:00,535.0,1685.0,1110.0,25
+Gujarat,Junagarh,Bhesan,Garlic,Other,FAQ,2014-07-19 00:00:00,1410.0,3100.0,2255.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-01-01 00:00:00,2870.0,4010.0,3440.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-01-04 00:00:00,2105.0,2915.0,2510.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-01-15 00:00:00,1160.0,2240.0,1700.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-02-06 00:00:00,400.0,1000.0,700.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-02-08 00:00:00,375.0,885.0,630.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-02-11 00:00:00,360.0,820.0,590.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-02-17 00:00:00,385.0,955.0,670.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-03-21 00:00:00,1200.0,1500.0,1350.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-07-11 00:00:00,2385.0,3025.0,2705.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-07-19 00:00:00,2955.0,4005.0,3480.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-07-24 00:00:00,2620.0,4010.0,3315.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-07-29 00:00:00,2560.0,3750.0,3155.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-08-26 00:00:00,2250.0,3250.0,2750.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-08-29 00:00:00,1755.0,2075.0,1915.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-09-09 00:00:00,1615.0,2225.0,1920.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-09-13 00:00:00,2675.0,3635.0,3155.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-09-20 00:00:00,1575.0,2265.0,1920.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-09-27 00:00:00,2225.0,2665.0,2445.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-10-07 00:00:00,1660.0,2270.0,1965.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-10-11 00:00:00,1235.0,2365.0,1800.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-11-15 00:00:00,1000.0,2190.0,1595.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-11-20 00:00:00,1000.0,2700.0,1850.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-12-20 00:00:00,960.0,1940.0,1450.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2014-12-22 00:00:00,1000.0,2250.0,1625.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-01-25 00:00:00,580.0,3280.0,1780.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-02-01 00:00:00,305.0,2780.0,1480.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-02-07 00:00:00,200.0,2605.0,1255.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-03-20 00:00:00,1005.0,3630.0,2230.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-03-25 00:00:00,1230.0,3730.0,2505.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-04-10 00:00:00,605.0,3305.0,1930.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-05-10 00:00:00,555.0,3405.0,1980.0,25
+Gujarat,Rajkot,Gondal,Garlic,Desi,FAQ,2014-05-15 00:00:00,555.0,4480.0,2705.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-02-07 00:00:00,2000.0,2000.0,2000.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-02-11 00:00:00,2000.0,2000.0,2000.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-03-04 00:00:00,1500.0,1500.0,1500.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-03-24 00:00:00,1000.0,1400.0,1000.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-03-25 00:00:00,1250.0,1250.0,1250.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-04-01 00:00:00,1125.0,1125.0,1125.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-04-02 00:00:00,1250.0,1250.0,1250.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-04-29 00:00:00,1000.0,1000.0,1000.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-04-30 00:00:00,1000.0,1000.0,1000.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-05-01 00:00:00,1000.0,1000.0,1000.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-07-18 00:00:00,1000.0,1000.0,1000.0,25
+Gujarat,Amreli,Dhari,Garlic,Desi,FAQ,2008-09-23 00:00:00,1000.0,1000.0,1000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-01-23 00:00:00,5000.0,5500.0,5250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-02-04 00:00:00,3500.0,4500.0,4000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-03-28 00:00:00,1500.0,2000.0,1750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-04-16 00:00:00,1250.0,1750.0,1500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-04-23 00:00:00,1200.0,2000.0,1600.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-06-24 00:00:00,1200.0,1700.0,1450.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-08-26 00:00:00,1000.0,1250.0,1125.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-10-18 00:00:00,500.0,800.0,650.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2008-11-03 00:00:00,500.0,800.0,650.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-11-19 00:00:00,1800.0,3700.0,2750.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-11-27 00:00:00,1550.0,3000.0,2275.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-11-28 00:00:00,1600.0,3100.0,2350.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-12-01 00:00:00,2000.0,3500.0,2750.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-12-02 00:00:00,1250.0,1750.0,1500.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-12-06 00:00:00,1500.0,2250.0,1875.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-12-08 00:00:00,1100.0,1500.0,1300.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2008-12-12 00:00:00,900.0,1600.0,1250.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-01-02 00:00:00,4500.0,6750.0,6500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-01-10 00:00:00,4500.0,6500.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-01-11 00:00:00,4500.0,6500.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-01-12 00:00:00,4500.0,6500.0,6200.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-01-15 00:00:00,4500.0,6500.0,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-01-30 00:00:00,2500.0,6600.0,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-01-31 00:00:00,2500.0,6500.0,5750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-02-01 00:00:00,2500.0,6500.0,5750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-02-02 00:00:00,2500.0,6500.0,5750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-02-04 00:00:00,2000.0,5250.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-02-06 00:00:00,2000.0,5500.0,2800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-02-09 00:00:00,2000.0,6500.0,3300.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-02-20 00:00:00,1800.0,5000.0,2000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-02-28 00:00:00,1500.0,5000.0,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-03-01 00:00:00,1000.0,3750.0,2500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-03-02 00:00:00,1000.0,3500.0,2000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-03-03 00:00:00,1000.0,3375.0,2250.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-04-04 00:00:00,1000.0,2400.0,2100.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-04-08 00:00:00,1000.0,2400.0,2000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-04-28 00:00:00,1000.0,2200.0,2000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-05-04 00:00:00,1000.0,2000.0,1800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-05-10 00:00:00,1000.0,2000.0,1700.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-10-06 00:00:00,700.0,1000.0,900.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2008-10-19 00:00:00,750.0,1200.0,1000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2008-01-22 00:00:00,1750.0,4350.0,3050.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2008-01-24 00:00:00,2740.0,5245.0,4000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2008-01-25 00:00:00,2320.0,4500.0,3425.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-11-09 00:00:00,1175,1175,1175.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-12-08 00:00:00,1000,1250,1100.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-12-09 00:00:00,2000,2000,2000.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-12-14 00:00:00,1000,2000,1425.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-12-16 00:00:00,2500,2500,2500.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-12-29 00:00:00,2500,2500,2500.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-12-30 00:00:00,2000,2000,2000.0,25
+Gujarat,Amreli,Dhari,Garlic,Garlic,FAQ,2009-12-31 00:00:00,1500,1500,1500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-04-23 00:00:00,1500,2200,1850.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-05-18 00:00:00,2000,2600,2300.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-06-09 00:00:00,2000,2500,2250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-06-13 00:00:00,2000,2500,2250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-07-13 00:00:00,3000,3500,3250.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-10-15 00:00:00,2500,3500,3000.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-11-05 00:00:00,3000,4000,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-11-06 00:00:00,3000,4000,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-11-09 00:00:00,3000,4500,3750.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-11-17 00:00:00,3000,4250,3625.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-11-18 00:00:00,3000,4000,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-11-19 00:00:00,3000,4000,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-11-26 00:00:00,3000,4000,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-12-04 00:00:00,3000,4000,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-12-10 00:00:00,3000,4000,3500.0,25
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Garlic,Other,FAQ,2009-12-25 00:00:00,3000,4500,3750.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2009-01-06 00:00:00,750,1100,925.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2009-01-08 00:00:00,750,1000,875.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2009-03-01 00:00:00,300,500,400.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2009-03-10 00:00:00,400,600,500.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2009-03-14 00:00:00,400,850,625.0,25
+Gujarat,Botad,Botad,Garlic,Other,FAQ,2009-03-29 00:00:00,300,600,450.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-03-12 00:00:00,300,800,600.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-06-16 00:00:00,1000,3500,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-06-17 00:00:00,1000,3500,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-06-26 00:00:00,1000,3500,2800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-06-30 00:00:00,1300,4000,1750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-01 00:00:00,1300,4000,2850.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-02 00:00:00,1300,4000,3300.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-09 00:00:00,2300,4500,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-10 00:00:00,2300,4500,3750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-18 00:00:00,2375,4500,3750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-19 00:00:00,2375,4500,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-25 00:00:00,2250,4500,3875.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-07-30 00:00:00,2125,4500,3800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-08-03 00:00:00,2125,4500,3850.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-08-07 00:00:00,2125,4500,3800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-08-18 00:00:00,2500,6000,4300.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-08-23 00:00:00,3000,6000,4800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-08-30 00:00:00,2500,5800,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-09-16 00:00:00,2500,5900,5250.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-09-18 00:00:00,2500,6000,5250.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-09-25 00:00:00,3000,6000,4850.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-09-26 00:00:00,2500,6000,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-09-28 00:00:00,3000,6000,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-05 00:00:00,2000,4500,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-08 00:00:00,2000,4500,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-10 00:00:00,2000,4500,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-15 00:00:00,2000,4500,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-17 00:00:00,2000,4000,3500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-20 00:00:00,2000,4500,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-26 00:00:00,2500,5500,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-29 00:00:00,2500,5500,3000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-10-31 00:00:00,2000,5500,4000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-11-04 00:00:00,2000,5500,4800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-11-12 00:00:00,2000,5500,4750.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-11-17 00:00:00,2000,5500,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-11-24 00:00:00,2000,5500,4800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-11-29 00:00:00,2000,5500,4500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-11-30 00:00:00,2000,5500,4800.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-12-10 00:00:00,2000,5500,5000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-12-17 00:00:00,3000,6500,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-12-18 00:00:00,3000,7000,6000.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-12-24 00:00:00,3000,7000,5500.0,25
+Gujarat,Dahod,Dahod(Veg. Market),Garlic,Other,FAQ,2009-12-26 00:00:00,3000,7000,6000.0,25
+Gujarat,Jamnagar,Jam Jodhpur,Garlic,Other,FAQ,2009-12-16 00:00:00,3250,4000,3900.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-01-15 00:00:00,3750,7250,5500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-03-06 00:00:00,825,1135,980.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-04-04 00:00:00,1150,2700,1925.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-01 00:00:00,1000,2700,1850.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-07 00:00:00,1125,2685,1905.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-09 00:00:00,1000,2890,1945.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-13 00:00:00,1125,2665,1895.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-22 00:00:00,1125,2655,1890.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-23 00:00:00,1175,3055,2225.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-25 00:00:00,1125,2725,2000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-05-29 00:00:00,1125,2860,2050.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-06-08 00:00:00,1375,2900,2138.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-06-13 00:00:00,1500,3055,2278.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-06-16 00:00:00,1900,3250,2615.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-07-21 00:00:00,1625,3780,2730.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-07-25 00:00:00,1750,3870,2810.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-08-03 00:00:00,1625,3505,2580.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-08-18 00:00:00,1750,4575,3500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-08-19 00:00:00,1750,3750,2750.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-08-31 00:00:00,1750,3595,3000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-01 00:00:00,1625,3625,3050.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-02 00:00:00,1865,3615,2755.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-05 00:00:00,1500,3875,2750.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-07 00:00:00,1500,3560,3100.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-14 00:00:00,1500,3575,2550.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-19 00:00:00,1500,3505,2503.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-24 00:00:00,1750,3810,2780.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-26 00:00:00,1250,2890,2070.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-09-29 00:00:00,1250,3045,2550.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-10-10 00:00:00,1500,3325,2500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-10-13 00:00:00,1500,3730,3000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-10-23 00:00:00,2000,3900,2950.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-10-27 00:00:00,1500,4130,2950.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-11-02 00:00:00,1500,3500,3000.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-11-11 00:00:00,1750,3920,2950.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-11-23 00:00:00,1625,3540,2600.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-11-26 00:00:00,1750,3755,2753.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-02 00:00:00,2005,4110,3058.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-08 00:00:00,1950,4650,3500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-10 00:00:00,1875,4925,3700.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-11 00:00:00,1750,4920,3600.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-12 00:00:00,2005,5555,3950.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-14 00:00:00,1875,4825,3920.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-17 00:00:00,2055,5870,4500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-18 00:00:00,2250,6250,4500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-22 00:00:00,2000,5165,4500.0,25
+Gujarat,Jamnagar,Jamnagar,Garlic,Other,FAQ,2009-12-26 00:00:00,2750,5650,4700.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-04-20 00:00:00,1070,2560,1815.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-04-25 00:00:00,1160,2050,1605.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-05-01 00:00:00,1025,2155,1590.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-05-21 00:00:00,1450,2660,2055.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-05-26 00:00:00,1415,2475,1945.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-06-09 00:00:00,1360,2490,1925.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-07-06 00:00:00,2110,3420,2765.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-07-13 00:00:00,2330,2450,2390.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-07-23 00:00:00,2125,3515,2820.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-07-28 00:00:00,2235,3515,2875.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-08-21 00:00:00,2445,3565,3005.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-08-25 00:00:00,2610,3920,3265.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-08-28 00:00:00,2470,3690,3080.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-09-03 00:00:00,2160,3420,2590.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-09-14 00:00:00,2060,2840,2450.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-10-06 00:00:00,1810,2630,2220.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-10-07 00:00:00,1785,2885,2335.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-10-23 00:00:00,3390,4130,3760.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-11-03 00:00:00,2705,4125,3415.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-11-06 00:00:00,2860,3500,3180.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-11-07 00:00:00,2820,3250,3050.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-11-12 00:00:00,2390,3420,2905.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-11-14 00:00:00,2710,3370,3040.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-12-07 00:00:00,3500,5210,4355.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-12-09 00:00:00,3370,5020,4195.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-12-11 00:00:00,3320,4500,3910.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-12-12 00:00:00,2000,5500,3750.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-12-16 00:00:00,2890,5560,4225.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-12-22 00:00:00,2370,4835,3600.0,25
+Gujarat,Junagarh,Visavadar,Garlic,Other,FAQ,2009-12-26 00:00:00,3370,6550,4960.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-04-01 00:00:00,300,2225,1250.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-04-10 00:00:00,500,2435,1500.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-04-15 00:00:00,500,2760,1750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-04-20 00:00:00,615,3205,2280.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-04-27 00:00:00,500,2875,1750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-04-29 00:00:00,500,3080,1850.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-05-13 00:00:00,750,3375,2055.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-05-20 00:00:00,500,3105,1850.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-07-07 00:00:00,750,4205,2750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-07-08 00:00:00,750,4060,2750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-07-14 00:00:00,1000,4205,2750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-07-28 00:00:00,1000,4365,2750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-08-01 00:00:00,1000,4650,3000.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-08-04 00:00:00,1000,4875,3000.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-08-06 00:00:00,1000,4600,3125.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-10-07 00:00:00,1000,4005,2750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-10-08 00:00:00,1000,4025,2750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-10-10 00:00:00,1125,3690,2750.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-10-13 00:00:00,1125,4815,2900.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-10-14 00:00:00,1125,4110,2900.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-10-24 00:00:00,1500,4810,3500.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-10-26 00:00:00,1550,4750,3550.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-11-02 00:00:00,1750,4270,3000.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-11-05 00:00:00,1750,4175,3250.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-11-06 00:00:00,1750,3965,3000.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-11-17 00:00:00,1500,3910,2900.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-11-24 00:00:00,1500,4060,2900.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-11-27 00:00:00,1500,4000,2900.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-11-30 00:00:00,1500,4240,3000.0,25
+Gujarat,Rajkot,Gondal,Garlic,Garlic,FAQ,2009-12-31 00:00:00,2000,7060,4750.0,25
+Gujarat,Rajkot,Gondal,Garlic,New Laddu,FAQ,2009-03-19 00:00:00,500,2170,1700.0,25
+Gujarat,Rajkot,Gondal,Garlic,New Laddu,FAQ,2009-03-20 00:00:00,650,2210,1725.0,25
+Gujarat,Rajkot,Gondal,Garlic,New Laddu,FAQ,2009-03-24 00:00:00,2805,2805,2805.0,25
+Gujarat,Rajkot,Gondal,Garlic,New Laddu,FAQ,2009-04-06 00:00:00,1300,2665,2400.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-04-11 00:00:00,290,290,290.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-04-20 00:00:00,350,350,350.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-06-13 00:00:00,615,615,615.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-07-07 00:00:00,430,622,500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-08-21 00:00:00,863,863,863.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-08-29 00:00:00,800,900,870.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-09-04 00:00:00,771,771,771.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-10-01 00:00:00,350,495,376.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-10-02 00:00:00,320,400,350.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-10-03 00:00:00,290,600,417.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-10-09 00:00:00,750,3280,2120.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-10-13 00:00:00,1500,3000,2500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-04 00:00:00,1975,3485,2755.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-10 00:00:00,1700,2500,2375.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-12 00:00:00,1500,2690,2500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-14 00:00:00,2855,2855,2855.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-23 00:00:00,3050,3550,3425.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-24 00:00:00,2455,2925,2575.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-27 00:00:00,2155,2650,2550.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-11-30 00:00:00,1855,3750,2950.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-12-01 00:00:00,2300,2810,2400.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-12-14 00:00:00,2000,2860,2500.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-12-15 00:00:00,1600,4500,3100.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-12-17 00:00:00,4575,4575,4575.0,25
+Gujarat,Rajkot,Jasdan,Garlic,Other,FAQ,2009-12-21 00:00:00,3250,4405,3500.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-04-01 00:00:00,425,1425,525.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-04-06 00:00:00,400,2130,1200.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-04-08 00:00:00,350,2055,1055.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-05-09 00:00:00,525,2450,1875.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-05-16 00:00:00,530,2350,1525.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-05-18 00:00:00,525,2450,1850.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-05-28 00:00:00,705,2630,1930.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-06-23 00:00:00,1055,3275,2275.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-06-30 00:00:00,1005,3580,2415.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-07-02 00:00:00,1305,3625,2125.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-07-06 00:00:00,1375,4505,2300.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-07-14 00:00:00,1200,3230,2050.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-07-21 00:00:00,1250,3730,2250.0,25
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Garlic,Garlic,FAQ,2009-08-01 00:00:00,1255,3230,2255.0,25

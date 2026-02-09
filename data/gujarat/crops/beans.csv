@@ -6563,134 +6563,232 @@ Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2013-02-28 00:00:00,2650.0,3490.0,3125.0,9
 Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2013-04-20 00:00:00,2000.0,4000.0,3250.0,94
 Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2013-06-04 00:00:00,1250.0,2625.0,2000.0,94
 Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2013-07-02 00:00:00,1500.0,2250.0,1875.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-09-16 00:00:00,4500,5125,4813.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-09-20 00:00:00,5000,7925,6463.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-09-22 00:00:00,5000,7850,6425.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-10-04 00:00:00,2075,7000,4538.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-10-16 00:00:00,3000,6325,4663.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-10-26 00:00:00,2500,2650,2575.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-10-28 00:00:00,5000,7200,6100.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-11-09 00:00:00,5000,7250,6125.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-11-10 00:00:00,5000,5825,5413.0,94
-Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2017-11-16 00:00:00,3500,4900,4200.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-01-09 00:00:00,5000,6000,5500.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-01-11 00:00:00,5000,6000,5500.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-01-16 00:00:00,5250,5250,5250.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-01-31 00:00:00,3700,4950,4250.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-02-10 00:00:00,2500,3625,3250.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-02-17 00:00:00,2750,3900,3500.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-03-04 00:00:00,4750,4750,4750.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-03-18 00:00:00,2255,3500,3250.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-03-21 00:00:00,3000,3750,3500.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-03-22 00:00:00,2750,3525,3250.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-04-12 00:00:00,3000,4660,4250.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-04-19 00:00:00,2750,4550,4000.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-04-27 00:00:00,3625,4635,4100.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-05-09 00:00:00,2275,2675,2500.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-05-18 00:00:00,3250,3910,3700.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-05-27 00:00:00,2500,3450,3000.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-06-01 00:00:00,2500,3100,2900.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-06-09 00:00:00,2500,3300,2750.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-06-29 00:00:00,3000,3000,3000.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-08-09 00:00:00,3400,4750,4125.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-09-21 00:00:00,1500,1750,1625.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-10-03 00:00:00,2000,2500,2250.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-10-11 00:00:00,2000,3550,3100.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-10-13 00:00:00,2150,2150,2150.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-11-15 00:00:00,2000,3425,2750.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-11-20 00:00:00,3000,3175,3100.0,94
-Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2017-11-21 00:00:00,1500,1500,1500.0,94
-Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2017-01-04 00:00:00,4500,5000,4750.0,94
-Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2017-02-13 00:00:00,2625,3065,2845.0,94
-Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2017-04-03 00:00:00,2505,3475,2990.0,94
-Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2017-04-08 00:00:00,2900,3500,3200.0,94
-Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2017-04-27 00:00:00,2600,3150,2875.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-03-01 00:00:00,0,4725,4725.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-05-15 00:00:00,6300,6625,6450.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-05-20 00:00:00,6325,6425,6375.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-06-01 00:00:00,6125,7075,6600.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-06-12 00:00:00,0,7325,7325.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-06-19 00:00:00,5250,6625,5935.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-06-24 00:00:00,5975,6875,6425.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-06-26 00:00:00,0,5775,5775.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-11-10 00:00:00,0,4325,4325.0,94
-Gujarat,Porbandar,Porbandar,Beans,Beans (Whole),FAQ,2017-11-13 00:00:00,4125,7025,5575.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-01-07 00:00:00,2000,3500,2500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-01-18 00:00:00,3000,3750,3500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-01-23 00:00:00,2500,4000,3625.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-01-30 00:00:00,2500,4000,3500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-02-15 00:00:00,2250,4000,3500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-02-28 00:00:00,2500,3500,3125.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-03-01 00:00:00,2250,3625,3250.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-03-03 00:00:00,2500,6500,4000.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-03-06 00:00:00,1500,3500,2500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-03-17 00:00:00,2000,4000,3000.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-03-21 00:00:00,2000,4500,3500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-04-06 00:00:00,3500,4125,3750.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-04-13 00:00:00,2000,4125,3750.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-04-28 00:00:00,2000,4000,3330.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-05-17 00:00:00,1250,3550,3125.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-05-19 00:00:00,1500,3850,2750.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-05-23 00:00:00,1250,3000,2250.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-05-26 00:00:00,1250,3000,2250.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-06-22 00:00:00,1500,1500,1500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-06-23 00:00:00,1000,2500,2000.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-08-08 00:00:00,1500,3300,2250.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-08-25 00:00:00,1250,3025,2500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-08-30 00:00:00,1850,1850,1850.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-09-01 00:00:00,2250,3075,2750.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-09-04 00:00:00,700,2825,2500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-09-06 00:00:00,1500,2500,2000.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-09-14 00:00:00,1000,2150,1500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-09-19 00:00:00,1000,2500,2000.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-09-25 00:00:00,1500,2260,2000.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-10-07 00:00:00,1500,2000,1750.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-11-01 00:00:00,1755,1755,1755.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-11-07 00:00:00,1000,1750,1500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-12-16 00:00:00,1200,1750,1500.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-12-20 00:00:00,1330,1330,1330.0,94
-Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2017-12-27 00:00:00,1275,1275,1275.0,94
-Gujarat,Surat,Mandvi,Beans,Other,FAQ,2017-03-01 00:00:00,4500,4500,4500.0,94
-Gujarat,Surat,Mandvi,Beans,Other,FAQ,2017-03-10 00:00:00,4500,4500,4500.0,94
-Gujarat,Surat,Mandvi,Beans,Other,FAQ,2017-04-01 00:00:00,5100,5100,5100.0,94
-Gujarat,Surat,Mandvi,Beans,Other,FAQ,2017-04-11 00:00:00,6750,6750,6750.0,94
-Gujarat,Surat,Mandvi,Beans,Other,FAQ,2017-05-02 00:00:00,5600,5600,5600.0,94
-Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2017-04-10 00:00:00,7500,7500,7500.0,94
-Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2017-04-12 00:00:00,7000,7000,7000.0,94
-Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2017-04-13 00:00:00,6000,6000,6000.0,94
-Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2017-04-21 00:00:00,5500,5500,5500.0,94
-Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2017-04-26 00:00:00,2500,2500,2500.0,94
-Gujarat,Surat,Songadh,Beans,Other,FAQ,2017-03-08 00:00:00,4600,4600,4600.0,94
-Gujarat,Surat,Songadh,Beans,Other,FAQ,2017-03-18 00:00:00,7255,7255,7255.0,94
-Gujarat,Surat,Songadh,Beans,Other,FAQ,2017-03-21 00:00:00,7075,7075,7075.0,94
-Gujarat,Surat,Songadh,Beans,Other,FAQ,2017-04-08 00:00:00,7450,7450,7450.0,94
-Gujarat,Surat,Songadh,Beans,Other,FAQ,2017-06-19 00:00:00,4250,4500,4375.0,94
-Gujarat,Surat,Songadh,Beans,Other,FAQ,2017-06-20 00:00:00,4460,4460,4460.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-01-11 00:00:00,3500,5500,5500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-02-04 00:00:00,4500,5600,5600.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-02-11 00:00:00,4000,5500,5500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-03-02 00:00:00,4000,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-03-07 00:00:00,4000,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-03-10 00:00:00,4500,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-04-06 00:00:00,4500,5500,5500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-04-19 00:00:00,4500,5500,5500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-05-23 00:00:00,5000,5500,5500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-05-25 00:00:00,5000,5500,5500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-06-16 00:00:00,4000,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-06-17 00:00:00,4000,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-07-11 00:00:00,4000,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-07-14 00:00:00,4000,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-08-14 00:00:00,4000,4500,4500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-08-15 00:00:00,4000,4500,4500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-08-22 00:00:00,4000,4800,4800.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-08-31 00:00:00,4000,4800,4800.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-09-04 00:00:00,4500,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-09-11 00:00:00,4500,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-09-20 00:00:00,4500,5000,5000.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-10-31 00:00:00,4000,4500,4500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-11-09 00:00:00,3800,4500,4500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-11-14 00:00:00,3800,4500,4500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-11-22 00:00:00,3800,4500,4500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-11-30 00:00:00,4000,4500,4500.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-12-18 00:00:00,4500,4800,4800.0,94
-Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2017-12-30 00:00:00,4500,4800,4800.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2009-02-09 00:00:00,3500.0,4000.0,3800.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2009-02-10 00:00:00,3000.0,3800.0,3400.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2009-03-04 00:00:00,2000.0,2500.0,2450.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2009-03-12 00:00:00,2300.0,2600.0,2500.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2009-03-21 00:00:00,2400.0,2700.0,2650.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2009-05-11 00:00:00,2000.0,3000.0,2700.0,94
+Gujarat,Jamnagar,Dhrol,Beans,Other,FAQ,2009-10-07 00:00:00,3500.0,4405.0,3950.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-02-20 00:00:00,2000.0,2110.0,2060.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-03-12 00:00:00,2000.0,2450.0,2225.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-04-29 00:00:00,2500.0,2730.0,2680.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-05-07 00:00:00,2375.0,2690.0,2533.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-05-08 00:00:00,3250.0,4160.0,3705.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-05-30 00:00:00,2750.0,3425.0,3088.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-06-03 00:00:00,2750.0,3350.0,3050.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-06-22 00:00:00,2500.0,3500.0,3000.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-07-02 00:00:00,1750.0,2200.0,1975.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-08-08 00:00:00,1625.0,2500.0,2070.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-09-18 00:00:00,3250.0,3400.0,3325.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-11-07 00:00:00,4000.0,5100.0,4550.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-11-10 00:00:00,3500.0,3850.0,3700.0,94
+Gujarat,Jamnagar,Jamnagar,Beans,Other,FAQ,2009-11-20 00:00:00,2250.0,3500.0,3000.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-02-10 00:00:00,2220.0,3250.0,2735.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-02-13 00:00:00,1750.0,3070.0,2410.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-02-19 00:00:00,1640.0,2420.0,2030.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-03-19 00:00:00,2130.0,3640.0,2885.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-04-06 00:00:00,2420.0,3210.0,2815.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-04-11 00:00:00,2385.0,3055.0,2720.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-04-28 00:00:00,2670.0,3910.0,3290.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-05-21 00:00:00,2965.0,4055.0,3510.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-05-25 00:00:00,2915.0,4055.0,3485.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-05-26 00:00:00,2965.0,4075.0,3520.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-06-04 00:00:00,2250.0,3000.0,2625.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-06-12 00:00:00,2850.0,3260.0,3055.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-06-20 00:00:00,2210.0,2640.0,2425.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-07-08 00:00:00,2710.0,4090.0,3400.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-07-18 00:00:00,3230.0,4210.0,3720.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-08-06 00:00:00,3120.0,3560.0,3340.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-08-27 00:00:00,3155.0,4125.0,3640.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-09-07 00:00:00,4255.0,5025.0,4640.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-09-11 00:00:00,4635.0,6125.0,5380.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-11-24 00:00:00,5920.0,7750.0,6835.0,94
+Gujarat,Junagarh,Visavadar,Beans,Other,FAQ,2009-12-11 00:00:00,3760.0,4410.0,4085.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-02-05 00:00:00,500.0,630.0,592.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-02-13 00:00:00,695.0,736.0,725.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-02-19 00:00:00,750.0,800.0,770.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-02-26 00:00:00,610.0,762.0,680.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-03-07 00:00:00,626.0,700.0,670.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-03-12 00:00:00,580.0,693.0,630.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-04-02 00:00:00,550.0,700.0,600.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-04-07 00:00:00,550.0,650.0,600.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-01 00:00:00,700.0,800.0,760.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-04 00:00:00,650.0,1000.0,800.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-05 00:00:00,700.0,950.0,800.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-08 00:00:00,700.0,800.0,750.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-13 00:00:00,806.0,806.0,806.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-14 00:00:00,800.0,950.0,880.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-23 00:00:00,800.0,890.0,830.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-05-29 00:00:00,830.0,830.0,830.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-06-16 00:00:00,740.0,740.0,740.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-06-17 00:00:00,881.0,881.0,881.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-06-18 00:00:00,801.0,801.0,801.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-06-22 00:00:00,801.0,801.0,801.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-06-25 00:00:00,560.0,765.0,672.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-07-03 00:00:00,910.0,910.0,910.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-08-01 00:00:00,1100.0,1100.0,1100.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-08-10 00:00:00,1040.0,1040.0,1040.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-09-05 00:00:00,1131.0,1232.0,1200.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-09-07 00:00:00,1135.0,1225.0,1200.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-09-12 00:00:00,1264.0,1264.0,1264.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-10-03 00:00:00,1301.0,1301.0,1301.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-10-09 00:00:00,6000.0,6000.0,6000.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-10-10 00:00:00,6650.0,6650.0,6650.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-12-18 00:00:00,4005.0,5000.0,4500.0,94
+Gujarat,Rajkot,Jasdan,Beans,Other,FAQ,2009-12-19 00:00:00,6375.0,6375.0,6375.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-02-18 00:00:00,3080.0,4105.0,3200.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-03-14 00:00:00,3105.0,4025.0,3850.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-03-18 00:00:00,3005.0,3725.0,3505.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-03-19 00:00:00,2875.0,3955.0,3625.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-03-23 00:00:00,2505.0,3875.0,3555.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-04-08 00:00:00,2250.0,3730.0,3375.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-04-23 00:00:00,3750.0,5030.0,4750.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-05-07 00:00:00,3250.0,4780.0,3750.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-05-27 00:00:00,2750.0,4250.0,4050.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-05-28 00:00:00,2500.0,4430.0,4155.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-07-11 00:00:00,3555.0,5255.0,4025.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-08-01 00:00:00,3005.0,3750.0,3375.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-09-16 00:00:00,4250.0,5105.0,4400.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-09-17 00:00:00,4830.0,5530.0,5105.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Beans (Whole),FAQ,2009-12-12 00:00:00,5005.0,5505.0,5250.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2009-03-15 00:00:00,3000.0,3000.0,3000.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2009-04-04 00:00:00,3500.0,3500.0,3500.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2009-04-05 00:00:00,3100.0,3100.0,3100.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2009-04-08 00:00:00,3250.0,3250.0,3250.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2009-04-23 00:00:00,3250.0,3250.0,3250.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2009-04-24 00:00:00,3325.0,3325.0,3325.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2009-05-17 00:00:00,3500.0,3500.0,3500.0,94
+Gujarat,Surat,Valod(Buhari),Beans,Other,FAQ,2009-04-01 00:00:00,3340.0,3350.0,3350.0,94
+Gujarat,Surat,Valod(Buhari),Beans,Other,FAQ,2009-04-14 00:00:00,3590.0,3600.0,3600.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2009-03-06 00:00:00,3000.0,3075.0,3035.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2009-04-17 00:00:00,3500.0,3570.0,3535.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-01-07 00:00:00,2200.0,3200.0,3200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-01-30 00:00:00,2200.0,3000.0,3000.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-02-14 00:00:00,2200.0,3200.0,3000.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-03-25 00:00:00,2500.0,3000.0,2800.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-04-09 00:00:00,2800.0,3600.0,3300.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-04-16 00:00:00,2800.0,3600.0,3200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-04-18 00:00:00,2800.0,3500.0,3300.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-04-25 00:00:00,3000.0,4000.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-05-12 00:00:00,3000.0,3500.0,3300.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-05-16 00:00:00,3000.0,3500.0,3300.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-06-18 00:00:00,3000.0,3500.0,3300.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-06-24 00:00:00,3000.0,3500.0,3400.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-07-01 00:00:00,3200.0,3800.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-07-08 00:00:00,3200.0,3800.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-07-23 00:00:00,5000.0,6000.0,5800.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-08-07 00:00:00,3500.0,4400.0,4200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-08-11 00:00:00,3200.0,3900.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-08-14 00:00:00,3200.0,3900.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-08-27 00:00:00,3500.0,4200.0,4000.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-09-12 00:00:00,3900.0,4400.0,4200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-10-01 00:00:00,3800.0,4000.0,4000.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-10-06 00:00:00,3800.0,4000.0,3900.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-10-31 00:00:00,3400.0,4000.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-11-07 00:00:00,3500.0,3800.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-11-14 00:00:00,3500.0,3800.0,3600.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-12-09 00:00:00,3800.0,4400.0,4200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-12-12 00:00:00,3800.0,4400.0,4200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-12-14 00:00:00,3800.0,4400.0,4200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-12-19 00:00:00,3800.0,4400.0,4200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-12-25 00:00:00,3800.0,4400.0,4200.0,94
+Gujarat,Vadodara(Baroda),Vadodara,Beans,Other,FAQ,2009-12-30 00:00:00,3800.0,4400.0,4200.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-01-01 00:00:00,1000.0,1200.0,1100.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-01-02 00:00:00,1000.0,1100.0,1050.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-03-20 00:00:00,1000.0,1200.0,1100.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-09-03 00:00:00,2500.0,3000.0,2750.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-09-30 00:00:00,2500.0,3000.0,2750.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-11-01 00:00:00,1000.0,1200.0,1100.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-11-02 00:00:00,1000.0,1400.0,1200.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-11-10 00:00:00,2000.0,2300.0,2150.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-11-25 00:00:00,1200.0,2000.0,1600.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-12-22 00:00:00,2300.0,2500.0,2400.0,94
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Beans,Other,FAQ,2010-12-27 00:00:00,2000.0,2500.0,2250.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-01-02 00:00:00,3100.0,3225.0,3200.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-01-19 00:00:00,3000.0,3100.0,3100.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-01-21 00:00:00,3000.0,3100.0,3050.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-02-01 00:00:00,2500.0,2600.0,2550.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-02-06 00:00:00,2700.0,2750.0,2750.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-02-10 00:00:00,2600.0,2750.0,2700.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-02-23 00:00:00,2600.0,2800.0,2700.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-02-26 00:00:00,2600.0,2825.0,2750.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-03-02 00:00:00,2600.0,2825.0,2750.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-03-08 00:00:00,2750.0,2950.0,2900.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2010-03-11 00:00:00,2750.0,2950.0,2900.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-02-15 00:00:00,3225.0,4150.0,4150.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-02-16 00:00:00,3225.0,4215.0,4215.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-02-23 00:00:00,3225.0,4305.0,4305.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-02-29 00:00:00,3225.0,4375.0,4365.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-03-04 00:00:00,3325.0,4450.0,4220.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-03-11 00:00:00,3225.0,4340.0,4296.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-03-23 00:00:00,3225.0,4470.0,4397.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-04-11 00:00:00,4500.0,4950.0,4820.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-04-26 00:00:00,4450.0,5505.0,4620.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-04-27 00:00:00,4505.0,5575.0,5575.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-05-12 00:00:00,4505.0,5805.0,5805.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-05-19 00:00:00,4505.0,5850.0,5850.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-05-30 00:00:00,4505.0,5750.0,5750.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-07-15 00:00:00,4505.0,7900.0,6733.0,94
+Gujarat,Anand,Tarapur,Beans,Other,FAQ,2016-11-08 00:00:00,4505.0,9250.0,9195.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2004-03-17 00:00:00,990,1010,1000.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2004-03-19 00:00:00,950,975,965.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2004-04-09 00:00:00,750,875,825.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2004-04-12 00:00:00,750,800,780.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2004-05-17 00:00:00,850,950,900.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2004-05-19 00:00:00,850,950,900.0,94
+Gujarat,Dahod,Dahod,Beans,Other,FAQ,2004-05-21 00:00:00,850,950,900.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-02-03 00:00:00,1350,1750,1575.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-02-04 00:00:00,1450,1790,1750.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-02-09 00:00:00,1325,1640,1400.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-02-11 00:00:00,1075,1635,1400.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-02-17 00:00:00,1250,1450,1300.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-02-20 00:00:00,1390,1575,1490.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-03-01 00:00:00,1200,1475,1300.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-03-11 00:00:00,1000,1360,1250.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-03-19 00:00:00,1100,1260,1175.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-03-24 00:00:00,1150,1275,1210.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-04-02 00:00:00,1340,1385,1360.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-04-10 00:00:00,750,1300,1000.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-04-14 00:00:00,1000,1250,1120.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-04-15 00:00:00,900,1280,1025.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-05-01 00:00:00,725,1385,975.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-05-14 00:00:00,1000,1130,1055.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-06-09 00:00:00,625,850,700.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-06-23 00:00:00,500,950,750.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-06-25 00:00:00,500,1030,700.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-07-12 00:00:00,750,1375,1100.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-07-28 00:00:00,750,1250,1000.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-08-09 00:00:00,1230,1300,1260.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-08-31 00:00:00,1000,1630,1250.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-09-21 00:00:00,1125,1665,1425.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-10-23 00:00:00,1000,1340,1250.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-11-08 00:00:00,1025,1200,1125.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-11-18 00:00:00,1000,1205,1125.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-11-19 00:00:00,1055,1520,1300.0,94
+Gujarat,Junagarh,Junagadh,Beans,Beans (Whole),FAQ,2004-11-29 00:00:00,1000,1500,1250.0,94
+Gujarat,Panchmahals,Godhra,Beans,Beans (Whole),FAQ,2004-02-04 00:00:00,1300,1350,1350.0,94
+Gujarat,Panchmahals,Godhra,Beans,Beans (Whole),FAQ,2004-02-24 00:00:00,1150,1200,1175.0,94
+Gujarat,Panchmahals,Godhra,Beans,Beans (Whole),FAQ,2004-03-30 00:00:00,850,1100,850.0,94
+Gujarat,Panchmahals,Godhra,Beans,Beans (Whole),FAQ,2004-04-01 00:00:00,850,1150,850.0,94
+Gujarat,Panchmahals,Godhra,Beans,Other,FAQ,2004-02-27 00:00:00,1150,1250,1175.0,94
+Gujarat,Panchmahals,Godhra,Beans,Other,FAQ,2004-03-01 00:00:00,1150,1250,1175.0,94
+Gujarat,Panchmahals,Godhra,Beans,Other,FAQ,2004-03-15 00:00:00,925,1250,1150.0,94
+Gujarat,Panchmahals,Godhra,Beans,Other,FAQ,2004-03-31 00:00:00,850,1150,850.0,94
+Gujarat,Panchmahals,Godhra,Beans,Other,FAQ,2004-04-18 00:00:00,800,900,850.0,94
+Gujarat,Panchmahals,Godhra,Beans,Other,FAQ,2004-06-10 00:00:00,900,1000,950.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Other,FAQ,2004-12-27 00:00:00,1125,1550,1250.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Other,FAQ,2004-12-30 00:00:00,650,1625,1000.0,94
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Beans,Other,FAQ,2004-12-31 00:00:00,750,1605,1050.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2004-03-17 00:00:00,1250,1250,1250.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2004-03-22 00:00:00,1250,1250,1250.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2004-03-29 00:00:00,1250,1250,1250.0,94
+Gujarat,Surat,S.Mandvi,Beans,Other,FAQ,2004-04-16 00:00:00,1150,1150,1150.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-03-11 00:00:00,945,1250,1097.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-03-20 00:00:00,935,1330,1132.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-03-23 00:00:00,750,1305,1027.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-03-24 00:00:00,940,1220,1080.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-03-25 00:00:00,750,1245,997.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-03-30 00:00:00,900,1225,1062.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-04-09 00:00:00,750,1300,1025.0,94
+Gujarat,Surat,Vyra,Beans,Other,FAQ,2004-04-10 00:00:00,750,1125,937.0,94

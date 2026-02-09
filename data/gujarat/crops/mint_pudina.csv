@@ -4846,64 +4846,566 @@ Gujarat,Ahmedabad,Ahmedabad APMC,Mint(Pudina),Other,FAQ,2026-01-31 00:00:00,1500
 Gujarat,Ahmedabad,Ahmedabad APMC,Mint(Pudina),Other,FAQ,2026-02-02 00:00:00,1200.0,2000.0,1650.0,360
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Mint(Pudina),Mint(Pudina),Local,2026-01-03 00:00:00,2500.0,4000.0,3500.0,360
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Mint(Pudina),Mint(Pudina),Local,2026-01-04 00:00:00,2500.0,4000.0,3500.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-23 00:00:00,1500,3000,2300.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-26 00:00:00,1500,4000,2800.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-27 00:00:00,1500,3000,2300.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-28 00:00:00,2000,3000,2550.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-04 00:00:00,1500,2500,2100.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-06 00:00:00,1500,2500,2100.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-14 00:00:00,1000,2000,1550.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-18 00:00:00,1500,3000,2300.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-27 00:00:00,1500,2500,2100.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-30 00:00:00,1000,2500,1800.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-01 00:00:00,1500,2500,2050.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-09 00:00:00,1500,3000,2350.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-14 00:00:00,1500,2500,2100.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-17 00:00:00,1000,2000,1600.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-18 00:00:00,2000,3000,2600.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-23 00:00:00,1000,2500,1850.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-25 00:00:00,1000,2000,1550.0,360
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-12-08 00:00:00,600,1500,1150.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-01-27 00:00:00,1200,1450,1300.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-01-29 00:00:00,1200,1500,1350.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-07-28 00:00:00,1500,1850,1700.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-08-21 00:00:00,1500,1850,1700.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-10-22 00:00:00,1500,1750,1700.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-11-07 00:00:00,1500,1850,1700.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-11-11 00:00:00,1500,2000,1750.0,360
-Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-12-22 00:00:00,1300,1750,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-01 00:00:00,2000,3500,2800.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-10 00:00:00,2000,3000,2500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-19 00:00:00,2000,3000,2500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-21 00:00:00,2000,3000,2800.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-22 00:00:00,2000,3000,2500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-25 00:00:00,2000,3000,2500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-28 00:00:00,1500,2000,1800.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-05 00:00:00,1300,2000,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-08 00:00:00,1000,2000,1600.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-09 00:00:00,1500,2000,1800.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-16 00:00:00,1000,1500,1200.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-18 00:00:00,1000,2000,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-20 00:00:00,1000,1500,1200.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-26 00:00:00,1000,2000,1800.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-12 00:00:00,1000,1500,1300.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-14 00:00:00,1300,2000,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-16 00:00:00,1000,2000,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-18 00:00:00,1500,2000,1700.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-20 00:00:00,1000,1500,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-24 00:00:00,1000,2500,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-28 00:00:00,1000,1500,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-04-02 00:00:00,1500,2500,2000.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-04-18 00:00:00,1000,2000,1300.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-04-24 00:00:00,1000,2000,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-01 00:00:00,1500,2000,2000.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-11 00:00:00,1000,2000,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-12 00:00:00,1000,2000,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-22 00:00:00,1100,2500,1500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-06-01 00:00:00,2000,3000,2500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-06-18 00:00:00,1500,2800,2000.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-06-21 00:00:00,1200,2500,2000.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-01 00:00:00,1000,2000,2000.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-06 00:00:00,1000,2500,2000.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-12 00:00:00,2000,3500,2500.0,360
-Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-16 00:00:00,2000,3000,2500.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-23 00:00:00,1500.0,3000.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-26 00:00:00,1500.0,4000.0,2800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-27 00:00:00,1500.0,3000.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-09-28 00:00:00,2000.0,3000.0,2550.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-04 00:00:00,1500.0,2500.0,2100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-06 00:00:00,1500.0,2500.0,2100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-14 00:00:00,1000.0,2000.0,1550.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-18 00:00:00,1500.0,3000.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-27 00:00:00,1500.0,2500.0,2100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-10-30 00:00:00,1000.0,2500.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-01 00:00:00,1500.0,2500.0,2050.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-09 00:00:00,1500.0,3000.0,2350.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-14 00:00:00,1500.0,2500.0,2100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-17 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-18 00:00:00,2000.0,3000.0,2600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-23 00:00:00,1000.0,2500.0,1850.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-11-25 00:00:00,1000.0,2000.0,1550.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2017-12-08 00:00:00,600.0,1500.0,1150.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-01-27 00:00:00,1200.0,1450.0,1300.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-01-29 00:00:00,1200.0,1500.0,1350.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-07-28 00:00:00,1500.0,1850.0,1700.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-08-21 00:00:00,1500.0,1850.0,1700.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-10-22 00:00:00,1500.0,1750.0,1700.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-11-07 00:00:00,1500.0,1850.0,1700.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-11-11 00:00:00,1500.0,2000.0,1750.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2017-12-22 00:00:00,1300.0,1750.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-01 00:00:00,2000.0,3500.0,2800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-10 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-19 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-21 00:00:00,2000.0,3000.0,2800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-22 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-25 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-01-28 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-05 00:00:00,1300.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-08 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-09 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-16 00:00:00,1000.0,1500.0,1200.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-18 00:00:00,1000.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-20 00:00:00,1000.0,1500.0,1200.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-02-26 00:00:00,1000.0,2000.0,1800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-12 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-14 00:00:00,1300.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-16 00:00:00,1000.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-18 00:00:00,1500.0,2000.0,1700.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-20 00:00:00,1000.0,1500.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-24 00:00:00,1000.0,2500.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-03-28 00:00:00,1000.0,1500.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-04-02 00:00:00,1500.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-04-18 00:00:00,1000.0,2000.0,1300.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-04-24 00:00:00,1000.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-01 00:00:00,1500.0,2000.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-11 00:00:00,1000.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-12 00:00:00,1000.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-05-22 00:00:00,1100.0,2500.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-06-01 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-06-18 00:00:00,1500.0,2800.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-06-21 00:00:00,1200.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-01 00:00:00,1000.0,2000.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-06 00:00:00,1000.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-12 00:00:00,2000.0,3500.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2017-07-16 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-01-05 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-01-10 00:00:00,800.0,1200.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-01-29 00:00:00,400.0,1000.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-02-04 00:00:00,600.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-02-14 00:00:00,300.0,600.0,500.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-02-17 00:00:00,600.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-02-19 00:00:00,400.0,700.0,600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-02-21 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-03-07 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-03-10 00:00:00,400.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-03-12 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-03-21 00:00:00,400.0,700.0,600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-03-27 00:00:00,400.0,600.0,500.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-03-28 00:00:00,400.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-03-31 00:00:00,500.0,1000.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-01 00:00:00,400.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-09 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-11 00:00:00,700.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-13 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-15 00:00:00,500.0,700.0,600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-18 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-21 00:00:00,700.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-04-27 00:00:00,800.0,1200.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-02 00:00:00,1000.0,2000.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-05 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-11 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-13 00:00:00,500.0,1500.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-14 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-16 00:00:00,1000.0,1250.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-25 00:00:00,1000.0,1200.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-28 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-05-29 00:00:00,1000.0,1200.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-06-02 00:00:00,1000.0,1200.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-06-04 00:00:00,1000.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-06-06 00:00:00,1500.0,2500.0,2200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-06-18 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-06-20 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-06-25 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-06-26 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-07-04 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-07-08 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-07-09 00:00:00,1500.0,2500.0,2200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-07-11 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-07-15 00:00:00,1200.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-07-23 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-07-27 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-08-03 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-08-08 00:00:00,1500.0,2500.0,2200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-08-10 00:00:00,1500.0,2500.0,2100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-08-22 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-08-27 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-09-03 00:00:00,2000.0,3000.0,2800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-09-04 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-09-12 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-09-16 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-09-19 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-09-22 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-09-26 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-03 00:00:00,2000.0,3500.0,2800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-09 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-10 00:00:00,2000.0,3000.0,2600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-13 00:00:00,1500.0,2500.0,2200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-14 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-15 00:00:00,1500.0,2500.0,2100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-16 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-23 00:00:00,1500.0,2500.0,2200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-27 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-28 00:00:00,500.0,1500.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-29 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-30 00:00:00,500.0,1200.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-10-31 00:00:00,500.0,1500.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-11-16 00:00:00,500.0,1200.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-11-18 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-11-21 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-12-09 00:00:00,700.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-12-15 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-12-18 00:00:00,1250.0,2000.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-12-21 00:00:00,1250.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-12-22 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2015-12-25 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-01-16 00:00:00,300.0,800.0,550.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-01-19 00:00:00,300.0,500.0,400.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-01-24 00:00:00,300.0,500.0,400.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-01-30 00:00:00,500.0,600.0,550.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-02-10 00:00:00,300.0,400.0,350.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-02-12 00:00:00,300.0,500.0,400.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-02-23 00:00:00,200.0,400.0,300.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-02-27 00:00:00,300.0,600.0,450.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-03-02 00:00:00,500.0,600.0,550.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-03-18 00:00:00,200.0,300.0,250.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-03-20 00:00:00,200.0,300.0,250.0,360
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Mint(Pudina),Other,FAQ,2015-09-02 00:00:00,600.0,800.0,700.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-01-03 00:00:00,1200.0,1500.0,1350.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-01-11 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-02-17 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-02-18 00:00:00,700.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-02-20 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-02-22 00:00:00,700.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-02-23 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-02-24 00:00:00,700.0,1000.0,900.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-02-25 00:00:00,700.0,1000.0,800.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-03-05 00:00:00,600.0,1000.0,800.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-03-12 00:00:00,700.0,1000.0,800.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-06-01 00:00:00,800.0,1100.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-06-09 00:00:00,700.0,1000.0,850.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-07-01 00:00:00,1000.0,1500.0,1200.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-08-05 00:00:00,800.0,1250.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-08-06 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-09-04 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-11-06 00:00:00,750.0,1000.0,800.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-11-23 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2015-12-20 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-01-05 00:00:00,4000.0,5000.0,5000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-01-11 00:00:00,3500.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-01-13 00:00:00,3000.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-01-17 00:00:00,4000.0,5000.0,4500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-01-18 00:00:00,3500.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-01-23 00:00:00,3000.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-01-25 00:00:00,4000.0,5000.0,4500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-02-18 00:00:00,2500.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-02-19 00:00:00,3000.0,4500.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-02-23 00:00:00,3000.0,4500.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-02-26 00:00:00,2500.0,5000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-02-27 00:00:00,2500.0,5000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-03-18 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-03-22 00:00:00,1500.0,3500.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-03-29 00:00:00,1500.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-02 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-06 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-10 00:00:00,1500.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-11 00:00:00,1500.0,2000.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-18 00:00:00,1500.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-20 00:00:00,1500.0,2000.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-24 00:00:00,1500.0,3000.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-26 00:00:00,1500.0,4000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-27 00:00:00,1500.0,4000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-04-28 00:00:00,1500.0,3000.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-05-02 00:00:00,3000.0,4200.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-05-05 00:00:00,2000.0,3500.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-05-12 00:00:00,1000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-05-14 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-05-15 00:00:00,1500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-05-23 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-05-25 00:00:00,2000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-06-08 00:00:00,2000.0,4000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-06-10 00:00:00,2000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-06-13 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-06-16 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-06-18 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-06-23 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-06-27 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-07-12 00:00:00,2500.0,4500.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-07-13 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-07-16 00:00:00,3500.0,4500.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-08-08 00:00:00,5000.0,6000.0,5000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-08-12 00:00:00,5000.0,5500.0,5000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-08-22 00:00:00,4000.0,5500.0,5000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-01 00:00:00,3000.0,6000.0,5500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-03 00:00:00,3000.0,4000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-09 00:00:00,2500.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-12 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-16 00:00:00,2000.0,3500.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-23 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-27 00:00:00,2000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-09-30 00:00:00,3500.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-10-03 00:00:00,1500.0,3500.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-10-12 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-10-16 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-10-22 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-10-29 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-04 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-05 00:00:00,2500.0,3000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-11 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-19 00:00:00,2000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-21 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-22 00:00:00,2500.0,3000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-24 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-11-28 00:00:00,2500.0,3000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-12-01 00:00:00,2500.0,3000.0,2700.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-12-07 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-12-13 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2015-12-25 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-02-07 00:00:00,1500.0,1750.0,1650.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-02-14 00:00:00,1400.0,1500.0,1450.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-02-17 00:00:00,1000.0,1150.0,1100.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-02-24 00:00:00,1000.0,1500.0,1400.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-02-26 00:00:00,1400.0,1600.0,1500.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-03-09 00:00:00,1500.0,1600.0,1550.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-03-11 00:00:00,1500.0,1600.0,1550.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-03-19 00:00:00,1400.0,1600.0,1525.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-03-26 00:00:00,1400.0,1600.0,1500.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-03-27 00:00:00,1400.0,1500.0,1450.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-03-31 00:00:00,1400.0,1600.0,1500.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-04-07 00:00:00,1400.0,1600.0,1500.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2015-05-20 00:00:00,1500.0,1600.0,1550.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-01-01 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-01-26 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-01-29 00:00:00,2000.0,4000.0,3050.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-01-30 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-02-10 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-02-14 00:00:00,1000.0,1200.0,1150.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-06-18 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-06-21 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-06-24 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-06-25 00:00:00,2000.0,3000.0,2550.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-07-03 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-07-08 00:00:00,2000.0,3000.0,2550.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-07-17 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-07-18 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-07-20 00:00:00,2000.0,3000.0,2550.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-07-28 00:00:00,1000.0,1200.0,1150.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-07-31 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-08-11 00:00:00,2000.0,3500.0,2800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-09-15 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-09-26 00:00:00,2500.0,3000.0,2800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-10-21 00:00:00,2500.0,3000.0,2800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-10-28 00:00:00,2500.0,3000.0,2800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-10-29 00:00:00,2000.0,3000.0,2550.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-11-07 00:00:00,2000.0,3000.0,2550.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-11-18 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-11-23 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-11-28 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2015-12-20 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-01-18 00:00:00,750.0,1000.0,925.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-01-24 00:00:00,600.0,1200.0,1000.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-01-30 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-01-31 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-02-02 00:00:00,600.0,1200.0,950.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-02-03 00:00:00,600.0,1000.0,850.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-02-10 00:00:00,600.0,1300.0,1050.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-02-14 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-02-20 00:00:00,800.0,1200.0,1050.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-03-09 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-03-15 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-03-27 00:00:00,600.0,1200.0,1000.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-04-07 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-04-09 00:00:00,500.0,750.0,650.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-04-13 00:00:00,800.0,1200.0,1050.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-04-30 00:00:00,500.0,1200.0,950.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-05-02 00:00:00,1000.0,2000.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-05-07 00:00:00,500.0,1200.0,950.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-05-10 00:00:00,1000.0,1250.0,1150.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-05-18 00:00:00,600.0,1500.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-05-21 00:00:00,800.0,1250.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-05-23 00:00:00,600.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-06-05 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-06-15 00:00:00,900.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-06-21 00:00:00,1200.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-06-28 00:00:00,600.0,1500.0,1150.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-07-02 00:00:00,1500.0,2500.0,1750.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-07-04 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-07-09 00:00:00,1200.0,1500.0,1400.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-07-16 00:00:00,1000.0,1500.0,1250.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-07-18 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-07-25 00:00:00,700.0,1500.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-07-26 00:00:00,1250.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-08-24 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-08-28 00:00:00,1200.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-08-30 00:00:00,1000.0,3000.0,2100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-09-01 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-09-06 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-09-15 00:00:00,2000.0,2500.0,2300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-09-17 00:00:00,1200.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-09-19 00:00:00,800.0,1250.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-09-22 00:00:00,1200.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-09-28 00:00:00,800.0,1500.0,1250.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-10-22 00:00:00,1000.0,1250.0,1150.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-10-25 00:00:00,1000.0,1500.0,1350.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-10-30 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-11-12 00:00:00,1200.0,1500.0,1400.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-11-15 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-11-29 00:00:00,1250.0,1800.0,1600.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-12-10 00:00:00,1200.0,2000.0,1700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-12-11 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-12-15 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-12-18 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-12-29 00:00:00,1000.0,1800.0,1500.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2018-12-31 00:00:00,1500.0,2500.0,2100.0,360
+Gujarat,Bharuch,Ankleshwar,Mint(Pudina),Mint(Pudina),FAQ,2018-08-04 00:00:00,3000.0,3900.0,3675.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2018-01-12 00:00:00,1300.0,1700.0,1500.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2018-09-28 00:00:00,1500.0,2000.0,1750.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2018-10-11 00:00:00,1400.0,1700.0,1600.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2018-10-26 00:00:00,1300.0,1650.0,1400.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2018-11-20 00:00:00,1500.0,1850.0,1700.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-01-01 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-01-06 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-01-13 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-01-15 00:00:00,2200.0,3000.0,2850.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-01-25 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-02-15 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-02-24 00:00:00,1500.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-02-25 00:00:00,1500.0,2000.0,1700.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-03-03 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-03-08 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-03-10 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-03-13 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-03-29 00:00:00,1200.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-02 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-08 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-09 00:00:00,1500.0,3500.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-15 00:00:00,1500.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-16 00:00:00,1500.0,2500.0,2000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-18 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-20 00:00:00,2000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-04-24 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-03 00:00:00,1500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-04 00:00:00,2000.0,3000.0,2800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-08 00:00:00,2500.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-09 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-13 00:00:00,2000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-25 00:00:00,2000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-28 00:00:00,3000.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-05-30 00:00:00,4000.0,5000.0,4500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-06-03 00:00:00,3000.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-06-06 00:00:00,2500.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-06-08 00:00:00,2000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-06-14 00:00:00,2000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-06-25 00:00:00,5000.0,6000.0,5500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-07-02 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-07-10 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-07-11 00:00:00,2500.0,5000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-07-13 00:00:00,4000.0,5000.0,4500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-07-20 00:00:00,3000.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-07-26 00:00:00,5000.0,8000.0,6000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-08-01 00:00:00,6000.0,10000.0,7500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-08-05 00:00:00,5000.0,8500.0,7000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-08-18 00:00:00,4000.0,8000.0,6000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-08-19 00:00:00,5000.0,8000.0,6000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-08-25 00:00:00,5000.0,8000.0,7000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-09-01 00:00:00,5500.0,8000.0,7000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-09-19 00:00:00,7000.0,9000.0,8000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-09-20 00:00:00,6000.0,12000.0,10000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-09-27 00:00:00,5000.0,7000.0,6000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-10-05 00:00:00,5000.0,8000.0,6000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-10-12 00:00:00,5000.0,8000.0,6000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-11-25 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-11-29 00:00:00,2500.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-12-01 00:00:00,2500.0,5500.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-12-06 00:00:00,2500.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-12-13 00:00:00,1000.0,4000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-12-18 00:00:00,3000.0,5000.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2018-12-21 00:00:00,2500.0,5000.0,4000.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2018-10-10 00:00:00,2000.0,2250.0,2100.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Other,FAQ,2018-10-13 00:00:00,1400.0,2000.0,1600.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-01-02 00:00:00,1500.0,2000.0,1750.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-01-11 00:00:00,1500.0,2000.0,1750.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-01-19 00:00:00,2000.0,2500.0,2250.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-01-21 00:00:00,2000.0,2500.0,2250.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-01-26 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-02-01 00:00:00,1000.0,1500.0,1250.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-02-26 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-03-07 00:00:00,1500.0,2000.0,1750.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-03-30 00:00:00,1500.0,2000.0,1775.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-04-02 00:00:00,1500.0,2000.0,1775.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-04-06 00:00:00,1500.0,2000.0,1775.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2018-04-08 00:00:00,1500.0,2000.0,1775.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-10-19 00:00:00,500.0,600.0,550.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-10-25 00:00:00,500.0,1250.0,1000.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-10-29 00:00:00,500.0,1500.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-10-31 00:00:00,600.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-04 00:00:00,700.0,1200.0,1000.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-07 00:00:00,800.0,1500.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-10 00:00:00,800.0,1100.0,1000.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-12 00:00:00,1000.0,1200.0,1100.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-15 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-16 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-25 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-11-29 00:00:00,800.0,1500.0,1200.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-12-05 00:00:00,500.0,1000.0,800.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-12-06 00:00:00,500.0,900.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-12-10 00:00:00,700.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-12-12 00:00:00,700.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-12-14 00:00:00,500.0,800.0,700.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-12-20 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Mint(Pudina),Other,FAQ,2011-12-23 00:00:00,600.0,800.0,700.0,360
+Gujarat,Bharuch,Bharuch,Mint(Pudina),Other,FAQ,2011-03-24 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Mint(Pudina),FAQ,2011-07-08 00:00:00,800.0,1300.0,1000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-06-14 00:00:00,900.0,1300.0,1200.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-06-16 00:00:00,800.0,1300.0,1000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-06-19 00:00:00,800.0,1300.0,1200.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-06-26 00:00:00,800.0,1300.0,1200.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-06-27 00:00:00,800.0,1300.0,1050.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-07-18 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-07-30 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-08-01 00:00:00,800.0,1200.0,1000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-08-09 00:00:00,800.0,1200.0,1100.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-08-10 00:00:00,800.0,1200.0,1100.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-08-16 00:00:00,1000.0,2000.0,1500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-08-20 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-09-09 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-09-22 00:00:00,3700.0,4500.0,4000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-10-10 00:00:00,2000.0,3000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-10-25 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-10-31 00:00:00,2500.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-11-01 00:00:00,2500.0,3500.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-11-03 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-11-05 00:00:00,2500.0,4000.0,3200.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-11-19 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-11-30 00:00:00,3000.0,4000.0,3500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-12-02 00:00:00,2000.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-12-09 00:00:00,2500.0,3000.0,3000.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-12-13 00:00:00,2400.0,2800.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-12-14 00:00:00,2500.0,3000.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-12-17 00:00:00,2000.0,2500.0,2500.0,360
+Gujarat,Dahod,Dahod(Veg. Market),Mint(Pudina),Other,FAQ,2011-12-26 00:00:00,2500.0,3000.0,3000.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-01-05 00:00:00,900.0,1600.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-01-18 00:00:00,1100.0,1600.0,1350.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-01-20 00:00:00,1300.0,1500.0,1375.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-01-22 00:00:00,1000.0,1200.0,1100.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-05 00:00:00,800.0,1150.0,975.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-08 00:00:00,800.0,1150.0,975.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-10 00:00:00,1000.0,1300.0,1150.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-11 00:00:00,900.0,1650.0,1275.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-13 00:00:00,900.0,1000.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-17 00:00:00,900.0,1000.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-23 00:00:00,1100.0,1300.0,1200.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-02-24 00:00:00,900.0,1150.0,1025.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-03-16 00:00:00,700.0,1200.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-03-23 00:00:00,1000.0,1300.0,1150.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-03-28 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-04-01 00:00:00,700.0,900.0,800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-04-06 00:00:00,900.0,1250.0,1100.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-04-08 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-04-28 00:00:00,1000.0,1300.0,1150.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-04-30 00:00:00,1000.0,1200.0,1100.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-06 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-10 00:00:00,1000.0,1150.0,1100.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-12 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-14 00:00:00,1000.0,1150.0,1075.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-15 00:00:00,1000.0,1250.0,1125.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-16 00:00:00,800.0,1100.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-22 00:00:00,1100.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-05-28 00:00:00,1100.0,1400.0,1250.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-04 00:00:00,1250.0,1600.0,1425.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-06 00:00:00,800.0,1250.0,1025.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-07 00:00:00,950.0,1200.0,1075.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-16 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-18 00:00:00,1000.0,1200.0,1100.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-20 00:00:00,1000.0,1300.0,1150.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-22 00:00:00,1200.0,1400.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-23 00:00:00,1250.0,1500.0,1375.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-24 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-06-27 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-07-11 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-07-14 00:00:00,800.0,1100.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-07-15 00:00:00,800.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-07-17 00:00:00,700.0,1000.0,850.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-07-24 00:00:00,900.0,1000.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-07-28 00:00:00,800.0,1100.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-08-07 00:00:00,1250.0,1750.0,1500.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-08-12 00:00:00,1400.0,1800.0,1600.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-08-25 00:00:00,1500.0,2000.0,1750.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-08 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-11 00:00:00,1250.0,1400.0,1350.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-12 00:00:00,1250.0,1400.0,1350.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-16 00:00:00,1500.0,2000.0,1750.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-22 00:00:00,1250.0,1500.0,1400.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-23 00:00:00,1250.0,1500.0,1400.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-25 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-28 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-09-29 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-10-03 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-10-09 00:00:00,800.0,1000.0,950.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-10-15 00:00:00,750.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-10-17 00:00:00,750.0,1000.0,900.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-10-23 00:00:00,1500.0,2000.0,1800.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-11-09 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-11-18 00:00:00,1250.0,1500.0,1400.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-11-21 00:00:00,900.0,1100.0,1000.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-11-29 00:00:00,1000.0,1200.0,1150.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-12-05 00:00:00,1000.0,1500.0,1275.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-12-14 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-12-18 00:00:00,1000.0,1500.0,1300.0,360
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mint(Pudina),Other,FAQ,2011-12-28 00:00:00,900.0,1200.0,1050.0,360
+Gujarat,Botad,Botad,Mint(Pudina),Other,FAQ,2005-10-26 00:00:00,150,200,175.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-02-10 00:00:00,800,900,850.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-02-23 00:00:00,900,1000,950.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-02-26 00:00:00,900,1000,950.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-07-29 00:00:00,600,750,700.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-08-02 00:00:00,1500,2000,1750.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-08-05 00:00:00,1500,2000,1750.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-08-08 00:00:00,1500,2000,1750.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-08-16 00:00:00,1250,1500,1350.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-08-29 00:00:00,1400,1500,1450.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-09-14 00:00:00,1000,1250,1100.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-09-19 00:00:00,1000,1500,1300.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-01 00:00:00,700,800,750.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-03 00:00:00,2000,2500,2250.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-06 00:00:00,2250,2350,2300.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-10 00:00:00,2000,2250,2100.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-15 00:00:00,1500,2000,1750.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-18 00:00:00,1250,1500,1350.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-21 00:00:00,1500,2000,1750.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-22 00:00:00,2000,2250,2100.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-10-26 00:00:00,2500,3000,2700.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-11-11 00:00:00,1750,2000,1850.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-11-12 00:00:00,1000,1500,1250.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-11-14 00:00:00,1500,1750,1600.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-11-21 00:00:00,1500,2000,1750.0,360
+Gujarat,Vadodara(Baroda),Padra,Mint(Pudina),Mint(Pudina),FAQ,2005-12-06 00:00:00,1000,1500,1200.0,360
+Gujarat,Vadodara(Baroda),Vadodara,Mint(Pudina),Mint(Pudina),FAQ,2005-11-10 00:00:00,400,500,450.0,360
+Gujarat,Vadodara(Baroda),Vadodara,Mint(Pudina),Other,FAQ,2005-11-24 00:00:00,500,600,500.0,360
