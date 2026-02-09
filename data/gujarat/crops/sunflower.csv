@@ -2,3 +2,8 @@ State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,M
 Gujarat,Porbandar,Porbandar,Sunflower,Bold,FAQ,2023-09-18,4425,4425,4425.0,14
 Gujarat,Porbandar,Porbandar,Sunflower,Bold,Non-FAQ,2025-04-04 00:00:00,4000,4000,4000.0,14
 Gujarat,Surat,Songadh,Sunflower,Other,FAQ,2017-05-08 00:00:00,3500,3500,3500.0,14
+Gujarat,Surat,Songadh,Sunflower,Local,FAQ,2024-05-10 00:00:00,2815,3885,3800.0,14
+Gujarat,Porbandar,Porbandar,Sunflower,Bold,FAQ,2023-04-06 00:00:00,3000,4125,3565.0,14
+Gujarat,Porbandar,Porbandar,Sunflower,Bold,FAQ,2023-04-08 00:00:00,4250,4250,4250.0,14
+Gujarat,Porbandar,Porbandar,Sunflower,Bold,FAQ,2023-05-22 00:00:00,2575,2650,2615.0,14
+Gujarat,Porbandar,Porbandar,Sunflower,Bold,FAQ,2023-11-23 00:00:00,2250,2725,2485.0,14

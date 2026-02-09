@@ -14131,77 +14131,1719 @@ Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-03-23 00:00:00,4500.0,4550.0,4550
 Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-04-09 00:00:00,4750.0,4800.0,4775.0,13
 Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-04-29 00:00:00,3750.0,4100.0,4000.0,13
 Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-01-04 00:00:00,4440.0,4620.0,4585.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-01-02 00:00:00,3950,3950,3950.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-03-02 00:00:00,3250,3250,3250.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-09-03 00:00:00,2525,3485,3485.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-09-29 00:00:00,3660,3660,3660.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-10-14 00:00:00,3500,3650,3625.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-10-20 00:00:00,3445,3625,3600.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-02 00:00:00,3250,3945,3850.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-09 00:00:00,3735,3955,3875.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-20 00:00:00,3500,4240,4125.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-27 00:00:00,4080,4110,4110.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-01 00:00:00,3905,4275,3995.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-07 00:00:00,4195,4225,4225.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-23 00:00:00,4100,4240,4240.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-26 00:00:00,4200,4200,4200.0,13
-Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-28 00:00:00,3750,4155,4155.0,13
-Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2020-01-03 00:00:00,4010,4010,4010.0,13
-Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2020-02-18 00:00:00,3510,3510,3510.0,13
-Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2020-02-27 00:00:00,3500,3500,3500.0,13
-Gujarat,Anand,Anand,Soyabean,Soyabeen,FAQ,2020-03-17 00:00:00,2800,3150,2900.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-01-23 00:00:00,4175,4236,4200.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-01-28 00:00:00,3975,4025,3990.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-05 00:00:00,4050,4150,4100.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-07 00:00:00,4050,4150,4100.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-08 00:00:00,4050,4150,4100.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-11 00:00:00,3900,3976,3950.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-13 00:00:00,3850,4000,3950.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-17 00:00:00,3950,4000,3975.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-22 00:00:00,3950,4000,3975.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-24 00:00:00,4000,4050,4025.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-26 00:00:00,3950,3975,3975.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-02 00:00:00,3700,3800,3775.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-03 00:00:00,3700,3750,3725.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-12 00:00:00,3500,3550,3525.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-14 00:00:00,3500,3575,3550.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-04 00:00:00,3750,3850,3800.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-18 00:00:00,3800,3850,3825.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-19 00:00:00,3800,3850,3825.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-21 00:00:00,3850,3900,3875.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-03 00:00:00,3800,4000,3900.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-05 00:00:00,3750,3950,3900.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-08 00:00:00,3700,3900,3800.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-20 00:00:00,3625,3725,3675.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-02 00:00:00,3700,3825,3800.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-07 00:00:00,3500,3700,3600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-08 00:00:00,3550,3700,3650.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-10 00:00:00,3550,3700,3600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-14 00:00:00,3550,3740,3675.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-15 00:00:00,3550,3675,3650.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-16 00:00:00,3550,3675,3600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-17 00:00:00,3550,3675,3600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-22 00:00:00,3550,3700,3600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-23 00:00:00,3500,3650,3600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-08 00:00:00,3700,3750,3725.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-10 00:00:00,3700,3750,3725.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-18 00:00:00,3700,3725,3710.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-19 00:00:00,3700,3725,3710.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-24 00:00:00,3700,3750,3725.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-29 00:00:00,3800,3900,3850.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-05 00:00:00,3800,3888,3825.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-10 00:00:00,3700,3750,3710.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-18 00:00:00,3750,3900,3850.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-21 00:00:00,3850,3950,3900.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-23 00:00:00,3850,3925,3900.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-10-22 00:00:00,4150,4250,4225.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-10 00:00:00,4200,4300,4250.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-19 00:00:00,4400,4551,4500.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-21 00:00:00,4425,4500,4475.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-23 00:00:00,4350,4487,4425.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-26 00:00:00,4300,4402,4350.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-15 00:00:00,4300,4350,4320.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-16 00:00:00,4375,4435,4410.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-23 00:00:00,4400,4500,4420.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-30 00:00:00,4475,4522,4500.0,13
-Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2020-10-28 00:00:00,3500,4020,3760.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-01-02 00:00:00,3950.0,3950.0,3950.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-03-02 00:00:00,3250.0,3250.0,3250.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-09-03 00:00:00,2525.0,3485.0,3485.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-09-29 00:00:00,3660.0,3660.0,3660.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-10-14 00:00:00,3500.0,3650.0,3625.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-10-20 00:00:00,3445.0,3625.0,3600.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-02 00:00:00,3250.0,3945.0,3850.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-09 00:00:00,3735.0,3955.0,3875.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-20 00:00:00,3500.0,4240.0,4125.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-11-27 00:00:00,4080.0,4110.0,4110.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-01 00:00:00,3905.0,4275.0,3995.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-07 00:00:00,4195.0,4225.0,4225.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-23 00:00:00,4100.0,4240.0,4240.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-26 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2020-12-28 00:00:00,3750.0,4155.0,4155.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2020-01-03 00:00:00,4010.0,4010.0,4010.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2020-02-18 00:00:00,3510.0,3510.0,3510.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2020-02-27 00:00:00,3500.0,3500.0,3500.0,13
+Gujarat,Anand,Anand,Soyabean,Soyabeen,FAQ,2020-03-17 00:00:00,2800.0,3150.0,2900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-01-23 00:00:00,4175.0,4236.0,4200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-01-28 00:00:00,3975.0,4025.0,3990.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-05 00:00:00,4050.0,4150.0,4100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-07 00:00:00,4050.0,4150.0,4100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-08 00:00:00,4050.0,4150.0,4100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-11 00:00:00,3900.0,3976.0,3950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-13 00:00:00,3850.0,4000.0,3950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-17 00:00:00,3950.0,4000.0,3975.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-22 00:00:00,3950.0,4000.0,3975.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-24 00:00:00,4000.0,4050.0,4025.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-02-26 00:00:00,3950.0,3975.0,3975.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-02 00:00:00,3700.0,3800.0,3775.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-03 00:00:00,3700.0,3750.0,3725.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-12 00:00:00,3500.0,3550.0,3525.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-03-14 00:00:00,3500.0,3575.0,3550.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-04 00:00:00,3750.0,3850.0,3800.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-18 00:00:00,3800.0,3850.0,3825.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-19 00:00:00,3800.0,3850.0,3825.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-05-21 00:00:00,3850.0,3900.0,3875.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-03 00:00:00,3800.0,4000.0,3900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-05 00:00:00,3750.0,3950.0,3900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-08 00:00:00,3700.0,3900.0,3800.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-06-20 00:00:00,3625.0,3725.0,3675.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-02 00:00:00,3700.0,3825.0,3800.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-07 00:00:00,3500.0,3700.0,3600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-08 00:00:00,3550.0,3700.0,3650.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-10 00:00:00,3550.0,3700.0,3600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-14 00:00:00,3550.0,3740.0,3675.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-15 00:00:00,3550.0,3675.0,3650.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-16 00:00:00,3550.0,3675.0,3600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-17 00:00:00,3550.0,3675.0,3600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-22 00:00:00,3550.0,3700.0,3600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-07-23 00:00:00,3500.0,3650.0,3600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-08 00:00:00,3700.0,3750.0,3725.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-10 00:00:00,3700.0,3750.0,3725.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-18 00:00:00,3700.0,3725.0,3710.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-19 00:00:00,3700.0,3725.0,3710.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-24 00:00:00,3700.0,3750.0,3725.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-08-29 00:00:00,3800.0,3900.0,3850.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-05 00:00:00,3800.0,3888.0,3825.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-10 00:00:00,3700.0,3750.0,3710.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-18 00:00:00,3750.0,3900.0,3850.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-21 00:00:00,3850.0,3950.0,3900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-09-23 00:00:00,3850.0,3925.0,3900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-10-22 00:00:00,4150.0,4250.0,4225.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-10 00:00:00,4200.0,4300.0,4250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-19 00:00:00,4400.0,4551.0,4500.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-21 00:00:00,4425.0,4500.0,4475.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-23 00:00:00,4350.0,4487.0,4425.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-11-26 00:00:00,4300.0,4402.0,4350.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-15 00:00:00,4300.0,4350.0,4320.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-16 00:00:00,4375.0,4435.0,4410.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-23 00:00:00,4400.0,4500.0,4420.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2020-12-30 00:00:00,4475.0,4522.0,4500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2020-10-28 00:00:00,3500.0,4020.0,3760.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-05-09 00:00:00,3000.0,4300.0,4265.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-05-14 00:00:00,3950.0,4180.0,4180.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-05-16 00:00:00,4080.0,4300.0,4300.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-05-31 00:00:00,4200.0,4330.0,4265.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-09 00:00:00,4625.0,4740.0,4700.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-11 00:00:00,4700.0,4760.0,4725.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-17 00:00:00,4675.0,4700.0,4685.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-21 00:00:00,4700.0,4735.0,4720.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-22 00:00:00,4700.0,4740.0,4715.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-24 00:00:00,4675.0,4725.0,4700.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-25 00:00:00,4675.0,4700.0,4685.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-05-20 00:00:00,4060.0,4325.0,4245.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-05-31 00:00:00,3900.0,4370.0,4105.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-05-28 00:00:00,4250.0,4320.0,4285.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-05-28 00:00:00,4000.0,4250.0,4125.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-05-25 00:00:00,4000.0,4380.0,4190.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-04 00:00:00,4575.0,4625.0,4600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-08 00:00:00,4775.0,4822.0,4800.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-05-16 00:00:00,4675.0,4725.0,4700.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-05-13 00:00:00,3500.0,4100.0,3750.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-05-23 00:00:00,3500.0,4300.0,3950.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-05-23 00:00:00,4000.0,4425.0,4300.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-06 00:00:00,4005.0,4345.0,4255.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-11 00:00:00,4005.0,4345.0,4275.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-16 00:00:00,4005.0,4355.0,4225.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-18 00:00:00,4005.0,4390.0,4275.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-20 00:00:00,4005.0,4355.0,4255.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-21 00:00:00,4005.0,4320.0,4210.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-22 00:00:00,4025.0,4290.0,4195.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-24 00:00:00,4005.0,4475.0,4375.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-25 00:00:00,4050.0,4455.0,4400.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-28 00:00:00,4105.0,4395.0,4325.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-30 00:00:00,4120.0,4440.0,4355.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-05-31 00:00:00,4255.0,4400.0,4355.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2024-05-20 00:00:00,4000.0,4455.0,4225.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2024-05-28 00:00:00,4000.0,4405.0,4250.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-05-13 00:00:00,4500.0,4610.0,4600.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-05-17 00:00:00,4500.0,4650.0,4610.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-05-24 00:00:00,4500.0,4625.0,4610.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-05-03 00:00:00,3500.0,4300.0,4150.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-05-10 00:00:00,3500.0,4360.0,3930.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-05-23 00:00:00,4250.0,4555.0,4450.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-05-09 00:00:00,4160.0,4360.0,4260.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-05-21 00:00:00,4005.0,4430.0,4430.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-05-28 00:00:00,4155.0,4480.0,4430.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-05-30 00:00:00,3955.0,4455.0,4405.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-05-31 00:00:00,3805.0,4455.0,4355.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-01 00:00:00,4000.0,4225.0,4150.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-25 00:00:00,3500.0,4375.0,4200.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-31 00:00:00,3750.0,4250.0,4150.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-05-17 00:00:00,4125.0,4375.0,4300.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2024-05-01 00:00:00,4300.0,4500.0,4400.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-05-27 00:00:00,4050.0,4430.0,4310.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-05-02 00:00:00,4020.0,4140.0,4080.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-05-02 00:00:00,4015.0,4015.0,4015.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-05-18 00:00:00,4225.0,4225.0,4225.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-05-29 00:00:00,4200.0,4300.0,4250.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-05-15 00:00:00,4400.0,4400.0,4400.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-05-17 00:00:00,4255.0,4255.0,4255.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-05-02 00:00:00,3500.0,4365.0,4250.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-05-18 00:00:00,3750.0,4455.0,4100.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-05-21 00:00:00,3750.0,4355.0,4050.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-05-02 00:00:00,4000.0,4450.0,4300.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-05-08 00:00:00,4125.0,4485.0,4450.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-05-17 00:00:00,4150.0,4585.0,4400.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-05-31 00:00:00,4150.0,5015.0,4450.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-05-10 00:00:00,4175.0,4355.0,4265.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-05-27 00:00:00,4100.0,4300.0,4200.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-05-02 00:00:00,4225.0,4225.0,4225.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-05-14 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-05-21 00:00:00,4150.0,4200.0,4175.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-05-10 00:00:00,4305.0,4380.0,4380.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-05-13 00:00:00,4005.0,4255.0,4255.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-05-14 00:00:00,3930.0,4605.0,4605.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-05-04 00:00:00,4105.0,4430.0,4355.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-05-18 00:00:00,4000.0,4455.0,4430.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-05-21 00:00:00,4230.0,4480.0,4405.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-02 00:00:00,3850.0,4200.0,4100.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-03 00:00:00,4000.0,4275.0,4125.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-06 00:00:00,3750.0,4300.0,4150.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-09 00:00:00,4000.0,4325.0,4150.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-17 00:00:00,3900.0,4220.0,4175.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-05-18 00:00:00,3900.0,4325.0,4150.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-05-28 00:00:00,4350.0,4505.0,4450.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-05-02 00:00:00,4000.0,4225.0,4112.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-05-11 00:00:00,4175.0,4425.0,4250.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-05-01 00:00:00,4300.0,4600.0,4450.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-05-16 00:00:00,4250.0,4400.0,4325.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-05-31 00:00:00,4250.0,4500.0,4375.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-06-25 00:00:00,4005.0,4410.0,4375.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-06-04 00:00:00,2850.0,4405.0,4345.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-06-20 00:00:00,3950.0,4275.0,4112.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-06-24 00:00:00,4000.0,4265.0,4132.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-06-06 00:00:00,4170.0,4305.0,4235.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-06-13 00:00:00,4255.0,4255.0,4255.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-06-06 00:00:00,3350.0,3950.0,3750.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-06-14 00:00:00,4000.0,4300.0,4200.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-17 00:00:00,3500.0,4100.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-22 00:00:00,3500.0,4075.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-25 00:00:00,3750.0,4055.0,4000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-07-02 00:00:00,3750.0,4310.0,4200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-07-12 00:00:00,4000.0,4350.0,4200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-07-18 00:00:00,3650.0,4335.0,4100.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-07-31 00:00:00,3750.0,4185.0,4050.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-03 00:00:00,4120.0,4240.0,4180.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-15 00:00:00,4000.0,4150.0,4075.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-18 00:00:00,4075.0,4185.0,4130.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-23 00:00:00,4100.0,4190.0,4145.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-30 00:00:00,4055.0,4135.0,4095.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Other,FAQ,2024-07-29 00:00:00,4030.0,4205.0,4180.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-07-01 00:00:00,3305.0,4230.0,4230.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-07-05 00:00:00,3905.0,4230.0,4180.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-07-08 00:00:00,3955.0,4130.0,4130.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-07-13 00:00:00,4180.0,4280.0,4205.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-07-18 00:00:00,4130.0,4205.0,4180.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-07-22 00:00:00,3980.0,4180.0,4130.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-07-02 00:00:00,3980.0,4305.0,4280.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-07-04 00:00:00,3750.0,4305.0,4255.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-07-11 00:00:00,3750.0,4230.0,4180.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-07-13 00:00:00,3505.0,4255.0,4155.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-07-25 00:00:00,3750.0,4230.0,4155.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-07-05 00:00:00,3750.0,4210.0,4135.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-07-10 00:00:00,4000.0,4200.0,4100.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-07-27 00:00:00,4000.0,4110.0,4050.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-07-29 00:00:00,3925.0,4105.0,4000.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-07-31 00:00:00,3525.0,4070.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-07-12 00:00:00,4000.0,4205.0,4105.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-07-16 00:00:00,3850.0,4205.0,4105.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-07-20 00:00:00,4075.0,4255.0,4175.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-07-24 00:00:00,4000.0,4230.0,4130.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-07-26 00:00:00,4000.0,4230.0,4155.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-07-17 00:00:00,4000.0,4080.0,4050.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-07-26 00:00:00,4000.0,4125.0,4075.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-07-31 00:00:00,4000.0,4090.0,4050.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-07-08 00:00:00,4150.0,4400.0,4275.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-07-23 00:00:00,4150.0,4300.0,4225.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,FAQ,2024-07-24 00:00:00,4000.0,4160.0,4160.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-07-10 00:00:00,4000.0,4600.0,4600.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-07-23 00:00:00,4000.0,4600.0,4600.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,FAQ,2024-07-06 00:00:00,3500.0,4000.0,3750.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-07-02 00:00:00,3100.0,4255.0,4230.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-07-08 00:00:00,3825.0,4190.0,4155.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-07-12 00:00:00,3375.0,4175.0,4125.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-07-26 00:00:00,4060.0,4230.0,4200.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-07-08 00:00:00,3625.0,4160.0,3892.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-07-09 00:00:00,3500.0,4125.0,3812.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-07-10 00:00:00,3175.0,4125.0,3650.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-07-23 00:00:00,3850.0,4045.0,3947.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-07-29 00:00:00,4015.0,4075.0,4045.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-07-30 00:00:00,3900.0,4030.0,3965.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-07-12 00:00:00,4075.0,4175.0,4125.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-07-13 00:00:00,4125.0,4125.0,4125.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-07-18 00:00:00,4145.0,4155.0,4150.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-07-19 00:00:00,4100.0,4145.0,4120.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-07-20 00:00:00,4125.0,4155.0,4135.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-07-27 00:00:00,4130.0,4130.0,4130.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-07-13 00:00:00,4055.0,4250.0,4153.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-07-19 00:00:00,4100.0,4100.0,4100.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-07-27 00:00:00,4005.0,4130.0,4068.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2024-07-25 00:00:00,3850.0,4125.0,3985.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-07-03 00:00:00,4400.0,4475.0,4440.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-07-08 00:00:00,4450.0,4500.0,4475.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-07-18 00:00:00,4400.0,4425.0,4410.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-07-23 00:00:00,4450.0,4530.0,4500.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-07-24 00:00:00,4400.0,4450.0,4425.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-07-13 00:00:00,4600.0,4700.0,4650.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-07-25 00:00:00,4250.0,4300.0,4275.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-07-11 00:00:00,3500.0,3950.0,3850.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-07-20 00:00:00,3500.0,4000.0,3850.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-07-22 00:00:00,3500.0,4000.0,3850.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-07-10 00:00:00,4000.0,4350.0,4200.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-07-20 00:00:00,4000.0,4400.0,4375.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-07-02 00:00:00,4005.0,4375.0,4320.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-07-03 00:00:00,4005.0,4390.0,4350.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-07-26 00:00:00,4005.0,4300.0,4205.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-07-29 00:00:00,4000.0,4255.0,4185.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-07-31 00:00:00,4020.0,4265.0,4250.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-07-02 00:00:00,4500.0,4615.0,4600.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-07-06 00:00:00,4500.0,4625.0,4600.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-07-09 00:00:00,4400.0,4625.0,4600.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-07-15 00:00:00,4500.0,4625.0,4620.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-07-22 00:00:00,4500.0,4625.0,4600.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-09 00:00:00,3500.0,4155.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-12 00:00:00,3500.0,4190.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-13 00:00:00,3750.0,4100.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-16 00:00:00,3500.0,4090.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-18 00:00:00,3500.0,4065.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-24 00:00:00,3500.0,4100.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-07-27 00:00:00,3500.0,4105.0,4000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-07-05 00:00:00,4000.0,4450.0,4200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-07-23 00:00:00,3625.0,4250.0,4000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-07-26 00:00:00,3750.0,4330.0,4100.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-02 00:00:00,4125.0,4225.0,4175.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-06 00:00:00,4125.0,4205.0,4165.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-11 00:00:00,4000.0,4170.0,4085.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-07-13 00:00:00,4080.0,4150.0,4115.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-01-06 00:00:00,5000.0,6420.0,6125.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-01-18 00:00:00,5250.0,6590.0,6200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-01-21 00:00:00,5000.0,6510.0,6200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-02-10 00:00:00,5500.0,6750.0,6200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-02-17 00:00:00,5500.0,6535.0,6150.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-02-22 00:00:00,6000.0,7015.0,6600.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-03-08 00:00:00,6500.0,7505.0,6900.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-04-02 00:00:00,6000.0,7575.0,7125.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-04-26 00:00:00,6450.0,7420.0,7270.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-05-16 00:00:00,5000.0,7150.0,6400.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-06-09 00:00:00,6125.0,6750.0,6450.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-06-16 00:00:00,5155.0,6260.0,6150.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-07-11 00:00:00,5300.0,5950.0,5800.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-07-14 00:00:00,5150.0,5850.0,5750.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-07-18 00:00:00,5000.0,5865.0,5750.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-07-26 00:00:00,5250.0,5870.0,5700.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-07-27 00:00:00,5000.0,6005.0,5750.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-08-03 00:00:00,5000.0,5910.0,5700.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-08-12 00:00:00,5500.0,5950.0,5825.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-08-29 00:00:00,4500.0,5305.0,5125.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-08-31 00:00:00,4400.0,5125.0,5000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-09-07 00:00:00,4350.0,4950.0,4700.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-09-16 00:00:00,4250.0,5025.0,4850.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-09-24 00:00:00,4500.0,4960.0,4750.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-09-28 00:00:00,4250.0,4930.0,4625.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-09-29 00:00:00,4250.0,4830.0,4600.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-10-01 00:00:00,4350.0,4880.0,4550.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-10-04 00:00:00,4250.0,4755.0,4600.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-10-07 00:00:00,4250.0,4700.0,4500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-10-12 00:00:00,4250.0,4915.0,4500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-10-15 00:00:00,4000.0,4930.0,4600.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-10-20 00:00:00,4500.0,5090.0,4800.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-12-07 00:00:00,4750.0,5670.0,5350.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-12-10 00:00:00,4750.0,5700.0,5350.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-12-19 00:00:00,5000.0,5550.0,5250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-12-20 00:00:00,5100.0,5405.0,5250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-12-21 00:00:00,5100.0,5490.0,5250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2022-12-27 00:00:00,4900.0,5555.0,5300.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-01-08 00:00:00,5015.0,6055.0,5535.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-01-10 00:00:00,5070.0,6230.0,5650.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-01-27 00:00:00,5115.0,6355.0,5735.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-01-31 00:00:00,5065.0,6155.0,5610.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-10-03 00:00:00,4250.0,4730.0,4490.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-10-06 00:00:00,4200.0,4730.0,4465.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-10-10 00:00:00,4100.0,4780.0,4440.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-10-14 00:00:00,4115.0,4855.0,4485.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-10-19 00:00:00,4270.0,4880.0,4575.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-10-20 00:00:00,4280.0,4880.0,4580.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-11-04 00:00:00,4770.0,5280.0,5025.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-11-21 00:00:00,4725.0,5555.0,5140.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-11-23 00:00:00,4710.0,5630.0,5170.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-11-26 00:00:00,4750.0,5580.0,5165.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-12-03 00:00:00,4705.0,5355.0,5030.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-12-24 00:00:00,4725.0,5255.0,4990.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2022-12-27 00:00:00,4725.0,5305.0,5015.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2022-11-05 00:00:00,4875.0,5200.0,5075.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2022-11-08 00:00:00,4750.0,5500.0,5425.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2022-11-12 00:00:00,5000.0,5510.0,5375.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2022-11-30 00:00:00,4750.0,5285.0,5125.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2022-12-14 00:00:00,5000.0,5195.0,5125.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2022-12-15 00:00:00,4750.0,5140.0,5000.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2022-12-21 00:00:00,4600.0,5085.0,5000.0,13
+Gujarat,Panchmahals,Godhra(Timbaroad),Soyabean,Soyabeen,FAQ,2022-11-16 00:00:00,5200.0,5350.0,5300.0,13
+Gujarat,Panchmahals,Godhra(Timbaroad),Soyabean,Soyabeen,FAQ,2022-11-21 00:00:00,5100.0,5200.0,5155.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-11-02 00:00:00,4875.0,4875.0,4875.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-11-17 00:00:00,5200.0,5200.0,5200.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-11-24 00:00:00,4900.0,5400.0,5150.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-11-28 00:00:00,5150.0,5300.0,5225.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-11-30 00:00:00,4250.0,5000.0,4625.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-12-10 00:00:00,4800.0,5000.0,4900.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-12-19 00:00:00,4775.0,5200.0,4985.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-12-24 00:00:00,4000.0,4000.0,4000.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2022-12-27 00:00:00,4450.0,4450.0,4450.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Other,FAQ,2022-04-07 00:00:00,6980.0,7180.0,7030.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-10-29 00:00:00,3650.0,3650.0,3650.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-10-04 00:00:00,4000.0,4400.0,4200.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-10-25 00:00:00,2500.0,4140.0,3700.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-10-19 00:00:00,3555.0,3895.0,3725.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-10-28 00:00:00,3250.0,4260.0,3755.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-10-16 00:00:00,4550.0,4635.0,4600.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-14 00:00:00,3520.0,4440.0,4005.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-18 00:00:00,3505.0,4210.0,4000.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-10-14 00:00:00,4800.0,4910.0,4900.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2024-10-28 00:00:00,3500.0,4210.0,3900.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-10-03 00:00:00,4250.0,4500.0,4375.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-10-09 00:00:00,3500.0,4255.0,4150.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-10-25 00:00:00,3005.0,4505.0,4105.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-10-25 00:00:00,4200.0,4450.0,4325.0,13
+Gujarat,Sabarkantha,Malpur,Soyabean,Local,FAQ,2024-10-24 00:00:00,4850.0,4892.0,4871.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-10-21 00:00:00,4205.0,4892.0,4892.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-10-21 00:00:00,3055.0,4015.0,3645.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-10-02 00:00:00,3500.0,4300.0,4000.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-10-03 00:00:00,3500.0,4300.0,4000.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-10-03 00:00:00,4000.0,4560.0,4475.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-10-25 00:00:00,3000.0,4415.0,4005.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-10-09 00:00:00,3500.0,4505.0,4250.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-10-07 00:00:00,4270.0,4460.0,4365.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2024-10-03 00:00:00,4250.0,4500.0,4375.0,13
+Gujarat,Sabarkantha,Malpur,Soyabean,Local,FAQ,2024-10-29 00:00:00,4850.0,4892.0,4871.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,FAQ,2024-10-30 00:00:00,3500.0,4250.0,3875.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-10-09 00:00:00,4850.0,4945.0,4925.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-10-19 00:00:00,3000.0,4380.0,4100.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-10-28 00:00:00,3625.0,4020.0,3823.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-11 00:00:00,3505.0,4345.0,4225.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-10-03 00:00:00,3500.0,4430.0,4305.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-10-01 00:00:00,4850.0,4910.0,4900.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-17 00:00:00,3400.0,4195.0,4005.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-10-15 00:00:00,3275.0,4400.0,4150.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-10-24 00:00:00,2400.0,4125.0,3640.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-10-08 00:00:00,4275.0,4475.0,4375.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-10-10 00:00:00,4100.0,4425.0,4263.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-10-18 00:00:00,4000.0,4400.0,4200.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-10-08 00:00:00,3000.0,3900.0,3450.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-10-25 00:00:00,4150.0,4250.0,4200.0,13
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Soyabean,Black,FAQ,2024-10-07 00:00:00,4000.0,4355.0,4275.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-10-15 00:00:00,3755.0,4295.0,4025.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,FAQ,2024-10-24 00:00:00,3000.0,4400.0,4400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-10-25 00:00:00,4600.0,4685.0,4650.0,13
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Soyabean,Black,FAQ,2024-10-21 00:00:00,3750.0,4055.0,4025.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-10-01 00:00:00,4350.0,4545.0,4525.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-10-22 00:00:00,3125.0,4250.0,3750.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-01 00:00:00,4355.0,4585.0,4515.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-05 00:00:00,4005.0,4545.0,4500.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-10-17 00:00:00,4800.0,4925.0,4900.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-10-10 00:00:00,3500.0,4430.0,4205.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-10-04 00:00:00,4125.0,4305.0,4280.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-10-09 00:00:00,3955.0,4330.0,4080.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,FAQ,2024-10-05 00:00:00,3750.0,3750.0,3750.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-10-19 00:00:00,4000.0,4250.0,4125.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-10-08 00:00:00,4250.0,4892.0,4892.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-10-26 00:00:00,3375.0,4345.0,4025.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-10-07 00:00:00,4250.0,4892.0,4892.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-10-03 00:00:00,4000.0,4500.0,4250.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-10-22 00:00:00,3405.0,4210.0,3808.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-10-03 00:00:00,4600.0,4650.0,4620.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-10-14 00:00:00,3930.0,4330.0,4105.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-10-26 00:00:00,3355.0,4330.0,3900.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-10-14 00:00:00,2830.0,4415.0,4125.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-10-15 00:00:00,3625.0,3770.0,3698.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-10-14 00:00:00,3500.0,4500.0,4000.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-04 00:00:00,4245.0,4590.0,4550.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-10-04 00:00:00,4275.0,4605.0,4440.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-10-28 00:00:00,3020.0,4260.0,4135.0,13
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Soyabean,Black,FAQ,2024-10-22 00:00:00,3750.0,4185.0,4075.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2024-10-21 00:00:00,3045.0,4090.0,3565.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-10-08 00:00:00,4005.0,4505.0,4375.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-10-28 00:00:00,3250.0,4430.0,4055.0,13
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Soyabean,Black,FAQ,2024-10-24 00:00:00,3875.0,4250.0,4125.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-10-07 00:00:00,4500.0,4600.0,4550.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-10-24 00:00:00,4600.0,4751.0,4700.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-10-21 00:00:00,3305.0,4230.0,4005.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-10-21 00:00:00,4450.0,4585.0,4500.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-10-07 00:00:00,2900.0,4420.0,3850.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-10-18 00:00:00,3570.0,3960.0,3740.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-10-03 00:00:00,3500.0,4375.0,4175.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-10-26 00:00:00,3750.0,3905.0,3875.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-10-10 00:00:00,3615.0,3625.0,3620.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-10-17 00:00:00,3460.0,4305.0,3883.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,FAQ,2024-10-19 00:00:00,4075.0,4310.0,4310.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-10-07 00:00:00,3500.0,4275.0,4200.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-10-10 00:00:00,2900.0,4350.0,4205.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-10-14 00:00:00,3200.0,4075.0,3637.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-10-08 00:00:00,2500.0,4375.0,4160.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-10-11 00:00:00,3500.0,4455.0,4200.0,13
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Soyabean,Black,FAQ,2024-10-17 00:00:00,4000.0,4160.0,4150.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-10-16 00:00:00,4800.0,4925.0,4900.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-10-08 00:00:00,3500.0,4300.0,4175.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2024-10-04 00:00:00,4400.0,4500.0,4450.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,FAQ,2024-10-17 00:00:00,4000.0,4305.0,4305.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2024-10-21 00:00:00,2500.0,4010.0,3750.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-10-17 00:00:00,3400.0,3920.0,3660.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2024-10-11 00:00:00,3500.0,4400.0,4000.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-10-23 00:00:00,4850.0,4985.0,4935.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-10-01 00:00:00,4255.0,4465.0,4360.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-11-30 00:00:00,3720.0,4215.0,4175.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2024-11-23 00:00:00,4000.0,4125.0,4100.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2024-11-26 00:00:00,3850.0,4050.0,3900.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2024-11-28 00:00:00,3500.0,4035.0,3850.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-11-18 00:00:00,3805.0,4335.0,4070.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2024-11-25 00:00:00,3750.0,4105.0,4050.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-11-12 00:00:00,3750.0,4025.0,3885.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-11-29 00:00:00,3800.0,3800.0,3800.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-11-18 00:00:00,3630.0,4355.0,4130.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-11-06 00:00:00,3755.0,4405.0,4050.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-11-14 00:00:00,3750.0,4090.0,4015.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-11-20 00:00:00,3850.0,4250.0,4100.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-11-21 00:00:00,3875.0,4125.0,4050.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-11-25 00:00:00,3750.0,4160.0,4025.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-11-27 00:00:00,3425.0,3970.0,3955.0,13
+Gujarat,Amreli,Khambha,Soyabean,Black,FAQ,2024-11-12 00:00:00,3875.0,4000.0,3950.0,13
+Gujarat,Amreli,Khambha,Soyabean,Black,FAQ,2024-11-21 00:00:00,3900.0,4055.0,4000.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-11-16 00:00:00,3500.0,4100.0,3800.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-11-30 00:00:00,3750.0,4100.0,3925.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-11-11 00:00:00,3760.0,4280.0,4020.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,FAQ,2024-11-09 00:00:00,4150.0,4325.0,4235.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,FAQ,2024-11-12 00:00:00,3990.0,4250.0,4120.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,FAQ,2024-11-23 00:00:00,3875.0,4075.0,3975.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2024-11-11 00:00:00,3800.0,4130.0,3965.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2024-11-12 00:00:00,3875.0,4075.0,3975.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2024-11-25 00:00:00,3850.0,4105.0,3975.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2024-11-30 00:00:00,3855.0,4025.0,3940.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-11-21 00:00:00,4200.0,4392.0,4350.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-11-12 00:00:00,4150.0,4250.0,4200.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-11-14 00:00:00,3900.0,4000.0,3950.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-11-19 00:00:00,4100.0,4200.0,4150.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2024-11-28 00:00:00,3500.0,4000.0,3750.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-11-14 00:00:00,3500.0,4340.0,3950.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-11-29 00:00:00,3770.0,4235.0,4105.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2024-11-30 00:00:00,3855.0,4275.0,4130.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-11-07 00:00:00,3900.0,4325.0,4200.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-11-09 00:00:00,3875.0,4305.0,4205.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-11-25 00:00:00,3735.0,4210.0,4105.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-11-16 00:00:00,4700.0,4965.0,4915.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2024-11-25 00:00:00,4700.0,4950.0,4915.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2024-11-07 00:00:00,3500.0,4115.0,3807.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2024-11-11 00:00:00,3500.0,4390.0,4050.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2024-11-14 00:00:00,3500.0,4155.0,4050.0,13
+Gujarat,Morbi,Halvad,Soyabean,Other,FAQ,2024-11-27 00:00:00,3750.0,4205.0,4100.0,13
+Gujarat,Panchmahals,Godhra(Timbaroad),Soyabean,Other,FAQ,2024-11-08 00:00:00,4000.0,4250.0,4125.0,13
+Gujarat,Porbandar,Kutiyana,Soyabean,Black,FAQ,2024-11-07 00:00:00,2055.0,4150.0,3102.5,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-11-21 00:00:00,3030.0,4180.0,4030.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-11-28 00:00:00,3505.0,4605.0,4255.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-11-22 00:00:00,3705.0,4180.0,4005.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-11-06 00:00:00,3175.0,4200.0,3900.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-11-14 00:00:00,3500.0,4100.0,3950.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-11-21 00:00:00,3500.0,4150.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2024-11-28 00:00:00,3500.0,4200.0,4050.0,13
+Gujarat,Sabarkantha,Dhansura,Soyabean,Yellow,FAQ,2024-11-08 00:00:00,4000.0,4220.0,4100.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-11-15 00:00:00,3625.0,4175.0,3900.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-11-25 00:00:00,4075.0,4160.0,4118.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-11-27 00:00:00,4095.0,4150.0,4123.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2024-11-14 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Sabarkantha,Malpur,Soyabean,Local,FAQ,2024-11-13 00:00:00,4850.0,4892.0,4871.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,FAQ,2024-11-26 00:00:00,3750.0,4140.0,4140.0,13
+Gujarat,Sabarkantha,Talod,Soyabean,Black,FAQ,2024-11-18 00:00:00,3900.0,4225.0,4062.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-11-21 00:00:00,4165.0,4892.0,4892.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-11-28 00:00:00,4125.0,4895.0,4892.0,13
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap),Soyabean,Other,FAQ,2024-11-18 00:00:00,4000.0,4892.0,4300.0,13
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap),Soyabean,Other,FAQ,2024-11-20 00:00:00,4000.0,4892.0,4250.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,FAQ,2024-11-05 00:00:00,3500.0,4125.0,3837.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,FAQ,2024-11-09 00:00:00,3000.0,4175.0,3865.0,13
+Gujarat,Surat,Nizar(Pumkitalov),Soyabean,Yellow,FAQ,2024-11-22 00:00:00,3825.0,4045.0,3900.0,13
+Gujarat,Surat,Vyra,Soyabean,Yellow,FAQ,2024-11-11 00:00:00,3600.0,4000.0,3800.0,13
+Gujarat,Surat,Vyra,Soyabean,Yellow,FAQ,2024-11-15 00:00:00,3850.0,4100.0,3975.0,13
+Gujarat,Surat,Vyra,Soyabean,Yellow,FAQ,2024-11-19 00:00:00,3900.0,4100.0,4000.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-11-12 00:00:00,3050.0,4190.0,4085.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-11-20 00:00:00,3025.0,4245.0,4110.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-11-30 00:00:00,3250.0,4185.0,4100.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-11-14 00:00:00,3025.0,4850.0,3937.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-11-23 00:00:00,2500.0,3800.0,3150.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-11-29 00:00:00,2975.0,4035.0,3505.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-11-30 00:00:00,2950.0,3855.0,3402.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-11-06 00:00:00,3625.0,4055.0,3915.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-11-12 00:00:00,3400.0,4005.0,3770.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-02-07 00:00:00,3000.0,3990.0,3935.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-02-14 00:00:00,3000.0,3935.0,3895.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-02-21 00:00:00,3780.0,3910.0,3825.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-02-28 00:00:00,3350.0,3765.0,3685.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-02-08 00:00:00,2500.0,3885.0,3192.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-02-11 00:00:00,2500.0,3850.0,3175.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-02-13 00:00:00,2500.0,5640.0,5195.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-02-14 00:00:00,2500.0,3800.0,3150.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-02-12 00:00:00,3525.0,3525.0,3525.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-02-17 00:00:00,3500.0,3850.0,3850.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-02-22 00:00:00,3400.0,3400.0,3400.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-02-03 00:00:00,3660.0,3760.0,3710.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-02-12 00:00:00,3685.0,3765.0,3725.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-02-15 00:00:00,3575.0,3575.0,3575.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-02-21 00:00:00,3625.0,3625.0,3625.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-02-22 00:00:00,3300.0,3685.0,3493.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-02-05 00:00:00,3250.0,3850.0,3750.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-02-12 00:00:00,3000.0,3875.0,3350.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-02-17 00:00:00,3500.0,3955.0,3750.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-02-18 00:00:00,3500.0,3910.0,3750.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,Non-FAQ,2025-02-08 00:00:00,2500.0,3800.0,3150.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-02-07 00:00:00,3525.0,3800.0,3660.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-02-28 00:00:00,3500.0,3625.0,3560.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2025-02-08 00:00:00,4140.0,4289.0,4225.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-02-04 00:00:00,4150.0,4225.0,4200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-02-06 00:00:00,4100.0,4175.0,4150.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-02-14 00:00:00,4075.0,4180.0,4125.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-02-19 00:00:00,4100.0,4165.0,4140.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-02-25 00:00:00,4000.0,4161.0,4100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-02-27 00:00:00,4000.0,4160.0,4100.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-02-13 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-02-15 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-02-21 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-02-27 00:00:00,3500.0,4000.0,3800.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-02-01 00:00:00,3750.0,4070.0,4000.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-02-03 00:00:00,3850.0,4070.0,4025.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-02-27 00:00:00,3000.0,3950.0,3850.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-02-05 00:00:00,4000.0,4070.0,4025.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-02-10 00:00:00,3950.0,4050.0,4005.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-02-12 00:00:00,3945.0,3990.0,3975.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-02-14 00:00:00,3910.0,4005.0,3975.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-02-18 00:00:00,3955.0,4025.0,4010.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-02-20 00:00:00,3850.0,3950.0,3905.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-02-19 00:00:00,4800.0,4955.0,4935.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2025-02-18 00:00:00,3875.0,3875.0,3875.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-02-01 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-02-03 00:00:00,3500.0,4050.0,3950.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-02-05 00:00:00,3600.0,4150.0,3950.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-02-11 00:00:00,3500.0,3975.0,3850.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-02-19 00:00:00,3600.0,4005.0,3800.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-02-15 00:00:00,3000.0,3890.0,3445.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-02-24 00:00:00,2925.0,3855.0,3390.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-02-27 00:00:00,2805.0,3775.0,3290.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-02-04 00:00:00,3375.0,3375.0,3375.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-02-07 00:00:00,3725.0,3750.0,3735.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-02-18 00:00:00,3425.0,3425.0,3425.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-02-25 00:00:00,2875.0,3425.0,3150.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Other,Non-FAQ,2025-02-14 00:00:00,3005.0,3980.0,3905.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2025-02-13 00:00:00,3630.0,5155.0,3830.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-02-10 00:00:00,3605.0,3980.0,3955.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-02-28 00:00:00,3480.0,3855.0,3655.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2025-02-15 00:00:00,3355.0,3880.0,3780.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-02-08 00:00:00,2005.0,3955.0,3880.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-02-22 00:00:00,2755.0,3930.0,3855.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-02-01 00:00:00,3500.0,4000.0,3960.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-02-05 00:00:00,3750.0,3995.0,3950.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-02-12 00:00:00,3750.0,3950.0,3940.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-02-15 00:00:00,3500.0,3900.0,3885.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-02-24 00:00:00,3500.0,3705.0,3650.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-02-27 00:00:00,3500.0,3735.0,3600.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-02-05 00:00:00,3500.0,4030.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-02-06 00:00:00,3500.0,4030.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-02-10 00:00:00,3250.0,4055.0,4005.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-02-15 00:00:00,3250.0,3825.0,3705.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-02-21 00:00:00,3255.0,3805.0,3755.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-02-15 00:00:00,3750.0,3905.0,3825.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,Non-FAQ,2025-02-20 00:00:00,3500.0,3825.0,3700.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-02-06 00:00:00,4000.0,4075.0,4038.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-02-07 00:00:00,3900.0,4050.0,3975.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-02-11 00:00:00,4025.0,4075.0,4050.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-02-13 00:00:00,4000.0,4060.0,4030.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-02-15 00:00:00,3900.0,4050.0,3975.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-02-25 00:00:00,3850.0,4000.0,3925.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-02-28 00:00:00,3800.0,4000.0,3900.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-02-11 00:00:00,3900.0,4035.0,3965.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-02-21 00:00:00,3800.0,3925.0,3900.0,13
+Gujarat,Sabarkantha,Idar,Soyabean,Other,FAQ,2025-02-17 00:00:00,4000.0,4892.0,4892.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2025-02-12 00:00:00,3900.0,4000.0,3950.0,13
+Gujarat,Sabarkantha,Malpur,Soyabean,Local,FAQ,2025-02-21 00:00:00,4850.0,4892.0,4871.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-02-20 00:00:00,3500.0,3900.0,3900.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi),Soyabean,Yellow,Non-FAQ,2025-02-12 00:00:00,3650.0,3915.0,3915.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi),Soyabean,Yellow,Non-FAQ,2025-02-17 00:00:00,3900.0,5115.0,5115.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi),Soyabean,Yellow,Non-FAQ,2025-02-18 00:00:00,3400.0,3850.0,3850.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi),Soyabean,Yellow,Non-FAQ,2025-02-24 00:00:00,3400.0,3900.0,3900.0,13
+Gujarat,Sabarkantha,Talod,Soyabean,Black,FAQ,2025-02-05 00:00:00,3950.0,4060.0,4005.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-02-01 00:00:00,3750.0,3925.0,3837.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-02-20 00:00:00,3750.0,3850.0,3800.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-02-24 00:00:00,3750.0,3895.0,3822.0,13
+Gujarat,Surat,Vyra,Soyabean,Yellow,Non-FAQ,2025-02-03 00:00:00,3900.0,4000.0,3950.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-02-04 00:00:00,3700.0,3920.0,3850.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-02-21 00:00:00,3600.0,3800.0,3750.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-02-24 00:00:00,3625.0,3830.0,3780.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-02-27 00:00:00,3650.0,3820.0,3800.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-02-17 00:00:00,3900.0,4010.0,3975.0,13
+Gujarat,Sabarkantha,Idar,Soyabean,Other,FAQ,2025-02-15 00:00:00,4050.0,4892.0,4892.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2025-02-05 00:00:00,3750.0,3850.0,3800.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-02-06 00:00:00,3875.0,4055.0,4055.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-02-24 00:00:00,3500.0,3955.0,3955.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi),Soyabean,Yellow,Non-FAQ,2025-02-15 00:00:00,3650.0,3900.0,3900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-03-01 00:00:00,5250.0,5328.0,5300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-03-04 00:00:00,5375.0,5478.0,5400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-03-06 00:00:00,5375.0,5471.0,5400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-03-14 00:00:00,5200.0,5281.0,5250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-03-16 00:00:00,5170.0,5288.0,5220.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-03-23 00:00:00,5200.0,5350.0,5300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-04-08 00:00:00,5275.0,5351.0,5300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-04-18 00:00:00,5200.0,5385.0,5325.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-04-19 00:00:00,5250.0,5392.0,5300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-04-20 00:00:00,5250.0,5400.0,5325.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-04-27 00:00:00,5150.0,5200.0,5165.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-04-29 00:00:00,5150.0,5218.0,5175.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-05-01 00:00:00,5100.0,5175.0,5150.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-05-11 00:00:00,5250.0,5300.0,5275.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-05-13 00:00:00,5150.0,5200.0,5175.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-05-29 00:00:00,5050.0,5200.0,5100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-06-05 00:00:00,5050.0,5150.0,5100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-06-09 00:00:00,5050.0,5150.0,5100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-06-15 00:00:00,5000.0,5100.0,5050.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-06-26 00:00:00,5000.0,5050.0,5011.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-06-28 00:00:00,4950.0,5000.0,4975.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-07-06 00:00:00,4900.0,5005.0,4975.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-07-10 00:00:00,4800.0,4895.0,4850.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-07-12 00:00:00,4800.0,4923.0,4875.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-07-20 00:00:00,4800.0,4850.0,4825.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-08-03 00:00:00,4900.0,4990.0,4950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-08-05 00:00:00,4925.0,4975.0,4950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-08-10 00:00:00,4925.0,5001.0,4975.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-08-11 00:00:00,4900.0,4950.0,4925.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-08-26 00:00:00,4850.0,4925.0,4900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-08-31 00:00:00,4900.0,5000.0,4950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-09-01 00:00:00,4900.0,5000.0,4950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-09-06 00:00:00,4950.0,5101.0,4980.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-09-11 00:00:00,4900.0,5050.0,5000.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-09-14 00:00:00,4950.0,5050.0,5000.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-09-21 00:00:00,4850.0,4950.0,4900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-09-22 00:00:00,4850.0,4950.0,4900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-10-04 00:00:00,4750.0,4826.0,4800.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2023-10-16 00:00:00,4350.0,4750.0,4600.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-07-02 00:00:00,3675.0,4020.0,3985.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-07-15 00:00:00,3125.0,4050.0,3975.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-07-23 00:00:00,3650.0,4085.0,4020.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-07-11 00:00:00,3650.0,3850.0,3750.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-07-15 00:00:00,2500.0,3980.0,3240.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-07-18 00:00:00,3800.0,3940.0,3870.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-07-24 00:00:00,3800.0,4020.0,3910.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-07-28 00:00:00,4000.0,4015.0,4007.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-07-23 00:00:00,4300.0,4300.0,4300.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-07-15 00:00:00,3500.0,3650.0,3550.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-07-12 00:00:00,4150.0,4350.0,4300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-07-19 00:00:00,4200.0,4475.0,4350.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-07-22 00:00:00,4200.0,4460.0,4300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-07-24 00:00:00,4200.0,4470.0,4300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-07-30 00:00:00,4450.0,4655.0,4550.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-07-16 00:00:00,3750.0,3800.0,3775.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-07-15 00:00:00,3500.0,4000.0,3800.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-07-21 00:00:00,3500.0,4000.0,3700.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-07-16 00:00:00,3750.0,4150.0,4115.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-07-12 00:00:00,3925.0,4075.0,4020.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-07-16 00:00:00,3500.0,4100.0,3825.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-07-07 00:00:00,3700.0,4100.0,3950.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-07-14 00:00:00,3500.0,4290.0,4000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-07-23 00:00:00,3900.0,4250.0,4100.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-07-24 00:00:00,3900.0,4255.0,4100.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-07-04 00:00:00,3825.0,4165.0,3995.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-07-08 00:00:00,3850.0,4090.0,3970.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,Non-FAQ,2025-07-24 00:00:00,3900.0,3900.0,3900.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-07-05 00:00:00,3955.0,4055.0,4030.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-07-16 00:00:00,3905.0,4055.0,4055.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-07-18 00:00:00,3755.0,4105.0,4055.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-07-21 00:00:00,3955.0,4130.0,4105.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-07-14 00:00:00,3755.0,4205.0,4030.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-07-22 00:00:00,3730.0,4180.0,4105.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-07-05 00:00:00,3500.0,3910.0,3750.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-07-15 00:00:00,3500.0,4000.0,3850.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-07-21 00:00:00,3500.0,3975.0,3910.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-07-23 00:00:00,3750.0,4035.0,3950.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-07-04 00:00:00,3755.0,4075.0,4055.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-07-09 00:00:00,3700.0,4050.0,3950.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-07-10 00:00:00,3750.0,4080.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-07-15 00:00:00,3500.0,4500.0,4350.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-07-09 00:00:00,3800.0,4100.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-07-19 00:00:00,3750.0,4060.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-07-26 00:00:00,3750.0,3900.0,3800.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-07-12 00:00:00,3500.0,4250.0,4000.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-07-29 00:00:00,4250.0,4315.0,4300.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-07-09 00:00:00,3900.0,4215.0,4215.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-07-23 00:00:00,4000.0,4145.0,4145.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-06-07 00:00:00,4125.0,4375.0,4290.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-06-12 00:00:00,3900.0,4390.0,4335.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2024-06-14 00:00:00,3950.0,4375.0,4345.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,FAQ,2024-06-11 00:00:00,3680.0,4200.0,3940.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,FAQ,2024-06-26 00:00:00,4200.0,4265.0,4225.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-06-12 00:00:00,4005.0,4305.0,4155.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2024-06-19 00:00:00,4255.0,4255.0,4255.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-06-05 00:00:00,4150.0,4280.0,4215.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2024-06-26 00:00:00,4000.0,4395.0,4198.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-03 00:00:00,4600.0,4650.0,4625.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-04 00:00:00,4600.0,4625.0,4620.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-05 00:00:00,4550.0,4600.0,4575.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-14 00:00:00,4500.0,4550.0,4525.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-20 00:00:00,4500.0,4565.0,4540.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-21 00:00:00,4475.0,4525.0,4500.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-22 00:00:00,4450.0,4500.0,4475.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2024-06-27 00:00:00,4450.0,4500.0,4475.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-06-11 00:00:00,4005.0,4435.0,4375.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2024-06-29 00:00:00,4005.0,4470.0,4375.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2024-06-05 00:00:00,4050.0,4405.0,4225.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2024-06-10 00:00:00,4000.0,4405.0,4200.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2024-06-21 00:00:00,4280.0,4280.0,4280.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-06-04 00:00:00,4000.0,4675.0,4300.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-06-13 00:00:00,4100.0,4730.0,4250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-06-15 00:00:00,4100.0,4665.0,4200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-06-20 00:00:00,4000.0,4680.0,4275.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-06-22 00:00:00,4000.0,4825.0,4335.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2024-06-25 00:00:00,3750.0,4510.0,4300.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-06-12 00:00:00,4175.0,4285.0,4230.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-06-13 00:00:00,4200.0,4370.0,4285.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2024-06-15 00:00:00,4200.0,4450.0,4325.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-06-01 00:00:00,4150.0,4150.0,4150.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Other,FAQ,2024-06-04 00:00:00,4150.0,4150.0,4150.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-06-05 00:00:00,4280.0,4380.0,4380.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-06-08 00:00:00,4230.0,4355.0,4355.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-06-11 00:00:00,4125.0,4405.0,4330.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2024-06-19 00:00:00,4030.0,4430.0,4330.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-06-05 00:00:00,3750.0,4405.0,4355.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-06-06 00:00:00,3605.0,4405.0,4355.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-06-08 00:00:00,4105.0,4505.0,4405.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2024-06-27 00:00:00,3855.0,4355.0,4255.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-06-06 00:00:00,3750.0,4365.0,4150.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-06-11 00:00:00,4000.0,4245.0,4175.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-06-13 00:00:00,4000.0,4350.0,4200.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-06-20 00:00:00,3270.0,4190.0,4100.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2024-06-25 00:00:00,3850.0,4240.0,4175.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-06-04 00:00:00,4050.0,4600.0,4450.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-06-05 00:00:00,4150.0,4455.0,4350.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-06-07 00:00:00,4050.0,4450.0,4300.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-06-27 00:00:00,4005.0,4380.0,4255.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2024-06-28 00:00:00,4005.0,4355.0,4255.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-06-01 00:00:00,4250.0,4500.0,4375.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,FAQ,2024-06-10 00:00:00,4250.0,4500.0,4375.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-06-21 00:00:00,4000.0,4435.0,4218.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-06-27 00:00:00,4000.0,4395.0,4198.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-06-03 00:00:00,4250.0,4600.0,4600.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-04-22 00:00:00,4050.0,4300.0,4175.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-04-26 00:00:00,4100.0,4200.0,4150.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2025-04-19 00:00:00,4100.0,4245.0,4200.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-04-09 00:00:00,4000.0,4215.0,4120.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2025-04-11 00:00:00,4150.0,4250.0,4200.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi),Soyabean,Yellow,Non-FAQ,2025-04-19 00:00:00,4000.0,4215.0,4215.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-04-02 00:00:00,4000.0,4085.0,4042.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-04-04 00:00:00,3500.0,4195.0,4125.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-04-07 00:00:00,2500.0,4005.0,3252.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-04-09 00:00:00,3100.0,4005.0,3552.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-04-15 00:00:00,3000.0,4100.0,3550.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-04-25 00:00:00,3750.0,3750.0,3750.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-04-05 00:00:00,4005.0,4005.0,4005.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,FAQ,2025-04-02 00:00:00,4075.0,4125.0,4100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-04-14 00:00:00,4350.0,4500.0,4425.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-04-19 00:00:00,4350.0,4440.0,4400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-04-23 00:00:00,4300.0,4350.0,4325.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2025-04-02 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2025-04-18 00:00:00,3500.0,4000.0,3850.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-04-26 00:00:00,3500.0,3900.0,3600.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,Non-FAQ,2025-04-19 00:00:00,4005.0,4100.0,4075.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-04-03 00:00:00,3750.0,4200.0,4100.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-04-16 00:00:00,4000.0,4180.0,4125.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-04-23 00:00:00,3750.0,4005.0,3950.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-04-29 00:00:00,3750.0,4030.0,3900.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-04-01 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-04-22 00:00:00,3000.0,4000.0,3750.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-04-23 00:00:00,2500.0,3500.0,3000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-04-29 00:00:00,3000.0,3750.0,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-04-09 00:00:00,3625.0,4240.0,4050.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-04-01 00:00:00,3370.0,4380.0,3875.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-04-07 00:00:00,3250.0,4120.0,3685.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-04-18 00:00:00,3070.0,4030.0,3550.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-04-25 00:00:00,3625.0,4065.0,3900.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-04-17 00:00:00,3850.0,4300.0,4225.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-04-05 00:00:00,3700.0,4000.0,3900.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-04-19 00:00:00,4000.0,4080.0,4040.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-04-28 00:00:00,2500.0,4050.0,3950.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-04-04 00:00:00,3500.0,3860.0,3680.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-04-29 00:00:00,3760.0,3760.0,3760.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-04-10 00:00:00,3550.0,3860.0,3675.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-04-25 00:00:00,3500.0,4080.0,3850.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2025-04-01 00:00:00,3500.0,3700.0,3600.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2025-04-23 00:00:00,3300.0,3800.0,3500.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-04-07 00:00:00,4005.0,4160.0,4085.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-04-24 00:00:00,3750.0,4000.0,3900.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-04-28 00:00:00,4800.0,4930.0,4925.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-04-03 00:00:00,3500.0,4250.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-04-21 00:00:00,3500.0,4150.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-04-09 00:00:00,3000.0,3750.0,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-04-15 00:00:00,3750.0,4375.0,4250.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-04-02 00:00:00,3350.0,4220.0,3785.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-04-04 00:00:00,3000.0,3950.0,3475.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-04-24 00:00:00,3215.0,3975.0,3595.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-04-14 00:00:00,3480.0,4280.0,4255.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-04-01 00:00:00,3500.0,4230.0,4180.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,Non-FAQ,2025-04-11 00:00:00,3000.0,4025.0,3650.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-04-05 00:00:00,3605.0,4180.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-04-01 00:00:00,3750.0,4055.0,3900.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-04-21 00:00:00,3500.0,4075.0,4000.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-04-03 00:00:00,4005.0,4005.0,4005.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-04-28 00:00:00,3750.0,4025.0,3875.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,Non-FAQ,2025-04-21 00:00:00,3475.0,4055.0,3765.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-04-01 00:00:00,4300.0,4392.0,4350.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-04-02 00:00:00,4400.0,4511.0,4450.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-04-21 00:00:00,4350.0,4435.0,4400.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-04-02 00:00:00,3750.0,3800.0,3775.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2025-04-17 00:00:00,3500.0,4000.0,3800.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-04-05 00:00:00,4800.0,4935.0,4915.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-04-17 00:00:00,4800.0,4965.0,4915.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-04-25 00:00:00,4800.0,4950.0,4925.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-04-10 00:00:00,3500.0,3950.0,3725.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-04-28 00:00:00,2550.0,4050.0,3650.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-04-08 00:00:00,2975.0,2975.0,2975.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Other,Non-FAQ,2025-04-29 00:00:00,3755.0,4080.0,4080.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-04-12 00:00:00,3830.0,4180.0,4180.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-04-01 00:00:00,3900.0,4350.0,4200.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-04-30 00:00:00,3625.0,4075.0,4000.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-04-16 00:00:00,4175.0,4350.0,4175.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-11-14 00:00:00,3900.0,5510.0,4500.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-14 00:00:00,3450.0,4730.0,4505.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-21 00:00:00,3500.0,4605.0,4500.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-11-19 00:00:00,4050.0,5555.0,4375.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-18 00:00:00,3730.0,5380.0,4530.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-11-21 00:00:00,3510.0,4305.0,3908.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-11-22 00:00:00,3000.0,4125.0,3563.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-11-24 00:00:00,4175.0,4575.0,4350.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-11-24 00:00:00,2905.0,4260.0,3583.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-24 00:00:00,3500.0,5180.0,4430.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-25 00:00:00,3350.0,4530.0,4355.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-11-19 00:00:00,3305.0,6255.0,5753.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-20 00:00:00,4475.0,4589.0,4530.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-26 00:00:00,4350.0,4500.0,4450.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-27 00:00:00,4340.0,4505.0,4380.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-11-27 00:00:00,4050.0,4525.0,4300.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-11-26 00:00:00,4050.0,4325.0,4250.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-26 00:00:00,4335.0,4550.0,4375.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-11-26 00:00:00,4190.0,4405.0,4300.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-27 00:00:00,2905.0,4305.0,4285.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,FAQ,2025-11-27 00:00:00,3505.0,5005.0,4405.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-28 00:00:00,3000.0,4405.0,4305.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-28 00:00:00,4275.0,4425.0,4360.0,13
+Gujarat,Porbandar,Porbandar APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-29 00:00:00,4100.0,4100.0,4100.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,FAQ,2024-10-23 00:00:00,3970.0,4385.0,4178.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,FAQ,2024-10-04 00:00:00,4250.0,4892.0,4892.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-06 00:00:00,2125.0,3950.0,3750.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-24 00:00:00,3650.0,4085.0,4020.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-26 00:00:00,3560.0,4045.0,4000.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-03 00:00:00,3500.0,4005.0,3752.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-05 00:00:00,3825.0,4020.0,3922.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-06 00:00:00,2700.0,3940.0,3320.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-21 00:00:00,3350.0,3750.0,3550.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-28 00:00:00,3580.0,3900.0,3740.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-31 00:00:00,3000.0,3900.0,3450.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-05-19 00:00:00,3755.0,3805.0,3775.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-05-26 00:00:00,3660.0,3885.0,3770.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-05-01 00:00:00,3920.0,3990.0,3955.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-05-17 00:00:00,3575.0,3575.0,3575.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-05-28 00:00:00,2500.0,3915.0,3208.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-05-31 00:00:00,3805.0,3805.0,3805.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-05-19 00:00:00,3550.0,3900.0,3750.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-05-31 00:00:00,3500.0,3890.0,3800.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-05-16 00:00:00,3485.0,3670.0,3560.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-05-29 00:00:00,3600.0,3805.0,3700.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-05-05 00:00:00,4250.0,4325.0,4300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-05-19 00:00:00,4250.0,4325.0,4275.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-05-29 00:00:00,4200.0,4384.0,4300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-05-31 00:00:00,4175.0,4250.0,4200.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-05-13 00:00:00,3875.0,4000.0,3937.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-05-15 00:00:00,3875.0,4000.0,3937.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,FAQ,2025-05-27 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-05-12 00:00:00,3700.0,4200.0,4105.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-05-14 00:00:00,4000.0,4200.0,4100.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-05-16 00:00:00,3750.0,4195.0,4125.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-05-01 00:00:00,3965.0,4120.0,4085.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-05-13 00:00:00,3655.0,4105.0,4075.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-05-21 00:00:00,4025.0,4155.0,4075.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-05-30 00:00:00,4005.0,4075.0,4025.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-13 00:00:00,3500.0,3855.0,3755.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-15 00:00:00,3505.0,4080.0,3855.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-21 00:00:00,3500.0,4055.0,3900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-22 00:00:00,3505.0,4655.0,3905.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-23 00:00:00,3505.0,4005.0,3900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-29 00:00:00,3500.0,4005.0,3950.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-20 00:00:00,4800.0,4935.0,4925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-22 00:00:00,4800.0,4935.0,4925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-23 00:00:00,4800.0,4945.0,4925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-27 00:00:00,4800.0,4945.0,4925.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-05-02 00:00:00,3250.0,4000.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-05-07 00:00:00,3500.0,4000.0,3750.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-05-15 00:00:00,3000.0,3950.0,3750.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-05-16 00:00:00,3000.0,3925.0,3700.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-05-03 00:00:00,3000.0,3500.0,3250.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-05-05 00:00:00,3250.0,3750.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-05-13 00:00:00,2500.0,3750.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-05-17 00:00:00,2500.0,3750.0,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-05-05 00:00:00,3750.0,4125.0,4000.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-01 00:00:00,3375.0,4005.0,3690.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-05 00:00:00,3325.0,3955.0,3640.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-14 00:00:00,3465.0,3955.0,3710.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-17 00:00:00,3225.0,3930.0,3580.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-19 00:00:00,3300.0,4330.0,3790.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-05-03 00:00:00,3650.0,3650.0,3650.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Other,Non-FAQ,2025-05-10 00:00:00,4000.0,4155.0,4105.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-05-14 00:00:00,4055.0,4130.0,4055.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-05-29 00:00:00,3830.0,4030.0,3955.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-05 00:00:00,3605.0,4130.0,4080.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-07 00:00:00,3630.0,4030.0,3955.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-08 00:00:00,3480.0,4030.0,3980.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-21 00:00:00,3455.0,4155.0,4030.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-28 00:00:00,3505.0,4155.0,4055.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-31 00:00:00,3605.0,4155.0,4080.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-05-05 00:00:00,3250.0,3955.0,3700.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-05-15 00:00:00,3000.0,3900.0,3750.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-05-28 00:00:00,3500.0,3900.0,3775.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-26 00:00:00,3250.0,4005.0,3950.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-29 00:00:00,3750.0,4345.0,3900.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,Non-FAQ,2025-05-08 00:00:00,3750.0,3800.0,3775.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,Non-FAQ,2025-05-17 00:00:00,3500.0,3800.0,3700.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-05-03 00:00:00,4000.0,4160.0,4080.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-05-13 00:00:00,4000.0,4175.0,4088.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-05-19 00:00:00,4000.0,4175.0,4088.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-05-29 00:00:00,4000.0,4100.0,4050.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-05-30 00:00:00,4000.0,4105.0,4053.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-05-19 00:00:00,4100.0,4250.0,4200.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2025-05-10 00:00:00,4000.0,4150.0,4075.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-05-30 00:00:00,4000.0,4125.0,4125.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-06-04 00:00:00,3000.0,3900.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-06-30 00:00:00,3500.0,4000.0,3900.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-06-25 00:00:00,3505.0,4125.0,3815.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-06-26 00:00:00,4000.0,4155.0,4130.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-06-16 00:00:00,3555.0,4405.0,4255.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-06-16 00:00:00,3400.0,4175.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-06-03 00:00:00,4200.0,4640.0,4500.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-06-18 00:00:00,3900.0,4100.0,4050.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-06-06 00:00:00,3900.0,4000.0,3950.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-06-20 00:00:00,4050.0,4200.0,4125.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-03 00:00:00,2550.0,4000.0,3960.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-04 00:00:00,2500.0,3975.0,3950.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-09 00:00:00,2500.0,3890.0,3850.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-13 00:00:00,3350.0,4020.0,3980.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-16 00:00:00,3960.0,4040.0,4000.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-25 00:00:00,3225.0,4045.0,4000.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-28 00:00:00,3870.0,3985.0,3885.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-06-30 00:00:00,3250.0,4070.0,4025.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-06-03 00:00:00,3350.0,3950.0,3650.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-06-24 00:00:00,3425.0,4040.0,3732.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-06-21 00:00:00,3555.0,4000.0,3825.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-06-25 00:00:00,3755.0,3900.0,3755.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-06-27 00:00:00,3830.0,3850.0,3850.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-06-24 00:00:00,4125.0,4125.0,4125.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-06-25 00:00:00,3630.0,4105.0,3868.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-06-27 00:00:00,3940.0,4000.0,3970.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-06-11 00:00:00,3500.0,3800.0,3700.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-06-25 00:00:00,3250.0,3950.0,3750.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-06-30 00:00:00,3505.0,3695.0,3595.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-06-10 00:00:00,4150.0,4300.0,4250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-06-17 00:00:00,4150.0,4300.0,4250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-06-18 00:00:00,4150.0,4300.0,4250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-06-19 00:00:00,4150.0,4300.0,4250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-06-21 00:00:00,4150.0,4256.0,4200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-06-23 00:00:00,4175.0,4371.0,4300.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-06-23 00:00:00,3800.0,3850.0,3825.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-06-24 00:00:00,3800.0,3850.0,3825.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-06-26 00:00:00,3750.0,4000.0,3875.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-06-30 00:00:00,3750.0,4000.0,3875.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-06-04 00:00:00,3500.0,4300.0,4000.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-06-11 00:00:00,3400.0,3800.0,3500.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-06-02 00:00:00,3505.0,3975.0,3900.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-06-10 00:00:00,3525.0,3935.0,3850.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-06-14 00:00:00,3500.0,3890.0,3750.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-06-05 00:00:00,3000.0,4150.0,3850.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-06-21 00:00:00,3500.0,4025.0,3925.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-06-16 00:00:00,2500.0,3750.0,3250.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-06-03 00:00:00,3355.0,4380.0,4055.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-06-10 00:00:00,3505.0,4255.0,4105.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-06-18 00:00:00,3255.0,4730.0,4280.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-06-20 00:00:00,3730.0,4505.0,4305.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-06-19 00:00:00,3500.0,4025.0,3750.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-06-05 00:00:00,3500.0,4105.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-06-14 00:00:00,3500.0,4080.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-06-20 00:00:00,3750.0,4330.0,4080.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-06-21 00:00:00,4000.0,4500.0,4250.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-06-25 00:00:00,4000.0,4075.0,4037.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-06-30 00:00:00,3500.0,4000.0,3600.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-06-10 00:00:00,3750.0,4105.0,4000.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-06-05 00:00:00,3525.0,3925.0,3850.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-06-25 00:00:00,3950.0,4105.0,4005.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-06-05 00:00:00,3550.0,3955.0,3750.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-06-13 00:00:00,3500.0,3855.0,3650.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-06-14 00:00:00,3400.0,3855.0,3650.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-06-18 00:00:00,3500.0,3905.0,3700.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-06-10 00:00:00,4800.0,4935.0,4925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-06-11 00:00:00,4800.0,4915.0,4900.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-06-16 00:00:00,4800.0,4945.0,4915.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-06-26 00:00:00,3000.0,3750.0,3500.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-06-06 00:00:00,3880.0,4005.0,3930.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-06-21 00:00:00,3500.0,4055.0,3775.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-06-24 00:00:00,3850.0,4100.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,Non-FAQ,2025-06-20 00:00:00,3625.0,3900.0,3800.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-06-26 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-06-02 00:00:00,4000.0,4100.0,4060.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-06-02 00:00:00,4000.0,4070.0,4070.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-06-09 00:00:00,4000.0,4110.0,4110.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-01 00:00:00,3475.0,3925.0,3750.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-10 00:00:00,3375.0,4045.0,4025.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-12 00:00:00,3000.0,4070.0,4040.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-21 00:00:00,3900.0,4140.0,4030.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-05-23 00:00:00,3525.0,4070.0,4025.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-01 00:00:00,3000.0,3800.0,3400.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-08 00:00:00,3275.0,3925.0,3600.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-14 00:00:00,3525.0,4050.0,3787.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-15 00:00:00,3525.0,3910.0,3717.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-20 00:00:00,3000.0,3850.0,3425.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-05-26 00:00:00,3850.0,3995.0,3922.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-05-07 00:00:00,3000.0,3675.0,3675.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-05-15 00:00:00,3700.0,3905.0,3805.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-05-20 00:00:00,3575.0,3800.0,3685.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-05-05 00:00:00,3870.0,3870.0,3870.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-05-26 00:00:00,3000.0,3925.0,3463.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,FAQ,2025-05-17 00:00:00,3500.0,3900.0,3750.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-05-02 00:00:00,3500.0,3800.0,3650.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-05-13 00:00:00,3500.0,3710.0,3625.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-05-15 00:00:00,3600.0,3900.0,3700.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-05-30 00:00:00,3550.0,3925.0,3750.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-05-23 00:00:00,3550.0,3840.0,3695.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-05-01 00:00:00,4250.0,4300.0,4270.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-05-15 00:00:00,4300.0,4340.0,4325.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-05-08 00:00:00,3875.0,4000.0,3937.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-05-21 00:00:00,3400.0,4000.0,3500.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-05-26 00:00:00,3500.0,4000.0,3800.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-05-30 00:00:00,3500.0,4000.0,3600.0,13
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Soyabean,Black,FAQ,2025-05-20 00:00:00,3525.0,3980.0,3750.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-05-19 00:00:00,3500.0,4115.0,4055.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-05-05 00:00:00,4005.0,4100.0,4075.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-05-28 00:00:00,4005.0,4105.0,4075.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-26 00:00:00,3500.0,4000.0,3850.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-27 00:00:00,3500.0,4030.0,3900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-28 00:00:00,3500.0,4005.0,3900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-05-30 00:00:00,3500.0,4030.0,3900.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-16 00:00:00,4800.0,4950.0,4925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-19 00:00:00,4800.0,4950.0,4925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-24 00:00:00,4800.0,4935.0,4925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-05-28 00:00:00,4800.0,4935.0,4925.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2025-05-10 00:00:00,4050.0,4050.0,4050.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-05-12 00:00:00,3000.0,3925.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-05-21 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-05-23 00:00:00,3000.0,3900.0,3625.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-05-29 00:00:00,3750.0,4610.0,4050.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-02 00:00:00,3325.0,4005.0,3665.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-03 00:00:00,3305.0,3955.0,3630.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-07 00:00:00,3325.0,3955.0,3640.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-08 00:00:00,3200.0,3800.0,3500.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-05-26 00:00:00,3400.0,4000.0,3700.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Other,Non-FAQ,2025-05-13 00:00:00,4905.0,5230.0,5230.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-05-05 00:00:00,3630.0,4080.0,4055.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-05-19 00:00:00,3382.0,4080.0,4055.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-05-24 00:00:00,3955.0,4055.0,3955.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-05-26 00:00:00,3605.0,4080.0,4005.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-05-28 00:00:00,3380.0,4080.0,4080.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-06 00:00:00,3605.0,4055.0,4005.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-09 00:00:00,3355.0,4155.0,3830.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-20 00:00:00,3605.0,4130.0,4055.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-05-23 00:00:00,3655.0,4180.0,4080.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-05-03 00:00:00,3500.0,3945.0,3750.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-05-17 00:00:00,3500.0,3900.0,3775.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-05-22 00:00:00,3500.0,3940.0,3775.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-05-27 00:00:00,3500.0,3890.0,3750.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-02 00:00:00,3750.0,4105.0,4005.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-06 00:00:00,3575.0,3900.0,3800.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-07 00:00:00,3000.0,3855.0,3750.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-14 00:00:00,3250.0,3955.0,3850.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-17 00:00:00,3250.0,4205.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-05-30 00:00:00,3625.0,4005.0,3875.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-05-13 00:00:00,3500.0,3900.0,3850.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-05-30 00:00:00,3900.0,4020.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,Non-FAQ,2025-05-03 00:00:00,3525.0,3900.0,3700.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-05-28 00:00:00,4000.0,4100.0,4050.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-05-29 00:00:00,4000.0,4100.0,4050.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2025-05-01 00:00:00,5250.0,5400.0,5325.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2025-05-09 00:00:00,4000.0,4150.0,4075.0,13
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,2025-05-14 00:00:00,4000.0,4075.0,4037.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-05-19 00:00:00,4000.0,4140.0,4140.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-08-05 00:00:00,3175.0,4535.0,4450.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-08-12 00:00:00,4050.0,4600.0,4525.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-08-25 00:00:00,3575.0,4440.0,4350.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-08-04 00:00:00,4000.0,4225.0,4112.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-08-06 00:00:00,4410.0,4505.0,4457.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-08-19 00:00:00,4250.0,4350.0,4300.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-08-25 00:00:00,4055.0,4200.0,4127.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-08-26 00:00:00,4000.0,4130.0,4065.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-08-11 00:00:00,4050.0,4205.0,4205.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-08-18 00:00:00,4000.0,4000.0,4000.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-08-27 00:00:00,3750.0,3750.0,3750.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-08-06 00:00:00,4250.0,4350.0,4300.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-08-22 00:00:00,4100.0,4100.0,4100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-08-13 00:00:00,4750.0,4861.0,4800.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-08-26 00:00:00,4550.0,4690.0,4600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-08-29 00:00:00,4500.0,4575.0,4550.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-08-30 00:00:00,4500.0,4550.0,4520.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-05 00:00:00,4000.0,4050.0,4025.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-07 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-11 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-12 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-20 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-22 00:00:00,4000.0,4262.0,4125.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-28 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-08-29 00:00:00,4000.0,4262.0,4125.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-08-01 00:00:00,3500.0,4000.0,3800.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-08-05 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-08-26 00:00:00,4005.0,4400.0,4275.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-08-21 00:00:00,4000.0,4400.0,4200.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-08-29 00:00:00,4000.0,4330.0,4200.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-08-06 00:00:00,4000.0,4500.0,4500.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-08-26 00:00:00,2500.0,3875.0,3875.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-08-29 00:00:00,3500.0,4125.0,3925.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-08-06 00:00:00,3250.0,4250.0,4000.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,Non-FAQ,2025-08-12 00:00:00,3250.0,4500.0,4250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-08-25 00:00:00,4000.0,4545.0,4250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-08-27 00:00:00,4000.0,4425.0,4200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-08-29 00:00:00,4000.0,4100.0,4050.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-08-27 00:00:00,3750.0,4360.0,4055.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2025-08-28 00:00:00,4130.0,4355.0,4330.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-08-05 00:00:00,4355.0,4430.0,4380.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-08-06 00:00:00,4305.0,4555.0,4505.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-08-07 00:00:00,4455.0,4705.0,4680.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-08-02 00:00:00,3705.0,4355.0,4330.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-08-05 00:00:00,2855.0,4480.0,4405.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-08-29 00:00:00,2755.0,4255.0,4205.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-08-02 00:00:00,3750.0,4120.0,4000.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-08-27 00:00:00,3500.0,4325.0,4000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-08-05 00:00:00,4000.0,4480.0,4380.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-08-07 00:00:00,4250.0,4630.0,4575.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-08-08 00:00:00,4250.0,4580.0,4480.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-08-30 00:00:00,4000.0,4175.0,4125.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-08-06 00:00:00,4375.0,4410.0,4400.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-08-02 00:00:00,4000.0,4250.0,4125.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-08-21 00:00:00,4470.0,4500.0,4500.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-08-28 00:00:00,3520.0,4500.0,4100.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-08-08 00:00:00,4500.0,4700.0,4700.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-08-12 00:00:00,4500.0,4650.0,4650.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-08-23 00:00:00,4350.0,4425.0,4425.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-08-29 00:00:00,4250.0,4475.0,4475.0,13
+Gujarat,Sabarkantha,Talod,Soyabean,Black,FAQ,2025-08-04 00:00:00,4150.0,4325.0,4237.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,Non-FAQ,2025-08-07 00:00:00,4250.0,4250.0,4250.0,13
+Gujarat,Surat,Nizar,Soyabean,Soyabeen,Non-FAQ,2025-08-01 00:00:00,4110.0,4198.0,4175.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-09-13 00:00:00,3980.0,4155.0,4115.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-09-08 00:00:00,3825.0,4070.0,3947.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-09-19 00:00:00,3865.0,3880.0,3872.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-09-19 00:00:00,3750.0,3875.0,3875.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-09-04 00:00:00,4100.0,4100.0,4100.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-09-19 00:00:00,3540.0,3750.0,3645.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-09-18 00:00:00,4400.0,4450.0,4410.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-09-19 00:00:00,4400.0,4450.0,4410.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-09-02 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-09-05 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-09-10 00:00:00,3500.0,4100.0,4000.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-09-15 00:00:00,3500.0,4100.0,4000.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-09-25 00:00:00,3500.0,4000.0,3600.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-09-27 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-09-03 00:00:00,3750.0,4330.0,4230.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-09-16 00:00:00,4000.0,4130.0,4050.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-09-13 00:00:00,3750.0,4125.0,4125.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-09-13 00:00:00,3750.0,3900.0,3825.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-09-24 00:00:00,3825.0,3920.0,3872.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-09-17 00:00:00,3850.0,3850.0,3850.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-09-01 00:00:00,3775.0,3775.0,3775.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-09-26 00:00:00,3855.0,3855.0,3855.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-09-02 00:00:00,4550.0,4600.0,4575.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-09-10 00:00:00,4475.0,4525.0,4500.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-09-22 00:00:00,4400.0,4450.0,4425.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-09-23 00:00:00,4000.0,4050.0,4025.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-09-04 00:00:00,3500.0,4200.0,4000.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-09-01 00:00:00,4000.0,4385.0,4300.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,Non-FAQ,2025-09-20 00:00:00,4000.0,4220.0,4135.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-09-09 00:00:00,3975.0,4400.0,4300.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-09-27 00:00:00,4000.0,4200.0,4125.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-09-02 00:00:00,4000.0,4280.0,4150.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-09-15 00:00:00,4000.0,4155.0,4100.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-09-20 00:00:00,3500.0,4130.0,3750.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-09-27 00:00:00,3750.0,4005.0,3900.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-09-04 00:00:00,3500.0,4275.0,4050.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-09-27 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-09-16 00:00:00,3750.0,4195.0,4100.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-09-20 00:00:00,3750.0,4235.0,4100.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-09-06 00:00:00,3855.0,4125.0,4005.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-09-17 00:00:00,3750.0,4100.0,3925.0,13
+Gujarat,Junagarh,Visavadar,Soyabean,Black,FAQ,2025-09-20 00:00:00,3755.0,4015.0,3885.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-09-12 00:00:00,4000.0,4000.0,4000.0,13
+Gujarat,Porbandar,Porbandar,Soyabean,Soyabeen,Non-FAQ,2025-09-23 00:00:00,3625.0,3625.0,3625.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-09-04 00:00:00,3230.0,4330.0,4305.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-09-17 00:00:00,4055.0,4130.0,4130.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-09-16 00:00:00,3055.0,4155.0,4055.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-09-24 00:00:00,3205.0,4130.0,4105.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-09-25 00:00:00,3355.0,4205.0,4130.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-09-06 00:00:00,3500.0,4100.0,3850.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-09-23 00:00:00,3500.0,4000.0,3850.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-09-29 00:00:00,3500.0,3775.0,3725.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-09-30 00:00:00,3500.0,4000.0,3750.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-09-02 00:00:00,3750.0,4275.0,4200.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-09-11 00:00:00,3675.0,4250.0,4175.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-09-15 00:00:00,3750.0,4250.0,4200.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-09-16 00:00:00,3900.0,4250.0,4200.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-09-18 00:00:00,3750.0,4300.0,4200.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-09-24 00:00:00,3900.0,4105.0,4075.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-09-30 00:00:00,3750.0,4205.0,4100.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-09-06 00:00:00,4000.0,4100.0,4050.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-09-18 00:00:00,3500.0,4135.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-09-19 00:00:00,3900.0,4175.0,4000.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-09-27 00:00:00,4000.0,4150.0,4100.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-09-01 00:00:00,4000.0,4500.0,4250.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-09-11 00:00:00,4355.0,4500.0,4420.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-09-12 00:00:00,4150.0,4355.0,4300.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-09-13 00:00:00,4050.0,4300.0,4200.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-09-17 00:00:00,4175.0,4250.0,4200.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-09-22 00:00:00,4155.0,4300.0,4225.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-09-01 00:00:00,4250.0,4480.0,4480.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-09-08 00:00:00,4250.0,4365.0,4365.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-09-16 00:00:00,4125.0,4275.0,4275.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-09-18 00:00:00,4100.0,4250.0,4250.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-09-13 00:00:00,4200.0,4290.0,4245.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-09-18 00:00:00,4250.0,4330.0,4290.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-09-22 00:00:00,4125.0,4185.0,4155.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-09-26 00:00:00,4000.0,4090.0,4090.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,Non-FAQ,2025-09-03 00:00:00,4000.0,4000.0,4000.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,FAQ,2025-11-04 00:00:00,2825.0,4350.0,4215.0,13
+Gujarat,Amreli,Amreli,Soyabean,Soyabeen,Non-FAQ,2025-10-01 00:00:00,3760.0,3900.0,3825.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-10-14 00:00:00,3450.0,3900.0,3675.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-10-18 00:00:00,3355.0,4045.0,3700.0,13
+Gujarat,Amreli,Bagasara,Soyabean,Yellow,Non-FAQ,2025-10-30 00:00:00,2500.0,4100.0,3300.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-10-07 00:00:00,3325.0,3325.0,3325.0,13
+Gujarat,Amreli,Dhari,Soyabean,Local,Non-FAQ,2025-10-16 00:00:00,3500.0,3905.0,3745.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-11-04 00:00:00,3855.0,4215.0,4035.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2025-10-13 00:00:00,3500.0,3705.0,3603.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-11-03 00:00:00,4250.0,4450.0,4350.0,13
+Gujarat,Amreli,Savarkundla,Soyabean,Soyabeen,Non-FAQ,2025-10-13 00:00:00,3000.0,3840.0,3450.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,Non-FAQ,2025-10-03 00:00:00,4045.0,4045.0,4045.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,Non-FAQ,2025-10-16 00:00:00,3820.0,3900.0,3860.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-10-14 00:00:00,3910.0,4045.0,3975.0,13
+Gujarat,Bhavnagar,Palitana,Soyabean,Local,FAQ,2025-10-15 00:00:00,3775.0,4000.0,3885.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-10-01 00:00:00,4400.0,4496.0,4450.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-10-04 00:00:00,4450.0,4500.0,4480.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-10-14 00:00:00,4200.0,4350.0,4300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,Non-FAQ,2025-10-16 00:00:00,4275.0,4350.0,4300.0,13
+Gujarat,Dahod,Zalod(Zalod),Soyabean,Other,FAQ,2025-10-15 00:00:00,4000.0,4125.0,4062.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-10-08 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad,Soyabean,Soyabeen,Non-FAQ,2025-10-17 00:00:00,3500.0,3700.0,3600.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-11-01 00:00:00,3705.0,4385.0,4225.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-10-08 00:00:00,2790.0,3810.0,3175.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-10-11 00:00:00,2505.0,4085.0,3400.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-10-25 00:00:00,3950.0,4290.0,4075.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,FAQ,2025-10-27 00:00:00,3800.0,4225.0,4005.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,Non-FAQ,2025-11-03 00:00:00,3705.0,4140.0,4005.0,13
+Gujarat,Gir Somnath,Veraval,Soyabean,Other,Non-FAQ,2025-11-05 00:00:00,3500.0,3990.0,3850.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-10-01 00:00:00,3500.0,4000.0,3855.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-10-04 00:00:00,3750.0,4080.0,3950.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-10-09 00:00:00,3000.0,4105.0,3500.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-10-10 00:00:00,3000.0,3930.0,3505.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-10-13 00:00:00,3250.0,4155.0,3650.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-10-15 00:00:00,3500.0,4055.0,3950.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2025-10-16 00:00:00,3500.0,4105.0,4000.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-10-11 00:00:00,3000.0,3950.0,3650.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-10-14 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-10-15 00:00:00,3500.0,4050.0,3925.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-10-17 00:00:00,3500.0,4125.0,4050.0,13
+Gujarat,Jamnagar,Jamnagar,Soyabean,Local,FAQ,2025-10-29 00:00:00,3500.0,4250.0,4025.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2025-11-01 00:00:00,3900.0,4780.0,4525.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2025-10-10 00:00:00,3515.0,4035.0,3825.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2025-10-18 00:00:00,3905.0,4195.0,4015.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2025-10-27 00:00:00,3875.0,4115.0,3910.0,13
+Gujarat,Jamnagar,Kalawad,Soyabean,Black,FAQ,2025-10-29 00:00:00,3750.0,4155.0,3925.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-11-03 00:00:00,3000.0,4250.0,3500.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2025-10-31 00:00:00,3500.0,4150.0,4000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2025-10-09 00:00:00,2500.0,4205.0,4000.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-11-04 00:00:00,3780.0,4505.0,4250.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-11-05 00:00:00,3480.0,4405.0,4230.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-10-08 00:00:00,3480.0,4105.0,3530.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-10-10 00:00:00,3555.0,4105.0,3905.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-10-13 00:00:00,3380.0,4080.0,3955.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-10-17 00:00:00,3750.0,4255.0,4090.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,Non-FAQ,2025-10-29 00:00:00,3990.0,4250.0,4190.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,Non-FAQ,2025-10-06 00:00:00,3005.0,4305.0,4055.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-10-03 00:00:00,3500.0,3775.0,3650.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2025-10-15 00:00:00,3400.0,4045.0,3825.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-10-07 00:00:00,3000.0,4155.0,3500.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-10-10 00:00:00,3250.0,4280.0,3905.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Soyabean,Soyabeen,FAQ,2025-10-17 00:00:00,3605.0,4180.0,4025.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-11-04 00:00:00,3900.0,4300.0,4100.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-10-07 00:00:00,4000.0,4150.0,4100.0,13
+Gujarat,Rajkot,Upleta,Soyabean,Soyabeen,FAQ,2025-10-09 00:00:00,3800.0,4100.0,4000.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-10-27 00:00:00,4000.0,4225.0,4113.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-10-28 00:00:00,4000.0,4100.0,4060.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-10-29 00:00:00,4000.0,4150.0,4076.0,13
+Gujarat,Sabarkantha,Bhiloda,Soyabean,Other,Non-FAQ,2025-10-30 00:00:00,4000.0,4200.0,4100.0,13
+Gujarat,Sabarkantha,Dhansura,Soyabean,Yellow,Non-FAQ,2025-11-01 00:00:00,3600.0,4250.0,4000.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-11-05 00:00:00,3650.0,4300.0,4000.0,13
+Gujarat,Sabarkantha,Himatnagar,Soyabean,Yellow,Non-FAQ,2025-10-08 00:00:00,3290.0,4200.0,3900.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-10-15 00:00:00,3600.0,4075.0,4075.0,13
+Gujarat,Sabarkantha,Modasa,Soyabean,Yellow,Non-FAQ,2025-10-27 00:00:00,3800.0,4155.0,4155.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi),Soyabean,Yellow,Non-FAQ,2025-10-17 00:00:00,3500.0,4000.0,4000.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-11-03 00:00:00,3750.0,4125.0,3937.0,13
+Gujarat,Sabarkantha,Vadali,Soyabean,Other,Non-FAQ,2025-10-30 00:00:00,3900.0,4120.0,4010.0,13
+Gujarat,Surat,Mandvi,Soyabean,Other,Non-FAQ,2025-10-20 00:00:00,3000.0,4000.0,3500.0,13
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Soyabean,Other,Local,2025-11-27 00:00:00,3950.0,4050.0,4000.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Other,Local,2025-11-28 00:00:00,3500.0,4475.0,4295.0,13
+Gujarat,Junagarh,Visavadar APMC,Soyabean,Black,FAQ,2025-11-12 00:00:00,4425.0,4835.0,4630.0,13
+Gujarat,Junagarh,Visavadar APMC,Soyabean,Black,FAQ,2025-11-13 00:00:00,4350.0,4650.0,4500.0,13
+Gujarat,Junagarh,Visavadar APMC,Soyabean,Black,FAQ,2025-11-19 00:00:00,4350.0,4670.0,4510.0,13
+Gujarat,Junagarh,Visavadar APMC,Soyabean,Black,FAQ,2025-11-29 00:00:00,4105.0,4575.0,4340.0,13
+Gujarat,Surendranagar,Chotila APMC,Soyabean,Black,Non-FAQ,2025-11-03 00:00:00,3950.0,4300.0,4125.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Local,FAQ,2025-11-07 00:00:00,4015.0,4400.0,4275.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Local,Non-FAQ,2025-11-10 00:00:00,4055.0,4200.0,4130.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Local,Non-FAQ,2025-11-13 00:00:00,4025.0,4600.0,4475.0,13
+Gujarat,Sabarkantha,Vadali APMC,Soyabean,Other,Local,2025-11-11 00:00:00,4095.0,4095.0,4095.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Other,FAQ,2025-11-08 00:00:00,3950.0,4305.0,4200.0,13
+Gujarat,Surat,Mandvi APMC,Soyabean,Other,Non-FAQ,2025-11-12 00:00:00,3000.0,4300.0,3650.0,13
+Gujarat,Surat,Mandvi APMC,Soyabean,Other,Non-FAQ,2025-11-11 00:00:00,3000.0,4300.0,3650.0,13
+Gujarat,Sabarkantha,Vijaynagar(Kundlakap) APMC,Soyabean,Other,Local,2025-11-13 00:00:00,5328.0,5328.0,5328.0,13
+Gujarat,Surat,Mandvi APMC,Soyabean,Other,Local,2025-11-26 00:00:00,3750.0,4400.0,4075.0,13
+Gujarat,Morbi,APMC HALVAD,Soyabean,Other,FAQ,2025-11-05 00:00:00,3050.0,4080.0,4000.0,13
+Gujarat,Sabarkantha,Vadali APMC,Soyabean,Other,Local,2025-11-12 00:00:00,3827.0,3827.0,3827.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-11 00:00:00,4150.0,4625.0,4400.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-10 00:00:00,4150.0,4350.0,4175.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-07 00:00:00,4425.0,4525.0,4480.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-11-12 00:00:00,3750.0,4505.0,4280.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-08 00:00:00,4065.0,4370.0,4265.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-11-11 00:00:00,4050.0,4500.0,4225.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-12 00:00:00,4000.0,4605.0,4400.0,13
+Gujarat,Porbandar,Porbandar APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-13 00:00:00,4500.0,4500.0,4500.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-13 00:00:00,4599.0,4750.0,4650.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,FAQ,2025-11-11 00:00:00,4560.0,4560.0,4560.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-11-13 00:00:00,3900.0,5490.0,4500.0,13
+Gujarat,Junagarh,Bhesan APMC,Soyabean,Other,Local,2025-11-12 00:00:00,3500.0,4500.0,4000.0,13
+Gujarat,Sabarkantha,Bhiloda APMC,Soyabean,Other,Non-FAQ,2025-11-01 00:00:00,4000.0,4200.0,4100.0,13
+Gujarat,Junagarh,Bhesan APMC,Soyabean,Other,FAQ,2025-11-03 00:00:00,3000.0,4250.0,3500.0,13
+Gujarat,Junagarh,Bhesan APMC,Soyabean,Other,FAQ,2025-11-05 00:00:00,3500.0,4300.0,4000.0,13
+Gujarat,Junagarh,Bhesan APMC,Soyabean,Other,FAQ,2025-11-06 00:00:00,3500.0,4250.0,4000.0,13
+Gujarat,Gir Somnath,Veraval APMC,Soyabean,Other,FAQ,2025-11-26 00:00:00,4015.0,4430.0,4340.0,13
+Gujarat,Surat,Mandvi APMC,Soyabean,Other,Local,2025-11-30 00:00:00,4000.0,4400.0,4200.0,13
+Gujarat,Sabarkantha,Bhiloda APMC,Soyabean,Other,Non-FAQ,2025-11-29 00:00:00,4100.0,4350.0,4225.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-10 00:00:00,3750.0,4605.0,4400.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-11-14 00:00:00,4050.0,4575.0,4350.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-11-15 00:00:00,3900.0,5315.0,4450.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-17 00:00:00,3500.0,4630.0,4400.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-11-18 00:00:00,3300.0,4425.0,3863.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-19 00:00:00,4425.0,4650.0,4510.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-12 00:00:00,4400.0,4700.0,4500.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-11-19 00:00:00,4050.0,4500.0,4300.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-20 00:00:00,3250.0,4655.0,4500.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-11-20 00:00:00,4000.0,4000.0,4000.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2025-11-12 00:00:00,3950.0,4335.0,4150.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Non-FAQ,2025-11-01 00:00:00,3575.0,4175.0,3875.0,13
+Gujarat,Sabarkantha,Dhansura APMC,Soyabean,Yellow,Non-FAQ,2025-11-01 00:00:00,3600.0,4250.0,4000.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,Yellow,Non-FAQ,2025-11-08 00:00:00,3200.0,4200.0,4200.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Non-FAQ,2025-11-05 00:00:00,3650.0,4300.0,4000.0,13
+Gujarat,Sabarkantha,Dhansura APMC,Soyabean,Yellow,Non-FAQ,2025-11-06 00:00:00,3700.0,4250.0,3950.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2025-11-14 00:00:00,3450.0,4600.0,4025.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Non-FAQ,2025-11-06 00:00:00,3500.0,4220.0,4000.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-11-26 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-11-26 00:00:00,3900.0,4500.0,4200.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-11-25 00:00:00,3125.0,4200.0,3663.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,FAQ,2025-11-26 00:00:00,3250.0,4345.0,4245.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-11-28 00:00:00,3750.0,4495.0,4275.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-11-28 00:00:00,4000.0,5590.0,4300.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-11-28 00:00:00,4050.0,4825.0,4255.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,FAQ,2025-11-03 00:00:00,3675.0,4435.0,4255.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,FAQ,2025-11-03 00:00:00,3125.0,4195.0,3660.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-03 00:00:00,4250.0,4450.0,4350.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-04 00:00:00,4410.0,4533.0,4470.0,13
+Gujarat,Devbhumi Dwarka,Bhanvad APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-04 00:00:00,3500.0,4000.0,3800.0,13
+Gujarat,Porbandar,Porbandar APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-15 00:00:00,4325.0,4325.0,4325.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-15 00:00:00,3500.0,4730.0,4500.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,FAQ,2025-11-14 00:00:00,3360.0,4680.0,4425.0,13
+Gujarat,Surat,Nizar APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-15 00:00:00,3745.0,4075.0,3855.0,13
+Gujarat,Jamnagar,Kalawad APMC,Soyabean,Black,FAQ,2025-11-05 00:00:00,3845.0,4250.0,3975.0,13
+Gujarat,Sabarkantha,Talod APMC,Soyabean,Black,FAQ,2025-11-05 00:00:00,3500.0,3890.0,3695.0,13
+Gujarat,Junagarh,Visavadar APMC,Soyabean,Black,FAQ,2025-11-20 00:00:00,4310.0,4570.0,4440.0,13
+Gujarat,Surendranagar,Chotila APMC,Soyabean,Black,Non-FAQ,2025-11-04 00:00:00,4000.0,4200.0,4125.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Local,Local,2025-11-18 00:00:00,3500.0,4550.0,4380.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Local,Local,2025-11-19 00:00:00,3500.0,4500.0,4390.0,13
+Gujarat,Sabarkantha,Malpur APMC,Soyabean,Local,FAQ,2025-11-20 00:00:00,4350.0,4450.0,4400.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Local,Local,2025-11-25 00:00:00,3500.0,4400.0,4215.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Local,Local,2025-11-27 00:00:00,3500.0,4500.0,4315.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-17 00:00:00,4280.0,4680.0,4460.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,Yellow,Non-FAQ,2025-11-21 00:00:00,3950.0,4500.0,4500.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2025-11-18 00:00:00,3505.0,4515.0,4010.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2025-11-28 00:00:00,4055.0,4425.0,4425.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2025-11-29 00:00:00,4055.0,4410.0,4410.0,13
+Gujarat,Surat,Vyra APMC,Soyabean,Yellow,FAQ,2025-11-17 00:00:00,4250.0,4525.0,4387.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2025-11-22 00:00:00,4075.0,4625.0,4625.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2025-11-20 00:00:00,3640.0,4320.0,4100.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-28 00:00:00,3555.0,4880.0,4380.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-11-29 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2025-11-21 00:00:00,3575.0,4725.0,4150.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,Yellow,Non-FAQ,2025-11-24 00:00:00,4025.0,4350.0,4350.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Non-FAQ,2025-11-07 00:00:00,3750.0,4380.0,4100.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2025-11-04 00:00:00,3700.0,4290.0,4290.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,Yellow,Non-FAQ,2025-11-04 00:00:00,3600.0,4200.0,4200.0,13
+Gujarat,Porbandar,Porbandar APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-18 00:00:00,4350.0,4375.0,4360.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-11-22 00:00:00,3250.0,4580.0,4405.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-20 00:00:00,3800.0,4500.0,4425.0,13
+Gujarat,Surat,Nizar APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-26 00:00:00,3875.0,4040.0,3985.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-11-21 00:00:00,4000.0,4000.0,4000.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-11-21 00:00:00,3750.0,4400.0,4355.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-11-24 00:00:00,4310.0,4525.0,4375.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,Non-FAQ,2025-11-22 00:00:00,3750.0,4960.0,4285.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-11-25 00:00:00,3500.0,4410.0,4325.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-11-25 00:00:00,4000.0,4000.0,4000.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-11-24 00:00:00,3800.0,4400.0,4350.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-11-24 00:00:00,4000.0,5170.0,4300.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-11-24 00:00:00,4050.0,4525.0,4375.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2025-11-15 00:00:00,3975.0,4585.0,4280.0,13
+Gujarat,Rajkot,Dhoraji APMC,Soyabean,Yellow,Non-FAQ,2025-11-24 00:00:00,3850.0,4540.0,4355.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2025-11-24 00:00:00,4255.0,4285.0,4275.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-24 00:00:00,4305.0,4355.0,4355.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-12-26 00:00:00,4000.0,4500.0,4250.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-24 00:00:00,4500.0,4750.0,4625.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-12-26 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-27 00:00:00,3750.0,4700.0,4500.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-27 00:00:00,3850.0,4500.0,4350.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-27 00:00:00,4405.0,4605.0,4500.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-30 00:00:00,4200.0,4540.0,4400.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-29 00:00:00,4355.0,4555.0,4480.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-30 00:00:00,3750.0,4525.0,4405.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-25 00:00:00,4100.0,4525.0,4400.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-23 00:00:00,3750.0,4555.0,4250.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-24 00:00:00,3800.0,4650.0,4250.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-24 00:00:00,4050.0,4500.0,4400.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-31 00:00:00,4250.0,4655.0,4500.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-09 00:00:00,2505.0,4330.0,4000.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-12 00:00:00,4000.0,4300.0,4150.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-23 00:00:00,3900.0,4360.0,4250.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-19 00:00:00,3750.0,4305.0,4200.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-20 00:00:00,4125.0,4505.0,4325.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-20 00:00:00,3750.0,4260.0,4185.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-22 00:00:00,4050.0,4425.0,4300.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-22 00:00:00,3750.0,4300.0,4225.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-12-09 00:00:00,3750.0,4300.0,4250.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-13 00:00:00,3500.0,4300.0,4150.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-13 00:00:00,3800.0,4770.0,4150.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-17 00:00:00,4075.0,4430.0,4310.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-23 00:00:00,4125.0,4240.0,4200.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-22 00:00:00,3000.0,4505.0,4380.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-10 00:00:00,4000.0,4425.0,4270.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-12 00:00:00,4300.0,4431.0,4370.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-12-12 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-11 00:00:00,2855.0,4005.0,3430.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-12 00:00:00,3850.0,4595.0,4200.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-13 00:00:00,4050.0,4350.0,4225.0,13
+Gujarat,Surat,Nizar APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-13 00:00:00,3875.0,4005.0,3910.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-12 00:00:00,3260.0,4035.0,3648.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-15 00:00:00,3750.0,4380.0,4250.0,13
+Gujarat,Porbandar,Porbandar APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-16 00:00:00,4075.0,4150.0,4110.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-17 00:00:00,4300.0,4490.0,4340.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-12-23 00:00:00,3900.0,4485.0,4300.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-23 00:00:00,4055.0,4680.0,4505.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-24 00:00:00,3755.0,4580.0,4430.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,FAQ,2025-12-03 00:00:00,3505.0,4805.0,4355.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Local,2025-12-06 00:00:00,4300.0,4425.0,4400.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-09 00:00:00,4050.0,4350.0,4225.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-06 00:00:00,4050.0,4400.0,4200.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-10 00:00:00,3925.0,4225.0,4225.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-09 00:00:00,3250.0,4275.0,4175.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-10 00:00:00,3900.0,5590.0,4250.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,FAQ,2025-12-08 00:00:00,3375.0,4305.0,4265.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-12-05 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-03 00:00:00,2995.0,4125.0,3560.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-12-04 00:00:00,4000.0,4505.0,4250.0,13
+Gujarat,Porbandar,Porbandar APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-06 00:00:00,3500.0,4150.0,3825.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-06 00:00:00,4000.0,4420.0,4250.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-09 00:00:00,4100.0,4350.0,4175.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-09 00:00:00,2705.0,4250.0,3478.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-13 00:00:00,2825.0,3805.0,3315.0,13
+Gujarat,Surat,Nizar APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-15 00:00:00,3885.0,4015.0,3915.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-18 00:00:00,3615.0,4300.0,4200.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-17 00:00:00,2505.0,4170.0,3338.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-17 00:00:00,3750.0,4585.0,4300.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-17 00:00:00,3730.0,4165.0,3750.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,FAQ,2025-12-23 00:00:00,3765.0,4480.0,4340.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-23 00:00:00,4450.0,4700.0,4600.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-04 00:00:00,3900.0,4625.0,4250.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-04 00:00:00,4050.0,4500.0,4300.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-04 00:00:00,3250.0,4255.0,4185.0,13
+Gujarat,Porbandar,Porbandar APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-05 00:00:00,4075.0,4200.0,4135.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-08 00:00:00,3415.0,4220.0,4000.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-06 00:00:00,4000.0,4700.0,4250.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-10 00:00:00,3750.0,4325.0,4175.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-08 00:00:00,3505.0,4630.0,4330.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-08 00:00:00,4150.0,4375.0,4225.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2025-12-11 00:00:00,3900.0,5170.0,4200.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2025-12-13 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-15 00:00:00,3505.0,4330.0,4255.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-17 00:00:00,3900.0,4355.0,4200.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-17 00:00:00,3675.0,4210.0,4150.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-18 00:00:00,4050.0,4400.0,4300.0,13
+Gujarat,Surendranagar,Dhragradhra APMC,Soyabean,Soyabeen,Local,2025-12-19 00:00:00,4790.0,4790.0,4790.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-19 00:00:00,4400.0,4500.0,4450.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-19 00:00:00,4050.0,4450.0,4300.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-19 00:00:00,4105.0,4475.0,4270.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-18 00:00:00,3555.0,4480.0,4330.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-20 00:00:00,4425.0,4516.0,4460.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-19 00:00:00,3500.0,4325.0,4050.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-19 00:00:00,3700.0,4255.0,3978.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-22 00:00:00,4400.0,4689.0,4550.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-01 00:00:00,4250.0,4450.0,4350.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-01 00:00:00,3605.0,4830.0,4305.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-02 00:00:00,4350.0,4415.0,4375.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-02 00:00:00,4050.0,4400.0,4275.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-01 00:00:00,3750.0,4435.0,4250.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-02 00:00:00,3500.0,4070.0,3825.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2025-12-02 00:00:00,3740.0,4340.0,4040.0,13
+Gujarat,Amreli,Dhari APMC,Soyabean,Soyabeen,Non-FAQ,2025-12-02 00:00:00,3750.0,4300.0,4200.0,13
+Gujarat,Amreli,Amreli APMC,Soyabean,Soyabeen,FAQ,2025-12-02 00:00:00,3000.0,4355.0,4275.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2025-12-04 00:00:00,3750.0,4340.0,4200.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-06 00:00:00,3255.0,4480.0,4205.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-12-05 00:00:00,3750.0,4450.0,4250.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-06 00:00:00,4150.0,4655.0,4355.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-10 00:00:00,3900.0,4300.0,4175.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2025-12-10 00:00:00,3650.0,4400.0,4200.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2025-12-12 00:00:00,3500.0,4300.0,4150.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2025-12-15 00:00:00,4050.0,4425.0,4275.0,13
+Gujarat,Amreli,Savarkundla APMC,Soyabean,Soyabeen,Local,2025-12-12 00:00:00,3250.0,4225.0,4105.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2025-12-13 00:00:00,4075.0,4340.0,4270.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,FAQ,2026-01-27 00:00:00,4950.0,5500.0,5500.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2026-01-27 00:00:00,4250.0,5450.0,4850.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2026-01-28 00:00:00,4950.0,5250.0,5100.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-01-29 00:00:00,5250.0,5680.0,5680.0,13
+Gujarat,Rajkot,Dhoraji APMC,Soyabean,Yellow,Non-FAQ,2026-01-31 00:00:00,5000.0,5495.0,5465.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2026-01-30 00:00:00,5250.0,5555.0,5400.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2026-02-06 00:00:00,4875.0,5555.0,5215.0,13
+Gujarat,Rajkot,Dhoraji APMC,Soyabean,Yellow,Non-FAQ,2026-02-03 00:00:00,5255.0,5550.0,5550.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2026-02-03 00:00:00,5000.0,5435.0,5300.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,Yellow,Non-FAQ,2026-02-05 00:00:00,5700.0,5900.0,5900.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,Yellow,Non-FAQ,2026-02-04 00:00:00,5350.0,5625.0,5625.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-02-07 00:00:00,5425.0,5500.0,5500.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-02-06 00:00:00,5005.0,5660.0,5660.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2026-01-29 00:00:00,5150.0,5660.0,5575.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2026-01-31 00:00:00,5150.0,5550.0,5400.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2026-01-31 00:00:00,4410.0,4410.0,4410.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Local,2026-01-30 00:00:00,5700.0,5855.0,5800.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2026-01-30 00:00:00,5000.0,5810.0,5400.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2026-01-30 00:00:00,5200.0,5750.0,5600.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2026-02-03 00:00:00,4750.0,5440.0,5275.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2026-02-02 00:00:00,4750.0,5505.0,5375.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2026-02-02 00:00:00,4500.0,5350.0,5250.0,13
+Gujarat,Rajkot,Rajkot APMC,Soyabean,Soyabeen,FAQ,2026-02-03 00:00:00,5000.0,5595.0,5075.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2026-02-03 00:00:00,5000.0,5555.0,5480.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2026-02-02 00:00:00,5000.0,5660.0,5400.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Local,2026-02-03 00:00:00,5550.0,5853.0,5700.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,FAQ,2026-02-02 00:00:00,4000.0,5530.0,5455.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2026-02-04 00:00:00,5000.0,5575.0,5450.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2026-02-05 00:00:00,5250.0,5735.0,5500.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2026-02-06 00:00:00,5000.0,5375.0,5275.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2026-02-06 00:00:00,5000.0,5000.0,5000.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-01-21 00:00:00,4990.0,5190.0,5190.0,13
+Gujarat,Junagarh,Visavadar APMC,Soyabean,Black,FAQ,2026-01-05 00:00:00,4300.0,4710.0,4505.0,13
+Gujarat,Junagarh,Visavadar APMC,Soyabean,Black,FAQ,2026-02-04 00:00:00,5275.0,5555.0,5415.0,13
+Gujarat,Gir Somnath,Veraval APMC,Soyabean,Other,FAQ,2026-01-06 00:00:00,4655.0,4905.0,4825.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2026-01-23 00:00:00,4620.0,5275.0,5000.0,13
+Gujarat,Dahod,Jhalod APMC,Soyabean,Soyabeen,Local,2026-01-22 00:00:00,4200.0,4200.0,4200.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2026-01-22 00:00:00,4500.0,5130.0,5000.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2026-01-22 00:00:00,4430.0,5200.0,5000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2026-01-23 00:00:00,4750.0,5205.0,5055.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2026-01-24 00:00:00,4750.0,5205.0,5000.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2026-01-30 00:00:00,5050.0,5555.0,5450.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2026-01-27 00:00:00,4500.0,5250.0,5075.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2026-01-29 00:00:00,5000.0,5755.0,5400.0,13
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,Soyabeen,FAQ,2026-01-27 00:00:00,4750.0,5405.0,5250.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2026-01-28 00:00:00,5000.0,5555.0,5300.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2026-02-07 00:00:00,5435.0,5515.0,5500.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2026-01-02 00:00:00,4425.0,4650.0,4550.0,13
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,Yellow,Non-FAQ,2026-01-07 00:00:00,4850.0,4950.0,4950.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2026-01-08 00:00:00,4750.0,4825.0,4800.0,13
+Gujarat,Rajkot,Dhoraji APMC,Soyabean,Yellow,Non-FAQ,2026-01-07 00:00:00,4030.0,4925.0,4605.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2026-01-08 00:00:00,3400.0,4800.0,4100.0,13
+Gujarat,Rajkot,Dhoraji APMC,Soyabean,Yellow,Non-FAQ,2026-01-13 00:00:00,4510.0,4935.0,4875.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2026-01-05 00:00:00,3400.0,4650.0,4025.0,13
+Gujarat,Rajkot,Dhoraji APMC,Soyabean,Yellow,Non-FAQ,2026-01-16 00:00:00,4500.0,5055.0,5020.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-01-19 00:00:00,5000.0,5185.0,5185.0,13
+Gujarat,Amreli,Bagasara APMC,Soyabean,Yellow,Local,2026-01-22 00:00:00,4250.0,5050.0,4650.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Other,Local,2026-01-12 00:00:00,4000.0,4890.0,4485.0,13
+Gujarat,Junagarh,Bhesan APMC,Soyabean,Other,FAQ,2026-01-08 00:00:00,3500.0,4700.0,4000.0,13
+Gujarat,Sabarkantha,Bhiloda APMC,Soyabean,Other,Non-FAQ,2026-01-07 00:00:00,4600.0,7700.0,4775.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Other,Local,2026-01-15 00:00:00,4000.0,4940.0,4550.0,13
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,Other,Local,2026-01-16 00:00:00,4000.0,4995.0,4625.0,13
+Gujarat,Gir Somnath,Veraval APMC,Soyabean,Other,FAQ,2026-01-17 00:00:00,5000.0,5125.0,5050.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Local,2026-01-06 00:00:00,4850.0,5327.0,4925.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,FAQ,2026-01-12 00:00:00,3905.0,4855.0,4655.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2026-01-12 00:00:00,4000.0,4755.0,4625.0,13
+Gujarat,Rajkot,Gondal APMC,Soyabean,Soyabeen,Non-FAQ,2026-01-13 00:00:00,4380.0,4830.0,4655.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Local,2026-01-12 00:00:00,4800.0,5126.0,4950.0,13
+Gujarat,Junagarh,Junagadh APMC,Soyabean,Soyabeen,FAQ,2026-01-12 00:00:00,4400.0,6300.0,4800.0,13
+Gujarat,Jamnagar,Jam Jodhpur APMC,Soyabean,Soyabeen,Local,2026-01-20 00:00:00,4725.0,5250.0,5125.0,13
+Gujarat,Dahod,Dahod APMC,Soyabean,Soyabeen,Local,2026-01-16 00:00:00,5200.0,5350.0,5300.0,13
+Gujarat,Rajkot,Jasdan APMC,Soyabean,Soyabeen,FAQ,2026-01-17 00:00:00,4000.0,4875.0,4775.0,13
+Gujarat,Amreli,Rajula APMC,Soyabean,Soyabeen,Local,2026-01-19 00:00:00,4500.0,4500.0,4500.0,13
+Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2026-01-17 00:00:00,4250.0,5030.0,4900.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-01-03 00:00:00,4645.0,4735.0,4735.0,13
+Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2026-01-19 00:00:00,4500.0,5015.0,4800.0,13
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-01-12 00:00:00,4925.0,4985.0,4985.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-01-03 00:00:00,3425,3655,3525.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-05-29 00:00:00,2300,3750,3750.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-11-29 00:00:00,3135,3135,3135.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-12-22 00:00:00,3035,3035,3035.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,FAQ,2014-06-27 00:00:00,2500,2500,2500.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-07 00:00:00,3700,3900,3850.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-16 00:00:00,3750,3900,3825.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-17 00:00:00,3700,3900,3800.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-24 00:00:00,3750,3950,3850.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-02-03 00:00:00,3825,3900,3900.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-02-18 00:00:00,3750,3940,3875.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-02-24 00:00:00,3900,4000,3950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-01 00:00:00,4000,4195,4100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-04 00:00:00,4100,4250,4200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-14 00:00:00,4000,4125,4075.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-22 00:00:00,4000,4100,4050.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-28 00:00:00,4000,4100,4050.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-31 00:00:00,4100,4200,4150.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-02 00:00:00,4100,4150,4125.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-11 00:00:00,4150,4225,4200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-12 00:00:00,4200,4275,4250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-18 00:00:00,4300,4350,4325.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-19 00:00:00,4300,4350,4325.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-26 00:00:00,4400,4500,4450.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-28 00:00:00,4550,4600,4575.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-06 00:00:00,4500,4700,4600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-09 00:00:00,4500,4675,4600.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-15 00:00:00,4400,4600,4500.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-24 00:00:00,4250,4550,4400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-04 00:00:00,4000,4200,4150.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-09 00:00:00,4000,4100,4050.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-16 00:00:00,4000,4350,4300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-19 00:00:00,3850,4000,3950.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-09-20 00:00:00,3300,3400,3350.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-14 00:00:00,3000,3300,3100.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-16 00:00:00,3100,3200,3150.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-22 00:00:00,3100,3250,3200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-30 00:00:00,3000,3300,3250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-17 00:00:00,3175,3200,3185.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-21 00:00:00,3200,3225,3215.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-22 00:00:00,3200,3260,3225.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-26 00:00:00,3300,3326,3315.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-03 00:00:00,3200,3250,3225.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-05 00:00:00,3225,3275,3250.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-26 00:00:00,3325,3361,3350.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-30 00:00:00,3400,3440,3425.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-04-17 00:00:00,3430,3625,3530.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-10-09 00:00:00,2500,2950,2725.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-03 00:00:00,3000,3290,3145.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-12 00:00:00,2800,3175,3000.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-14 00:00:00,2950,3235,3150.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-17 00:00:00,3000,3250,3125.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-19 00:00:00,2950,3280,3150.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-04 00:00:00,2750,3200,3000.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-05 00:00:00,2750,3200,3050.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-23 00:00:00,2750,3180,3050.0,13
+Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-24 00:00:00,2750,3185,3050.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-11-21 00:00:00,2950,3050,3000.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-11-22 00:00:00,2750,3100,2900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-05 00:00:00,2750,3060,2900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-10 00:00:00,2950,3150,3050.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-13 00:00:00,2850,3150,3000.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-22 00:00:00,2875,3150,3000.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-30 00:00:00,2500,3000,2750.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2014-01-01 00:00:00,3100,4700,3340.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2014-12-10 00:00:00,2750,3155,2950.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-01 00:00:00,3250,3775,3625.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-08 00:00:00,2900,3535,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-22 00:00:00,2950,3530,3400.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-27 00:00:00,2500,3590,3000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-02-04 00:00:00,3000,3625,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-02-19 00:00:00,3000,3360,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-03-05 00:00:00,3500,3820,3750.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-04-10 00:00:00,3240,3240,3240.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-05-08 00:00:00,4030,4030,4030.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-05-17 00:00:00,3000,4055,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-06-27 00:00:00,2000,3250,2500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-07-03 00:00:00,2740,2740,2740.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-09-19 00:00:00,3000,3000,3000.0,13

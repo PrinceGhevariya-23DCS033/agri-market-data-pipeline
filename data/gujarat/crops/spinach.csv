@@ -6876,170 +6876,1247 @@ Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-09-28 00:00:00,1500.0,2000
 Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-09-30 00:00:00,2500.0,3500.0,3000.0,342
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-09-06 00:00:00,6500.0,7000.0,6800.0,342
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-09-26 00:00:00,3800.0,4000.0,3900.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-01-16 00:00:00,500,1200,900.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-02-19 00:00:00,500,800,700.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-02-20 00:00:00,400,800,700.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-03-13 00:00:00,500,1000,800.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-03-18 00:00:00,700,1200,1000.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-17 00:00:00,1200,2000,1700.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-18 00:00:00,1000,1800,1500.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-19 00:00:00,1200,2000,1700.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-24 00:00:00,1000,1800,1500.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-11 00:00:00,1500,2000,1850.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-16 00:00:00,2000,2500,2300.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-18 00:00:00,1000,2000,1600.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-28 00:00:00,1500,2000,1800.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-11-11 00:00:00,1000,1500,1300.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-11-23 00:00:00,1000,2000,1600.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-11-24 00:00:00,1000,1500,1200.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-12-17 00:00:00,500,1000,800.0,342
-Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-12-19 00:00:00,500,800,700.0,342
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-01-21 00:00:00,300,500,400.0,342
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-01-22 00:00:00,400,600,500.0,342
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-01-27 00:00:00,300,500,400.0,342
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-02-01 00:00:00,300,600,450.0,342
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-02-12 00:00:00,500,750,600.0,342
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-09-01 00:00:00,4000,4500,4250.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Other,FAQ,2020-06-06 00:00:00,1500,1500,1500.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-01-04 00:00:00,500,600,550.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-07 00:00:00,350,500,400.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-11 00:00:00,400,500,450.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-20 00:00:00,500,600,550.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-22 00:00:00,400,500,450.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-26 00:00:00,300,500,425.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-03-05 00:00:00,600,800,700.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-03-11 00:00:00,700,900,825.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-03-19 00:00:00,500,800,725.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-01 00:00:00,1250,1750,1500.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-02 00:00:00,1500,1750,1625.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-03 00:00:00,1500,1500,1500.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-04 00:00:00,1500,1500,1500.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-15 00:00:00,1000,1500,1250.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-10-08 00:00:00,3500,4000,3750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-10-24 00:00:00,2000,2500,2250.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-10-31 00:00:00,2500,3000,2750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-07 00:00:00,1000,1500,1250.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-12 00:00:00,500,1000,750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-13 00:00:00,500,1000,750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-21 00:00:00,500,1000,750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-23 00:00:00,500,1000,750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-27 00:00:00,500,1000,750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-05 00:00:00,500,1000,750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-22 00:00:00,500,1000,750.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-29 00:00:00,1000,1500,1250.0,342
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-30 00:00:00,1000,1500,1250.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-05-06 00:00:00,1000,1000,1000.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-05-28 00:00:00,1000,1200,1100.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-06-29 00:00:00,1500,1500,1500.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-06-30 00:00:00,1500,1500,1500.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-07-08 00:00:00,1500,2000,1750.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-07-14 00:00:00,2000,2000,2000.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-07-28 00:00:00,1200,1200,1200.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-12-29 00:00:00,800,1000,1000.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-12-30 00:00:00,1000,1000,1000.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-12-31 00:00:00,1000,1000,1000.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-01-09 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-08 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-11 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-19 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-24 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-27 00:00:00,500,600,550.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-03-28 00:00:00,250,500,375.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-03-29 00:00:00,250,500,375.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-04 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-05 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-22 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-24 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-25 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-29 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-01 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-02 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-04 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-16 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-17 00:00:00,750,1000,800.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-21 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-23 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-24 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-26 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-16 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-20 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-26 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-28 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-29 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-15 00:00:00,1000,1500,1250.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-24 00:00:00,1000,2000,1500.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-29 00:00:00,1500,2000,1750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-30 00:00:00,1000,1500,1250.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-31 00:00:00,1000,1500,1250.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-08-19 00:00:00,2500,3000,2750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-08-20 00:00:00,2500,3000,2750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-09-06 00:00:00,7000,7500,7250.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-09-13 00:00:00,6500,7000,6750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-09-26 00:00:00,3500,4000,3750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-10-10 00:00:00,3500,4000,3750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-03 00:00:00,2000,2500,2250.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-05 00:00:00,2000,2500,2250.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-08 00:00:00,2000,2500,2250.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-24 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-29 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-05 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-06 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-07 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-14 00:00:00,500,1000,750.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-17 00:00:00,500,550,525.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-21 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-22 00:00:00,500,750,625.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-25 00:00:00,750,1000,875.0,342
-Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-31 00:00:00,750,1000,875.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-11 00:00:00,300,350,325.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-13 00:00:00,350,400,375.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-22 00:00:00,300,500,400.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-28 00:00:00,350,400,375.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-29 00:00:00,300,350,325.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-18 00:00:00,300,350,325.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-22 00:00:00,350,400,375.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-24 00:00:00,300,400,350.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-26 00:00:00,300,350,325.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-29 00:00:00,350,500,425.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-05 00:00:00,500,600,550.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-06 00:00:00,400,500,450.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-12 00:00:00,600,700,650.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-21 00:00:00,700,750,725.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-27 00:00:00,500,750,625.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-07 00:00:00,400,600,500.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-21 00:00:00,500,700,600.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-24 00:00:00,500,750,625.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-28 00:00:00,1200,1500,1350.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-30 00:00:00,900,1100,1000.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-07-13 00:00:00,1750,2000,1900.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-07-31 00:00:00,800,1000,900.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-08-13 00:00:00,800,1000,900.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-08-20 00:00:00,1000,1250,1125.0,342
-Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-11-20 00:00:00,400,450,425.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-04 00:00:00,700,800,750.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-07 00:00:00,600,700,650.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-25 00:00:00,600,700,650.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-26 00:00:00,600,700,650.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-27 00:00:00,600,700,650.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-31 00:00:00,500,600,550.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-04 00:00:00,400,600,550.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-05 00:00:00,400,500,450.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-06 00:00:00,400,500,450.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-22 00:00:00,500,600,550.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-03-14 00:00:00,500,700,650.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-04-28 00:00:00,600,1000,850.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-05-16 00:00:00,500,800,700.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-05 00:00:00,500,800,700.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-13 00:00:00,600,1000,900.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-15 00:00:00,500,900,800.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-19 00:00:00,700,1100,950.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-07-01 00:00:00,1400,1800,1700.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-07-19 00:00:00,900,1300,1150.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-07-28 00:00:00,1000,1600,1400.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-08-07 00:00:00,200,500,400.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-08-09 00:00:00,300,600,500.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-08-14 00:00:00,1000,1400,1250.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-11-08 00:00:00,1500,1700,1600.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-11-24 00:00:00,500,600,550.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-12-19 00:00:00,500,600,550.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-12-27 00:00:00,500,700,650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-01-16 00:00:00,500.0,1200.0,900.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-02-19 00:00:00,500.0,800.0,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-02-20 00:00:00,400.0,800.0,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-03-13 00:00:00,500.0,1000.0,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-03-18 00:00:00,700.0,1200.0,1000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-17 00:00:00,1200.0,2000.0,1700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-18 00:00:00,1000.0,1800.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-19 00:00:00,1200.0,2000.0,1700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-06-24 00:00:00,1000.0,1800.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-11 00:00:00,1500.0,2000.0,1850.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-16 00:00:00,2000.0,2500.0,2300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-18 00:00:00,1000.0,2000.0,1600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-07-28 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-11-11 00:00:00,1000.0,1500.0,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-11-23 00:00:00,1000.0,2000.0,1600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-11-24 00:00:00,1000.0,1500.0,1200.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-12-17 00:00:00,500.0,1000.0,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2020-12-19 00:00:00,500.0,800.0,700.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-01-21 00:00:00,300.0,500.0,400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-01-22 00:00:00,400.0,600.0,500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-01-27 00:00:00,300.0,500.0,400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-02-01 00:00:00,300.0,600.0,450.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-02-12 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2020-09-01 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-01-04 00:00:00,500.0,600.0,550.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-07 00:00:00,350.0,500.0,400.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-11 00:00:00,400.0,500.0,450.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-20 00:00:00,500.0,600.0,550.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-22 00:00:00,400.0,500.0,450.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-02-26 00:00:00,300.0,500.0,425.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-03-05 00:00:00,600.0,800.0,700.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-03-11 00:00:00,700.0,900.0,825.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-03-19 00:00:00,500.0,800.0,725.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-01 00:00:00,1250.0,1750.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-02 00:00:00,1500.0,1750.0,1625.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-03 00:00:00,1500.0,1500.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-04 00:00:00,1500.0,1500.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-06-15 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-10-08 00:00:00,3500.0,4000.0,3750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-10-24 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-10-31 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-07 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-12 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-13 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-21 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-23 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-11-27 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-05 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-22 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-29 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2020-12-30 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-05-06 00:00:00,1000.0,1000.0,1000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-05-28 00:00:00,1000.0,1200.0,1100.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-06-29 00:00:00,1500.0,1500.0,1500.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-06-30 00:00:00,1500.0,1500.0,1500.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-07-08 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-07-14 00:00:00,2000.0,2000.0,2000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-07-28 00:00:00,1200.0,1200.0,1200.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-12-29 00:00:00,800.0,1000.0,1000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-12-30 00:00:00,1000.0,1000.0,1000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2020-12-31 00:00:00,1000.0,1000.0,1000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-01-09 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-08 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-11 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-19 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-24 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-02-27 00:00:00,500.0,600.0,550.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-03-28 00:00:00,250.0,500.0,375.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-03-29 00:00:00,250.0,500.0,375.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-04 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-05 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-22 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-24 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-25 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-04-29 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-01 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-02 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-04 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-16 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-17 00:00:00,750.0,1000.0,800.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-21 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-23 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-24 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-05-26 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-16 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-20 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-26 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-28 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-06-29 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-15 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-24 00:00:00,1000.0,2000.0,1500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-29 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-30 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-07-31 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-08-19 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-08-20 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-09-06 00:00:00,7000.0,7500.0,7250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-09-13 00:00:00,6500.0,7000.0,6750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-09-26 00:00:00,3500.0,4000.0,3750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-10-10 00:00:00,3500.0,4000.0,3750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-03 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-05 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-08 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-24 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-11-29 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-05 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-06 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-07 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-14 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-17 00:00:00,500.0,550.0,525.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-21 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-22 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-25 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2020-12-31 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-11 00:00:00,300.0,350.0,325.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-13 00:00:00,350.0,400.0,375.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-22 00:00:00,300.0,500.0,400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-28 00:00:00,350.0,400.0,375.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-01-29 00:00:00,300.0,350.0,325.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-18 00:00:00,300.0,350.0,325.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-22 00:00:00,350.0,400.0,375.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-24 00:00:00,300.0,400.0,350.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-26 00:00:00,300.0,350.0,325.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-02-29 00:00:00,350.0,500.0,425.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-05 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-06 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-12 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-21 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-03-27 00:00:00,500.0,750.0,625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-07 00:00:00,400.0,600.0,500.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-21 00:00:00,500.0,700.0,600.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-24 00:00:00,500.0,750.0,625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-28 00:00:00,1200.0,1500.0,1350.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-05-30 00:00:00,900.0,1100.0,1000.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-07-13 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-07-31 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-08-13 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-08-20 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2020-11-20 00:00:00,400.0,450.0,425.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-04 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-07 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-25 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-26 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-27 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-01-31 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-04 00:00:00,400.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-05 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-06 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-02-22 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-03-14 00:00:00,500.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-04-28 00:00:00,600.0,1000.0,850.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-05-16 00:00:00,500.0,800.0,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-05 00:00:00,500.0,800.0,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-13 00:00:00,600.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-15 00:00:00,500.0,900.0,800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-06-19 00:00:00,700.0,1100.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-07-01 00:00:00,1400.0,1800.0,1700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-07-19 00:00:00,900.0,1300.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-07-28 00:00:00,1000.0,1600.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-08-07 00:00:00,200.0,500.0,400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-08-09 00:00:00,300.0,600.0,500.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-08-14 00:00:00,1000.0,1400.0,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-11-08 00:00:00,1500.0,1700.0,1600.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-11-24 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-12-19 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2020-12-27 00:00:00,500.0,700.0,650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-05-09 00:00:00,1000.0,2000.0,1750.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-05-16 00:00:00,1200.0,2250.0,1750.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-05-25 00:00:00,1500.0,3500.0,2650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-05-27 00:00:00,1200.0,3000.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-05-22 00:00:00,3500.0,4000.0,3800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-05-23 00:00:00,3500.0,4000.0,3700.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-05-25 00:00:00,3500.0,4000.0,3750.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-05-29 00:00:00,4000.0,4500.0,4200.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-02 00:00:00,1150.0,1500.0,1350.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-15 00:00:00,1250.0,1750.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-16 00:00:00,1100.0,1700.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-17 00:00:00,1200.0,1500.0,1350.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-21 00:00:00,1250.0,2000.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-22 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-23 00:00:00,1300.0,2250.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-05-24 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-05-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-05-08 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-05-09 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-05-11 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-05-16 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-05-24 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-05-17 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-05-28 00:00:00,1000.0,1300.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-05-02 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-05-03 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-05-15 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-01-05 00:00:00,1000.0,1600.0,1350.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-01-09 00:00:00,600.0,1800.0,1350.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-01-10 00:00:00,800.0,1600.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-02-28 00:00:00,700.0,1300.0,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-03-01 00:00:00,700.0,1800.0,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-03-15 00:00:00,500.0,1500.0,1000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-03-16 00:00:00,700.0,1500.0,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-03-18 00:00:00,800.0,1800.0,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-03-26 00:00:00,800.0,1800.0,1350.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-04-26 00:00:00,1000.0,2000.0,1600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-04-27 00:00:00,1000.0,2500.0,1550.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2024-04-30 00:00:00,1000.0,2500.0,1950.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-01-01 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-01-10 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-01-12 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-01-13 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-01-20 00:00:00,1000.0,1500.0,1400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-01-29 00:00:00,500.0,750.0,700.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-01-31 00:00:00,500.0,1000.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-02-06 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-02-09 00:00:00,400.0,500.0,450.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-02-20 00:00:00,750.0,1000.0,800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-02-21 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-03-02 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-03-15 00:00:00,1000.0,1500.0,1200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-03-20 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-03-21 00:00:00,1000.0,1500.0,1400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-03-30 00:00:00,1000.0,1500.0,1400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-04-06 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-04-15 00:00:00,2000.0,2500.0,2200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-04-16 00:00:00,2000.0,2250.0,2100.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-04-19 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-04-26 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-04-29 00:00:00,4000.0,4500.0,4200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-04-30 00:00:00,4000.0,4500.0,4200.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Other,FAQ,2024-04-10 00:00:00,1000.0,1250.0,1150.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-01-05 00:00:00,750.0,1350.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-02-09 00:00:00,500.0,1250.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-03-16 00:00:00,700.0,1100.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-03-20 00:00:00,900.0,1250.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-04-08 00:00:00,900.0,1250.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-04-11 00:00:00,1200.0,1500.0,1350.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-04-20 00:00:00,1000.0,1600.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-04-23 00:00:00,900.0,1250.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-04-25 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-04-30 00:00:00,1200.0,1500.0,1350.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-01-06 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-01-12 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-01-23 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-02-08 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-02-14 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-02-20 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-02-21 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-03-04 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-03-14 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-03-18 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-03-28 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-04-06 00:00:00,3500.0,4000.0,3750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-04-16 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-04-26 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-04-30 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-01-05 00:00:00,1000.0,1200.0,1100.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-01-11 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-01-12 00:00:00,1500.0,1600.0,1550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-01-17 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-01-19 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-01-26 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-01-30 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-02-01 00:00:00,500.0,700.0,600.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-02-16 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-02-22 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-02-23 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-03-01 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-03-04 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-03-05 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-03-06 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-03-29 00:00:00,700.0,1000.0,850.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-04-15 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-04-24 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-04-26 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-01-09 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-01-16 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-02-27 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-03-05 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-03-08 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-03-09 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-03-29 00:00:00,500.0,1000.0,800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-03-30 00:00:00,500.0,1000.0,800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-04-12 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-04-15 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-06-06 00:00:00,4500.0,5000.0,4800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-06-07 00:00:00,4500.0,5000.0,4800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-06-11 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-06-19 00:00:00,4500.0,5000.0,4800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-06-20 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-06-04 00:00:00,1700.0,2500.0,2000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-06-11 00:00:00,2250.0,2750.0,2500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-06-15 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-06-24 00:00:00,2000.0,2750.0,2500.0,342
+Gujarat,Kheda,Nadiyad(Piplag),Spinach,Spinach,FAQ,2024-06-04 00:00:00,1200.0,1400.0,1300.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-06-12 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-06-04 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-06-08 00:00:00,1500.0,1750.0,1625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-06-15 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-06-20 00:00:00,2000.0,2250.0,2125.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-06-25 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-06-10 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-06-18 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-06-20 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-07-18 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-03 00:00:00,2200.0,2750.0,2500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-04 00:00:00,2500.0,3250.0,3000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-06 00:00:00,2500.0,3400.0,3000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-16 00:00:00,3000.0,5000.0,4000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-17 00:00:00,3200.0,5000.0,4000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-22 00:00:00,2250.0,3000.0,2500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-26 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-07-31 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-07-01 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-07-05 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-07-06 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-07-08 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-07-09 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-07-19 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-01 00:00:00,1500.0,2250.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-08 00:00:00,1000.0,2250.0,1650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-09 00:00:00,2250.0,2500.0,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-10 00:00:00,2500.0,3250.0,2900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-15 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-18 00:00:00,2500.0,2750.0,2625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-19 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-24 00:00:00,1500.0,2250.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-07-29 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-07-04 00:00:00,2000.0,2500.0,2300.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-05 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-08 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-11 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-19 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-23 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-26 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-01 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-03 00:00:00,600.0,800.0,700.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-08 00:00:00,600.0,750.0,675.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-16 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-19 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-24 00:00:00,750.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-01 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-03 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-04 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-07 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-08 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-15 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-19 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-26 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-29 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-30 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-12-05 00:00:00,750.0,1500.0,1100.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-12-11 00:00:00,500.0,1000.0,800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-12-12 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-12-27 00:00:00,400.0,500.0,450.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-12-28 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-12-31 00:00:00,500.0,600.0,550.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-12-11 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-12-16 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-12-28 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-12-31 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-12-27 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-12-02 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-12-05 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-12-11 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-12-24 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-12-25 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-12-26 00:00:00,700.0,800.0,750.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-03-02 00:00:00,500.0,700.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-04-18 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-05-11 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-05-16 00:00:00,2000.0,2500.0,2400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-05-22 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-05-26 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-05-29 00:00:00,2000.0,2500.0,2400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-06-05 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-06-15 00:00:00,4000.0,4500.0,4200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-06-24 00:00:00,4000.0,5000.0,4500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-07-03 00:00:00,5000.0,6000.0,5500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-07-21 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-07-25 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-07-27 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-08-09 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-08-17 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-09-08 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-09-19 00:00:00,3500.0,4000.0,3800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-09-21 00:00:00,4000.0,4500.0,4200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-11-20 00:00:00,1500.0,2000.0,1700.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-11-21 00:00:00,1000.0,1500.0,1300.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-12-01 00:00:00,1000.0,1500.0,1200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-12-12 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-12-14 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-12-18 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-12-30 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-01-10 00:00:00,700.0,1000.0,850.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-01-27 00:00:00,600.0,1000.0,800.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-02-03 00:00:00,600.0,1000.0,800.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-02-04 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-04-03 00:00:00,700.0,1250.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-04-26 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-04-28 00:00:00,750.0,850.0,800.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-05-10 00:00:00,700.0,1000.0,850.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-05-13 00:00:00,800.0,1500.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-05-17 00:00:00,800.0,1050.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-05-22 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-05-30 00:00:00,1500.0,1500.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-01 00:00:00,800.0,1200.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-02 00:00:00,1500.0,1500.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-10 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-15 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-17 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-19 00:00:00,2500.0,2500.0,2500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-21 00:00:00,2500.0,2500.0,2500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-26 00:00:00,2000.0,2000.0,2000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-29 00:00:00,2000.0,2250.0,2100.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-06-30 00:00:00,2250.0,2250.0,2250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-07-03 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-07-07 00:00:00,2000.0,2000.0,2000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-07-18 00:00:00,3000.0,3000.0,3000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-07-31 00:00:00,1250.0,2500.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-08-02 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-08-04 00:00:00,2250.0,2250.0,2250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-08-19 00:00:00,1100.0,1250.0,1150.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-08-21 00:00:00,1000.0,1250.0,1100.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-10-04 00:00:00,1400.0,1500.0,1450.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-10-19 00:00:00,1400.0,1750.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-10-26 00:00:00,1250.0,1750.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-10-27 00:00:00,1400.0,1500.0,1450.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-11-02 00:00:00,1250.0,1500.0,1400.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-11-06 00:00:00,1250.0,1750.0,1500.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-11-20 00:00:00,750.0,1250.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-11-21 00:00:00,600.0,1000.0,850.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-11-22 00:00:00,550.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-11-23 00:00:00,600.0,1000.0,900.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-12-01 00:00:00,500.0,900.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2023-12-29 00:00:00,1000.0,2000.0,1500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-01-02 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-01-07 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-01-16 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-02-24 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-03-18 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-04-05 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-04-08 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-04-21 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-05-01 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-05-04 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-05-06 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-05-13 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-05-25 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-06-08 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-06-14 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-06-15 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-06-19 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-06-23 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-06-30 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-07-05 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-07-14 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-08-03 00:00:00,3000.0,4000.0,3500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-08-25 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-08-26 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-08-29 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-09-15 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-09-20 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-09-26 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-10-13 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-10-18 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-10-19 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-11-18 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-11-20 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-11-23 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-12-04 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-12-11 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2023-12-29 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-02 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-07 00:00:00,700.0,900.0,800.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-09 00:00:00,1000.0,1200.0,1100.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-10 00:00:00,1000.0,1200.0,1100.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-13 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-17 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-19 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-20 00:00:00,500.0,750.0,625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-27 00:00:00,800.0,900.0,850.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-01-31 00:00:00,500.0,800.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-02-06 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-02-09 00:00:00,400.0,800.0,600.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-02-16 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-02-18 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-02-23 00:00:00,350.0,500.0,425.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-01 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-04 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-06 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-07 00:00:00,500.0,700.0,600.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-09 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-10 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-18 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-22 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-03-25 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-04-03 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-04-13 00:00:00,700.0,1000.0,850.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-04-14 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-04-22 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-04-24 00:00:00,600.0,750.0,675.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-04-26 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-05-11 00:00:00,500.0,700.0,600.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-05-13 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-05-16 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-05-23 00:00:00,1000.0,1100.0,1050.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-05-31 00:00:00,1000.0,1300.0,1150.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-06-06 00:00:00,2000.0,2250.0,2125.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-06-13 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-06-14 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-06-22 00:00:00,1250.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-06-23 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-06-28 00:00:00,1200.0,1300.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-07-04 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-07-19 00:00:00,1750.0,2500.0,2150.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-07-20 00:00:00,2000.0,2750.0,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-08-03 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-08-30 00:00:00,1000.0,1400.0,1200.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-09-01 00:00:00,1250.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-09-13 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-09-16 00:00:00,600.0,750.0,675.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-09-18 00:00:00,750.0,900.0,825.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-10-04 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-10-06 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-10-12 00:00:00,1750.0,2250.0,2000.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-10-16 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-10-27 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-11-09 00:00:00,700.0,1000.0,850.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-11-17 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-12-07 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2023-12-12 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-01-16 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-01-29 00:00:00,500.0,600.0,505.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-02-03 00:00:00,500.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-02-07 00:00:00,600.0,750.0,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-02-12 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-02-13 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-02-21 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-02-23 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-09 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-11 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-12 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-16 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-18 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-20 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-27 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-03-31 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-04-03 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-04-11 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-04-24 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-05-08 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-05-09 00:00:00,800.0,1200.0,1050.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-06-02 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-06-03 00:00:00,1700.0,1800.0,1750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-06-04 00:00:00,1700.0,1800.0,1750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-06-24 00:00:00,1000.0,1500.0,1300.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-06-29 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-07-04 00:00:00,2800.0,3000.0,2950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-07-24 00:00:00,2000.0,3000.0,2550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-08-03 00:00:00,2300.0,2500.0,2450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-08-09 00:00:00,2800.0,3000.0,2900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-08-11 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-09-03 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-09-12 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-09-14 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-09-19 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-09-30 00:00:00,5000.0,6000.0,5550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-10-20 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-10-28 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-11-04 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-12-02 00:00:00,600.0,800.0,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-12-11 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2023-12-19 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-11-20 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-11-22 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-11-29 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-11-06 00:00:00,1250.0,2000.0,1500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-11-07 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-11-19 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-11-20 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-11-27 00:00:00,1000.0,1200.0,1100.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-11-09 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-11-23 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-11-25 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-11-26 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-11-29 00:00:00,2300.0,2500.0,2400.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-01-12 00:00:00,600.0,1200.0,1000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-03-01 00:00:00,600.0,1200.0,950.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-03-10 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-04-03 00:00:00,1000.0,2000.0,1650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-04-12 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-04-15 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-04-17 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-04-19 00:00:00,700.0,1800.0,1350.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-04-26 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-05-15 00:00:00,1000.0,1800.0,1400.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-05-17 00:00:00,1000.0,1600.0,1350.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-06-10 00:00:00,2000.0,3500.0,3000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-06-12 00:00:00,1500.0,2500.0,2250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-06-19 00:00:00,1500.0,3000.0,2650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-07-13 00:00:00,2000.0,3500.0,3000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-07-15 00:00:00,2000.0,3500.0,3000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-07-24 00:00:00,2000.0,3500.0,2850.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-08-09 00:00:00,1500.0,3000.0,2400.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-08-11 00:00:00,1000.0,1500.0,1150.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-08-12 00:00:00,1000.0,2500.0,1450.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-08-19 00:00:00,1000.0,2000.0,1550.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-08-26 00:00:00,500.0,1000.0,850.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-09-01 00:00:00,700.0,1200.0,950.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-09-11 00:00:00,800.0,1200.0,1050.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-10-04 00:00:00,2000.0,4500.0,3350.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-10-06 00:00:00,1500.0,3500.0,3100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-10-09 00:00:00,1500.0,3000.0,2400.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-10-16 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-10-21 00:00:00,1500.0,2500.0,2100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-10-25 00:00:00,1500.0,3000.0,2450.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2023-11-02 00:00:00,1000.0,3000.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-01-05 00:00:00,1000.0,1250.0,1100.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-01-10 00:00:00,1000.0,1250.0,1150.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-01-18 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-01-30 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-02-13 00:00:00,500.0,600.0,550.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2023-02-17 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-05-20 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-05-01 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-05-22 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-02 00:00:00,700.0,900.0,800.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-03 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-06 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-09 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-14 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-19 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-21 00:00:00,1500.0,1750.0,1625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-05-24 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-05-07 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-05-10 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-05-11 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-05-15 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-05-20 00:00:00,1000.0,1200.0,1150.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-07-27 00:00:00,2000.0,4000.0,3250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-07-29 00:00:00,2000.0,4000.0,3250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-11-30 00:00:00,1000.0,1800.0,1450.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-01-12 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-01-19 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-02-02 00:00:00,500.0,600.0,550.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-02-14 00:00:00,500.0,1000.0,800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-02-19 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-02-22 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-02-23 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-03-02 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-03-04 00:00:00,500.0,750.0,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-03-22 00:00:00,1500.0,2000.0,1600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-03-26 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-04-09 00:00:00,2000.0,2500.0,2300.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-04-25 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-04-30 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-05-02 00:00:00,2000.0,2500.0,2300.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-05-13 00:00:00,2000.0,2500.0,2200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-05-14 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-05-23 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-06-01 00:00:00,3500.0,4000.0,3750.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-06-02 00:00:00,3500.0,4000.0,3800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-06-08 00:00:00,3500.0,4000.0,3750.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-06-15 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-06-22 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-06-23 00:00:00,4000.0,4500.0,4200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-07-04 00:00:00,5500.0,6000.0,5650.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-07-05 00:00:00,5000.0,6000.0,5500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-07-11 00:00:00,6000.0,6500.0,6250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-07-18 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-07-27 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-07-30 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-08-04 00:00:00,3000.0,3500.0,3200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-08-31 00:00:00,3500.0,4000.0,3800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-09-05 00:00:00,4000.0,4500.0,4200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-09-17 00:00:00,6000.0,6600.0,6200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-09-20 00:00:00,6000.0,6500.0,6200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-09-28 00:00:00,7500.0,8000.0,7800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-11-01 00:00:00,1000.0,1500.0,1100.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-11-03 00:00:00,1500.0,2000.0,1600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-11-04 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-11-17 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-12-01 00:00:00,1000.0,1500.0,1400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-12-02 00:00:00,1000.0,1500.0,1200.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-12-12 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-12-22 00:00:00,1000.0,1250.0,1100.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-12-26 00:00:00,1000.0,1250.0,1100.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2022-12-29 00:00:00,1000.0,1250.0,1200.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-01-08 00:00:00,500.0,1500.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-01-13 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-01-24 00:00:00,500.0,1500.0,1000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-01-27 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-01-28 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-02-08 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-02-14 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-02-15 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-03-08 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-03-10 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-03-12 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-03-22 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-03-25 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-04-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-04-04 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-04-07 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-04-09 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-05-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-05-14 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-05-19 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-06-11 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-06-13 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-06-14 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-07-05 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2022-08-18 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2022-01-11 00:00:00,1000.0,1000.0,1000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2022-01-31 00:00:00,1000.0,1000.0,1000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2022-07-16 00:00:00,2000.0,2000.0,2000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2022-12-26 00:00:00,1000.0,1000.0,1000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-01-03 00:00:00,1000.0,1150.0,1075.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-01-04 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-01-10 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-01-13 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-01-19 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-01-20 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-01-29 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-02-10 00:00:00,750.0,1000.0,875.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-02-15 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-02-17 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-02-25 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-02-26 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-03-10 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-03-11 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-03-17 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-03-22 00:00:00,1500.0,1750.0,1625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-03-23 00:00:00,1500.0,1750.0,1625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-03-29 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-04-05 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-04-19 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-04-20 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-04-21 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-05-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-05-09 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-05-12 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-05-19 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-05-20 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-05-24 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-05-25 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-06-01 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-06-04 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-06-15 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-06-16 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-06-20 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-06-24 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-06-28 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-07-05 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-07-09 00:00:00,1000.0,2500.0,2000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-07-11 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-07-18 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-07-20 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-07-26 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-07-28 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-08-01 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-08-06 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-08-13 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-08-22 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-08-23 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-08-25 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-09-16 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-09-19 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-09-22 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-10-04 00:00:00,3000.0,4000.0,3500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-10-07 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-10-22 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-11-04 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-11-10 00:00:00,1000.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-11-16 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-11-29 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-12-22 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2022-12-30 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-01-03 00:00:00,1000.0,1400.0,1200.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-01-04 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-01-06 00:00:00,450.0,600.0,525.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-01-21 00:00:00,450.0,500.0,475.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-01-25 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-01-29 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-02-01 00:00:00,400.0,600.0,500.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-02-14 00:00:00,400.0,450.0,425.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-02-15 00:00:00,400.0,450.0,425.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-02-18 00:00:00,400.0,450.0,425.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-03-04 00:00:00,450.0,500.0,475.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-03-19 00:00:00,350.0,500.0,425.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-03-28 00:00:00,650.0,700.0,675.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-04-07 00:00:00,700.0,1000.0,850.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-04-11 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-04-28 00:00:00,800.0,850.0,825.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-05-02 00:00:00,500.0,800.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-05-04 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-05-06 00:00:00,600.0,650.0,625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-05-19 00:00:00,750.0,800.0,775.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-05-25 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-05-27 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-06-15 00:00:00,750.0,800.0,775.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-06-18 00:00:00,800.0,900.0,850.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-06-22 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-07-04 00:00:00,900.0,1200.0,1050.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-07-06 00:00:00,1000.0,1300.0,1100.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-07-18 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-07-19 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-07-23 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-07-30 00:00:00,2000.0,2250.0,2125.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-08-03 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-08-05 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-08-17 00:00:00,2250.0,2500.0,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-09-15 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-10-03 00:00:00,1000.0,1250.0,1125.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-10-06 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-10-18 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-10-29 00:00:00,1500.0,1600.0,1550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-10-31 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-11-05 00:00:00,750.0,800.0,775.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-11-22 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-11-25 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-11-26 00:00:00,500.0,900.0,700.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-12-08 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-12-17 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-12-19 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-12-23 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2022-12-28 00:00:00,800.0,850.0,825.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-01-06 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-01-08 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-01-11 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-01-16 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-01-19 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-01-21 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-02-02 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-02-03 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-02-05 00:00:00,400.0,500.0,450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-02-16 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-02-18 00:00:00,500.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-03-04 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-03-07 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-03-10 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-03-11 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-03-14 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-03-15 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-03-31 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-04-03 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-04-04 00:00:00,1000.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-04-10 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-04-19 00:00:00,1100.0,1200.0,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-05-16 00:00:00,1200.0,1300.0,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-06-01 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-07-15 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-07-16 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-07-25 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-08-22 00:00:00,2800.0,3000.0,2950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-08-23 00:00:00,2800.0,3000.0,2950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-08-30 00:00:00,2800.0,3000.0,2950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-09-11 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-09-13 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-09-17 00:00:00,1500.0,1800.0,1700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-09-26 00:00:00,2800.0,3000.0,2950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-10-15 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-10-19 00:00:00,2300.0,2500.0,2450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-10-20 00:00:00,2300.0,2500.0,2450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-10-29 00:00:00,1800.0,2000.0,1950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-11-19 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-11-20 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-11-28 00:00:00,1300.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-12-07 00:00:00,800.0,900.0,850.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-12-09 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-12-13 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-12-15 00:00:00,700.0,800.0,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2022-12-31 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-01-03 00:00:00,800.0,1000.0,900.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-01-20 00:00:00,600.0,1000.0,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-01-27 00:00:00,700.0,1200.0,1000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-02-22 00:00:00,700.0,1200.0,1050.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-02-25 00:00:00,500.0,800.0,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-02-28 00:00:00,800.0,1500.0,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-03-22 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-03-28 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-04-11 00:00:00,1200.0,2250.0,1900.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-05-04 00:00:00,800.0,1200.0,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-05-10 00:00:00,800.0,1200.0,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-05-13 00:00:00,1000.0,1600.0,1400.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-05-18 00:00:00,1000.0,1800.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-05-21 00:00:00,1000.0,2000.0,1600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-05-24 00:00:00,800.0,1500.0,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-06-06 00:00:00,1500.0,3000.0,2250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-06-10 00:00:00,1000.0,1800.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-06-15 00:00:00,1200.0,2500.0,2100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-06-21 00:00:00,1200.0,2500.0,2200.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-06-27 00:00:00,1500.0,3000.0,2350.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-07-04 00:00:00,1000.0,2000.0,1650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-07-08 00:00:00,1000.0,1800.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2022-07-09 00:00:00,1000.0,1800.0,1650.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-06-17 00:00:00,6000.0,8080.0,7000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-19 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-23 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-05 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-07 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-13 00:00:00,1400.0,1500.0,1450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-14 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-23 00:00:00,2250.0,2500.0,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-24 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-25 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-26 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-27 00:00:00,2500.0,2750.0,2625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-30 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-06-17 00:00:00,2300.0,2500.0,2400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-06-27 00:00:00,2300.0,2500.0,2400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-04-30 00:00:00,1500.0,1750.0,1600.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-01 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-03 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-07 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-04-28 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-02 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-04 00:00:00,700.0,750.0,725.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-04-11 00:00:00,500.0,700.0,600.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-12 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-13 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-04-20 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-10-04 00:00:00,3500.0,5000.0,4500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-10-15 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-10-16 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-10-03 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-10-04 00:00:00,1300.0,2000.0,1500.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-10-23 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-10-03 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-10-23 00:00:00,3500.0,4000.0,3800.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-10-22 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Spinach,Spinach,FAQ,2024-10-14 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-10-14 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-10-26 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-10-18 00:00:00,2500.0,3000.0,2800.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-10-21 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-10-30 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-10-31 00:00:00,4000.0,4500.0,4250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-10-19 00:00:00,3000.0,3250.0,3125.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2024-10-22 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2024-10-19 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-10-14 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2024-10-26 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-10-24 00:00:00,4800.0,5000.0,4900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2024-10-26 00:00:00,4800.0,5000.0,4900.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2025-12-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-01-02 00:00:00,700.0,700.0,700.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-06-03 00:00:00,3000.0,4500.0,3750.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-06-05 00:00:00,4000.0,6000.0,5000.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-06-13 00:00:00,6000.0,8000.0,7000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-05 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-09 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-10 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-12 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-16 00:00:00,1500.0,2000.0,1750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-24 00:00:00,2000.0,2500.0,2250.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-28 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-06-30 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-02 00:00:00,1500.0,2250.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-03 00:00:00,1500.0,1750.0,1625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-10 00:00:00,1750.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-17 00:00:00,1250.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-20 00:00:00,2500.0,2750.0,2625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-06-28 00:00:00,2500.0,3000.0,2750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-06-13 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-06-14 00:00:00,1500.0,2000.0,1800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-06-22 00:00:00,2300.0,2500.0,2400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-06-29 00:00:00,2300.0,2500.0,2400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-11-05 00:00:00,1500.0,3000.0,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-10-14 00:00:00,4000.0,6000.0,5000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-10-03 00:00:00,2500.0,2500.0,2500.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-10-10 00:00:00,2000.0,2000.0,2000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-10-14 00:00:00,2000.0,2000.0,2000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-10-29 00:00:00,2000.0,2500.0,2000.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-10-11 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-10-01 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-10-02 00:00:00,2250.0,2500.0,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-10-13 00:00:00,2500.0,2750.0,2625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-10-20 00:00:00,1500.0,1750.0,1625.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-11-01 00:00:00,2800.0,3000.0,2900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-11-02 00:00:00,2800.0,3000.0,2900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-10-16 00:00:00,2800.0,3000.0,2900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-10-28 00:00:00,2800.0,3000.0,2900.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-08-25 00:00:00,1000.0,2000.0,1500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-08-26 00:00:00,2000.0,4000.0,3000.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Spinach,FAQ,2025-08-27 00:00:00,2000.0,4000.0,3000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-08-08 00:00:00,3000.0,3000.0,3000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-08-11 00:00:00,3000.0,3000.0,3000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-08-19 00:00:00,3000.0,3000.0,3000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Spinach,Other,FAQ,2025-08-23 00:00:00,1500.0,1500.0,1500.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-08-20 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-08-21 00:00:00,500.0,750.0,625.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-08-22 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2025-08-25 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-08-02 00:00:00,1250.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-08-25 00:00:00,3000.0,3500.0,3250.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2025-08-26 00:00:00,2000.0,3000.0,2500.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-08-03 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-08-06 00:00:00,1300.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-08-16 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-08-19 00:00:00,1800.0,2000.0,1900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-08-25 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2025-08-31 00:00:00,800.0,1000.0,950.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2025-12-05 00:00:00,800.0,850.0,825.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2025-12-15 00:00:00,1250.0,1500.0,1400.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2025-12-17 00:00:00,1150.0,1500.0,1350.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2025-12-29 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2025-12-30 00:00:00,600.0,700.0,650.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2025-12-01 00:00:00,2500.0,3500.0,3000.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2025-12-06 00:00:00,1200.0,1500.0,1350.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2025-12-01 00:00:00,800.0,2500.0,1750.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2025-12-09 00:00:00,1000.0,2500.0,1750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2025-12-03 00:00:00,1900.0,1900.0,1900.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2025-12-06 00:00:00,800.0,2500.0,1750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2025-12-07 00:00:00,1400.0,1400.0,1400.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2025-12-12 00:00:00,1000.0,2500.0,2250.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2025-12-15 00:00:00,1000.0,2500.0,2000.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2025-12-18 00:00:00,1500.0,2500.0,2000.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2025-12-18 00:00:00,1900.0,1900.0,1900.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2025-12-22 00:00:00,1500.0,2000.0,2000.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2025-12-24 00:00:00,1400.0,1400.0,1400.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2025-12-24 00:00:00,500.0,2000.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2025-12-24 00:00:00,600.0,1500.0,1000.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-01-16 00:00:00,800.0,2000.0,1450.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-01-17 00:00:00,800.0,2000.0,1650.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-01-28 00:00:00,500.0,1250.0,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-01-27 00:00:00,800.0,1500.0,1150.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-01-29 00:00:00,1000.0,2000.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-01-29 00:00:00,600.0,1300.0,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-02 00:00:00,700.0,1500.0,1350.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-02-06 00:00:00,850.0,850.0,850.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-05 00:00:00,500.0,1200.0,900.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-02-05 00:00:00,1000.0,1500.0,1000.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-01-01 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-01-02 00:00:00,500.0,600.0,550.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-01-09 00:00:00,600.0,700.0,650.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-01-13 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-01-20 00:00:00,750.0,1000.0,900.0,342
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-01-19 00:00:00,400.0,1000.0,700.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-01-20 00:00:00,500.0,1000.0,750.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-01-21 00:00:00,900.0,1000.0,950.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-01-29 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-02-02 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-02-04 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-03 00:00:00,500.0,1500.0,1000.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-07 00:00:00,1000.0,1200.0,1100.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-01-02 00:00:00,800.0,1500.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-01-07 00:00:00,600.0,1200.0,950.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-01-06 00:00:00,800.0,1500.0,1500.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-01-13 00:00:00,1000.0,1000.0,1000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-01-09 00:00:00,400,800,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-01-20 00:00:00,700,900,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-01-30 00:00:00,500,800,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-02-15 00:00:00,500,800,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-02-23 00:00:00,400,800,650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-02-25 00:00:00,500,900,750.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-01 00:00:00,400,700,600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-02 00:00:00,500,700,650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-08 00:00:00,500,1000,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-09 00:00:00,500,900,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-10 00:00:00,500,800,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-16 00:00:00,500,1000,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-22 00:00:00,500,800,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-03-25 00:00:00,300,800,600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-04-10 00:00:00,1000,1200,1150.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-04-11 00:00:00,1000,1500,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-04-12 00:00:00,1400,2000,1700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-04-15 00:00:00,1200,1500,1400.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-04-17 00:00:00,800,1200,1100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-04-26 00:00:00,500,1000,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-01 00:00:00,400,700,600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-02 00:00:00,400,800,650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-05 00:00:00,500,800,700.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-10 00:00:00,400,1000,750.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-15 00:00:00,500,1000,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-20 00:00:00,700,1500,1200.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-24 00:00:00,1000,1500,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-27 00:00:00,700,1000,900.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-05-29 00:00:00,600,1200,1000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-06-13 00:00:00,1200,2000,1650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-06-21 00:00:00,1500,2000,1800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-06-30 00:00:00,1000,1800,1450.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-07-08 00:00:00,1500,3500,2600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-07-10 00:00:00,1500,2500,2100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-07-13 00:00:00,1200,3000,2200.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-07-15 00:00:00,1000,2500,1800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-07-25 00:00:00,2000,3000,2600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-07-27 00:00:00,2000,3000,2600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-07-29 00:00:00,1000,2000,1600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-02 00:00:00,1500,4000,3000.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-04 00:00:00,1000,5000,3100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-14 00:00:00,1500,2000,1800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-16 00:00:00,2000,2500,2300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-18 00:00:00,1500,2500,2050.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-19 00:00:00,1500,2500,2050.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-26 00:00:00,1200,2500,1900.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-29 00:00:00,1500,2500,2100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-08-30 00:00:00,800,2000,1450.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-09-05 00:00:00,1500,3500,2600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-09-09 00:00:00,1000,2200,1650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-09-20 00:00:00,1000,2500,1800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-09-21 00:00:00,900,1500,1250.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-09-26 00:00:00,1500,2500,2100.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-09-27 00:00:00,1200,2500,1900.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-03 00:00:00,1500,2500,2050.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-04 00:00:00,1500,3000,2300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-10 00:00:00,1000,2000,1600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-17 00:00:00,1000,2000,1600.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-18 00:00:00,1200,2000,1650.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-24 00:00:00,600,2000,1400.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-27 00:00:00,800,1600,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-10-28 00:00:00,1000,1500,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-11-11 00:00:00,600,1000,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-11-17 00:00:00,800,1200,1050.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-11-21 00:00:00,900,1500,1300.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-12-07 00:00:00,500,1200,950.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-12-21 00:00:00,500,1000,800.0,342
+Gujarat,Ahmedabad,Ahmedabad(Rajnagar sub yard),Spinach,Other,FAQ,2017-12-22 00:00:00,400,1100,800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-01-24 00:00:00,400,1000,800.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-01-25 00:00:00,250,500,400.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-01-28 00:00:00,400,600,500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-02-13 00:00:00,400,700,550.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-03-23 00:00:00,500,750,600.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-04-06 00:00:00,500,2000,1500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-04-07 00:00:00,500,2000,1500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-04-19 00:00:00,1000,3000,2000.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-04-24 00:00:00,1000,3000,2000.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-05-17 00:00:00,500,2500,2000.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-05-22 00:00:00,750,3000,2250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-06-06 00:00:00,1000,1500,1250.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-06-22 00:00:00,1000,4000,2500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-07-05 00:00:00,2000,5000,3500.0,342
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Spinach,Other,FAQ,2017-10-18 00:00:00,750,3000,2000.0,342
+Gujarat,Bharuch,Ankleshwar,Spinach,Spinach,FAQ,2017-05-12 00:00:00,1125,1375,1300.0,342
+Gujarat,Surendranagar,Vadhvan,Spinach,Spinach,FAQ,2017-02-02 00:00:00,400,500,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-01-03 00:00:00,300,350,325.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-01-05 00:00:00,350,400,375.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-01-24 00:00:00,250,350,300.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-02-20 00:00:00,500,600,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-02-21 00:00:00,600,650,625.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-03-01 00:00:00,350,400,375.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-03-06 00:00:00,250,500,400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-03-17 00:00:00,250,400,350.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-03-21 00:00:00,550,600,575.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-03-27 00:00:00,400,500,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-03-31 00:00:00,400,500,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-04-17 00:00:00,500,650,600.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-04-18 00:00:00,500,550,525.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-04-21 00:00:00,450,500,475.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-04-26 00:00:00,500,600,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-04-28 00:00:00,250,400,350.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-05-24 00:00:00,850,1100,1000.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-06-20 00:00:00,900,1000,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-06-22 00:00:00,900,1000,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-06-23 00:00:00,1300,1500,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-06-30 00:00:00,1250,1400,1350.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-07-05 00:00:00,1400,1600,1500.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-07-07 00:00:00,1500,1800,1650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-07-10 00:00:00,1500,1750,1650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-07-12 00:00:00,1500,1750,1650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-07-17 00:00:00,1250,1500,1350.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-08-04 00:00:00,2500,3000,2750.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-08-14 00:00:00,2250,2500,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-08-16 00:00:00,2250,2500,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-08-21 00:00:00,900,1000,950.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-08-22 00:00:00,1000,1250,1150.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-09-01 00:00:00,1250,1900,1700.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-09-07 00:00:00,2250,2500,2400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-09-13 00:00:00,1500,1750,1650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-09-22 00:00:00,1250,1750,1500.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-09-27 00:00:00,1250,1500,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-09-29 00:00:00,2000,2250,2150.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-10-03 00:00:00,1500,1600,1550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-10-06 00:00:00,2250,2300,2275.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-10-13 00:00:00,1250,1500,1400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-10-17 00:00:00,1500,1750,1650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-11-09 00:00:00,1400,1500,1450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-11-18 00:00:00,500,600,550.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-11-21 00:00:00,600,700,650.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-11-29 00:00:00,400,500,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-11-30 00:00:00,500,650,600.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-12-02 00:00:00,400,500,450.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-12-09 00:00:00,450,500,475.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-12-18 00:00:00,450,500,475.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-12-21 00:00:00,350,450,400.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-12-25 00:00:00,450,500,475.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-12-26 00:00:00,450,500,475.0,342
+Gujarat,Vadodara(Baroda),Padra,Spinach,Other,FAQ,2017-12-28 00:00:00,400,500,450.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-01-04 00:00:00,500,800,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-01-10 00:00:00,600,900,800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-02 00:00:00,400,500,475.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-09 00:00:00,400,600,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-13 00:00:00,500,800,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-14 00:00:00,600,1000,850.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-15 00:00:00,600,1000,850.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-16 00:00:00,600,1000,850.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-21 00:00:00,500,600,575.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-02-27 00:00:00,400,500,475.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-01 00:00:00,500,800,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-04 00:00:00,500,700,650.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-09 00:00:00,500,600,575.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-14 00:00:00,500,600,575.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-18 00:00:00,400,600,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-19 00:00:00,400,600,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-23 00:00:00,200,800,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-03-26 00:00:00,500,800,700.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-04-02 00:00:00,500,600,575.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-04-20 00:00:00,1000,1500,1300.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-04-22 00:00:00,1000,1200,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-04-23 00:00:00,1000,1200,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-04-24 00:00:00,700,1000,900.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-05-02 00:00:00,700,800,775.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-05-10 00:00:00,800,1000,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-05-22 00:00:00,800,1000,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-05-24 00:00:00,800,1000,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-06-02 00:00:00,1500,2000,1775.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-06-05 00:00:00,1200,1500,1375.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-06-10 00:00:00,1200,1500,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-06-12 00:00:00,1200,1500,1400.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-06-26 00:00:00,1000,1500,1300.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-07-15 00:00:00,1000,1200,1150.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-07-19 00:00:00,800,1200,1050.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-07-20 00:00:00,800,1200,1050.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-07-22 00:00:00,800,1000,950.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-07-30 00:00:00,2750,3000,2925.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-08-03 00:00:00,2000,2500,2300.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-08-04 00:00:00,2000,2500,2300.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-08-10 00:00:00,2500,4000,3300.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-08-12 00:00:00,1500,2000,1800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-08-15 00:00:00,1500,1900,1750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-09-01 00:00:00,1000,1500,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-09-11 00:00:00,1600,2500,2000.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-09-23 00:00:00,1000,1500,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-09-25 00:00:00,1000,1500,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-10-15 00:00:00,1000,1500,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-10-17 00:00:00,1000,2000,1525.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-10-27 00:00:00,1500,2000,1750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-11-01 00:00:00,1000,2000,1525.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-11-19 00:00:00,500,600,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-12-01 00:00:00,500,600,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-12-04 00:00:00,700,800,750.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-12-13 00:00:00,500,600,550.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Spinach,Other,FAQ,2017-12-20 00:00:00,500,800,650.0,342

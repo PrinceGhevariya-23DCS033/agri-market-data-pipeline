@@ -1,3 +1,4 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
 Gujarat,Anand,Tarapur,Beaten Rice,Other,FAQ,2016-10-04,1000,1185,1000.0,262
 Gujarat,Bharuch,Baruch(Vagara),Beaten Rice,Other,FAQ,2019-07-17 00:00:00,2000,3000,2250.0,262
+Gujarat,Anand,Tarapur,Beaten Rice,Other,FAQ,2016-10-04 00:00:00,1000,1185,1000.0,262

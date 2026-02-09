@@ -4343,30 +4343,369 @@ Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-03-06 00:00
 Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-03-07 00:00:00,800.0,1000.0,900.0,73
 Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-01-10 00:00:00,750.0,1250.0,1000.0,73
 Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-01-13 00:00:00,1000.0,1500.0,1250.0,73
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2020-04-08 00:00:00,800,1000,950.0,73
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2020-04-10 00:00:00,900,1200,1100.0,73
-Gujarat,Anand,Khambhat(Veg Yard Khambhat),Water Melon,Other,Medium,2020-04-21 00:00:00,900,1100,1000.0,73
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2020-04-26 00:00:00,600,1000,800.0,73
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2020-04-28 00:00:00,500,800,650.0,73
-Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-14 00:00:00,1000,1300,1200.0,73
-Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-24 00:00:00,1000,1300,1100.0,73
-Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-25 00:00:00,1000,1350,1200.0,73
-Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-27 00:00:00,1000,1300,1200.0,73
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-08 00:00:00,1000,1000,1000.0,73
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-14 00:00:00,800,800,800.0,73
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-17 00:00:00,800,800,800.0,73
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-20 00:00:00,1000,1000,1000.0,73
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-27 00:00:00,800,800,800.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-03-11 00:00:00,1000,1500,1250.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-03-19 00:00:00,1000,1250,1125.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-03-23 00:00:00,1000,1250,1125.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-04-09 00:00:00,1000,1050,1025.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-13 00:00:00,500,1000,750.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-05-18 00:00:00,750,1000,875.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-28 00:00:00,500,750,625.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-06-06 00:00:00,500,750,625.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-09 00:00:00,750,1000,875.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-10 00:00:00,500,750,625.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-16 00:00:00,500,750,625.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-20 00:00:00,750,950,850.0,73
-Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-08-20 00:00:00,1000,1500,1250.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2020-04-08 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2020-04-10 00:00:00,900.0,1200.0,1100.0,73
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Water Melon,Other,Medium,2020-04-21 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2020-04-26 00:00:00,600.0,1000.0,800.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2020-04-28 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-14 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-24 00:00:00,1000.0,1300.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-25 00:00:00,1000.0,1350.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-27 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-08 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-14 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-17 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-20 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-27 00:00:00,800.0,800.0,800.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-03-11 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-03-19 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-03-23 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-04-09 00:00:00,1000.0,1050.0,1025.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-13 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-05-18 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-28 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-06-06 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-09 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-10 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-16 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-06-20 00:00:00,750.0,950.0,850.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-08-20 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-05-08 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-05-15 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-05-18 00:00:00,1000.0,1750.0,1375.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-05-21 00:00:00,1000.0,1900.0,1450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-05-27 00:00:00,1000.0,1850.0,1425.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2024-05-02 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2024-05-24 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2024-05-30 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2024-05-16 00:00:00,1300.0,1300.0,1300.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2024-05-17 00:00:00,1300.0,1300.0,1300.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-05-14 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-05-25 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-05-02 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-05-10 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-05-11 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-05-15 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-05-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-05-25 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-05-28 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-06-04 00:00:00,500.0,1600.0,1050.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-06-07 00:00:00,500.0,1700.0,1100.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-06-21 00:00:00,1000.0,1150.0,1075.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-06-26 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2024-06-27 00:00:00,1100.0,1300.0,1200.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-06-06 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-06-12 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-06-13 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-06-15 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-06-13 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-06-20 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-02-16 00:00:00,1500.0,2700.0,2100.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-02-25 00:00:00,1500.0,2850.0,2175.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-03-02 00:00:00,1500.0,2850.0,2175.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-03-23 00:00:00,1400.0,1700.0,1550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-03-24 00:00:00,1350.0,1750.0,1550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-03-28 00:00:00,1000.0,1700.0,1350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-15 00:00:00,750.0,1850.0,1300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-18 00:00:00,800.0,1900.0,1350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-20 00:00:00,800.0,1900.0,1350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-21 00:00:00,700.0,1500.0,1100.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-22 00:00:00,750.0,1700.0,1225.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-05-25 00:00:00,250.0,850.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-06-16 00:00:00,300.0,850.0,575.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-06-28 00:00:00,300.0,900.0,600.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-04-12 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-04-14 00:00:00,1200.0,1200.0,1200.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-04-21 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-02 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-04 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-10 00:00:00,600.0,1500.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-13 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-03-10 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-03-22 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-03-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-21 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-22 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-28 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-30 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-07 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-28 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-30 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-06-03 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-07-01 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-03-03 00:00:00,1500.0,1850.0,1675.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-03-05 00:00:00,1300.0,1400.0,1350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-03-24 00:00:00,1000.0,1900.0,1450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-03-28 00:00:00,1000.0,1850.0,1425.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-03-05 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-03-08 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-03-09 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-03-04 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-03-06 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-03-11 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-03-13 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-03-17 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-03-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-03-25 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-03-08 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-03-22 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-12-25 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-12-30 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-07 00:00:00,1000.0,1300.0,1150.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-16 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-04-06 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-04-19 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-04-22 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-05 00:00:00,1000.0,1200.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-10 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-11 00:00:00,800.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-17 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-21 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-25 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-08 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-09 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-11 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-16 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-22 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-23 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-02 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-04 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-05 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-15 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-22 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-28 00:00:00,500.0,750.0,625.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-05 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-08 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-17 00:00:00,1000.0,1350.0,1175.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-02-07 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-05 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-06 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-07 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-26 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-27 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-14 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-17 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-02 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-04 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-06 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-07 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-13 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-07-04 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-08-07 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-09-22 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-09-29 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-10-26 00:00:00,1200.0,1800.0,1600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-11-05 00:00:00,1500.0,1800.0,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-01-10 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-01-20 00:00:00,1200.0,1800.0,1500.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-02 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-06 00:00:00,1300.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-10 00:00:00,1400.0,1600.0,1500.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-20 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-21 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-22 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-10 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-16 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-20 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-26 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-31 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-04-12 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-05-12 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-05-19 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-05-26 00:00:00,1200.0,1700.0,1500.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-06-04 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-06-12 00:00:00,1100.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-06-21 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-07-31 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-08-27 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-09-04 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-09-28 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-03-20 00:00:00,900.0,1000.0,950.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-03-31 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-04-02 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-08 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-09 00:00:00,1000.0,1100.0,1050.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-16 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-17 00:00:00,500.0,900.0,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-25 00:00:00,4000.0,4500.0,4250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-06-12 00:00:00,3500.0,4500.0,4000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-01-03 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-01-19 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-01-23 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-01-29 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-02-08 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-02-18 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-02-22 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-02-27 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-04 00:00:00,800.0,1150.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-09 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-11 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-15 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-16 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-18 00:00:00,700.0,900.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-03 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-07 00:00:00,500.0,850.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-13 00:00:00,700.0,850.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-17 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-21 00:00:00,700.0,850.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-26 00:00:00,700.0,950.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-02 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-09 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-15 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-27 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-30 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-31 00:00:00,1100.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-01 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-06 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-09 00:00:00,900.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-12 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-07-06 00:00:00,800.0,1100.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-10-18 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-10-20 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-12-01 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2018-03-13 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2018-03-20 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2018-03-31 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2018-04-16 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2018-05-23 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-03-13 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-03-14 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-03-15 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-03-23 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-04-05 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-04-10 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-04-17 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-04-28 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-04-30 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-01 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-03 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-04 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-10 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-12 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-23 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-07-10 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-07-29 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-08-01 00:00:00,8000.0,10000.0,9000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-08-09 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-08-23 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-08-30 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-08-31 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-09-27 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-10-15 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-11-05 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-11-16 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-11-20 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-11-27 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-12-05 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-12-06 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-12-10 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-12-20 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-12-21 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-02-17 00:00:00,1500.0,2750.0,2125.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-02-18 00:00:00,1500.0,2850.0,2175.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-03-05 00:00:00,1500.0,1700.0,1600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-07 00:00:00,750.0,1850.0,1300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-09 00:00:00,750.0,1850.0,1300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-04-11 00:00:00,800.0,1900.0,1350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-05-10 00:00:00,250.0,650.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-05-17 00:00:00,250.0,600.0,425.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-05-21 00:00:00,300.0,700.0,500.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-05-26 00:00:00,250.0,950.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-05-28 00:00:00,250.0,900.0,575.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-05-31 00:00:00,300.0,850.0,575.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-06-11 00:00:00,300.0,850.0,575.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2022-06-13 00:00:00,250.0,900.0,575.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-03-31 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-04-19 00:00:00,500.0,1000.0,900.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-05 00:00:00,700.0,700.0,700.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-07 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-14 00:00:00,500.0,1000.0,700.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2022-05-17 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-03-11 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-03-14 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Small,2022-03-15 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-03-26 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-03-28 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-05 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-09 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-25 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-04-26 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2022-04-29 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-02 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-11 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-20 00:00:00,1000.0,1150.0,1075.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-21 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-05-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-06-02 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-06-07 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-06-08 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-06-09 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-09-08 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2022-09-12 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-01 00:00:00,800.0,2000.0,1400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-22 00:00:00,600.0,1400.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-04-08 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-29 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-05 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-15 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-07 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-19 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-21 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-30 00:00:00,500.0,750.0,625.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-04-23 00:00:00,300.0,800.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-04-04 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-04-17 00:00:00,800.0,1100.0,900.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-04-15 00:00:00,800.0,1000.0,800.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-03 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-04 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-14 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-29 00:00:00,500.0,1500.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-04-30 00:00:00,500.0,1500.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-04-03 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-10-05 00:00:00,500.0,625.0,562.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-10-19 00:00:00,2000.0,3000.0,2500.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-10-03 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-10-07 00:00:00,500.0,750.0,625.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-05-01 00:00:00,500.0,800.0,650.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-05-02 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2025-05-07 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-05-02 00:00:00,700.0,1000.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-05-04 00:00:00,600.0,1000.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-05-26 00:00:00,200.0,700.0,400.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-05-09 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-05-13 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-05-14 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-05-20 00:00:00,800.0,800.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-05-22 00:00:00,600.0,600.0,600.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2025-05-28 00:00:00,600.0,600.0,600.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-05-06 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-05-10 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-05-12 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-05-14 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-05-19 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-05-23 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-05-02 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-05-06 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-05-26 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-05-27 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2025-07-09 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-07-16 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-08-13 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-08-27 00:00:00,2000.0,3000.0,2500.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-08-26 00:00:00,500.0,750.0,625.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-10-14 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-10-16 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-08-02 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-08-21 00:00:00,600.0,900.0,800.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-08-22 00:00:00,500.0,750.0,625.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2025-11-25 00:00:00,500.0,1500.0,1000.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-11-22 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2025-12-03 00:00:00,400.0,1000.0,700.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2025-12-09 00:00:00,500.0,2000.0,1250.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Medium,2025-12-20 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2025-12-23 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2025-12-24 00:00:00,500.0,1500.0,1000.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-12-31 00:00:00,2000.0,2500.0,2250.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-12-03 00:00:00,2000.0,2500.0,2250.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-12-09 00:00:00,1500.0,2000.0,1750.0,73

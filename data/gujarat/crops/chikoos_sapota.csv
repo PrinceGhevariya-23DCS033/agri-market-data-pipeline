@@ -9846,28 +9846,650 @@ Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Chikoos(Sapota),Other,Medium,2016-02-23 00
 Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Chikoos(Sapota),Other,Medium,2016-02-25 00:00:00,1500.0,2500.0,2000.0,71
 Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Chikoos(Sapota),Other,Medium,2016-02-29 00:00:00,2000.0,2500.0,2300.0,71
 Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Chikoos(Sapota),Other,Medium,2016-03-08 00:00:00,2000.0,3000.0,2500.0,71
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2020-05-27 00:00:00,1500,3100,2400.0,71
-Gujarat,Amreli,Dhari,Chikoos(Sapota),Other,Medium,2020-04-11 00:00:00,500,800,700.0,71
-Gujarat,Amreli,Dhari,Chikoos(Sapota),Other,Medium,2020-04-16 00:00:00,500,1500,1000.0,71
-Gujarat,Amreli,Dhari,Chikoos(Sapota),Other,Medium,2020-05-12 00:00:00,500,600,600.0,71
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-04-26 00:00:00,2500,3000,2750.0,71
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-04 00:00:00,1000,1500,1250.0,71
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-13 00:00:00,1000,2500,1750.0,71
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-16 00:00:00,1500,2500,2000.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-04-17 00:00:00,1500,2250,2000.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-04-20 00:00:00,1500,2000,1700.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-04-29 00:00:00,1500,2500,2000.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-07 00:00:00,2000,2500,2200.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-11 00:00:00,1500,2000,1700.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-13 00:00:00,1500,2000,1700.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-18 00:00:00,1500,2000,1700.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-24 00:00:00,1500,2500,2000.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-26 00:00:00,1500,2500,2000.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-28 00:00:00,1500,2000,1700.0,71
-Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-31 00:00:00,1500,2000,1700.0,71
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-03-19 00:00:00,1000,1200,1100.0,71
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-13 00:00:00,1000,1500,1500.0,71
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-15 00:00:00,1000,1000,1000.0,71
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-18 00:00:00,1000,1000,1000.0,71
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-27 00:00:00,1000,2000,1500.0,71
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-30 00:00:00,1000,2000,1500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2020-05-27 00:00:00,1500.0,3100.0,2400.0,71
+Gujarat,Amreli,Dhari,Chikoos(Sapota),Other,Medium,2020-04-11 00:00:00,500.0,800.0,700.0,71
+Gujarat,Amreli,Dhari,Chikoos(Sapota),Other,Medium,2020-04-16 00:00:00,500.0,1500.0,1000.0,71
+Gujarat,Amreli,Dhari,Chikoos(Sapota),Other,Medium,2020-05-12 00:00:00,500.0,600.0,600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-04-26 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-04 00:00:00,1000.0,1500.0,1250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-13 00:00:00,1000.0,2500.0,1750.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-16 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-04-17 00:00:00,1500.0,2250.0,2000.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-04-20 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-04-29 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-07 00:00:00,2000.0,2500.0,2200.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-11 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-13 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-18 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-24 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-26 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-28 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2020-05-31 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-03-19 00:00:00,1000.0,1200.0,1100.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-13 00:00:00,1000.0,1500.0,1500.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-15 00:00:00,1000.0,1000.0,1000.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-18 00:00:00,1000.0,1000.0,1000.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-27 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2020-05-30 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2021-03-04 00:00:00,125.0,400.0,260.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2021-12-23 00:00:00,250.0,1650.0,950.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2021-12-29 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-01 00:00:00,3000.0,4200.0,3600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-09 00:00:00,3000.0,4400.0,3700.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-14 00:00:00,3000.0,4350.0,3675.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-17 00:00:00,1500.0,3200.0,2350.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-18 00:00:00,1500.0,3300.0,2400.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-20 00:00:00,1500.0,3350.0,2425.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-24 00:00:00,1500.0,3450.0,2475.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-27 00:00:00,1500.0,3300.0,2400.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-28 00:00:00,1500.0,3350.0,2425.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-05-31 00:00:00,1500.0,3000.0,2250.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2024-05-20 00:00:00,2000.0,4740.0,3370.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2024-05-21 00:00:00,2755.0,5500.0,4127.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2024-05-02 00:00:00,1000.0,1500.0,1250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-05-02 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-05-09 00:00:00,1000.0,1500.0,1250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-05-31 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-01-01 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-01-03 00:00:00,2200.0,4000.0,3200.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-01-09 00:00:00,2500.0,4000.0,3300.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-01-13 00:00:00,2500.0,3900.0,3200.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-01-25 00:00:00,2600.0,3400.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-01-30 00:00:00,2200.0,3400.0,2800.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-02-03 00:00:00,2400.0,3600.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-02-05 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-02-09 00:00:00,2500.0,3400.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-02-22 00:00:00,2400.0,3000.0,2700.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-03-05 00:00:00,2400.0,3000.0,2700.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-03-10 00:00:00,2600.0,3000.0,2800.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-03-14 00:00:00,2500.0,3000.0,2800.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-03-28 00:00:00,2700.0,3000.0,2900.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-04-10 00:00:00,2500.0,3600.0,3100.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-04-16 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-05-28 00:00:00,2600.0,3400.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-06-02 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-06-11 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-06-14 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-06-26 00:00:00,3000.0,4000.0,3600.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-07-04 00:00:00,3000.0,3500.0,3400.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-07-05 00:00:00,3600.0,4000.0,3800.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-07-23 00:00:00,3500.0,4000.0,3800.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-07-26 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-08-04 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-08-09 00:00:00,2000.0,3000.0,2800.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-08-14 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-08-23 00:00:00,2400.0,3400.0,2900.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-08-28 00:00:00,2500.0,3500.0,3200.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-09-06 00:00:00,2500.0,3800.0,3200.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-09-07 00:00:00,2500.0,3500.0,3200.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-09-27 00:00:00,3500.0,6500.0,5500.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-09-28 00:00:00,3500.0,6500.0,5500.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-10-01 00:00:00,3500.0,6500.0,5500.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-10-17 00:00:00,6500.0,7400.0,7000.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-10-30 00:00:00,6500.0,7500.0,7200.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-11-28 00:00:00,2000.0,3500.0,2800.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-12-15 00:00:00,3200.0,3800.0,3500.0,71
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Chikoos(Sapota),Other,Medium,2018-12-17 00:00:00,3000.0,3500.0,3300.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-01-02 00:00:00,2500.0,3800.0,3200.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-01-05 00:00:00,2500.0,4000.0,3300.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-01-08 00:00:00,2800.0,4000.0,3400.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-01-19 00:00:00,2500.0,4000.0,3300.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-01-25 00:00:00,2600.0,3400.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-02-02 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-02-17 00:00:00,2500.0,3200.0,2900.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-03-05 00:00:00,2400.0,3000.0,2700.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-03-12 00:00:00,2500.0,3000.0,2800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-03-20 00:00:00,2500.0,3000.0,2800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-04-04 00:00:00,2500.0,3000.0,2800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-04-05 00:00:00,2600.0,2900.0,2800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-04-09 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-04-11 00:00:00,2600.0,3500.0,3100.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-05-14 00:00:00,2600.0,3400.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-05-16 00:00:00,2800.0,3500.0,3200.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-05-23 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-05-28 00:00:00,2600.0,3400.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-06-02 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-06-05 00:00:00,2400.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-06-08 00:00:00,2400.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-06-19 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-06-27 00:00:00,3000.0,4200.0,3800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-05 00:00:00,3600.0,4000.0,3800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-07 00:00:00,3500.0,4200.0,3900.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-11 00:00:00,3200.0,4000.0,3600.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-12 00:00:00,3500.0,4000.0,3800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-19 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-21 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-23 00:00:00,3500.0,4000.0,3800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-07-27 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-08-01 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-08-13 00:00:00,2500.0,3500.0,3200.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-08-21 00:00:00,2500.0,3500.0,3200.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-08-23 00:00:00,2400.0,3400.0,2900.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-09-05 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-09-07 00:00:00,2500.0,3500.0,3200.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-09-08 00:00:00,2500.0,3500.0,3100.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-09-10 00:00:00,2500.0,3500.0,3100.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-09-11 00:00:00,2500.0,3500.0,3200.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-10-01 00:00:00,3500.0,6500.0,5500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-10-03 00:00:00,3500.0,7000.0,5500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-10-30 00:00:00,6500.0,7500.0,7200.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-11-01 00:00:00,6500.0,8000.0,7500.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-11-27 00:00:00,2500.0,3000.0,2800.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-12-12 00:00:00,2500.0,3400.0,3000.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-12-13 00:00:00,2800.0,3800.0,3300.0,71
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Chikoos(Sapota),Other,Medium,2018-12-15 00:00:00,3200.0,3800.0,3500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-04 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-05 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-06 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-09 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-13 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-16 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-23 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-24 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-01-27 00:00:00,3500.0,4500.0,4000.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-02-15 00:00:00,3000.0,4500.0,3750.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-02-16 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-02-28 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-03-07 00:00:00,2500.0,3750.0,3125.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-03-22 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-04-04 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-04-10 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-05 00:00:00,2000.0,2050.0,2025.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-07 00:00:00,2000.0,2050.0,2025.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-14 00:00:00,2000.0,2600.0,2300.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-15 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-16 00:00:00,1900.0,2600.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-17 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-21 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-22 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-06-12 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-06-13 00:00:00,2000.0,2250.0,2125.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2018-06-14 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2018-01-05 00:00:00,1300.0,1650.0,1500.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2018-02-06 00:00:00,1200.0,1450.0,1300.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2018-04-01 00:00:00,800.0,1200.0,1000.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2018-06-01 00:00:00,1200.0,1450.0,1300.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2018-06-06 00:00:00,1200.0,1500.0,1300.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2018-03-15 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2018-03-16 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2018-03-24 00:00:00,2500.0,2500.0,2500.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2018-03-27 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-14 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2018-05-21 00:00:00,1500.0,2000.0,1750.0,71
+Gujarat,Junagarh,Vanthli,Chikoos(Sapota),Other,Large,2018-04-24 00:00:00,3250.0,4280.0,3500.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-05-27 00:00:00,2000.0,3500.0,2500.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-06-05 00:00:00,2000.0,4500.0,3000.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-06-06 00:00:00,2000.0,4500.0,3000.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-06-12 00:00:00,2500.0,5000.0,3000.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-06-19 00:00:00,2500.0,5000.0,3000.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-06-23 00:00:00,4000.0,8000.0,5000.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-07-08 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-08-01 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-08-12 00:00:00,2500.0,4000.0,3500.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-09-12 00:00:00,3250.0,5500.0,4700.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-09-22 00:00:00,3400.0,6250.0,4825.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-09-24 00:00:00,3500.0,8000.0,5750.0,71
+Gujarat,Navsari,Bilimora(Gandevi),Chikoos(Sapota),Sapota,Large,2018-09-27 00:00:00,3500.0,8400.0,5950.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-01-06 00:00:00,100.0,1600.0,850.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-01-18 00:00:00,100.0,1250.0,675.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-01-24 00:00:00,2095.0,4250.0,3172.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-01-25 00:00:00,1900.0,4125.0,3012.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-02-01 00:00:00,100.0,1000.0,550.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-02-04 00:00:00,1720.0,4205.0,2962.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-02-05 00:00:00,100.0,825.0,462.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-02-07 00:00:00,1655.0,3250.0,2452.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-02-08 00:00:00,100.0,1000.0,550.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-02-11 00:00:00,100.0,1010.0,555.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-02-17 00:00:00,100.0,1000.0,550.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-03-14 00:00:00,100.0,600.0,350.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-03-25 00:00:00,925.0,1750.0,1338.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-04-16 00:00:00,100.0,575.0,337.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-04-17 00:00:00,800.0,1810.0,1305.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-05-30 00:00:00,1500.0,3290.0,2395.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-06-05 00:00:00,1350.0,2900.0,2125.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-11-28 00:00:00,1750.0,4305.0,3027.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-12-02 00:00:00,400.0,1350.0,875.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-12-10 00:00:00,375.0,1275.0,825.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-12-18 00:00:00,375.0,1250.0,812.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-12-22 00:00:00,1750.0,3250.0,2500.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-12-23 00:00:00,1500.0,3210.0,2480.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2018-12-24 00:00:00,350.0,1000.0,675.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2018-12-27 00:00:00,1735.0,3160.0,2447.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-03-15 00:00:00,800.0,2700.0,1750.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-03-21 00:00:00,1600.0,2200.0,1900.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-07-02 00:00:00,2000.0,2350.0,2175.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-07-06 00:00:00,2000.0,2450.0,2225.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-07-13 00:00:00,2000.0,3200.0,2600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-07-27 00:00:00,2000.0,2750.0,2375.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-07-30 00:00:00,2000.0,2850.0,2425.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-07-31 00:00:00,2000.0,2900.0,2450.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-07-10 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-07-12 00:00:00,2000.0,6000.0,5000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-07-29 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-07-30 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-03-10 00:00:00,3000.0,4400.0,3700.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-03-18 00:00:00,4000.0,4500.0,4250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-03-24 00:00:00,4000.0,4900.0,4450.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-03-27 00:00:00,4000.0,4850.0,4425.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-03-06 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-03-12 00:00:00,2000.0,2500.0,2200.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-03-21 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-03-03 00:00:00,2705.0,5625.0,4165.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-03-04 00:00:00,2690.0,5605.0,4148.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-03-09 00:00:00,125.0,1950.0,1038.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-03-11 00:00:00,125.0,2025.0,1075.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-03-19 00:00:00,125.0,2060.0,1092.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-05 00:00:00,2250.0,3250.0,2750.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-09 00:00:00,2500.0,3250.0,2875.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-17 00:00:00,2250.0,3250.0,2750.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-18 00:00:00,2000.0,3250.0,2625.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-21 00:00:00,2000.0,2750.0,2375.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-24 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-26 00:00:00,1500.0,2250.0,1875.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-28 00:00:00,1250.0,2000.0,1625.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-03-30 00:00:00,1250.0,1750.0,1500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-03-10 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-03-20 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-03-21 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-03-25 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-03-21 00:00:00,3500.0,4000.0,4000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-03-26 00:00:00,3500.0,4000.0,4000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-03-31 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-03-04 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-03-10 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-03-12 00:00:00,3000.0,3500.0,3500.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-03-18 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-03-25 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-03-05 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-03-30 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-03-31 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-03-13 00:00:00,4000.0,4200.0,4200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-03-15 00:00:00,4000.0,4200.0,4200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-03-29 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-03-30 00:00:00,2200.0,2700.0,2700.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-03-03 00:00:00,4000.0,4200.0,4200.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-03-07 00:00:00,3500.0,3800.0,3800.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-03-12 00:00:00,4000.0,4500.0,4500.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-03-13 00:00:00,4000.0,4200.0,4200.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-03-17 00:00:00,4000.0,4200.0,4200.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2025-03-08 00:00:00,2000.0,3500.0,2600.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-03-01 00:00:00,500.0,1200.0,800.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-03-06 00:00:00,500.0,1000.0,875.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-03-18 00:00:00,500.0,1000.0,700.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-12-21 00:00:00,4000.0,5150.0,4575.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-12-28 00:00:00,5000.0,6200.0,5600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2024-12-30 00:00:00,5000.0,6250.0,5625.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2024-12-03 00:00:00,3155.0,7505.0,5330.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2024-12-04 00:00:00,3155.0,7000.0,5077.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2024-12-10 00:00:00,2950.0,7000.0,4975.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2024-12-18 00:00:00,500.0,2405.0,1452.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2024-12-08 00:00:00,3500.0,4500.0,4000.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2024-12-30 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2024-12-31 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-12-16 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-12-24 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2024-12-07 00:00:00,3800.0,4000.0,4000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2024-12-19 00:00:00,4000.0,4500.0,4500.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2024-12-23 00:00:00,4000.0,4500.0,4500.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2024-12-11 00:00:00,3200.0,3500.0,3500.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2024-12-19 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2024-12-21 00:00:00,3000.0,3500.0,3500.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2024-12-23 00:00:00,2800.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2024-12-24 00:00:00,3000.0,3200.0,3200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2024-12-28 00:00:00,3000.0,3500.0,3500.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2024-12-30 00:00:00,3000.0,3500.0,3500.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2024-12-14 00:00:00,3000.0,3500.0,3500.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2024-12-20 00:00:00,3000.0,3500.0,3500.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2024-12-31 00:00:00,3000.0,3500.0,3000.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2024-12-07 00:00:00,4000.0,4200.0,4200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2024-12-28 00:00:00,4500.0,5000.0,5000.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2024-12-30 00:00:00,4500.0,5000.0,5000.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2024-12-13 00:00:00,4000.0,4500.0,4500.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2024-12-21 00:00:00,3800.0,4000.0,4000.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2024-12-26 00:00:00,4000.0,4500.0,4500.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2024-12-30 00:00:00,4500.0,5000.0,5000.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2024-12-02 00:00:00,2500.0,3750.0,3125.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2024-12-11 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2024-12-13 00:00:00,750.0,1250.0,1000.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2024-12-19 00:00:00,1000.0,1500.0,1250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-01 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-04 00:00:00,3000.0,3750.0,3375.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-18 00:00:00,3000.0,3900.0,3450.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-23 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-04-13 00:00:00,1000.0,1300.0,1200.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-04-19 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-11 00:00:00,4500.0,4500.0,4500.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-04-09 00:00:00,1100.0,2700.0,1900.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-14 00:00:00,750.0,1000.0,875.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-04 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-07 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-11 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-26 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-30 00:00:00,1500.0,2000.0,1750.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-11 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-29 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-04-08 00:00:00,1800.0,2000.0,1800.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-20 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-27 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-20 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-21 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-04-04 00:00:00,2200.0,2300.0,2300.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-04-12 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-04-03 00:00:00,300.0,700.0,500.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-04-04 00:00:00,500.0,1000.0,700.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-04-26 00:00:00,1000.0,2650.0,1825.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-04-30 00:00:00,1000.0,2400.0,1700.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-04-16 00:00:00,125.0,505.0,315.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-04-21 00:00:00,50.0,450.0,250.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-04-22 00:00:00,50.0,490.0,270.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-04-25 00:00:00,50.0,700.0,375.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-04-29 00:00:00,50.0,700.0,375.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-03 00:00:00,1100.0,1450.0,1275.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-28 00:00:00,500.0,900.0,700.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Small,2025-04-16 00:00:00,900.0,1200.0,1050.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-02 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-17 00:00:00,1500.0,2000.0,1750.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-23 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-30 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-04-02 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-04-16 00:00:00,1500.0,1800.0,1800.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-23 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-30 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-28 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-04-15 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-04-15 00:00:00,500.0,750.0,650.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-04-26 00:00:00,500.0,700.0,600.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-03-22 00:00:00,1100.0,2200.0,1600.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-03-23 00:00:00,1200.0,2000.0,1600.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-04-12 00:00:00,1600.0,2500.0,2050.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-04-27 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-07-12 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-07-23 00:00:00,500.0,3000.0,1750.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-08-09 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-08-10 00:00:00,1000.0,2500.0,1750.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-08-17 00:00:00,1250.0,1500.0,1375.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-08-18 00:00:00,1500.0,2000.0,1750.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-10-26 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-10-28 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-11-14 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-11-15 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-11-21 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-11-26 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-12-12 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2018-12-24 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-01-02 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-01-31 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-02-12 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-02-16 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-02-21 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-02-26 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-03-03 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-03-23 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-03-30 00:00:00,3000.0,5000.0,4000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-04-10 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-04-30 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-05-10 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-05-16 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-05-23 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-06-06 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-06-07 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-06-18 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-06-20 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-06-24 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-06-27 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-07-02 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-07-09 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-08-01 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-09-07 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-09-25 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-10-22 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-11-29 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-12-10 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Chikoos(Sapota),Other,Medium,2018-12-19 00:00:00,5000.0,7000.0,6000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2018-01-14 00:00:00,1550.0,1650.0,1600.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2018-01-10 00:00:00,1550.0,1700.0,1650.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2018-01-15 00:00:00,1550.0,1650.0,1600.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2018-01-13 00:00:00,1650.0,1750.0,1700.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2018-01-15 00:00:00,1550.0,1650.0,1600.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2018-01-17 00:00:00,1550.0,1650.0,1600.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2018-01-10 00:00:00,1550.0,1750.0,1650.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2018-01-09 00:00:00,1650.0,1750.0,1700.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2018-01-14 00:00:00,1550.0,1650.0,1600.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2018-06-08 00:00:00,500.0,750.0,625.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-01-05 00:00:00,3500.0,5150.0,4325.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-01-11 00:00:00,3500.0,5000.0,4250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-01-13 00:00:00,3500.0,5000.0,4250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-01-19 00:00:00,3000.0,3700.0,3350.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-01-27 00:00:00,3000.0,3700.0,3350.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-02-03 00:00:00,3000.0,3850.0,3425.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-02-07 00:00:00,3000.0,3800.0,3400.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-02-15 00:00:00,3000.0,3750.0,3375.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-02-25 00:00:00,3000.0,5200.0,4100.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-02-28 00:00:00,3000.0,5250.0,4125.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-03-17 00:00:00,3000.0,5100.0,4050.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-03-23 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-03-31 00:00:00,2000.0,2500.0,2250.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-03 00:00:00,2000.0,2700.0,2350.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-05 00:00:00,2000.0,2750.0,2375.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-08 00:00:00,2000.0,2900.0,2450.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-17 00:00:00,3000.0,4200.0,3600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-27 00:00:00,1000.0,1700.0,1350.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-05-11 00:00:00,9000.0,12200.0,10600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-05-22 00:00:00,9000.0,11700.0,10350.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-05-26 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-05-27 00:00:00,3000.0,4150.0,3575.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-06-22 00:00:00,3000.0,8000.0,5500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-06-29 00:00:00,3500.0,4150.0,3825.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-07-07 00:00:00,5000.0,6000.0,5500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-07-12 00:00:00,5000.0,6200.0,5600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-07-27 00:00:00,8000.0,9100.0,8550.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-09-15 00:00:00,4500.0,5000.0,4750.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-09-21 00:00:00,4500.0,5150.0,4825.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-09-22 00:00:00,4500.0,5000.0,4750.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-10-04 00:00:00,3000.0,3650.0,3325.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-10-09 00:00:00,3000.0,3800.0,3400.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-10-26 00:00:00,5000.0,6000.0,5500.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-11-09 00:00:00,5000.0,6100.0,5550.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-12-01 00:00:00,3000.0,6200.0,4600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-12-06 00:00:00,3000.0,6250.0,4625.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-12-07 00:00:00,3000.0,6200.0,4600.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-12-15 00:00:00,4500.0,5000.0,4750.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-12-19 00:00:00,4500.0,5150.0,4825.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-12-26 00:00:00,4000.0,6200.0,5100.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2023-12-30 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-01 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-12 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2023-04-14 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2023-05-01 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Chikoos(Sapota),Other,Medium,2023-05-22 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2023-05-03 00:00:00,750.0,2165.0,1458.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2023-05-11 00:00:00,800.0,2290.0,1545.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2023-05-22 00:00:00,1000.0,2985.0,1992.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2023-05-27 00:00:00,1950.0,3405.0,2677.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2023-11-29 00:00:00,3000.0,5150.0,4075.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2023-12-09 00:00:00,500.0,1255.0,877.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2023-10-31 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2023-11-01 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2023-11-03 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2023-11-27 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2023-12-02 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2023-12-15 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2023-12-19 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-01-04 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-01-09 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-01-13 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-01-25 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-01 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-08 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-15 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-17 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-20 00:00:00,4000.0,4500.0,4250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-25 00:00:00,4000.0,4500.0,4250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-27 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-02-28 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-03-04 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-03-16 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-03-18 00:00:00,4000.0,5500.0,5000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-04-13 00:00:00,1500.0,2500.0,2250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-04-15 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-04-20 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-04-22 00:00:00,1500.0,2000.0,1750.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-04-25 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-05-01 00:00:00,1000.0,1500.0,1250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-05-24 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-05-27 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-06-03 00:00:00,1500.0,2000.0,1750.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-06-16 00:00:00,2500.0,4500.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-06-19 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-06-21 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-06-23 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-06-24 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-07-15 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-08-08 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-08-14 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-08-21 00:00:00,4000.0,4500.0,4250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-08-22 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-08-31 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-09-01 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-05 00:00:00,2500.0,4500.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-06 00:00:00,2500.0,4000.0,3000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-09 00:00:00,5000.0,5500.0,5250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-11 00:00:00,5000.0,6000.0,5500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-16 00:00:00,7000.0,7500.0,7250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-17 00:00:00,5000.0,6000.0,5500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-19 00:00:00,7000.0,8000.0,7500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-23 00:00:00,4500.0,5500.0,5000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-10-25 00:00:00,4500.0,5500.0,5000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-11-01 00:00:00,4000.0,4500.0,4250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-11-20 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-12-05 00:00:00,1000.0,3000.0,2000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-12-16 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-12-18 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-12-20 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2023-12-23 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-07-19 00:00:00,2000.0,6000.0,4000.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-09-04 00:00:00,1500.0,3000.0,2250.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-09-19 00:00:00,4500.0,5500.0,5000.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-09-21 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-09-25 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-09-28 00:00:00,1500.0,3500.0,2500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-10-04 00:00:00,2000.0,5000.0,3500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-10-10 00:00:00,2000.0,5000.0,3500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-10-13 00:00:00,1500.0,5000.0,3250.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-11-01 00:00:00,2000.0,5000.0,3500.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-11-08 00:00:00,2000.0,4000.0,3000.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Chikoos(Sapota),Sapota,Medium,2023-12-10 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Small,2023-12-18 00:00:00,1000.0,1500.0,1250.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Small,2023-12-21 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2023-12-22 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2023-12-23 00:00:00,1500.0,2500.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2023-12-20 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Small,2023-12-22 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2023-12-21 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Small,2023-12-18 00:00:00,1000.0,1500.0,1250.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-01-03 00:00:00,2500.0,2850.0,2675.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-01-06 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-01-11 00:00:00,2250.0,3250.0,2750.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-02-14 00:00:00,2000.0,2250.0,2125.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-02-21 00:00:00,1500.0,2125.0,1812.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-02-23 00:00:00,1500.0,2250.0,1875.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-03-11 00:00:00,1750.0,2250.0,2000.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-04-06 00:00:00,1500.0,1875.0,1688.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-11-24 00:00:00,750.0,1250.0,1000.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-12-08 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Medium,2023-12-12 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2023-12-15 00:00:00,625.0,1250.0,940.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2023-12-28 00:00:00,750.0,1250.0,1000.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-07 00:00:00,3000.0,3850.0,3425.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-17 00:00:00,3000.0,3850.0,3425.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-04-28 00:00:00,2000.0,2850.0,2425.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-04-04 00:00:00,1300.0,1700.0,1400.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-04-15 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Bharuch,Bharuch,Chikoos(Sapota),Other,Medium,2025-04-17 00:00:00,1500.0,2000.0,1700.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-04-03 00:00:00,1155.0,3245.0,2200.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-04-07 00:00:00,1250.0,3490.0,2370.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-04-20 00:00:00,750.0,2825.0,1787.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Large,2025-04-27 00:00:00,700.0,2875.0,1787.0,71
+Gujarat,Navsari,Chikhali,Chikoos(Sapota),Other,Small,2025-04-14 00:00:00,125.0,750.0,437.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-02 00:00:00,1200.0,1625.0,1415.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-04 00:00:00,1000.0,1400.0,1200.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-11 00:00:00,850.0,1250.0,1050.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-12 00:00:00,500.0,1250.0,875.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-15 00:00:00,1000.0,1250.0,1125.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-17 00:00:00,1000.0,1200.0,1100.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-21 00:00:00,750.0,1200.0,975.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2025-04-22 00:00:00,750.0,1200.0,975.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-05 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-09 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-12 00:00:00,2000.0,3000.0,2500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-21 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-04-25 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-02 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-05 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-16 00:00:00,1500.0,1800.0,1800.0,71
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,2025-04-21 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-04-05 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-04-11 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-04-15 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,2025-04-22 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-04 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-07 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-09 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-11 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-15 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,2025-04-16 00:00:00,1500.0,1800.0,1800.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-06 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-15 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-18 00:00:00,1800.0,2000.0,2000.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-27 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,2025-04-30 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-04-01 00:00:00,2200.0,2500.0,2500.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-04-24 00:00:00,1800.0,2000.0,1800.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-04-28 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,2025-04-29 00:00:00,2000.0,2200.0,2200.0,71
+Gujarat,Valsad,Valsad,Chikoos(Sapota),Other,Small,2025-04-22 00:00:00,500.0,600.0,550.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-10-28 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-10-17 00:00:00,8000.0,9000.0,8500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-10-12 00:00:00,8000.0,10000.0,9000.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2024-10-26 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2024-10-04 00:00:00,2500.0,3500.0,3000.0,71
+Gujarat,Navsari,Navsari,Chikoos(Sapota),Other,Medium,2024-10-02 00:00:00,2500.0,3000.0,2750.0,71
+Gujarat,Valsad,Pardi(Vapi) APMC,Chikoos(Sapota),Other,Medium,2025-12-05 00:00:00,2000.0,2250.0,2000.0,71
+Gujarat,Valsad,Pardi(Rohinee) APMC,Chikoos(Sapota),Other,Medium,2025-12-08 00:00:00,1500.0,2000.0,1500.0,71
+Gujarat,Valsad,Pardi(Rohinee) APMC,Chikoos(Sapota),Other,Medium,2025-12-07 00:00:00,1500.0,2000.0,1500.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-12-01 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-12-23 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-12-24 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Valsad,Pardi APMC,Chikoos(Sapota),Other,Medium,2025-12-29 00:00:00,400.0,450.0,450.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-10-06 00:00:00,6000.0,6750.0,6375.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-08-01 00:00:00,4500.0,6200.0,5350.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Chikoos(Sapota),Other,Medium,2025-08-14 00:00:00,4000.0,4500.0,4250.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-08-07 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-08-11 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-08-14 00:00:00,3000.0,4000.0,3500.0,71
+Gujarat,Porbandar,Porbandar,Chikoos(Sapota),Other,Large,2025-08-30 00:00:00,4000.0,4500.0,4250.0,71
+Gujarat,Navsari,Chikhali APMC,Chikoos(Sapota),Other,Large,2025-11-03 00:00:00,3625.0,7790.0,5707.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Large,2025-11-04 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Chikoos(Sapota),Sapota,Local,2025-11-12 00:00:00,3000.0,3200.0,3100.0,71
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Chikoos(Sapota),Sapota,Medium,2025-11-07 00:00:00,1000.0,3000.0,2500.0,71
+Gujarat,Valsad,Valsad APMC,Chikoos(Sapota),Other,Medium,2025-11-11 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-11-21 00:00:00,4000.0,6000.0,5000.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-11-26 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Navsari,Navsari APMC,Chikoos(Sapota),Other,Medium,2025-11-06 00:00:00,3000.0,3500.0,3250.0,71
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Chikoos(Sapota),Sapota,Local,2025-11-08 00:00:00,1000.0,5000.0,3000.0,71
+Gujarat,Valsad,Valsad APMC,Chikoos(Sapota),Sapota,Medium,2025-11-08 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Valsad,Valsad APMC,Chikoos(Sapota),Sapota,Medium,2025-11-13 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Valsad,Valsad APMC,Chikoos(Sapota),Other,Grade B,2025-11-07 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Navsari,Navsari APMC,Chikoos(Sapota),Other,Local,2025-11-08 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Valsad,Valsad APMC,Chikoos(Sapota),Other,Medium,2025-11-12 00:00:00,2750.0,3250.0,3000.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Large,2025-11-03 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-11-24 00:00:00,4000.0,5000.0,4500.0,71
+Gujarat,Navsari,Chikhali APMC,Chikoos(Sapota),Other,Large,2025-11-07 00:00:00,3255.0,5945.0,4600.0,71
+Gujarat,Navsari,Navsari APMC,Chikoos(Sapota),Other,Local,2025-11-09 00:00:00,3500.0,4500.0,4000.0,71
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Chikoos(Sapota),Other,Medium,2025-11-15 00:00:00,4000.0,5200.0,4600.0,71
+Gujarat,Navsari,Chikhali APMC,Chikoos(Sapota),Other,Large,2025-11-18 00:00:00,3300.0,7405.0,5352.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-12-25 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Porbandar,Porbandar APMC,Chikoos(Sapota),Other,Grade A,2025-12-02 00:00:00,1000.0,2000.0,1500.0,71
+Gujarat,Valsad,Pardi(Motavagachiya) APMC,Chikoos(Sapota),Other,Medium,2025-12-05 00:00:00,1500.0,2000.0,1500.0,71
+Gujarat,Valsad,Pardi(Vapi) APMC,Chikoos(Sapota),Other,Medium,2025-12-04 00:00:00,1750.0,2000.0,1750.0,71
+Gujarat,Valsad,Pardi(Vapi) APMC,Chikoos(Sapota),Other,Medium,2025-12-03 00:00:00,1750.0,2000.0,2000.0,71
