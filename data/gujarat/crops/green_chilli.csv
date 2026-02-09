@@ -37509,11 +37509,487 @@ Gujarat,Bharuch,Ankleshwar APMC,Green Chilli,Green Chilly,Grade A,2026-02-06 00:
 Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Green Chilli,Green Chilly,Local,2026-02-04 00:00:00,900.0,7000.0,3950.0,87
 Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Green Chilli,Green Chilly,Local,2026-02-05 00:00:00,1500.0,6000.0,3700.0,87
 Gujarat,Morbi,Morbi APMC,Green Chilli,Green Chilly,FAQ,2026-02-04 00:00:00,2000.0,3200.0,2600.0,87
-Gujarat,Amreli,Damnagar APMC,Green Chilli,Green Chilly,Local,2026-02-06 00:00:00,4000,4000,4000.0,87
-Gujarat,Vadodara(Baroda),Padra APMC,Green Chilli,Green Chilly,FAQ,2026-02-07 00:00:00,4000,5000,4500.0,87
-Gujarat,Morbi,Morbi APMC,Green Chilli,Green Chilly,FAQ,2026-02-07 00:00:00,2000,3500,2750.0,87
-Gujarat,Ahmedabad,Ahmedabad APMC,Green Chilli,Other,FAQ,2026-01-01 00:00:00,2000,5000,3750.0,87
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Green Chilli,Other,Local,2026-01-08 00:00:00,5000,5000,5000.0,87
-Gujarat,Bharuch,Bharuch APMC,Green Chilli,Other,Local,2026-01-09 00:00:00,2000,3500,2500.0,87
-Gujarat,Bharuch,Bharuch APMC,Green Chilli,Other,Local,2026-01-07 00:00:00,2000,3500,3000.0,87
-Gujarat,Anand,Khambhat(Veg Yard Khambhat) APMC,Green Chilli,Other,Local,2026-01-10 00:00:00,3500,5000,4200.0,87
+Gujarat,Amreli,Damnagar APMC,Green Chilli,Green Chilly,Local,2026-02-06 00:00:00,4000.0,4000.0,4000.0,87
+Gujarat,Vadodara(Baroda),Padra APMC,Green Chilli,Green Chilly,FAQ,2026-02-07 00:00:00,4000.0,5000.0,4500.0,87
+Gujarat,Morbi,Morbi APMC,Green Chilli,Green Chilly,FAQ,2026-02-07 00:00:00,2000.0,3500.0,2750.0,87
+Gujarat,Ahmedabad,Ahmedabad APMC,Green Chilli,Other,FAQ,2026-01-01 00:00:00,2000.0,5000.0,3750.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Green Chilli,Other,Local,2026-01-08 00:00:00,5000.0,5000.0,5000.0,87
+Gujarat,Bharuch,Bharuch APMC,Green Chilli,Other,Local,2026-01-09 00:00:00,2000.0,3500.0,2500.0,87
+Gujarat,Bharuch,Bharuch APMC,Green Chilli,Other,Local,2026-01-07 00:00:00,2000.0,3500.0,3000.0,87
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) APMC,Green Chilli,Other,Local,2026-01-10 00:00:00,3500.0,5000.0,4200.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-06-03 00:00:00,3000,3000,3000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-06-08 00:00:00,3200,3200,3200.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-06-12 00:00:00,3000,3000,3000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-06-13 00:00:00,3000,3000,3000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-06-19 00:00:00,3000,4500,4000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-07-04 00:00:00,5000,5500,5000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-07-07 00:00:00,4000,5000,4500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-07-12 00:00:00,5000,5000,5000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-07-21 00:00:00,4500,5000,4500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-07-25 00:00:00,5000,6000,5000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-08-01 00:00:00,4500,4500,4500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-08-14 00:00:00,5000,6000,5000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-08-16 00:00:00,4000,6000,5000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-08-29 00:00:00,3000,3000,3000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-09-16 00:00:00,1500,2000,2000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-09-23 00:00:00,1500,3000,2000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-10-07 00:00:00,2000,3000,2500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-10-13 00:00:00,1000,2500,2000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-10-17 00:00:00,2500,4000,3000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-10-25 00:00:00,2500,3000,2500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-10-30 00:00:00,1250,2000,2000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-11-03 00:00:00,1500,2500,2000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-11-06 00:00:00,2000,2500,2500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-11-09 00:00:00,2000,2500,2000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-11-21 00:00:00,1000,1500,1250.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-11-29 00:00:00,1000,2000,1500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-12-07 00:00:00,1500,2000,2000.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2017-12-09 00:00:00,1000,2000,1500.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-02 00:00:00,1500,1540,1520.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-04 00:00:00,1000,1030,1020.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-10 00:00:00,1250,1270,1260.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-13 00:00:00,1650,1670,1660.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-14 00:00:00,1500,1540,1520.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-17 00:00:00,1500,1560,1540.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-26 00:00:00,1000,1030,1020.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-01-30 00:00:00,1500,1540,1520.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-02-01 00:00:00,1500,1540,1520.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-02-10 00:00:00,1250,1270,1260.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-02-11 00:00:00,1150,1170,1160.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-02-17 00:00:00,1500,1540,1520.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-02-22 00:00:00,2000,2030,2020.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-03-08 00:00:00,1650,1680,1660.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-03-12 00:00:00,2000,2040,2020.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-03-16 00:00:00,2000,2040,2030.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-03-21 00:00:00,2000,2040,2030.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-04-01 00:00:00,2200,2250,2230.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-04-08 00:00:00,3500,3540,3520.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-04-10 00:00:00,2750,2800,2760.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-04-22 00:00:00,2750,2800,2760.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-05-03 00:00:00,3500,3700,3600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-05-06 00:00:00,2500,2800,2600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-05-08 00:00:00,2500,2800,2600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-05-13 00:00:00,2000,2050,2020.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-06-14 00:00:00,5000,5050,5020.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-06-18 00:00:00,4500,4700,4600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-07-01 00:00:00,5500,6000,5600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-07-08 00:00:00,4500,4700,4600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-07-11 00:00:00,5000,5200,5100.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-07-13 00:00:00,5000,5400,5200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-07-15 00:00:00,6000,6500,6200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-08-01 00:00:00,6000,6500,6200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-08-02 00:00:00,5000,5300,5100.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-08-09 00:00:00,5000,6000,5500.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-08-11 00:00:00,6000,6500,6200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-08-29 00:00:00,2500,2700,2600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-09-04 00:00:00,3000,3400,3200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-09-05 00:00:00,2500,2700,2600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-09-14 00:00:00,2000,2500,2200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-09-25 00:00:00,3000,3300,3200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-10-03 00:00:00,2500,2800,2600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-10-07 00:00:00,2500,2800,2600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-10-11 00:00:00,2250,2500,2350.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-10-16 00:00:00,1750,1950,1850.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-10-23 00:00:00,2500,2800,2600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-10-24 00:00:00,3500,3700,3600.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-11-25 00:00:00,2000,2500,2200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-11-29 00:00:00,2000,2300,2200.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2017-12-21 00:00:00,1500,1700,1600.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-01-31 00:00:00,400,1200,750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-02-02 00:00:00,500,1200,700.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-02-03 00:00:00,300,1000,625.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-02-08 00:00:00,300,1100,700.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-02-13 00:00:00,350,1000,600.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-02-15 00:00:00,300,1000,650.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-02-23 00:00:00,200,1250,700.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-03-08 00:00:00,250,1100,650.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-03-22 00:00:00,350,2000,1100.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-04-03 00:00:00,600,1800,1200.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-04-07 00:00:00,700,2300,1500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-04-12 00:00:00,1000,2500,1850.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-04-18 00:00:00,400,2200,1500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-05-17 00:00:00,1400,3700,2500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-05-18 00:00:00,1000,4000,2750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-06-02 00:00:00,1700,3000,2500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-06-05 00:00:00,1500,3000,2500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-06-15 00:00:00,1700,3500,2600.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-06-19 00:00:00,1000,3500,2600.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-06-23 00:00:00,3500,4600,4100.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-06-28 00:00:00,2000,4500,3750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-06-29 00:00:00,1500,5000,3875.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-01 00:00:00,3000,5000,4000.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-04 00:00:00,4000,6000,5000.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-05 00:00:00,2000,5500,4000.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-06 00:00:00,2500,4500,3625.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-08 00:00:00,2000,5000,3750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-10 00:00:00,3000,5500,3800.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-13 00:00:00,1500,6000,4250.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-07-14 00:00:00,2000,5000,3250.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-08-02 00:00:00,2000,5500,4250.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-08-03 00:00:00,2000,6000,4500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-08-04 00:00:00,2000,6000,4750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-08-10 00:00:00,4000,7000,5750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-08-12 00:00:00,2500,6000,4875.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-08-22 00:00:00,1400,3500,2375.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-08-31 00:00:00,750,3000,1875.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-09-01 00:00:00,200,2000,1375.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-09-04 00:00:00,600,3000,1875.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-09-15 00:00:00,800,2500,1650.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-09-25 00:00:00,500,2000,1500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-10-13 00:00:00,750,2750,2125.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-11-07 00:00:00,750,2500,1850.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-11-20 00:00:00,350,1600,1200.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-11-21 00:00:00,700,1600,1250.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-11-29 00:00:00,1300,2200,1750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-04 00:00:00,800,1750,1350.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-05 00:00:00,1000,2000,1600.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-08 00:00:00,1000,2500,1850.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-13 00:00:00,500,1700,1350.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-19 00:00:00,750,3000,1750.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-23 00:00:00,1000,2000,1500.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-26 00:00:00,1000,2000,1600.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2017-12-27 00:00:00,1000,2000,1500.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-01-12 00:00:00,550,550,550.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-01-18 00:00:00,755,755,755.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-01-19 00:00:00,750,1000,875.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-02-02 00:00:00,800,800,800.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-02-03 00:00:00,900,900,900.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-07-20 00:00:00,4500,5250,5000.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-07-29 00:00:00,4000,6755,6500.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-08-04 00:00:00,1250,4800,3500.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-08-09 00:00:00,5250,6505,6000.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-08-26 00:00:00,3200,3355,3275.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-09-11 00:00:00,300,2555,1250.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-09-12 00:00:00,1400,2205,1900.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-09-13 00:00:00,600,2000,1105.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-09-19 00:00:00,350,1555,1000.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-10-05 00:00:00,1125,1500,1300.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-10-11 00:00:00,1500,2800,2250.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-10-26 00:00:00,500,1750,1125.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-11-27 00:00:00,2105,2105,2105.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-12-02 00:00:00,500,1300,900.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-12-05 00:00:00,500,800,600.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-12-20 00:00:00,500,625,560.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2017-12-27 00:00:00,900,1300,1100.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-01-19 00:00:00,700,1300,1000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-02-11 00:00:00,300,700,500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-02-13 00:00:00,500,1200,850.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-02-15 00:00:00,500,1000,750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-02-21 00:00:00,500,1000,750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-02-27 00:00:00,500,1300,900.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-02-28 00:00:00,500,1000,750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-03-01 00:00:00,500,1000,750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-03-04 00:00:00,500,1000,750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-03-14 00:00:00,1000,1700,1350.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-03-21 00:00:00,700,1500,1100.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-03-25 00:00:00,1000,1700,1350.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-04-12 00:00:00,1500,2000,1750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-04-24 00:00:00,1000,2200,1600.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-05-17 00:00:00,1250,2000,1625.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-05-18 00:00:00,1000,1700,1350.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-06-05 00:00:00,2500,4000,3250.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-06-06 00:00:00,4000,5000,4500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-06-27 00:00:00,4000,6500,5250.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-07-28 00:00:00,4000,6000,5000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-07-29 00:00:00,4000,6000,5000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-08-18 00:00:00,3500,5000,4250.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-08-22 00:00:00,2000,3500,2750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-08-23 00:00:00,3500,4500,4000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-08-25 00:00:00,3000,4000,3500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-09-02 00:00:00,2000,3000,2500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-09-21 00:00:00,1000,2000,1500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-09-26 00:00:00,1500,3000,2250.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-09-28 00:00:00,1500,2700,2100.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-10-10 00:00:00,1000,2000,1500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-10-14 00:00:00,1000,2300,1650.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-10-16 00:00:00,1000,2000,1500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-10-26 00:00:00,1500,2000,1750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-11-01 00:00:00,1750,2250,2000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-11-02 00:00:00,1750,2000,1875.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-11-06 00:00:00,1750,2250,2000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-11-16 00:00:00,1250,1750,1500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-11-21 00:00:00,1500,2000,1750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-11-25 00:00:00,1500,1800,1650.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-11-30 00:00:00,1500,2000,1750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-12-14 00:00:00,1250,1750,1500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-12-15 00:00:00,1250,1750,1500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-12-26 00:00:00,1500,1800,1650.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Other,FAQ,2017-12-27 00:00:00,1000,1500,1250.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2017-02-10 00:00:00,1800,2000,1900.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2017-07-12 00:00:00,3500,4500,4000.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-01-10 00:00:00,600,1200,900.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-01-12 00:00:00,900,1200,1050.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-01-15 00:00:00,1200,1700,1450.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-01-19 00:00:00,600,1200,900.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-01-25 00:00:00,1000,1200,1100.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-02-06 00:00:00,600,1200,900.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-02-13 00:00:00,800,1000,900.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-02-15 00:00:00,600,1000,800.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-02-19 00:00:00,600,1000,800.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-02-20 00:00:00,700,1000,850.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-02-24 00:00:00,500,1000,750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-02-27 00:00:00,500,1000,750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-01 00:00:00,600,1000,800.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-08 00:00:00,500,1000,750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-09 00:00:00,500,1200,850.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-10 00:00:00,800,1000,900.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-14 00:00:00,800,1200,1000.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-19 00:00:00,800,1800,1300.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-26 00:00:00,800,1800,1300.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-28 00:00:00,1000,2000,1500.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-03-29 00:00:00,1000,1600,1300.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-04-06 00:00:00,1200,1800,1500.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-04-09 00:00:00,1000,2500,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-04-10 00:00:00,1500,1800,1650.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-04-12 00:00:00,1500,2000,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-04-18 00:00:00,1000,1900,1450.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-04-19 00:00:00,1500,2100,1900.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-04-21 00:00:00,1500,2000,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-09-01 00:00:00,1500,2000,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-09-22 00:00:00,1500,2000,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-09-26 00:00:00,1500,2000,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-10-02 00:00:00,2000,3000,2500.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-10-08 00:00:00,2000,2800,2400.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-10-13 00:00:00,2000,2800,2400.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-10-16 00:00:00,2000,2500,2250.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-10-22 00:00:00,3000,3500,3250.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-10-23 00:00:00,3000,3200,3100.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-11-14 00:00:00,1300,1700,1500.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-11-15 00:00:00,1200,1500,1350.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-11-16 00:00:00,1000,1300,1150.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-11-23 00:00:00,1500,1600,1550.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-11-24 00:00:00,1200,1700,1450.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-11-28 00:00:00,1500,2100,1800.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-11-29 00:00:00,1500,2000,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-12-04 00:00:00,1800,2000,1900.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-12-08 00:00:00,1500,1800,1650.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-12-10 00:00:00,1500,1800,1650.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-12-14 00:00:00,1500,2000,1750.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-12-21 00:00:00,1500,1700,1600.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-12-24 00:00:00,1500,1800,1650.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2017-12-25 00:00:00,1500,2000,1750.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-01-03 00:00:00,500,1200,800.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-01-13 00:00:00,500,1500,1000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-01-17 00:00:00,2000,3000,2500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-01-19 00:00:00,300,1500,900.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-01-31 00:00:00,500,1600,1000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-02 00:00:00,500,1500,1000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-05 00:00:00,500,1600,1050.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-06 00:00:00,500,1200,850.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-08 00:00:00,300,1100,700.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-11 00:00:00,500,1200,900.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-14 00:00:00,500,2000,1250.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-16 00:00:00,500,1500,1000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-02-20 00:00:00,300,1000,600.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-03-05 00:00:00,500,1600,1050.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-03-11 00:00:00,300,1500,900.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-03-17 00:00:00,400,1200,800.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-03-22 00:00:00,500,1300,900.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-04-04 00:00:00,500,2500,1500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-04-10 00:00:00,500,1500,1000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-04-11 00:00:00,1000,2500,1500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-04-12 00:00:00,500,2000,1250.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-04-17 00:00:00,1000,3000,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-04-21 00:00:00,2000,3000,2500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-05-06 00:00:00,1000,4000,2500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-05-10 00:00:00,1200,3000,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-05-17 00:00:00,1500,2200,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-05-19 00:00:00,1000,2500,1750.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-05-20 00:00:00,1000,2000,1500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-05-29 00:00:00,1200,2200,1700.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-06-01 00:00:00,2000,4000,3000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-06-14 00:00:00,3500,6000,4750.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-06-16 00:00:00,1500,6000,4500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-06-19 00:00:00,3000,7000,5000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-06-23 00:00:00,6000,10000,8000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-07-06 00:00:00,3000,11000,7000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-07-13 00:00:00,4000,7000,5500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-07-21 00:00:00,3000,7000,5000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-07-22 00:00:00,700,6000,3000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-07-27 00:00:00,3500,6500,5000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-08-04 00:00:00,5000,8000,6500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-08-07 00:00:00,6000,8000,7000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-08-20 00:00:00,1500,4000,3000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-08-22 00:00:00,2000,4000,3000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-09-01 00:00:00,1500,3500,2500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-09-15 00:00:00,600,3300,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-09-18 00:00:00,700,3000,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-09-23 00:00:00,500,3000,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-09-29 00:00:00,500,3000,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-10-02 00:00:00,700,3500,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-10-11 00:00:00,1000,3000,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-10-15 00:00:00,1000,2900,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-10-25 00:00:00,500,3000,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-10-26 00:00:00,1000,2500,2000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-10-31 00:00:00,2500,3500,3000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-11-08 00:00:00,1000,2800,1900.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-11-12 00:00:00,1000,2500,1750.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-12-03 00:00:00,1000,2000,1500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-12-06 00:00:00,1000,2000,1500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-12-12 00:00:00,1000,2000,1500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-12-15 00:00:00,800,2100,1500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-12-19 00:00:00,1000,1500,1250.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2017-12-23 00:00:00,800,1800,1300.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-01-04 00:00:00,750,1300,1000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-01-10 00:00:00,1100,1600,1500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-01-17 00:00:00,1250,1800,1550.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-01-19 00:00:00,1250,1900,1500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-02-02 00:00:00,1200,2050,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-02-06 00:00:00,500,750,600.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-02-08 00:00:00,500,750,600.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-02-11 00:00:00,550,700,600.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-02-13 00:00:00,500,750,600.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-02-17 00:00:00,550,800,600.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-02-28 00:00:00,500,1000,750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-02 00:00:00,600,1050,900.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-04 00:00:00,500,1050,900.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-07 00:00:00,500,1100,750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-11 00:00:00,750,1250,1000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-14 00:00:00,800,1500,1250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-15 00:00:00,750,1500,1000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-16 00:00:00,800,1600,1000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-17 00:00:00,900,1550,1250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-18 00:00:00,1000,1500,1250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-20 00:00:00,1100,1550,1400.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-03-23 00:00:00,1100,1750,1500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-04-12 00:00:00,1250,2050,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-04-19 00:00:00,1250,1800,1550.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-04-25 00:00:00,1300,2000,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-04-27 00:00:00,1250,2050,1875.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-04-28 00:00:00,1200,2000,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-05-01 00:00:00,1500,2000,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-05-06 00:00:00,1700,2150,2000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-05-09 00:00:00,1800,2250,2050.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-05-24 00:00:00,1750,2500,2000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-05-26 00:00:00,1850,2600,2250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-06-06 00:00:00,1800,2600,2250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-06-07 00:00:00,4000,5000,4500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-06-15 00:00:00,4000,6000,5000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-07-18 00:00:00,4200,6250,5500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-07-19 00:00:00,4500,6000,5500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-08-01 00:00:00,4250,6500,6000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-08-03 00:00:00,3500,5000,4500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-08-29 00:00:00,2000,3500,3000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-08-31 00:00:00,2000,2750,2500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-06 00:00:00,2750,3750,3250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-14 00:00:00,2500,3250,3000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-18 00:00:00,1500,2500,2000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-21 00:00:00,1700,2700,2375.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-23 00:00:00,2050,2550,2250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-25 00:00:00,1500,2000,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-28 00:00:00,1500,3000,2500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-09-29 00:00:00,1550,3100,2250.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-10-24 00:00:00,1325,2375,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-10-30 00:00:00,1500,2500,2000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-11-02 00:00:00,1500,2250,2000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-11-06 00:00:00,1650,2100,2000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-11-10 00:00:00,1100,2050,1750.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-11-25 00:00:00,1050,1550,1300.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-11-29 00:00:00,850,1600,1300.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-11-30 00:00:00,1250,1750,1500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-12-05 00:00:00,1100,1800,1400.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-12-11 00:00:00,1575,2050,2000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-12-14 00:00:00,800,1250,1000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-12-16 00:00:00,1000,1700,1500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-12-21 00:00:00,800,1250,1050.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2017-12-22 00:00:00,1000,1500,1250.0,87
+Gujarat,Surat,Bardoli(Katod),Green Chilli,Other,FAQ,2017-01-11 00:00:00,1000,1100,1100.0,87
+Gujarat,Surat,Bardoli(Katod),Green Chilli,Other,FAQ,2017-01-20 00:00:00,800,1100,1000.0,87
+Gujarat,Surat,Bardoli(Katod),Green Chilli,Other,FAQ,2017-08-09 00:00:00,1000,1500,1275.0,87
+Gujarat,Surat,Bardoli(Katod),Green Chilli,Other,FAQ,2017-08-18 00:00:00,600,950,900.0,87
+Gujarat,Surat,Bardoli(Katod),Green Chilli,Other,FAQ,2017-09-08 00:00:00,500,700,580.0,87
+Gujarat,Surat,Bardoli(Katod),Green Chilli,Other,FAQ,2017-09-15 00:00:00,550,900,750.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-01-04 00:00:00,500,1500,1000.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-01-27 00:00:00,1050,2510,1780.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-01 00:00:00,550,1755,1152.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-03 00:00:00,555,2870,1712.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-06 00:00:00,1500,3255,2377.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-18 00:00:00,750,2430,1590.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-19 00:00:00,1000,1900,1450.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-20 00:00:00,1995,2350,2172.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-21 00:00:00,1520,2350,1935.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-02-26 00:00:00,1440,2310,1875.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-08 00:00:00,500,2000,1250.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-10 00:00:00,600,4065,2332.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-11 00:00:00,750,2600,1675.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-12 00:00:00,800,1755,1227.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-16 00:00:00,2000,2725,2362.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-24 00:00:00,1100,4500,2800.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-29 00:00:00,2650,4250,3450.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-03-30 00:00:00,2300,2300,2300.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-04-12 00:00:00,1670,3010,2340.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-04-17 00:00:00,1000,2250,1625.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-04-28 00:00:00,1940,3890,2915.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-05-02 00:00:00,3945,4055,4000.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-05-05 00:00:00,2000,2250,2125.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-05-10 00:00:00,3500,3500,3500.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-07-25 00:00:00,3500,4505,4002.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-08-14 00:00:00,2775,3100,2937.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-08-26 00:00:00,2665,3445,3055.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-09-10 00:00:00,2505,4000,3252.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-09-20 00:00:00,2500,2780,2640.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-10-02 00:00:00,3385,3890,3637.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-10-06 00:00:00,4005,4610,4307.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-10-11 00:00:00,1700,3955,2827.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-11-23 00:00:00,750,2040,1395.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-11-30 00:00:00,1250,1605,1427.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-12-07 00:00:00,2310,3455,2882.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-12-18 00:00:00,2220,2660,2440.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-12-23 00:00:00,2220,2825,2522.0,87
+Gujarat,Surat,Mandvi,Green Chilli,Other,FAQ,2017-12-29 00:00:00,2210,4135,3172.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-01-02 00:00:00,1255,2000,1627.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-01-03 00:00:00,700,1900,1300.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-01-06 00:00:00,1050,2755,1902.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-01-24 00:00:00,1355,3000,2177.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-01-25 00:00:00,500,2500,1500.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-01-29 00:00:00,1000,1790,1395.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-01-31 00:00:00,300,3870,2085.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-02-04 00:00:00,770,1665,1217.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-02-25 00:00:00,1105,2100,1602.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-03-23 00:00:00,750,1500,1125.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-03-24 00:00:00,1100,4500,2800.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-05-07 00:00:00,3075,3075,3075.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-05-20 00:00:00,3725,3725,3725.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-06-27 00:00:00,2500,4105,3302.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-07-31 00:00:00,4885,4885,4885.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-08-14 00:00:00,2775,3100,2937.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-08-17 00:00:00,2225,2225,2225.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-09-01 00:00:00,2255,3575,2915.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-09-10 00:00:00,2505,4000,3252.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-09-20 00:00:00,2500,2780,2640.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-09-27 00:00:00,1750,9110,5430.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-10-18 00:00:00,3000,4185,3592.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-11-26 00:00:00,1010,2055,1532.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-12-06 00:00:00,2310,3455,2882.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-12-17 00:00:00,1250,3055,2152.0,87
+Gujarat,Surat,S.Mandvi,Green Chilli,Other,FAQ,2017-12-20 00:00:00,1200,2755,1977.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-03-02 00:00:00,1000,1800,1400.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-03-04 00:00:00,1000,1800,1400.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-03-08 00:00:00,1000,2000,1500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-03-09 00:00:00,1500,2000,1750.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-03-12 00:00:00,1000,2000,1500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-03-14 00:00:00,3000,4000,3500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-03-31 00:00:00,1500,2500,2000.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-02 00:00:00,1500,3000,2250.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-05 00:00:00,2000,3000,2500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-13 00:00:00,2000,3000,2500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-14 00:00:00,1500,3000,2250.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-16 00:00:00,2000,3000,2500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-17 00:00:00,2000,3000,2500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-18 00:00:00,2500,3750,3125.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-04-28 00:00:00,3000,3500,3250.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-05-01 00:00:00,2000,3000,2500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-05-02 00:00:00,2500,3000,2750.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-05-11 00:00:00,3500,4500,4000.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-05-25 00:00:00,2000,2750,2375.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-05-28 00:00:00,2500,3500,3000.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-03 00:00:00,5000,6000,5500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-04 00:00:00,4000,5000,4500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-06 00:00:00,4500,5500,5000.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-08 00:00:00,4500,5500,5000.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-10 00:00:00,3000,4000,3500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-21 00:00:00,3000,5000,4000.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-23 00:00:00,3000,4000,3500.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-26 00:00:00,3500,5000,4250.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-27 00:00:00,4000,6000,5000.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2017-06-30 00:00:00,4000,5500,4750.0,87

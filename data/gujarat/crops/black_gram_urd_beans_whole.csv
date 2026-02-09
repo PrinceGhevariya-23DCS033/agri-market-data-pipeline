@@ -31108,84 +31108,854 @@ Gujarat,Sabarkantha,Modasa APMC,Black Gram(Urd Beans)(Whole),Rajkot T-9,Non-FAQ,
 Gujarat,Sabarkantha,Modasa APMC,Black Gram(Urd Beans)(Whole),Rajkot T-9,Non-FAQ,2026-02-02 00:00:00,5750.0,8230.0,8230.0,8
 Gujarat,Rajkot,Dhoraji APMC,Black Gram(Urd Beans)(Whole),Rajkot T-9,Non-FAQ,2026-02-02 00:00:00,5655.0,7505.0,7205.0,8
 Gujarat,Rajkot,Dhoraji APMC,Black Gram(Urd Beans)(Whole),Rajkot T-9,Non-FAQ,2026-02-07 00:00:00,4255.0,7755.0,7505.0,8
-Gujarat,Jamnagar,Jam Jodhpur APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-01 00:00:00,4250.0,6850.0,4750.0,8
-Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-01 00:00:00,5000.0,6625.0,6250.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-01 00:00:00,4000.0,7255.0,5350.0,8
-Gujarat,Dahod,Dahod APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-03 00:00:00,5000.0,7000.0,6000.0,8
-Gujarat,Amreli,Dhari APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-03 00:00:00,5055.0,5100.0,5100.0,8
-Gujarat,Patan,Sami APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-05 00:00:00,5000.0,5500.0,5250.0,8
-Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-05 00:00:00,5000.0,7130.0,6250.0,8
-Gujarat,Dahod,Dahod APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-06 00:00:00,5000.0,7000.0,6250.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-06 00:00:00,5500.0,7970.0,6500.0,8
-Gujarat,Rajkot,Jasdan APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-07 00:00:00,4000.0,7000.0,6000.0,8
-Gujarat,Jamnagar,Jam Jodhpur APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-07 00:00:00,5000.0,7450.0,5750.0,8
-Gujarat,Porbandar,Porbandar APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-07 00:00:00,6650.0,6650.0,6650.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-08 00:00:00,5500.0,7510.0,6350.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-09 00:00:00,5500.0,7820.0,6650.0,8
-Gujarat,Rajkot,Upleta APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-08 00:00:00,4950.0,6300.0,6000.0,8
-Gujarat,Jamnagar,Jam Jodhpur APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-09 00:00:00,4500.0,6825.0,5350.0,8
-Gujarat,Rajkot,Rajkot APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-09 00:00:00,4500.0,7750.0,6350.0,8
-Gujarat,Dahod,Dahod APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-13 00:00:00,5000.0,7000.0,6100.0,8
-Gujarat,Patan,Sami APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-09 00:00:00,4500.0,5250.0,4750.0,8
-Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-12 00:00:00,5250.0,6755.0,6250.0,8
-Gujarat,Porbandar,Porbandar APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-12 00:00:00,5400.0,6950.0,6175.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-15 00:00:00,5000.0,7565.0,6250.0,8
-Gujarat,Rajkot,Gondal APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-15 00:00:00,5055.0,7405.0,6155.0,8
-Gujarat,Rajkot,Rajkot APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-15 00:00:00,4300.0,7600.0,6400.0,8
-Gujarat,Porbandar,Porbandar APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-16 00:00:00,4750.0,5850.0,5300.0,8
-Gujarat,Amreli,Dhari APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-16 00:00:00,6075.0,6075.0,6075.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-16 00:00:00,5000.0,7690.0,6250.0,8
-Gujarat,Dahod,Dahod APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-17 00:00:00,5000.0,7000.0,6000.0,8
-Gujarat,Amreli,Dhari APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-17 00:00:00,5400.0,5400.0,5400.0,8
-Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-17 00:00:00,5250.0,7105.0,6355.0,8
-Gujarat,Rajkot,Jasdan APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-19 00:00:00,5000.0,6250.0,5750.0,8
-Gujarat,Rajkot,Rajkot APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-23 00:00:00,5250.0,8000.0,6900.0,8
-Gujarat,Dahod,Dahod APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-22 00:00:00,5000.0,7000.0,6150.0,8
-Gujarat,Jamnagar,Jam Jodhpur APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-22 00:00:00,5000.0,7300.0,5950.0,8
-Gujarat,Amreli,Dhari APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-23 00:00:00,6650.0,6650.0,6650.0,8
-Gujarat,Amreli,Dhari APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-24 00:00:00,6755.0,6755.0,6755.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-24 00:00:00,5000.0,7875.0,6500.0,8
-Gujarat,Dahod,Dahod APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-01-27 00:00:00,5000.0,7000.0,6200.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-01-28 00:00:00,5000.0,8000.0,6500.0,8
-Gujarat,Gandhinagar,Mansa APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Local,2026-01-30 00:00:00,6000.0,6000.0,6000.0,8
-Gujarat,Rajkot,Jasdan APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-02-05 00:00:00,5000.0,7000.0,6650.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-02-02 00:00:00,5500.0,8840.0,7000.0,8
-Gujarat,Junagarh,Junagadh APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-02-03 00:00:00,5500.0,8645.0,7000.0,8
-Gujarat,Amreli,Dhari APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),Non-FAQ,2026-02-04 00:00:00,5500.0,5500.0,5500.0,8
-Gujarat,Rajkot,Gondal APMC,Black Gram(Urd Beans)(Whole),Black Gram (Whole),FAQ,2026-02-03 00:00:00,5255.0,8355.0,7255.0,8
-Gujarat,Patan,Siddhpur APMC,Black Gram(Urd Beans)(Whole),Desi,FAQ,2026-01-06 00:00:00,3500.0,6660.0,5080.0,8
-Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Black Gram(Urd Beans)(Whole),Desi,FAQ,2026-01-13 00:00:00,4425.0,4425.0,4425.0,8
-Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Black Gram(Urd Beans)(Whole),Desi,FAQ,2026-01-07 00:00:00,4850.0,6000.0,5425.0,8
-Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Black Gram(Urd Beans)(Whole),Desi,FAQ,2026-01-15 00:00:00,4880.0,5350.0,5115.0,8
-Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Black Gram(Urd Beans)(Whole),Desi,FAQ,2026-01-27 00:00:00,4000.0,8255.0,6128.0,8
-Gujarat,Patan,Siddhpur APMC,Black Gram(Urd Beans)(Whole),Desi,FAQ,2026-01-28 00:00:00,5200.0,5200.0,5200.0,8
-Gujarat,Amreli,Rajula APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-01 00:00:00,4035.0,4855.0,4445.0,8
-Gujarat,Amreli,Rajula APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-03 00:00:00,3890.0,4000.0,3945.0,8
-Gujarat,Amreli,Rajula APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-05 00:00:00,4040.0,4505.0,4273.0,8
-Gujarat,Sabarkantha,Himatnagar APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-08 00:00:00,6025.0,7005.0,6700.0,8
-Gujarat,Amreli,Rajula APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-10 00:00:00,8500.0,8500.0,8500.0,8
-Gujarat,Sabarkantha,Himatnagar APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-17 00:00:00,6000.0,6500.0,6300.0,8
-Gujarat,Sabarkantha,Himatnagar APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-21 00:00:00,7000.0,7500.0,7400.0,8
-Gujarat,Sabarkantha,Himatnagar APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-19 00:00:00,5500.0,7565.0,7000.0,8
-Gujarat,Rajkot,Upleta APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-24 00:00:00,4850.0,6350.0,6000.0,8
-Gujarat,Bhavnagar,Taleja APMC,Black Gram(Urd Beans)(Whole),Local,FAQ,2026-01-23 00:00:00,6505.0,6505.0,6505.0,8
-Gujarat,Bhavnagar,Taleja APMC,Black Gram(Urd Beans)(Whole),Local,FAQ,2026-01-24 00:00:00,6655.0,6655.0,6655.0,8
-Gujarat,Amreli,Rajula APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-27 00:00:00,5000.0,6500.0,5750.0,8
-Gujarat,Rajkot,Upleta APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-28 00:00:00,4500.0,6625.0,6000.0,8
-Gujarat,Sabarkantha,Himatnagar APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-30 00:00:00,6250.0,6850.0,6650.0,8
-Gujarat,Rajkot,Upleta APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-01-30 00:00:00,5000.0,7100.0,6200.0,8
-Gujarat,Amreli,Rajula APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-02-03 00:00:00,5200.0,5200.0,5200.0,8
-Gujarat,Amreli,Rajula APMC,Black Gram(Urd Beans)(Whole),Local,Local,2026-02-06 00:00:00,5625.0,5625.0,5625.0,8
-Gujarat,Banaskanth,Deesa(Bhildi) APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-01 00:00:00,4805.0,6595.0,5750.0,8
-Gujarat,Patan,Harij APMC,Black Gram(Urd Beans)(Whole),Other,Local,2026-01-01 00:00:00,4810.0,6650.0,5650.0,8
-Gujarat,Banaskanth,Deesa(Bhildi) APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-02 00:00:00,6110.0,6255.0,6200.0,8
-Gujarat,Surat,Vyra APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-02 00:00:00,6000.0,6500.0,6250.0,8
-Gujarat,Morbi,Morbi APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-03 00:00:00,4580.0,6380.0,5480.0,8
-Gujarat,Gir Somnath,Veraval APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-05 00:00:00,5500.0,7600.0,7500.0,8
-Gujarat,Mehsana,Visnagar APMC,Black Gram(Urd Beans)(Whole),Other,Local,2026-01-05 00:00:00,3755.0,6810.0,5282.0,8
-Gujarat,Banaskanth,Deesa(Bhildi) APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-06 00:00:00,5860.0,6755.0,6250.0,8
-Gujarat,Sabarkantha,Bhiloda APMC,Black Gram(Urd Beans)(Whole),Other,Non-FAQ,2026-01-06 00:00:00,5750.0,6400.0,6075.0,8
-Gujarat,Patan,Radhanpur APMC,Black Gram(Urd Beans)(Whole),Other,Local,2026-01-08 00:00:00,4500.0,6125.0,5750.0,8
-Gujarat,Surat,Vyra APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-07 00:00:00,5000.0,6750.0,5875.0,8
-Gujarat,Patan,Patan APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-08 00:00:00,4500.0,7660.0,7600.0,8
-Gujarat,Patan,Patan APMC,Black Gram(Urd Beans)(Whole),Other,FAQ,2026-01-10 00:00:00,4500.0,7350.0,7300.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-21 00:00:00,5000.0,5635.0,5318.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-03 00:00:00,4500.0,5045.0,4773.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-08 00:00:00,4500.0,5330.0,4915.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-12 00:00:00,4500.0,5450.0,4975.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-24 00:00:00,5000.0,5335.0,5168.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-01 00:00:00,4500.0,5030.0,4765.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-02 00:00:00,4500.0,4995.0,4748.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-14 00:00:00,4500.0,5055.0,4778.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-28 00:00:00,3500.0,4365.0,3933.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-09 00:00:00,2500.0,3500.0,3000.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-14 00:00:00,2500.0,3280.0,2890.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-23 00:00:00,3000.0,4590.0,3795.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-05 00:00:00,3000.0,4150.0,3575.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-06 00:00:00,3250.0,4140.0,3695.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-04 00:00:00,3000.0,3870.0,3435.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-30 00:00:00,3250.0,3855.0,3553.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-02 00:00:00,3000.0,6460.0,4350.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-12 00:00:00,3500.0,5625.0,4500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-24 00:00:00,3000.0,5825.0,4500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-03 00:00:00,2500.0,5415.0,4500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-06 00:00:00,2250.0,5650.0,3750.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-07 00:00:00,2750.0,5500.0,4250.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-09 00:00:00,2250.0,5500.0,3750.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-17 00:00:00,3550.0,5250.0,4375.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-01 00:00:00,2000.0,5200.0,3500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-02 00:00:00,2000.0,4465.0,3250.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-06 00:00:00,3000.0,5450.0,4250.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-09 00:00:00,3500.0,5470.0,4900.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-17 00:00:00,2000.0,5955.0,3750.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-24 00:00:00,4000.0,6255.0,5250.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-04 00:00:00,2500.0,5975.0,5000.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-06 00:00:00,3000.0,5600.0,4250.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-08 00:00:00,3000.0,6290.0,4250.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-17 00:00:00,3675.0,6140.0,4750.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-21 00:00:00,3000.0,5810.0,4625.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-15 00:00:00,3000.0,6050.0,4000.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-26 00:00:00,3500.0,6050.0,5500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-01 00:00:00,3500.0,5245.0,4550.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-12 00:00:00,3000.0,5505.0,4500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-14 00:00:00,2500.0,5705.0,5200.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-27 00:00:00,2500.0,5270.0,4000.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-18 00:00:00,2000.0,4820.0,4000.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-08-25 00:00:00,3500.0,5740.0,4500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-05 00:00:00,2125.0,4710.0,3750.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-19 00:00:00,2250.0,4695.0,3750.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-03 00:00:00,2625.0,4100.0,3750.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-06 00:00:00,3050.0,4200.0,3625.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-13 00:00:00,2250.0,4040.0,3250.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-14 00:00:00,2500.0,4145.0,3500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-23 00:00:00,2500.0,3580.0,3125.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-13 00:00:00,3000.0,4190.0,3900.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-15 00:00:00,2900.0,4020.0,3650.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-19 00:00:00,2000.0,4160.0,3500.0,8
+Gujarat,Junagarh,Junagadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-30 00:00:00,3050.0,3960.0,3500.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-04 00:00:00,4350.0,5710.0,5030.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-09 00:00:00,4385.0,5505.0,4945.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-12 00:00:00,4750.0,5500.0,5125.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-31 00:00:00,3500.0,5250.0,4375.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-01 00:00:00,3565.0,4995.0,4280.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-06 00:00:00,3500.0,4750.0,4125.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-11 00:00:00,3900.0,4500.0,4200.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-20 00:00:00,3250.0,4000.0,3625.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-21 00:00:00,3260.0,3980.0,3620.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-23 00:00:00,3400.0,4250.0,3825.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-01 00:00:00,3675.0,4215.0,3945.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-02 00:00:00,3250.0,3750.0,3500.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-11 00:00:00,3000.0,4720.0,3860.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-18 00:00:00,4500.0,5000.0,4750.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-03 00:00:00,3500.0,5200.0,4350.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-07 00:00:00,3815.0,5175.0,4495.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-19 00:00:00,3750.0,5000.0,4375.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-21 00:00:00,3160.0,4580.0,3870.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-24 00:00:00,3265.0,4525.0,3895.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-01 00:00:00,2500.0,3850.0,3175.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-12 00:00:00,2950.0,5350.0,4150.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-19 00:00:00,4000.0,6000.0,5000.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-20 00:00:00,4165.0,6055.0,5110.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-22 00:00:00,3700.0,5950.0,4825.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-24 00:00:00,3950.0,5880.0,4915.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-25 00:00:00,4065.0,6075.0,5070.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-30 00:00:00,4850.0,5400.0,5125.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-03 00:00:00,4770.0,5290.0,5030.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-28 00:00:00,5050.0,5610.0,5330.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-01 00:00:00,3250.0,4400.0,3825.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-11 00:00:00,3715.0,5005.0,4360.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-30 00:00:00,3440.0,4880.0,4160.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-01 00:00:00,3400.0,5000.0,4200.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-12 00:00:00,2715.0,3675.0,3195.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-14 00:00:00,3200.0,4300.0,3750.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-29 00:00:00,3000.0,3880.0,3400.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-13 00:00:00,3285.0,3915.0,3600.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-01 00:00:00,3110.0,3680.0,3395.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-08 00:00:00,3375.0,3715.0,3545.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-09 00:00:00,3420.0,3710.0,3565.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-11 00:00:00,3000.0,3570.0,3285.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-25 00:00:00,3385.0,3775.0,3580.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-04 00:00:00,3500.0,4000.0,3750.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-06 00:00:00,3610.0,3970.0,3790.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-16 00:00:00,3310.0,3770.0,3540.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-18 00:00:00,3200.0,3650.0,3425.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-19 00:00:00,3350.0,3750.0,3550.0,8
+Gujarat,Junagarh,Visavadar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-27 00:00:00,3450.0,3820.0,3635.0,8
+Gujarat,Kheda,Kapadvanj,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-05 00:00:00,2875.0,2950.0,2912.0,8
+Gujarat,Kheda,Kapadvanj,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-19 00:00:00,2750.0,2875.0,2812.0,8
+Gujarat,Kheda,Kapadvanj,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-23 00:00:00,2800.0,2950.0,2875.0,8
+Gujarat,Kheda,Kapadvanj,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-27 00:00:00,2800.0,2975.0,2887.0,8
+Gujarat,Kheda,Kapadvanj,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-02 00:00:00,2850.0,2975.0,2912.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-09 00:00:00,5000.0,5560.0,5280.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-20 00:00:00,5000.0,5755.0,5377.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-23 00:00:00,5025.0,5620.0,5322.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-02 00:00:00,4500.0,5320.0,4910.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-04 00:00:00,5000.0,5195.0,5097.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-06 00:00:00,5000.0,5195.0,5097.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-16 00:00:00,4750.0,5140.0,4945.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-20 00:00:00,4500.0,5075.0,4787.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-22 00:00:00,4550.0,4820.0,4685.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-01 00:00:00,4750.0,4900.0,4825.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-04 00:00:00,4750.0,5230.0,4990.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-06 00:00:00,4700.0,5270.0,4985.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-08 00:00:00,5000.0,5150.0,5075.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-11 00:00:00,5225.0,5450.0,5337.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-18 00:00:00,5150.0,5270.0,5210.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-20 00:00:00,5250.0,5335.0,5292.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-22 00:00:00,5150.0,5350.0,5250.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-23 00:00:00,5000.0,5400.0,5200.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-08 00:00:00,4900.0,5250.0,5075.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-17 00:00:00,5000.0,5100.0,5050.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-24 00:00:00,4650.0,5000.0,4825.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-26 00:00:00,4650.0,4835.0,4742.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-19 00:00:00,3600.0,4000.0,3800.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-13 00:00:00,3750.0,3975.0,3862.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-25 00:00:00,3750.0,4265.0,4007.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-27 00:00:00,3950.0,4345.0,4147.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-08 00:00:00,3775.0,4080.0,3927.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-17 00:00:00,3850.0,4085.0,3967.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-30 00:00:00,4100.0,4310.0,4205.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-04 00:00:00,4350.0,4520.0,4435.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-06 00:00:00,4275.0,4585.0,4430.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-07 00:00:00,4125.0,4500.0,4312.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-09 00:00:00,4000.0,4495.0,4247.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-23 00:00:00,4225.0,4440.0,4332.0,8
+Gujarat,Mehsana,Becharaji,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-29 00:00:00,4150.0,4405.0,4277.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-01-06 00:00:00,5000.0,5975.0,5500.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-01-12 00:00:00,4600.0,5545.0,5200.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-03 00:00:00,4500.0,5250.0,5000.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-04 00:00:00,4500.0,5040.0,4900.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-10 00:00:00,4350.0,5000.0,4650.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-16 00:00:00,4250.0,5095.0,4800.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-25 00:00:00,3750.0,4685.0,4300.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-26 00:00:00,4000.0,4855.0,4600.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-03-04 00:00:00,4250.0,5205.0,4750.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-03-08 00:00:00,4250.0,5410.0,4800.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-03-14 00:00:00,4630.0,5270.0,5150.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-03-17 00:00:00,4500.0,5375.0,5125.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-04-04 00:00:00,4500.0,5200.0,5000.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-11-30 00:00:00,3500.0,4100.0,3850.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-12-22 00:00:00,4000.0,4360.0,4200.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-12-26 00:00:00,3205.0,4430.0,4150.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-12-27 00:00:00,4100.0,4500.0,4300.0,8
+Gujarat,Mehsana,Kadi,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-12-28 00:00:00,3125.0,4405.0,4100.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-02 00:00:00,4500.0,6340.0,5420.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-03 00:00:00,4500.0,6500.0,5500.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-16 00:00:00,4500.0,6375.0,5437.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-18 00:00:00,4500.0,5675.0,5087.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-21 00:00:00,4750.0,6000.0,5375.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-27 00:00:00,4250.0,6350.0,5300.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-14 00:00:00,3750.0,5400.0,4575.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-15 00:00:00,4000.0,5455.0,4727.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-18 00:00:00,4150.0,5255.0,4702.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-20 00:00:00,3750.0,5325.0,4537.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-21 00:00:00,4000.0,5405.0,4702.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-04 00:00:00,3750.0,5250.0,4500.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-07 00:00:00,2500.0,5255.0,3877.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-16 00:00:00,3555.0,5250.0,4402.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-22 00:00:00,4000.0,5805.0,4902.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-08 00:00:00,4000.0,4500.0,4250.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-10 00:00:00,4125.0,4625.0,4375.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-11 00:00:00,4500.0,4555.0,4527.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-13 00:00:00,4500.0,4745.0,4622.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-15 00:00:00,4000.0,4275.0,4137.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-16 00:00:00,4000.0,4000.0,4000.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-26 00:00:00,4255.0,4380.0,4317.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-29 00:00:00,4245.0,4245.0,4245.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-01 00:00:00,4000.0,4500.0,4250.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-24 00:00:00,2255.0,2255.0,2255.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-14 00:00:00,3505.0,3505.0,3505.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-20 00:00:00,4170.0,4170.0,4170.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-27 00:00:00,2500.0,4925.0,3712.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-04 00:00:00,3750.0,4305.0,4030.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-07 00:00:00,2000.0,4505.0,3252.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-13 00:00:00,2500.0,4155.0,3327.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-02 00:00:00,2750.0,4175.0,3462.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-20 00:00:00,3000.0,4045.0,3522.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-29 00:00:00,3000.0,4320.0,3660.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-30 00:00:00,3000.0,4405.0,3702.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-02 00:00:00,3000.0,4395.0,3697.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-04 00:00:00,3000.0,4620.0,3810.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-05 00:00:00,3000.0,4555.0,3777.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-18 00:00:00,3675.0,4480.0,4077.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-19 00:00:00,2600.0,4500.0,3550.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-20 00:00:00,2500.0,4450.0,3475.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-23 00:00:00,3000.0,4600.0,3800.0,8
+Gujarat,Mehsana,Visnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-29 00:00:00,2750.0,4375.0,3562.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-04 00:00:00,5125.0,6000.0,5800.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-10 00:00:00,4750.0,5690.0,5250.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-12 00:00:00,4750.0,5500.0,5000.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-17 00:00:00,3500.0,5185.0,4900.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-19 00:00:00,4750.0,5580.0,5250.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-20 00:00:00,5000.0,5970.0,5400.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-24 00:00:00,4505.0,5500.0,5200.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-27 00:00:00,4605.0,5705.0,5200.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-28 00:00:00,4550.0,5480.0,5000.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-16 00:00:00,4250.0,5220.0,4775.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-21 00:00:00,4000.0,4860.0,4500.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-22 00:00:00,4250.0,4990.0,4675.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-02 00:00:00,4000.0,4700.0,4425.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-09 00:00:00,4750.0,5180.0,5000.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-22 00:00:00,5250.0,5805.0,5500.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-23 00:00:00,5000.0,5780.0,5250.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-06 00:00:00,5300.0,5700.0,5450.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-08 00:00:00,5000.0,5530.0,5200.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-09 00:00:00,5000.0,5400.0,5250.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-14 00:00:00,4500.0,5630.0,5250.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-07 00:00:00,4500.0,5130.0,4875.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-19 00:00:00,4500.0,5500.0,5000.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-15 00:00:00,3000.0,3920.0,3625.0,8
+Gujarat,Morbi,Halvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-01 00:00:00,3750.0,4350.0,4075.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-09 00:00:00,4500.0,5725.0,5112.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-11 00:00:00,4000.0,5575.0,4787.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-17 00:00:00,4500.0,5500.0,5000.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-21 00:00:00,5255.0,5755.0,5505.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-04 00:00:00,4900.0,5825.0,5362.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-21 00:00:00,3330.0,5080.0,4205.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-23 00:00:00,4515.0,5010.0,4762.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-08 00:00:00,5060.0,5330.0,5195.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-11 00:00:00,5175.0,5355.0,5265.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-16 00:00:00,4000.0,6060.0,5030.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-18 00:00:00,5175.0,6190.0,5682.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-13 00:00:00,4500.0,5815.0,5157.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-18 00:00:00,4000.0,5775.0,4887.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-19 00:00:00,4750.0,5625.0,5187.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-21 00:00:00,4960.0,5660.0,5310.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-24 00:00:00,3275.0,5525.0,4400.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-26 00:00:00,3825.0,5260.0,4542.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-01 00:00:00,3000.0,5500.0,4250.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-11 00:00:00,4280.0,4885.0,4582.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-20 00:00:00,4625.0,5700.0,5162.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-22 00:00:00,5000.0,5500.0,5250.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-01 00:00:00,4575.0,4870.0,4722.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-06 00:00:00,4240.0,5805.0,5022.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-12 00:00:00,3870.0,3870.0,3870.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-04 00:00:00,2750.0,4000.0,3375.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-06 00:00:00,2800.0,3900.0,3350.0,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-23 00:00:00,3500.0,3935.0,3717.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-29 00:00:00,3000.0,4255.0,3627.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-08 00:00:00,3505.0,4450.0,3977.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-13 00:00:00,3505.0,4350.0,3927.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-23 00:00:00,4000.0,4755.0,4377.5,8
+Gujarat,Morbi,Morbi,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-29 00:00:00,3375.0,4500.0,3937.5,8
+Gujarat,Panchmahals,Gogamba,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-03 00:00:00,4575.0,4650.0,4600.0,8
+Gujarat,Panchmahals,Gogamba,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-06 00:00:00,4500.0,4600.0,4575.0,8
+Gujarat,Panchmahals,Gogamba,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-10 00:00:00,4550.0,4600.0,4575.0,8
+Gujarat,Panchmahals,Gogamba,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-13 00:00:00,4550.0,4600.0,4575.0,8
+Gujarat,Panchmahals,Gogamba,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-28 00:00:00,5300.0,5500.0,5400.0,8
+Gujarat,Panchmahals,Gogamba,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-17 00:00:00,5000.0,5500.0,5400.0,8
+Gujarat,Panchmahals,Gogamba,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-17 00:00:00,4010.0,5450.0,5400.0,8
+Gujarat,Panchmahals,Gogamba(Similiya),Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-03 00:00:00,4500.0,4600.0,4575.0,8
+Gujarat,Panchmahals,Gogamba(Similiya),Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-04 00:00:00,4500.0,4600.0,4575.0,8
+Gujarat,Panchmahals,Gogamba(Similiya),Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-17 00:00:00,4550.0,4600.0,4575.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-07 00:00:00,4750.0,5805.0,5500.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-19 00:00:00,4850.0,6005.0,5800.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-20 00:00:00,4900.0,6000.0,5450.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-02 00:00:00,4500.0,5175.0,5000.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-03 00:00:00,4500.0,5500.0,5200.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-04 00:00:00,4255.0,5350.0,5000.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-09 00:00:00,4100.0,5200.0,4900.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-20 00:00:00,4250.0,5000.0,4800.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-27 00:00:00,4250.0,4900.0,4800.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-02 00:00:00,4500.0,5000.0,4800.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-03 00:00:00,4250.0,5175.0,5000.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-04 00:00:00,4735.0,5145.0,5000.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-10 00:00:00,4750.0,5655.0,5300.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-12 00:00:00,4500.0,5255.0,5000.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-13 00:00:00,4500.0,5575.0,5200.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-27 00:00:00,4500.0,5625.0,5300.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-29 00:00:00,4000.0,5210.0,5000.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-01 00:00:00,4500.0,5000.0,4900.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-02 00:00:00,3500.0,4850.0,4580.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-04 00:00:00,4500.0,5135.0,5000.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-05 00:00:00,4500.0,4850.0,4750.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-17 00:00:00,4180.0,5155.0,4900.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-22 00:00:00,4250.0,5000.0,4600.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-31 00:00:00,3500.0,4650.0,4590.0,8
+Gujarat,Patan,Harij,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-01 00:00:00,4000.0,4875.0,4600.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-04 00:00:00,5200.0,6400.0,5800.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-05 00:00:00,4625.0,6375.0,5500.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-07 00:00:00,4305.0,6080.0,5200.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-03 00:00:00,4000.0,5445.0,4725.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-15 00:00:00,4000.0,5345.0,4675.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-23 00:00:00,4250.0,5055.0,4655.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-09 00:00:00,4500.0,5310.0,4900.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-14 00:00:00,4800.0,5405.0,5100.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-15 00:00:00,4890.0,5645.0,5270.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-18 00:00:00,4000.0,5450.0,4725.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-20 00:00:00,4000.0,5290.0,4650.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-21 00:00:00,4660.0,5555.0,5110.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-23 00:00:00,4850.0,5575.0,5225.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-08 00:00:00,5000.0,5500.0,5250.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-14 00:00:00,4335.0,5455.0,4900.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-29 00:00:00,4500.0,5000.0,4750.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-03 00:00:00,4250.0,5000.0,4625.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-10 00:00:00,4000.0,4880.0,4450.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-13 00:00:00,4250.0,5055.0,4655.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-24 00:00:00,4000.0,4500.0,4250.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-27 00:00:00,3000.0,4890.0,3945.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-29 00:00:00,3500.0,4760.0,4130.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-30 00:00:00,3250.0,4250.0,3750.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-08 00:00:00,3000.0,4205.0,3602.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-19 00:00:00,4025.0,4500.0,4262.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-29 00:00:00,4055.0,4625.0,4340.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-19 00:00:00,3000.0,4000.0,3500.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-03 00:00:00,2900.0,3350.0,3125.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-05 00:00:00,3000.0,3400.0,3205.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-11 00:00:00,3000.0,3300.0,3150.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-19 00:00:00,3075.0,3075.0,3075.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-28 00:00:00,3355.0,3955.0,3655.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-14 00:00:00,2500.0,4450.0,3475.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-30 00:00:00,3400.0,4725.0,4065.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-03 00:00:00,3250.0,4300.0,3775.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-08 00:00:00,3250.0,4370.0,3810.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-23 00:00:00,3555.0,4335.0,3950.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-27 00:00:00,3500.0,4440.0,3970.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-28 00:00:00,3550.0,4450.0,4000.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-06 00:00:00,3725.0,4505.0,4115.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-11 00:00:00,3455.0,4475.0,3965.0,8
+Gujarat,Patan,Patan,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-21 00:00:00,3650.0,4965.0,4310.0,8
+Gujarat,Patan,Radhanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-14 00:00:00,5000.0,5440.0,5250.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-06 00:00:00,4755.0,6040.0,5397.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-07 00:00:00,5000.0,6125.0,5562.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-09 00:00:00,4900.0,5955.0,5427.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-12 00:00:00,4750.0,5550.0,5150.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-30 00:00:00,4775.0,5330.0,5052.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-06 00:00:00,4500.0,5185.0,4842.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-14 00:00:00,4750.0,5125.0,4937.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-18 00:00:00,4940.0,4940.0,4940.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-19 00:00:00,3755.0,5000.0,4377.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-10 00:00:00,4660.0,4660.0,4660.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-27 00:00:00,3625.0,4555.0,4090.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-06 00:00:00,3230.0,4235.0,3732.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-09 00:00:00,2500.0,4265.0,3382.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-10 00:00:00,2650.0,4230.0,3440.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-20 00:00:00,3350.0,4235.0,3792.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-23 00:00:00,3320.0,4395.0,3857.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-27 00:00:00,3420.0,4500.0,3960.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-28 00:00:00,3250.0,4355.0,3802.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-07 00:00:00,3500.0,4505.0,4002.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-08 00:00:00,3500.0,4480.0,3990.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-18 00:00:00,3750.0,4605.0,4177.0,8
+Gujarat,Patan,Siddhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-28 00:00:00,3310.0,4705.0,4007.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-21 00:00:00,5450.0,5700.0,5575.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-25 00:00:00,4300.0,5700.0,5000.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-11 00:00:00,0.0,5125.0,5125.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-23 00:00:00,4775.0,4925.0,4850.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-28 00:00:00,0.0,4100.0,4100.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-11 00:00:00,4075.0,5125.0,4600.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-06 00:00:00,4350.0,5350.0,4700.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-11 00:00:00,4250.0,5250.0,4750.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-14 00:00:00,0.0,3900.0,3900.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-17 00:00:00,0.0,4175.0,4175.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-18 00:00:00,3500.0,4500.0,4000.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-25 00:00:00,3000.0,5200.0,4100.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-01 00:00:00,4025.0,5100.0,4560.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-06 00:00:00,0.0,5100.0,5100.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-12 00:00:00,0.0,5100.0,5100.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-16 00:00:00,0.0,5000.0,5000.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-17 00:00:00,0.0,4825.0,4825.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-07 00:00:00,0.0,4550.0,4550.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-09 00:00:00,3375.0,3950.0,3660.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-23 00:00:00,0.0,3450.0,3450.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-24 00:00:00,0.0,4500.0,4500.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-28 00:00:00,0.0,3925.0,3925.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-11 00:00:00,3925.0,4050.0,3985.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-12 00:00:00,0.0,2625.0,2625.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-26 00:00:00,3575.0,3975.0,3775.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-27 00:00:00,3750.0,3800.0,3775.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-03 00:00:00,0.0,3000.0,3000.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-10 00:00:00,3600.0,3675.0,3635.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-13 00:00:00,3350.0,3625.0,3485.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-14 00:00:00,3725.0,3825.0,3775.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-12 00:00:00,0.0,3825.0,3825.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-13 00:00:00,3475.0,3725.0,3600.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-15 00:00:00,3250.0,3950.0,3600.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-22 00:00:00,3875.0,3950.0,3910.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-23 00:00:00,3625.0,3975.0,3800.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-25 00:00:00,3625.0,3975.0,3800.0,8
+Gujarat,Porbandar,Porbandar,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-27 00:00:00,0.0,3200.0,3200.0,8
+Gujarat,Rajkot,Dhoraji,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-01-12 00:00:00,3755.0,5480.0,4255.0,8
+Gujarat,Rajkot,Dhoraji,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-01-16 00:00:00,3880.0,5280.0,4605.0,8
+Gujarat,Rajkot,Dhoraji,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-09 00:00:00,4055.0,5205.0,5005.0,8
+Gujarat,Rajkot,Dhoraji,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-02-10 00:00:00,4130.0,5105.0,4830.0,8
+Gujarat,Rajkot,Dhoraji,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-03-15 00:00:00,4480.0,5230.0,4780.0,8
+Gujarat,Rajkot,Dhoraji,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-04-07 00:00:00,4030.0,5730.0,5505.0,8
+Gujarat,Rajkot,Dhoraji,Black Gram (Urd Beans)(Whole),Desi,FAQ,2017-04-13 00:00:00,4500.0,5780.0,5505.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-16 00:00:00,3000.0,5800.0,5300.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-17 00:00:00,3005.0,5200.0,4505.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-25 00:00:00,2880.0,5750.0,4250.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-08 00:00:00,3390.0,5300.0,4405.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-14 00:00:00,3000.0,5500.0,4400.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-15 00:00:00,3005.0,5500.0,4250.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-18 00:00:00,3205.0,5005.0,4355.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-23 00:00:00,3000.0,5500.0,4125.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-02 00:00:00,3000.0,4005.0,3940.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-04 00:00:00,3000.0,4625.0,3875.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-10 00:00:00,3180.0,5625.0,4375.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-22 00:00:00,3000.0,5250.0,4500.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-24 00:00:00,3000.0,5150.0,4725.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-28 00:00:00,3000.0,4985.0,4625.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-10 00:00:00,3000.0,5000.0,4600.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-13 00:00:00,3050.0,6000.0,4450.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-15 00:00:00,3200.0,5040.0,4380.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-18 00:00:00,3800.0,5600.0,4650.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-19 00:00:00,3175.0,5285.0,4000.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-25 00:00:00,3200.0,5450.0,5000.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-27 00:00:00,3000.0,5355.0,4750.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-02 00:00:00,3130.0,4995.0,4025.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-19 00:00:00,3000.0,5175.0,3900.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-20 00:00:00,3050.0,5755.0,5355.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-23 00:00:00,3325.0,4905.0,4000.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-30 00:00:00,2580.0,3875.0,2755.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-26 00:00:00,3500.0,4055.0,3675.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-28 00:00:00,2250.0,4755.0,2500.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-04 00:00:00,3205.0,3950.0,3500.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-05 00:00:00,3200.0,4505.0,3705.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-22 00:00:00,3125.0,4005.0,4000.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-31 00:00:00,3850.0,4710.0,4375.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-07 00:00:00,3000.0,4350.0,3750.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-08 00:00:00,3000.0,4750.0,4225.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-09 00:00:00,3000.0,3900.0,3500.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-12 00:00:00,3400.0,4000.0,3700.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-13 00:00:00,2375.0,4075.0,3325.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-21 00:00:00,3000.0,4500.0,3750.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-09 00:00:00,3000.0,5175.0,3625.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-10 00:00:00,3000.0,4825.0,3625.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-14 00:00:00,3000.0,4280.0,3750.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-16 00:00:00,3000.0,4630.0,3995.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-06 00:00:00,3000.0,4500.0,3705.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-09 00:00:00,3000.0,4150.0,3705.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-18 00:00:00,3375.0,4260.0,3495.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-23 00:00:00,2495.0,4325.0,3255.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-24 00:00:00,3250.0,4375.0,3500.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-13 00:00:00,3175.0,4355.0,3850.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-16 00:00:00,3250.0,4190.0,3750.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-19 00:00:00,3075.0,3875.0,3500.0,8
+Gujarat,Amreli,Amreli,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-26 00:00:00,3175.0,4315.0,4005.0,8
+Gujarat,Amreli,Babra,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-16 00:00:00,5250.0,5950.0,5775.0,8
+Gujarat,Amreli,Babra,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-09 00:00:00,4550.0,5505.0,5250.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-05 00:00:00,3500.0,5750.0,4625.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-12 00:00:00,3375.0,5875.0,4625.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-02 00:00:00,3000.0,4250.0,3625.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-08 00:00:00,3500.0,4125.0,3813.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-14 00:00:00,3375.0,4000.0,3688.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-15 00:00:00,3125.0,4500.0,3813.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-18 00:00:00,3000.0,3700.0,3350.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-06 00:00:00,2750.0,4250.0,3500.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-07 00:00:00,3750.0,4625.0,4188.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-11 00:00:00,2700.0,3875.0,3288.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-14 00:00:00,3000.0,4250.0,3625.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-20 00:00:00,2900.0,4000.0,3450.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-23 00:00:00,3500.0,5070.0,4285.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-11 00:00:00,3250.0,4055.0,3653.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-13 00:00:00,4200.0,4750.0,4475.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-03 00:00:00,4250.0,5250.0,4750.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-08 00:00:00,2750.0,4915.0,3833.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-22 00:00:00,3375.0,4360.0,3868.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-23 00:00:00,3500.0,5300.0,3950.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-09 00:00:00,3900.0,4665.0,4283.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-12 00:00:00,3250.0,4750.0,4000.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-13 00:00:00,3750.0,5000.0,4375.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-31 00:00:00,3045.0,3255.0,3150.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-01 00:00:00,3000.0,3075.0,3038.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-08 00:00:00,3750.0,4730.0,4240.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-09 00:00:00,3250.0,3700.0,3475.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-31 00:00:00,3750.0,4500.0,4125.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-09 00:00:00,2575.0,3710.0,3143.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-15 00:00:00,3000.0,4750.0,3875.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-21 00:00:00,2500.0,3750.0,3125.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-23 00:00:00,3625.0,4850.0,4238.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-10 00:00:00,2750.0,3750.0,3250.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-11 00:00:00,3800.0,4600.0,4200.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-03 00:00:00,3000.0,3750.0,3375.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-10 00:00:00,3250.0,5250.0,4250.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-20 00:00:00,3250.0,4250.0,3750.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-28 00:00:00,4000.0,4400.0,4200.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-12 00:00:00,2500.0,5505.0,4003.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-14 00:00:00,3250.0,4000.0,3625.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-18 00:00:00,2750.0,4100.0,3425.0,8
+Gujarat,Amreli,Savarkundla,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-27 00:00:00,3250.0,4125.0,3688.0,8
+Gujarat,Banaskanth,Amirgadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-07 00:00:00,5255.0,5400.0,5325.0,8
+Gujarat,Banaskanth,Amirgadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-10 00:00:00,4900.0,5325.0,5110.0,8
+Gujarat,Banaskanth,Amirgadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-09 00:00:00,4940.0,5000.0,4970.0,8
+Gujarat,Banaskanth,Amirgadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-14 00:00:00,4650.0,4800.0,4720.0,8
+Gujarat,Banaskanth,Amirgadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-09 00:00:00,4400.0,4400.0,4400.0,8
+Gujarat,Banaskanth,Amirgadh,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-16 00:00:00,3250.0,3450.0,3350.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-16 00:00:00,4350.0,4500.0,4500.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-22 00:00:00,4500.0,4510.0,4500.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-23 00:00:00,4500.0,4500.0,4500.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-09 00:00:00,4500.0,5055.0,4755.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-15 00:00:00,4450.0,4450.0,4450.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-03 00:00:00,4950.0,5000.0,5000.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-13 00:00:00,5200.0,5200.0,5200.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-22 00:00:00,5000.0,5000.0,5000.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-19 00:00:00,4020.0,4020.0,4020.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-05 00:00:00,3405.0,3405.0,3405.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-12 00:00:00,3455.0,4000.0,3855.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-04 00:00:00,3855.0,3875.0,3855.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-10 00:00:00,3350.0,4090.0,3900.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-25 00:00:00,3250.0,4050.0,3900.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-31 00:00:00,3000.0,3940.0,3800.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-06 00:00:00,3000.0,4085.0,3850.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-21 00:00:00,2765.0,3975.0,3750.0,8
+Gujarat,Banaskanth,Deesa(Bhildi),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-05 00:00:00,3850.0,4405.0,4105.0,8
+Gujarat,Banaskanth,Palanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-03 00:00:00,4655.0,5885.0,5270.0,8
+Gujarat,Banaskanth,Palanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-07 00:00:00,4850.0,5500.0,5175.0,8
+Gujarat,Banaskanth,Palanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-18 00:00:00,5000.0,5105.0,5052.0,8
+Gujarat,Banaskanth,Palanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-08 00:00:00,3305.0,3655.0,3480.0,8
+Gujarat,Banaskanth,Palanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-15 00:00:00,3260.0,3850.0,3555.0,8
+Gujarat,Banaskanth,Palanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-30 00:00:00,3770.0,4185.0,3977.0,8
+Gujarat,Banaskanth,Palanpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-22 00:00:00,3500.0,4175.0,3837.0,8
+Gujarat,Banaskanth,Vadgam,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-20 00:00:00,4355.0,4755.0,4555.0,8
+Gujarat,Banaskanth,Vadgam,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-13 00:00:00,4275.0,4275.0,4275.0,8
+Gujarat,Banaskanth,Vadgam,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-23 00:00:00,4605.0,4605.0,4605.0,8
+Gujarat,Banaskanth,Vadgam,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-01 00:00:00,3660.0,3660.0,3660.0,8
+Gujarat,Banaskanth,Vadgam,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-27 00:00:00,4205.0,4205.0,4205.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-06 00:00:00,4250.0,5825.0,5035.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-09 00:00:00,3530.0,5125.0,4325.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-10 00:00:00,3700.0,5240.0,4470.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-11 00:00:00,3750.0,5000.0,4375.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-19 00:00:00,4480.0,5900.0,5190.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-20 00:00:00,4175.0,4935.0,4555.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-21 00:00:00,3755.0,5210.0,4480.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-23 00:00:00,3985.0,4250.0,4115.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-07 00:00:00,4100.0,4925.0,4510.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-27 00:00:00,4150.0,4850.0,4500.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-01 00:00:00,4095.0,4415.0,4255.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-03 00:00:00,3485.0,4050.0,3765.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-06 00:00:00,3905.0,4255.0,4080.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-22 00:00:00,4305.0,4595.0,4450.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-25 00:00:00,4500.0,5100.0,4800.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-28 00:00:00,4250.0,5500.0,4875.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-13 00:00:00,3300.0,4405.0,3850.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-25 00:00:00,3620.0,4400.0,4010.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-01 00:00:00,3430.0,3900.0,3665.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-17 00:00:00,3505.0,3505.0,3505.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-20 00:00:00,3000.0,3495.0,3250.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-26 00:00:00,3815.0,5130.0,4470.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-07 00:00:00,3600.0,4555.0,4075.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-10 00:00:00,4150.0,4150.0,4150.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-15 00:00:00,3700.0,4900.0,4300.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-16 00:00:00,3900.0,4940.0,4420.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-24 00:00:00,3975.0,3975.0,3975.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-28 00:00:00,3425.0,3800.0,3610.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-10 00:00:00,3180.0,3180.0,3180.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-31 00:00:00,4490.0,4905.0,4695.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-15 00:00:00,3075.0,3075.0,3075.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-22 00:00:00,4730.0,4730.0,4730.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-05 00:00:00,3625.0,3625.0,3625.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-12 00:00:00,3705.0,3705.0,3705.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-02 00:00:00,3400.0,3925.0,3660.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-05 00:00:00,3635.0,3635.0,3635.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-12 00:00:00,3300.0,3300.0,3300.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-16 00:00:00,3260.0,4155.0,3705.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-18 00:00:00,3900.0,4320.0,4110.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-21 00:00:00,3355.0,3695.0,3525.0,8
+Gujarat,Bhavnagar,Bhavnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-27 00:00:00,3505.0,3830.0,3670.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-07 00:00:00,3680.0,5445.0,4500.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-10 00:00:00,2710.0,6300.0,5000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-13 00:00:00,2860.0,4060.0,3500.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-06 00:00:00,3700.0,4960.0,4250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-28 00:00:00,3250.0,5525.0,4250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-17 00:00:00,3210.0,4145.0,3750.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-20 00:00:00,3525.0,5405.0,4500.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-13 00:00:00,2210.0,7000.0,4605.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-14 00:00:00,3750.0,5045.0,4500.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-17 00:00:00,2850.0,3965.0,3250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-06 00:00:00,3060.0,3160.0,3100.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-27 00:00:00,3375.0,4680.0,4000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-28 00:00:00,2175.0,4500.0,3500.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-03 00:00:00,1965.0,4770.0,3370.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-04 00:00:00,3140.0,4630.0,3885.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-05 00:00:00,2000.0,3190.0,2585.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-15 00:00:00,1250.0,3280.0,2265.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-04 00:00:00,2700.0,4180.0,4000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-06 00:00:00,2005.0,3840.0,3000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-10 00:00:00,2250.0,5000.0,4250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-26 00:00:00,2315.0,4520.0,4000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-28 00:00:00,2710.0,4265.0,3500.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-30 00:00:00,2740.0,5100.0,4000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-02 00:00:00,2035.0,4850.0,4250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-03 00:00:00,2250.0,4825.0,3750.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-14 00:00:00,2805.0,3600.0,3250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-24 00:00:00,1665.0,3840.0,3250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-29 00:00:00,1910.0,5830.0,4250.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-08 00:00:00,2360.0,6000.0,5000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-12 00:00:00,3000.0,5260.0,4000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-20 00:00:00,3030.0,5875.0,5000.0,8
+Gujarat,Bhavnagar,Mahuva(Station Road),Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-30 00:00:00,2460.0,3950.0,3250.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-18 00:00:00,3000.0,4500.0,3750.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-19 00:00:00,2000.0,4000.0,3000.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-26 00:00:00,2500.0,4500.0,3500.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-17 00:00:00,2500.0,4500.0,3500.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-17 00:00:00,2500.0,4000.0,3250.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-20 00:00:00,2000.0,4000.0,3000.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-20 00:00:00,3000.0,4000.0,3500.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-25 00:00:00,3000.0,4000.0,3500.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-09 00:00:00,2000.0,3500.0,2750.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-03 00:00:00,2000.0,3125.0,2562.0,8
+Gujarat,Bhavnagar,Palitana,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-04 00:00:00,1000.0,1495.0,1247.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-01-11 00:00:00,3000.0,4070.0,3535.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-01-18 00:00:00,3040.0,4045.0,3545.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-02-01 00:00:00,3500.0,3910.0,3705.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-02-09 00:00:00,3505.0,3805.0,3655.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-02-11 00:00:00,3300.0,4060.0,3680.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-03-08 00:00:00,3500.0,4000.0,3750.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-04-03 00:00:00,4500.0,5250.0,4875.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-04-06 00:00:00,3780.0,4970.0,4375.0,8
+Gujarat,Bhavnagar,Taleja,Black Gram (Urd Beans)(Whole),Local,FAQ,2017-11-02 00:00:00,2230.0,3500.0,2865.0,8
+Gujarat,Botad,Botad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-02 00:00:00,4540.0,5950.0,5245.0,8
+Gujarat,Botad,Botad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-06 00:00:00,4700.0,5685.0,5195.0,8
+Gujarat,Botad,Botad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-07 00:00:00,4220.0,4760.0,4490.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-04 00:00:00,5500.0,6151.0,5800.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-12 00:00:00,5000.0,5800.0,5550.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-17 00:00:00,5100.0,5600.0,5400.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-20 00:00:00,5100.0,5750.0,5450.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-01-30 00:00:00,5300.0,5800.0,5450.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-02 00:00:00,5000.0,5400.0,5200.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-07 00:00:00,4800.0,5000.0,4900.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-11 00:00:00,4700.0,5100.0,5000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-20 00:00:00,4500.0,5000.0,4900.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-02-21 00:00:00,4600.0,5100.0,4800.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-04 00:00:00,4700.0,5200.0,5000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-06 00:00:00,4500.0,5175.0,5000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-20 00:00:00,5000.0,5800.0,5300.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-23 00:00:00,5500.0,6200.0,6000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-27 00:00:00,5000.0,5800.0,5500.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-28 00:00:00,5000.0,5700.0,5500.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-29 00:00:00,5000.0,5800.0,5400.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-03-30 00:00:00,5000.0,5800.0,5600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-05 00:00:00,5000.0,5600.0,5400.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-06 00:00:00,5000.0,5500.0,5300.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-07 00:00:00,5100.0,5500.0,5400.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-10 00:00:00,5000.0,5500.0,5350.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-26 00:00:00,4800.0,5400.0,5200.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-04-29 00:00:00,4800.0,5400.0,5200.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-12 00:00:00,4500.0,5300.0,5200.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-16 00:00:00,4500.0,5800.0,5500.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-19 00:00:00,4500.0,5800.0,5600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-23 00:00:00,4500.0,5400.0,5100.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-24 00:00:00,4500.0,5000.0,4850.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-05-29 00:00:00,4000.0,4900.0,4500.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-01 00:00:00,4000.0,5000.0,4600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-02 00:00:00,4200.0,5000.0,4600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-07 00:00:00,4000.0,4500.0,4350.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-08 00:00:00,4000.0,4800.0,4500.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-19 00:00:00,4000.0,5000.0,4800.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-06-20 00:00:00,4000.0,5000.0,4650.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-01 00:00:00,3800.0,4300.0,4000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-05 00:00:00,3800.0,4400.0,4100.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-08 00:00:00,3600.0,4400.0,4100.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-12 00:00:00,3300.0,3800.0,3650.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-18 00:00:00,3300.0,3800.0,3500.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-20 00:00:00,3200.0,3600.0,3350.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-22 00:00:00,3200.0,3600.0,3400.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-24 00:00:00,3000.0,3600.0,3300.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-07-31 00:00:00,2800.0,3500.0,3100.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-08-19 00:00:00,3600.0,4100.0,4000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-08-28 00:00:00,3600.0,4300.0,4000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-08-29 00:00:00,3600.0,4500.0,4300.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-08-31 00:00:00,3600.0,4200.0,4000.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-02 00:00:00,3600.0,3900.0,3850.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-06 00:00:00,3400.0,3800.0,3600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-07 00:00:00,3500.0,3800.0,3675.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-12 00:00:00,3300.0,3800.0,3675.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-18 00:00:00,3300.0,3700.0,3625.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-19 00:00:00,3300.0,4000.0,3700.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-21 00:00:00,3300.0,3800.0,3550.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-09-28 00:00:00,3300.0,3800.0,3450.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-10-17 00:00:00,3000.0,3500.0,3400.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-13 00:00:00,3000.0,3500.0,3350.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-21 00:00:00,3100.0,3500.0,3350.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-23 00:00:00,3100.0,3550.0,3400.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-27 00:00:00,3500.0,3800.0,3700.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-28 00:00:00,3500.0,3800.0,3600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-11-30 00:00:00,3300.0,3600.0,3500.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-02 00:00:00,3500.0,3800.0,3600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-04 00:00:00,3000.0,3700.0,3600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-12 00:00:00,3500.0,3700.0,3600.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-19 00:00:00,3400.0,3880.0,3750.0,8
+Gujarat,Dahod,Dahod,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,2017-12-29 00:00:00,3000.0,3800.0,3600.0,8
+Gujarat,Devbhumi Dwarka,Bhanvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-08 00:00:00,3500.0,4500.0,4000.0,8
+Gujarat,Devbhumi Dwarka,Bhanvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-09 00:00:00,4000.0,4450.0,4200.0,8
+Gujarat,Devbhumi Dwarka,Bhanvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-23 00:00:00,3000.0,3450.0,3300.0,8
+Gujarat,Devbhumi Dwarka,Bhanvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-05 00:00:00,3350.0,3650.0,3450.0,8
+Gujarat,Devbhumi Dwarka,Bhanvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-07 00:00:00,3360.0,3650.0,3450.0,8
+Gujarat,Devbhumi Dwarka,Bhanvad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-13 00:00:00,3000.0,3550.0,3400.0,8
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-20 00:00:00,5000.0,5805.0,5795.0,8
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-25 00:00:00,5025.0,5230.0,5230.0,8
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-27 00:00:00,5000.0,6050.0,5070.0,8
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-30 00:00:00,4875.0,5305.0,5305.0,8
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-02 00:00:00,5000.0,5205.0,5125.0,8
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-08 00:00:00,4725.0,5000.0,5000.0,8
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-14 00:00:00,4000.0,4950.0,4925.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-04 00:00:00,4250.0,5625.0,5005.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-12 00:00:00,4210.0,4860.0,4500.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-21 00:00:00,4310.0,5260.0,4665.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-30 00:00:00,4560.0,5005.0,4800.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-08 00:00:00,3000.0,4640.0,4400.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-11 00:00:00,3500.0,3500.0,3500.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-03 00:00:00,2000.0,4260.0,4230.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-08 00:00:00,3750.0,4050.0,4020.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-17 00:00:00,4065.0,4065.0,4065.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-23 00:00:00,0.0,4905.0,4500.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-03 00:00:00,4275.0,4500.0,4500.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-08 00:00:00,2750.0,3705.0,3500.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-09 00:00:00,2500.0,3575.0,3400.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-25 00:00:00,3205.0,3555.0,3500.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-02 00:00:00,3070.0,4000.0,3850.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-05 00:00:00,3750.0,3990.0,3850.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-23 00:00:00,3500.0,3980.0,3785.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-28 00:00:00,3000.0,4035.0,4015.0,8
+Gujarat,Gandhinagar,Mansa,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-30 00:00:00,3375.0,4020.0,3925.0,8
+Gujarat,Jamnagar,Bhatiya,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-28 00:00:00,4075.0,5200.0,4900.0,8
+Gujarat,Jamnagar,Bhatiya,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-15 00:00:00,2500.0,4750.0,4650.0,8
+Gujarat,Jamnagar,Bhatiya,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-20 00:00:00,750.0,3900.0,3750.0,8
+Gujarat,Jamnagar,Bhatiya,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-08 00:00:00,2500.0,4050.0,3875.0,8
+Gujarat,Jamnagar,Bhatiya,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-17 00:00:00,3500.0,4200.0,4000.0,8
+Gujarat,Jamnagar,Bhatiya,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-22 00:00:00,3500.0,3900.0,3700.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-06 00:00:00,5000.0,5960.0,5480.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-31 00:00:00,4500.0,5500.0,5000.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-07 00:00:00,3520.0,4745.0,4132.5,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-14 00:00:00,3500.0,3850.0,3675.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-17 00:00:00,4175.0,4950.0,4560.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-06 00:00:00,5025.0,5820.0,5420.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-21 00:00:00,5340.0,5620.0,5480.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-25 00:00:00,3600.0,5395.0,4495.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-06 00:00:00,3675.0,5105.0,4390.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-20 00:00:00,4410.0,5225.0,4815.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-22 00:00:00,4500.0,4855.0,4675.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-27 00:00:00,4250.0,5070.0,4660.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-01 00:00:00,3600.0,4300.0,3950.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-10 00:00:00,3600.0,4020.0,3810.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-18 00:00:00,3500.0,3950.0,3725.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-01 00:00:00,3650.0,4050.0,3850.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-05 00:00:00,3000.0,3800.0,3400.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-21 00:00:00,3500.0,3665.0,3580.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-05 00:00:00,3775.0,3960.0,3865.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-07 00:00:00,3920.0,4000.0,3960.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-09 00:00:00,3655.0,4050.0,3850.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-10 00:00:00,3810.0,4050.0,3930.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-13 00:00:00,3750.0,4030.0,3890.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-02 00:00:00,3660.0,4150.0,3905.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-15 00:00:00,3180.0,3955.0,3565.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-17 00:00:00,2000.0,3770.0,2885.0,8
+Gujarat,Jamnagar,Dhrol,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-02 00:00:00,3780.0,4310.0,4045.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-03 00:00:00,5000.0,6500.0,5750.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-09 00:00:00,4850.0,5850.0,5350.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-12 00:00:00,4500.0,5950.0,5300.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-02 00:00:00,5000.0,5900.0,5450.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-08 00:00:00,5000.0,5500.0,5250.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-14 00:00:00,4750.0,5600.0,5150.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-21 00:00:00,4250.0,5150.0,4700.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-28 00:00:00,3500.0,5450.0,4700.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-03 00:00:00,4350.0,5350.0,4850.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-08 00:00:00,4250.0,5200.0,4700.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-09 00:00:00,4250.0,5250.0,4750.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-15 00:00:00,4750.0,5750.0,5250.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-04 00:00:00,5500.0,6100.0,5750.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-13 00:00:00,5000.0,5950.0,5250.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-14 00:00:00,5000.0,5950.0,5250.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-21 00:00:00,5250.0,5750.0,5500.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-22 00:00:00,5000.0,5350.0,5250.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-28 00:00:00,4500.0,5350.0,4650.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-29 00:00:00,4850.0,5350.0,5100.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-31 00:00:00,4700.0,5350.0,5050.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-02 00:00:00,4000.0,5150.0,4550.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-24 00:00:00,4055.0,5055.0,4555.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-29 00:00:00,4300.0,5200.0,4750.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-18 00:00:00,3750.0,4650.0,4000.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-20 00:00:00,4400.0,4700.0,4550.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-21 00:00:00,3250.0,4250.0,3750.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-07-24 00:00:00,3950.0,4550.0,4250.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-02 00:00:00,3200.0,4200.0,3700.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-25 00:00:00,4000.0,5300.0,4650.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-28 00:00:00,3750.0,5125.0,4400.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-31 00:00:00,3800.0,5025.0,4125.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-12 00:00:00,1550.0,4550.0,3050.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-13 00:00:00,1550.0,4550.0,3050.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-23 00:00:00,2250.0,4500.0,3500.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-27 00:00:00,3250.0,4400.0,3750.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-03 00:00:00,2500.0,4350.0,3500.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-10 00:00:00,3000.0,4300.0,3650.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-16 00:00:00,2750.0,4350.0,3550.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-06 00:00:00,3250.0,4150.0,3700.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-25 00:00:00,2500.0,4000.0,3250.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-29 00:00:00,2000.0,4200.0,3100.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-08 00:00:00,2200.0,4200.0,3850.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-12 00:00:00,2500.0,4200.0,3350.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-23 00:00:00,2750.0,4250.0,3500.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-26 00:00:00,3500.0,4150.0,3800.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-29 00:00:00,3150.0,3900.0,3550.0,8
+Gujarat,Jamnagar,Jam Jodhpur,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-30 00:00:00,3250.0,3900.0,3575.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-02 00:00:00,4500.0,6350.0,5425.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-09 00:00:00,4000.0,5800.0,4900.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-11 00:00:00,4500.0,5700.0,5100.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-24 00:00:00,4500.0,6000.0,5250.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-25 00:00:00,4500.0,5975.0,5238.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-28 00:00:00,4875.0,6000.0,5438.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-31 00:00:00,4750.0,6000.0,5375.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-01 00:00:00,4500.0,6025.0,5263.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-10 00:00:00,4175.0,5600.0,4888.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-11 00:00:00,4250.0,5500.0,4875.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-09 00:00:00,4500.0,5025.0,4762.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-14 00:00:00,3000.0,5000.0,4000.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-21 00:00:00,4000.0,6100.0,5050.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-04-03 00:00:00,4350.0,5750.0,5050.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-12 00:00:00,4000.0,5275.0,4638.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-22 00:00:00,4750.0,4925.0,4838.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-05-25 00:00:00,2000.0,5875.0,3938.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-06-24 00:00:00,4500,4950,4725.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-08 00:00:00,4075,4125,4100.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-12 00:00:00,2500,3250,2875.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-08-26 00:00:00,3750,4000,3875.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-07 00:00:00,3950,4075,4013.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-20 00:00:00,4150,4275,4213.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-09-25 00:00:00,3500,4225,3863.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-10-25 00:00:00,3500,4200,3850.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-03 00:00:00,2000,4000,3000.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-09 00:00:00,3500,3875,3688.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-11-30 00:00:00,3125,4375,3750.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-02 00:00:00,3500,4450,3975.0,8
+Gujarat,Jamnagar,Jamnagar,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-12-12 00:00:00,3500,4050,3775.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-24 00:00:00,5000,5750,5375.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-01-28 00:00:00,5000,5600,5300.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-01 00:00:00,5000,5785,5393.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-07 00:00:00,4750,5490,5120.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-13 00:00:00,5000,5230,5115.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-27 00:00:00,4300,5020,4660.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-02-28 00:00:00,4300,5020,4660.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-18 00:00:00,4500,5700,5100.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-20 00:00:00,4500,5650,5075.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-23 00:00:00,4500,5950,5225.0,8
+Gujarat,Jamnagar,Kalawad,Black Gram (Urd Beans)(Whole),Other,FAQ,2017-03-24 00:00:00,4500,5980,5240.0,8

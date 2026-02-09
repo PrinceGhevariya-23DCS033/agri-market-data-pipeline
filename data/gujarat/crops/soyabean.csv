@@ -15768,82 +15768,218 @@ Gujarat,Rajkot,Upleta APMC,Soyabean,Soyabeen,Local,2026-01-17 00:00:00,4250.0,50
 Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-01-03 00:00:00,4645.0,4735.0,4735.0,13
 Gujarat,Sabarkantha,Himatnagar APMC,Soyabean,Yellow,Local,2026-01-19 00:00:00,4500.0,5015.0,4800.0,13
 Gujarat,Sabarkantha,Modasa APMC,Soyabean,Yellow,Non-FAQ,2026-01-12 00:00:00,4925.0,4985.0,4985.0,13
-Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-01-03 00:00:00,3425,3655,3525.0,13
-Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-05-29 00:00:00,2300,3750,3750.0,13
-Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-11-29 00:00:00,3135,3135,3135.0,13
-Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2014-12-22 00:00:00,3035,3035,3035.0,13
-Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,FAQ,2014-06-27 00:00:00,2500,2500,2500.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-07 00:00:00,3700,3900,3850.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-16 00:00:00,3750,3900,3825.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-17 00:00:00,3700,3900,3800.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-01-24 00:00:00,3750,3950,3850.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-02-03 00:00:00,3825,3900,3900.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-02-18 00:00:00,3750,3940,3875.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-02-24 00:00:00,3900,4000,3950.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-01 00:00:00,4000,4195,4100.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-04 00:00:00,4100,4250,4200.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-14 00:00:00,4000,4125,4075.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-22 00:00:00,4000,4100,4050.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-28 00:00:00,4000,4100,4050.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-03-31 00:00:00,4100,4200,4150.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-02 00:00:00,4100,4150,4125.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-11 00:00:00,4150,4225,4200.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-12 00:00:00,4200,4275,4250.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-18 00:00:00,4300,4350,4325.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-19 00:00:00,4300,4350,4325.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-26 00:00:00,4400,4500,4450.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-04-28 00:00:00,4550,4600,4575.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-06 00:00:00,4500,4700,4600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-09 00:00:00,4500,4675,4600.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-15 00:00:00,4400,4600,4500.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-05-24 00:00:00,4250,4550,4400.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-04 00:00:00,4000,4200,4150.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-09 00:00:00,4000,4100,4050.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-16 00:00:00,4000,4350,4300.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-06-19 00:00:00,3850,4000,3950.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-09-20 00:00:00,3300,3400,3350.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-14 00:00:00,3000,3300,3100.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-16 00:00:00,3100,3200,3150.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-22 00:00:00,3100,3250,3200.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-10-30 00:00:00,3000,3300,3250.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-17 00:00:00,3175,3200,3185.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-21 00:00:00,3200,3225,3215.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-22 00:00:00,3200,3260,3225.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-11-26 00:00:00,3300,3326,3315.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-03 00:00:00,3200,3250,3225.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-05 00:00:00,3225,3275,3250.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-26 00:00:00,3325,3361,3350.0,13
-Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2014-12-30 00:00:00,3400,3440,3425.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-04-17 00:00:00,3430,3625,3530.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-10-09 00:00:00,2500,2950,2725.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-03 00:00:00,3000,3290,3145.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-12 00:00:00,2800,3175,3000.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-14 00:00:00,2950,3235,3150.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-17 00:00:00,3000,3250,3125.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-11-19 00:00:00,2950,3280,3150.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-04 00:00:00,2750,3200,3000.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-05 00:00:00,2750,3200,3050.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-23 00:00:00,2750,3180,3050.0,13
-Gujarat,Gir Somnath,Kodinar,Soyabean,Other,FAQ,2014-12-24 00:00:00,2750,3185,3050.0,13
-Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-11-21 00:00:00,2950,3050,3000.0,13
-Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-11-22 00:00:00,2750,3100,2900.0,13
-Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-05 00:00:00,2750,3060,2900.0,13
-Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-10 00:00:00,2950,3150,3050.0,13
-Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-13 00:00:00,2850,3150,3000.0,13
-Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-22 00:00:00,2875,3150,3000.0,13
-Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2014-12-30 00:00:00,2500,3000,2750.0,13
-Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2014-01-01 00:00:00,3100,4700,3340.0,13
-Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2014-12-10 00:00:00,2750,3155,2950.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-01 00:00:00,3250,3775,3625.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-08 00:00:00,2900,3535,3250.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-22 00:00:00,2950,3530,3400.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-01-27 00:00:00,2500,3590,3000.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-02-04 00:00:00,3000,3625,3500.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-02-19 00:00:00,3000,3360,3250.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-03-05 00:00:00,3500,3820,3750.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-04-10 00:00:00,3240,3240,3240.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-05-08 00:00:00,4030,4030,4030.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-05-17 00:00:00,3000,4055,3500.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-06-27 00:00:00,2000,3250,2500.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-07-03 00:00:00,2740,2740,2740.0,13
-Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2014-09-19 00:00:00,3000,3000,3000.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-01-25 00:00:00,3025,3025,3025.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-02-03 00:00:00,3205,3390,3390.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-02-07 00:00:00,2650,2650,2650.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-02-09 00:00:00,3055,3375,3375.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-02-16 00:00:00,3125,3145,3145.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-02-20 00:00:00,3230,3230,3230.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-02-27 00:00:00,3350,3350,3350.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-03-06 00:00:00,3005,3005,3005.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-03-09 00:00:00,3300,3300,3300.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-03-13 00:00:00,3000,3000,3000.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-03-14 00:00:00,3125,3570,3285.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-03-21 00:00:00,2900,2900,2900.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-04-16 00:00:00,2900,2900,2900.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-06-11 00:00:00,2710,2710,2710.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-10-11 00:00:00,2680,2680,2680.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-10-23 00:00:00,2990,2990,2990.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-12-18 00:00:00,3025,3185,3185.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-12-22 00:00:00,3195,3195,3195.0,13
+Gujarat,Amreli,Amreli,Soyabean,Other,FAQ,2018-12-26 00:00:00,3000,3000,3000.0,13
+Gujarat,Amreli,Rajula,Soyabean,Other,FAQ,2018-01-05 00:00:00,1700,2655,2178.0,13
+Gujarat,Amreli,Rajula,Soyabean,Soyabeen,FAQ,2018-05-08 00:00:00,2630,2630,2630.0,13
+Gujarat,Bhavnagar,Bhavnagar,Soyabean,Other,FAQ,2018-10-27 00:00:00,3000,3000,3000.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-01 00:00:00,3050,3100,3090.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-08 00:00:00,3150,3215,3175.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-11 00:00:00,3150,3215,3175.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-13 00:00:00,3150,3200,3175.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-15 00:00:00,3175,3235,3200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-22 00:00:00,3400,3450,3435.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-27 00:00:00,3650,3700,3675.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-29 00:00:00,3830,3900,3875.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-01-30 00:00:00,3725,3775,3750.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-02-12 00:00:00,3825,3900,3850.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-02-21 00:00:00,3725,3750,3740.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-03-16 00:00:00,3700,3725,3715.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-03-17 00:00:00,3725,3750,3740.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-03-19 00:00:00,3650,3725,3700.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-03-21 00:00:00,3650,3700,3675.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-02 00:00:00,3950,3975,3960.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-14 00:00:00,3775,3800,3790.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-19 00:00:00,3700,3725,3715.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-20 00:00:00,3700,3725,3715.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-21 00:00:00,3650,3725,3700.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-24 00:00:00,3650,3675,3660.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-26 00:00:00,3700,3725,3710.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-04-30 00:00:00,3625,3650,3640.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-04 00:00:00,3750,3800,3775.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-08 00:00:00,3600,3625,3620.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-16 00:00:00,3650,3700,3675.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-18 00:00:00,3650,3700,3675.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-19 00:00:00,3650,3700,3675.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-23 00:00:00,3675,3700,3680.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-24 00:00:00,3675,3700,3685.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-25 00:00:00,3650,3765,3700.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-05-30 00:00:00,3525,3600,3575.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-06-01 00:00:00,3450,3550,3500.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-06-23 00:00:00,3400,3500,3450.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-06-25 00:00:00,3400,3500,3450.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-07-17 00:00:00,3400,3491,3425.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-07-21 00:00:00,3525,3600,3575.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-07-31 00:00:00,3500,3575,3550.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-08-01 00:00:00,3500,3550,3525.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-08-07 00:00:00,3500,3525,3511.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-08-13 00:00:00,3425,3486,3450.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-08-22 00:00:00,3350,3434,3400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-08-25 00:00:00,3250,3352,3300.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-09-01 00:00:00,3175,3270,3200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-09-08 00:00:00,3350,3400,3400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-09-15 00:00:00,3350,3400,3400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-09-19 00:00:00,3300,3350,3340.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-09-24 00:00:00,3350,3400,3400.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-09-25 00:00:00,3350,3375,3365.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-10-08 00:00:00,3150,3230,3200.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-10-20 00:00:00,3100,3165,3150.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-10-22 00:00:00,3085,3100,3095.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-10-26 00:00:00,3200,3222,3215.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-11-26 00:00:00,3400,3411,3405.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-12-06 00:00:00,3300,3350,3330.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-12-10 00:00:00,3300,3350,3340.0,13
+Gujarat,Dahod,Dahod,Soyabean,Soyabeen,FAQ,2018-12-21 00:00:00,3350,3385,3370.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Other,FAQ,2018-01-01 00:00:00,2500,2850,2650.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-01-11 00:00:00,2500,2900,2750.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-01-24 00:00:00,3000,3250,3125.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-01-29 00:00:00,3000,3300,3150.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-02-24 00:00:00,2500,3050,2800.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-04-10 00:00:00,2900,3100,3000.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-04-24 00:00:00,2500,3000,2750.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-05-01 00:00:00,2700,3150,3000.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-05-04 00:00:00,3000,3125,3075.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-06-11 00:00:00,2500,3300,2900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-06-22 00:00:00,2500,2850,2650.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-10-22 00:00:00,2625,3125,2850.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-10-27 00:00:00,2750,3025,2900.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-11-16 00:00:00,3000,3350,3150.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-11-22 00:00:00,3000,3500,3250.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-12-01 00:00:00,2500,3250,2850.0,13
+Gujarat,Jamnagar,Jam Jodhpur,Soyabean,Soyabeen,FAQ,2018-12-08 00:00:00,3000,3300,3150.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2018-05-16 00:00:00,2750,3150,2950.0,13
+Gujarat,Junagarh,Bhesan,Soyabean,Other,FAQ,2018-10-09 00:00:00,2250,2900,2575.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-01-01 00:00:00,2800,3045,2900.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-01-04 00:00:00,2500,3050,2925.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-01-08 00:00:00,3000,3195,3055.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-01-12 00:00:00,2900,3185,3055.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-01-13 00:00:00,2750,3160,3000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-01-27 00:00:00,3050,3375,3200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-01-31 00:00:00,3250,3530,3450.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-02-06 00:00:00,3000,3420,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-02-14 00:00:00,3000,3420,3350.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-02-16 00:00:00,3250,3505,3400.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-02-21 00:00:00,2500,3390,3125.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-02-28 00:00:00,3105,3350,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-03-16 00:00:00,3250,3475,3375.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-03-17 00:00:00,3350,3550,3450.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-03-20 00:00:00,3000,3500,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-04-07 00:00:00,3250,3615,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-04-13 00:00:00,3450,3575,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-04-16 00:00:00,2500,3555,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-04-18 00:00:00,3370,3585,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-04-26 00:00:00,3250,3500,3400.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-05-11 00:00:00,3000,3490,3375.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-05-12 00:00:00,3000,3400,3300.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-05-15 00:00:00,3125,3435,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-05-24 00:00:00,3300,3505,3375.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-05-31 00:00:00,2000,3650,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-06-06 00:00:00,3000,3600,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-06-07 00:00:00,3000,3645,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-06-08 00:00:00,2750,3600,3175.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-06-21 00:00:00,2750,3345,3055.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-06-26 00:00:00,2750,3050,2900.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-07-04 00:00:00,2900,3250,3075.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-07-12 00:00:00,3300,3375,3350.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-07-18 00:00:00,2930,2930,2930.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-07-20 00:00:00,2500,3160,3000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-07-23 00:00:00,2500,3290,3000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-08-01 00:00:00,3000,3925,3500.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-08-16 00:00:00,2500,3120,3000.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-08-25 00:00:00,2500,2920,2750.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-09-18 00:00:00,2755,2900,2800.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-09-22 00:00:00,2000,3055,2670.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-10-05 00:00:00,2750,3030,2825.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-10-09 00:00:00,2500,3005,2850.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-10-11 00:00:00,2500,3085,2900.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-11-01 00:00:00,3000,3180,3075.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-11-13 00:00:00,2750,3400,3275.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-11-15 00:00:00,2750,3395,3200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-11-17 00:00:00,2850,3250,3135.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-11-22 00:00:00,2750,3405,3325.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-10 00:00:00,3000,3300,3200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-12 00:00:00,3000,3340,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-14 00:00:00,2500,3380,3150.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-15 00:00:00,2500,3375,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-21 00:00:00,3050,3360,3200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-22 00:00:00,3000,3350,3175.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-27 00:00:00,3075,3375,3250.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-28 00:00:00,3000,3375,3200.0,13
+Gujarat,Junagarh,Junagadh,Soyabean,Soyabeen,FAQ,2018-12-31 00:00:00,3000,3415,3300.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-02-15 00:00:00,3000,3205,3180.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-04-04 00:00:00,2875,3205,3205.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-04-16 00:00:00,2750,3330,3255.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-04-27 00:00:00,3230,3430,3330.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-05-15 00:00:00,2880,3405,3280.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-05-16 00:00:00,3055,3430,3280.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-06-19 00:00:00,3180,3680,3555.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-07-04 00:00:00,3055,3630,3555.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-07-12 00:00:00,3205,3605,3605.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-07-18 00:00:00,3130,3505,3405.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-07-24 00:00:00,3280,3730,3605.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-08-03 00:00:00,3280,3555,3505.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-08-07 00:00:00,3130,3680,3605.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-08-09 00:00:00,3255,3605,3505.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-08-10 00:00:00,3180,3555,3530.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-08-23 00:00:00,3055,3155,3080.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-09-20 00:00:00,2755,2955,2955.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-10-06 00:00:00,2655,2930,2855.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-10-16 00:00:00,2555,3005,2955.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-10-31 00:00:00,2930,3180,3130.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-11-16 00:00:00,3005,3230,3205.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-11-22 00:00:00,3005,3405,3305.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-11-23 00:00:00,3180,3400,3330.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-11-29 00:00:00,3080,3355,3330.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-12-07 00:00:00,2905,3230,3155.0,13
+Gujarat,Rajkot,Dhoraji,Soyabean,Yellow,FAQ,2018-12-15 00:00:00,2980,3205,3180.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-01-01 00:00:00,2780,2890,2805.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-01-06 00:00:00,2920,2950,2940.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-01-20 00:00:00,3010,3100,3090.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-02-24 00:00:00,2755,3305,3230.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-04-28 00:00:00,2955,3155,3030.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-07-04 00:00:00,3005,3355,3180.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-07-07 00:00:00,2955,3330,3230.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-08-18 00:00:00,2980,3180,3105.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-09-01 00:00:00,2605,2955,2880.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-09-15 00:00:00,2755,3105,2980.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-10-15 00:00:00,2830,3155,3030.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-10-23 00:00:00,2900,3105,3055.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-10-25 00:00:00,2955,3155,3055.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-10-29 00:00:00,2855,3180,3055.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-11-28 00:00:00,3080,3405,3230.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-12-04 00:00:00,3055,3405,3280.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-12-20 00:00:00,2955,3280,3155.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-12-26 00:00:00,3005,3230,3155.0,13
+Gujarat,Rajkot,Gondal,Soyabean,Yellow,FAQ,2018-12-27 00:00:00,3055,3180,3130.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-01-01 00:00:00,2250,2650,2500.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-01-08 00:00:00,2400,2720,2500.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-02-08 00:00:00,3075,3075,3075.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-03-15 00:00:00,3125,3125,3125.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-03-23 00:00:00,3000,3000,3000.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-04-13 00:00:00,3225,3225,3225.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-04-17 00:00:00,3000,3000,3000.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-04-19 00:00:00,3050,3050,3050.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-05-05 00:00:00,2750,2750,2750.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-05-28 00:00:00,2500,3125,2750.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-06-08 00:00:00,3205,3205,3205.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-06-20 00:00:00,3000,3000,3000.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-06-25 00:00:00,3075,3075,3075.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-07-04 00:00:00,3000,3000,3000.0,13
+Gujarat,Rajkot,Jasdan,Soyabean,Other,FAQ,2018-07-11 00:00:00,2995,2995,2995.0,13

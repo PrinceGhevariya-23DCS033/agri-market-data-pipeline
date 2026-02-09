@@ -2876,111 +2876,193 @@ Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-17 00:00:00,1200.0,1800.0
 Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-18 00:00:00,1200.0,2000.0,1500.0,185
 Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-22 00:00:00,1300.0,1800.0,1500.0,185
 Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-24 00:00:00,1500.0,1900.0,1700.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-08-24 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-01 00:00:00,500,1000,800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-02 00:00:00,800,1000,950.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-03 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-08 00:00:00,1000,2000,1700.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-09 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-30 00:00:00,1000,2000,1700.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-13 00:00:00,900,1200,1100.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-15 00:00:00,1000,1200,1150.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-16 00:00:00,1000,1200,1150.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-21 00:00:00,1000,1200,1150.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-29 00:00:00,800,1000,950.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-11-06 00:00:00,800,1000,950.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-11-27 00:00:00,1500,2500,2200.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-12 00:00:00,1000,2000,1600.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-18 00:00:00,1000,2500,2000.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-25 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-29 00:00:00,700,1200,1000.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-31 00:00:00,700,1200,1000.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-01-09 00:00:00,1000,2000,1500.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-01-14 00:00:00,1500,2500,2000.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-02-26 00:00:00,1800,2500,2300.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-08-19 00:00:00,500,1000,800.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-08-31 00:00:00,500,1000,800.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-03 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-20 00:00:00,900,1200,1100.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-27 00:00:00,800,1000,950.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-30 00:00:00,800,1000,950.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-11-05 00:00:00,800,1000,950.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-11-14 00:00:00,1000,1200,1150.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-11-27 00:00:00,1500,2500,2200.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-03 00:00:00,1500,2500,2200.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-11 00:00:00,1000,2000,1700.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-12 00:00:00,1000,2000,1600.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-16 00:00:00,1000,2000,1700.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-25 00:00:00,1500,2000,1800.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-05 00:00:00,700,750,725.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-13 00:00:00,700,800,750.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-17 00:00:00,650,850,750.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-19 00:00:00,600,750,675.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-09 00:00:00,1200,1400,1300.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-14 00:00:00,1000,1300,1150.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-20 00:00:00,1000,1300,1150.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-26 00:00:00,1000,1200,1100.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-28 00:00:00,1000,1200,1100.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-12-03 00:00:00,1000,1200,1100.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-12-10 00:00:00,800,1000,900.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-12-11 00:00:00,800,900,850.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-06 00:00:00,500,750,625.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-17 00:00:00,500,750,625.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-19 00:00:00,500,750,625.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-28 00:00:00,500,750,625.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-10-14 00:00:00,600,800,700.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-10-28 00:00:00,700,800,750.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-11-11 00:00:00,600,800,700.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-12-03 00:00:00,600,800,700.0,185
-Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-12-24 00:00:00,500,700,600.0,185
-Gujarat,Gandhinagar,Radheja,Guava,Other,Medium,2009-01-09 00:00:00,750,1250,1000.0,185
-Gujarat,Gandhinagar,Radheja,Guava,Other,Medium,2009-11-11 00:00:00,400,1250,825.0,185
-Gujarat,Junagarh,Mangrol,Guava,Other,Medium,2009-01-14 00:00:00,300,320,310.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-10-30 00:00:00,375,1600,1100.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-03 00:00:00,400,1650,1000.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-12 00:00:00,300,1250,875.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-23 00:00:00,375,1300,1000.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-25 00:00:00,350,1500,1000.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-12-22 00:00:00,200,1100,750.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-12-28 00:00:00,250,1250,850.0,185
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-12-31 00:00:00,500,1300,900.0,185
-Gujarat,Vadodara(Baroda),Padra,Guava,Other,Medium,2009-01-02 00:00:00,500,700,625.0,185
-Gujarat,Vadodara(Baroda),Padra,Guava,Other,Medium,2009-12-03 00:00:00,600,650,625.0,185
-Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-11 00:00:00,800,900,850.0,185
-Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-16 00:00:00,700,750,725.0,185
-Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-18 00:00:00,650,800,725.0,185
-Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-26 00:00:00,750,800,780.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-05 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-07 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-08 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-16 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-19 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-20 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-25 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-31 00:00:00,350,650,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-01 00:00:00,350,650,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-07 00:00:00,350,650,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-09 00:00:00,350,650,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-10 00:00:00,350,650,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-23 00:00:00,350,650,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-27 00:00:00,300,550,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-08-27 00:00:00,400,650,500.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-08-28 00:00:00,400,650,500.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-09-21 00:00:00,350,650,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-09-30 00:00:00,350,550,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-07 00:00:00,325,550,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Large,2009-10-10 00:00:00,300,600,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-16 00:00:00,700,800,750.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-21 00:00:00,750,850,800.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-27 00:00:00,450,550,500.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-08 00:00:00,300,550,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-09 00:00:00,300,550,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-11 00:00:00,350,650,550.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-15 00:00:00,350,650,550.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-19 00:00:00,500,700,600.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-27 00:00:00,300,550,400.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-02 00:00:00,350,500,425.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-04 00:00:00,350,650,500.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-08 00:00:00,300,600,450.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-19 00:00:00,350,650,500.0,185
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-30 00:00:00,350,650,500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-08-24 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-01 00:00:00,500.0,1000.0,800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-02 00:00:00,800.0,1000.0,950.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-03 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-08 00:00:00,1000.0,2000.0,1700.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-09 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-09-30 00:00:00,1000.0,2000.0,1700.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-13 00:00:00,900.0,1200.0,1100.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-15 00:00:00,1000.0,1200.0,1150.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-16 00:00:00,1000.0,1200.0,1150.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-21 00:00:00,1000.0,1200.0,1150.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-10-29 00:00:00,800.0,1000.0,950.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-11-06 00:00:00,800.0,1000.0,950.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-11-27 00:00:00,1500.0,2500.0,2200.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-12 00:00:00,1000.0,2000.0,1600.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-18 00:00:00,1000.0,2500.0,2000.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-25 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-29 00:00:00,700.0,1200.0,1000.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2009-12-31 00:00:00,700.0,1200.0,1000.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-01-09 00:00:00,1000.0,2000.0,1500.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-01-14 00:00:00,1500.0,2500.0,2000.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-02-26 00:00:00,1800.0,2500.0,2300.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-08-19 00:00:00,500.0,1000.0,800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-08-31 00:00:00,500.0,1000.0,800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-03 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-20 00:00:00,900.0,1200.0,1100.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-27 00:00:00,800.0,1000.0,950.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-10-30 00:00:00,800.0,1000.0,950.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-11-05 00:00:00,800.0,1000.0,950.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-11-14 00:00:00,1000.0,1200.0,1150.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-11-27 00:00:00,1500.0,2500.0,2200.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-03 00:00:00,1500.0,2500.0,2200.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-11 00:00:00,1000.0,2000.0,1700.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-12 00:00:00,1000.0,2000.0,1600.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-16 00:00:00,1000.0,2000.0,1700.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2009-12-25 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-05 00:00:00,700.0,750.0,725.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-13 00:00:00,700.0,800.0,750.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-17 00:00:00,650.0,850.0,750.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-01-19 00:00:00,600.0,750.0,675.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-09 00:00:00,1200.0,1400.0,1300.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-14 00:00:00,1000.0,1300.0,1150.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-20 00:00:00,1000.0,1300.0,1150.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-26 00:00:00,1000.0,1200.0,1100.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-11-28 00:00:00,1000.0,1200.0,1100.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-12-03 00:00:00,1000.0,1200.0,1100.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-12-10 00:00:00,800.0,1000.0,900.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2009-12-11 00:00:00,800.0,900.0,850.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-06 00:00:00,500.0,750.0,625.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-17 00:00:00,500.0,750.0,625.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-19 00:00:00,500.0,750.0,625.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-01-28 00:00:00,500.0,750.0,625.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-10-14 00:00:00,600.0,800.0,700.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-10-28 00:00:00,700.0,800.0,750.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-11-11 00:00:00,600.0,800.0,700.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-12-03 00:00:00,600.0,800.0,700.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2009-12-24 00:00:00,500.0,700.0,600.0,185
+Gujarat,Gandhinagar,Radheja,Guava,Other,Medium,2009-01-09 00:00:00,750.0,1250.0,1000.0,185
+Gujarat,Gandhinagar,Radheja,Guava,Other,Medium,2009-11-11 00:00:00,400.0,1250.0,825.0,185
+Gujarat,Junagarh,Mangrol,Guava,Other,Medium,2009-01-14 00:00:00,300.0,320.0,310.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-10-30 00:00:00,375.0,1600.0,1100.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-03 00:00:00,400.0,1650.0,1000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-12 00:00:00,300.0,1250.0,875.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-23 00:00:00,375.0,1300.0,1000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-11-25 00:00:00,350.0,1500.0,1000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-12-22 00:00:00,200.0,1100.0,750.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-12-28 00:00:00,250.0,1250.0,850.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Guava,Other,Large,2009-12-31 00:00:00,500.0,1300.0,900.0,185
+Gujarat,Vadodara(Baroda),Padra,Guava,Other,Medium,2009-01-02 00:00:00,500.0,700.0,625.0,185
+Gujarat,Vadodara(Baroda),Padra,Guava,Other,Medium,2009-12-03 00:00:00,600.0,650.0,625.0,185
+Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-11 00:00:00,800.0,900.0,850.0,185
+Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-16 00:00:00,700.0,750.0,725.0,185
+Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-18 00:00:00,650.0,800.0,725.0,185
+Gujarat,Vadodara(Baroda),Padra,Guava,Other,Small,2009-12-26 00:00:00,750.0,800.0,780.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-05 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-07 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-08 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-16 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-19 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-20 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-25 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-01-31 00:00:00,350.0,650.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-01 00:00:00,350.0,650.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-07 00:00:00,350.0,650.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-09 00:00:00,350.0,650.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-10 00:00:00,350.0,650.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-23 00:00:00,350.0,650.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-02-27 00:00:00,300.0,550.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-08-27 00:00:00,400.0,650.0,500.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-08-28 00:00:00,400.0,650.0,500.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-09-21 00:00:00,350.0,650.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-09-30 00:00:00,350.0,550.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-07 00:00:00,325.0,550.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Large,2009-10-10 00:00:00,300.0,600.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-16 00:00:00,700.0,800.0,750.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-21 00:00:00,750.0,850.0,800.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-10-27 00:00:00,450.0,550.0,500.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-08 00:00:00,300.0,550.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-09 00:00:00,300.0,550.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-11 00:00:00,350.0,650.0,550.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-15 00:00:00,350.0,650.0,550.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-19 00:00:00,500.0,700.0,600.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-11-27 00:00:00,300.0,550.0,400.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-02 00:00:00,350.0,500.0,425.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-04 00:00:00,350.0,650.0,500.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-08 00:00:00,300.0,600.0,450.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-19 00:00:00,350.0,650.0,500.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2009-12-30 00:00:00,350.0,650.0,500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-01-04 00:00:00,1500,2300,1900.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-01-25 00:00:00,1500,2500,2000.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-02-11 00:00:00,2000,3000,2500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-02-18 00:00:00,2000,2500,2300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-11-16 00:00:00,2000,6000,4500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-11-17 00:00:00,1500,3500,2500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-11-28 00:00:00,1500,3000,2500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-12-05 00:00:00,1000,3500,2500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-12-06 00:00:00,1000,3000,2200.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-12-09 00:00:00,1000,2500,2000.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Medium,2016-12-19 00:00:00,1500,3000,2300.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-01-13 00:00:00,2000,2500,2300.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-02-24 00:00:00,1500,2000,1800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-02-25 00:00:00,1500,2000,1800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-03-08 00:00:00,1500,2000,1800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-11-15 00:00:00,2000,5000,4000.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-11-17 00:00:00,1500,3500,2500.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-11-23 00:00:00,1500,4000,3000.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-12-08 00:00:00,1000,2500,2000.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-12-13 00:00:00,1500,2500,2000.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-12-17 00:00:00,1000,3000,2200.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-12-27 00:00:00,1000,2500,2000.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Medium,2016-12-31 00:00:00,1000,2000,1700.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2016-11-21 00:00:00,1900,2100,2000.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2016-11-28 00:00:00,2500,3000,2750.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2016-12-03 00:00:00,1100,1300,1200.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2016-12-17 00:00:00,1000,1200,1100.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Guava,Other,Medium,2016-12-24 00:00:00,1000,1100,1050.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-01-03 00:00:00,1600,2300,2050.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-01-12 00:00:00,1600,2500,2050.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-01-26 00:00:00,1800,2250,2050.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-02-10 00:00:00,1750,2650,2200.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-02-11 00:00:00,1800,2500,2250.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-03-07 00:00:00,1600,2000,1800.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-11-09 00:00:00,2500,3500,3250.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-11-10 00:00:00,2025,3150,2650.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-11-11 00:00:00,1800,2650,2500.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Large,2016-11-17 00:00:00,2000,2500,2300.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Large,2016-11-23 00:00:00,1750,2650,2050.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Large,2016-11-29 00:00:00,2250,3000,2725.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-12-04 00:00:00,1600,2300,2000.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-12-05 00:00:00,1850,2250,2075.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-12-14 00:00:00,1750,2200,2050.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2016-12-28 00:00:00,1500,2000,1750.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-04-27 00:00:00,1300,1600,1400.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-05-05 00:00:00,1500,2000,1750.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-07-01 00:00:00,1500,2000,1750.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-11-24 00:00:00,2500,3500,3000.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-11-29 00:00:00,2500,4000,3500.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-12-09 00:00:00,2500,4000,3500.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-12-10 00:00:00,2500,3500,3000.0,185
+Gujarat,Bharuch,Bharuch,Guava,Other,Medium,2016-12-16 00:00:00,2000,4000,3000.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-01-02 00:00:00,1200,1800,1500.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-01-27 00:00:00,1000,1500,1300.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-01-30 00:00:00,1000,1500,1300.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-02-03 00:00:00,1000,1200,1100.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-02-06 00:00:00,800,1200,1000.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-02-13 00:00:00,1000,1300,1200.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-02-26 00:00:00,800,1500,1200.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-03-11 00:00:00,1200,1300,1300.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-03-14 00:00:00,1000,1300,1200.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-03-15 00:00:00,1200,1500,1400.0,185
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Guava,Other,Medium,2016-03-26 00:00:00,1200,1600,1400.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-01-02 00:00:00,2000,3000,2500.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-01-06 00:00:00,2000,3000,2500.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-01-13 00:00:00,2500,3000,2750.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-05-02 00:00:00,3000,3500,3250.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-10-22 00:00:00,5000,6000,5500.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-11-11 00:00:00,2500,6000,4250.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-11-12 00:00:00,2500,6000,4000.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-11-28 00:00:00,1000,4500,2750.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-12-01 00:00:00,1000,4500,2250.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-12-02 00:00:00,1000,4000,2500.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-12-04 00:00:00,750,4500,2625.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-12-08 00:00:00,500,3500,2000.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-12-11 00:00:00,1000,4000,2500.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2016-12-25 00:00:00,1500,4500,3000.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2016-01-01 00:00:00,3000,5000,4000.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2016-01-16 00:00:00,3000,5000,4000.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2016-12-17 00:00:00,3000,6000,5000.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2016-12-20 00:00:00,2000,4000,3000.0,185
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Guava,Other,Medium,2016-12-28 00:00:00,3000,6000,5000.0,185

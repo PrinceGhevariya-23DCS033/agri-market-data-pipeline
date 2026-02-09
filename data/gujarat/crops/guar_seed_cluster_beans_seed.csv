@@ -19169,76 +19169,442 @@ Gujarat,Sabarkantha,Himatnagar APMC,Guar Seed(Cluster Beans Seed),Whole,Local,20
 Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2025-12-27 00:00:00,4985.0,5675.0,5420.0,413
 Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2025-12-30 00:00:00,4610.0,5555.0,5082.0,413
 Gujarat,Sabarkantha,Himatnagar APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2025-12-30 00:00:00,5000.0,5270.0,5200.0,413
-Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-01 00:00:00,5000,5740,5370.0,413
-Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-01 00:00:00,5445,5605,5605.0,413
-Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-02 00:00:00,4900,6000,5460.0,413
-Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-03 00:00:00,4850,5540,5025.0,413
-Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-02 00:00:00,4805,4805,4805.0,413
-Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-05 00:00:00,5480,5645,5562.5,413
-Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-05 00:00:00,5255,5925,5700.0,413
-Gujarat,Gandhinagar,Kalol APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-06 00:00:00,4985,5875,5400.0,413
-Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-06 00:00:00,5490,5490,5490.0,413
-Gujarat,Banaskanth,Deesa APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-07 00:00:00,5425,5425,5425.0,413
-Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-09 00:00:00,5255,5480,5330.0,413
-Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-08 00:00:00,4755,5325,5325.0,413
-Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-08 00:00:00,5250,5805,5560.0,413
-Gujarat,Banaskanth,Deesa(Bhildi) APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-10 00:00:00,5000,5000,5000.0,413
-Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-07 00:00:00,4250,5675,4900.0,413
-Gujarat,Banaskanth,Tharad APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-12 00:00:00,5405,5500,5455.0,413
-Gujarat,Banaskanth,Tharad APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-07 00:00:00,4850,5900,5375.0,413
-Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-08 00:00:00,4870,5805,5337.0,413
-Gujarat,Gandhinagar,Kalol APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-13 00:00:00,4500,5820,5150.0,413
-Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-12 00:00:00,4910,5965,5437.0,413
+Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-01 00:00:00,5000.0,5740.0,5370.0,413
+Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-01 00:00:00,5445.0,5605.0,5605.0,413
+Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-02 00:00:00,4900.0,6000.0,5460.0,413
+Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-03 00:00:00,4850.0,5540.0,5025.0,413
+Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-02 00:00:00,4805.0,4805.0,4805.0,413
+Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-05 00:00:00,5480.0,5645.0,5562.5,413
+Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-05 00:00:00,5255.0,5925.0,5700.0,413
+Gujarat,Gandhinagar,Kalol APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-06 00:00:00,4985.0,5875.0,5400.0,413
+Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-06 00:00:00,5490.0,5490.0,5490.0,413
+Gujarat,Banaskanth,Deesa APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-07 00:00:00,5425.0,5425.0,5425.0,413
+Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-09 00:00:00,5255.0,5480.0,5330.0,413
+Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-08 00:00:00,4755.0,5325.0,5325.0,413
+Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-08 00:00:00,5250.0,5805.0,5560.0,413
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-10 00:00:00,5000.0,5000.0,5000.0,413
+Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-07 00:00:00,4250.0,5675.0,4900.0,413
+Gujarat,Banaskanth,Tharad APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-12 00:00:00,5405.0,5500.0,5455.0,413
+Gujarat,Banaskanth,Tharad APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-07 00:00:00,4850.0,5900.0,5375.0,413
+Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-08 00:00:00,4870.0,5805.0,5337.0,413
+Gujarat,Gandhinagar,Kalol APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-13 00:00:00,4500.0,5820.0,5150.0,413
+Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-12 00:00:00,4910.0,5965.0,5437.0,413
 Gujarat,Banaskanth,Palanpur APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-16 00:00:00,5252.5,5252.5,5252.5,413
-Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-15 00:00:00,5000,5000,5000.0,413
-Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-20 00:00:00,5000,5105,5105.0,413
-Gujarat,Patan,Harij APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-16 00:00:00,4750,5130,4940.0,413
-Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-16 00:00:00,4750,5300,4750.0,413
-Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-16 00:00:00,4500,5710,5150.0,413
-Gujarat,Kachchh,Anjar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-19 00:00:00,5200,5400,5300.0,413
-Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-19 00:00:00,4650,5455,5250.0,413
-Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-21 00:00:00,4375,5375,4875.0,413
-Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-19 00:00:00,4910,4910,4910.0,413
-Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-21 00:00:00,5000,5595,5500.0,413
-Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-21 00:00:00,4835,4835,4835.0,413
-Gujarat,Banaskanth,Palanpur APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-22 00:00:00,5040,5040,5040.0,413
-Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-24 00:00:00,4900,5055,4977.5,413
-Gujarat,Gandhinagar,Kalol APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-23 00:00:00,4295,5580,5475.0,413
-Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-29 00:00:00,4600,5000,4800.0,413
-Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-27 00:00:00,4755,5200,5100.0,413
-Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-27 00:00:00,4650,5345,4997.0,413
-Gujarat,Porbandar,Porbandar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-27 00:00:00,5225,5225,5225.0,413
-Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-27 00:00:00,5055,5135,5055.0,413
-Gujarat,Banaskanth,Palanpur APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-28 00:00:00,4987,4987,4987.0,413
-Gujarat,Kachchh,Anjar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-28 00:00:00,5050,5200,5150.0,413
-Gujarat,Patan,Harij APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-29 00:00:00,4625,5125,4875.0,413
-Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-28 00:00:00,4750,5250,5150.0,413
-Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-29 00:00:00,4500,5750,5000.0,413
-Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-30 00:00:00,4755,5150,4952.5,413
-Gujarat,Banaskanth,Deesa(Bhildi) APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-31 00:00:00,5115,5115,5115.0,413
-Gujarat,Kachchh,Anjar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-02 00:00:00,5100,5170,5170.0,413
-Gujarat,Banaskanth,Deesa APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-02 00:00:00,5005,5005,5005.0,413
-Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-03 00:00:00,4405,5180,5000.0,413
-Gujarat,Sabarkantha,Talod APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-06 00:00:00,5100,5155,5128.0,413
-Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-02-05 00:00:00,4905,5005,4960.0,413
-Gujarat,Surendranagar,Dasada Patadi APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-02 00:00:00,5800,6200,6100.0,413
-Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-02 00:00:00,4085,5705,5350.0,413
-Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-01 00:00:00,4800,5650,5450.0,413
-Gujarat,Surendranagar,Dhragradhra APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-09 00:00:00,4800,4800,4800.0,413
-Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-05 00:00:00,5105,5640,5372.0,413
-Gujarat,Kachchh,Bhuj APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-06 00:00:00,5400,5671,5535.0,413
-Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-09 00:00:00,4750,5320,5035.0,413
-Gujarat,Surendranagar,Dasada Patadi APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-09 00:00:00,4500,4600,4580.0,413
-Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-13 00:00:00,5110,5250,5200.0,413
-Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-16 00:00:00,4500,5325,5200.0,413
-Gujarat,Sabarkantha,Himatnagar APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-19 00:00:00,4500,5355,5100.0,413
-Gujarat,Sabarkantha,Himatnagar APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-24 00:00:00,4800,5000,4950.0,413
-Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-24 00:00:00,5000,5370,5275.0,413
-Gujarat,Surendranagar,Dasada Patadi APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-27 00:00:00,4800,5000,4950.0,413
-Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-27 00:00:00,4500,5375,4937.0,413
-Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-30 00:00:00,4550,5285,5090.0,413
-Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-31 00:00:00,4850,5220,5025.0,413
-Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-02 00:00:00,4750,5275,5012.0,413
-Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-06 00:00:00,4555,5305,4930.0,413
-Gujarat,Kachchh,Bhuj APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-04 00:00:00,4500,5200,4900.0,413
-Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-04 00:00:00,4685,5375,5030.0,413
+Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-15 00:00:00,5000.0,5000.0,5000.0,413
+Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-20 00:00:00,5000.0,5105.0,5105.0,413
+Gujarat,Patan,Harij APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-16 00:00:00,4750.0,5130.0,4940.0,413
+Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-16 00:00:00,4750.0,5300.0,4750.0,413
+Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-16 00:00:00,4500.0,5710.0,5150.0,413
+Gujarat,Kachchh,Anjar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-19 00:00:00,5200.0,5400.0,5300.0,413
+Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-19 00:00:00,4650.0,5455.0,5250.0,413
+Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-21 00:00:00,4375.0,5375.0,4875.0,413
+Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-19 00:00:00,4910.0,4910.0,4910.0,413
+Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-21 00:00:00,5000.0,5595.0,5500.0,413
+Gujarat,Kachchh,Rapar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-21 00:00:00,4835.0,4835.0,4835.0,413
+Gujarat,Banaskanth,Palanpur APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-22 00:00:00,5040.0,5040.0,5040.0,413
+Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-24 00:00:00,4900.0,5055.0,4977.5,413
+Gujarat,Gandhinagar,Kalol APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-23 00:00:00,4295.0,5580.0,5475.0,413
+Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-29 00:00:00,4600.0,5000.0,4800.0,413
+Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-27 00:00:00,4755.0,5200.0,5100.0,413
+Gujarat,Mehsana,Visnagar APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-27 00:00:00,4650.0,5345.0,4997.0,413
+Gujarat,Porbandar,Porbandar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-27 00:00:00,5225.0,5225.0,5225.0,413
+Gujarat,Banaskanth,Vadgam APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-27 00:00:00,5055.0,5135.0,5055.0,413
+Gujarat,Banaskanth,Palanpur APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-28 00:00:00,4987.0,4987.0,4987.0,413
+Gujarat,Kachchh,Anjar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-28 00:00:00,5050.0,5200.0,5150.0,413
+Gujarat,Patan,Harij APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-29 00:00:00,4625.0,5125.0,4875.0,413
+Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-28 00:00:00,4750.0,5250.0,5150.0,413
+Gujarat,Morbi,APMC HALVAD,Guar Seed(Cluster Beans Seed),Other,Local,2026-01-29 00:00:00,4500.0,5750.0,5000.0,413
+Gujarat,Banaskanth,Thara APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-30 00:00:00,4755.0,5150.0,4952.5,413
+Gujarat,Banaskanth,Deesa(Bhildi) APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-01-31 00:00:00,5115.0,5115.0,5115.0,413
+Gujarat,Kachchh,Anjar APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-02 00:00:00,5100.0,5170.0,5170.0,413
+Gujarat,Banaskanth,Deesa APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-02 00:00:00,5005.0,5005.0,5005.0,413
+Gujarat,Mehsana,Kadi APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-03 00:00:00,4405.0,5180.0,5000.0,413
+Gujarat,Sabarkantha,Talod APMC,Guar Seed(Cluster Beans Seed),Other,FAQ,2026-02-06 00:00:00,5100.0,5155.0,5128.0,413
+Gujarat,Banaskanth,Dhanera APMC,Guar Seed(Cluster Beans Seed),Other,Local,2026-02-05 00:00:00,4905.0,5005.0,4960.0,413
+Gujarat,Surendranagar,Dasada Patadi APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-02 00:00:00,5800.0,6200.0,6100.0,413
+Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-02 00:00:00,4085.0,5705.0,5350.0,413
+Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-01 00:00:00,4800.0,5650.0,5450.0,413
+Gujarat,Surendranagar,Dhragradhra APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-09 00:00:00,4800.0,4800.0,4800.0,413
+Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-05 00:00:00,5105.0,5640.0,5372.0,413
+Gujarat,Kachchh,Bhuj APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-06 00:00:00,5400.0,5671.0,5535.0,413
+Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-09 00:00:00,4750.0,5320.0,5035.0,413
+Gujarat,Surendranagar,Dasada Patadi APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-09 00:00:00,4500.0,4600.0,4580.0,413
+Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-13 00:00:00,5110.0,5250.0,5200.0,413
+Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-16 00:00:00,4500.0,5325.0,5200.0,413
+Gujarat,Sabarkantha,Himatnagar APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-19 00:00:00,4500.0,5355.0,5100.0,413
+Gujarat,Sabarkantha,Himatnagar APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-24 00:00:00,4800.0,5000.0,4950.0,413
+Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-24 00:00:00,5000.0,5370.0,5275.0,413
+Gujarat,Surendranagar,Dasada Patadi APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-27 00:00:00,4800.0,5000.0,4950.0,413
+Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-01-27 00:00:00,4500.0,5375.0,4937.0,413
+Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-30 00:00:00,4550.0,5285.0,5090.0,413
+Gujarat,Gandhinagar,Mansa APMC,Guar Seed(Cluster Beans Seed),Whole,Local,2026-01-31 00:00:00,4850.0,5220.0,5025.0,413
+Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-02 00:00:00,4750.0,5275.0,5012.0,413
+Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-06 00:00:00,4555.0,5305.0,4930.0,413
+Gujarat,Kachchh,Bhuj APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-04 00:00:00,4500.0,5200.0,4900.0,413
+Gujarat,Patan,Siddhpur APMC,Guar Seed(Cluster Beans Seed),Whole,FAQ,2026-02-04 00:00:00,4685.0,5375.0,5030.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-03 00:00:00,2750.0,3050.0,2900.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-04 00:00:00,2700.0,3000.0,2800.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-14 00:00:00,2750.0,3050.0,2900.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-20 00:00:00,2800.0,3050.0,2950.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-23 00:00:00,2750.0,3100.0,2950.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-01 00:00:00,2950.0,3350.0,3200.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-02 00:00:00,3000.0,3450.0,3200.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-04 00:00:00,2950.0,3400.0,3200.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-11 00:00:00,3000.0,3350.0,3150.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-04 00:00:00,3250.0,3700.0,3500.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-05 00:00:00,3500.0,3800.0,3650.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-22 00:00:00,3000.0,3350.0,3150.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-25 00:00:00,3000.0,3500.0,3250.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-26 00:00:00,3200.0,3650.0,3400.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-23 00:00:00,2600.0,3000.0,2800.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-07 00:00:00,2300.0,2850.0,2600.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-09 00:00:00,2500.0,2750.0,2625.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-20 00:00:00,2750.0,3100.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-28 00:00:00,2650.0,3030.0,2850.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-21 00:00:00,2600.0,3100.0,2850.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-25 00:00:00,2250.0,2700.0,2500.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-28 00:00:00,2750.0,3125.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-08 00:00:00,2500.0,3300.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-19 00:00:00,2400.0,3150.0,2750.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-02 00:00:00,3000.0,3500.0,3250.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-13 00:00:00,2750.0,3300.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-25 00:00:00,2750.0,3300.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-29 00:00:00,2750.0,3200.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-10 00:00:00,2750.0,3300.0,3025.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-11 00:00:00,2750.0,3250.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-14 00:00:00,3000.0,3350.0,3150.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-26 00:00:00,2750.0,3150.0,3000.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-10 00:00:00,3000.0,3200.0,3100.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-21 00:00:00,3000.0,3500.0,3250.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-25 00:00:00,3250.0,3555.0,3350.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-29 00:00:00,3050.0,3500.0,3250.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-02 00:00:00,3250.0,3525.0,3400.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-16 00:00:00,3000.0,3625.0,3300.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-19 00:00:00,3400.0,3650.0,3525.0,413
+Gujarat,Jamnagar,Jam Jodhpur,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-30 00:00:00,3500.0,3850.0,3650.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-09 00:00:00,2850.0,3050.0,2950.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-10 00:00:00,2970.0,3020.0,2995.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-22 00:00:00,3015.0,3070.0,3043.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-07 00:00:00,2875.0,3750.0,3313.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-03 00:00:00,3750.0,3850.0,3800.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-15 00:00:00,3500.0,3820.0,3660.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-24 00:00:00,3000.0,3170.0,3085.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-26 00:00:00,2995.0,3170.0,3083.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-01 00:00:00,3090.0,3245.0,3168.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-12 00:00:00,3200.0,3365.0,3283.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-22 00:00:00,3595.0,3635.0,3615.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-26 00:00:00,2975.0,3685.0,3330.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-28 00:00:00,2275.0,3745.0,3010.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-06 00:00:00,2500.0,3395.0,2948.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-05 00:00:00,3300.0,3400.0,3350.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-17 00:00:00,3250.0,3380.0,3315.0,413
+Gujarat,Jamnagar,Jamnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-01 00:00:00,3255.0,3355.0,3305.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-03 00:00:00,2500.0,3005.0,2900.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-11 00:00:00,2500.0,2925.0,2800.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-24 00:00:00,2500.0,2940.0,2800.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-31 00:00:00,2500.0,2805.0,2625.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-01 00:00:00,2600.0,2940.0,2750.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-02 00:00:00,2625.0,3080.0,2750.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-06 00:00:00,2600.0,2600.0,2600.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-13 00:00:00,2500.0,3000.0,2850.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-10 00:00:00,2500.0,3400.0,3200.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-03 00:00:00,2750.0,3370.0,3125.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-03 00:00:00,2500.0,3300.0,3125.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-25 00:00:00,2800.0,3010.0,2850.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-07 00:00:00,2500.0,3025.0,2900.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-14 00:00:00,2500.0,2860.0,2750.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-20 00:00:00,2250.0,3045.0,2750.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-20 00:00:00,2875.0,2960.0,2900.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-21 00:00:00,2225.0,2750.0,2500.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-27 00:00:00,2500.0,2900.0,2700.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-29 00:00:00,2250.0,2905.0,2600.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-03 00:00:00,2800.0,2800.0,2800.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-08 00:00:00,2500.0,3250.0,3125.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-10 00:00:00,2750.0,3290.0,3125.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-11 00:00:00,3260.0,3260.0,3260.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-12 00:00:00,3075.0,3075.0,3075.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-22 00:00:00,3000.0,3460.0,3250.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-24 00:00:00,3000.0,3350.0,3250.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-25 00:00:00,3250.0,3625.0,3500.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-07 00:00:00,2700.0,3190.0,2925.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-22 00:00:00,2750.0,3310.0,3100.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-25 00:00:00,3000.0,3375.0,3200.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-06 00:00:00,3230.0,3230.0,3230.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-07 00:00:00,2750.0,3240.0,3000.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-13 00:00:00,2750.0,3275.0,3200.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-16 00:00:00,2050.0,3270.0,3000.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-23 00:00:00,2500.0,3420.0,3000.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-01 00:00:00,3375.0,3570.0,3450.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-14 00:00:00,3250.0,3595.0,3500.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-19 00:00:00,3250.0,3670.0,3625.0,413
+Gujarat,Junagarh,Junagadh,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-30 00:00:00,3250.0,3840.0,3625.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-11 00:00:00,3490.0,3490.0,3490.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-16 00:00:00,3490.0,3520.0,3510.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-23 00:00:00,3050.0,3070.0,3060.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-17 00:00:00,3100.0,3100.0,3100.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-05 00:00:00,3410.0,3410.0,3410.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-10 00:00:00,3400.0,3510.0,3470.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-16 00:00:00,3440.0,3440.0,3440.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-02 00:00:00,3540.0,3540.0,3540.0,413
+Gujarat,Kachchh,Anjar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-27 00:00:00,2750.0,3550.0,3400.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-02 00:00:00,3065.0,3130.0,3110.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-09 00:00:00,3000.0,3100.0,3050.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-17 00:00:00,2930.0,3050.0,2980.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-19 00:00:00,2990.0,3005.0,2995.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-27 00:00:00,3000.0,3030.0,3015.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-01 00:00:00,2995.0,3010.0,3000.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-10 00:00:00,3000.0,3030.0,3015.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-13 00:00:00,3010.0,3035.0,3025.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-14 00:00:00,2985.0,3010.0,3000.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-21 00:00:00,3090.0,3110.0,3100.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-27 00:00:00,3350.0,3400.0,3375.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-14 00:00:00,3575.0,3600.0,3585.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-29 00:00:00,3600.0,3625.0,3615.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-30 00:00:00,3625.0,3660.0,3640.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-04 00:00:00,3875.0,3905.0,3890.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-13 00:00:00,3700.0,3725.0,3715.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-21 00:00:00,3700.0,3735.0,3725.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-25 00:00:00,3600.0,3625.0,3615.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-06 00:00:00,3420.0,3450.0,3430.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-11 00:00:00,3410.0,3430.0,3420.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-12 00:00:00,3400.0,3425.0,3415.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-16 00:00:00,3350.0,3360.0,3355.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-20 00:00:00,3460.0,3470.0,3465.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-26 00:00:00,3325.0,3335.0,3330.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-01 00:00:00,3150.0,3200.0,3175.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-12 00:00:00,3100.0,3125.0,3115.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-13 00:00:00,3125.0,3200.0,3175.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-22 00:00:00,3075.0,3145.0,3100.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-05 00:00:00,3000.0,3060.0,3030.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-06 00:00:00,3000.0,3110.0,3050.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-21 00:00:00,3125.0,3155.0,3140.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-25 00:00:00,3125.0,3150.0,3135.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-29 00:00:00,3200.0,3225.0,3215.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-04 00:00:00,3315.0,3330.0,3325.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-08 00:00:00,3365.0,3400.0,3380.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-12 00:00:00,3450.0,3495.0,3470.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-16 00:00:00,3400.0,3415.0,3410.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-17 00:00:00,3475.0,3500.0,3490.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-22 00:00:00,3640.0,3655.0,3650.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-24 00:00:00,3650.0,3675.0,3660.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-20 00:00:00,3530.0,3570.0,3545.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-25 00:00:00,3475.0,3500.0,3485.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-12 00:00:00,3500.0,3535.0,3520.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-17 00:00:00,3525.0,3550.0,3535.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-04 00:00:00,3475.0,3505.0,3495.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-08 00:00:00,3390.0,3495.0,3450.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-10 00:00:00,3300.0,3450.0,3425.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-20 00:00:00,3450.0,3480.0,3470.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-25 00:00:00,3500.0,3600.0,3530.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-01 00:00:00,3535.0,3680.0,3600.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-15 00:00:00,3580.0,3700.0,3680.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-21 00:00:00,3420.0,3740.0,3720.0,413
+Gujarat,Kachchh,Bachau,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-30 00:00:00,3800.0,3905.0,3880.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-10 00:00:00,2950.0,3012.0,2981.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-16 00:00:00,2800.0,3030.0,2915.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-19 00:00:00,2900.0,3051.0,2976.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-08 00:00:00,2981.0,3001.0,2991.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-18 00:00:00,3100.0,3136.0,3118.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-21 00:00:00,3050.0,3075.0,3062.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-04 00:00:00,3445.0,3576.0,3511.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-06 00:00:00,3658.0,3700.0,3679.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-15 00:00:00,3300.0,3560.0,3430.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-21 00:00:00,3500.0,3632.0,3566.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-25 00:00:00,3260,3657,3459.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-27 00:00:00,3580,3638,3609.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-06 00:00:00,3775,3893,3834.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-11 00:00:00,3800,3900,3850.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-13 00:00:00,3800,3914,3857.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-14 00:00:00,3800,3900,3850.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-15 00:00:00,3700,3885,3793.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-21 00:00:00,3660,3721,3691.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-15 00:00:00,3442,3457,3450.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-18 00:00:00,3246,3489,3368.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-31 00:00:00,3125,3237,3181.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-01 00:00:00,3170,3277,3224.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-03 00:00:00,3200,3236,3218.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-10 00:00:00,3050,3125,3088.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-29 00:00:00,2950,3211,3081.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-24 00:00:00,3100,3165,3132.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-09 00:00:00,3475,3511,3493.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-11 00:00:00,3200,3484,3342.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-22 00:00:00,3590,3720,3655.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-24 00:00:00,3650,3700,3675.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-31 00:00:00,3601,3657,3629.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-01 00:00:00,3450,3520,3485.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-06 00:00:00,3482,3521,3502.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-08 00:00:00,3428,3571,3500.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-26 00:00:00,2800,3515,3158.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-05 00:00:00,3265,3425,3345.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-10 00:00:00,2985,3525,3255.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-13 00:00:00,2600,3497,3049.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-26 00:00:00,3000,3446,3223.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-28 00:00:00,3300,3427,3364.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-02 00:00:00,3300,3421,3361.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-15 00:00:00,3509,3535,3522.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-17 00:00:00,3400,3490,3445.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-25 00:00:00,3490,3624,3557.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-18 00:00:00,3522,3757,3640.0,413
+Gujarat,Kachchh,Bhuj,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-21 00:00:00,3535,3761,3648.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-05 00:00:00,2925,2975,2950.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-31 00:00:00,2825,2875,2850.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-03 00:00:00,2750,2950,2850.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-06 00:00:00,2800,2975,2900.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-07 00:00:00,2880,2900,2890.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-14 00:00:00,2900,2950,2925.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-21 00:00:00,2840,3030,2935.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-01 00:00:00,2995,3400,3300.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-04 00:00:00,3400,3450,3425.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-07 00:00:00,3400,3500,3500.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-30 00:00:00,3550,3600,3575.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-04 00:00:00,3750,3750,3750.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-15 00:00:00,3700,3750,3725.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-04 00:00:00,3400,3400,3400.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-17 00:00:00,3300,3300,3300.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-18 00:00:00,3300,3350,3325.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-23 00:00:00,3300,3350,3325.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-27 00:00:00,3200,3250,3225.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-31 00:00:00,3125,3150,3140.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-06 00:00:00,3060,3075,3070.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-07 00:00:00,3040,3045,3045.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-08 00:00:00,3000,3025,3015.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-17 00:00:00,3100,3125,3120.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-30 00:00:00,3075,3100,3090.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-11 00:00:00,3000,3000,3000.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-19 00:00:00,3100,3100,3100.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-01 00:00:00,3125,3175,3150.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-02 00:00:00,3150,3200,3175.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-03 00:00:00,3125,3175,3150.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-07 00:00:00,3200,3250,3225.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-09 00:00:00,3350,3400,3375.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-10 00:00:00,3350,3400,3375.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-12 00:00:00,3450,3500,3475.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-24 00:00:00,3500,3550,3525.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-31 00:00:00,3600,3650,3625.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-06 00:00:00,3325,3375,3350.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-09 00:00:00,3350,3400,3375.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-11 00:00:00,3400,3450,3425.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-27 00:00:00,3400,3450,3425.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-30 00:00:00,3400,3450,3425.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-11 00:00:00,3505,3525,3515.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-14 00:00:00,3500,3510,3505.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-10-27 00:00:00,3350,3375,3365.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-03 00:00:00,3350,3355,3355.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-08 00:00:00,3465,3465,3465.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-18 00:00:00,3440,3470,3455.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-20 00:00:00,3450,3475,3465.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-22 00:00:00,3480,3500,3490.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-28 00:00:00,3625,3655,3640.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-29 00:00:00,3635,3650,3645.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-30 00:00:00,3610,3615,3615.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-05 00:00:00,3630,3700,3665.0,413
+Gujarat,Kachchh,Rapar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-06 00:00:00,3625,3675,3650.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-06 00:00:00,3000,3075,3037.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-13 00:00:00,3025,3050,3037.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-16 00:00:00,3000,3040,3020.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-27 00:00:00,3000,3070,3035.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-04 00:00:00,2950,3030,2990.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-08 00:00:00,2875,3000,2937.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-17 00:00:00,2925,3025,2975.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-27 00:00:00,3150,3250,3200.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-18 00:00:00,3500,3640,3570.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-22 00:00:00,3525,3600,3562.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-24 00:00:00,3450,3580,3515.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-21 00:00:00,3500,3670,3585.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-22 00:00:00,3575,3675,3625.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-01 00:00:00,3550,3640,3595.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-06 00:00:00,3450,3500,3475.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-08 00:00:00,3450,3545,3497.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-19 00:00:00,3150,3390,3270.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-31 00:00:00,3100,3205,3152.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-05 00:00:00,2875,2975,2925.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-10 00:00:00,2950,3020,2985.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-21 00:00:00,2850,2935,2892.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-09 00:00:00,3475,3570,3522.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-21 00:00:00,3400,3450,3425.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-23 00:00:00,3350,3455,3402.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-08 00:00:00,3250,3390,3320.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-22 00:00:00,3450,3555,3505.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-07 00:00:00,3500,3630,3565.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-15 00:00:00,3625,3680,3652.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-22 00:00:00,3700,3755,3727.0,413
+Gujarat,Mehsana,Becharaji,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-28 00:00:00,3808,3885,3846.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-01 00:00:00,2940,3020,2975.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-04 00:00:00,3000,3120,3075.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-17 00:00:00,2950,3070,3000.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-19 00:00:00,2875,3095,3050.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-20 00:00:00,2925,3110,3050.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-24 00:00:00,2945,3095,3050.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-25 00:00:00,2905,3055,3025.0,413
+Gujarat,Mehsana,Kadi,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-29 00:00:00,2905,3030,3000.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-23 00:00:00,2750,3120,3000.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-27 00:00:00,3000,3240,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-28 00:00:00,3000,3320,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-14 00:00:00,3250,3550,3500.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-08 00:00:00,3750,3845,3800.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-13 00:00:00,3600,3730,3700.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-04 00:00:00,3450,3545,3500.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-15 00:00:00,3250,3540,3400.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-06 00:00:00,3000,3100,3050.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-21 00:00:00,3000,3205,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-28 00:00:00,2950,3045,3000.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-05 00:00:00,3000,3125,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-01 00:00:00,3000,3150,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-02 00:00:00,3000,3260,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-08 00:00:00,3000,3300,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-12 00:00:00,3250,3375,3300.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-04 00:00:00,3500,3625,3550.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-15 00:00:00,3350,3580,3500.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-27 00:00:00,3250,3300,3275.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-20 00:00:00,3000,3290,3100.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-11-23 00:00:00,3250,3400,3300.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-06 00:00:00,3500,3760,3600.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-12 00:00:00,3500,3645,3600.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-27 00:00:00,3500,3805,3700.0,413
+Gujarat,Sabarkantha,Himatnagar,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-12-30 00:00:00,3750,3920,3900.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-06 00:00:00,2950,3085,3018.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-10 00:00:00,2735,3045,2890.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-12 00:00:00,2800,3035,2918.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-13 00:00:00,2965,3050,3008.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-17 00:00:00,2875,3045,2960.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-18 00:00:00,2905,3110,3008.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-23 00:00:00,2870,3125,2998.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-01-27 00:00:00,2825,3060,2943.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-10 00:00:00,2805,3050,2928.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-11 00:00:00,2840,3040,2940.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-02-15 00:00:00,2920,3035,2978.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-09 00:00:00,3600,3740,3670.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-15 00:00:00,3335,3555,3445.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-17 00:00:00,3510,3570,3540.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-23 00:00:00,3500,3555,3528.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-03-27 00:00:00,3500,3625,3563.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-06 00:00:00,3500,3750,3625.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-12 00:00:00,3600,3720,3660.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-15 00:00:00,3685,3810,3748.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-19 00:00:00,3700,3725,3713.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-20 00:00:00,3675,3745,3710.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-04-21 00:00:00,3635,3700,3668.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-01 00:00:00,3480,3630,3555.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-05 00:00:00,3300,3435,3368.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-06 00:00:00,3300,3400,3350.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-09 00:00:00,3000,3450,3225.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-16 00:00:00,3310,3420,3365.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-18 00:00:00,3375,3430,3403.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-23 00:00:00,3280,3340,3310.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-05-30 00:00:00,3100,3165,3133.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-07 00:00:00,3000,3150,3075.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-10 00:00:00,3000,3055,3028.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-12 00:00:00,3000,3080,3040.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-13 00:00:00,2965,3050,3008.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-14 00:00:00,3100,3175,3138.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-15 00:00:00,3000,3250,3125.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-06-16 00:00:00,3000,3235,3118.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-17 00:00:00,3045,3145,3095.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-18 00:00:00,2970,3350,3160.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-22 00:00:00,3055,3145,3100.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-07-31 00:00:00,3100,3275,3188.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-01 00:00:00,3125,3275,3200.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-09 00:00:00,3445,3555,3500.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-08-28 00:00:00,3305,3890,3598.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-20 00:00:00,3400,3590,3495.0,413
+Gujarat,Sabarkantha,Talod,Guar Seed(Cluster Beans Seed),Other,FAQ,2017-09-22 00:00:00,3500,3525,3513.0,413

@@ -12978,31 +12978,75 @@ Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mango,Other,Large,2025-09-23 00:00
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mango,Other,Large,2025-09-30 00:00:00,5000.0,6000.0,5800.0,20
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Mango,Other,Medium,2025-09-24 00:00:00,5000.0,7000.0,6000.0,20
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Mango,Other,Grade A,2025-12-21 00:00:00,5800.0,5800.0,5800.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-02-12 00:00:00,3000,5000,4500.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-02-20 00:00:00,3000,5000,4500.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-02-27 00:00:00,3000,5000,4500.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-04 00:00:00,2000,5000,4000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-12 00:00:00,2500,6000,5000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-13 00:00:00,3000,6000,5000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-23 00:00:00,3000,5000,4100.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-31 00:00:00,2000,5000,3500.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-04-20 00:00:00,1500,2500,2000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-04-29 00:00:00,1300,6000,3000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-04-30 00:00:00,4000,6000,5050.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-05-21 00:00:00,900,8000,4000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-05-30 00:00:00,1200,7000,3000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-05 00:00:00,1300,8000,4000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-08 00:00:00,1200,7000,3000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-13 00:00:00,2000,8000,3000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-16 00:00:00,1200,7000,3500.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-18 00:00:00,1300,8000,4500.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-19 00:00:00,1300,8000,4500.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-26 00:00:00,1100,10000,7000.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-06 00:00:00,1600,2500,2200.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-08 00:00:00,1600,2500,2200.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-10 00:00:00,1000,3000,2050.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-11 00:00:00,1500,3000,2300.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-16 00:00:00,1500,3000,2300.0,20
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-08-03 00:00:00,2000,5000,3700.0,20
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Mango,Other,Small,2009-01-27 00:00:00,4000,7000,6000.0,20
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Mango,Other,Small,2009-02-27 00:00:00,3000,5000,4500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-02-12 00:00:00,3000.0,5000.0,4500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-02-20 00:00:00,3000.0,5000.0,4500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-02-27 00:00:00,3000.0,5000.0,4500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-04 00:00:00,2000.0,5000.0,4000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-12 00:00:00,2500.0,6000.0,5000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-13 00:00:00,3000.0,6000.0,5000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-23 00:00:00,3000.0,5000.0,4100.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-03-31 00:00:00,2000.0,5000.0,3500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-04-20 00:00:00,1500.0,2500.0,2000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-04-29 00:00:00,1300.0,6000.0,3000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-04-30 00:00:00,4000.0,6000.0,5050.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-05-21 00:00:00,900.0,8000.0,4000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-05-30 00:00:00,1200.0,7000.0,3000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-05 00:00:00,1300.0,8000.0,4000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-08 00:00:00,1200.0,7000.0,3000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-13 00:00:00,2000.0,8000.0,3000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-16 00:00:00,1200.0,7000.0,3500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-18 00:00:00,1300.0,8000.0,4500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-19 00:00:00,1300.0,8000.0,4500.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-06-26 00:00:00,1100.0,10000.0,7000.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-06 00:00:00,1600.0,2500.0,2200.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-08 00:00:00,1600.0,2500.0,2200.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-10 00:00:00,1000.0,3000.0,2050.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-11 00:00:00,1500.0,3000.0,2300.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-07-16 00:00:00,1500.0,3000.0,2300.0,20
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Mango,Other,Small,2009-08-03 00:00:00,2000.0,5000.0,3700.0,20
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Mango,Other,Small,2009-01-27 00:00:00,4000.0,7000.0,6000.0,20
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Mango,Other,Small,2009-02-27 00:00:00,3000.0,5000.0,4500.0,20
+Gujarat,Valsad,Pardi(Ugvada),Mango,Hapus(Alphaso),Small,2015-06-11 00:00:00,3500.0,4000.0,3750.0,20
+Gujarat,Valsad,Pardi(Ugvada),Mango,Raspuri,Large,2015-05-10 00:00:00,900.0,1000.0,950.0,20
+Gujarat,Valsad,Pardi(Ugvada),Mango,Raspuri,Small,2015-06-03 00:00:00,1300.0,1400.0,1350.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Dusheri,Large,2015-05-08 00:00:00,2500.0,3000.0,2750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Dusheri,Medium,2015-06-18 00:00:00,2500.0,3500.0,3000.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Hapus(Alphaso),Large,2015-05-14 00:00:00,3250.0,4250.0,3750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Hapus(Alphaso),Medium,2015-06-14 00:00:00,3500,4000,3750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Hapus(Alphaso),Small,2015-06-15 00:00:00,3500,4000,3750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Hapus(Alphaso),Large,2015-06-16 00:00:00,3750,4250,4000.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Hapus(Alphaso),Large,2015-06-18 00:00:00,4000,5000,4500.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Hapus(Alphaso),Large,2015-06-19 00:00:00,4000,5000,4500.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Hapus(Alphaso),Large,2015-06-22 00:00:00,4000,5000,4500.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Small,2015-05-04 00:00:00,750,850,800.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Large,2015-05-14 00:00:00,2500,3000,2750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Medium,2015-05-16 00:00:00,2500,3000,2750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Small,2015-05-18 00:00:00,2500,2750,2625.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Large,2015-05-19 00:00:00,2500,3500,3000.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Large,2015-05-22 00:00:00,2500,3000,2750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Large,2015-05-23 00:00:00,2500,3000,2750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Medium,2015-05-27 00:00:00,2000,2500,2250.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Large,2015-05-28 00:00:00,2500,3000,2750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Small,2015-06-11 00:00:00,2500,3000,2750.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Small,2015-06-17 00:00:00,2000,2500,2250.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Keshar,Medium,2015-06-20 00:00:00,1500,2500,2000.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Raspuri,Large,2015-05-07 00:00:00,1250,1750,1500.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Raspuri,Medium,2015-05-13 00:00:00,1300,1400,1350.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Raspuri,Small,2015-05-15 00:00:00,1300,1400,1350.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Raspuri,Medium,2015-05-17 00:00:00,1300,1400,1350.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Raspuri,Small,2015-05-20 00:00:00,1250,1500,1375.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Raspuri,Medium,2015-05-25 00:00:00,1250,1500,1375.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Raspuri,Large,2015-06-03 00:00:00,1400,1500,1450.0,20
+Gujarat,Valsad,Pardi(Vapi),Mango,Totapuri,Large,2015-05-08 00:00:00,500,750,625.0,20
+Gujarat,Valsad,Valsad,Mango,Hapus(Alphaso),Medium,2015-04-28 00:00:00,5000,7500,6250.0,20
+Gujarat,Valsad,Valsad,Mango,Hapus(Alphaso),Medium,2015-05-22 00:00:00,4500,5500,5000.0,20
+Gujarat,Valsad,Valsad,Mango,Hapus(Alphaso),Medium,2015-05-27 00:00:00,4500,5500,5000.0,20
+Gujarat,Valsad,Valsad,Mango,Keshar,Medium,2015-05-06 00:00:00,4000,5000,4500.0,20
+Gujarat,Valsad,Valsad,Mango,Keshar,Medium,2015-06-03 00:00:00,2750,3750,3250.0,20
+Gujarat,Valsad,Valsad,Mango,Keshar,Medium,2015-06-16 00:00:00,2750,3500,3125.0,20
+Gujarat,Valsad,Valsad(Dungari),Mango,Dusheri,Medium,2015-06-03 00:00:00,2500,2750,2625.0,20
+Gujarat,Valsad,Valsad(Dungari),Mango,Dusheri,Medium,2015-06-05 00:00:00,1250,1750,1500.0,20
+Gujarat,Valsad,Valsad(Dungari),Mango,Hapus(Alphaso),Medium,2015-05-26 00:00:00,4625,5250,4938.0,20
+Gujarat,Valsad,Valsad(Dungari),Mango,Hapus(Alphaso),Medium,2015-06-04 00:00:00,3875,5625,4750.0,20
+Gujarat,Valsad,Valsad(Dungari),Mango,Keshar,Medium,2015-05-25 00:00:00,4000,4500,4250.0,20
+Gujarat,Valsad,Valsad(Dungari),Mango,Keshar,Medium,2015-06-09 00:00:00,2750,3250,3000.0,20

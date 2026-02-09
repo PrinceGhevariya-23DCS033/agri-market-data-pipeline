@@ -45093,18 +45093,654 @@ Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Maize,Hybrid Red (Cattle Feed),Non-FAQ,2
 Gujarat,Rajkot,Jasdan APMC,Maize,Hybrid/Local,FAQ,2026-01-24 00:00:00,2000.0,2000.0,2000.0,4
 Gujarat,Bhavnagar,Mahuva(Station Road) APMC,Maize,Hybrid/Local,FAQ,2026-01-28 00:00:00,2385.0,2385.0,2385.0,4
 Gujarat,Rajkot,Jasdan APMC,Maize,Hybrid/Local,FAQ,2026-01-30 00:00:00,1500.0,1500.0,1500.0,4
-Gujarat,Amreli,Amreli APMC,Maize,Other,FAQ,2026-01-21 00:00:00,1800.0,2000.0,2000.0,4
-Gujarat,Dahod,Zalod(Sanjeli) APMC,Maize,Other,Grade Range-2,2026-02-07 00:00:00,2000.0,2000.0,2000.0,4
-Gujarat,Dahod,Dahod APMC,Maize,White (SAFED),Local,2026-01-06 00:00:00,1650.0,2400.0,2175.0,4
-Gujarat,Dahod,Dahod APMC,Maize,White (SAFED),Local,2026-01-13 00:00:00,1600.0,2200.0,1960.0,4
-Gujarat,Dahod,Jhalod APMC,Maize,White (SAFED),Local,2026-01-17 00:00:00,2200.0,2200.0,2200.0,4
-Gujarat,Dahod,Dahod APMC,Maize,White (SAFED),Local,2026-01-21 00:00:00,1575.0,2210.0,1915.0,4
-Gujarat,Dahod,Jhalod APMC,Maize,White (SAFED),Local,2026-01-23 00:00:00,2200.0,2200.0,2200.0,4
-Gujarat,Dahod,Dahod APMC,Maize,White (SAFED),Local,2026-01-28 00:00:00,1550.0,2200.0,1850.0,4
-Gujarat,Dahod,Jhalod APMC,Maize,White (SAFED),Local,2026-02-03 00:00:00,2200.0,2200.0,2200.0,4
-Gujarat,Dahod,Jhalod APMC,Maize,White (SAFED),Local,2026-02-05 00:00:00,2200.0,2200.0,2200.0,4
-Gujarat,Dahod,Dahod APMC,Maize,White (SAFED),Local,2026-02-06 00:00:00,1500.0,2200.0,1900.0,4
-Gujarat,Rajkot,Gondal APMC,Maize,Yellow,Non-FAQ,2026-01-02 00:00:00,1605.0,1605.0,1605.0,4
-Gujarat,Rajkot,Gondal APMC,Maize,Yellow,FAQ,2026-01-08 00:00:00,1705.0,1955.0,1705.0,4
-Gujarat,Rajkot,Gondal APMC,Maize,Yellow,Non-FAQ,2026-01-12 00:00:00,1655.0,2005.0,1705.0,4
-Gujarat,Rajkot,Gondal APMC,Maize,Yellow,Non-FAQ,2026-01-15 00:00:00,1755.0,2055.0,2005.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-06-23 00:00:00,1040.0,1260.0,1150.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-07-07 00:00:00,1200.0,1350.0,1275.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-07-18 00:00:00,1300.0,1505.0,1403.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-09-04 00:00:00,1300.0,1550.0,1425.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-09-12 00:00:00,1300.0,1440.0,1370.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-09-19 00:00:00,1325.0,1450.0,1388.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-09-20 00:00:00,1300.0,1450.0,1375.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-09-21 00:00:00,1300.0,1450.0,1375.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-09-27 00:00:00,1250.0,1600.0,1425.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-10-03 00:00:00,1250.0,1500.0,1375.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-10-06 00:00:00,1250.0,1500.0,1375.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-10-13 00:00:00,1050.0,1350.0,1200.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-10-17 00:00:00,1000.0,1350.0,1175.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-10-18 00:00:00,1100.0,1400.0,1250.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-11-10 00:00:00,1200.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-11-13 00:00:00,1200.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-11-14 00:00:00,1200.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-11-15 00:00:00,1200.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-11-17 00:00:00,1200.0,1525.0,1363.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-11-20 00:00:00,1200.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-11-29 00:00:00,1150.0,1400.0,1275.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-12-12 00:00:00,1200.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-12-28 00:00:00,1000.0,1200.0,1100.0,4
+Gujarat,Sabarkantha,Bhiloda,Maize,Other,FAQ,2017-12-29 00:00:00,1000.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-01-04 00:00:00,1400.0,1550.0,1525.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-01-06 00:00:00,1450.0,1625.0,1580.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-01-18 00:00:00,1450.0,1625.0,1550.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-01-19 00:00:00,1400.0,1650.0,1600.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-01-20 00:00:00,1450.0,1600.0,1550.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-02-03 00:00:00,1500.0,1600.0,1580.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-02-20 00:00:00,1450.0,1575.0,1535.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-03-01 00:00:00,1400.0,1550.0,1510.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-03-14 00:00:00,1350.0,1550.0,1460.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-03-17 00:00:00,1350.0,1555.0,1500.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-03-21 00:00:00,1375.0,1505.0,1490.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-04-01 00:00:00,1300.0,1500.0,1480.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-04-07 00:00:00,1300.0,1475.0,1450.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-04-11 00:00:00,1300.0,1450.0,1380.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-04-22 00:00:00,1200.0,1350.0,1325.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-05-02 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-05-15 00:00:00,1250.0,1340.0,1310.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-05-22 00:00:00,1225.0,1325.0,1310.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-05-23 00:00:00,1225.0,1335.0,1320.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-05-25 00:00:00,1225.0,1335.0,1325.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-05-30 00:00:00,1300.0,1375.0,1360.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-06-21 00:00:00,1300.0,1360.0,1350.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-06-23 00:00:00,1305.0,1365.0,1355.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-07-18 00:00:00,1350.0,1405.0,1400.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-08-14 00:00:00,1350.0,1400.0,1390.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-09-09 00:00:00,1325.0,1365.0,1350.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-09-15 00:00:00,1300.0,1350.0,1335.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-09-26 00:00:00,1200.0,1325.0,1300.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-09-27 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-10-05 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-10-09 00:00:00,1275.0,1350.0,1320.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-10-10 00:00:00,1250.0,1305.0,1270.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-10-25 00:00:00,1300.0,1350.0,1330.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-10-26 00:00:00,1300.0,1350.0,1325.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-10-27 00:00:00,1300.0,1375.0,1340.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-01 00:00:00,1300.0,1375.0,1350.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-07 00:00:00,1250.0,1345.0,1310.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-11 00:00:00,1125.0,1245.0,1225.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-15 00:00:00,1200.0,1300.0,1280.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-18 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-23 00:00:00,1300.0,1450.0,1400.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-27 00:00:00,1300.0,1450.0,1400.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-11-29 00:00:00,1200.0,1450.0,1420.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-12-08 00:00:00,1165.0,1400.0,1380.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-12-19 00:00:00,1250.0,1500.0,1425.0,4
+Gujarat,Sabarkantha,Dhansura,Maize,Other,FAQ,2017-12-29 00:00:00,1250.0,1450.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-01-10 00:00:00,1350.0,1500.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-01-12 00:00:00,1350.0,1500.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-01-17 00:00:00,1350.0,1550.0,1450.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-01-19 00:00:00,1400.0,1555.0,1500.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-01-28 00:00:00,1400.0,1490.0,1450.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-01-30 00:00:00,1400.0,1500.0,1450.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-02-08 00:00:00,1350.0,1500.0,1450.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-02-14 00:00:00,1400.0,1525.0,1500.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-02-15 00:00:00,1400.0,1525.0,1500.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-03-06 00:00:00,1450.0,1575.0,1500.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-03-11 00:00:00,1450.0,1550.0,1500.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-03-22 00:00:00,1400.0,1550.0,1500.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-03-23 00:00:00,1400.0,1550.0,1500.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-04-04 00:00:00,1400.0,1525.0,1425.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-04-11 00:00:00,1350.0,1500.0,1450.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-04-14 00:00:00,1250.0,1500.0,1450.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-04-18 00:00:00,1300.0,1455.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-04-20 00:00:00,1350.0,1455.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-04-24 00:00:00,1350.0,1830.0,1700.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-05-01 00:00:00,1350.0,1435.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-05-03 00:00:00,1350.0,1450.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-05-04 00:00:00,1325.0,1405.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-05-10 00:00:00,1300.0,1375.0,1350.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-05-26 00:00:00,1350.0,1410.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-06-02 00:00:00,1300.0,1610.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-06-22 00:00:00,1250.0,1405.0,1300.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-07-07 00:00:00,1250.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-07-19 00:00:00,1300.0,1460.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-08-18 00:00:00,1350.0,1500.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-08-26 00:00:00,1300.0,1495.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-09-07 00:00:00,1400.0,1500.0,1450.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-09-14 00:00:00,1300.0,1450.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-09-21 00:00:00,1300.0,1445.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-10-06 00:00:00,1250.0,1450.0,1350.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-10-13 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-10-30 00:00:00,1250.0,1375.0,1300.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-11-15 00:00:00,1250.0,1500.0,1400.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-11-27 00:00:00,1200.0,1300.0,1250.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-12-08 00:00:00,1200.0,1350.0,1300.0,4
+Gujarat,Sabarkantha,Himatnagar,Maize,Other,FAQ,2017-12-30 00:00:00,1200.0,1325.0,1300.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-01-04 00:00:00,1305.0,1535.0,1420.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-01-09 00:00:00,1375.0,1580.0,1478.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-01-28 00:00:00,1200.0,1445.0,1322.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-02-02 00:00:00,1390.0,1445.0,1418.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-02-04 00:00:00,1375.0,1575.0,1475.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-02-06 00:00:00,1300.0,1520.0,1410.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-02-08 00:00:00,1275.0,1560.0,1417.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-02-09 00:00:00,1370.0,1565.0,1468.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-02-10 00:00:00,1400.0,1560.0,1480.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-03-03 00:00:00,1390.0,1545.0,1468.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-03-04 00:00:00,1150.0,1535.0,1342.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-03-06 00:00:00,1375.0,1555.0,1465.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-03-07 00:00:00,1375.0,1520.0,1447.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-03-15 00:00:00,1400.0,1530.0,1465.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-03-17 00:00:00,1405.0,1565.0,1485.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-03-22 00:00:00,1450.0,1565.0,1490.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-04-13 00:00:00,1350.0,1440.0,1395.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-05-04 00:00:00,1375.0,1430.0,1402.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-05-18 00:00:00,1350.0,1500.0,1425.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-06-01 00:00:00,1325.0,1530.0,1427.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-06-15 00:00:00,1295.0,1485.0,1390.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-06-17 00:00:00,1325.0,1395.0,1360.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-08-03 00:00:00,1450.0,1540.0,1495.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-08-23 00:00:00,1450.0,1590.0,1520.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-09-06 00:00:00,1400.0,1520.0,1460.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-09-09 00:00:00,1200.0,1515.0,1358.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-09-11 00:00:00,1375.0,1490.0,1432.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-09-15 00:00:00,1370.0,1475.0,1422.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-09-22 00:00:00,1385.0,1425.0,1405.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-09-25 00:00:00,1295.0,1405.0,1350.0,4
+Gujarat,Sabarkantha,Idar,Maize,Other,FAQ,2017-12-07 00:00:00,1250.0,1295.0,1272.0,4
+Gujarat,Sabarkantha,Idar(Jadar),Maize,Other,FAQ,2017-01-10 00:00:00,1375.0,1580.0,1478.0,4
+Gujarat,Sabarkantha,Idar(Jadar),Maize,Other,FAQ,2017-02-01 00:00:00,1455.0,1510.0,1482.0,4
+Gujarat,Sabarkantha,Idar(Jadar),Maize,Other,FAQ,2017-02-02 00:00:00,1190.0,1445.0,1318.0,4
+Gujarat,Sabarkantha,Idar(Jadar),Maize,Other,FAQ,2017-04-19 00:00:00,1350.0,1435.0,1392.0,4
+Gujarat,Sabarkantha,Idar(Jadar),Maize,Other,FAQ,2017-04-20 00:00:00,1205.0,1525.0,1365.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-01-03 00:00:00,3500.0,3550.0,3525.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-01-18 00:00:00,1450.0,1520.0,1485.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-01-25 00:00:00,1450.0,1525.0,1487.5,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-02-04 00:00:00,1450.0,1500.0,1475.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-02-22 00:00:00,1300.0,1475.0,1387.5,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-03-11 00:00:00,1340.0,1500.0,1420.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-03-16 00:00:00,1475.0,1525.0,1500.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-04-12 00:00:00,1375.0,1425.0,1400.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-04-17 00:00:00,1400.0,1450.0,1425.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-04-24 00:00:00,1375.0,1425.0,1400.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-04-25 00:00:00,1400.0,1450.0,1425.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-04-26 00:00:00,1225.0,1340.0,1272.5,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-05-04 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-05-15 00:00:00,1325.0,1395.0,1360.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-06-01 00:00:00,1325.0,1385.0,1355.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-06-10 00:00:00,1325.0,1405.0,1365.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-07-05 00:00:00,1350.0,1380.0,1365.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-07-13 00:00:00,1375.0,1425.0,1400.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-07-19 00:00:00,1445.0,1475.0,1460.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-08-18 00:00:00,1375.0,1425.0,1400.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-08-23 00:00:00,1375.0,1430.0,1402.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-09-11 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-09-15 00:00:00,1325.0,1375.0,1350.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-10-11 00:00:00,1300.0,1325.0,1312.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-10-13 00:00:00,1300.0,1335.0,1317.5,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-10-31 00:00:00,1325.0,1376.0,1375.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-11-02 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-11-06 00:00:00,1300.0,1335.0,1317.5,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-11-10 00:00:00,1300.0,1310.0,1305.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-11-27 00:00:00,1300.0,1395.0,1347.5,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-12-02 00:00:00,1225.0,1275.0,1250.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-12-19 00:00:00,1250.0,1300.0,1275.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-12-21 00:00:00,1350.0,1450.0,1400.0,4
+Gujarat,Sabarkantha,Khedbrahma,Maize,Other,FAQ,2017-12-27 00:00:00,1290.0,1375.0,1332.5,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-01-02 00:00:00,1250.0,1350.0,1350.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-01-09 00:00:00,1250.0,1350.0,1350.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-01-12 00:00:00,1250.0,1350.0,1350.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-01-19 00:00:00,1250.0,1350.0,1350.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-01-20 00:00:00,1250.0,1350.0,1350.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-02-02 00:00:00,1300.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-02-06 00:00:00,1300.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-02-10 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-02-13 00:00:00,1300.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-02-14 00:00:00,1300.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-02-22 00:00:00,1300.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-02-25 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-03-01 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-03-21 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-03-22 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-03-23 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-03-27 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-03-30 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-04-26 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-04-29 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-05-04 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-05-19 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-05-26 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-01 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-02 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-05 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-06 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-14 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-15 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-24 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-06-28 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-07-04 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-07-07 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-07-13 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-07-17 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-07-22 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-08-18 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-08-29 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-09-11 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-09-14 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-09-16 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-09-22 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-09-26 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-10-06 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-10-07 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-10-16 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-10-23 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-10-25 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-10-30 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-11-06 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-11-15 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-11-27 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-12-13 00:00:00,1350.0,1450.0,1350.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-12-15 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-12-19 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-12-23 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Meghraj,Maize,Other,FAQ,2017-12-29 00:00:00,1350.0,1450.0,1450.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-01-19 00:00:00,1350.0,1550.0,1450.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-01-30 00:00:00,1475.0,1555.0,1500.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-02-07 00:00:00,1200.0,1650.0,1500.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-02-16 00:00:00,1400.0,1580.0,1500.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-02-23 00:00:00,1200.0,1555.0,1450.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-03-06 00:00:00,1200.0,1560.0,1450.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-03-07 00:00:00,1250.0,1560.0,1450.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-03-21 00:00:00,1200.0,1545.0,1450.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-04-04 00:00:00,1200.0,1450.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-04-07 00:00:00,1200.0,1400.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-04-10 00:00:00,1200.0,1445.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-04-17 00:00:00,1200.0,1375.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-04-21 00:00:00,1200.0,1400.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-05-01 00:00:00,1200.0,1425.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-05-08 00:00:00,1250.0,1485.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-05-09 00:00:00,1250.0,1425.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-05-19 00:00:00,1250.0,1425.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-05-25 00:00:00,1250.0,1400.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-05-29 00:00:00,1250.0,1655.0,1500.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-06-03 00:00:00,1250.0,1450.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-06-09 00:00:00,1250.0,1400.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-06-12 00:00:00,1250.0,1400.0,1365.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-06-21 00:00:00,1250.0,1435.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-06-22 00:00:00,1250.0,1475.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-07-08 00:00:00,1250.0,1465.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-07-10 00:00:00,1250.0,1510.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-07-11 00:00:00,1250.0,1550.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-08-22 00:00:00,1250.0,1440.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-08-28 00:00:00,1250.0,1425.0,1350.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-09-04 00:00:00,1275.0,1440.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-09-11 00:00:00,1400.0,1630.0,1500.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-09-13 00:00:00,1250.0,1510.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-09-14 00:00:00,1400.0,1515.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-09-27 00:00:00,1250.0,1465.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-10-11 00:00:00,1250.0,1435.0,1425.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-11-09 00:00:00,1250.0,1390.0,1300.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-11-10 00:00:00,1250.0,1370.0,1300.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-11-22 00:00:00,1250.0,1340.0,1300.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-11-28 00:00:00,1150.0,1420.0,1375.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-12-05 00:00:00,1200.0,1400.0,1300.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-12-21 00:00:00,1250.0,1425.0,1350.0,4
+Gujarat,Sabarkantha,Modasa,Maize,Other,FAQ,2017-12-30 00:00:00,1300.0,1425.0,1350.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-01-23 00:00:00,1350.0,1570.0,1450.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-02-03 00:00:00,1300.0,1650.0,1500.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-03-17 00:00:00,1350.0,1550.0,1400.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-04-06 00:00:00,1250.0,1450.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-04-21 00:00:00,1250.0,1400.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-05-02 00:00:00,1200.0,1400.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-05-04 00:00:00,1250.0,1450.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-05-08 00:00:00,1250.0,1425.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-05-20 00:00:00,1250.0,1410.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-05-22 00:00:00,1250.0,1415.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-05-31 00:00:00,1250.0,1390.0,1365.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-07-11 00:00:00,1250.0,1485.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-07-18 00:00:00,1250.0,1510.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-07-20 00:00:00,1350.0,1515.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-09-11 00:00:00,1350.0,1495.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-09-16 00:00:00,1250.0,1510.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-09-25 00:00:00,1250.0,1500.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-09-26 00:00:00,1350.0,1430.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-10-09 00:00:00,1250.0,1450.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-10-10 00:00:00,1250.0,1465.0,1425.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-11-06 00:00:00,1250.0,1375.0,1300.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-11-08 00:00:00,1250.0,1425.0,1305.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-11-15 00:00:00,1300.0,1400.0,1325.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-11-21 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-11-23 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-11-24 00:00:00,1350.0,1425.0,1400.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-11-27 00:00:00,1050.0,1200.0,1100.0,4
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,Other,FAQ,2017-12-20 00:00:00,1300.0,1410.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-07-04 00:00:00,1350.0,1450.0,1400.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-07-05 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-07-10 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-08-03 00:00:00,1400.0,1500.0,1450.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-08-04 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-08-11 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-08-18 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-08-19 00:00:00,1400.0,1450.0,1425.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-03-20 00:00:00,1450.0,1550.0,1500.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-04-05 00:00:00,1550.0,1700.0,1650.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-04-24 00:00:00,1550.0,1700.0,1650.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-05-06 00:00:00,1450.0,1650.0,1550.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-06-02 00:00:00,1350.0,1400.0,1370.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-06-13 00:00:00,1350.0,1400.0,1370.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-06-22 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-07-06 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-08-09 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-08-10 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-08-12 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-09-13 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-09-15 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-10-03 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Maize,Deshi White,FAQ,2017-10-11 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-01-03 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-01-17 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-01-28 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-02-22 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-03-01 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-03-02 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-03-06 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-03-16 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-03-31 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-05-20 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-06-02 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-06-10 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-06-13 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-06-21 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-06-23 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-06-24 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-06-27 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-07-01 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-07-25 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-08-19 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-08-22 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-08-28 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-09-12 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-10-10 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-10-17 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-10-27 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-10-28 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-10-30 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-11-18 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-11-27 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-11-29 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-12-08 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-12-09 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-12-11 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi Red,FAQ,2017-12-23 00:00:00,1555.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-01-09 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-01-26 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-02-04 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-03-03 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-04-13 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-05-01 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-06-16 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-07-27 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-08-17 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-08-31 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-09-05 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-09-06 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-09-07 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-09-13 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-09-27 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-10-26 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-11-02 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-11-28 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-12-25 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Deshi White,FAQ,2017-12-29 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-03-17 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-03-29 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-05-17 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-05-18 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-05-26 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-06-05 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-07-11 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-08-16 00:00:00,1600.0,1650.0,1650.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-09-28 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-10-07 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-11-06 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-11-25 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vadodara,Maize,Gajjar,FAQ,2017-12-02 00:00:00,1550.0,1560.0,1560.0,4
+Gujarat,Vadodara(Baroda),Vagodiya,Maize,Hybrid Yellow (Cattle Feed),FAQ,2017-04-11 00:00:00,1350.0,1380.0,1370.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-03-16 00:00:00,1500.0,1525.0,1513.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-04-10 00:00:00,1375.0,1400.0,1388.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-04-20 00:00:00,1375.0,1405.0,1390.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-04-24 00:00:00,1400.0,1450.0,1425.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-05-09 00:00:00,1300.0,1375.0,1338.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-05-16 00:00:00,1365.0,1575.0,1470.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-05-25 00:00:00,1350.0,1390.0,1370.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-05-27 00:00:00,1375.0,1400.0,1388.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-06-05 00:00:00,1300.0,1420.0,1360.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-06-13 00:00:00,1350.0,1405.0,1378.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-06-14 00:00:00,1350.0,1405.0,1378.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-06-29 00:00:00,1300.0,1415.0,1358.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-07-21 00:00:00,1400.0,1470.0,1435.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-08-22 00:00:00,1480.0,1505.0,1493.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-09-11 00:00:00,1425.0,1435.0,1430.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-09-14 00:00:00,1400.0,1445.0,1423.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-09-20 00:00:00,1350.0,1395.0,1373.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-09-21 00:00:00,1375.0,1400.0,1388.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-09-22 00:00:00,1375.0,1405.0,1390.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-10-14 00:00:00,1250.0,1300.0,1275.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-10-16 00:00:00,1240.0,1350.0,1295.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-10-28 00:00:00,1350.0,1380.0,1365.0,4
+Gujarat,Sabarkantha,Talod,Maize,Other,FAQ,2017-11-13 00:00:00,1325.0,1345.0,1335.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-02-07 00:00:00,1470.0,1550.0,1500.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-03-15 00:00:00,1450.0,1550.0,1500.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-03-17 00:00:00,1500.0,1540.0,1510.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-04-10 00:00:00,1500.0,1570.0,1505.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-04-24 00:00:00,1470.0,1500.0,1485.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-05-04 00:00:00,1470.0,1490.0,1480.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-07-06 00:00:00,1470.0,1505.0,1490.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-07-07 00:00:00,1440.0,1550.0,1500.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-07-14 00:00:00,1480.0,1495.0,1490.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-08-26 00:00:00,1466.0,1480.0,1470.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-09-13 00:00:00,1460.0,1488.0,1465.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-09-16 00:00:00,1455.0,1550.0,1500.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-09-27 00:00:00,1450.0,1490.0,1480.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-11-04 00:00:00,1440.0,1520.0,1500.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-11-13 00:00:00,1400.0,1480.0,1460.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-11-16 00:00:00,1460.0,1500.0,1475.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-11-28 00:00:00,1440.0,1465.0,1450.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-12-22 00:00:00,1400.0,1480.0,1450.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-12-23 00:00:00,1350.0,1460.0,1440.0,4
+Gujarat,Sabarkantha,Vadali,Maize,Other,FAQ,2017-12-26 00:00:00,1400.0,1480.0,1458.0,4
+Gujarat,Surat,Nizar,Maize,Deshi Red,FAQ,2017-01-06 00:00:00,11.0,1325.0,1175.0,4
+Gujarat,Surat,Nizar,Maize,Deshi Red,FAQ,2017-05-11 00:00:00,950.0,950.0,950.0,4
+Gujarat,Surat,Nizar,Maize,Deshi Red,FAQ,2017-05-22 00:00:00,981.0,1230.0,1125.0,4
+Gujarat,Surat,Nizar,Maize,Deshi Red,FAQ,2017-05-23 00:00:00,985.0,1250.0,1050.0,4
+Gujarat,Surat,Nizar,Maize,Deshi Red,FAQ,2017-06-06 00:00:00,950.0,950.0,950.0,4
+Gujarat,Surat,Nizar,Maize,Deshi Red,FAQ,2017-10-04 00:00:00,831.0,831.0,831.0,4
+Gujarat,Surat,Songadh,Maize,Other,FAQ,2017-04-18 00:00:00,1350.0,1510.0,1430.0,4
+Gujarat,Surat,Songadh,Maize,Other,FAQ,2017-05-03 00:00:00,1365.0,1370.0,1367.0,4
+Gujarat,Surat,Songadh,Maize,Other,FAQ,2017-05-04 00:00:00,1375.0,1420.0,1397.0,4
+Gujarat,Surat,Songadh,Maize,Other,FAQ,2017-05-09 00:00:00,1425.0,1425.0,1425.0,4
+Gujarat,Surat,Songadh,Maize,Other,FAQ,2017-06-01 00:00:00,1400.0,1400.0,1400.0,4
+Gujarat,Surat,Uchhal,Maize,Other,FAQ,2017-01-07 00:00:00,1100.0,1150.0,1130.0,4
+Gujarat,Surat,Uchhal,Maize,Other,FAQ,2017-04-10 00:00:00,1200.0,1390.0,1370.0,4
+Gujarat,Surat,Uchhal,Maize,Other,FAQ,2017-04-11 00:00:00,1200.0,1370.0,1350.0,4
+Gujarat,Surat,Uchhal,Maize,Other,FAQ,2017-04-28 00:00:00,1200.0,1320.0,1300.0,4
+Gujarat,Surat,Uchhal,Maize,Other,FAQ,2017-05-05 00:00:00,1250.0,1340.0,1300.0,4
+Gujarat,Surat,Uchhal,Maize,Other,FAQ,2017-10-17 00:00:00,1125.0,1200.0,1175.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-01-05 00:00:00,1350.0,1515.0,1500.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-01-06 00:00:00,1600.0,1631.0,1625.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-01-10 00:00:00,1500.0,1525.0,1510.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-01-13 00:00:00,1558.0,1588.0,1585.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-01-21 00:00:00,1500.0,1651.0,1600.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-02-14 00:00:00,1650.0,1700.0,1690.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-03-08 00:00:00,1700.0,1850.0,1800.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-03-17 00:00:00,1400.0,1565.0,1500.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,Hybrid,FAQ,2017-11-09 00:00:00,1250.0,1425.0,1400.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-03-18 00:00:00,1450.0,1550.0,1500.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-03-27 00:00:00,1450.0,1550.0,1500.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-04-12 00:00:00,1550.0,1700.0,1650.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-05-08 00:00:00,1500.0,1600.0,1550.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-05-30 00:00:00,1350.0,1450.0,1400.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-06-03 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-06-22 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-07-06 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-07-10 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-07-12 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-07-14 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-08-04 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-08-09 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-08-10 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-08-12 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-09-28 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-09-29 00:00:00,1300.0,1400.0,1350.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-10-03 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-10-10 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-10-11 00:00:00,1250.0,1350.0,1300.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-12-08 00:00:00,1350.0,1450.0,1400.0,4
+Gujarat,Vadodara(Baroda),Savli,Maize,White Local,FAQ,2017-12-13 00:00:00,1350.0,1400.0,1375.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-01-11 00:00:00,1300.0,1500.0,1450.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-02-01 00:00:00,1600.0,1750.0,1650.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-02-02 00:00:00,1650.0,1750.0,1700.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-02-04 00:00:00,1700.0,1800.0,1750.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-02-06 00:00:00,1700.0,1800.0,1750.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-02-07 00:00:00,1700.0,1800.0,1750.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-02-22 00:00:00,1700.0,1800.0,1750.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-03-24 00:00:00,1450.0,1550.0,1500.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-04-03 00:00:00,1550.0,1700.0,1650.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-04-19 00:00:00,1550.0,1700.0,1650.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-04-26 00:00:00,1450.0,1650.0,1550.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-05-23 00:00:00,1350.0,1450.0,1400.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-05-29 00:00:00,1350.0,1450.0,1400.0,4
+Gujarat,Vadodara(Baroda),Savli(Desar),Maize,Deshi White,FAQ,2017-06-20 00:00:00,1400.0,1450.0,1425.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-04-29 00:00:00,1350,1550,1500.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-05-02 00:00:00,1350,1550,1450.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-05-12 00:00:00,1340,1550,1500.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-05-15 00:00:00,1340,1550,1500.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-05-23 00:00:00,1320,1550,1350.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-05-26 00:00:00,1300,1500,1400.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-05-31 00:00:00,1300,1500,1400.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-06-08 00:00:00,1290,1500,1450.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-06-12 00:00:00,1290,1500,1460.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-07-05 00:00:00,1280,1500,1350.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-07-12 00:00:00,1280,1460,1300.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-07-25 00:00:00,1280,1500,1400.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-07-27 00:00:00,1280,1460,1300.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-07-28 00:00:00,1275,1460,1350.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-08-03 00:00:00,1270,1500,1425.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-08-14 00:00:00,1250,1400,1350.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-08-19 00:00:00,1240,1475,1425.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-08-25 00:00:00,1250,1400,1350.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-08-30 00:00:00,1265,1400,1300.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-09-02 00:00:00,1250,1350,1300.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-09-09 00:00:00,1250,1350,1300.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-10-04 00:00:00,1210,1300,1275.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-10-07 00:00:00,1210,1300,1250.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-10-09 00:00:00,1190,1250,1200.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-10-23 00:00:00,1150,1250,1200.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-10-27 00:00:00,1125,1280,1170.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-10-30 00:00:00,1090,1300,1150.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-11-06 00:00:00,1050,1350,1150.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-11-11 00:00:00,1085,1425,1250.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-11-15 00:00:00,1070,1400,1200.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-11-18 00:00:00,1070,1425,1250.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-12-04 00:00:00,1105,1300,1230.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-12-13 00:00:00,1220,1350,1320.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-12-16 00:00:00,1240,1465,1320.0,4
+Gujarat,Dahod,Dahod,Maize,White (SAFED),FAQ,2017-12-18 00:00:00,1290,1400,1350.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-01-03 00:00:00,1425,1500,1470.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-01-09 00:00:00,1375,1480,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-01-17 00:00:00,1350,1450,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-01-20 00:00:00,1375,1425,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-01-30 00:00:00,1350,1450,1425.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-02-17 00:00:00,1420,1470,1450.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-02-20 00:00:00,1420,1475,1450.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-02-21 00:00:00,1420,1460,1440.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-03-02 00:00:00,1420,1450,1440.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-03-07 00:00:00,1450,1520,1500.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-03-10 00:00:00,1425,1515,1500.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-03-28 00:00:00,1420,1500,1480.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-03-30 00:00:00,1450,1515,1475.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-04-05 00:00:00,1400,1490,1460.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-04-22 00:00:00,1400,1470,1445.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-04-27 00:00:00,1390,1450,1425.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-05-01 00:00:00,1390,1450,1430.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-05-06 00:00:00,1360,1420,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-05-16 00:00:00,1350,1410,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-05-19 00:00:00,1340,1400,1380.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-05-22 00:00:00,1350,1410,1375.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-06-02 00:00:00,1330,1400,1350.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-06-16 00:00:00,1340,1450,1425.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-06-19 00:00:00,1340,1450,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-06-20 00:00:00,1330,1450,1415.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-07-06 00:00:00,1360,1465,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-07-17 00:00:00,1330,1460,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-07-21 00:00:00,1350,1470,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-08-01 00:00:00,1370,1470,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-08-05 00:00:00,1370,1435,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-08-17 00:00:00,1350,1440,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-08-21 00:00:00,1350,1475,1400.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-08-24 00:00:00,1350,1500,1450.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-10-02 00:00:00,1300,1400,1350.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-10-16 00:00:00,1225,1350,1280.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-10-25 00:00:00,1200,1311,1275.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-03 00:00:00,1200,1250,1240.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-04 00:00:00,1200,1250,1225.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-08 00:00:00,1200,1250,1225.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-20 00:00:00,1170,1240,1225.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-24 00:00:00,1175,1275,1200.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-25 00:00:00,1175,1240,1200.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-27 00:00:00,1175,1240,1225.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-28 00:00:00,1175,1240,1200.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-11-30 00:00:00,1175,1230,1225.0,4
+Gujarat,Dahod,Dahod,Maize,Yellow,FAQ,2017-12-15 00:00:00,1225,1270,1250.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-01-04 00:00:00,1255,1275,1265.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-01-10 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-01-11 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-01-20 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-01-23 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-01-28 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-01-29 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-02-02 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-02-11 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-02-15 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-02-18 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-02-22 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-03 00:00:00,1285,1305,1295.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-04 00:00:00,1285,1305,1295.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-07 00:00:00,1275,1305,1285.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-10 00:00:00,1290,1310,1305.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-16 00:00:00,1290,1315,1305.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-20 00:00:00,1375,1395,1385.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-21 00:00:00,1375,1395,1385.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-22 00:00:00,1375,1395,1385.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-03-31 00:00:00,1325,1345,1335.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-04-15 00:00:00,1325,1345,1335.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-04-20 00:00:00,1345,1365,1355.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-04-24 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-04-26 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-05-02 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-05-04 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-05-13 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-05-16 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-05-19 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-05-23 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-06-01 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-09-26 00:00:00,1245,1265,1255.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-11-02 00:00:00,1215,1235,1225.0,4
+Gujarat,Dahod,Davgadbaria(Piplod),Maize,Deshi White,FAQ,2017-12-29 00:00:00,1155,1175,1165.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-01-03 00:00:00,1255,1275,1265.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-01-04 00:00:00,1255,1275,1265.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-01-05 00:00:00,1255,1275,1265.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-01-06 00:00:00,1255,1275,1265.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-01-09 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-01-23 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-02-06 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-02-10 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-02-21 00:00:00,1275,1295,1285.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-02-22 00:00:00,1275,0,1285.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-02-24 00:00:00,1285,1305,1295.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-02-28 00:00:00,1285,1305,1295.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-03-16 00:00:00,1290,1315,1305.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-03-17 00:00:00,1290,1315,1305.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-03-20 00:00:00,1375,1395,1385.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-03-27 00:00:00,1325,1355,1345.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-03-29 00:00:00,1325,1345,1335.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-04-07 00:00:00,1335,1355,1345.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-04-13 00:00:00,1325,1345,1335.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-04-18 00:00:00,1325,1345,1335.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-04-21 00:00:00,1345,1365,1355.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-04-27 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-05-04 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-05-05 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-05-16 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-05-19 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-05-25 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-05-29 00:00:00,1345,1370,1365.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-08-31 00:00:00,1315,1335,1325.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-09-01 00:00:00,1315,1335,1325.0,4
+Gujarat,Dahod,Devgadhbaria,Maize,Deshi White,FAQ,2017-09-27 00:00:00,1235,1265,1255.0,4
