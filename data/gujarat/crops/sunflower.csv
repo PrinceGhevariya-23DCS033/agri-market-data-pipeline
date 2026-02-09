@@ -1,3 +1,4 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
 Gujarat,Porbandar,Porbandar,Sunflower,Bold,FAQ,2023-09-18,4425,4425,4425.0,14
 Gujarat,Porbandar,Porbandar,Sunflower,Bold,Non-FAQ,2025-04-04 00:00:00,4000,4000,4000.0,14
+Gujarat,Surat,Songadh,Sunflower,Other,FAQ,2017-05-08 00:00:00,3500,3500,3500.0,14

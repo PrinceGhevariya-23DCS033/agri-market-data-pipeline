@@ -46,12 +46,84 @@ Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-11-09 00:00:00,1000.0,1200.0,1100
 Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-11-18 00:00:00,800.0,1000.0,900.0,138
 Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-12-29 00:00:00,900.0,1000.0,950.0,138
 Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2005-10-24 00:00:00,157.0,599.0,500.0,138
-Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-17 00:00:00,1510,6450,3980.0,138
-Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-19 00:00:00,1510,6020,3770.0,138
-Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-20 00:00:00,1680,6670,4180.0,138
-Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-24 00:00:00,1610,6440,4030.0,138
-Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-30 00:00:00,1700,6000,3850.0,138
-Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-07-02 00:00:00,1600,5720,3660.0,138
-Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-03-25 00:00:00,7650,28300,15000.0,138
-Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-04-08 00:00:00,8700,32050,15000.0,138
-Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-07-08 00:00:00,7050,36300,21700.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-17 00:00:00,1510.0,6450.0,3980.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-19 00:00:00,1510.0,6020.0,3770.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-20 00:00:00,1680.0,6670.0,4180.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-24 00:00:00,1610.0,6440.0,4030.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-30 00:00:00,1700.0,6000.0,3850.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-07-02 00:00:00,1600.0,5720.0,3660.0,138
+Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-03-25 00:00:00,7650.0,28300.0,15000.0,138
+Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-04-08 00:00:00,8700.0,32050.0,15000.0,138
+Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-07-08 00:00:00,7050.0,36300.0,21700.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2006-09-01 00:00:00,800.0,1000.0,900.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2006-11-24 00:00:00,1000.0,1200.0,1100.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-03-22 00:00:00,700.0,800.0,750.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-07-18 00:00:00,800.0,1000.0,900.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-09-27 00:00:00,1000.0,1200.0,1100.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-10-10 00:00:00,1000.0,1200.0,1100.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-11-15 00:00:00,1000.0,1200.0,1100.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2005-11-29 00:00:00,600.0,800.0,700.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2005-05-18 00:00:00,112.0,603.0,350.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-01-01 00:00:00,1222.0,6110.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-01-31 00:00:00,1222.0,6110.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-02-07 00:00:00,3666.0,6110.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-02-08 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-02-19 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-02-25 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-03-09 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-03-18 00:00:00,1222.0,7332.0,6110.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-04-08 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-04 00:00:00,1430.0,6530.0,3750.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-23 00:00:00,1350.0,6530.0,3940.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-06-25 00:00:00,1480.0,6100.0,3790.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2008-07-03 00:00:00,1420.0,6400.0,3910.0,138
+Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-04-17 00:00:00,8750.0,37600.0,20000.0,138
+Gujarat,Surat,Mahuva,Coconut,Coconut,FAQ,2008-07-07 00:00:00,8650.0,35000.0,21850.0,138
+Gujarat,Surat,Mahuva,Coconut,Other,FAQ,2010-05-06 00:00:00,1330.0,7010.0,4170.0,138
+Gujarat,Surat,Mahuva,Coconut,Other,FAQ,2010-05-07 00:00:00,2150.0,6710.0,4430.0,138
+Gujarat,Surat,Mahuva,Coconut,Other,FAQ,2010-05-17 00:00:00,1610.0,7060.0,4340.0,138
+Gujarat,Surat,Mahuva,Coconut,Other,FAQ,2010-05-22 00:00:00,1550.0,7520.0,4540.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2003-01-15 00:00:00,1222.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2003-01-21 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Grade-I,FAQ,2003-06-25 00:00:00,343.37,781.92,626.5,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-01-05 00:00:00,1222.0,4888.0,3666.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-01-25 00:00:00,1222.0,6110.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-02-11 00:00:00,1222.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-02-21 00:00:00,2444.0,6110.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-02-23 00:00:00,3666.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-03-04 00:00:00,2444.0,4888.0,3666.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-03-06 00:00:00,2444.0,6110.0,3666.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-03-08 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-04-04 00:00:00,1222.0,3666.0,2444.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2002-12-24 00:00:00,2444.0,7332.0,4888.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-02-26 00:00:00,500.0,700.0,600.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-06-02 00:00:00,700.0,900.0,800.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-07-08 00:00:00,700.0,800.0,750.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-10-05 00:00:00,700.0,800.0,750.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-02-12 00:00:00,270.0,753.0,550.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-02-13 00:00:00,272.0,803.0,550.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-03-04 00:00:00,300.0,820.0,450.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-09-02 00:00:00,120.0,699.0,500.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-10-23 00:00:00,176.0,558.0,368.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-12-06 00:00:00,171.0,525.0,350.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-12-11 00:00:00,128.0,537.0,333.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-01-21 00:00:00,1355.0,3130.0,2130.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-01-24 00:00:00,1000.0,3270.0,2500.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-01-28 00:00:00,1530.0,3450.0,3000.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-01-31 00:00:00,1325.0,3355.0,3000.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-07-23 00:00:00,600.0,700.0,650.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-09-28 00:00:00,700.0,800.0,750.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-11-09 00:00:00,700.0,800.0,750.0,138
+Gujarat,Bharuch,Bharuch,Coconut,Other,FAQ,2004-12-21 00:00:00,700.0,800.0,750.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-02-14 00:00:00,253.0,715.0,600.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-07-10 00:00:00,260.0,603.0,450.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-08-21 00:00:00,125.0,645.0,450.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-09-25 00:00:00,200.0,609.0,400.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Coconut,FAQ,2004-11-06 00:00:00,137.0,630.0,384.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-01-19 00:00:00,1000.0,3200.0,2500.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-01-29 00:00:00,502.0,1322.0,1220.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-01-30 00:00:00,1530.0,3355.0,2500.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-02-04 00:00:00,300.0,714.0,500.0,138
+Gujarat,Bhavnagar,Mahuva(Station Road),Coconut,Other,FAQ,2004-02-05 00:00:00,261.0,716.0,500.0,138
+Gujarat,Surat,Mahuva,Coconut,Other,FAQ,2010-05-10 00:00:00,2220,7050,4640.0,138
+Gujarat,Surat,Mahuva,Coconut,Other,FAQ,2010-05-21 00:00:00,1790,6680,4240.0,138

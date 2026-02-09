@@ -1,6 +1,11 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
-Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-02-10,118,122,120,150
-Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-03-17,100,105,103,150
-Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-12-19,140,170,150,150
-Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-12-26,140,170,150,150
-Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2012-01-12 00:00:00,140,160,150,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-02-10,118,122,120.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-03-17,100,105,103.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-12-19,140,170,150.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2011-12-26,140,170,150.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2012-01-12 00:00:00,140,160,150.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2012-01-09 00:00:00,135,155,145.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2012-01-10 00:00:00,140,160,150.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2012-01-11 00:00:00,140,160,150.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2012-01-23 00:00:00,140,165,155.0,150
+Gujarat,Bharuch,Jhagadiya,Sugarcane,Other,FAQ,2012-01-25 00:00:00,140,162,150.0,150

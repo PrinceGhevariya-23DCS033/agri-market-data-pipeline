@@ -668,24 +668,262 @@ Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2014-12-15 00:00:00,390
 Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2014-12-30 00:00:00,3750.0,4200.0,4150.0,99
 Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2014-12-31 00:00:00,3750.0,4200.0,4140.0,99
 Gujarat,Sabarkantha,Malpur,Cotton Seed,Other,FAQ,2014-01-31 00:00:00,4000.0,4500.0,4250.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-01-12 00:00:00,6000,10015,9250.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-01-25 00:00:00,6750,10040,9100.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-02-03 00:00:00,7000,10530,9500.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-02-16 00:00:00,8000,10825,9850.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-02-18 00:00:00,7000,10750,9500.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-04-28 00:00:00,11890,13105,12750.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-04-29 00:00:00,8775,13125,12000.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-10-06 00:00:00,7500,9005,8550.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-10-08 00:00:00,8125,9165,8750.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-10-12 00:00:00,7250,9205,8500.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-11-12 00:00:00,8750,9420,9125.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-11-14 00:00:00,8250,9500,9250.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-11-23 00:00:00,8125,8975,8650.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-12-06 00:00:00,7805,8910,8400.0,99
-Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-12-16 00:00:00,7750,8885,8300.0,99
-Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-01-12 00:00:00,5500,9850,9450.0,99
-Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-01-27 00:00:00,6500,10150,9650.0,99
-Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-01-28 00:00:00,6500,10205,9650.0,99
-Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-02-11 00:00:00,7000,10460,9750.0,99
-Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-02-17 00:00:00,7250,10500,9750.0,99
-Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-02-22 00:00:00,7500,10540,9850.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-01-12 00:00:00,6000.0,10015.0,9250.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-01-25 00:00:00,6750.0,10040.0,9100.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-02-03 00:00:00,7000.0,10530.0,9500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-02-16 00:00:00,8000.0,10825.0,9850.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-02-18 00:00:00,7000.0,10750.0,9500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-04-28 00:00:00,11890.0,13105.0,12750.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-04-29 00:00:00,8775.0,13125.0,12000.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-10-06 00:00:00,7500.0,9005.0,8550.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-10-08 00:00:00,8125.0,9165.0,8750.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-10-12 00:00:00,7250.0,9205.0,8500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-11-12 00:00:00,8750.0,9420.0,9125.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-11-14 00:00:00,8250.0,9500.0,9250.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-11-23 00:00:00,8125.0,8975.0,8650.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-12-06 00:00:00,7805.0,8910.0,8400.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2022-12-16 00:00:00,7750.0,8885.0,8300.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-01-12 00:00:00,5500.0,9850.0,9450.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-01-27 00:00:00,6500.0,10150.0,9650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-01-28 00:00:00,6500.0,10205.0,9650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-02-11 00:00:00,7000.0,10460.0,9750.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-02-17 00:00:00,7250.0,10500.0,9750.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2022-02-22 00:00:00,7500.0,10540.0,9850.0,99
+Gujarat,Banaskanth,Lakhani,Cotton Seed,Other,FAQ,2015-01-08 00:00:00,3500.0,4100.0,4085.0,99
+Gujarat,Banaskanth,Lakhani,Cotton Seed,Other,FAQ,2015-01-09 00:00:00,3750.0,4075.0,4025.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-01-01 00:00:00,4000.0,4235.0,4125.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-01-19 00:00:00,3900.0,4155.0,4100.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-01-20 00:00:00,3900.0,4125.0,4050.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-01-21 00:00:00,3900.0,4100.0,4050.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-01-23 00:00:00,3950.0,4105.0,4075.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-01-29 00:00:00,3900.0,4070.0,4025.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-02-02 00:00:00,4000.0,4135.0,4075.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-02-03 00:00:00,3950.0,4135.0,4075.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-02-20 00:00:00,3900.0,4120.0,4050.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-02-26 00:00:00,4000.0,4110.0,4075.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-03-04 00:00:00,4030.0,4115.0,4075.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-03-10 00:00:00,3955.0,4150.0,4110.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-03-11 00:00:00,4000.0,4165.0,4125.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-03-21 00:00:00,4075.0,4235.0,4200.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-04-01 00:00:00,4250.0,4605.0,4500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-04-11 00:00:00,4350.0,4660.0,4605.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-04-16 00:00:00,4250.0,4595.0,4560.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-04-18 00:00:00,4425.0,4535.0,4520.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-04-27 00:00:00,4450.0,4810.0,4775.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-05-02 00:00:00,4375.0,4790.0,4760.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-05-07 00:00:00,4450.0,4915.0,4860.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-05-28 00:00:00,4505.0,4505.0,4505.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-06-04 00:00:00,4425.0,4425.0,4425.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-10-09 00:00:00,4000.0,4325.0,4250.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-10-10 00:00:00,4000.0,4345.0,4250.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-10-21 00:00:00,4000.0,4475.0,4400.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-10-28 00:00:00,4000.0,4325.0,4275.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-10-30 00:00:00,4000.0,4290.0,4210.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-11-16 00:00:00,3900.0,4225.0,4150.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-12-17 00:00:00,4455.0,4600.0,4500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2015-12-30 00:00:00,4655.0,4780.0,4740.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-01-03 00:00:00,3750.0,4205.0,4130.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-01-12 00:00:00,4000.0,4130.0,4100.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-01-19 00:00:00,3500.0,4105.0,4060.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-02-06 00:00:00,3500.0,4055.0,4035.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-02-07 00:00:00,3500.0,4075.0,4025.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-02-23 00:00:00,3500.0,4055.0,4010.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-03-02 00:00:00,3250.0,4055.0,4025.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-03-21 00:00:00,3625.0,4130.0,4110.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-03-25 00:00:00,3755.0,4050.0,4000.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-04-02 00:00:00,3450.0,3510.0,3475.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-10-05 00:00:00,3805.0,4155.0,3950.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-10-06 00:00:00,3500.0,4235.0,3950.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-10-07 00:00:00,3500.0,4200.0,3950.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-10-09 00:00:00,3500.0,4260.0,3950.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-10-12 00:00:00,3900.0,4400.0,4100.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-10-15 00:00:00,3900.0,4615.0,4250.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-10-19 00:00:00,4000.0,4385.0,4200.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-11-03 00:00:00,3750.0,4230.0,4185.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-11-04 00:00:00,3750.0,4255.0,4190.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-11-06 00:00:00,3900.0,4240.0,4200.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-11-07 00:00:00,4000.0,4240.0,4190.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-11-18 00:00:00,4000.0,4295.0,4250.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-11-23 00:00:00,4000.0,4285.0,4250.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-12-14 00:00:00,4400.0,4555.0,4525.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2015-12-23 00:00:00,4350.0,4705.0,4650.0,99
+Gujarat,Sabarkantha,Vadali,Cotton Seed,Other,FAQ,2015-01-17 00:00:00,4250.0,4350.0,4300.0,99
+Gujarat,Sabarkantha,Vadali,Cotton Seed,Other,FAQ,2015-02-13 00:00:00,3750.0,3855.0,3802.0,99
+Gujarat,Sabarkantha,Vadali,Cotton Seed,Other,FAQ,2015-04-24 00:00:00,3525.0,3605.0,3565.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2007-03-30 00:00:00,1900.0,1925.0,1912.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2007-11-30 00:00:00,2000.0,2025.0,2012.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-04-11 00:00:00,5125.0,6530.0,6400.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-04-18 00:00:00,4500.0,5800.0,5655.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-05-04 00:00:00,2500.0,4680.0,3590.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-05-12 00:00:00,2625.0,2625.0,2625.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-10-22 00:00:00,4150.0,4720.0,4680.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-11-05 00:00:00,4250.0,4800.0,4740.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-11-12 00:00:00,4350.0,4675.0,4625.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-11-17 00:00:00,4250.0,4550.0,4470.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-11-18 00:00:00,4350.0,4850.0,4475.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-11-22 00:00:00,3800.0,4420.0,4350.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-11-23 00:00:00,4075.0,4360.0,4300.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-12-08 00:00:00,3750.0,4355.0,4290.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-12-14 00:00:00,3800.0,4325.0,4275.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-12-16 00:00:00,3900.0,4340.0,4270.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-12-20 00:00:00,3900.0,4310.0,4260.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2011-12-22 00:00:00,3750.0,4340.0,4160.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Other,FAQ,2011-01-01 00:00:00,4400.0,4675.0,4575.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Other,FAQ,2011-01-03 00:00:00,4450.0,4720.0,4650.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Other,FAQ,2011-01-11 00:00:00,4500.0,4750.0,4675.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Other,FAQ,2011-01-20 00:00:00,4850.0,5060.0,5000.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Other,FAQ,2011-01-28 00:00:00,5250.0,5875.0,5775.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Other,FAQ,2011-02-01 00:00:00,5500.0,5760.0,5675.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Other,FAQ,2011-04-15 00:00:00,4250.0,6095.0,5875.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2005-12-13 00:00:00,1875.0,2045.0,2000.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2005-12-20 00:00:00,1950.0,2040.0,1990.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2005-12-23 00:00:00,1850.0,2035.0,2000.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2005-12-27 00:00:00,1950.0,2080.0,2040.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2005-01-06 00:00:00,1750.0,2020.0,1850.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2005-01-20 00:00:00,1700.0,2035.0,1850.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2005-01-22 00:00:00,1700.0,2045.0,1850.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2005-01-28 00:00:00,1650.0,1975.0,1800.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2005-02-04 00:00:00,1750.0,1990.0,1850.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2005-02-08 00:00:00,1625.0,2005.0,1875.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-05-30 00:00:00,7000.0,7500.0,7350.0,99
+Gujarat,Banaskanth,Thara(Shihori),Cotton Seed,Cotton Seed,FAQ,2024-11-29 00:00:00,6340.0,6400.0,6370.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2018-01-10 00:00:00,4850.0,5250.0,5175.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2018-01-18 00:00:00,4900.0,5315.0,5225.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2018-02-03 00:00:00,4650.0,5165.0,5075.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2018-10-26 00:00:00,5400.0,5800.0,5690.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2018-11-29 00:00:00,5000.0,5630.0,5500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2018-12-14 00:00:00,5000.0,5595.0,5450.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2018-01-09 00:00:00,4750.0,5205.0,5125.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2018-01-23 00:00:00,4750.0,5225.0,5075.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2018-01-30 00:00:00,4550.0,5105.0,5050.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2018-10-24 00:00:00,5100.0,5775.0,5660.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2018-10-26 00:00:00,5100.0,5800.0,5650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2018-11-22 00:00:00,5400.0,5680.0,5635.0,99
+Gujarat,Vadodara(Baroda),Savli(Samlaya),Cotton Seed,Other,FAQ,2018-06-05 00:00:00,3650.0,3700.0,3675.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-01-18 00:00:00,5000.0,5605.0,5500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-12 00:00:00,5000.0,5600.0,5525.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-13 00:00:00,5000.0,5560.0,5475.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-20 00:00:00,4950.0,5565.0,5475.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-23 00:00:00,5005.0,5585.0,5500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-10-11 00:00:00,2000.0,5560.0,3500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-11-05 00:00:00,3000.0,5505.0,4750.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-11-19 00:00:00,3500.0,5105.0,4500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-11-20 00:00:00,3750.0,5030.0,4500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-12-02 00:00:00,3900.0,5000.0,4750.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-12-03 00:00:00,3900.0,5000.0,4750.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-12-30 00:00:00,4250.0,5280.0,4850.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-01-18 00:00:00,4850.0,5605.0,5450.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-01-22 00:00:00,4900.0,5615.0,5475.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-08 00:00:00,4850.0,5950.0,4910.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-13 00:00:00,4925.0,5485.0,5400.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-15 00:00:00,5000.0,5545.0,5400.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-23 00:00:00,4950.0,5530.0,5425.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-03-07 00:00:00,4900.0,5575.0,5450.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-03-08 00:00:00,4900.0,5575.0,5450.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-03-18 00:00:00,5000.0,5855.0,5675.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-03-22 00:00:00,4950.0,5940.0,5750.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-11-08 00:00:00,4000.0,5325.0,5000.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-11-18 00:00:00,4000.0,5155.0,4600.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-03 00:00:00,4050.0,5140.0,4600.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-06 00:00:00,4000.0,5105.0,4650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-11 00:00:00,4000.0,5210.0,4675.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-28 00:00:00,4500.0,5260.0,4870.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-01-07 00:00:00,5000.0,5635.0,5500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-01-21 00:00:00,4900.0,5605.0,5475.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-01-23 00:00:00,5055.0,5605.0,5500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-01 00:00:00,5000.0,5585.0,5475.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-06 00:00:00,4000.0,4320.0,4240.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-07 00:00:00,4750.0,5535.0,5450.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-02-25 00:00:00,5055.0,5580.0,5525.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-03-08 00:00:00,5400.0,5580.0,5500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-03-22 00:00:00,5750.0,5965.0,5925.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-10-16 00:00:00,2250.0,5305.0,4250.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-11-11 00:00:00,3500.0,5125.0,4500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-11-13 00:00:00,3500.0,5050.0,4400.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-11-27 00:00:00,3625.0,4975.0,4500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-11-29 00:00:00,3750.0,4855.0,4550.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-12-05 00:00:00,4000.0,5050.0,4650.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-12-07 00:00:00,4000.0,5025.0,4750.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2019-12-23 00:00:00,4150.0,5150.0,4750.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-01-16 00:00:00,4925.0,5560.0,5425.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-01-25 00:00:00,5050.0,5555.0,5425.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-01 00:00:00,4850.0,5520.0,5400.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-02 00:00:00,5000.0,5425.0,5425.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-20 00:00:00,4950.0,5550.0,5425.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-02-21 00:00:00,5000.0,5540.0,5450.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-03-06 00:00:00,4800.0,5550.0,5425.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-10-22 00:00:00,3000.0,5525.0,4500.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-11-25 00:00:00,4050.0,5115.0,4650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-11-26 00:00:00,4000.0,5125.0,4650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-05 00:00:00,4000.0,5155.0,4675.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-07 00:00:00,4000.0,5100.0,4650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-12 00:00:00,4000.0,5100.0,4650.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-19 00:00:00,4000.0,5170.0,4700.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-24 00:00:00,4000.0,5275.0,4800.0,99
+Gujarat,Mehsana,Vijapur(Kukarvada),Cotton Seed,Other,FAQ,2019-12-30 00:00:00,4500.0,5305.0,4850.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-01-13 00:00:00,2000.0,2330.0,2225.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-01-27 00:00:00,1900.0,2255.0,2150.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-02-04 00:00:00,1900.0,2325.0,2150.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-02-11 00:00:00,1750.0,2275.0,2050.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-02-13 00:00:00,1700.0,2260.0,2000.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-02-17 00:00:00,1350.0,2290.0,2075.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-02-27 00:00:00,1600.0,2310.0,2050.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-03-01 00:00:00,1500.0,2275.0,1925.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-03-13 00:00:00,1400.0,2295.0,1950.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-03-24 00:00:00,1500.0,2275.0,1900.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-04-13 00:00:00,1625.0,2320.0,2125.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-04-15 00:00:00,1625.0,2290.0,1850.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-04-17 00:00:00,1500.0,2240.0,2000.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-04-18 00:00:00,1500.0,2290.0,1825.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-04-26 00:00:00,1700.0,2260.0,1950.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-04-29 00:00:00,1675.0,2200.0,2125.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-05-06 00:00:00,1500.0,1950.0,1785.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Cotton Seed,FAQ,2006-05-12 00:00:00,1610.0,2010.0,1720.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2006-04-17 00:00:00,850.0,900.0,875.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2006-10-14 00:00:00,875.0,900.0,887.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2006-10-27 00:00:00,900.0,910.0,905.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2006-11-02 00:00:00,925.0,950.0,937.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2006-11-04 00:00:00,950.0,960.0,955.0,99
+Gujarat,Mehsana,Unava,Cotton Seed,Cotton Seed,FAQ,2006-07-13 00:00:00,1700.0,1900.0,1850.0,99
+Gujarat,Patan,Harij,Cotton Seed,Other,FAQ,2006-01-10 00:00:00,351.0,457.0,400.0,99
+Gujarat,Patan,Harij,Cotton Seed,Other,FAQ,2006-02-01 00:00:00,317.0,392.0,350.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-04-25 00:00:00,4000.0,4800.0,4775.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-05-03 00:00:00,3500.0,4815.0,4805.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-05-14 00:00:00,3000.0,4895.0,4835.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-05-20 00:00:00,3000.0,4735.0,4735.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-05-31 00:00:00,3000.0,4000.0,3500.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-06-01 00:00:00,3625.0,4600.0,4600.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-10-24 00:00:00,3750.0,5055.0,4990.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-11-11 00:00:00,3250.0,4975.0,4900.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-11-12 00:00:00,4500.0,4960.0,4875.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-11-23 00:00:00,4250.0,4850.0,4285.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-11-27 00:00:00,4250.0,4850.0,4750.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-12-05 00:00:00,4000.0,4830.0,4275.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-12-07 00:00:00,4350.0,4790.0,4725.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-12-09 00:00:00,4250.0,4790.0,4730.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-12-12 00:00:00,4000.0,4765.0,4710.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-12-23 00:00:00,4100.0,4830.0,4285.0,99
+Gujarat,Gandhinagar,Mansa,Cotton Seed,Other,FAQ,2013-12-26 00:00:00,4350.0,4880.0,4880.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-01-18 00:00:00,3750.0,4225.0,4100.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-01-24 00:00:00,3750.0,4185.0,4100.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-01-31 00:00:00,3750.0,4210.0,4000.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-02-07 00:00:00,3750.0,4180.0,4050.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-02-08 00:00:00,3750.0,4185.0,4000.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-02-11 00:00:00,3750.0,4330.0,4150.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-02-12 00:00:00,3750.0,4305.0,4100.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-02-20 00:00:00,4100.0,4565.0,4300.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-02-23 00:00:00,4300.0,4705.0,4500.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-03-01 00:00:00,4500.0,5055.0,4800.0,99
+Gujarat,Mehsana,Visnagar,Cotton Seed,Other,FAQ,2013-03-02 00:00:00,4500.0,4900.0,4700.0,99
+Gujarat,Banaskanth,Thara(Shihori),Cotton Seed,Cotton Seed,FAQ,2024-08-09 00:00:00,5900.0,6050.0,5975.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-10-08 00:00:00,5000.0,8155.0,6500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-10-10 00:00:00,4500.0,8125.0,6900.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-10-15 00:00:00,6250.0,8155.0,6750.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-10-25 00:00:00,6000.0,7700.0,7125.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-10-11 00:00:00,5000.0,7715.0,6500.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-10-22 00:00:00,5500.0,8000.0,7000.0,99
+Gujarat,Mehsana,Vijapur,Cotton Seed,Cotton Seed,FAQ,2024-11-13 00:00:00,6250.0,7740.0,7400.0,99
+Gujarat,Ahmedabad,Sanad,Cotton Seed,Other,FAQ,2009-01-20 00:00:00,2000,2000,2000.0,99
+Gujarat,Ahmedabad,Sanad,Cotton Seed,Other,FAQ,2009-02-12 00:00:00,2180,2180,2180.0,99
+Gujarat,Ahmedabad,Sanad,Cotton Seed,Other,FAQ,2009-03-16 00:00:00,2095,2095,2095.0,99
+Gujarat,Kheda,Kapadvanj,Cotton Seed,Other,FAQ,2009-10-10 00:00:00,2350,2500,2425.0,99
