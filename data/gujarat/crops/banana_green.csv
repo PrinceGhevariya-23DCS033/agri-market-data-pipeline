@@ -6107,26 +6107,160 @@ Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2007-12-14 00:00:00,700.0,900.0,800
 Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2007-12-26 00:00:00,350.0,900.0,625.0,90
 Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2007-07-11 00:00:00,500.0,600.0,550.0,90
 Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2007-07-12 00:00:00,500.0,600.0,550.0,90
-Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2025-01-22 00:00:00,1000,2000,1500.0,90
-Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2025-01-28 00:00:00,1000,1750,1500.0,90
-Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2025-01-30 00:00:00,1000,1500,1250.0,90
-Gujarat,Bharuch,Bharuch,Banana - Green,Other,FAQ,2025-01-01 00:00:00,500,800,600.0,90
-Gujarat,Bharuch,Bharuch,Banana - Green,Other,FAQ,2025-01-07 00:00:00,500,750,600.0,90
-Gujarat,Bharuch,Bharuch,Banana - Green,Other,FAQ,2025-01-12 00:00:00,500,800,700.0,90
-Gujarat,Bharuch,Bharuch,Banana - Green,Other,FAQ,2025-01-13 00:00:00,500,800,600.0,90
-Gujarat,Bharuch,Bharuch,Banana - Green,Other,FAQ,2025-01-17 00:00:00,500,800,700.0,90
-Gujarat,Bharuch,Bharuch,Banana - Green,Other,FAQ,2025-01-23 00:00:00,400,700,500.0,90
-Gujarat,Porbandar,Porbandar,Banana - Green,Banana - Green,FAQ,2025-01-28 00:00:00,2000,4000,3000.0,90
-Gujarat,Porbandar,Porbandar,Banana - Green,Banana - Green,FAQ,2025-01-31 00:00:00,2000,4000,3000.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-06 00:00:00,1000,1700,1350.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-07 00:00:00,1000,1500,1250.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-10 00:00:00,900,1500,1200.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-15 00:00:00,900,1500,1200.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-16 00:00:00,900,1500,1200.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-19 00:00:00,900,1700,1300.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-20 00:00:00,1000,1600,1300.0,90
-Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2025-01-22 00:00:00,1000,1600,1300.0,90
-Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2025-01-11 00:00:00,1000,1500,1250.0,90
-Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2025-01-18 00:00:00,1000,1500,1250.0,90
-Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2025-01-24 00:00:00,1500,2000,1750.0,90
-Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2025-01-29 00:00:00,1500,2000,1750.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-17 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-19 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-31 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-06-10 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-06-13 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-06-15 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-07-04 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-07-06 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-07-15 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-07-25 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-07-26 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-08-02 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-08-12 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-08-18 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-08-22 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-09-18 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-10-05 00:00:00,1500,2000,1750.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-10-14 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-10-23 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-10-25 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-11-03 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-11-06 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-11-08 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-11-17 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-12-02 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-12-12 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-12-15 00:00:00,1500,2000,1750.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-01-19 00:00:00,1000,1500,1350.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-01-27 00:00:00,1200,1700,1500.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-01-28 00:00:00,1200,1600,1500.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-02-01 00:00:00,1000,1600,1400.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-02-02 00:00:00,600,1800,1300.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-02-09 00:00:00,1500,2500,2200.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-02-23 00:00:00,1000,2500,1800.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-03-07 00:00:00,2000,2200,2100.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-04-03 00:00:00,1500,3000,2350.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-04-17 00:00:00,1500,2500,2100.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-04-27 00:00:00,1000,1500,1250.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-05-02 00:00:00,1000,1300,1150.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-05-06 00:00:00,1000,1250,1100.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-05-10 00:00:00,1000,1500,1250.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-05-17 00:00:00,1000,1500,1250.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-06-09 00:00:00,800,1200,1000.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-06-13 00:00:00,500,1000,800.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-06-16 00:00:00,600,1200,950.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-06-17 00:00:00,500,1000,800.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-06-21 00:00:00,500,1000,800.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-07-06 00:00:00,1000,1500,1300.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-07-10 00:00:00,1200,1800,1600.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-07-15 00:00:00,1000,1700,1500.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-07-19 00:00:00,1000,1700,1400.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-08-12 00:00:00,800,1300,1050.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-08-18 00:00:00,700,1200,1000.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-08-21 00:00:00,700,1250,900.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-08-31 00:00:00,500,1200,950.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-09-01 00:00:00,500,1000,700.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-09-05 00:00:00,600,1250,950.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-09-21 00:00:00,800,1500,1250.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-09-22 00:00:00,800,1500,1150.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-10-03 00:00:00,1000,2200,1750.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-10-04 00:00:00,1200,2000,1850.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-10-05 00:00:00,1200,2500,1950.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-10-16 00:00:00,1200,2500,1950.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-10-21 00:00:00,800,2000,1450.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-10-26 00:00:00,1500,2000,1850.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-11-02 00:00:00,1000,2000,1850.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-11-03 00:00:00,800,2000,1500.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-11-20 00:00:00,1000,2000,1650.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-11-22 00:00:00,1000,2000,1600.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-11-24 00:00:00,1000,2000,1700.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-12-07 00:00:00,1200,2000,1750.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-12-15 00:00:00,1200,2250,1850.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-12-18 00:00:00,1000,2000,1450.0,90
+Gujarat,Ahmedabad,Ahmedabad,Banana - Green,Other,FAQ,2023-12-29 00:00:00,1000,2000,1700.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-01-02 00:00:00,800,1500,1150.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-01-05 00:00:00,800,1500,1150.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-01-20 00:00:00,1000,1500,1250.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-01-23 00:00:00,1200,1800,1500.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-02-06 00:00:00,1250,1750,1500.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-02-09 00:00:00,1200,1900,1550.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-02-13 00:00:00,1100,2250,1675.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-02-16 00:00:00,1200,2250,1725.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-02-23 00:00:00,1100,2100,1600.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-02-28 00:00:00,1000,2100,1550.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-03-03 00:00:00,1300,2000,1650.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-03-11 00:00:00,1500,2300,1900.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-03-25 00:00:00,1500,2300,1900.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-03-31 00:00:00,1500,2300,1900.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-04-05 00:00:00,1500,2600,2050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-04-08 00:00:00,1500,2600,2050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-04-11 00:00:00,1500,2600,2050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-04-12 00:00:00,1500,2500,2000.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-04-24 00:00:00,900,1400,1150.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-04-26 00:00:00,1000,1300,1150.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-04-28 00:00:00,900,1250,1075.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-05-03 00:00:00,800,1250,1025.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-05-06 00:00:00,600,1200,900.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-05-08 00:00:00,600,1300,950.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-05-09 00:00:00,1000,1500,1250.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-05-11 00:00:00,1000,1500,1250.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-06-06 00:00:00,500,900,700.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-06-09 00:00:00,500,1000,700.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-06-15 00:00:00,500,1000,750.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-06-20 00:00:00,500,800,650.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-06-30 00:00:00,800,1300,1050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-07-12 00:00:00,1000,1700,1350.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-07-14 00:00:00,1000,1600,1300.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-07-19 00:00:00,1000,1600,1300.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-07-31 00:00:00,1000,1400,1200.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-08-05 00:00:00,800,1400,1100.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-08-08 00:00:00,800,1300,1050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-08-17 00:00:00,800,1300,1050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-08-18 00:00:00,800,1300,1050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-08-23 00:00:00,700,1300,1000.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-08-26 00:00:00,600,1300,950.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-08-29 00:00:00,800,1300,1050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-09-05 00:00:00,800,1300,1050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-09-26 00:00:00,700,1750,1225.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-09-30 00:00:00,1000,2000,1500.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-05 00:00:00,1000,2200,1600.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-06 00:00:00,1000,2200,1600.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-07 00:00:00,1000,2200,1600.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-09 00:00:00,1000,2250,1625.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-14 00:00:00,1500,2300,1900.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-18 00:00:00,1500,2400,1950.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-19 00:00:00,1500,2300,1900.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-20 00:00:00,1500,2400,1950.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-21 00:00:00,1500,2300,1900.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-26 00:00:00,1600,2500,2050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-10-28 00:00:00,1600,2500,2050.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-11-06 00:00:00,1500,2750,2125.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-11-10 00:00:00,1200,2750,1975.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-11-11 00:00:00,1200,2700,1950.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-12-04 00:00:00,1500,2500,2000.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-12-15 00:00:00,1000,2100,1550.0,90
+Gujarat,Surat,Surat,Banana - Green,Other,FAQ,2023-12-27 00:00:00,1000,2100,1550.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-01-10 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-01-19 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-01-23 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-01-30 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-02-02 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-02-08 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-02-23 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-03-01 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-03-20 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-03-23 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-03-27 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-03-28 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-04-05 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-04-27 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-04-28 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-04-29 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-02 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-03 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-04 00:00:00,1000,1250,1125.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-09 00:00:00,1000,1500,1250.0,90
+Gujarat,Surendranagar,Vadhvan,Banana - Green,Banana - Green,FAQ,2023-05-10 00:00:00,1000,1500,1250.0,90

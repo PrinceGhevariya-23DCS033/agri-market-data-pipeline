@@ -124705,205 +124705,455 @@ Gujarat,Dahod,Dahod,Castor Seed,Other,FAQ,2017-03-04 00:00:00,3200.0,3400.0,3300
 Gujarat,Dahod,Dahod,Castor Seed,Other,FAQ,2017-03-06 00:00:00,3250.0,3450.0,3440.0,123
 Gujarat,Dahod,Dahod,Castor Seed,Other,FAQ,2017-03-07 00:00:00,3500.0,3600.0,3600.0,123
 Gujarat,Dahod,Dahod,Castor Seed,Other,FAQ,2017-03-18 00:00:00,3550.0,3650.0,3600.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-02-01 00:00:00,5580,5650,5625.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-02-19 00:00:00,5400,5535,5510.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-01 00:00:00,5450,5560,5530.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,5475,5590,5550.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,5575,5700,5625.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-12 00:00:00,5670,5775,5725.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-15 00:00:00,5760,5850,5825.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-20 00:00:00,5755,5850,5825.0,123
-Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-04-19 00:00:00,5350,5500,5475.0,123
-Gujarat,Mehsana,Unava,Castor Seed,Castor seed,FAQ,2024-04-30 00:00:00,5255,5665,5525.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-01-17 00:00:00,5255,5650,5575.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-01-29 00:00:00,5615,5880,5775.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-01-30 00:00:00,5310,5790,5700.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-02-21 00:00:00,5500,5870,5725.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-02-23 00:00:00,5400,5840,5700.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-02-28 00:00:00,5425,5790,5700.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-03-06 00:00:00,5505,5880,5750.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-03-23 00:00:00,5630,6000,5875.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-02 00:00:00,5575,5870,5775.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-11 00:00:00,5500,5780,5700.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-12 00:00:00,5350,5730,5650.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-13 00:00:00,5250,5765,5625.0,123
-Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-18 00:00:00,5250,5635,5525.0,123
-Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-01-03 00:00:00,5500,5640,5550.0,123
-Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-01-05 00:00:00,5485,5675,5575.0,123
-Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-02-13 00:00:00,5525,5605,5575.0,123
-Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-02-16 00:00:00,5425,5655,5550.0,123
-Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-02-20 00:00:00,5550,5675,5590.0,123
-Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-04-03 00:00:00,5650,5805,5750.0,123
-Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-04-22 00:00:00,5550,5685,5625.0,123
-Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-01-25 00:00:00,5450,5765,5670.0,123
-Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-02-20 00:00:00,5500,5805,5700.0,123
-Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-04-03 00:00:00,5500,5875,5810.0,123
-Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-04-12 00:00:00,5400,5725,5650.0,123
-Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-04-20 00:00:00,5250,5650,5585.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-01-12 00:00:00,5500,5790,5645.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-01-25 00:00:00,5470,5805,5637.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-01-29 00:00:00,5555,5837,5696.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-02-02 00:00:00,5400,5787,5593.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-02-17 00:00:00,5425,5825,5625.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-02-28 00:00:00,5355,5787,5571.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-03-01 00:00:00,5255,5790,5522.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-03-14 00:00:00,5650,6000,5825.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-03-20 00:00:00,5600,6035,5817.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-04-06 00:00:00,5555,5905,5730.0,123
-Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-04-30 00:00:00,5325,5550,5437.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-01-01 00:00:00,5555,5705,5650.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-01-02 00:00:00,5525,5675,5635.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-02-27 00:00:00,5505,5685,5600.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-09 00:00:00,5650,5760,5715.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-11 00:00:00,5500,5770,5700.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-12 00:00:00,5500,5770,5700.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-18 00:00:00,5500,5755,5650.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-04-15 00:00:00,5375,5605,5450.0,123
-Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-04-25 00:00:00,5300,5530,5440.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-01-27 00:00:00,5560,5600,5580.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-01-29 00:00:00,5550,5550,5550.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-05 00:00:00,5450,5600,5525.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-06 00:00:00,5400,5450,5425.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-07 00:00:00,5400,5500,5450.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-09 00:00:00,5505,5505,5505.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-20 00:00:00,5500,5520,5510.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-26 00:00:00,5350,5400,5375.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-03-11 00:00:00,5425,5425,5425.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-03-14 00:00:00,5500,5500,5500.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-03-19 00:00:00,4750,5660,5205.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-04-10 00:00:00,5460,5540,5500.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-04-20 00:00:00,5330,5450,5390.0,123
-Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-04-29 00:00:00,5200,5400,5300.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-01-10 00:00:00,5000,5440,5350.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-01-20 00:00:00,4950,5435,5370.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-01-24 00:00:00,5325,5470,5400.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-01 00:00:00,5325,5530,5400.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-05 00:00:00,5370,5415,5385.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-08 00:00:00,5385,5435,5400.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-15 00:00:00,5250,5470,5400.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-19 00:00:00,5175,5420,5350.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-24 00:00:00,5370,5530,5450.0,123
-Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-04-22 00:00:00,5125,5260,5200.0,123
-Gujarat,Panchmahals,Godhra(Kakanpur),Castor Seed,Other,FAQ,2024-04-12 00:00:00,5705,5790,5750.0,123
-Gujarat,Panchmahals,Godhra(Kakanpur),Castor Seed,Other,FAQ,2024-04-16 00:00:00,5680,5780,5705.0,123
-Gujarat,Panchmahals,Godhra(Kakanpur),Castor Seed,Other,FAQ,2024-04-25 00:00:00,5415,5485,5455.0,123
-Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Caster,FAQ,2024-03-05 00:00:00,5550,5670,5575.0,123
-Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Caster,FAQ,2024-03-16 00:00:00,5550,5760,5640.0,123
-Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-03-01 00:00:00,5510,5570,5550.0,123
-Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-03-12 00:00:00,5505,5570,5540.0,123
-Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-04-04 00:00:00,5590,5680,5610.0,123
-Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-04-23 00:00:00,5270,5315,5305.0,123
-Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-04-25 00:00:00,5410,5480,5455.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-02 00:00:00,5400,5865,5635.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-06 00:00:00,5500,5915,5710.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-08 00:00:00,5500,5895,5700.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-10 00:00:00,5350,5830,5590.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-17 00:00:00,5490,5785,5640.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-23 00:00:00,5465,5810,5640.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-31 00:00:00,5500,5825,5665.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-02 00:00:00,5500,5770,5635.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-09 00:00:00,5400,5785,5600.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-16 00:00:00,5400,5800,5600.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-20 00:00:00,5600,5915,5760.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-21 00:00:00,5450,5825,5640.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-05 00:00:00,5500,5820,5660.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-12 00:00:00,5500,5945,5725.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-14 00:00:00,5650,6035,5845.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-20 00:00:00,5650,6005,5830.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-01 00:00:00,5650,6000,5825.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-06 00:00:00,5650,5905,5780.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-08 00:00:00,5605,5900,5755.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-18 00:00:00,5300,5650,5475.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-19 00:00:00,5400,5690,5545.0,123
-Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-29 00:00:00,5300,5600,5450.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-02 00:00:00,5550,5750,5700.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-06 00:00:00,5500,5650,5620.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-10 00:00:00,5500,5725,5660.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-12 00:00:00,5500,5700,5650.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-13 00:00:00,5500,5705,5675.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-03-09 00:00:00,5750,5925,5875.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-03-19 00:00:00,5800,5960,5940.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-03-23 00:00:00,5825,5990,5950.0,123
-Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-04-22 00:00:00,5575,5725,5660.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-01-05 00:00:00,5600,5750,5700.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-01-12 00:00:00,5550,5650,5625.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-01-19 00:00:00,5575,5700,5625.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-02-19 00:00:00,5600,5675,5635.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-03-01 00:00:00,5600,5660,5630.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,5675,5750,5700.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-03-07 00:00:00,5725,5805,5775.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-09 00:00:00,5675,5750,5710.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-24 00:00:00,5450,5575,5540.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-26 00:00:00,5475,5600,5500.0,123
-Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-30 00:00:00,5425,5505,5460.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-04 00:00:00,5565,5895,5730.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-06 00:00:00,5600,5935,5767.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-09 00:00:00,5550,5855,5702.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-17 00:00:00,5400,5775,5587.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-27 00:00:00,5400,5900,5650.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-03 00:00:00,5500,5760,5630.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-06 00:00:00,5400,5700,5550.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-10 00:00:00,5350,5745,5547.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-21 00:00:00,5500,5845,5672.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-26 00:00:00,5485,5845,5665.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-29 00:00:00,5275,5835,5555.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,5530,5805,5667.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-04-05 00:00:00,5650,5975,5812.0,123
-Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-04-12 00:00:00,5350,5795,5572.0,123
-Gujarat,Porbandar,Porbandar,Castor Seed,Castor seed,FAQ,2024-02-23 00:00:00,4500,5250,4875.0,123
-Gujarat,Porbandar,Porbandar,Castor Seed,Castor seed,FAQ,2024-04-20 00:00:00,5200,5200,5200.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-01-13 00:00:00,5205,5505,5405.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-07 00:00:00,4980,5455,5430.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-12 00:00:00,5155,5455,5430.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-13 00:00:00,5430,5455,5430.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-16 00:00:00,5055,5505,5480.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-24 00:00:00,5355,5555,5455.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,5230,5580,5555.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-07 00:00:00,5105,5555,5555.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-09 00:00:00,5430,5555,5480.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-14 00:00:00,5480,5580,5580.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-21 00:00:00,5505,5655,5605.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-01 00:00:00,5455,5680,5605.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-12 00:00:00,2125,5605,5555.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-20 00:00:00,5380,5930,5405.0,123
-Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-26 00:00:00,5250,5405,5380.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-01-04 00:00:00,5355,5705,5605.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-01-13 00:00:00,5305,5680,5630.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-01-25 00:00:00,5005,5755,5630.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-07 00:00:00,4630,5605,5555.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-10 00:00:00,5355,5580,5530.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-15 00:00:00,4755,5655,5555.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-17 00:00:00,4505,5655,5605.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-22 00:00:00,5380,5780,5630.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,3505,5780,5680.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,4005,5780,5730.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-03-18 00:00:00,4605,5880,5830.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-02 00:00:00,4755,5855,5430.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-05 00:00:00,3555,5880,5780.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-13 00:00:00,3055,5680,5480.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-16 00:00:00,4055,5580,5505.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-25 00:00:00,4105,5605,5455.0,123
-Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-29 00:00:00,4505,5530,5480.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-01-09 00:00:00,4500,4500,4500.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-01-24 00:00:00,4500,4500,4500.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-01-25 00:00:00,5300,5300,5300.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-02-13 00:00:00,4500,5425,5280.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-02-27 00:00:00,4500,5460,5325.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-02 00:00:00,5400,5400,5400.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-09 00:00:00,4750,5425,5250.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-20 00:00:00,5000,5500,5325.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-21 00:00:00,5000,5525,5325.0,123
-Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-23 00:00:00,4500,5500,5325.0,123
-Gujarat,Rajkot,Jetpur(Dist.Rajkot),Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,5250,5500,5450.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-06 00:00:00,5450,5650,5525.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-15 00:00:00,5450,5650,5550.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-18 00:00:00,5450,5660,5575.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-24 00:00:00,5400,5680,5600.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-29 00:00:00,5310,5700,5625.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-05 00:00:00,5350,5620,5550.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-08 00:00:00,5350,5640,5575.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-09 00:00:00,5375,5630,5525.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-14 00:00:00,5525,5615,5550.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-19 00:00:00,5250,5595,5575.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-22 00:00:00,5500,5700,5600.0,123
-Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-27 00:00:00,5350,5695,5630.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-02-01 00:00:00,5580.0,5650.0,5625.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-02-19 00:00:00,5400.0,5535.0,5510.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-01 00:00:00,5450.0,5560.0,5530.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,5475.0,5590.0,5550.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,5575.0,5700.0,5625.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-12 00:00:00,5670.0,5775.0,5725.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-15 00:00:00,5760.0,5850.0,5825.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-03-20 00:00:00,5755.0,5850.0,5825.0,123
+Gujarat,Mehsana,Mehsana(Jornang),Castor Seed,Castor seed,FAQ,2024-04-19 00:00:00,5350.0,5500.0,5475.0,123
+Gujarat,Mehsana,Unava,Castor Seed,Castor seed,FAQ,2024-04-30 00:00:00,5255.0,5665.0,5525.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-01-17 00:00:00,5255.0,5650.0,5575.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-01-29 00:00:00,5615.0,5880.0,5775.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-01-30 00:00:00,5310.0,5790.0,5700.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-02-21 00:00:00,5500.0,5870.0,5725.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-02-23 00:00:00,5400.0,5840.0,5700.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-02-28 00:00:00,5425.0,5790.0,5700.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-03-06 00:00:00,5505.0,5880.0,5750.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-03-23 00:00:00,5630.0,6000.0,5875.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-02 00:00:00,5575.0,5870.0,5775.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-11 00:00:00,5500.0,5780.0,5700.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-12 00:00:00,5350.0,5730.0,5650.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-13 00:00:00,5250.0,5765.0,5625.0,123
+Gujarat,Mehsana,Vijapur,Castor Seed,Other,FAQ,2024-04-18 00:00:00,5250.0,5635.0,5525.0,123
+Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-01-03 00:00:00,5500.0,5640.0,5550.0,123
+Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-01-05 00:00:00,5485.0,5675.0,5575.0,123
+Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-02-13 00:00:00,5525.0,5605.0,5575.0,123
+Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-02-16 00:00:00,5425.0,5655.0,5550.0,123
+Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-02-20 00:00:00,5550.0,5675.0,5590.0,123
+Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-04-03 00:00:00,5650.0,5805.0,5750.0,123
+Gujarat,Mehsana,Vijapur(Gojjariya),Castor Seed,Other,FAQ,2024-04-22 00:00:00,5550.0,5685.0,5625.0,123
+Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-01-25 00:00:00,5450.0,5765.0,5670.0,123
+Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-02-20 00:00:00,5500.0,5805.0,5700.0,123
+Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-04-03 00:00:00,5500.0,5875.0,5810.0,123
+Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-04-12 00:00:00,5400.0,5725.0,5650.0,123
+Gujarat,Mehsana,Vijapur(Kukarvada),Castor Seed,Other,FAQ,2024-04-20 00:00:00,5250.0,5650.0,5585.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-01-12 00:00:00,5500.0,5790.0,5645.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-01-25 00:00:00,5470.0,5805.0,5637.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-01-29 00:00:00,5555.0,5837.0,5696.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-02-02 00:00:00,5400.0,5787.0,5593.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-02-17 00:00:00,5425.0,5825.0,5625.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-02-28 00:00:00,5355.0,5787.0,5571.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-03-01 00:00:00,5255.0,5790.0,5522.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-03-14 00:00:00,5650.0,6000.0,5825.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-03-20 00:00:00,5600.0,6035.0,5817.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-04-06 00:00:00,5555.0,5905.0,5730.0,123
+Gujarat,Mehsana,Visnagar,Castor Seed,Other,FAQ,2024-04-30 00:00:00,5325.0,5550.0,5437.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-01-01 00:00:00,5555.0,5705.0,5650.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-01-02 00:00:00,5525.0,5675.0,5635.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-02-27 00:00:00,5505.0,5685.0,5600.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-09 00:00:00,5650.0,5760.0,5715.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-11 00:00:00,5500.0,5770.0,5700.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-12 00:00:00,5500.0,5770.0,5700.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-03-18 00:00:00,5500.0,5755.0,5650.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-04-15 00:00:00,5375.0,5605.0,5450.0,123
+Gujarat,Morbi,Halvad,Castor Seed,Other,FAQ,2024-04-25 00:00:00,5300.0,5530.0,5440.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-01-27 00:00:00,5560.0,5600.0,5580.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-01-29 00:00:00,5550.0,5550.0,5550.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-05 00:00:00,5450.0,5600.0,5525.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-06 00:00:00,5400.0,5450.0,5425.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-07 00:00:00,5400.0,5500.0,5450.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-09 00:00:00,5505.0,5505.0,5505.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-20 00:00:00,5500.0,5520.0,5510.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-02-26 00:00:00,5350.0,5400.0,5375.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-03-11 00:00:00,5425.0,5425.0,5425.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-03-14 00:00:00,5500.0,5500.0,5500.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-03-19 00:00:00,4750.0,5660.0,5205.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-04-10 00:00:00,5460.0,5540.0,5500.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-04-20 00:00:00,5330.0,5450.0,5390.0,123
+Gujarat,Morbi,Morbi,Castor Seed,Castor seed,FAQ,2024-04-29 00:00:00,5200.0,5400.0,5300.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-01-10 00:00:00,5000.0,5440.0,5350.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-01-20 00:00:00,4950.0,5435.0,5370.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-01-24 00:00:00,5325.0,5470.0,5400.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-01 00:00:00,5325.0,5530.0,5400.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-05 00:00:00,5370.0,5415.0,5385.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-08 00:00:00,5385.0,5435.0,5400.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-15 00:00:00,5250.0,5470.0,5400.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-19 00:00:00,5175.0,5420.0,5350.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-02-24 00:00:00,5370.0,5530.0,5450.0,123
+Gujarat,Morbi,Vankaner,Castor Seed,Other,FAQ,2024-04-22 00:00:00,5125.0,5260.0,5200.0,123
+Gujarat,Panchmahals,Godhra(Kakanpur),Castor Seed,Other,FAQ,2024-04-12 00:00:00,5705.0,5790.0,5750.0,123
+Gujarat,Panchmahals,Godhra(Kakanpur),Castor Seed,Other,FAQ,2024-04-16 00:00:00,5680.0,5780.0,5705.0,123
+Gujarat,Panchmahals,Godhra(Kakanpur),Castor Seed,Other,FAQ,2024-04-25 00:00:00,5415.0,5485.0,5455.0,123
+Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Caster,FAQ,2024-03-05 00:00:00,5550.0,5670.0,5575.0,123
+Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Caster,FAQ,2024-03-16 00:00:00,5550.0,5760.0,5640.0,123
+Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-03-01 00:00:00,5510.0,5570.0,5550.0,123
+Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-03-12 00:00:00,5505.0,5570.0,5540.0,123
+Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-04-04 00:00:00,5590.0,5680.0,5610.0,123
+Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-04-23 00:00:00,5270.0,5315.0,5305.0,123
+Gujarat,Panchmahals,Godhra(Timbaroad),Castor Seed,Castor seed,FAQ,2024-04-25 00:00:00,5410.0,5480.0,5455.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-02 00:00:00,5400.0,5865.0,5635.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-06 00:00:00,5500.0,5915.0,5710.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-08 00:00:00,5500.0,5895.0,5700.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-10 00:00:00,5350.0,5830.0,5590.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-17 00:00:00,5490.0,5785.0,5640.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-23 00:00:00,5465.0,5810.0,5640.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-01-31 00:00:00,5500.0,5825.0,5665.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-02 00:00:00,5500.0,5770.0,5635.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-09 00:00:00,5400.0,5785.0,5600.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-16 00:00:00,5400.0,5800.0,5600.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-20 00:00:00,5600.0,5915.0,5760.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-02-21 00:00:00,5450.0,5825.0,5640.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-05 00:00:00,5500.0,5820.0,5660.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-12 00:00:00,5500.0,5945.0,5725.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-14 00:00:00,5650.0,6035.0,5845.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-03-20 00:00:00,5650.0,6005.0,5830.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-01 00:00:00,5650.0,6000.0,5825.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-06 00:00:00,5650.0,5905.0,5780.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-08 00:00:00,5605.0,5900.0,5755.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-18 00:00:00,5300.0,5650.0,5475.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-19 00:00:00,5400.0,5690.0,5545.0,123
+Gujarat,Patan,Patan,Castor Seed,Other,FAQ,2024-04-29 00:00:00,5300.0,5600.0,5450.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-02 00:00:00,5550.0,5750.0,5700.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-06 00:00:00,5500.0,5650.0,5620.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-10 00:00:00,5500.0,5725.0,5660.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-12 00:00:00,5500.0,5700.0,5650.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-02-13 00:00:00,5500.0,5705.0,5675.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-03-09 00:00:00,5750.0,5925.0,5875.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-03-19 00:00:00,5800.0,5960.0,5940.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-03-23 00:00:00,5825.0,5990.0,5950.0,123
+Gujarat,Patan,Radhanpur,Castor Seed,Caster,FAQ,2024-04-22 00:00:00,5575.0,5725.0,5660.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-01-05 00:00:00,5600.0,5750.0,5700.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-01-12 00:00:00,5550.0,5650.0,5625.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-01-19 00:00:00,5575.0,5700.0,5625.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-02-19 00:00:00,5600.0,5675.0,5635.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-03-01 00:00:00,5600.0,5660.0,5630.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,5675.0,5750.0,5700.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-03-07 00:00:00,5725.0,5805.0,5775.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-09 00:00:00,5675.0,5750.0,5710.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-24 00:00:00,5450.0,5575.0,5540.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-26 00:00:00,5475.0,5600.0,5500.0,123
+Gujarat,Patan,Sami,Castor Seed,Castor seed,FAQ,2024-04-30 00:00:00,5425.0,5505.0,5460.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-04 00:00:00,5565.0,5895.0,5730.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-06 00:00:00,5600.0,5935.0,5767.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-09 00:00:00,5550.0,5855.0,5702.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-17 00:00:00,5400.0,5775.0,5587.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-01-27 00:00:00,5400.0,5900.0,5650.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-03 00:00:00,5500.0,5760.0,5630.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-06 00:00:00,5400.0,5700.0,5550.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-10 00:00:00,5350.0,5745.0,5547.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-21 00:00:00,5500.0,5845.0,5672.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-26 00:00:00,5485.0,5845.0,5665.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-02-29 00:00:00,5275.0,5835.0,5555.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,5530.0,5805.0,5667.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-04-05 00:00:00,5650.0,5975.0,5812.0,123
+Gujarat,Patan,Siddhpur,Castor Seed,Castor seed,FAQ,2024-04-12 00:00:00,5350.0,5795.0,5572.0,123
+Gujarat,Porbandar,Porbandar,Castor Seed,Castor seed,FAQ,2024-02-23 00:00:00,4500.0,5250.0,4875.0,123
+Gujarat,Porbandar,Porbandar,Castor Seed,Castor seed,FAQ,2024-04-20 00:00:00,5200.0,5200.0,5200.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-01-13 00:00:00,5205.0,5505.0,5405.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-07 00:00:00,4980.0,5455.0,5430.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-12 00:00:00,5155.0,5455.0,5430.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-13 00:00:00,5430.0,5455.0,5430.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-16 00:00:00,5055.0,5505.0,5480.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-02-24 00:00:00,5355.0,5555.0,5455.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,5230.0,5580.0,5555.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-07 00:00:00,5105.0,5555.0,5555.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-09 00:00:00,5430.0,5555.0,5480.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-14 00:00:00,5480.0,5580.0,5580.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-03-21 00:00:00,5505.0,5655.0,5605.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-01 00:00:00,5455.0,5680.0,5605.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-12 00:00:00,2125.0,5605.0,5555.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-20 00:00:00,5380.0,5930.0,5405.0,123
+Gujarat,Rajkot,Dhoraji,Castor Seed,Castor seed,FAQ,2024-04-26 00:00:00,5250.0,5405.0,5380.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-01-04 00:00:00,5355.0,5705.0,5605.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-01-13 00:00:00,5305.0,5680.0,5630.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-01-25 00:00:00,5005.0,5755.0,5630.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-07 00:00:00,4630.0,5605.0,5555.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-10 00:00:00,5355.0,5580.0,5530.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-15 00:00:00,4755.0,5655.0,5555.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-17 00:00:00,4505.0,5655.0,5605.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-02-22 00:00:00,5380.0,5780.0,5630.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,3505.0,5780.0,5680.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-03-06 00:00:00,4005.0,5780.0,5730.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-03-18 00:00:00,4605.0,5880.0,5830.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-02 00:00:00,4755.0,5855.0,5430.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-05 00:00:00,3555.0,5880.0,5780.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-13 00:00:00,3055.0,5680.0,5480.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-16 00:00:00,4055.0,5580.0,5505.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-25 00:00:00,4105.0,5605.0,5455.0,123
+Gujarat,Rajkot,Gondal,Castor Seed,Castor seed,FAQ,2024-04-29 00:00:00,4505.0,5530.0,5480.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-01-09 00:00:00,4500.0,4500.0,4500.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-01-24 00:00:00,4500.0,4500.0,4500.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-01-25 00:00:00,5300.0,5300.0,5300.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-02-13 00:00:00,4500.0,5425.0,5280.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-02-27 00:00:00,4500.0,5460.0,5325.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-02 00:00:00,5400.0,5400.0,5400.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-09 00:00:00,4750.0,5425.0,5250.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-20 00:00:00,5000.0,5500.0,5325.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-21 00:00:00,5000.0,5525.0,5325.0,123
+Gujarat,Rajkot,Jasdan,Castor Seed,Castor seed,FAQ,2024-03-23 00:00:00,4500.0,5500.0,5325.0,123
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Castor Seed,Castor seed,FAQ,2024-03-05 00:00:00,5250.0,5500.0,5450.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-06 00:00:00,5450.0,5650.0,5525.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-15 00:00:00,5450.0,5650.0,5550.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-18 00:00:00,5450.0,5660.0,5575.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-24 00:00:00,5400.0,5680.0,5600.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-01-29 00:00:00,5310.0,5700.0,5625.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-05 00:00:00,5350.0,5620.0,5550.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-08 00:00:00,5350.0,5640.0,5575.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-09 00:00:00,5375.0,5630.0,5525.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-14 00:00:00,5525.0,5615.0,5550.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-19 00:00:00,5250.0,5595.0,5575.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-22 00:00:00,5500.0,5700.0,5600.0,123
+Gujarat,Rajkot,Rajkot,Castor Seed,Caster,FAQ,2024-02-27 00:00:00,5350.0,5695.0,5630.0,123
+Gujarat,Banaskanth,Thara,Castor Seed,Other,FAQ,2020-05-15 00:00:00,3530.0,3580.0,3555.0,123
+Gujarat,Banaskanth,Thara,Castor Seed,Other,FAQ,2020-05-18 00:00:00,3540.0,3595.0,3567.5,123
+Gujarat,Banaskanth,Thara,Castor Seed,Other,FAQ,2020-05-23 00:00:00,3490.0,3540.0,3515.0,123
+Gujarat,Banaskanth,Thara,Castor Seed,Other,FAQ,2020-06-04 00:00:00,3525.0,3630.0,3577.5,123
+Gujarat,Banaskanth,Thara,Castor Seed,Other,FAQ,2020-06-11 00:00:00,3590.0,3700.0,3645.0,123
+Gujarat,Banaskanth,Thara,Castor Seed,Other,FAQ,2020-06-17 00:00:00,3630.0,3690.0,3660.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-01-02 00:00:00,4125.0,4150.0,4137.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-01-04 00:00:00,4130.0,4150.0,4140.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-01-08 00:00:00,4050.0,4150.0,4100.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-01-23 00:00:00,4460.0,4490.0,4475.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-03-04 00:00:00,3720.0,3750.0,3735.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-03-18 00:00:00,3700.0,3735.0,3717.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-03-20 00:00:00,3680.0,3725.0,3702.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-04-22 00:00:00,3650.0,3700.0,3675.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-04-25 00:00:00,3680.0,3725.0,3702.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-04-28 00:00:00,3680.0,3740.0,3710.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-05-14 00:00:00,3525.0,3575.0,3550.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-05-19 00:00:00,3530.0,3550.0,3540.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-05-22 00:00:00,3450.0,3485.0,3467.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-05-28 00:00:00,3475.0,3505.0,3490.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-06-02 00:00:00,3485.0,3515.0,3500.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-06-09 00:00:00,3550.0,3600.0,3575.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-06-10 00:00:00,3585.0,3625.0,3605.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-06-19 00:00:00,3675.0,3740.0,3707.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-06-25 00:00:00,3850.0,3950.0,3900.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-06-26 00:00:00,3895.0,3960.0,3927.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-07-03 00:00:00,3850.0,3925.0,3887.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-07-07 00:00:00,3900.0,3950.0,3925.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-07-10 00:00:00,3910.0,3950.0,3930.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-07-20 00:00:00,3925.0,4000.0,3962.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-07-21 00:00:00,3900.0,3965.0,3932.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-07-24 00:00:00,3910.0,3950.0,3930.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-07-30 00:00:00,3850.0,3900.0,3875.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-08-26 00:00:00,3875.0,3955.0,3915.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-01 00:00:00,3915.0,3950.0,3932.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-03 00:00:00,3895.0,3950.0,3922.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-08 00:00:00,3875.0,3900.0,3887.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-11 00:00:00,3915.0,3950.0,3932.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-12 00:00:00,3970.0,4000.0,3985.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-14 00:00:00,3970.0,4010.0,3990.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-17 00:00:00,4015.0,4040.0,4027.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-22 00:00:00,4055.0,4125.0,4090.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-25 00:00:00,4090.0,4115.0,4102.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-26 00:00:00,4100.0,4125.0,4112.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-09-29 00:00:00,4085.0,4125.0,4105.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-10-17 00:00:00,4050.0,4120.0,4085.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-10-27 00:00:00,4225.0,4275.0,4250.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-11-04 00:00:00,4585.0,4650.0,4617.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-11-06 00:00:00,4800.0,4905.0,4852.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-11-09 00:00:00,4350.0,4400.0,4375.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-11-10 00:00:00,4445.0,4500.0,4472.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-11-11 00:00:00,4450.0,4485.0,4467.5,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-11-19 00:00:00,4475.0,4525.0,4500.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-11-27 00:00:00,4450.0,4490.0,4470.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-12-03 00:00:00,4460.0,4500.0,4480.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-12-14 00:00:00,4350.0,4440.0,4395.0,123
+Gujarat,Banaskanth,Thara(Shihori),Castor Seed,Caster,FAQ,2020-12-23 00:00:00,4240.0,4270.0,4255.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-01-09 00:00:00,4070.0,4125.0,4097.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-01-16 00:00:00,3990.0,4025.0,4007.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-01-28 00:00:00,3875.0,3935.0,3905.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-01-30 00:00:00,3875.0,3920.0,3897.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-02-12 00:00:00,3775.0,3820.0,3797.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-02-19 00:00:00,3840.0,3875.0,3857.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-02-27 00:00:00,3690.0,3725.0,3707.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-02-28 00:00:00,3700.0,3755.0,3727.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-03-12 00:00:00,3700.0,3810.0,3755.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-03-17 00:00:00,3675.0,3730.0,3702.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-03-21 00:00:00,3700.0,3800.0,3750.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-06-09 00:00:00,3550.0,3650.0,3600.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-06-17 00:00:00,3625.0,3695.0,3660.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-06-20 00:00:00,3725.0,3800.0,3770.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-08-18 00:00:00,3905.0,3975.0,3935.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-12-18 00:00:00,4275.0,4375.0,4325.0,123
+Gujarat,Banaskanth,Tharad,Castor Seed,Other,FAQ,2020-12-21 00:00:00,4290.0,4335.0,4315.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-01-09 00:00:00,4055.0,4100.0,4077.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-01-16 00:00:00,4000.0,4025.0,4012.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-01-18 00:00:00,4000.0,4025.0,4012.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-01-21 00:00:00,4000.0,4055.0,4027.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-01-24 00:00:00,4000.0,4040.0,4020.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-01-25 00:00:00,3975.0,4005.0,3990.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-01-29 00:00:00,3875.0,3935.0,3905.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-02-07 00:00:00,3825.0,3865.0,3845.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-02-27 00:00:00,3680.0,3725.0,3702.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-03-04 00:00:00,3665.0,3720.0,3692.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-03-05 00:00:00,3705.0,3775.0,3740.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-03-07 00:00:00,3740.0,3820.0,3780.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-03-11 00:00:00,3700.0,3810.0,3755.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-05-19 00:00:00,3525.0,3575.0,3550.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-05-20 00:00:00,3500.0,3550.0,3525.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-06-03 00:00:00,3500.0,3525.0,3515.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-06-17 00:00:00,3625.0,3675.0,3650.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-07-02 00:00:00,3925.0,3975.0,3950.0,123
+Gujarat,Banaskanth,Tharad(Rah),Castor Seed,Other,FAQ,2020-12-19 00:00:00,4250.0,4300.0,4275.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-01-23 00:00:00,3950.0,3950.0,3950.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-01-31 00:00:00,3870.0,3900.0,3885.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-02-05 00:00:00,3860.0,3890.0,3875.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-02-10 00:00:00,3825.0,3875.0,3850.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-02-13 00:00:00,3800.0,3830.0,3815.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-02-25 00:00:00,3750.0,3760.0,3755.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-03-19 00:00:00,3695.0,3730.0,3712.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-03-20 00:00:00,3700.0,3740.0,3720.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-03-21 00:00:00,3720.0,3805.0,3762.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-04-21 00:00:00,3640.0,3675.0,3657.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-04-30 00:00:00,3675.0,3710.0,3692.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-05-01 00:00:00,3585.0,3645.0,3615.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-05-19 00:00:00,3555.0,3585.0,3570.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-05-20 00:00:00,3505.0,3595.0,3550.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-05-28 00:00:00,3525.0,3550.0,3537.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-05-30 00:00:00,3500.0,3540.0,3520.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-06-17 00:00:00,3615.0,3660.0,3637.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-06-18 00:00:00,3680.0,3755.0,3717.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-06-20 00:00:00,3740.0,3805.0,3772.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-06-23 00:00:00,3780.0,3840.0,3810.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-06-29 00:00:00,3815.0,3870.0,3842.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-07-02 00:00:00,3940.0,3965.0,3952.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-07-15 00:00:00,3935.0,3945.0,3940.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-08-04 00:00:00,3930.0,3965.0,3947.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-08-06 00:00:00,3955.0,3970.0,3962.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-08-21 00:00:00,3925.0,3935.0,3930.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-08-31 00:00:00,3940.0,3950.0,3945.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-09-01 00:00:00,3965.0,3965.0,3965.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-09-03 00:00:00,3940.0,3950.0,3945.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-09-09 00:00:00,3940.0,3940.0,3940.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-09-26 00:00:00,4095.0,4100.0,4097.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-10-05 00:00:00,4100.0,4115.0,4107.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-10-09 00:00:00,4105.0,4115.0,4110.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-10-15 00:00:00,4100.0,4130.0,4115.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-10-20 00:00:00,4105.0,4140.0,4122.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-10-23 00:00:00,4125.0,4140.0,4132.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-10-24 00:00:00,4125.0,4135.0,4130.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-10-26 00:00:00,4160.0,4160.0,4160.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-11-07 00:00:00,4460.0,4460.0,4460.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-11-10 00:00:00,4450.0,4975.0,4712.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-11-24 00:00:00,4475.0,4520.0,4497.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-12-03 00:00:00,4440.0,4505.0,4472.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-12-04 00:00:00,4465.0,4475.0,4470.0,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-12-05 00:00:00,4440.0,4475.0,4457.5,123
+Gujarat,Banaskanth,Vadgam,Castor Seed,Other,FAQ,2020-12-24 00:00:00,4300.0,4300.0,4300.0,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-01-02 00:00:00,3905.0,4065.0,3985.0,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-01-11 00:00:00,4020.0,4047.5,4033.75,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-01-27 00:00:00,3920.0,3936.25,3928.15,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-01-29 00:00:00,3850.0,3876.25,3863.15,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-02-14 00:00:00,3786.25,3851.25,3818.75,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-02-28 00:00:00,3686.25,3692.5,3689.4,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-03-07 00:00:00,3750.0,3825.0,3787.5,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-03-16 00:00:00,3635.0,3750.0,3692.5,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-03-19 00:00:00,3672.5,3710.0,3691.25,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-05-19 00:00:00,3525.0,3550.0,3537.5,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-05-27 00:00:00,3350.0,3505.0,3427.5,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-06-11 00:00:00,3560.0,3636.25,3598.15,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-06-19 00:00:00,3550.0,3775.0,3662.5,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-06-22 00:00:00,3745.0,3785.0,3765.0,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-06-30 00:00:00,3650.0,3910.0,3780.0,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-07-02 00:00:00,3755.0,3920.0,3837.5,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-07-31 00:00:00,3925.0,3967.0,3946.0,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-10-17 00:00:00,4080.0,4155.0,4117.0,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-10-24 00:00:00,4000.0,4156.25,4078.15,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-11-05 00:00:00,4610.0,4621.25,4615.65,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-12-17 00:00:00,4376.25,4400.0,4388.15,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-12-18 00:00:00,4305.0,4345.0,4325.0,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-12-21 00:00:00,4321.25,4350.0,4335.65,123
+Gujarat,Banaskanth,Vav,Castor Seed,Other,FAQ,2020-12-29 00:00:00,4350.0,4355.0,4352.5,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-01-09 00:00:00,3700.0,4100.0,3900.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-01-10 00:00:00,3900.0,4300.0,4100.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-01-14 00:00:00,3800.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-01-19 00:00:00,3900.0,4300.0,4100.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-01-23 00:00:00,3800.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-01-27 00:00:00,3800.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-01-30 00:00:00,3800.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-02-19 00:00:00,3800.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-02-21 00:00:00,4100.0,4300.0,4200.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-02-23 00:00:00,4000.0,4400.0,4200.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-02-25 00:00:00,3700.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-02-29 00:00:00,4100.0,4300.0,4200.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-03-09 00:00:00,4000.0,4200.0,4100.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-03-12 00:00:00,3800.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-03-18 00:00:00,3800.0,4200.0,4000.0,123
+Gujarat,Bharuch,Jambusar,Castor Seed,Other,FAQ,2020-03-19 00:00:00,3700.0,4200.0,4000.0,123
+Gujarat,Ahmedabad,Mandal,Castor Seed,Other,FAQ,2020-01-07 00:00:00,4100,4150,4125.0,123
+Gujarat,Ahmedabad,Mandal,Castor Seed,Other,FAQ,2020-01-09 00:00:00,4095,4145,4120.0,123
+Gujarat,Ahmedabad,Mandal,Castor Seed,Other,FAQ,2020-01-29 00:00:00,3865,3915,3890.0,123
+Gujarat,Ahmedabad,Mandal,Castor Seed,Other,FAQ,2020-02-10 00:00:00,3785,3835,3810.0,123
+Gujarat,Ahmedabad,Mandal,Castor Seed,Other,FAQ,2020-02-11 00:00:00,3775,3835,3805.0,123
+Gujarat,Ahmedabad,Mandal,Castor Seed,Other,FAQ,2020-02-27 00:00:00,3615,3665,3640.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-02-26 00:00:00,3255,3675,3465.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-03-16 00:00:00,3650,3670,3660.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-03-17 00:00:00,3565,3575,3570.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-03-18 00:00:00,3555,3570,3562.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-03-20 00:00:00,3605,3755,3630.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-07-31 00:00:00,3840,3860,3850.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-10-09 00:00:00,4000,4000,4000.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-10-10 00:00:00,3780,3995,3885.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-10-24 00:00:00,4055,4070,4062.0,123
+Gujarat,Ahmedabad,Sanad,Castor Seed,Other,FAQ,2020-11-03 00:00:00,4325,4335,4330.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-01-01 00:00:00,3955,4025,4025.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-01-08 00:00:00,3995,3995,3995.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-01-22 00:00:00,3525,3775,3625.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-01-30 00:00:00,3650,3800,3800.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-02-05 00:00:00,3700,3700,3700.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-02-06 00:00:00,3500,3670,3670.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-02-07 00:00:00,3670,3725,3725.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-02-08 00:00:00,3715,3715,3715.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-02-13 00:00:00,3455,3615,3615.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-02-28 00:00:00,2250,3665,3080.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-03-05 00:00:00,3690,3690,3690.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-03-09 00:00:00,3690,3690,3690.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-05-07 00:00:00,3025,3475,3445.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-05-14 00:00:00,3345,3425,3380.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-05-26 00:00:00,2050,3520,3485.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-05-27 00:00:00,3345,3540,3420.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-07-02 00:00:00,3025,3850,3770.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-07-17 00:00:00,3730,3885,3775.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-07-22 00:00:00,3770,3835,3830.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-07-27 00:00:00,3200,3840,3780.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-07-30 00:00:00,3655,3790,3770.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-08-05 00:00:00,3300,3770,3500.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-08-18 00:00:00,2500,3745,3670.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-08-21 00:00:00,3635,3725,3705.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-09-07 00:00:00,3250,3690,3600.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-09-09 00:00:00,3640,3740,3730.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-09-18 00:00:00,3600,3825,3765.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-09-21 00:00:00,3265,3845,3750.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-09-22 00:00:00,3820,3825,3825.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-09-23 00:00:00,3780,3880,3875.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-10-14 00:00:00,3810,3935,3935.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-10-16 00:00:00,3540,3880,3875.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-10-17 00:00:00,2500,3875,3875.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-10-19 00:00:00,3775,3985,3985.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-10-27 00:00:00,3430,3990,3830.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-10-29 00:00:00,3000,4125,3995.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-11-02 00:00:00,3980,4290,4040.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-11-07 00:00:00,3900,4400,4280.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-11-09 00:00:00,4170,4255,4230.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-11-12 00:00:00,4350,4435,4435.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-12-02 00:00:00,3710,4320,4300.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-12-16 00:00:00,4150,4235,4165.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-12-21 00:00:00,3075,4165,3650.0,123
+Gujarat,Amreli,Amreli,Castor Seed,Castor seed,FAQ,2020-12-22 00:00:00,3330,4170,4170.0,123
+Gujarat,Amreli,Rajula,Castor Seed,Castor seed,FAQ,2020-01-07 00:00:00,3550,3550,3550.0,123
+Gujarat,Amreli,Rajula,Castor Seed,Castor seed,FAQ,2020-05-16 00:00:00,3250,3250,3250.0,123
+Gujarat,Amreli,Rajula,Castor Seed,Castor seed,FAQ,2020-07-21 00:00:00,3110,3110,3110.0,123
+Gujarat,Amreli,Rajula,Castor Seed,Castor seed,FAQ,2020-08-18 00:00:00,3605,3605,3605.0,123
+Gujarat,Amreli,Rajula,Castor Seed,Castor seed,FAQ,2020-10-05 00:00:00,2855,3555,3205.0,123
+Gujarat,Amreli,Savarkundla,Castor Seed,Castor seed,FAQ,2020-01-16 00:00:00,3500,3640,3570.0,123
+Gujarat,Amreli,Savarkundla,Castor Seed,Castor seed,FAQ,2020-01-27 00:00:00,3950,3950,3950.0,123
+Gujarat,Amreli,Savarkundla,Castor Seed,Castor seed,FAQ,2020-02-10 00:00:00,3000,3745,3373.0,123
+Gujarat,Amreli,Savarkundla,Castor Seed,Castor seed,FAQ,2020-02-19 00:00:00,3500,3800,3650.0,123
+Gujarat,Amreli,Savarkundla,Castor Seed,Castor seed,FAQ,2020-02-20 00:00:00,3840,3840,3840.0,123
+Gujarat,Amreli,Savarkundla,Castor Seed,Castor seed,FAQ,2020-02-24 00:00:00,3650,3715,3683.0,123
+Gujarat,Amreli,Savarkundla,Castor Seed,Castor seed,FAQ,2020-03-02 00:00:00,3140,3650,3395.0,123

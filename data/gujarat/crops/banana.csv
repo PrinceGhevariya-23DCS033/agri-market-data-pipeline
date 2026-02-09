@@ -12152,35 +12152,185 @@ Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2022-09-30 00:00:00
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2022-10-04 00:00:00,2000.0,3200.0,2600.0,19
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2022-10-08 00:00:00,2000.0,3250.0,2625.0,19
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2022-10-10 00:00:00,2000.0,3350.0,2675.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-01-12 00:00:00,900,900,900.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-01-20 00:00:00,900,1000,950.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-01-21 00:00:00,900,1000,950.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-01-27 00:00:00,850,900,875.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-01-29 00:00:00,750,900,850.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-02-12 00:00:00,1200,1325,1250.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-02-15 00:00:00,1200,1325,1250.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-02-18 00:00:00,1300,1300,1300.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-02-25 00:00:00,1250,1250,1250.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-03-06 00:00:00,1200,1450,1300.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-03-09 00:00:00,1450,1450,1450.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-03-20 00:00:00,1400,1600,1500.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-03-26 00:00:00,1300,1600,1500.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-04-03 00:00:00,1650,1850,1750.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-10-20 00:00:00,800,1750,1400.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-10-26 00:00:00,750,1600,1350.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-10-29 00:00:00,750,1650,1400.0,19
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2021-11-17 00:00:00,750,1600,1400.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-01-09 00:00:00,500,900,700.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-01-20 00:00:00,500,1000,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-01-29 00:00:00,500,1000,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-02-04 00:00:00,500,1000,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-02-08 00:00:00,500,975,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-02-13 00:00:00,500,1000,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-02-18 00:00:00,500,1000,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-03-01 00:00:00,500,1000,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-03-09 00:00:00,500,1000,800.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-03-31 00:00:00,750,1425,1150.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-04-03 00:00:00,800,1500,1200.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-10-10 00:00:00,450,800,600.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-10-14 00:00:00,750,950,875.0,19
-Gujarat,Narmada,Rajpipla,Banana,Other,Large,2021-10-22 00:00:00,800,1200,1000.0,19
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2024-03-19 00:00:00,2000.0,2800.0,2400.0,19
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2024-03-23 00:00:00,2000.0,2850.0,2425.0,19
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2024-03-27 00:00:00,2000.0,2800.0,2400.0,19
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2024-04-04 00:00:00,2000.0,2750.0,2375.0,19
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2024-04-15 00:00:00,2500.0,3600.0,3050.0,19
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,2024-04-25 00:00:00,2500.0,3850.0,3175.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-01-06 00:00:00,1500.0,2500.0,2000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-01-10 00:00:00,1900.0,1900.0,1900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-01-11 00:00:00,2000.0,2000.0,2000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-01-17 00:00:00,2250.0,2250.0,2250.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-01-24 00:00:00,2000.0,2000.0,2000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-02-12 00:00:00,1500.0,2500.0,2200.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-02-16 00:00:00,2000.0,2000.0,2000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-03-01 00:00:00,2300.0,2750.0,2500.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-03-23 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-03-29 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-04-01 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-04-12 00:00:00,1500.0,2500.0,2000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-04-15 00:00:00,1500.0,2200.0,2000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-04-20 00:00:00,1500.0,2250.0,1900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2024-04-24 00:00:00,1500.0,2200.0,2000.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2024-03-15 00:00:00,1050.0,1290.0,1175.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2024-03-18 00:00:00,1050.0,1220.0,1125.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2024-04-12 00:00:00,1090.0,1410.0,1225.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2024-04-22 00:00:00,1025.0,1310.0,1180.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2024-04-27 00:00:00,1250.0,1680.0,1560.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-01-02 00:00:00,2500.0,3000.0,2750.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-01-05 00:00:00,2500.0,3000.0,2750.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-01-06 00:00:00,2500.0,3000.0,2750.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-01-10 00:00:00,1000.0,2000.0,1500.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-01-16 00:00:00,2000.0,2500.0,2250.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-02-06 00:00:00,2500.0,3500.0,3000.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-02-12 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-02-23 00:00:00,2000.0,2500.0,2250.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-03-01 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-03-09 00:00:00,2000.0,2500.0,2250.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-03-12 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-03-30 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-04-04 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-04-25 00:00:00,2000.0,3000.0,2500.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-04-26 00:00:00,2000.0,2500.0,2250.0,19
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,2024-04-30 00:00:00,1500.0,2500.0,2000.0,19
+Gujarat,Surendranagar,Vadhvan,Banana,Other,Medium,2024-04-30 00:00:00,2000.0,2500.0,2250.0,19
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Banana,Other,Large,2020-03-18 00:00:00,1100.0,1500.0,1500.0,19
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Banana,Amruthapani,Medium,2020-04-06 00:00:00,1300.0,1300.0,1300.0,19
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Banana,Amruthapani,Medium,2020-06-18 00:00:00,1400.0,1600.0,1500.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-02 00:00:00,1000.0,1000.0,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-03 00:00:00,1000.0,1000.0,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-18 00:00:00,900.0,1000.0,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-28 00:00:00,900.0,1000.0,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-02-08 00:00:00,1100.0,1100.0,1100.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-02-11 00:00:00,1100.0,1100.0,1100.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-02-15 00:00:00,1150.0,1150.0,1150.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-03-16 00:00:00,1250.0,1250.0,1250.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-03-30 00:00:00,1200.0,1200.0,1200.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-04-21 00:00:00,700.0,700.0,700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-04-27 00:00:00,1000.0,1000.0,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-07 00:00:00,850.0,850.0,850.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-14 00:00:00,900.0,900.0,900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-06-10 00:00:00,600.0,700.0,650.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-06-16 00:00:00,650.0,850.0,750.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-06-20 00:00:00,650.0,800.0,750.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-02 00:00:00,750.0,1000.0,875.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-15 00:00:00,500.0,750.0,700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-28 00:00:00,700.0,1100.0,900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-30 00:00:00,500.0,1200.0,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-08-17 00:00:00,500.0,1100.0,900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-08-25 00:00:00,700.0,1100.0,900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-08-26 00:00:00,700.0,1100.0,900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-10-05 00:00:00,900.0,1500.0,1150.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-10-28 00:00:00,1100.0,1500.0,1300.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-11-21 00:00:00,1250.0,1250.0,1250.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-03 00:00:00,1250.0,1250.0,1250.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-14 00:00:00,1000.0,1000.0,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-18 00:00:00,900.0,1000.0,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-21 00:00:00,900.0,1300.0,1100.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-24 00:00:00,900.0,1000.0,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-29 00:00:00,1000.0,1000.0,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-31 00:00:00,1000.0,1000.0,1000.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-01 00:00:00,800.0,1500.0,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-02 00:00:00,800.0,1520.0,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-04 00:00:00,800.0,1450.0,1050.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-07 00:00:00,800.0,1500.0,1250.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-13 00:00:00,800.0,1500.0,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-15 00:00:00,800.0,1500.0,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-22 00:00:00,800.0,1500.0,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-24 00:00:00,800.0,1500.0,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-30 00:00:00,800.0,1500.0,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-02-05 00:00:00,800.0,1480.0,1175.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-02-26 00:00:00,800.0,1375.0,1080.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-03-13 00:00:00,800.0,1310.0,1125.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-04-13 00:00:00,300.0,675.0,500.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-04-14 00:00:00,300.0,700.0,500.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-04-21 00:00:00,300.0,700.0,500.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-04-27 00:00:00,500.0,900.0,750.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-11 00:00:00,300.0,700.0,500.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-16 00:00:00,300.0,680.0,500.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-22 00:00:00,450.0,750.0,600.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-06-04 00:00:00,350.0,650.0,475.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-06-05 00:00:00,275.0,575.0,380.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-06-18 00:00:00,400.0,600.0,475.0,19
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Banana,Amruthapani,Medium,2020-04-13 00:00:00,1300,1500,1400.0,19
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Banana,Amruthapani,Medium,2020-04-14 00:00:00,1300,1500,1400.0,19
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Banana,Amruthapani,Medium,2020-04-17 00:00:00,1200,1400,1300.0,19
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Banana,Amruthapani,Medium,2020-04-18 00:00:00,1300,1500,1400.0,19
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Banana,Amruthapani,Medium,2020-04-21 00:00:00,1600,1800,1700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-09 00:00:00,900,1000,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-11 00:00:00,900,1000,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-13 00:00:00,900,1000,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-23 00:00:00,900,1100,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-01-31 00:00:00,1000,1000,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-02-04 00:00:00,900,1100,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-02-28 00:00:00,1350,1350,1350.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-03-09 00:00:00,1300,1300,1300.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-03-11 00:00:00,1300,1300,1300.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-03-19 00:00:00,1250,1250,1250.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-03-28 00:00:00,1200,1200,1200.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-04-20 00:00:00,900,900,900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-04-23 00:00:00,800,800,800.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-02 00:00:00,1000,1000,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-04 00:00:00,1000,1000,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-15 00:00:00,1000,1000,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-18 00:00:00,800,1100,900.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-23 00:00:00,900,1000,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-28 00:00:00,750,900,850.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-05-29 00:00:00,800,900,850.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-06-13 00:00:00,600,800,700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-06-15 00:00:00,600,800,700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-06-22 00:00:00,650,850,750.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-04 00:00:00,600,900,800.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-08 00:00:00,600,1100,800.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-10 00:00:00,500,1000,800.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-11 00:00:00,600,750,700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-17 00:00:00,500,750,700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-18 00:00:00,500,800,700.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-20 00:00:00,500,900,800.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-07-29 00:00:00,700,950,850.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-08-19 00:00:00,700,1150,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-09-16 00:00:00,500,1400,1100.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-10-24 00:00:00,1100,1500,1300.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-04 00:00:00,800,900,850.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-05 00:00:00,850,1000,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-10 00:00:00,900,1000,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-15 00:00:00,1000,1000,1000.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-22 00:00:00,850,1000,950.0,19
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,2020-12-26 00:00:00,850,1000,950.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-09 00:00:00,800,1450,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-17 00:00:00,800,1500,1250.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-01-25 00:00:00,800,1500,1200.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-02-03 00:00:00,800,1475,1375.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-02-17 00:00:00,800,1425,1100.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-02-18 00:00:00,800,1400,1100.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-03-04 00:00:00,800,1450,1150.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-03-09 00:00:00,800,1375,1150.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-03-12 00:00:00,800,1350,1150.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-03-16 00:00:00,800,1375,1180.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-04-04 00:00:00,600,1020,825.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-04-25 00:00:00,600,900,750.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-04-29 00:00:00,600,1000,800.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-04 00:00:00,400,800,600.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-14 00:00:00,300,600,450.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-19 00:00:00,500,800,650.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-26 00:00:00,450,650,550.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-27 00:00:00,450,650,550.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-05-28 00:00:00,400,650,550.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-06-01 00:00:00,400,650,500.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-06-10 00:00:00,400,675,525.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-06-23 00:00:00,400,650,500.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-07-16 00:00:00,450,680,550.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-07-24 00:00:00,450,650,530.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-07-31 00:00:00,450,700,575.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-09-07 00:00:00,550,1200,900.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-09-10 00:00:00,550,1200,850.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-09-21 00:00:00,550,1200,850.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-09-22 00:00:00,450,1200,850.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-10-01 00:00:00,550,1250,900.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-10-03 00:00:00,550,1250,900.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-10-06 00:00:00,550,1200,950.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-10-17 00:00:00,550,1400,925.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-10-19 00:00:00,550,1500,950.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-10-22 00:00:00,550,1500,900.0,19
+Gujarat,Narmada,Rajpipla,Banana,Other,Large,2020-12-02 00:00:00,600,1400,900.0,19

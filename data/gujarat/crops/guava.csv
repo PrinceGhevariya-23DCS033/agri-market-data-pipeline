@@ -3420,56 +3420,70 @@ Gujarat,Surendranagar,Vadhvan,Guava,Guava,Medium,2025-01-16 00:00:00,3000.0,3500
 Gujarat,Surendranagar,Vadhvan,Guava,Guava,Medium,2025-01-30 00:00:00,2000.0,2500.0,2250.0,185
 Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2021-04-27 00:00:00,1325.0,2225.0,2000.0,185
 Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2021-04-16 00:00:00,1500.0,3000.0,2250.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-02 00:00:00,700,1200,1000.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-05 00:00:00,700,1500,1150.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-06 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-07 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-13 00:00:00,500,1000,800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-21 00:00:00,1500,2500,2100.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-23 00:00:00,1200,2000,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-25 00:00:00,1200,1800,1600.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-08-26 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-07 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-13 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-21 00:00:00,1200,1500,1400.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-23 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-06 00:00:00,1200,2000,1800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-15 00:00:00,1700,1800,1750.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-16 00:00:00,1700,1800,1750.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-20 00:00:00,1800,1900,1850.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-10 00:00:00,1200,1500,1400.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-15 00:00:00,1000,1800,1500.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-19 00:00:00,1000,1200,1100.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-26 00:00:00,600,800,750.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-27 00:00:00,600,800,750.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-29 00:00:00,800,1000,950.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-03 00:00:00,1000,1200,1150.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-04 00:00:00,1000,1200,1100.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-07 00:00:00,1000,1200,1100.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-09 00:00:00,1500,2000,1850.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-10 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-16 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-20 00:00:00,1500,2500,2200.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-25 00:00:00,1500,2500,2200.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-27 00:00:00,1000,2000,1600.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-30 00:00:00,1000,1200,1150.0,185
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-31 00:00:00,1000,1200,1150.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-01-18 00:00:00,1500,2500,2200.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-01-21 00:00:00,1500,2500,2100.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-01-22 00:00:00,1200,2000,1700.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-10 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-12 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-13 00:00:00,1000,1500,1400.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-16 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-20 00:00:00,1000,1500,1400.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-07 00:00:00,1000,1500,1300.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-13 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-20 00:00:00,1200,1500,1400.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-21 00:00:00,1200,1500,1400.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-23 00:00:00,3000,6000,4700.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-28 00:00:00,1500,2000,1900.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-30 00:00:00,1500,2000,1800.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-10-07 00:00:00,1200,2000,1800.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-10-11 00:00:00,1700,1800,1750.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-10-21 00:00:00,1800,1900,1850.0,185
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-11-02 00:00:00,1200,1400,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-02 00:00:00,700.0,1200.0,1000.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-05 00:00:00,700.0,1500.0,1150.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-06 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-07 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-13 00:00:00,500.0,1000.0,800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-21 00:00:00,1500.0,2500.0,2100.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-23 00:00:00,1200.0,2000.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-01-25 00:00:00,1200.0,1800.0,1600.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-08-26 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-07 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-13 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-21 00:00:00,1200.0,1500.0,1400.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-09-23 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-06 00:00:00,1200.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-15 00:00:00,1700.0,1800.0,1750.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-16 00:00:00,1700.0,1800.0,1750.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-10-20 00:00:00,1800.0,1900.0,1850.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-10 00:00:00,1200.0,1500.0,1400.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-15 00:00:00,1000.0,1800.0,1500.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-19 00:00:00,1000.0,1200.0,1100.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-26 00:00:00,600.0,800.0,750.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-27 00:00:00,600.0,800.0,750.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-11-29 00:00:00,800.0,1000.0,950.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-03 00:00:00,1000.0,1200.0,1150.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-04 00:00:00,1000.0,1200.0,1100.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-07 00:00:00,1000.0,1200.0,1100.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-09 00:00:00,1500.0,2000.0,1850.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-10 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-16 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-20 00:00:00,1500.0,2500.0,2200.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-25 00:00:00,1500.0,2500.0,2200.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-27 00:00:00,1000.0,2000.0,1600.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-30 00:00:00,1000.0,1200.0,1150.0,185
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Guava,Other,Small,2010-12-31 00:00:00,1000.0,1200.0,1150.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-01-18 00:00:00,1500.0,2500.0,2200.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-01-21 00:00:00,1500.0,2500.0,2100.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-01-22 00:00:00,1200.0,2000.0,1700.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-10 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-12 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-13 00:00:00,1000.0,1500.0,1400.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-16 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-08-20 00:00:00,1000.0,1500.0,1400.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-07 00:00:00,1000.0,1500.0,1300.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-13 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-20 00:00:00,1200.0,1500.0,1400.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-21 00:00:00,1200.0,1500.0,1400.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-23 00:00:00,3000.0,6000.0,4700.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-28 00:00:00,1500.0,2000.0,1900.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-09-30 00:00:00,1500.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-10-07 00:00:00,1200.0,2000.0,1800.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-10-11 00:00:00,1700.0,1800.0,1750.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-10-21 00:00:00,1800.0,1900.0,1850.0,185
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Guava,Other,Small,2010-11-02 00:00:00,1200.0,1400.0,1300.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2020-01-15 00:00:00,1325,2225,2000.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2020-03-17 00:00:00,2600,3500,3250.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2020-10-26 00:00:00,1950,2575,2400.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Small,2020-11-14 00:00:00,1725,2175,2000.0,185
+Gujarat,Bharuch,Ankleshwar,Guava,Guava,Medium,2020-12-10 00:00:00,1325,2225,2000.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-03-31 00:00:00,1000,1500,1250.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-04-17 00:00:00,1000,2500,1750.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-11-25 00:00:00,500,1500,1000.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-11-30 00:00:00,400,1200,800.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-12-15 00:00:00,800,2700,1750.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-12-17 00:00:00,500,3000,1750.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-12-18 00:00:00,1000,2500,1750.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-12-23 00:00:00,2500,3500,3000.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,2020-12-29 00:00:00,1500,3500,2500.0,185
