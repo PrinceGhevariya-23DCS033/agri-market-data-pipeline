@@ -1,3 +1,4 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
-Gujarat,Bharuch,Bharuch,Chapparad Avare,Other,FAQ,2010-11-03,3000,3500,3250,169
-Gujarat,Surat,Surat,Chapparad Avare,Other,FAQ,2008-09-02 00:00:00,250,500,375,169
+Gujarat,Bharuch,Bharuch,Chapparad Avare,Other,FAQ,2010-11-03,3000.0,3500.0,3250.0,169
+Gujarat,Surat,Surat,Chapparad Avare,Other,FAQ,2008-09-02 00:00:00,250.0,500.0,375.0,169
+Gujarat,Surat,Surat APMC,Chapparad Avare,Other,FAQ,2025-11-10 00:00:00,3500.0,8500.0,6000.0,169
