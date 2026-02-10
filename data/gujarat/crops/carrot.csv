@@ -28703,41 +28703,2038 @@ Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-11-18 00:00:00,2500.0,3000.0
 Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-11-19 00:00:00,2000.0,2200.0,2100.0,153
 Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-11-20 00:00:00,1500.0,2000.0,1750.0,153
 Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-11-24 00:00:00,1750.0,2000.0,1875.0,153
-Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-04 00:00:00,1500,1800,1650.0,153
-Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-10 00:00:00,1600,1700,1650.0,153
-Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-16 00:00:00,1000,1200,1100.0,153
-Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-23 00:00:00,1400,1500,1450.0,153
-Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-26 00:00:00,1400,1500,1450.0,153
-Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-29 00:00:00,1300,1500,1400.0,153
-Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-30 00:00:00,1400,1500,1450.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-04 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-08 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-17 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-21 00:00:00,1000,1100,1050.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-22 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-26 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-02 00:00:00,700,1000,850.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-14 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-16 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-17 00:00:00,900,1200,1050.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-22 00:00:00,750,900,825.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-24 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-27 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-03 00:00:00,800,1200,1000.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-06 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-07 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-09 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-10 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-11 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-17 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-18 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-21 00:00:00,1000,1300,1150.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-22 00:00:00,1000,1300,1150.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-25 00:00:00,800,1000,900.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-28 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-31 00:00:00,800,1200,1000.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-04-10 00:00:00,1000,1300,1150.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-04-18 00:00:00,1000,1200,1100.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-04-24 00:00:00,1600,1800,1700.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-05-03 00:00:00,1600,2000,1800.0,153
-Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-05-05 00:00:00,1400,1800,1600.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-04 00:00:00,1500.0,1800.0,1650.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-10 00:00:00,1600.0,1700.0,1650.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-16 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-23 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-26 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-29 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2014-12-30 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-04 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-08 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-17 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-21 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-22 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-01-26 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-02 00:00:00,700.0,1000.0,850.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-14 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-16 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-17 00:00:00,900.0,1200.0,1050.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-22 00:00:00,750.0,900.0,825.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-24 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-02-27 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-03 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-06 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-07 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-09 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-10 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-11 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-17 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-18 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-21 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-22 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-25 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-28 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-03-31 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-04-10 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-04-18 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-04-24 00:00:00,1600.0,1800.0,1700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-05-03 00:00:00,1600.0,2000.0,1800.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2014-05-05 00:00:00,1400.0,1800.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-01-03 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-01-05 00:00:00,700.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-01-09 00:00:00,700.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-01-18 00:00:00,500.0,900.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-01-26 00:00:00,400.0,800.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-07 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-11 00:00:00,400.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-13 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-19 00:00:00,400.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-21 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-22 00:00:00,400.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-23 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-02-25 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-03-12 00:00:00,400.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-03-19 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-03-21 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-04-09 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-04-10 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-04-11 00:00:00,500.0,800.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-04-26 00:00:00,800.0,1600.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-04-27 00:00:00,500.0,1400.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-05-03 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-05-17 00:00:00,700.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-05-23 00:00:00,1000.0,1800.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-05-25 00:00:00,1500.0,1800.0,1700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-06-04 00:00:00,1300.0,1800.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-06-08 00:00:00,500.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-06-10 00:00:00,1200.0,1300.0,1250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-07-01 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-07-18 00:00:00,900.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-07-19 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-07-22 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-07-23 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-08-03 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-08-06 00:00:00,500.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-08-12 00:00:00,900.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-08-16 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-08-17 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-08-28 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-09-03 00:00:00,1000.0,1800.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-09-04 00:00:00,800.0,1600.0,1400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-09-23 00:00:00,800.0,2000.0,1800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-09-26 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-09-28 00:00:00,800.0,2000.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-11 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-17 00:00:00,1200.0,2000.0,1800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-19 00:00:00,800.0,1600.0,1400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-21 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-23 00:00:00,1200.0,1800.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-24 00:00:00,1000.0,1800.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-26 00:00:00,1000.0,2000.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-10-29 00:00:00,1500.0,2500.0,2200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-11-08 00:00:00,3500.0,4500.0,4200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-11-25 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-11-26 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-12-07 00:00:00,700.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-12-11 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-12-14 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-12-19 00:00:00,500.0,900.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2013-12-28 00:00:00,500.0,900.0,700.0,153
+Gujarat,Amreli,Dhari(Chalala),Carrot,Carrot,FAQ,2013-09-03 00:00:00,700.0,900.0,700.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2013-12-02 00:00:00,200.0,280.0,240.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2013-12-18 00:00:00,140.0,180.0,160.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2013-12-23 00:00:00,160.0,200.0,180.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2013-12-28 00:00:00,120.0,180.0,150.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-11-23 00:00:00,1150.0,1600.0,1350.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-11-29 00:00:00,1150.0,2200.0,1800.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-12-03 00:00:00,700.0,900.0,850.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-12-13 00:00:00,610.0,850.0,700.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-12-15 00:00:00,900.0,1300.0,1150.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-12-17 00:00:00,900.0,1300.0,1125.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-12-19 00:00:00,625.0,900.0,700.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-12-25 00:00:00,625.0,900.0,850.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2013-12-26 00:00:00,700.0,1125.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-02-01 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-02-05 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-02-18 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-02-19 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-02-21 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-02-26 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-03-02 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-03-03 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-03-04 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-03-06 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-03-08 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-04-01 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-04-07 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-04-08 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-04-13 00:00:00,1000.0,1250.0,1125.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-04-19 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-06-03 00:00:00,1400.0,1600.0,1500.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-06-12 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-06-24 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-07-06 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-07-09 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-07-10 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-11-21 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-11-25 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-12-20 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-12-22 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2013-12-26 00:00:00,1300.0,1600.0,1450.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-10-09 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-10-10 00:00:00,2200.0,3000.0,2700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-10-14 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-10-22 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-10-23 00:00:00,3000.0,3500.0,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-10-24 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-10-27 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-11-02 00:00:00,3000.0,3500.0,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-11-09 00:00:00,5000.0,6000.0,6000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-11-11 00:00:00,5500.0,6000.0,6000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-11-12 00:00:00,3000.0,3500.0,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-11-20 00:00:00,3000.0,3200.0,3100.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-11-22 00:00:00,2300.0,2800.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-11-24 00:00:00,1500.0,2500.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-12-19 00:00:00,800.0,1500.0,1400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-12-23 00:00:00,1000.0,1500.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-12-24 00:00:00,500.0,1400.0,1000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2013-12-30 00:00:00,500.0,1300.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-01-13 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-01 00:00:00,900.0,1100.0,1000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-02 00:00:00,900.0,1200.0,1000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-07 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-11 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-13 00:00:00,700.0,1200.0,1100.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-15 00:00:00,600.0,1200.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-20 00:00:00,600.0,1000.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-02-23 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-03-02 00:00:00,500.0,900.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-03-05 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-03-07 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-03-30 00:00:00,700.0,1500.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-04-10 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-04-14 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-04-22 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-04-23 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-04-28 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-05-02 00:00:00,3800.0,4000.0,4000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-05-07 00:00:00,3500.0,3500.0,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-05-09 00:00:00,3500.0,4000.0,4000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-05-13 00:00:00,600.0,1200.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-05-20 00:00:00,3000.0,4000.0,3700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-05-30 00:00:00,3000.0,4000.0,4000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-05-31 00:00:00,3200.0,4000.0,3800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-06-02 00:00:00,3500.0,4000.0,4000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-06-04 00:00:00,2800.0,4500.0,4000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-06-20 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-06-26 00:00:00,2000.0,2500.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-07-14 00:00:00,2300.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-07-15 00:00:00,2000.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-07-20 00:00:00,2400.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-07-23 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-07-26 00:00:00,2000.0,2500.0,2200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-07-29 00:00:00,2000.0,2500.0,2200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-04 00:00:00,1500.0,2600.0,2400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-06 00:00:00,2000.0,2500.0,2200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-08 00:00:00,2300.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-11 00:00:00,2300.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-16 00:00:00,2000.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-17 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-19 00:00:00,2000.0,2800.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-21 00:00:00,2000.0,3000.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-08-30 00:00:00,2000.0,2500.0,2100.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-09-22 00:00:00,3000.0,3500.0,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2013-09-25 00:00:00,3000.0,3000.0,3000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-01-01 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-01-08 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-01-19 00:00:00,500.0,700.0,600.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-01-31 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-02-07 00:00:00,500.0,600.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-02-13 00:00:00,500.0,600.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-02-21 00:00:00,400.0,500.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-03-08 00:00:00,500.0,800.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-03-12 00:00:00,600.0,800.0,600.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-03-18 00:00:00,500.0,700.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2013-12-27 00:00:00,300.0,300.0,300.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2013-11-25 00:00:00,1500.0,1510.0,1505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2013-11-27 00:00:00,1500.0,1510.0,1505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2013-12-07 00:00:00,1750.0,1760.0,1755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2013-12-10 00:00:00,1400.0,1410.0,1405.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2013-12-16 00:00:00,1400.0,1410.0,1405.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2013-12-25 00:00:00,1500.0,1510.0,1505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2013-12-29 00:00:00,1650.0,1660.0,1655.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-01-04 00:00:00,1650.0,1660.0,1655.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-01-07 00:00:00,1650.0,1660.0,1655.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-01-16 00:00:00,2000.0,2010.0,2005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-01-19 00:00:00,1800.0,1810.0,1805.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-01-26 00:00:00,2000.0,2010.0,2005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-02-16 00:00:00,1000.0,1010.0,1005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-02-18 00:00:00,1000.0,1010.0,1005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-02-19 00:00:00,1150.0,1160.0,1155.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-02-21 00:00:00,700.0,710.0,705.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-02-22 00:00:00,750.0,760.0,755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-02-26 00:00:00,1150.0,1160.0,1155.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-02-28 00:00:00,750.0,760.0,755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-01 00:00:00,850.0,860.0,855.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-02 00:00:00,750.0,760.0,755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-03 00:00:00,700.0,710.0,705.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-04 00:00:00,1000.0,1010.0,1005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-07 00:00:00,1150.0,1160.0,1155.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-13 00:00:00,1000.0,1010.0,1005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-15 00:00:00,1250.0,1260.0,1255.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-20 00:00:00,1200.0,1210.0,1205.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-24 00:00:00,1500.0,1510.0,1505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-03-26 00:00:00,1250.0,1260.0,1255.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-04-06 00:00:00,1600.0,1610.0,1605.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-04-09 00:00:00,1500.0,1510.0,1505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-04-17 00:00:00,1150.0,1160.0,1155.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2013-04-24 00:00:00,1500.0,1520.0,1510.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-01-02 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-01-05 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-01-08 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-01-12 00:00:00,1100.0,1200.0,1150.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-01-25 00:00:00,700.0,1000.0,850.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-02-07 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-02-22 00:00:00,500.0,800.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-02-28 00:00:00,700.0,800.0,750.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-03-01 00:00:00,500.0,800.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-03-29 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-04-09 00:00:00,400.0,800.0,600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-04-13 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-04-19 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-04-24 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-04-26 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-04-27 00:00:00,1500.0,1800.0,1650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-05-02 00:00:00,1600.0,1800.0,1700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-05-07 00:00:00,1200.0,1600.0,1400.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-05-11 00:00:00,1400.0,1600.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-05-12 00:00:00,1400.0,1600.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-05-14 00:00:00,2250.0,2500.0,2375.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-05-21 00:00:00,1400.0,2000.0,1700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-06-05 00:00:00,1000.0,2000.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-06-10 00:00:00,1000.0,2000.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-06-12 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-06-19 00:00:00,1200.0,1600.0,1400.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-06-27 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-06-29 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-07-20 00:00:00,1900.0,2000.0,1950.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-07-22 00:00:00,1900.0,2000.0,1950.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-09-08 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-09-13 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-09-20 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-09-22 00:00:00,1400.0,1800.0,1600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-09-26 00:00:00,1500.0,2250.0,1875.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-10-09 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-10-11 00:00:00,1000.0,2000.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-10-29 00:00:00,1000.0,2000.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-11-25 00:00:00,1750.0,2000.0,1875.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-12-07 00:00:00,1400.0,1600.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-12-09 00:00:00,1200.0,1600.0,1400.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-12-11 00:00:00,1200.0,1300.0,1250.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-12-14 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2013-12-18 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-03-05 00:00:00,100.0,250.0,175.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-03-06 00:00:00,100.0,250.0,175.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-03-07 00:00:00,100.0,250.0,175.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-03-12 00:00:00,200.0,300.0,250.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-03-17 00:00:00,150.0,300.0,225.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-04-02 00:00:00,200.0,300.0,250.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-04-11 00:00:00,300.0,500.0,400.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-04-23 00:00:00,300.0,400.0,350.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-11-26 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-12-23 00:00:00,400.0,600.0,500.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2013-12-26 00:00:00,400.0,600.0,500.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2013-12-04 00:00:00,800.0,1700.0,1250.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2013-12-12 00:00:00,400.0,1100.0,750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-01-15 00:00:00,900.0,1100.0,1000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-01-30 00:00:00,500.0,800.0,650.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-01-31 00:00:00,600.0,800.0,700.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-02-07 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-02-14 00:00:00,400.0,700.0,550.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-02-15 00:00:00,350.0,600.0,425.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-02-16 00:00:00,350.0,600.0,425.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-02-18 00:00:00,350.0,650.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-02-26 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-02-28 00:00:00,400.0,700.0,550.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-03-11 00:00:00,350.0,600.0,475.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-03-21 00:00:00,350.0,600.0,475.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-03-25 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-04-08 00:00:00,500.0,900.0,700.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-04-09 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-04-13 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-05-07 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-05-21 00:00:00,1500.0,1600.0,1550.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-06-17 00:00:00,1750.0,2000.0,1875.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-07-09 00:00:00,1250.0,2250.0,1750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-07-25 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-07-27 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-09-02 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-09-10 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-10-24 00:00:00,2250.0,2750.0,2500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-11-23 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-11-26 00:00:00,1250.0,1750.0,1500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-11-29 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-12-02 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-12-05 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-12-09 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-12-11 00:00:00,1000.0,1250.0,1125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-12-18 00:00:00,750.0,1000.0,875.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2013-12-27 00:00:00,600.0,800.0,700.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-01-01 00:00:00,700.0,800.0,750.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-01-11 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-01-12 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-01-17 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-01-31 00:00:00,800.0,900.0,850.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-02 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-07 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-08 00:00:00,600.0,700.0,650.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-11 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-12 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-13 00:00:00,600.0,700.0,650.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-16 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-02-22 00:00:00,600.0,700.0,650.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-03-15 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-03-19 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-12-07 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-12-14 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-12-24 00:00:00,750.0,900.0,825.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2013-12-25 00:00:00,1000.0,1250.0,1125.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-01-08 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-01-16 00:00:00,1200.0,1300.0,1250.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-01-22 00:00:00,650.0,800.0,725.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-01-30 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-02-01 00:00:00,800.0,1100.0,1000.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-02-02 00:00:00,700.0,1150.0,1000.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-02-07 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-02-15 00:00:00,600.0,700.0,650.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-02-16 00:00:00,500.0,650.0,600.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-02-28 00:00:00,650.0,750.0,700.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-03-06 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-03-09 00:00:00,500.0,700.0,625.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-03-11 00:00:00,700.0,750.0,725.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-04-03 00:00:00,650.0,900.0,800.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-04-05 00:00:00,800.0,1100.0,1000.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-04-08 00:00:00,850.0,1000.0,925.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-11-20 00:00:00,3250.0,4750.0,4500.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-12-02 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2013-12-23 00:00:00,800.0,1000.0,925.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-01-20 00:00:00,400.0,900.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-01-23 00:00:00,700.0,900.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-02-06 00:00:00,700.0,900.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-02-19 00:00:00,500.0,750.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-02-26 00:00:00,400.0,650.0,550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-02-27 00:00:00,400.0,700.0,575.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-03-13 00:00:00,500.0,700.0,625.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-03-16 00:00:00,500.0,800.0,700.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-03-20 00:00:00,400.0,700.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-03-23 00:00:00,500.0,700.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-03-28 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-03-29 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-03-30 00:00:00,800.0,1000.0,950.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-04-01 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-04-04 00:00:00,800.0,1100.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-04-15 00:00:00,700.0,1100.0,950.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-04-17 00:00:00,800.0,1100.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-04-23 00:00:00,1000.0,1200.0,1125.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-04-29 00:00:00,600.0,1000.0,825.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-04 00:00:00,700.0,1000.0,875.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-07 00:00:00,1000.0,1400.0,1250.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-17 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-20 00:00:00,1000.0,2000.0,1625.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-21 00:00:00,1200.0,2000.0,1675.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-22 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-23 00:00:00,2000.0,2750.0,2500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-28 00:00:00,1750.0,2250.0,2075.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-29 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-05-30 00:00:00,2000.0,2750.0,2500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-03 00:00:00,2000.0,2750.0,2500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-05 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-07 00:00:00,2000.0,3000.0,2625.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-09 00:00:00,2500.0,3000.0,2825.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-13 00:00:00,2000.0,3000.0,2575.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-19 00:00:00,2000.0,2250.0,2150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-21 00:00:00,2000.0,2500.0,2325.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-06-22 00:00:00,2000.0,2500.0,2325.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-07-06 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-07-11 00:00:00,1250.0,2250.0,1825.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-07-20 00:00:00,1250.0,1750.0,1550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-07-22 00:00:00,1500.0,2000.0,1825.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-07-26 00:00:00,1500.0,2200.0,1900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-07-29 00:00:00,1500.0,2250.0,2000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-01 00:00:00,1750.0,2250.0,2025.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-07 00:00:00,1250.0,1750.0,1525.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-12 00:00:00,1000.0,1400.0,1250.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-15 00:00:00,1000.0,1250.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-16 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-18 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-22 00:00:00,1000.0,1400.0,1250.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-25 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-08-28 00:00:00,1000.0,1250.0,1200.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-09-04 00:00:00,2000.0,2200.0,2125.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-09-21 00:00:00,1400.0,1700.0,1600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-09-22 00:00:00,1400.0,1700.0,1600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-09-24 00:00:00,2000.0,2250.0,2125.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-09-27 00:00:00,1750.0,2000.0,1900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-10-08 00:00:00,1500.0,2000.0,1825.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-10-10 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-10-11 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-10-17 00:00:00,2500.0,3000.0,2775.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-11-09 00:00:00,2000.0,2500.0,2275.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-11-12 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-11-14 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-11-23 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-01 00:00:00,1300.0,1500.0,1425.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-03 00:00:00,1600.0,1700.0,1675.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-04 00:00:00,1500.0,1700.0,1625.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-06 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-08 00:00:00,1100.0,1400.0,1300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-11 00:00:00,1100.0,1300.0,1250.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-14 00:00:00,800.0,1000.0,925.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2013-12-27 00:00:00,800.0,900.0,875.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-01-24 00:00:00,700.0,1600.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-02-09 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-02-12 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-03-05 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-03-17 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-03-20 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-04-07 00:00:00,500.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-04-10 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-04-18 00:00:00,600.0,1500.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-04-23 00:00:00,800.0,1500.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-05-01 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-05-04 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-05-13 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-05-15 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-05-21 00:00:00,800.0,1400.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-05-27 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-03 00:00:00,800.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-04 00:00:00,500.0,1700.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-18 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-19 00:00:00,1300.0,1600.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-20 00:00:00,1200.0,1800.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-22 00:00:00,1000.0,1400.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-23 00:00:00,800.0,1500.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-06-26 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-07-02 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-07-13 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-07-23 00:00:00,1200.0,1600.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-07-29 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-08-01 00:00:00,600.0,1600.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-08-03 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-08-08 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-08-14 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-08-17 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-08-22 00:00:00,1500.0,1800.0,1700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-09-05 00:00:00,500.0,2000.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-09-08 00:00:00,1200.0,2000.0,1800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-09-09 00:00:00,1000.0,2000.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-09-10 00:00:00,1000.0,2000.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-09-12 00:00:00,1000.0,2000.0,1600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-09-17 00:00:00,1000.0,2000.0,1800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-09-24 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-10-07 00:00:00,1800.0,2500.0,2200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-10-15 00:00:00,2000.0,3500.0,2800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-10-19 00:00:00,1500.0,3500.0,3000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-10-24 00:00:00,2500.0,4000.0,3500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-10-29 00:00:00,2000.0,3500.0,3000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-11-09 00:00:00,1500.0,2500.0,2200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-11-14 00:00:00,3500.0,5000.0,4500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-11-16 00:00:00,2500.0,5000.0,3800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-11-24 00:00:00,1500.0,2200.0,1900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-12-01 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-12-02 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-12-04 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-12-08 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-12-12 00:00:00,500.0,900.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2015-12-25 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Dholka(Market Yard Veg),Carrot,Other,FAQ,2015-01-01 00:00:00,800.0,1400.0,1000.0,153
+Gujarat,Ahmedabad,Dholka(Market Yard Veg),Carrot,Other,FAQ,2015-02-07 00:00:00,1000.0,1500.0,1200.0,153
+Gujarat,Ahmedabad,Dholka(Market Yard Veg),Carrot,Other,FAQ,2015-02-12 00:00:00,1200.0,1800.0,1500.0,153
+Gujarat,Ahmedabad,Dholka(Market Yard Veg),Carrot,Other,FAQ,2015-02-14 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Dholka(Market Yard Veg),Carrot,Other,FAQ,2015-02-16 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2015-01-03 00:00:00,1100.0,1300.0,1200.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2015-01-12 00:00:00,900.0,1300.0,1100.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2015-01-20 00:00:00,600.0,800.0,650.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2015-02-04 00:00:00,700.0,900.0,800.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2015-03-12 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2015-10-19 00:00:00,3000.0,3300.0,3150.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-01-16 00:00:00,200.0,240.0,220.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-01-21 00:00:00,200.0,240.0,220.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-02-03 00:00:00,200.0,240.0,220.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-02-05 00:00:00,200.0,240.0,220.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-02-07 00:00:00,160.0,240.0,200.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-02-09 00:00:00,200.0,240.0,220.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-02-12 00:00:00,120.0,240.0,180.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-02-26 00:00:00,120.0,220.0,210.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-02-27 00:00:00,160.0,240.0,200.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-03-02 00:00:00,160.0,200.0,180.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-03-11 00:00:00,120.0,200.0,160.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-09-01 00:00:00,400.0,500.0,450.0,153
+Gujarat,Anand,"Petlad(Veg Yard, Petlad)",Carrot,Other,FAQ,2015-09-07 00:00:00,700.0,800.0,750.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-01-03 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-01-09 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-01-16 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-01-28 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-01-31 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-02-04 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-02-06 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-02-07 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-02-13 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-03-10 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-03-18 00:00:00,500.0,1500.0,1000.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-03-19 00:00:00,500.0,1500.0,1000.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2015-12-22 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-03-04 00:00:00,900.0,1300.0,1150.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-03-13 00:00:00,850.0,1750.0,1350.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-04-05 00:00:00,700.0,1150.0,900.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-04-08 00:00:00,700.0,1300.0,900.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-05-14 00:00:00,1150.0,1850.0,1350.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-06-02 00:00:00,900.0,2200.0,1600.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-06-17 00:00:00,1300.0,2200.0,1800.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-07-10 00:00:00,1400.0,1800.0,1600.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-07-12 00:00:00,1350.0,1750.0,1525.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-07-21 00:00:00,1150.0,1700.0,1350.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-07-23 00:00:00,1350.0,2050.0,1600.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-07-29 00:00:00,900.0,1800.0,1300.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-07-30 00:00:00,1350.0,2650.0,2200.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-08-02 00:00:00,1600.0,2000.0,1750.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-09-20 00:00:00,1600.0,2500.0,2050.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-10-17 00:00:00,2200.0,3100.0,2700.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-10-27 00:00:00,2700.0,3400.0,3100.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-10-28 00:00:00,2200.0,2650.0,2500.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-10-29 00:00:00,1750.0,2650.0,2250.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-11-05 00:00:00,1800.0,2500.0,2200.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-11-15 00:00:00,1350.0,2250.0,2050.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-11-20 00:00:00,1400.0,1600.0,1500.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-11-28 00:00:00,1600.0,2000.0,1750.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-11-29 00:00:00,900.0,1600.0,1150.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-12-13 00:00:00,900.0,1600.0,1150.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-12-17 00:00:00,700.0,950.0,850.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-12-19 00:00:00,800.0,1100.0,900.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-12-20 00:00:00,850.0,1125.0,1075.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2015-12-23 00:00:00,700.0,950.0,850.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2015-01-21 00:00:00,1250.0,1900.0,1850.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2015-01-28 00:00:00,1350.0,1450.0,1400.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-01-07 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-01-13 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-01-14 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-02-05 00:00:00,1000.0,1600.0,1300.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-02-11 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-02-15 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-02-18 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-02-20 00:00:00,600.0,1000.0,700.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-02-25 00:00:00,600.0,800.0,700.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-03-14 00:00:00,500.0,750.0,650.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-07-03 00:00:00,1200.0,1800.0,1500.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-09-04 00:00:00,1000.0,1500.0,1200.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-11-22 00:00:00,1200.0,1500.0,1300.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2015-12-26 00:00:00,1000.0,1350.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-01-03 00:00:00,1400.0,1800.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-01-08 00:00:00,1300.0,1800.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-01-16 00:00:00,1400.0,1700.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-01-17 00:00:00,1400.0,1700.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-01-24 00:00:00,1400.0,1700.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-01-25 00:00:00,1400.0,1700.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-02-01 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-02-05 00:00:00,900.0,2000.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-02-09 00:00:00,1000.0,1700.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-02-16 00:00:00,1200.0,1600.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-02-19 00:00:00,1000.0,1600.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-03-11 00:00:00,1200.0,1700.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-03-15 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-03-16 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-03-18 00:00:00,1500.0,2200.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-04-02 00:00:00,2000.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-04-13 00:00:00,1500.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-04-17 00:00:00,1500.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-04-21 00:00:00,1500.0,2300.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-04-25 00:00:00,1500.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-04-26 00:00:00,1500.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-04-27 00:00:00,1500.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-05-01 00:00:00,2000.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-05-08 00:00:00,1700.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-05-09 00:00:00,1700.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-05-10 00:00:00,1700.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-05-12 00:00:00,1500.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-05-15 00:00:00,1500.0,2000.0,1700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-05-16 00:00:00,1600.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-06-11 00:00:00,3000.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-06-26 00:00:00,1500.0,2500.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-07-07 00:00:00,2000.0,3000.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-07-08 00:00:00,2500.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-07-25 00:00:00,2000.0,2800.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-07-28 00:00:00,2000.0,3000.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-05 00:00:00,2000.0,3000.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-08 00:00:00,2000.0,2500.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-09 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-13 00:00:00,2500.0,3000.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-16 00:00:00,2000.0,3000.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-19 00:00:00,2200.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-21 00:00:00,2500.0,2500.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-23 00:00:00,2500.0,3000.0,2700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-08-28 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-09-05 00:00:00,2500.0,3000.0,2500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-09-22 00:00:00,2500.0,3000.0,3000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-09-23 00:00:00,2000.0,3500.0,2200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-10-06 00:00:00,2500.0,4000.0,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-10-17 00:00:00,3500.0,4500.0,4000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-10-23 00:00:00,4000.0,4500.0,4000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-11-02 00:00:00,6000.0,6000.0,6000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-11-13 00:00:00,4500.0,5000.0,5000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-11-14 00:00:00,4000.0,5000.0,4500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-11-20 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-11-22 00:00:00,2000.0,2500.0,2400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-11-24 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-11-30 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-04 00:00:00,1300.0,1800.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-12 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-14 00:00:00,1000.0,1600.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-18 00:00:00,1000.0,1500.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-27 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-28 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-29 00:00:00,1000.0,1500.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2015-12-31 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-01-01 00:00:00,1500.0,1600.0,1500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-01-02 00:00:00,150.0,1500.0,1500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-01-10 00:00:00,1500.0,1500.0,1500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-01-12 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-01-13 00:00:00,1200.0,1500.0,1500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-01-27 00:00:00,1000.0,1500.0,1000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-02-06 00:00:00,900.0,1000.0,1000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-02-18 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-02-26 00:00:00,600.0,1000.0,1000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-03-10 00:00:00,100.0,1000.0,1000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-03-24 00:00:00,1200.0,1200.0,1200.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-12-11 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2015-12-31 00:00:00,1000.0,1200.0,1200.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2015-01-05 00:00:00,2000.0,2010.0,2005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2015-01-29 00:00:00,1750.0,1760.0,1755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2015-02-09 00:00:00,1500.0,1520.0,1510.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2015-05-06 00:00:00,1400.0,1410.0,1405.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2015-05-08 00:00:00,1000.0,1020.0,1010.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2015-12-19 00:00:00,2000.0,2040.0,2030.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2015-12-21 00:00:00,1600.0,1620.0,1610.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2015-12-22 00:00:00,1500.0,1540.0,1520.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2015-12-25 00:00:00,1500.0,1530.0,1520.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2015-12-28 00:00:00,1500.0,1540.0,1520.0,153
+Gujarat,Junagarh,Keshod,Carrot,Carrot,FAQ,2015-01-28 00:00:00,1550.0,2450.0,2200.0,153
+Gujarat,Junagarh,Keshod,Carrot,Carrot,FAQ,2015-02-06 00:00:00,450.0,1350.0,1000.0,153
+Gujarat,Junagarh,Keshod,Carrot,Carrot,FAQ,2015-03-03 00:00:00,300.0,600.0,450.0,153
+Gujarat,Junagarh,Keshod,Carrot,Carrot,FAQ,2015-03-12 00:00:00,1200.0,2300.0,1600.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-02-26 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-03-13 00:00:00,800.0,900.0,900.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-03-18 00:00:00,600.0,700.0,700.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-03-23 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-03-26 00:00:00,1200.0,1300.0,1300.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-04-02 00:00:00,1400.0,1500.0,1500.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-04-15 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-05-07 00:00:00,1500.0,1500.0,1500.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-07-07 00:00:00,1500.0,1600.0,1600.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-07-31 00:00:00,1800.0,2000.0,1900.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-11-28 00:00:00,2000.0,2200.0,2100.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-12-03 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-12-09 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-12-14 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-12-18 00:00:00,900.0,1000.0,1000.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-12-22 00:00:00,900.0,1000.0,1000.0,153
+Gujarat,Kachchh,"Anjar(Veg,Sub Yard)",Carrot,Other,FAQ,2015-12-28 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-01-02 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-01-08 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-01-10 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-01-13 00:00:00,1000.0,1250.0,1125.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-02-02 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-02-12 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-03-03 00:00:00,600.0,800.0,700.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-03-06 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-03-14 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-03-20 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-03-24 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-03-25 00:00:00,4000.0,4500.0,4250.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-03-27 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-04-04 00:00:00,1200.0,1300.0,1250.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-11-26 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-11-27 00:00:00,2250.0,2500.0,2375.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-12-08 00:00:00,1200.0,1300.0,1250.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-12-14 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-12-21 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Other,FAQ,2015-12-30 00:00:00,1100.0,1200.0,1150.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-01-12 00:00:00,1600.0,2000.0,1800.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-01-19 00:00:00,1600.0,2000.0,1800.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-01-20 00:00:00,1500.0,2000.0,1700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-01-22 00:00:00,1500.0,2000.0,1700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-01-24 00:00:00,1500.0,2000.0,1700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-02-02 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-02-13 00:00:00,1200.0,1600.0,1400.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-02-14 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-11-02 00:00:00,3500.0,4500.0,4000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-12-12 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2015-12-16 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Panchmahals,Godhra,Carrot,Other,FAQ,2015-03-14 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-01-05 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-01-07 00:00:00,600.0,800.0,700.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-01-08 00:00:00,700.0,1000.0,850.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-01-18 00:00:00,500.0,800.0,650.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-01-22 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-02-08 00:00:00,300.0,600.0,450.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-02-16 00:00:00,400.0,700.0,550.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-03-09 00:00:00,400.0,700.0,550.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-03-10 00:00:00,300.0,700.0,500.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-03-13 00:00:00,300.0,600.0,450.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-03-22 00:00:00,400.0,720.0,560.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-03-26 00:00:00,500.0,800.0,650.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-12-01 00:00:00,700.0,900.0,800.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-12-13 00:00:00,600.0,800.0,700.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-12-14 00:00:00,600.0,800.0,700.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-12-18 00:00:00,500.0,700.0,600.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-12-29 00:00:00,500.0,700.0,600.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2015-12-31 00:00:00,300.0,750.0,525.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-10-28 00:00:00,3500.0,4000.0,3750.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-11-20 00:00:00,1000.0,2200.0,1600.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-11-25 00:00:00,1000.0,2200.0,1600.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-12-02 00:00:00,800.0,2000.0,1400.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-12-04 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-12-07 00:00:00,500.0,1500.0,1000.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-12-21 00:00:00,500.0,1600.0,1000.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-12-25 00:00:00,500.0,1500.0,1000.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2015-12-26 00:00:00,500.0,1500.0,1000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-01-07 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-03-03 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-03-05 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-03-09 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-03-17 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-03-20 00:00:00,800.0,1100.0,950.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-04-01 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-04-10 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-04-16 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-04-24 00:00:00,1000.0,1250.0,1125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-05-20 00:00:00,1500.0,1750.0,1625.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-05-26 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-05-29 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-06-09 00:00:00,2500.0,3000.0,2750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-06-16 00:00:00,2500.0,3500.0,3000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-07-23 00:00:00,1750.0,2500.0,2125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-07-24 00:00:00,1750.0,2500.0,2125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-07-29 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-08-10 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-11-04 00:00:00,2500.0,4000.0,3250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-11-05 00:00:00,3000.0,4000.0,3500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-11-10 00:00:00,3500.0,4500.0,4000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-11-28 00:00:00,1750.0,2250.0,2000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-12-01 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-12-11 00:00:00,800.0,1100.0,950.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2015-12-16 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-01-01 00:00:00,1500.0,1600.0,1550.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-01-02 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-01-07 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-01-09 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-01-21 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-02-11 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-03-26 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-04-08 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-04-25 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-11-27 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-11-30 00:00:00,1500.0,1800.0,1650.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-12-10 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2015-12-15 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-01-21 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-01-22 00:00:00,750.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-01-30 00:00:00,1200.0,1400.0,1325.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-02-02 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-02-04 00:00:00,800.0,1500.0,1250.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-02-07 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-02-10 00:00:00,1250.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-02-11 00:00:00,800.0,1500.0,1250.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-02-13 00:00:00,600.0,1500.0,1200.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-02-18 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-03-02 00:00:00,700.0,1100.0,1000.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-03-07 00:00:00,1300.0,1400.0,1350.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-03-22 00:00:00,800.0,1000.0,925.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-03-25 00:00:00,1000.0,1250.0,1150.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-04-01 00:00:00,800.0,1300.0,1100.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-04-03 00:00:00,1250.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-04-06 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-09-21 00:00:00,2500.0,3000.0,2800.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-11-24 00:00:00,1500.0,2750.0,2250.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-12-05 00:00:00,1250.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2015-12-08 00:00:00,1400.0,1600.0,1500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-01-08 00:00:00,1200.0,1300.0,1275.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-01-13 00:00:00,1200.0,1400.0,1350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-01-16 00:00:00,1200.0,1400.0,1350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-01-18 00:00:00,900.0,1500.0,1250.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-06-14 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-06-17 00:00:00,1750.0,2250.0,2050.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-06-19 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-06-25 00:00:00,1250.0,1500.0,1425.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-07-14 00:00:00,1400.0,1500.0,1475.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-07-15 00:00:00,1400.0,1500.0,1475.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-07-25 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-08-01 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-08-05 00:00:00,1300.0,1500.0,1450.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-08-09 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-08-12 00:00:00,1300.0,1500.0,1450.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-08-13 00:00:00,1300.0,1500.0,1450.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-08-21 00:00:00,1200.0,1400.0,1350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-08-23 00:00:00,1200.0,1400.0,1350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-09-07 00:00:00,900.0,1400.0,1200.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-09-25 00:00:00,2500.0,2750.0,2675.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-10-02 00:00:00,2750.0,3000.0,2925.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-10-03 00:00:00,2500.0,2750.0,2675.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-10-06 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-11-03 00:00:00,4000.0,5000.0,4550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-11-14 00:00:00,2500.0,3000.0,2800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-12-01 00:00:00,1200.0,1800.0,1550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-12-08 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-12-22 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-12-27 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2015-12-28 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-01-01 00:00:00,600.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-01-06 00:00:00,450.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-01-29 00:00:00,250.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-02-03 00:00:00,300.0,500.0,450.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-02-05 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-02-09 00:00:00,250.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-02-16 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-02-24 00:00:00,250.0,400.0,350.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-03-04 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-03-07 00:00:00,400.0,500.0,450.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-03-10 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-03-12 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-03-16 00:00:00,350.0,550.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-03-17 00:00:00,400.0,500.0,450.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-03-21 00:00:00,300.0,750.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-04-01 00:00:00,400.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-04-04 00:00:00,400.0,600.0,550.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-04-05 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-04-15 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-04-19 00:00:00,400.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-04-20 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-04-22 00:00:00,400.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-05-07 00:00:00,600.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-05-19 00:00:00,500.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-05-27 00:00:00,800.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-05-28 00:00:00,800.0,1100.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-05-30 00:00:00,500.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-05-31 00:00:00,500.0,1100.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-06-02 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-06-03 00:00:00,700.0,1100.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-06-06 00:00:00,500.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-06-13 00:00:00,500.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-06-15 00:00:00,500.0,1100.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-06-24 00:00:00,600.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-06-28 00:00:00,500.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-07-07 00:00:00,500.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-07-09 00:00:00,600.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-07-12 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-07-14 00:00:00,400.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-07-21 00:00:00,400.0,900.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-07-23 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-08-03 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-08-04 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-08-10 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-08-12 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-08-15 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-08-17 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-08-31 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-09-26 00:00:00,400.0,900.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-09-28 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-09-30 00:00:00,500.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-10-08 00:00:00,500.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-10-19 00:00:00,700.0,1500.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-10-29 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-10-31 00:00:00,1000.0,1400.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-01 00:00:00,1000.0,1400.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-03 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-04 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-07 00:00:00,800.0,1500.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-12 00:00:00,600.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-22 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-26 00:00:00,800.0,1500.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-29 00:00:00,700.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-11-30 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-12-03 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-12-08 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-12-12 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-12-16 00:00:00,700.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-12-20 00:00:00,700.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-12-30 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2011-12-31 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-01-06 00:00:00,1000.0,1250.0,1150.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-01-18 00:00:00,500.0,1200.0,875.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-01-25 00:00:00,400.0,1000.0,625.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-01-29 00:00:00,500.0,900.0,650.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-02-05 00:00:00,500.0,1000.0,725.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-02-07 00:00:00,600.0,1000.0,700.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-02-18 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-02-23 00:00:00,500.0,1075.0,600.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-03-04 00:00:00,400.0,1000.0,575.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-03-05 00:00:00,500.0,900.0,675.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-03-14 00:00:00,350.0,900.0,575.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-03-17 00:00:00,350.0,900.0,575.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-03-25 00:00:00,350.0,500.0,425.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-04-05 00:00:00,350.0,900.0,550.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-04-06 00:00:00,500.0,900.0,625.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-04-07 00:00:00,400.0,1000.0,625.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-04-16 00:00:00,200.0,650.0,400.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-04-20 00:00:00,350.0,500.0,400.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-04-29 00:00:00,200.0,425.0,350.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-05-02 00:00:00,400.0,625.0,475.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-05-13 00:00:00,250.0,600.0,450.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-05-14 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-05-19 00:00:00,500.0,1000.0,875.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-05-21 00:00:00,500.0,700.0,550.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-05-24 00:00:00,500.0,900.0,625.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-05-25 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-06-06 00:00:00,1000.0,1250.0,1175.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-06-08 00:00:00,900.0,900.0,900.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-06-13 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-06-14 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-07-26 00:00:00,500.0,500.0,500.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-08-12 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-11-03 00:00:00,1000.0,1350.0,1250.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-11-12 00:00:00,650.0,900.0,775.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-11-28 00:00:00,750.0,1500.0,1100.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-11-30 00:00:00,500.0,900.0,750.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-12-19 00:00:00,600.0,1000.0,875.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-12-24 00:00:00,750.0,1200.0,925.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2011-12-26 00:00:00,500.0,1125.0,925.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-01-05 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-01-08 00:00:00,500.0,600.0,550.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-01-18 00:00:00,500.0,700.0,600.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-01-22 00:00:00,500.0,600.0,550.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-02-14 00:00:00,400.0,500.0,450.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-02-23 00:00:00,500.0,700.0,600.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-02-28 00:00:00,500.0,700.0,600.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-03-04 00:00:00,500.0,700.0,600.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-03-07 00:00:00,500.0,700.0,600.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-03-08 00:00:00,500.0,700.0,600.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-03-10 00:00:00,500.0,600.0,550.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-03-11 00:00:00,500.0,600.0,550.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-03-12 00:00:00,500.0,600.0,550.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-03-18 00:00:00,500.0,700.0,600.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-11-18 00:00:00,1600.0,1750.0,1675.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-11-28 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-12-02 00:00:00,900.0,1100.0,1000.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-12-08 00:00:00,700.0,800.0,750.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-12-10 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-12-13 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2011-12-15 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2011-02-15 00:00:00,400.0,500.0,450.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2011-02-19 00:00:00,400.0,500.0,450.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2011-02-24 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2011-03-05 00:00:00,500.0,700.0,600.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2011-03-09 00:00:00,400.0,500.0,450.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2011-03-23 00:00:00,600.0,700.0,650.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Other,FAQ,2011-12-26 00:00:00,800.0,900.0,850.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-03-01 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-03-02 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-03-07 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-03-09 00:00:00,500.0,700.0,600.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-03-16 00:00:00,600.0,700.0,650.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-04-06 00:00:00,700.0,900.0,800.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-06-01 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2011-07-02 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-01-17 00:00:00,300.0,800.0,550.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-01-26 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-01-28 00:00:00,150.0,450.0,300.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-01-31 00:00:00,100.0,350.0,225.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-02-01 00:00:00,150.0,400.0,275.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-02-03 00:00:00,175.0,400.0,290.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-02-10 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-02-14 00:00:00,100.0,250.0,175.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-02-22 00:00:00,200.0,500.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-10-22 00:00:00,600.0,1300.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-10-23 00:00:00,600.0,1300.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-10-24 00:00:00,600.0,1300.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-11-06 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-11-07 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-11-20 00:00:00,1200.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-11-28 00:00:00,1200.0,1300.0,1275.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-12-02 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-12-04 00:00:00,900.0,1200.0,1050.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-12-06 00:00:00,700.0,1000.0,875.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-12-27 00:00:00,900.0,1200.0,1100.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-03-12 00:00:00,200.0,500.0,350.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-03-17 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-03-25 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-03-28 00:00:00,250.0,350.0,300.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-03-29 00:00:00,200.0,500.0,350.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-03-30 00:00:00,300.0,500.0,400.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-01 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-02 00:00:00,200.0,450.0,325.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-04 00:00:00,200.0,450.0,325.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-09 00:00:00,200.0,400.0,300.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-11 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-13 00:00:00,300.0,500.0,400.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-17 00:00:00,300.0,700.0,500.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-19 00:00:00,250.0,750.0,500.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-04-21 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-05-01 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-05-13 00:00:00,250.0,500.0,375.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-05-15 00:00:00,350.0,600.0,475.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2011-05-21 00:00:00,250.0,550.0,400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2011-07-09 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2011-07-10 00:00:00,1800.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2011-07-12 00:00:00,1800.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-01-07 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-01-18 00:00:00,700.0,1200.0,1000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-01-26 00:00:00,700.0,1200.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-02-02 00:00:00,500.0,1000.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-02-03 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-02-05 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-02-10 00:00:00,400.0,1000.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-02-13 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-02-22 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-03-08 00:00:00,600.0,1000.0,700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-03-10 00:00:00,700.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-03-15 00:00:00,600.0,900.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-03-21 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-03-25 00:00:00,700.0,1100.0,1000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-03-26 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-04-01 00:00:00,800.0,1100.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-04-03 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-04-10 00:00:00,1200.0,1500.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-04-12 00:00:00,1100.0,1500.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-04-23 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-05-01 00:00:00,1000.0,1600.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-05-03 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-05-10 00:00:00,1000.0,1700.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-05-12 00:00:00,1000.0,1500.0,1000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-05-30 00:00:00,1000.0,1700.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-06-06 00:00:00,1300.0,1800.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-06-07 00:00:00,1500.0,1700.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-06-19 00:00:00,1500.0,1700.0,1700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-07-16 00:00:00,1700.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-07-18 00:00:00,1800.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-07-21 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-07-26 00:00:00,2000.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-08-02 00:00:00,1800.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-08-04 00:00:00,1500.0,1600.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-08-08 00:00:00,1300.0,1700.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-08-19 00:00:00,1400.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-08-25 00:00:00,1500.0,1600.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-09-13 00:00:00,1200.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-09-15 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-09-23 00:00:00,1100.0,1600.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-10-03 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-10-06 00:00:00,1000.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-10-09 00:00:00,1300.0,1500.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-10-15 00:00:00,1300.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-10-19 00:00:00,1500.0,1600.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-03 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-06 00:00:00,1700.0,2500.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-09 00:00:00,1500.0,2500.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-14 00:00:00,1500.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-16 00:00:00,1700.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-18 00:00:00,1700.0,2200.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-23 00:00:00,1700.0,2000.0,2000.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-26 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-11-29 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-12-01 00:00:00,1300.0,2000.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-12-02 00:00:00,1400.0,1500.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-12-07 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-12-11 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-12-13 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-12-24 00:00:00,1300.0,1600.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2011-12-26 00:00:00,1000.0,1600.0,1500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2011-02-10 00:00:00,400.0,400.0,400.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2011-02-11 00:00:00,150.0,400.0,200.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2011-12-27 00:00:00,1200.0,1200.0,1200.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-01-16 00:00:00,1200.0,1210.0,1205.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-01-21 00:00:00,850.0,860.0,855.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-01-29 00:00:00,700.0,710.0,705.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-02-05 00:00:00,600.0,610.0,605.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-02-09 00:00:00,500.0,510.0,505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-02-10 00:00:00,900.0,910.0,905.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-02-13 00:00:00,800.0,810.0,805.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-03-03 00:00:00,500.0,510.0,505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-03-07 00:00:00,600.0,610.0,605.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-03-08 00:00:00,850.0,860.0,855.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-03-10 00:00:00,850.0,860.0,855.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-03-12 00:00:00,900.0,920.0,910.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-02 00:00:00,650.0,660.0,655.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-05 00:00:00,600.0,610.0,605.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-06 00:00:00,750.0,760.0,755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-09 00:00:00,700.0,710.0,705.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-10 00:00:00,750.0,760.0,755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-14 00:00:00,400.0,410.0,405.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-22 00:00:00,750.0,760.0,755.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-04-27 00:00:00,650.0,660.0,655.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-05-05 00:00:00,700.0,710.0,705.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-05-12 00:00:00,650.0,660.0,655.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-05-13 00:00:00,650.0,660.0,655.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-05-15 00:00:00,700.0,710.0,705.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-05-16 00:00:00,850.0,860.0,855.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-05-18 00:00:00,500.0,520.0,510.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-05-23 00:00:00,800.0,820.0,810.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-01 00:00:00,1200.0,1210.0,1205.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-05 00:00:00,2800.0,2810.0,2805.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-06 00:00:00,2000.0,2010.0,2005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-09 00:00:00,1150.0,1160.0,1155.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-11 00:00:00,1500.0,1510.0,1505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-18 00:00:00,1500.0,1520.0,1510.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-19 00:00:00,1400.0,1410.0,1405.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Other,FAQ,2011-12-27 00:00:00,1200.0,1210.0,1205.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-01-08 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-01-13 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-01-14 00:00:00,800.0,1100.0,950.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-01-20 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-01-28 00:00:00,500.0,800.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-02-02 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-02-08 00:00:00,500.0,700.0,600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-02-12 00:00:00,500.0,700.0,600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-02-18 00:00:00,500.0,700.0,600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-02-20 00:00:00,500.0,800.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-03-03 00:00:00,400.0,600.0,500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-03-06 00:00:00,400.0,900.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-03-09 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-03-13 00:00:00,500.0,700.0,600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-03-16 00:00:00,500.0,800.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-03-26 00:00:00,500.0,800.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-03-31 00:00:00,500.0,800.0,650.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-04-02 00:00:00,500.0,700.0,600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-04-06 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-04-12 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-04-23 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-05-04 00:00:00,1400.0,1800.0,1600.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-05-11 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-05-14 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-05-16 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-05-19 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-06-05 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-06-10 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-06-12 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-06-13 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-10-27 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-11-04 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-11-06 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-12-07 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-12-17 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-12-18 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-12-22 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2011-12-27 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-01-20 00:00:00,300.0,500.0,400.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-01-26 00:00:00,200.0,400.0,300.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-01-28 00:00:00,200.0,350.0,275.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-01-29 00:00:00,200.0,350.0,275.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-01 00:00:00,200.0,350.0,275.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-07 00:00:00,200.0,400.0,300.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-12 00:00:00,250.0,350.0,300.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-16 00:00:00,250.0,400.0,325.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-17 00:00:00,250.0,400.0,325.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-21 00:00:00,300.0,400.0,350.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-22 00:00:00,250.0,400.0,325.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-02-23 00:00:00,150.0,350.0,250.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-02 00:00:00,275.0,350.0,312.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-03 00:00:00,275.0,450.0,362.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-05 00:00:00,225.0,350.0,287.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-07 00:00:00,300.0,400.0,350.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-08 00:00:00,250.0,350.0,300.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-09 00:00:00,250.0,350.0,315.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-16 00:00:00,250.0,450.0,350.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-23 00:00:00,400.0,450.0,425.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-25 00:00:00,300.0,450.0,375.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-03-29 00:00:00,250.0,400.0,325.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-06-18 00:00:00,1500.0,1500.0,1500.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-07-14 00:00:00,1100.0,1100.0,1100.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-10-29 00:00:00,1500.0,1500.0,1500.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-11-16 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-11-18 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-11-29 00:00:00,1100.0,1300.0,1200.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-12-06 00:00:00,700.0,1100.0,900.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-12-28 00:00:00,450.0,1100.0,775.0,153
+Gujarat,Patan,Siddhpur,Carrot,Other,FAQ,2011-12-30 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-01-06 00:00:00,750.0,900.0,825.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-01-17 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-01-22 00:00:00,600.0,700.0,650.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-02-01 00:00:00,300.0,500.0,400.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-02-18 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-03-03 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-03-10 00:00:00,550.0,700.0,625.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-03-16 00:00:00,600.0,700.0,650.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-03-19 00:00:00,600.0,700.0,650.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-03-25 00:00:00,500.0,600.0,550.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-04-11 00:00:00,600.0,800.0,700.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-04-23 00:00:00,500.0,700.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-05-18 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-06-06 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-06-16 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-06-28 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-07-01 00:00:00,1000.0,1250.0,1125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-07-25 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-09-05 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-09-06 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-10-10 00:00:00,1500.0,1800.0,1650.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-10-21 00:00:00,1100.0,1500.0,1300.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-16 00:00:00,1250.0,1750.0,1500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-17 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-19 00:00:00,1300.0,1600.0,1450.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-21 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-22 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-23 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-25 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-11-28 00:00:00,1250.0,1500.0,1375.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-12-07 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-12-10 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-12-17 00:00:00,1000.0,1250.0,1125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-12-21 00:00:00,900.0,1100.0,1000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2011-12-29 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-01-08 00:00:00,500.0,700.0,600.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-01-21 00:00:00,600.0,900.0,750.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-01-27 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-01-29 00:00:00,350.0,500.0,425.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-02-01 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-02-03 00:00:00,300.0,500.0,400.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-02-09 00:00:00,300.0,700.0,500.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-02-10 00:00:00,300.0,600.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-02-28 00:00:00,600.0,1000.0,800.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-03-04 00:00:00,500.0,600.0,550.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-03-10 00:00:00,500.0,800.0,650.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-03-12 00:00:00,500.0,800.0,650.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-03-16 00:00:00,500.0,750.0,625.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2011-04-09 00:00:00,500.0,900.0,700.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-01-03 00:00:00,800.0,2000.0,1500.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-01-18 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-01-22 00:00:00,350.0,400.0,380.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-01-24 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-01-31 00:00:00,400.0,500.0,450.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-02-19 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-02-22 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-03-04 00:00:00,500.0,700.0,625.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-03-11 00:00:00,500.0,800.0,700.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-03-12 00:00:00,600.0,700.0,650.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-03-22 00:00:00,400.0,600.0,525.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-03-28 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-11-29 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-12-16 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2011-12-24 00:00:00,500.0,1000.0,800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-01-02 00:00:00,500.0,900.0,700.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-01-05 00:00:00,700.0,900.0,800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-01-10 00:00:00,500.0,900.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-01-26 00:00:00,500.0,800.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-01-28 00:00:00,400.0,750.0,575.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-02-04 00:00:00,350.0,600.0,475.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-02-06 00:00:00,400.0,600.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-02-15 00:00:00,300.0,400.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-02-21 00:00:00,350.0,600.0,475.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-02-23 00:00:00,400.0,500.0,450.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-02-24 00:00:00,400.0,600.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-02-28 00:00:00,300.0,600.0,450.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-03-21 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-03-25 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-03-26 00:00:00,500.0,1100.0,800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-03-27 00:00:00,300.0,550.0,425.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-04-06 00:00:00,500.0,750.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-04-07 00:00:00,500.0,800.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-04-12 00:00:00,400.0,750.0,575.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-04-13 00:00:00,400.0,700.0,550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-04-17 00:00:00,300.0,550.0,425.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-04-27 00:00:00,600.0,900.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-04-30 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-05-13 00:00:00,500.0,800.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-05-15 00:00:00,750.0,900.0,825.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-05-16 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-05-17 00:00:00,900.0,1100.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-05-18 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-05-25 00:00:00,600.0,1100.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-05-26 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-06-12 00:00:00,1100.0,1300.0,1200.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-06-17 00:00:00,900.0,1250.0,1075.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-06-24 00:00:00,900.0,1250.0,1075.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-07-01 00:00:00,1100.0,1250.0,1175.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-07-12 00:00:00,1500.0,2500.0,2000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-07-26 00:00:00,1100.0,1300.0,1200.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-07-28 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-07-31 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-08-02 00:00:00,900.0,1250.0,1075.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-08-09 00:00:00,500.0,800.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-08-12 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-08-21 00:00:00,800.0,1000.0,950.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-08-27 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-08-28 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-09-25 00:00:00,600.0,800.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-09-26 00:00:00,600.0,800.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-09-27 00:00:00,600.0,800.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-10-04 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-10-10 00:00:00,400.0,750.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2011-10-11 00:00:00,400.0,750.0,625.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-02-04 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-02-08 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-02-20 00:00:00,300.0,500.0,400.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-03-11 00:00:00,300.0,400.0,350.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-04-02 00:00:00,300.0,400.0,350.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-04-12 00:00:00,300.0,500.0,400.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-04-25 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-12-06 00:00:00,800.0,900.0,850.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-12-12 00:00:00,600.0,800.0,700.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-12-18 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-01-10 00:00:00,350.0,400.0,380.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-01-17 00:00:00,350.0,400.0,380.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-01-21 00:00:00,350.0,400.0,380.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-01-30 00:00:00,400.0,450.0,425.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-02-14 00:00:00,400.0,500.0,450.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-02-15 00:00:00,400.0,450.0,425.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-03-11 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-03-13 00:00:00,400.0,450.0,425.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-12-10 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-12-15 00:00:00,800.0,900.0,850.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-12-16 00:00:00,500.0,650.0,600.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-12-18 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-12-26 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2008-12-27 00:00:00,500.0,700.0,625.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-01-06 00:00:00,250.0,350.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-01-10 00:00:00,300.0,400.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-01-11 00:00:00,300.0,400.0,325.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-01-26 00:00:00,300.0,500.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-02-08 00:00:00,300.0,450.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-02-14 00:00:00,300.0,450.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-02-25 00:00:00,300.0,500.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-03-01 00:00:00,300.0,500.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-03-03 00:00:00,200.0,500.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-03-13 00:00:00,200.0,450.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-03-17 00:00:00,200.0,400.0,325.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-03-27 00:00:00,300.0,400.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-03-30 00:00:00,250.0,450.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-04-08 00:00:00,300.0,500.0,425.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-04-16 00:00:00,300.0,500.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-04-27 00:00:00,400.0,500.0,475.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-04-30 00:00:00,500.0,700.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-05-07 00:00:00,500.0,700.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-05-14 00:00:00,500.0,700.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-05-18 00:00:00,600.0,750.0,700.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-05-21 00:00:00,400.0,800.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-06-08 00:00:00,900.0,1200.0,1100.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-06-15 00:00:00,700.0,1250.0,1050.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-06-17 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-06-19 00:00:00,900.0,1200.0,1050.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-06-20 00:00:00,1000.0,1500.0,1350.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-06-27 00:00:00,900.0,1100.0,1000.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-07-06 00:00:00,1000.0,1400.0,1250.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-07-09 00:00:00,1200.0,1500.0,1325.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-07-20 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-07-23 00:00:00,1200.0,1500.0,1325.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-07-28 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-07-29 00:00:00,500.0,700.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-08-02 00:00:00,1400.0,1750.0,1500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-08-05 00:00:00,1200.0,1600.0,1425.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-08-15 00:00:00,1300.0,1500.0,1400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-08-22 00:00:00,1000.0,1300.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-09-04 00:00:00,1100.0,1300.0,1200.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-09-09 00:00:00,900.0,1400.0,1150.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-09-16 00:00:00,1500.0,1800.0,1650.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-09-18 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-10-06 00:00:00,1000.0,1800.0,1400.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-10-17 00:00:00,1600.0,2000.0,1800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-11-03 00:00:00,750.0,3500.0,2175.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-11-06 00:00:00,800.0,2000.0,1375.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-11-07 00:00:00,1000.0,2000.0,1500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-11-10 00:00:00,2500.0,3000.0,2800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-11-15 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-12-04 00:00:00,500.0,700.0,625.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-12-06 00:00:00,600.0,1000.0,825.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-12-18 00:00:00,400.0,600.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-12-21 00:00:00,500.0,700.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2008-12-30 00:00:00,500.0,650.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-01-05 00:00:00,200.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-01-26 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-01-28 00:00:00,400.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-01-30 00:00:00,200.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-02-05 00:00:00,200.0,550.0,450.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-02-11 00:00:00,250.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-02-13 00:00:00,250.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-02-18 00:00:00,200.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-02-19 00:00:00,200.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-02-27 00:00:00,200.0,500.0,450.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-03-31 00:00:00,225.0,550.0,450.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-04-07 00:00:00,250.0,700.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-04-11 00:00:00,250.0,550.0,450.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-04-15 00:00:00,200.0,450.0,350.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-04-16 00:00:00,200.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-04-24 00:00:00,350.0,1000.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-04-25 00:00:00,350.0,800.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-02 00:00:00,400.0,800.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-13 00:00:00,500.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-15 00:00:00,500.0,900.0,750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-19 00:00:00,600.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-20 00:00:00,400.0,1000.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-21 00:00:00,400.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-23 00:00:00,400.0,800.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-30 00:00:00,500.0,1100.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-05-31 00:00:00,500.0,1200.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-06-06 00:00:00,800.0,1500.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-06-14 00:00:00,700.0,1200.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-07-18 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-07-19 00:00:00,800.0,1000.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-07-26 00:00:00,750.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-07-29 00:00:00,800.0,1300.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-08-02 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-08-19 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-08-21 00:00:00,800.0,1100.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-08-26 00:00:00,750.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-09-09 00:00:00,800.0,1500.0,1200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-09-15 00:00:00,1000.0,1500.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-09-18 00:00:00,1500.0,1800.0,1700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-09-24 00:00:00,1500.0,2500.0,2000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-10-10 00:00:00,1500.0,2000.0,1850.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-10-15 00:00:00,2000.0,2500.0,2350.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-10-30 00:00:00,3000.0,4000.0,3700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-10-31 00:00:00,2000.0,4000.0,3500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-04 00:00:00,1000.0,4000.0,3000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-05 00:00:00,1500.0,4000.0,3000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-06 00:00:00,700.0,3000.0,2000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-07 00:00:00,2500.0,3000.0,2850.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-17 00:00:00,1000.0,1800.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-24 00:00:00,500.0,1000.0,850.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-25 00:00:00,600.0,1100.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-11-26 00:00:00,700.0,1100.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-12-03 00:00:00,300.0,1000.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-12-05 00:00:00,400.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-12-06 00:00:00,500.0,900.0,750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-12-26 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2008-12-30 00:00:00,400.0,700.0,600.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-01-09 00:00:00,300.0,700.0,500.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-01-10 00:00:00,600.0,800.0,650.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-01-16 00:00:00,600.0,1000.0,825.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-01-22 00:00:00,250.0,700.0,450.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-01-26 00:00:00,400.0,600.0,450.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-01-30 00:00:00,400.0,700.0,500.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-02-06 00:00:00,500.0,1000.0,625.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-02-11 00:00:00,400.0,700.0,500.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-02-25 00:00:00,600.0,700.0,625.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-02-27 00:00:00,500.0,1100.0,675.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-03-06 00:00:00,400.0,600.0,500.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-04-21 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-04-28 00:00:00,200.0,600.0,375.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-05-16 00:00:00,500.0,700.0,600.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-05-17 00:00:00,500.0,500.0,500.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-05-19 00:00:00,500.0,600.0,550.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-05-22 00:00:00,400.0,550.0,450.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-12-04 00:00:00,500.0,1250.0,850.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-12-06 00:00:00,500.0,1000.0,625.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-12-09 00:00:00,450.0,750.0,550.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-12-18 00:00:00,375.0,750.0,425.0,153
+Gujarat,Amreli,Dhari,Carrot,Carrot,FAQ,2008-12-29 00:00:00,500.0,1000.0,625.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2008-02-27 00:00:00,350.0,400.0,400.0,153
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Carrot,Other,FAQ,2008-04-01 00:00:00,400.0,450.0,400.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-01-16 00:00:00,500.0,600.0,550.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-01-19 00:00:00,500.0,600.0,550.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-01-24 00:00:00,500.0,600.0,550.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-01-26 00:00:00,500.0,600.0,550.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-01-30 00:00:00,500.0,600.0,550.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-02-23 00:00:00,600.0,700.0,650.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-03-25 00:00:00,800.0,900.0,850.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-03-28 00:00:00,800.0,900.0,850.0,153
+Gujarat,Anand,Petlad,Carrot,Other,FAQ,2008-04-03 00:00:00,1000.0,1100.0,1050.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-01-25 00:00:00,300.0,500.0,400.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-02-14 00:00:00,250.0,400.0,325.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-02-25 00:00:00,300.0,500.0,400.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-03-01 00:00:00,500.0,600.0,550.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-03-20 00:00:00,400.0,600.0,500.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-03-28 00:00:00,400.0,500.0,450.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-12-03 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-12-06 00:00:00,500.0,900.0,700.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-12-08 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Carrot,Other,FAQ,2008-12-30 00:00:00,700.0,800.0,750.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-01-02 00:00:00,500.0,750.0,625.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-01-17 00:00:00,500.0,750.0,625.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-01-22 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-02-01 00:00:00,400.0,600.0,500.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-02-03 00:00:00,500.0,700.0,600.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-02-04 00:00:00,400.0,600.0,500.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-02-08 00:00:00,400.0,600.0,500.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-02-21 00:00:00,400.0,600.0,500.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-03-04 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-03-14 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-03-17 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-03-20 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-04-11 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2008-04-18 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-02-07 00:00:00,200.0,400.0,300.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-02-15 00:00:00,225.0,450.0,335.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-03-04 00:00:00,300.0,575.0,435.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-03-13 00:00:00,360.0,675.0,515.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-11-25 00:00:00,350.0,750.0,550.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-11-26 00:00:00,350.0,800.0,575.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-12-01 00:00:00,500.0,800.0,650.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-12-07 00:00:00,400.0,800.0,600.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-12-08 00:00:00,500.0,1300.0,900.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-12-15 00:00:00,350.0,700.0,550.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-12-21 00:00:00,350.0,500.0,425.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2008-12-25 00:00:00,300.0,550.0,425.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-01-07 00:00:00,400.0,700.0,600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-01-11 00:00:00,200.0,700.0,600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-01-24 00:00:00,400.0,700.0,500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-01-27 00:00:00,400.0,700.0,500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-02-03 00:00:00,400.0,650.0,650.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-02-13 00:00:00,400.0,800.0,600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-02-24 00:00:00,300.0,700.0,500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-02-29 00:00:00,350.0,700.0,450.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-03-04 00:00:00,400.0,800.0,700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-03-08 00:00:00,400.0,800.0,600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-03-09 00:00:00,400.0,800.0,700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-03-12 00:00:00,400.0,700.0,500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-03-13 00:00:00,300.0,400.0,375.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-03-15 00:00:00,300.0,400.0,400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-03-20 00:00:00,300.0,500.0,400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-04-25 00:00:00,900.0,1000.0,900.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-04-27 00:00:00,1000.0,1200.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-05-01 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-05-02 00:00:00,1000.0,1100.0,1100.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-10-17 00:00:00,3200.0,3500.0,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-11-06 00:00:00,1200.0,1600.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-11-24 00:00:00,1500.0,1600.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-11-25 00:00:00,1400.0,1600.0,1600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-12-01 00:00:00,1300.0,1600.0,1500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-12-02 00:00:00,800.0,1200.0,1200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-12-03 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-12-21 00:00:00,700.0,800.0,750.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-12-22 00:00:00,400.0,800.0,800.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Other,FAQ,2008-12-25 00:00:00,700.0,800.0,800.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-01-03 00:00:00,300.0,350.0,300.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-01-09 00:00:00,400.0,500.0,500.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-01-17 00:00:00,300.0,500.0,350.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-01-23 00:00:00,200.0,250.0,200.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-02-02 00:00:00,250.0,300.0,250.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-02-19 00:00:00,300.0,350.0,300.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-02-25 00:00:00,350.0,400.0,350.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-02-28 00:00:00,300.0,350.0,300.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-12-10 00:00:00,600.0,600.0,600.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-12-16 00:00:00,600.0,600.0,600.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-12-20 00:00:00,500.0,500.0,500.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2008-12-26 00:00:00,500.0,600.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-01-01 00:00:00,500.0,500.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-01-05 00:00:00,500.0,500.0,500.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-01-16 00:00:00,300.0,400.0,350.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-01-18 00:00:00,300.0,400.0,300.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-01-19 00:00:00,300.0,400.0,300.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-01-29 00:00:00,200.0,250.0,200.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-02-14 00:00:00,300.0,350.0,300.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-02-29 00:00:00,300.0,350.0,300.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-03-01 00:00:00,200.0,300.0,250.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-03-03 00:00:00,300.0,400.0,300.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-03-08 00:00:00,300.0,500.0,300.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-12-01 00:00:00,400.0,400.0,400.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-12-11 00:00:00,600.0,700.0,600.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-12-16 00:00:00,600.0,600.0,600.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Carrot,Other,FAQ,2008-12-24 00:00:00,450.0,500.0,450.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-11-22 00:00:00,2200.0,2220.0,2210.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-11-28 00:00:00,2000.0,2010.0,2005.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-12-01 00:00:00,1700.0,1710.0,1705.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-12-02 00:00:00,1500.0,1510.0,1505.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-12-09 00:00:00,1600.0,1620.0,1610.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-12-18 00:00:00,1500.0,1520.0,1510.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-12-23 00:00:00,1250.0,1260.0,1255.0,153
+Gujarat,Gir Somnath,Talalagir,Carrot,Carrot,FAQ,2008-12-29 00:00:00,1100.0,1120.0,1110.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2008-03-02 00:00:00,200.0,275.0,237.5,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-01-06 00:00:00,400.0,500.0,450.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-01-07 00:00:00,400.0,500.0,450.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-01-11 00:00:00,350.0,450.0,400.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-01-18 00:00:00,350.0,400.0,375.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-02-04 00:00:00,400.0,600.0,500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-02-17 00:00:00,400.0,600.0,500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-02-22 00:00:00,400.0,600.0,500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-03-14 00:00:00,500.0,600.0,550.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-03-30 00:00:00,500.0,600.0,550.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-03-31 00:00:00,500.0,600.0,550.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-04-03 00:00:00,500.0,600.0,550.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-04-05 00:00:00,400.0,600.0,500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-04-08 00:00:00,400.0,600.0,500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-11-29 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-12-05 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-12-19 00:00:00,700.0,900.0,800.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2008-12-26 00:00:00,600.0,800.0,700.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-01-11 00:00:00,200.0,350.0,275.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-01-13 00:00:00,200.0,400.0,300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-01-15 00:00:00,200.0,350.0,275.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-02-04 00:00:00,200.0,300.0,250.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-02-15 00:00:00,250.0,400.0,325.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-02-18 00:00:00,200.0,400.0,300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-03-07 00:00:00,250.0,350.0,300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-03-23 00:00:00,200.0,400.0,300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-03-25 00:00:00,200.0,400.0,300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-04-01 00:00:00,200.0,350.0,275.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-04-16 00:00:00,250.0,500.0,375.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-05-01 00:00:00,200.0,300.0,250.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-11-19 00:00:00,850.0,1950.0,1400.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-11-24 00:00:00,750.0,1000.0,875.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-11-25 00:00:00,750.0,1000.0,875.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-12-04 00:00:00,500.0,750.0,625.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-12-08 00:00:00,400.0,600.0,500.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-12-12 00:00:00,300.0,500.0,400.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-12-18 00:00:00,250.0,400.0,325.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-12-19 00:00:00,250.0,400.0,325.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Carrot,Other,FAQ,2008-12-22 00:00:00,250.0,400.0,325.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-04-26 00:00:00,2500.0,5000.0,3500.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-10-28 00:00:00,2000.0,2550.0,2300.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-11-20 00:00:00,400.0,500.0,450.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-11-24 00:00:00,1500.0,1750.0,1600.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-02 00:00:00,500.0,2000.0,1350.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-03 00:00:00,750.0,1000.0,825.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-05 00:00:00,500.0,750.0,600.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-09 00:00:00,400.0,750.0,600.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-11 00:00:00,375.0,600.0,500.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-14 00:00:00,300.0,750.0,475.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-15 00:00:00,400.0,750.0,600.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-16 00:00:00,350.0,750.0,600.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-18 00:00:00,300.0,700.0,475.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-28 00:00:00,700.0,1000.0,850.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-29 00:00:00,300.0,650.0,475.0,153
+Gujarat,Rajkot,Gondal,Carrot,Carrot,FAQ,2008-12-31 00:00:00,400.0,750.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-01-09 00:00:00,250.0,750.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-01-16 00:00:00,400.0,800.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-01-24 00:00:00,350.0,850.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-01-30 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-01-31 00:00:00,300.0,600.0,450.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-02-13 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-02-16 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-02-20 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-02-22 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-02-25 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-02-28 00:00:00,375.0,600.0,487.5,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-03-03 00:00:00,400.0,650.0,525.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-03-04 00:00:00,400.0,600.0,500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-03-05 00:00:00,450.0,600.0,525.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-03-24 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-03-26 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-03-31 00:00:00,350.0,600.0,475.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-04-03 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-03 00:00:00,500.0,800.0,650.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-13 00:00:00,500.0,600.0,550.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-17 00:00:00,200.0,1000.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-20 00:00:00,400.0,800.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-21 00:00:00,400.0,800.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-22 00:00:00,400.0,800.0,600.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-23 00:00:00,400.0,700.0,550.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-05-29 00:00:00,500.0,1250.0,875.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-06-03 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-06-24 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-07-10 00:00:00,500.0,1250.0,875.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-07-29 00:00:00,500.0,1250.0,875.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-08-05 00:00:00,1000.0,2000.0,1500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-08-13 00:00:00,750.0,1500.0,1125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-09-02 00:00:00,500.0,1250.0,875.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-09-04 00:00:00,750.0,1500.0,1125.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-09-05 00:00:00,500.0,1500.0,1000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-10-15 00:00:00,2000.0,3000.0,2500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-11-04 00:00:00,4000.0,4500.0,4250.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-11-11 00:00:00,2500.0,3000.0,2750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-11-12 00:00:00,2500.0,3000.0,2750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-12-01 00:00:00,1000.0,1400.0,1200.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2008-12-06 00:00:00,750.0,1000.0,875.0,153
+Gujarat,Surendranagar,Limdi,Carrot,Other,FAQ,2008-01-31 00:00:00,200.0,300.0,250.0,153
+Gujarat,Surendranagar,Limdi,Carrot,Other,FAQ,2008-07-17 00:00:00,700.0,800.0,750.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-01-07 00:00:00,500.0,600.0,550.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-01-19 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2008-01-30 00:00:00,500.0,700.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-12 00:00:00,500.0,1100.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-13 00:00:00,600.0,1200.0,800.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-14 00:00:00,600.0,1200.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-15 00:00:00,600.0,1100.0,800.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-16 00:00:00,600.0,1100.0,875.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-25 00:00:00,500.0,1200.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-30 00:00:00,500.0,1200.0,775.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-11-07 00:00:00,400.0,900.0,650.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-11-23 00:00:00,400.0,800.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-12-07 00:00:00,350.0,700.0,510.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-12-17 00:00:00,350.0,500.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-12-18 00:00:00,300.0,450.0,375.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-12-29 00:00:00,250.0,400.0,325.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-12-30 00:00:00,250.0,450.0,325.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-01-04 00:00:00,250.0,450.0,350.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-01-05 00:00:00,200.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-02-27 00:00:00,200.0,400.0,250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-03-28 00:00:00,200.0,300.0,275.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-04-27 00:00:00,400.0,600.0,550.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-05-02 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-05-08 00:00:00,400.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-05-11 00:00:00,500.0,700.0,650.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-05-15 00:00:00,400.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-05-16 00:00:00,450.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-05-31 00:00:00,500.0,750.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-06-28 00:00:00,600.0,900.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-06-30 00:00:00,800.0,1000.0,950.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-07-01 00:00:00,900.0,1000.0,950.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-07-12 00:00:00,1000.0,1100.0,1075.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-07-18 00:00:00,800.0,1000.0,950.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-10-04 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-10-09 00:00:00,700.0,900.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-10-11 00:00:00,800.0,1000.0,925.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-10-14 00:00:00,600.0,900.0,800.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-10-28 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-11-02 00:00:00,600.0,800.0,750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-11-09 00:00:00,800.0,1200.0,1100.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-11-24 00:00:00,700.0,1000.0,900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-12-02 00:00:00,500.0,700.0,625.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2006-12-05 00:00:00,500.0,700.0,650.0,153
+Gujarat,Ahmedabad,Viramgam,Carrot,Other,FAQ,2006-01-04 00:00:00,200.0,600.0,400.0,153
+Gujarat,Amreli,Babra,Carrot,Other,FAQ,2006-01-02 00:00:00,200.0,300.0,250.0,153
+Gujarat,Anand,Anand,Carrot,Other,FAQ,2006-02-15 00:00:00,200.0,250.0,200.0,153
+Gujarat,Anand,Anand,Carrot,Other,FAQ,2006-11-06 00:00:00,500.0,600.0,600.0,153
+Gujarat,Anand,Anand,Carrot,Other,FAQ,2006-12-02 00:00:00,900.0,1000.0,1000.0,153
+Gujarat,Anand,Anand,Carrot,Other,FAQ,2006-12-15 00:00:00,300.0,600.0,500.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2006-11-18 00:00:00,450.0,630.0,540.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2006-12-15 00:00:00,465.0,600.0,555.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2006-12-19 00:00:00,415.0,505.0,460.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2006-12-22 00:00:00,355.0,490.0,445.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-01-09 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-02-10 00:00:00,500.0,700.0,600.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-02-16 00:00:00,400.0,500.0,450.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-02-23 00:00:00,300.0,500.0,400.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-03-08 00:00:00,500.0,600.0,550.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-03-18 00:00:00,500.0,750.0,625.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-03-30 00:00:00,400.0,500.0,450.0,153
+Gujarat,Bharuch,Bharuch,Carrot,Other,FAQ,2006-04-19 00:00:00,500.0,700.0,600.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-01-04 00:00:00,200.0,375.0,300.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-06-10 00:00:00,600.0,1220.0,925.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-06-14 00:00:00,250.0,350.0,300.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-12-04 00:00:00,750.0,875.0,810.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-12-08 00:00:00,450.0,750.0,600.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-12-09 00:00:00,500.0,650.0,575.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-12-12 00:00:00,400.0,700.0,550.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-12-16 00:00:00,500.0,800.0,650.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-12-26 00:00:00,300.0,550.0,425.0,153
+Gujarat,Botad,Botad,Carrot,Other,FAQ,2006-12-28 00:00:00,300.0,600.0,450.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2006-07-17 00:00:00,1500.0,1600.0,1500.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2006-07-20 00:00:00,1400.0,1500.0,1500.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-01-07 00:00:00,300.0,400.0,350.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-01-13 00:00:00,300.0,400.0,350.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-01-16 00:00:00,300.0,400.0,350.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-01-17 00:00:00,250.0,300.0,275.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-01-31 00:00:00,200.0,300.0,250.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-02-08 00:00:00,250.0,300.0,275.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-03-04 00:00:00,200.0,300.0,250.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-03-06 00:00:00,300.0,400.0,350.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-03-07 00:00:00,200.0,300.0,250.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-03-11 00:00:00,400.0,500.0,450.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-03-17 00:00:00,300.0,400.0,350.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-03-24 00:00:00,200.0,300.0,250.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-07-26 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-11-27 00:00:00,500.0,500.0,500.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-12-11 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-12-18 00:00:00,500.0,600.0,550.0,153
+Gujarat,Dahod,Jhalod,Carrot,Other,FAQ,2006-12-19 00:00:00,350.0,700.0,525.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Carrot,FAQ,2006-01-05 00:00:00,250.0,300.0,250.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Carrot,FAQ,2006-01-13 00:00:00,200.0,400.0,350.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Carrot,FAQ,2006-03-27 00:00:00,250.0,250.0,250.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2006-12-15 00:00:00,450.0,500.0,500.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2006-12-16 00:00:00,450.0,500.0,500.0,153
+Gujarat,Gandhinagar,Mansa,Carrot,Other,FAQ,2006-12-18 00:00:00,500.0,500.0,500.0,153
+Gujarat,Gir Somnath,Una,Carrot,Other,FAQ,2006-11-08 00:00:00,1000.0,1000.0,1000.0,153
+Gujarat,Gir Somnath,Una,Carrot,Other,FAQ,2006-11-13 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Gir Somnath,Una,Carrot,Other,FAQ,2006-11-20 00:00:00,800.0,900.0,850.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2006-01-07 00:00:00,350.0,425.0,390.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2006-01-13 00:00:00,250.0,375.0,315.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2006-01-18 00:00:00,225.0,350.0,290.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2006-01-25 00:00:00,200.0,325.0,265.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2006-02-03 00:00:00,300.0,400.0,350.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2006-03-09 00:00:00,200.0,250.0,225.0,153
+Gujarat,Kheda,Nadiad,Carrot,Other,FAQ,2006-04-03 00:00:00,300.0,400.0,350.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-07-22 00:00:00,1300.0,1600.0,1500.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-08-06 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-08-19 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-09-14 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-10-22 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-11-05 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-11-16 00:00:00,500.0,900.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-11-25 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-11-26 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-11-27 00:00:00,800.0,900.0,850.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-11-28 00:00:00,700.0,800.0,750.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-12-04 00:00:00,700.0,800.0,750.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-12-05 00:00:00,600.0,800.0,700.0,153
+Gujarat,Navsari,Bilimora,Carrot,Other,FAQ,2006-12-20 00:00:00,700.0,800.0,750.0,153
+Gujarat,Surat,Surat,Carrot,Carrot,FAQ,2006-01-04 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surat,Surat,Carrot,Carrot,FAQ,2006-01-07 00:00:00,350.0,700.0,525.0,153
+Gujarat,Surat,Surat,Carrot,Carrot,FAQ,2006-02-17 00:00:00,225.0,400.0,312.5,153
+Gujarat,Surat,Surat,Carrot,Carrot,FAQ,2006-03-03 00:00:00,200.0,400.0,300.0,153
+Gujarat,Surat,Surat,Carrot,Carrot,FAQ,2006-03-07 00:00:00,225.0,400.0,312.5,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2006-11-18 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2006-11-20 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2006-11-21 00:00:00,850.0,1000.0,925.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2006-11-24 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2006-11-25 00:00:00,750.0,1000.0,875.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2006-11-27 00:00:00,500.0,1000.0,750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2006-11-29 00:00:00,800.0,1000.0,900.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-01-05 00:00:00,300.0,400.0,350.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-01-19 00:00:00,300.0,350.0,325.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-02-02 00:00:00,300.0,400.0,350.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-02-04 00:00:00,200.0,300.0,250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-02-08 00:00:00,250.0,300.0,275.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-02-15 00:00:00,200.0,250.0,225.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-03-01 00:00:00,200.0,250.0,225.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-03-02 00:00:00,200.0,250.0,225.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-03-04 00:00:00,200.0,250.0,225.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-03-13 00:00:00,200.0,300.0,250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-03-14 00:00:00,200.0,300.0,250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-03-23 00:00:00,200.0,300.0,250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-03-28 00:00:00,200.0,400.0,300.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-04-03 00:00:00,200.0,300.0,250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-04-07 00:00:00,200.0,300.0,250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-04-24 00:00:00,200.0,350.0,275.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-12-22 00:00:00,400.0,500.0,450.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2006-12-30 00:00:00,400.0,500.0,450.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2006-01-04 00:00:00,350.0,400.0,375.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2006-01-09 00:00:00,400.0,450.0,425.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2006-01-17 00:00:00,350.0,450.0,400.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2006-01-25 00:00:00,200.0,225.0,210.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2006-01-31 00:00:00,250.0,300.0,275.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2006-12-12 00:00:00,500.0,600.0,550.0,153
+Gujarat,Vadodara(Baroda),Padra,Carrot,Other,FAQ,2006-12-23 00:00:00,400.0,500.0,450.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-01-04 00:00:00,200.0,350.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-01-07 00:00:00,250.0,400.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-03-02 00:00:00,200.0,250.0,225.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-04-22 00:00:00,250.0,750.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-04-23 00:00:00,250.0,500.0,350.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-04-24 00:00:00,250.0,500.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-04-29 00:00:00,250.0,600.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-01 00:00:00,200.0,400.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-02 00:00:00,300.0,900.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-07 00:00:00,500.0,1000.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-13 00:00:00,400.0,800.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-21 00:00:00,500.0,900.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-23 00:00:00,300.0,750.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-27 00:00:00,500.0,900.0,700.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-05-30 00:00:00,500.0,900.0,700.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-06-10 00:00:00,500.0,1300.0,925.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-06-11 00:00:00,500.0,1200.0,825.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-06-17 00:00:00,500.0,750.0,625.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-07-09 00:00:00,300.0,1000.0,625.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-07-12 00:00:00,400.0,1000.0,700.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-07-27 00:00:00,500.0,1000.0,625.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-08-05 00:00:00,300.0,800.0,525.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-08-12 00:00:00,600.0,1200.0,900.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-08-13 00:00:00,600.0,1000.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-08-20 00:00:00,300.0,800.0,525.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-08-24 00:00:00,300.0,800.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-08-28 00:00:00,300.0,750.0,500.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-09-01 00:00:00,250.0,750.0,325.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-09-04 00:00:00,250.0,750.0,400.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-09-11 00:00:00,500.0,1000.0,600.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-09-20 00:00:00,500.0,1100.0,750.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-09-24 00:00:00,500.0,800.0,550.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-09-28 00:00:00,500.0,1000.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-09-29 00:00:00,500.0,1000.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-01 00:00:00,250.0,750.0,325.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2006-10-05 00:00:00,500.0,900.0,620.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2001-11-29 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2001-12-05 00:00:00,200.0,650.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2001-12-08 00:00:00,300.0,600.0,500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2001-12-19 00:00:00,250.0,450.0,300.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2001-12-19 00:00:00,250.0,500.0,400.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2001-12-28 00:00:00,200.0,500.0,400.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2001-12-31 00:00:00,300.0,550.0,500.0,153
+Gujarat,Rajkot,Gondal,Carrot,Other,FAQ,2001-12-02 00:00:00,200.0,300.0,250.0,153
+Gujarat,Rajkot,Gondal,Carrot,Other,FAQ,2001-12-10 00:00:00,150.0,250.0,200.0,153
+Gujarat,Rajkot,Gondal,Carrot,Other,FAQ,2001-12-26 00:00:00,150.0,200.0,175.0,153
+Gujarat,Rajkot,Gondal,Carrot,Other,FAQ,2001-12-29 00:00:00,250.0,300.0,275.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2001-12-27 00:00:00,250.0,350.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2001-12-30 00:00:00,250.0,300.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2001-12-31 00:00:00,150.0,300.0,250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-01-05 00:00:00,150.0,350.0,300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-01-18 00:00:00,150.0,350.0,300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-02-07 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-02-12 00:00:00,100.0,200.0,175.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-02-15 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-08 00:00:00,100.0,300.0,250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-09 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-12 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-13 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-18 00:00:00,100.0,300.0,250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-19 00:00:00,100.0,250.0,200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-20 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-21 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-25 00:00:00,200.0,300.0,250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-26 00:00:00,175.0,325.0,275.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-03-27 00:00:00,150.0,300.0,250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-01 00:00:00,200.0,350.0,300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-02 00:00:00,200.0,350.0,300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-08 00:00:00,100.0,300.0,225.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-10 00:00:00,100.0,300.0,200.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-11 00:00:00,100.0,200.0,150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-15 00:00:00,100.0,350.0,300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-27 00:00:00,300.0,500.0,400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-04-30 00:00:00,500.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-05-06 00:00:00,550.0,750.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-05-08 00:00:00,500.0,800.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-05-09 00:00:00,500.0,600.0,550.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-05-13 00:00:00,500.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-05-17 00:00:00,600.0,800.0,750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-05-23 00:00:00,400.0,800.0,750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-05-31 00:00:00,500.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-06-25 00:00:00,500.0,600.0,550.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-07-16 00:00:00,600.0,800.0,750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-08-20 00:00:00,400.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-10-30 00:00:00,700.0,900.0,850.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-11-04 00:00:00,500.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-11-05 00:00:00,500.0,700.0,600.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-11-09 00:00:00,1000.0,1200.0,1150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-11-19 00:00:00,400.0,800.0,650.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-12-04 00:00:00,500.0,750.0,700.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-12-14 00:00:00,400.0,800.0,650.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2002-12-30 00:00:00,200.0,600.0,500.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-01-01 00:00:00,300.0,500.0,300.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-01-02 00:00:00,300.0,500.0,400.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-01-03 00:00:00,275.0,400.0,350.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-01-04 00:00:00,250.0,400.0,375.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-01-08 00:00:00,300.0,400.0,350.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-01-28 00:00:00,250.0,400.0,350.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-02-01 00:00:00,300.0,400.0,350.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-02-04 00:00:00,250.0,350.0,300.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-02-18 00:00:00,200.0,400.0,300.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-03-11 00:00:00,400.0,700.0,550.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-03-13 00:00:00,400.0,500.0,425.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-03-16 00:00:00,400.0,500.0,450.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-12-09 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-12-13 00:00:00,800.0,1000.0,875.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-12-23 00:00:00,450.0,550.0,500.0,153
+Gujarat,Dahod,Dahod,Carrot,Other,FAQ,2002-12-30 00:00:00,600.0,800.0,700.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2002-08-26 00:00:00,120.0,140.0,130.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-01-04 00:00:00,200.0,350.0,250.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-01-05 00:00:00,200.0,300.0,250.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-01-09 00:00:00,200.0,350.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-01-12 00:00:00,250.0,350.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-01-25 00:00:00,150.0,250.0,225.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-02-09 00:00:00,150.0,200.0,200.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-02-14 00:00:00,200.0,250.0,250.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-02-18 00:00:00,125.0,200.0,175.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-03-14 00:00:00,100.0,200.0,175.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-04-15 00:00:00,200.0,350.0,300.0,153
+Gujarat,Vadodara(Baroda),Vadodara,Carrot,Other,FAQ,2002-04-16 00:00:00,200.0,400.0,300.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-05-02 00:00:00,1200.0,2200.0,1850.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-05-03 00:00:00,1000.0,2500.0,1900.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-05-11 00:00:00,1200.0,2750.0,1850.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-05-22 00:00:00,1000.0,2000.0,1650.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-05-23 00:00:00,1200.0,2000.0,1550.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-05-28 00:00:00,1200.0,2500.0,2150.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-05-29 00:00:00,1500.0,2500.0,1750.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2024-05-09 00:00:00,1200.0,3000.0,2200.0,153
+Gujarat,Bharuch,Ankleshwar,Carrot,Carrot,FAQ,2024-05-18 00:00:00,2000.0,2500.0,2200.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-05-02 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-05-06 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-05-12 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-05-21 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-05-29 00:00:00,2000.0,2500.0,2300.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-05-06 00:00:00,1000.0,1500.0,1250.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-05-13 00:00:00,1200.0,2500.0,1850.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-05-20 00:00:00,2000.0,3000.0,2500.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-05-27 00:00:00,1500.0,2500.0,2000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-05-04 00:00:00,1000.0,3100.0,2050.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-05-22 00:00:00,1100.0,2500.0,1800.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-05-23 00:00:00,1100.0,2500.0,1800.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-05-24 00:00:00,1100.0,2500.0,1800.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-05-08 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-05-13 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-05-16 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-05-20 00:00:00,2000.0,2500.0,2250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-05-25 00:00:00,2500.0,3000.0,2750.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-05-27 00:00:00,2500.0,3000.0,2750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2024-05-03 00:00:00,1500.0,2000.0,1800.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2024-05-10 00:00:00,2000.0,2200.0,2150.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-10-01 00:00:00,2000.0,4000.0,3000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-10-26 00:00:00,1500.0,3000.0,2250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-10-26 00:00:00,1000.0,3500.0,2400.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-10-28 00:00:00,1500.0,3750.0,2400.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-10-04 00:00:00,2500.0,3000.0,2750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-10-04 00:00:00,800.0,3500.0,3100.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-10-24 00:00:00,2000.0,3500.0,2750.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-10-15 00:00:00,1000.0,3000.0,2400.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-10-03 00:00:00,3000.0,4500.0,3750.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-10-12 00:00:00,3500,4500,4000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-10-16 00:00:00,1500,3300,2400.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-10-28 00:00:00,3000,4000,3500.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-10-30 00:00:00,2250,3000,2625.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-10-16 00:00:00,2500,3500,3000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-10-04 00:00:00,2000,3000,2500.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-10-11 00:00:00,2500,3000,2750.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2024-10-07 00:00:00,2000,3000,2500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-10-07 00:00:00,1500,3500,2850.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-10-18 00:00:00,1500,3000,2250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-10-24 00:00:00,2000,2500,2250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-10-22 00:00:00,1250,3500,2200.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-10-11 00:00:00,2000,3000,2500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-11-04 00:00:00,3500,6500,5250.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-11-13 00:00:00,2500,5000,4650.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-11-14 00:00:00,2000,5500,4500.0,153
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,2024-11-18 00:00:00,3500,7500,5350.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-11-01 00:00:00,3000,4000,3500.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-11-10 00:00:00,3000,4000,3700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-11-15 00:00:00,5000,6000,5700.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-11-26 00:00:00,1000,4500,2600.0,153
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,2024-11-27 00:00:00,3500,5000,4700.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Carrot,FAQ,2024-11-20 00:00:00,3400,3800,3600.0,153
+Gujarat,Kheda,Nadiyad(Piplag),Carrot,Carrot,FAQ,2024-11-28 00:00:00,3000,3500,3350.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-11-08 00:00:00,2500,5000,3750.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-11-09 00:00:00,3500,4000,3750.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-11-27 00:00:00,2000,4500,3250.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-11-29 00:00:00,2000,5000,3500.0,153
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,2024-11-30 00:00:00,1500,4000,2750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-11-08 00:00:00,2500,5000,4000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-11-14 00:00:00,3500,6000,4750.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-11-22 00:00:00,2500,5500,4000.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-11-24 00:00:00,2500,6500,4500.0,153
+Gujarat,Surat,Surat,Carrot,Other,FAQ,2024-11-29 00:00:00,2500,5000,3750.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-11-07 00:00:00,2000,2500,2250.0,153
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,2024-11-26 00:00:00,4000,5000,4500.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2024-11-06 00:00:00,1500,2500,2050.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2024-11-08 00:00:00,2500,3500,3050.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Carrot,Other,FAQ,2024-11-26 00:00:00,3000,3500,3300.0,153

@@ -5264,57 +5264,596 @@ Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-04-18 00:00:00,5000.0,16500.0,11
 Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-04-26 00:00:00,4000.0,13125.0,8500.0,132
 Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-10-17 00:00:00,15000.0,24500.0,22000.0,132
 Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-10-28 00:00:00,5000.0,15500.0,14000.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-01-21 00:00:00,7000,12250,11250.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-01-28 00:00:00,6500,12000,11000.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-02-18 00:00:00,7000,12250,11875.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-02-28 00:00:00,7000,11500,10875.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-03-10 00:00:00,7000,11500,10500.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-03-11 00:00:00,7000,11500,10500.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-03-31 00:00:00,7000,11500,10500.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-02-12 00:00:00,2255,14705,11505.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-02-20 00:00:00,2000,14955,7500.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-03-20 00:00:00,2505,13905,11255.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-03-24 00:00:00,2505,15005,11455.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-05 00:00:00,2505,11955,7905.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-07 00:00:00,2505,12455,9995.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-24 00:00:00,1005,7505,5505.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-25 00:00:00,1005,7505,6455.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-05-21 00:00:00,1205,6455,4705.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-05-23 00:00:00,755,7655,6455.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-05-28 00:00:00,1055,6205,5255.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-06-06 00:00:00,1055,7455,6055.0,132
-Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2014-05-16 00:00:00,3900,3900,3900.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-01-13 00:00:00,6000,8000,8000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-01-21 00:00:00,6000,8000,8000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-02-15 00:00:00,6000,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-02-28 00:00:00,7500,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-03-04 00:00:00,7500,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-03-06 00:00:00,7500,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-03-20 00:00:00,7500,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-02 00:00:00,7000,8000,8000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-03 00:00:00,7000,8000,8000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-05 00:00:00,7000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-07 00:00:00,7000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-24 00:00:00,6000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-05-02 00:00:00,6000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-05-12 00:00:00,6000,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-05-31 00:00:00,6000,7500,7500.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-06-18 00:00:00,6000,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-06-26 00:00:00,6000,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-06-30 00:00:00,6000,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-07-26 00:00:00,5500,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-07-30 00:00:00,5500,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-01 00:00:00,5500,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-02 00:00:00,5500,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-13 00:00:00,6000,8000,8000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-23 00:00:00,6000,8000,8000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-30 00:00:00,6500,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-09-12 00:00:00,6400,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-10-04 00:00:00,7000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-10-23 00:00:00,7000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-11-07 00:00:00,4500,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-11-11 00:00:00,4500,7000,7000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-11-20 00:00:00,8000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-12-08 00:00:00,7500,8500,8500.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-12-16 00:00:00,8000,9000,9000.0,132
-Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-12-17 00:00:00,8000,9000,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-01-21 00:00:00,7000.0,12250.0,11250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-01-28 00:00:00,6500.0,12000.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-02-18 00:00:00,7000.0,12250.0,11875.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-02-28 00:00:00,7000.0,11500.0,10875.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-03-10 00:00:00,7000.0,11500.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-03-11 00:00:00,7000.0,11500.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2014-03-31 00:00:00,7000.0,11500.0,10500.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-02-12 00:00:00,2255.0,14705.0,11505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-02-20 00:00:00,2000.0,14955.0,7500.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-03-20 00:00:00,2505.0,13905.0,11255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-03-24 00:00:00,2505.0,15005.0,11455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-05 00:00:00,2505.0,11955.0,7905.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-07 00:00:00,2505.0,12455.0,9995.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-24 00:00:00,1005.0,7505.0,5505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-04-25 00:00:00,1005.0,7505.0,6455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-05-21 00:00:00,1205.0,6455.0,4705.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-05-23 00:00:00,755.0,7655.0,6455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-05-28 00:00:00,1055.0,6205.0,5255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2014-06-06 00:00:00,1055.0,7455.0,6055.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2014-05-16 00:00:00,3900.0,3900.0,3900.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-01-13 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-01-21 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-02-15 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-02-28 00:00:00,7500.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-03-04 00:00:00,7500.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-03-06 00:00:00,7500.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-03-20 00:00:00,7500.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-02 00:00:00,7000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-03 00:00:00,7000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-05 00:00:00,7000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-07 00:00:00,7000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-04-24 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-05-02 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-05-12 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-05-31 00:00:00,6000.0,7500.0,7500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-06-18 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-06-26 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-06-30 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-07-26 00:00:00,5500.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-07-30 00:00:00,5500.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-01 00:00:00,5500.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-02 00:00:00,5500.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-13 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-23 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-08-30 00:00:00,6500.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-09-12 00:00:00,6400.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-10-04 00:00:00,7000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-10-23 00:00:00,7000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-11-07 00:00:00,4500.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-11-11 00:00:00,4500.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-11-20 00:00:00,8000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-12-08 00:00:00,7500.0,8500.0,8500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-12-16 00:00:00,8000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2014-12-17 00:00:00,8000.0,9000.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-01-06 00:00:00,7000.0,10000.0,8750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-01-09 00:00:00,7000.0,9500.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-01-12 00:00:00,6000.0,9000.0,7000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-01-27 00:00:00,5500.0,9000.0,7000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-01-28 00:00:00,4000.0,8500.0,6500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-02-08 00:00:00,5000.0,9000.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-02-09 00:00:00,5000.0,9000.0,7500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-02-15 00:00:00,4500.0,8500.0,7500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-02-27 00:00:00,4500.0,8500.0,7000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-03-15 00:00:00,4500.0,8000.0,7375.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-03-26 00:00:00,4000.0,7750.0,7500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-03-30 00:00:00,4000.0,7750.0,7500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-04-05 00:00:00,4000.0,7750.0,6500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-05-17 00:00:00,4000.0,7750.0,7250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-06-13 00:00:00,6000.0,8000.0,7800.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-06-14 00:00:00,6000.0,8500.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-07-10 00:00:00,6500.0,8750.0,8200.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-07-16 00:00:00,6000.0,8500.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-07-24 00:00:00,6500.0,8750.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-07-25 00:00:00,6500.0,8750.0,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-07-28 00:00:00,6500.0,8750.0,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-07-30 00:00:00,6500.0,8750.0,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-08-07 00:00:00,6500.0,9000.0,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-08-08 00:00:00,6500.0,9000.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-08-29 00:00:00,6500.0,9000.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-09-03 00:00:00,6500.0,9000.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-09-15 00:00:00,6000.0,9250.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-09-17 00:00:00,6000.0,9500.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-10-08 00:00:00,5500.0,8750.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-11-26 00:00:00,5500.0,9500.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-11-29 00:00:00,5500.0,9500.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-11-30 00:00:00,5500.0,9500.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-12-03 00:00:00,6000.0,10000.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2012-12-15 00:00:00,6000.0,10250.0,9500.0,132
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Dry Chillies,Other,FAQ,2012-10-10 00:00:00,1400.0,2750.0,2405.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-02-10 00:00:00,2355.0,11555.0,9405.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-02-13 00:00:00,2605.0,12905.0,9455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-02-24 00:00:00,2000.0,13355.0,10855.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-03-02 00:00:00,1505.0,12955.0,10055.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-03-06 00:00:00,1505.0,11205.0,8955.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-03-13 00:00:00,2005.0,10955.0,9305.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-03-24 00:00:00,1505.0,10305.0,8655.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2012-04-11 00:00:00,1255.0,8455.0,7705.0,132
+Gujarat,Rajkot,Jamkandorna,Dry Chillies,Red,FAQ,2012-05-11 00:00:00,900.0,1440.0,1280.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2012-04-27 00:00:00,2875.0,5900.0,5000.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2012-05-15 00:00:00,3725.0,7500.0,5950.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2012-05-18 00:00:00,2105.0,9900.0,5000.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2012-05-25 00:00:00,4500.0,4500.0,4500.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2012-06-19 00:00:00,3350.0,3350.0,3350.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-01-03 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-01-24 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-01-25 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-01-31 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-02-13 00:00:00,4000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-02-17 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-02-21 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-02-27 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-02-29 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-03-13 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-03-14 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-03-20 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-03-26 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-03-30 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-04-14 00:00:00,4000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-04-26 00:00:00,4000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-04-30 00:00:00,4000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-05-02 00:00:00,4000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-05-11 00:00:00,4000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-05-26 00:00:00,4000.0,4500.0,4500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-06-01 00:00:00,5000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-06-02 00:00:00,5000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-06-14 00:00:00,4000.0,5500.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-06-16 00:00:00,4000.0,5500.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-06-23 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-07-09 00:00:00,3000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-07-13 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-07-23 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-07-27 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-07-31 00:00:00,3100.0,5200.0,5200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-08-18 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-08-22 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-09-04 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-09-18 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-09-27 00:00:00,4500.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-09-29 00:00:00,4500.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-10-23 00:00:00,5000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-10-25 00:00:00,5000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-11-02 00:00:00,4000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-11-22 00:00:00,5000.0,5500.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-12-25 00:00:00,4000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-12-26 00:00:00,4000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-12-27 00:00:00,3000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2012-12-29 00:00:00,3000.0,5000.0,5000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-01-16 00:00:00,6000.0,9500.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-01-18 00:00:00,6000.0,9500.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-01-21 00:00:00,6000.0,9500.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-01-31 00:00:00,5500.0,9500.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-06 00:00:00,6000.0,9500.0,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-15 00:00:00,6000.0,9500.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-20 00:00:00,6000.0,9500.0,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-25 00:00:00,5750.0,9500.0,8750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-26 00:00:00,5750.0,9500.0,8750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-01 00:00:00,5750.0,9500.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-12 00:00:00,6250.0,9250.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-18 00:00:00,6000.0,9000.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-25 00:00:00,6000.0,9250.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-01 00:00:00,6000.0,9250.0,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-04 00:00:00,6500.0,9625.0,8400.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-05-09 00:00:00,6500.0,10000.0,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-06-15 00:00:00,6500.0,11000.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-06-18 00:00:00,6500.0,11000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-06-26 00:00:00,7000.0,11000.0,10250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-07-12 00:00:00,6750.0,10500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-07-18 00:00:00,7500.0,10500.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-07-25 00:00:00,7000.0,10250.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-07-26 00:00:00,7000.0,10250.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-07-30 00:00:00,7000.0,10500.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-08-01 00:00:00,7500.0,11500.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-08-12 00:00:00,7500.0,10250.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-09-28 00:00:00,8500.0,10750.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-09-30 00:00:00,8500.0,10750.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-17 00:00:00,7500.0,10500.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-19 00:00:00,7500.0,10500.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-24 00:00:00,7500.0,10500.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-28 00:00:00,7500.0,10500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-29 00:00:00,7500.0,10750.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-30 00:00:00,7500.0,10750.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-11-01 00:00:00,7500.0,11000.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-12-07 00:00:00,7000.0,12000.0,11500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-12-27 00:00:00,7500.0,12500.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-12-30 00:00:00,7500.0,12625.0,11000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-05 00:00:00,3455.0,14455.0,11655.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-11 00:00:00,2255.0,15205.0,13455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-14 00:00:00,4055.0,14455.0,11405.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-26 00:00:00,2555.0,13955.0,11455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-04-22 00:00:00,1500.0,13505.0,12305.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-13 00:00:00,2255.0,13655.0,12255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-15 00:00:00,2500.0,13355.0,11355.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-17 00:00:00,1500.0,12255.0,10405.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-03 00:00:00,3000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-04 00:00:00,3000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-07 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-11 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-17 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-02 00:00:00,4000.0,5500.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-08 00:00:00,4000.0,5500.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-09 00:00:00,4000.0,5500.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-11 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-14 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-28 00:00:00,5000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-07 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-30 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-04-16 00:00:00,5000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-04-19 00:00:00,5000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-04-25 00:00:00,5000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-05-06 00:00:00,5000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-05-15 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-05-17 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-05-29 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-06-04 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-06-05 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-06-18 00:00:00,6000.0,7000.0,6800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-06-19 00:00:00,4500.0,6800.0,6800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-06-24 00:00:00,6500.0,7500.0,7500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-08-23 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-08-28 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-09-17 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-09-20 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-09-23 00:00:00,3800.0,7500.0,7500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-10-10 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-10-18 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-10-21 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-10-28 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-11-08 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-11-13 00:00:00,6000.0,6500.0,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-11-26 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-11-28 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-12-12 00:00:00,6000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-12-25 00:00:00,7000.0,7500.0,7500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-01-01 00:00:00,8500.0,13000.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-01-03 00:00:00,8500.0,11500.0,10750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-01-12 00:00:00,8500.0,11250.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-01-21 00:00:00,8500.0,11000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-01-23 00:00:00,8500.0,11000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-02-11 00:00:00,8500.0,11000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-02-13 00:00:00,8500.0,11000.0,10625.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-02-18 00:00:00,8500.0,11000.0,10750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-02-20 00:00:00,8500.0,11000.0,10750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-02-21 00:00:00,8500.0,11000.0,10750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-03-09 00:00:00,8500.0,9500.0,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-03-17 00:00:00,8500.0,9500.0,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-03-20 00:00:00,8500.0,9500.0,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-03-24 00:00:00,8500.0,9500.0,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-03-25 00:00:00,8500.0,9500.0,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-03-26 00:00:00,8500.0,9500.0,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-03-28 00:00:00,9000.0,14000.0,12000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-04-06 00:00:00,9000.0,14000.0,12250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-04-16 00:00:00,9000.0,13000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-04-17 00:00:00,9000.0,13000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-04-30 00:00:00,9000.0,13000.0,11500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-05-12 00:00:00,8500.0,11000.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-05-16 00:00:00,8500.0,11300.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-06-04 00:00:00,8500.0,12000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-06-06 00:00:00,8000.0,12000.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-06-08 00:00:00,8500.0,12000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-06-20 00:00:00,8500.0,12000.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-06-25 00:00:00,7500.0,12000.0,11750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-06-29 00:00:00,8500.0,12000.0,11250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-07-08 00:00:00,8500.0,12000.0,11750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-08-10 00:00:00,9000.0,11875.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-08-17 00:00:00,8500.0,12000.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-08-26 00:00:00,9000.0,12000.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-09-04 00:00:00,8500.0,12000.0,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-09-21 00:00:00,9500.0,13000.0,12500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-09-24 00:00:00,9500.0,13000.0,12000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-10-13 00:00:00,9500.0,13000.0,11750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-10-21 00:00:00,9500.0,13000.0,12000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-10-23 00:00:00,9500.0,13000.0,11500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-11-02 00:00:00,9500.0,13000.0,12000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-11-03 00:00:00,9500.0,13500.0,12500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-12-14 00:00:00,9500.0,13500.0,12500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-12-21 00:00:00,9500.0,13000.0,12500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-12-22 00:00:00,10000.0,13500.0,12500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-12-28 00:00:00,10000.0,14000.0,13000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2015-12-29 00:00:00,10000.0,14000.0,13000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-02-23 00:00:00,4055.0,16005.0,13205.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-03-09 00:00:00,5105.0,15955.0,11355.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-03-11 00:00:00,5105.0,14755.0,12755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-03-14 00:00:00,5105.0,14555.0,12555.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-03-19 00:00:00,4505.0,17505.0,14505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-03-20 00:00:00,5505.0,18455.0,14355.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-04-03 00:00:00,5555.0,15005.0,13505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-04-09 00:00:00,6005.0,16955.0,14455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-04-11 00:00:00,5555.0,15705.0,13855.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-04-16 00:00:00,5005.0,15955.0,13885.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-04-17 00:00:00,5005.0,16055.0,12855.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-04-24 00:00:00,5555.0,16505.0,12355.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-04-28 00:00:00,6005.0,14995.0,12955.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2015-05-09 00:00:00,5055.0,15500.0,13205.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-01-28 00:00:00,8000.0,8500.0,8500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-01-30 00:00:00,8000.0,8500.0,8500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-01-31 00:00:00,7000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-06-05 00:00:00,7000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-06-09 00:00:00,7000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-06-15 00:00:00,8000.0,9500.0,9500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-06-17 00:00:00,8000.0,9500.0,9500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-07-09 00:00:00,9000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-08-07 00:00:00,8000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-09-16 00:00:00,12000.0,13000.0,13000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-11-19 00:00:00,12000.0,13000.0,13000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-12-15 00:00:00,10000.0,15000.0,15000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-12-18 00:00:00,10000.0,15000.0,15000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2015-12-31 00:00:00,10000.0,15000.0,15000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-01-03 00:00:00,4500.0,8000.0,7250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-01-12 00:00:00,4500.0,8250.0,7275.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-01-24 00:00:00,4500.0,8000.0,7500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-01-29 00:00:00,4500.0,9250.0,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-02-02 00:00:00,5000.0,9500.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-03-14 00:00:00,6500.0,11300.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-03-22 00:00:00,6500.0,11300.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-06-09 00:00:00,9000.0,11000.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-06-14 00:00:00,8000.0,10500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-07-15 00:00:00,8500.0,11250.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-09-12 00:00:00,8000.0,11000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-10-17 00:00:00,7000.0,10500.0,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-10-25 00:00:00,7500.0,10500.0,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-11-04 00:00:00,7500.0,10500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-11-05 00:00:00,7500.0,10500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-11-07 00:00:00,7500.0,10500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-11-16 00:00:00,7500.0,10750.0,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-11-19 00:00:00,7500.0,10750.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-11-26 00:00:00,7500.0,10750.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-11-29 00:00:00,7500.0,10500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-12-10 00:00:00,7500.0,11000.0,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-12-12 00:00:00,7500.0,11000.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-12-15 00:00:00,7500.0,11000.0,10250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2011-12-30 00:00:00,7500.0,11000.0,10500.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-02-25 00:00:00,3255.0,18405.0,12055.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-02-26 00:00:00,3005.0,18155.0,12305.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-03-23 00:00:00,3255.0,17605.0,12655.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-03-25 00:00:00,3255.0,17205.0,13455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-03-26 00:00:00,5355.0,22105.0,17000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-04-23 00:00:00,2000.0,10155.0,7905.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-06 00:00:00,2005.0,12005.0,9455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-09 00:00:00,2005.0,10705.0,8755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-10 00:00:00,2005.0,12455.0,8885.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-17 00:00:00,2005.0,11855.0,7905.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-21 00:00:00,2005.0,11355.0,8855.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-23 00:00:00,2005.0,10755.0,8755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-26 00:00:00,4155.0,12205.0,10705.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-30 00:00:00,2205.0,11205.0,10905.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-05-31 00:00:00,2455.0,14005.0,8955.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2011-06-04 00:00:00,2955.0,9000.0,3955.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-03-19 00:00:00,2500.0,8500.0,5000.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-05-16 00:00:00,639.0,1706.0,1300.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-05-18 00:00:00,600.0,1600.0,1000.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-05-31 00:00:00,5000.0,7500.0,7000.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-06-09 00:00:00,7000.0,7250.0,7125.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-06-16 00:00:00,6980.0,6980.0,6980.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-06-18 00:00:00,4725.0,4725.0,4725.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-06-20 00:00:00,3500.0,3500.0,3500.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2011-06-22 00:00:00,5000.0,5000.0,5000.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Red,FAQ,2011-03-17 00:00:00,2255.0,15430.0,13875.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Red,FAQ,2011-04-28 00:00:00,1105.0,12755.0,8605.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Red,FAQ,2011-04-30 00:00:00,1980.0,11880.0,9105.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Red,FAQ,2011-05-04 00:00:00,1005.0,12375.0,9255.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Red,FAQ,2011-05-18 00:00:00,1500.0,8555.0,7605.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Red,FAQ,2011-05-20 00:00:00,1180.0,8355.0,7755.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-01-03 00:00:00,3500.0,5500.0,5300.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-01-26 00:00:00,6500.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-02-01 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-02-16 00:00:00,7000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-02-25 00:00:00,9000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-02-26 00:00:00,9000.0,12000.0,11000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-02-28 00:00:00,9000.0,12000.0,11000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-02 00:00:00,9000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-11 00:00:00,9000.0,11000.0,10500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-15 00:00:00,9000.0,11000.0,11000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-19 00:00:00,9000.0,11000.0,11000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-24 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-25 00:00:00,8000.0,10000.0,9500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-26 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-29 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-03-31 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-04-06 00:00:00,6000.0,8000.0,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-04-14 00:00:00,2500.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-04-25 00:00:00,10000.0,14000.0,13500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-05-02 00:00:00,9000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-05-12 00:00:00,9000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-05-18 00:00:00,8000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-05-19 00:00:00,8000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-05-20 00:00:00,8000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-05-25 00:00:00,8000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-06-08 00:00:00,8000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-06-15 00:00:00,8000.0,9000.0,8500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-06-16 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-06-18 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-06-21 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-06-29 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-07-01 00:00:00,7000.0,11000.0,11000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-07-05 00:00:00,7000.0,11000.0,11000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-07-14 00:00:00,7000.0,11000.0,9500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-07-26 00:00:00,9500.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-08-02 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-08-10 00:00:00,6000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-08-18 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-08-27 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-09-03 00:00:00,7500.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-09-05 00:00:00,7500.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-09-08 00:00:00,7500.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-09-20 00:00:00,9000.0,12000.0,12000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-10-05 00:00:00,9000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-10-07 00:00:00,9000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-10-11 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-10-14 00:00:00,8000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-10-19 00:00:00,9000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-10-21 00:00:00,9000.0,10000.0,9800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-11-05 00:00:00,9000.0,10000.0,10000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-11-17 00:00:00,9000.0,9500.0,9500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-11-21 00:00:00,9000.0,9500.0,9500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-12-07 00:00:00,7000.0,9000.0,9000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2011-12-21 00:00:00,6000.0,7500.0,7500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-01-01 00:00:00,4000.0,6750.0,6250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-01-05 00:00:00,4000.0,6750.0,6375.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-02-11 00:00:00,3750.0,6300.0,5000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-02-28 00:00:00,4250.0,6000.0,5250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-03-01 00:00:00,4250.0,6000.0,5250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-04-16 00:00:00,3750.0,6000.0,5400.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-05-05 00:00:00,4000.0,7000.0,5500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-05-12 00:00:00,4000.0,7000.0,5500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-05-21 00:00:00,4000.0,7000.0,5500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-05-23 00:00:00,4000.0,7000.0,5500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-06-18 00:00:00,4000.0,8000.0,6500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-06-20 00:00:00,4000.0,8000.0,6750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-08-20 00:00:00,5000.0,8500.0,7250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-08-27 00:00:00,5000.0,8500.0,7250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-10-06 00:00:00,4000.0,8000.0,7375.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-10-27 00:00:00,4000.0,8000.0,7000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-11-13 00:00:00,4500.0,8000.0,6500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-12-20 00:00:00,5000.0,8500.0,7000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2008-12-24 00:00:00,5000.0,8500.0,7000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2008-03-24 00:00:00,3255.0,8500.0,7505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2008-03-25 00:00:00,3500.0,8655.0,5055.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2008-04-21 00:00:00,2405.0,7055.0,4655.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2008-04-30 00:00:00,4355.0,6155.0,5955.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2008-05-02 00:00:00,3555.0,5755.0,4555.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Single Patti,FAQ,2008-06-23 00:00:00,2500.0,3230.0,2805.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-03-25 00:00:00,900.0,1450.0,1300.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-04-12 00:00:00,2250.0,4000.0,3750.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-04-16 00:00:00,2500.0,4500.0,3375.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-04-17 00:00:00,2460.0,4960.0,4430.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-02 00:00:00,1460.0,1930.0,1625.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-05 00:00:00,1505.0,2755.0,2105.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-06 00:00:00,3750.0,3990.0,3850.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-09 00:00:00,1250.0,6425.0,2075.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-15 00:00:00,1800.0,3275.0,2755.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-17 00:00:00,1500.0,2600.0,2000.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-21 00:00:00,3000.0,3000.0,3000.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Red,FAQ,2008-05-24 00:00:00,2775.0,2775.0,2775.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-03-10 00:00:00,1250.0,5750.0,4750.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-03-12 00:00:00,1625.0,2500.0,2345.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-03-14 00:00:00,1375.0,6150.0,4740.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-04-08 00:00:00,3750.0,6630.0,5015.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-04-16 00:00:00,3205.0,6500.0,4750.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-04-22 00:00:00,1555.0,7005.0,5135.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-04-30 00:00:00,1250.0,6255.0,5500.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-05-19 00:00:00,1005.0,5405.0,4535.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-05-26 00:00:00,2750.0,4025.0,3550.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2008-05-27 00:00:00,2700.0,4005.0,3500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-01-12 00:00:00,2500.0,4500.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-01-19 00:00:00,2500.0,4500.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-01-23 00:00:00,2500.0,4500.0,4200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-01-24 00:00:00,2500.0,5000.0,4400.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-02-11 00:00:00,2200.0,3500.0,3000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-02-12 00:00:00,2200.0,3500.0,3000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-02-16 00:00:00,3000.0,4500.0,4200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-02-18 00:00:00,3000.0,4500.0,4200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-02-20 00:00:00,3000.0,4500.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-02-26 00:00:00,2500.0,3500.0,3000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-03-04 00:00:00,2500.0,4000.0,3600.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-03-05 00:00:00,2500.0,4000.0,3600.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-03-26 00:00:00,3000.0,3500.0,3200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-04-04 00:00:00,3000.0,6000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-04-07 00:00:00,3000.0,6000.0,5200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-04-29 00:00:00,3000.0,7000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-05-03 00:00:00,3500.0,7000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-05-28 00:00:00,4500.0,8000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-05-30 00:00:00,4500.0,8000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-06-09 00:00:00,3500.0,6000.0,5200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-06-24 00:00:00,3500.0,5800.0,4700.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-07-02 00:00:00,3500.0,5800.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-07-12 00:00:00,3500.0,6000.0,5200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-07-14 00:00:00,5000.0,6000.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-08-23 00:00:00,3500.0,5000.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-08-28 00:00:00,3500.0,5000.0,4500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-09-01 00:00:00,2500.0,3800.0,3500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-09-09 00:00:00,3500.0,5000.0,4800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-09-12 00:00:00,3500.0,5500.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-09-27 00:00:00,3500.0,5500.0,4500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-10-01 00:00:00,3500.0,5500.0,5100.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-10-07 00:00:00,5200.0,6000.0,5800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-10-10 00:00:00,5200.0,6000.0,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-10-20 00:00:00,5200.0,6000.0,5800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-11-11 00:00:00,4000.0,5500.0,4500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-11-27 00:00:00,4500.0,5500.0,5200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-11-28 00:00:00,4500.0,5500.0,5400.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-12-06 00:00:00,4500.0,5500.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-12-23 00:00:00,5000.0,6000.0,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-12-24 00:00:00,5000.0,6000.0,5800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-12-27 00:00:00,5000.0,6000.0,5800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2008-12-31 00:00:00,3000.0,5000.0,5000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2006-04-25 00:00:00,3500.0,5000.0,4250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2006-05-01 00:00:00,3500.0,5250.0,4750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2006-12-12 00:00:00,5500.0,8500.0,7000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,Other,FAQ,2006-04-24 00:00:00,3250.0,6000.0,4575.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-03-11 00:00:00,1355.0,6205.0,5605.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-04-12 00:00:00,1355.0,7005.0,5505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-04-19 00:00:00,1250.0,6580.0,4655.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-04-24 00:00:00,1005.0,5630.0,4755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-04-25 00:00:00,1255.0,5555.0,4755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-04-28 00:00:00,1005.0,5905.0,5005.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-05-01 00:00:00,1005.0,5730.0,4905.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-05-15 00:00:00,1380.0,6905.0,5880.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-05-18 00:00:00,1205.0,6155.0,5005.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2006-05-22 00:00:00,1180.0,6055.0,4680.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-03-11 00:00:00,3850.0,6250.0,5510.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-04-08 00:00:00,1250.0,1800.0,1600.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-04-19 00:00:00,1250.0,6100.0,5510.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-04-20 00:00:00,1250.0,6300.0,5500.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-04-21 00:00:00,1250.0,6500.0,5510.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-04-27 00:00:00,1000.0,5605.0,4500.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-05-06 00:00:00,1050.0,5250.0,3980.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2006-05-09 00:00:00,1000.0,5450.0,4255.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-02-27 00:00:00,3500.0,5500.0,4650.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-03-04 00:00:00,4000.0,5900.0,5250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-03-08 00:00:00,4000.0,6000.0,5000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-04-07 00:00:00,4000.0,5750.0,5300.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-04-12 00:00:00,2625.0,5600.0,4850.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-04-21 00:00:00,2875.0,5625.0,4850.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-04-26 00:00:00,2825.0,5750.0,4750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2006-05-30 00:00:00,3250.0,5250.0,4500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-04-22 00:00:00,4000.0,4000.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-05-20 00:00:00,5000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-08-23 00:00:00,4000.0,5000.0,4500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-10-11 00:00:00,3000.0,5000.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-11-08 00:00:00,2500.0,5000.0,3750.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-11-11 00:00:00,2500.0,5000.0,3750.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-11-17 00:00:00,5000.0,6500.0,5750.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-11-23 00:00:00,4500.0,5500.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-12-05 00:00:00,4000.0,4625.0,4300.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-12-07 00:00:00,7000.0,7000.0,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2006-12-27 00:00:00,4000.0,6000.0,5000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2001-12-18 00:00:00,2625.0,3900.0,3275.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-01-28 00:00:00,2500.0,3250.0,3125.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-02-09 00:00:00,2250.0,3375.0,2875.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-02-27 00:00:00,2250.0,3300.0,2875.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-03-09 00:00:00,2250.0,3200.0,3125.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-03-16 00:00:00,3000.0,3200.0,3100.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-03-20 00:00:00,2500.0,3000.0,2750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-04-18 00:00:00,2625.0,3400.0,3200.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-04-24 00:00:00,2500.0,3400.0,3250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-05-01 00:00:00,2500.0,3400.0,3200.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-07-23 00:00:00,2600.0,2875.0,2750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-07-29 00:00:00,2650.0,3625.0,3375.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-08-06 00:00:00,2625.0,3625.0,3250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-09-17 00:00:00,2800.0,4150.0,3625.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-10-08 00:00:00,3500.0,4250.0,3750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-10-18 00:00:00,3000.0,4250.0,4000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-11-29 00:00:00,3250.0,4250.0,3900.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-12-24 00:00:00,3750.0,4400.0,4000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2002-12-27 00:00:00,3500.0,4400.0,4125.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Local,FAQ,2002-01-30 00:00:00,750.0,4355.0,3625.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Local,FAQ,2002-05-03 00:00:00,1075.0,4050.0,3450.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Local,FAQ,2002-05-06 00:00:00,1200.0,5125.0,4200.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Local,FAQ,2002-05-18 00:00:00,1325.0,4300.0,3520.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Local,FAQ,2002-05-22 00:00:00,1350.0,4400.0,3750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Local,FAQ,2002-05-24 00:00:00,1325.0,3875.0,3560.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Local,FAQ,2002-05-28 00:00:00,1350.0,3925.0,3580.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2002-01-16 00:00:00,2500.0,3500.0,3000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2002-02-18 00:00:00,2000.0,2500.0,2300.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2002-02-26 00:00:00,2300.0,3000.0,2300.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2002-04-12 00:00:00,3000.0,4000.0,3500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-05-04 00:00:00,15000.0,24500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-05-13 00:00:00,16000.0,24500.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-05-27 00:00:00,14500.0,24500.0,21500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-05-31 00:00:00,14500.0,24500.0,21500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-05-01 00:00:00,4125.0,12000.0,9250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-05-10 00:00:00,3500.0,12500.0,8500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-05-16 00:00:00,4850.0,12500.0,8500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-05-17 00:00:00,5000.0,13250.0,9750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-05-20 00:00:00,9000.0,13250.0,10500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-05-24 00:00:00,5000.0,13000.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-11-04 00:00:00,15000,24500,22000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-11-19 00:00:00,15000,22500,20000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-11-26 00:00:00,2255,13005,9755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-11-27 00:00:00,2255,14005,11755.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-11-11 00:00:00,5000,15000,10050.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-11-12 00:00:00,10000,17500,14500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-11-18 00:00:00,10000,16000,11000.0,132

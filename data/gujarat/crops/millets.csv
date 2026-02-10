@@ -480,13 +480,78 @@ Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-04-09 00:00:00,2005.0,2755.
 Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-04-18 00:00:00,1955.0,2705.0,2330.0,237
 Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-04-24 00:00:00,2005.0,2705.0,2355.0,237
 Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-11-19 00:00:00,2155.0,2680.0,2550.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-07-25 00:00:00,400,500,450.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-07-26 00:00:00,400,500,450.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-08-12 00:00:00,500,600,550.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-08-23 00:00:00,400,500,450.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-08-27 00:00:00,500,700,600.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-06 00:00:00,500,600,550.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-12 00:00:00,500,1300,900.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-17 00:00:00,400,500,450.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-20 00:00:00,400,500,450.0,237
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-24 00:00:00,400,500,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-07-25 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-07-26 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-08-12 00:00:00,500.0,600.0,550.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-08-23 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-08-27 00:00:00,500.0,700.0,600.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-06 00:00:00,500.0,600.0,550.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-12 00:00:00,500.0,1300.0,900.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-17 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-20 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2014-09-24 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2013-06-21 00:00:00,1500.0,2000.0,1750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2013-07-26 00:00:00,700.0,800.0,750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2013-07-27 00:00:00,600.0,800.0,700.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2013-09-24 00:00:00,1200.0,1400.0,1300.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2013-10-15 00:00:00,1500.0,2000.0,1750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2011-07-26 00:00:00,600.0,800.0,700.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2011-07-28 00:00:00,600.0,700.0,650.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2011-08-19 00:00:00,200.0,300.0,250.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2011-08-30 00:00:00,300.0,500.0,400.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2011-09-20 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2011-09-24 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2011-09-26 00:00:00,400.0,500.0,450.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-04-17 00:00:00,1000.0,1200.0,1100.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-07-12 00:00:00,1000.0,1500.0,1250.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-07-17 00:00:00,700.0,1100.0,900.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-07-24 00:00:00,500.0,700.0,600.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-07-27 00:00:00,500.0,600.0,550.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-07-31 00:00:00,600.0,700.0,650.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-08-01 00:00:00,200.0,400.0,300.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-08-03 00:00:00,200.0,300.0,250.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-08-23 00:00:00,500.0,600.0,550.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-08-28 00:00:00,500.0,1000.0,750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-08-31 00:00:00,600.0,800.0,700.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-09-13 00:00:00,700.0,1200.0,950.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2012-09-18 00:00:00,500.0,600.0,550.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-07-12 00:00:00,1000.0,1500.0,1250.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-07-15 00:00:00,700.0,800.0,750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-07-16 00:00:00,700.0,800.0,750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-07-20 00:00:00,700.0,800.0,750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-07-22 00:00:00,600.0,700.0,650.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-08-02 00:00:00,700.0,800.0,750.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-08-12 00:00:00,500.0,600.0,550.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-08-17 00:00:00,500.0,600.0,550.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-08-20 00:00:00,500.0,550.0,525.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-08-31 00:00:00,300.0,400.0,350.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-09-09 00:00:00,500.0,800.0,650.0,237
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Millets,Other,FAQ,2010-09-28 00:00:00,400.0,500.0,450.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-08-14 00:00:00,1850.0,2275.0,2065.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-08-18 00:00:00,1955.0,2280.0,2120.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-08-19 00:00:00,1900.0,2205.0,2055.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-08-21 00:00:00,1955.0,2250.0,2105.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-09-02 00:00:00,1505.0,2005.0,1755.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-09-11 00:00:00,1750.0,1960.0,1855.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-09-30 00:00:00,1875.0,2105.0,1990.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-10-05 00:00:00,1950.0,2150.0,2050.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-10-10 00:00:00,1855.0,2135.0,1995.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-10-13 00:00:00,1900.0,2120.0,2010.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-10-23 00:00:00,2005.0,2125.0,2062.5,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-10-25 00:00:00,1850.0,2175.0,2015.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-11-03 00:00:00,2025.0,2445.0,2235.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-11-06 00:00:00,1755.0,2405.0,2080.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-11-29 00:00:00,2355.0,2655.0,2505.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-12-02 00:00:00,1735.0,2560.0,2150.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-12-06 00:00:00,2005.0,2570.0,2290.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-12-09 00:00:00,2005.0,2470.0,2240.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-12-11 00:00:00,2000.0,2550.0,2275.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-12-14 00:00:00,2005.0,2555.0,2280.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-12-20 00:00:00,2005.0,2455.0,2230.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2023-12-22 00:00:00,1705.0,2425.0,2065.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-06-03 00:00:00,1575.0,2400.0,2255.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-06-13 00:00:00,1505.0,2375.0,2250.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-06-15 00:00:00,1705.0,2355.0,2255.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-06-20 00:00:00,1640.0,2220.0,2105.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-10-03 00:00:00,2000,2390,2255.0,237
+Gujarat,Gir Somnath,Veraval,Millets,Millets,FAQ,2024-10-08 00:00:00,2025,2635,2485.0,237

@@ -1,2 +1,3 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
 Gujarat,Ahmedabad,Ahmedabad,Rubber,Other,FAQ,2011-03-29,10000,22000,15000.0,111
+Gujarat,Ahmedabad,Ahmedabad,Rubber,Other,FAQ,2011-06-30 00:00:00,10000,18000,10000.0,111
