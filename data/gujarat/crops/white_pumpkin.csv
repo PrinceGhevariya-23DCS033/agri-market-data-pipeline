@@ -1,3 +1,6 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",White Pumpkin,Other,FAQ,2019-07-23,1000,2000,1500,158
-Gujarat,Bharuch,Ankleshwar,White Pumpkin,White Pumpkin,FAQ,2016-09-17 00:00:00,1600,2500,2250,158
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",White Pumpkin,Other,FAQ,2019-07-23,1000,2000,1500.0,158
+Gujarat,Bharuch,Ankleshwar,White Pumpkin,White Pumpkin,FAQ,2016-09-17 00:00:00,1600,2500,2250.0,158
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",White Pumpkin,Other,FAQ,2015-01-19 00:00:00,605,1000,800.0,158
+Gujarat,Bharuch,Ankleshwar,White Pumpkin,White Pumpkin,FAQ,2016-10-19 00:00:00,2025,2650,2500.0,158
+Gujarat,Bharuch,Ankleshwar,White Pumpkin,White Pumpkin,FAQ,2017-03-29 00:00:00,700,900,850.0,158

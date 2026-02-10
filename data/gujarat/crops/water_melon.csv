@@ -5954,5 +5954,1456 @@ Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-14 00:00:00
 Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-15 00:00:00,1000.0,1500.0,1250.0,73
 Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-23 00:00:00,1000.0,1500.0,1250.0,73
 Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-28 00:00:00,1000.0,1500.0,1250.0,73
-Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-01-10 00:00:00,750,1250,1000.0,73
-Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-01-13 00:00:00,1000,1500,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Small,2021-02-12 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Small,2021-02-15 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-02-26 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-05 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-13 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-16 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-17 00:00:00,1000.0,1150.0,1025.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-19 00:00:00,1000.0,1050.0,1025.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-20 00:00:00,1000.0,1050.0,1025.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-27 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-03-30 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-04-23 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-04-24 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-04-29 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-05-22 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-05-25 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-05-29 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-06-03 00:00:00,750.0,850.0,800.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-06-11 00:00:00,1000.0,1150.0,1025.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-06-12 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-06-15 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-06-18 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-08-19 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-09 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-18 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-22 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-09-25 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2021-10-04 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-03-16 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-03-20 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-03-27 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-03-30 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-04-11 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-03-30 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-06 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-18 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-26 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2025-11-16 00:00:00,500.0,1500.0,1000.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-11-29 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-11-25 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-06-05 00:00:00,500.0,700.0,600.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-06-10 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-06-13 00:00:00,650.0,800.0,700.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-06-02 00:00:00,500.0,750.0,625.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-06-17 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-06-05 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2025-09-11 00:00:00,700.0,1100.0,900.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2025-09-01 00:00:00,2000.0,3000.0,2500.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-09-17 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Water Melon,Large,2025-09-25 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-09-15 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-09-17 00:00:00,500.0,550.0,525.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-09-20 00:00:00,500.0,550.0,525.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2025-10-06 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-12-10 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-12-30 00:00:00,2000.0,2500.0,2250.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2025-12-16 00:00:00,500.0,1500.0,1000.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2025-12-22 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Bharuch,Bharuch APMC,Water Melon,Other,Local,2026-01-17 00:00:00,1300.0,1900.0,1500.0,73
+Gujarat,Bharuch,Bharuch APMC,Water Melon,Other,Local,2026-01-22 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch APMC,Water Melon,Other,Local,2026-01-24 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch APMC,Water Melon,Other,Local,2026-02-06 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2026-01-13 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Navsari,Navsari APMC,Water Melon,Water Melon,Local,2026-01-18 00:00:00,1500.0,3500.0,2500.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2026-01-26 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2026-01-27 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Water Melon,Water Melon,Local,2026-01-28 00:00:00,2000.0,2500.0,2250.0,73
+Gujarat,Porbandar,Porbandar APMC,Water Melon,Water Melon,Grade A,2026-02-07 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-01-09 00:00:00,800.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-01-20 00:00:00,700.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-01-22 00:00:00,700.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-01-23 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-01-28 00:00:00,600.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-06 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-12 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-17 00:00:00,1000.0,1500.0,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-19 00:00:00,1000.0,1700.0,1500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-21 00:00:00,800.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-24 00:00:00,800.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-25 00:00:00,800.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-02-26 00:00:00,800.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-03-03 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-03-10 00:00:00,500.0,700.0,650.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-03-14 00:00:00,700.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-03-26 00:00:00,400.0,600.0,500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-04-24 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-04-25 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-04-28 00:00:00,900.0,1200.0,1050.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-04-29 00:00:00,900.0,1200.0,1050.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-05-01 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2009-05-02 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-05-09 00:00:00,1000.0,1200.0,1150.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-05-14 00:00:00,1000.0,1200.0,1150.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-05-18 00:00:00,1000.0,1200.0,1150.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-05-22 00:00:00,800.0,900.0,875.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-06-17 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-06-26 00:00:00,1500.0,1800.0,1700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-07-15 00:00:00,1300.0,1500.0,1450.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-07-16 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-07-24 00:00:00,2000.0,2500.0,2300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-08-03 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-08-06 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-08-12 00:00:00,1000.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-08-17 00:00:00,500.0,700.0,650.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-09-01 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-09-05 00:00:00,600.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-09-14 00:00:00,500.0,1000.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-09-18 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-10-02 00:00:00,800.0,2000.0,1500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-10-05 00:00:00,800.0,2000.0,1600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-10-06 00:00:00,800.0,1500.0,1250.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-10-29 00:00:00,700.0,800.0,775.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-10-30 00:00:00,700.0,800.0,775.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-11-04 00:00:00,700.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-11-06 00:00:00,700.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-11-09 00:00:00,1500.0,2000.0,1850.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-11-11 00:00:00,1000.0,1200.0,1150.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-11-24 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2009-12-23 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-02 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-03 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-05 00:00:00,600.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-09 00:00:00,800.0,1500.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-10 00:00:00,800.0,1500.0,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-13 00:00:00,600.0,1000.0,850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-21 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-29 00:00:00,500.0,1000.0,850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-01-30 00:00:00,600.0,700.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-02-21 00:00:00,800.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-02-26 00:00:00,800.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-03-05 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-03-17 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-04-01 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-04-08 00:00:00,700.0,800.0,750.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-04-27 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-05-06 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-05-15 00:00:00,1000.0,1200.0,1150.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-05-28 00:00:00,800.0,900.0,875.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-06-04 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-06-12 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-06-16 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-06-17 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-06-24 00:00:00,1500.0,1800.0,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-07-01 00:00:00,1500.0,1800.0,1650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-07-20 00:00:00,1500.0,1800.0,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-07-22 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-07-23 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-08-15 00:00:00,1000.0,2000.0,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-08-17 00:00:00,500.0,700.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-08-22 00:00:00,500.0,1000.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-09-07 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-09-08 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-09-10 00:00:00,800.0,1200.0,1050.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-09-18 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-09-19 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-09-25 00:00:00,500.0,1000.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-10-01 00:00:00,500.0,1000.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-10-06 00:00:00,800.0,1500.0,1250.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-10-08 00:00:00,800.0,1500.0,1250.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-10-10 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-10-12 00:00:00,800.0,1500.0,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-10-16 00:00:00,500.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-10-27 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-11-21 00:00:00,1000.0,1500.0,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-11-26 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-11-30 00:00:00,1000.0,1500.0,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-12-04 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-12-22 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2009-12-31 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Amreli,Dhari,Water Melon,Water Melon,Small,2009-04-27 00:00:00,350.0,400.0,375.0,73
+Gujarat,Amreli,Dhari,Water Melon,Water Melon,Medium,2009-05-14 00:00:00,650.0,800.0,725.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-02-28 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-03-03 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-04-06 00:00:00,500.0,800.0,650.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-04-08 00:00:00,650.0,750.0,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-04-11 00:00:00,600.0,650.0,625.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-04-13 00:00:00,600.0,650.0,625.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-04-25 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-05-05 00:00:00,600.0,700.0,650.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-05-27 00:00:00,300.0,350.0,325.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-05-30 00:00:00,350.0,400.0,375.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-07-14 00:00:00,300.0,400.0,350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-07-25 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-09-05 00:00:00,250.0,300.0,275.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-09-18 00:00:00,300.0,350.0,325.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-10-28 00:00:00,250.0,350.0,300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2009-11-13 00:00:00,250.0,350.0,300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-02-06 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-02-07 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-02-25 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-03-03 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-03-16 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-03-19 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-03-23 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-04-12 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-04-14 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-04-23 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-05-06 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-05-09 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-05-14 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-05-27 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-06-04 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-07-09 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-07-19 00:00:00,600.0,750.0,675.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-07-30 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-08-01 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-08-02 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-09-04 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-09-05 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-09-12 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-09-14 00:00:00,750.0,900.0,825.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-09-24 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-09-25 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-10-06 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-10-08 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-11-21 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-11-26 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-12-02 00:00:00,1300.0,1400.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-12-14 00:00:00,1400.0,1500.0,1450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-12-17 00:00:00,1300.0,1400.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-12-29 00:00:00,1300.0,1400.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2009-12-30 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-03-13 00:00:00,400.0,500.0,450.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-04-06 00:00:00,400.0,500.0,450.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-04-10 00:00:00,350.0,500.0,425.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Small,2009-04-16 00:00:00,300.0,400.0,350.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-04-22 00:00:00,400.0,500.0,450.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Small,2009-04-24 00:00:00,350.0,400.0,375.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-04-26 00:00:00,350.0,400.0,375.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Small,2009-05-01 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Small,2009-05-05 00:00:00,500.0,700.0,600.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-05-08 00:00:00,300.0,600.0,450.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-05-14 00:00:00,500.0,700.0,600.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Small,2009-05-26 00:00:00,300.0,350.0,325.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-05-27 00:00:00,350.0,400.0,375.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Small,2009-06-02 00:00:00,350.0,400.0,375.0,73
+Gujarat,Rajkot,Gondal,Water Melon,Water Melon,Medium,2009-06-07 00:00:00,500.0,750.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-01-05 00:00:00,400.0,700.0,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-01-09 00:00:00,400.0,650.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-01-13 00:00:00,350.0,600.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-01-17 00:00:00,350.0,600.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-01-24 00:00:00,350.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-01-26 00:00:00,350.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-02-03 00:00:00,350.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-02-10 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-02-15 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-03-01 00:00:00,250.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-03-04 00:00:00,250.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-03-12 00:00:00,300.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-03-20 00:00:00,300.0,650.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-04-03 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-04-05 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-04-09 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-04-22 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-04-23 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-04-24 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-04-28 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-05-07 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-05-16 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-05-17 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-05-22 00:00:00,250.0,700.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-06-08 00:00:00,300.0,600.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-08-04 00:00:00,350.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-08-14 00:00:00,350.0,550.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-08-22 00:00:00,350.0,550.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-09-07 00:00:00,450.0,700.0,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-09-17 00:00:00,400.0,700.0,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-09-19 00:00:00,350.0,700.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-09-23 00:00:00,600.0,800.0,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-10-04 00:00:00,600.0,900.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-10-05 00:00:00,550.0,900.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-11-06 00:00:00,250.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-12-01 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-12-02 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-12-16 00:00:00,350.0,600.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-12-24 00:00:00,350.0,600.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-12-25 00:00:00,350.0,600.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-12-29 00:00:00,350.0,600.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2009-12-31 00:00:00,350.0,600.0,450.0,73
+Gujarat,Bharuch,Amod,Water Melon,Other,Small,2007-03-07 00:00:00,1500.0,1600.0,1550.0,73
+Gujarat,Bharuch,Amod,Water Melon,Other,Medium,2007-03-20 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2007-01-31 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2007-03-10 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2007-03-25 00:00:00,400.0,600.0,500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2007-03-27 00:00:00,500.0,700.0,600.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Small,2007-03-28 00:00:00,400.0,700.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Small,2007-04-03 00:00:00,500.0,700.0,600.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Small,2007-04-19 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Small,2007-04-24 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Small,2007-05-10 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2007-10-07 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2007-10-24 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2007-10-31 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2007-11-01 00:00:00,700.0,800.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,FAQ,2007-09-27 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-01-18 00:00:00,200.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-01-29 00:00:00,200.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-02-08 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-02-09 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-02-11 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-03-02 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-03-07 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-03-15 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-03-19 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-03-26 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-04-08 00:00:00,200.0,400.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-04-18 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-04-20 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-04-23 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-04-30 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-05-06 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-05-09 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-05-20 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-05-31 00:00:00,250.0,550.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-06-07 00:00:00,250.0,500.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-06-13 00:00:00,250.0,500.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-07-29 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-08-12 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-08-21 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-09-13 00:00:00,400.0,700.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-10-04 00:00:00,300.0,600.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-10-08 00:00:00,280.0,650.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-11-01 00:00:00,400.0,800.0,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2007-11-02 00:00:00,300.0,700.0,500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-03-14 00:00:00,400.0,500.0,450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-03-23 00:00:00,400.0,500.0,450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-04-07 00:00:00,400.0,500.0,450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-04-09 00:00:00,400.0,500.0,450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-04-23 00:00:00,400.0,450.0,425.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-04-28 00:00:00,250.0,400.0,325.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-10-12 00:00:00,400.0,500.0,450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-10-19 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-10-24 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-10-25 00:00:00,500.0,700.0,600.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-10-28 00:00:00,500.0,700.0,600.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-11-06 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-11-09 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2004-11-10 00:00:00,500.0,600.0,550.0,73
+Gujarat,Dahod,Dahod,Water Melon,Other,Medium,2002-01-17 00:00:00,200.0,200.0,200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2003-09-24 00:00:00,700.0,750.0,725.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2003-10-09 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2003-10-15 00:00:00,600.0,700.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2003-10-21 00:00:00,600.0,700.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2003-11-19 00:00:00,500.0,550.0,525.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2003-11-28 00:00:00,500.0,550.0,525.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2003-12-05 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2003-12-09 00:00:00,500.0,600.0,550.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2003-09-17 00:00:00,300.0,400.0,350.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2003-12-23 00:00:00,350.0,400.0,375.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2015-01-05 00:00:00,600.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-02-10 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-02-24 00:00:00,1000.0,1200.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-02-26 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-03-20 00:00:00,100.0,1200.0,120.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-03-25 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-04-06 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-04-08 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-04-17 00:00:00,200.0,300.0,280.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-04-18 00:00:00,400.0,500.0,480.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-04-23 00:00:00,300.0,400.0,350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-04-28 00:00:00,300.0,500.0,400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-04-29 00:00:00,400.0,500.0,450.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-05-07 00:00:00,600.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-05-14 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-05-18 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-05-26 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-06-13 00:00:00,500.0,700.0,650.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-06-15 00:00:00,50.0,700.0,600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-06-17 00:00:00,70.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-06-20 00:00:00,700.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-06-25 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-07-03 00:00:00,700.0,900.0,850.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-07-11 00:00:00,1000.0,2500.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-07-17 00:00:00,250.0,3000.0,2800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-08-08 00:00:00,1200.0,1800.0,1500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-09-29 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-10-06 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-10-27 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-11-05 00:00:00,400.0,800.0,600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-11-13 00:00:00,300.0,500.0,400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-11-16 00:00:00,300.0,500.0,400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-11-18 00:00:00,300.0,500.0,400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-11-28 00:00:00,400.0,600.0,500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2015-12-10 00:00:00,400.0,600.0,500.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2015-01-27 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-02-10 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-02-19 00:00:00,1000.0,1200.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-03-03 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-03-14 00:00:00,100.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-03-16 00:00:00,1000.0,1200.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-03-17 00:00:00,900.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-03-18 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-03-26 00:00:00,1000.0,1200.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-03-27 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-04-03 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-05-09 00:00:00,700.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-05-23 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-06-03 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-06-05 00:00:00,100.0,1200.0,110.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-06-11 00:00:00,80.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-06-22 00:00:00,80.0,1200.0,110.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-06-23 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-07-01 00:00:00,700.0,900.0,850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-07-10 00:00:00,180.0,2200.0,200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-07-11 00:00:00,1000.0,2500.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-09-15 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-10-02 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-10-06 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-10-27 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-10-28 00:00:00,500.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-11-04 00:00:00,500.0,800.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2015-12-12 00:00:00,400.0,700.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-04-17 00:00:00,300.0,500.0,400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-04 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-05 00:00:00,300.0,500.0,400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-08 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-15 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-19 00:00:00,500.0,900.0,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-22 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-23 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-05-30 00:00:00,4000.0,5000.0,4500.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-06-01 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-06-10 00:00:00,500.0,1500.0,1000.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-06-15 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-06-29 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-07-02 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2015-07-03 00:00:00,400.0,450.0,425.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-01-12 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-01-15 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-02-17 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-02-23 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-03-01 00:00:00,800.0,1250.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-03-04 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-03-05 00:00:00,800.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-03-16 00:00:00,800.0,1250.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-04-04 00:00:00,700.0,1200.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-04-06 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-04-08 00:00:00,700.0,1000.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-04-28 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-04-30 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-05-05 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-05-19 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-05-20 00:00:00,750.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-06-11 00:00:00,700.0,1100.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-06-18 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-06-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-06-25 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-06-26 00:00:00,1000.0,1400.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-06-30 00:00:00,1000.0,1500.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-07-05 00:00:00,1000.0,1500.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-07-07 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-07-10 00:00:00,1500.0,2000.0,1700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-08-31 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-09-10 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-09-18 00:00:00,1000.0,1500.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-10-10 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-10-11 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-11-04 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-11-13 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-11-22 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2015-11-24 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2015-04-03 00:00:00,700.0,700.0,700.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2015-04-11 00:00:00,400.0,500.0,500.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2015-04-22 00:00:00,200.0,500.0,400.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2015-05-01 00:00:00,300.0,400.0,400.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2015-05-22 00:00:00,750.0,750.0,750.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2015-05-23 00:00:00,700.0,700.0,700.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2015-04-09 00:00:00,600.0,800.0,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-02-02 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-02-09 00:00:00,1000.0,1600.0,1200.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-02-16 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-05-21 00:00:00,600.0,800.0,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-05-28 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-05-29 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-05-30 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-06-10 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-06-12 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-06-15 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-06-20 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-06-24 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-06-28 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-07-03 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-07-09 00:00:00,1200.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-07-12 00:00:00,1200.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-07-14 00:00:00,1200.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-07-15 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-09-02 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-10-06 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2015-12-19 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-01-26 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-02-09 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-02-22 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-03-04 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-03-08 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-03-29 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-04-09 00:00:00,600.0,1000.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-04-19 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-04-21 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-04-26 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-04-28 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-04-29 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-10 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-11 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-13 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-16 00:00:00,700.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-17 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-20 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-21 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-05-23 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-02 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-03 00:00:00,500.0,800.0,650.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-04 00:00:00,600.0,900.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-06 00:00:00,600.0,900.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-14 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-16 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-20 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-21 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-22 00:00:00,1000.0,1300.0,1150.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-06-29 00:00:00,800.0,1400.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-07-02 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-07-09 00:00:00,1400.0,1500.0,1450.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-07-26 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-07-30 00:00:00,500.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-09-09 00:00:00,1000.0,1100.0,1050.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-09-29 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-10-01 00:00:00,1200.0,1300.0,1250.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-10-17 00:00:00,1300.0,1400.0,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-11-05 00:00:00,1500.0,1800.0,1700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-12-14 00:00:00,500.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2016-12-23 00:00:00,500.0,700.0,600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Large,2016-12-24 00:00:00,600.0,700.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-02-13 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-03-05 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-03-14 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-03-19 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-03-22 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-03-31 00:00:00,600.0,1000.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-04-05 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-04-19 00:00:00,700.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-04-26 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-05-18 00:00:00,700.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-05-24 00:00:00,500.0,1000.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-05-31 00:00:00,400.0,600.0,500.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-06-02 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-06-18 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-07-01 00:00:00,900.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-07-02 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-07-13 00:00:00,1300.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-11-04 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-11-15 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-12-16 00:00:00,600.0,700.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2016-12-31 00:00:00,400.0,600.0,500.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-04-05 00:00:00,750.0,900.0,800.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-04-06 00:00:00,700.0,900.0,800.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-04-07 00:00:00,750.0,900.0,800.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-04-18 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-04-22 00:00:00,900.0,1050.0,950.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-04-25 00:00:00,750.0,1100.0,900.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-05-18 00:00:00,850.0,1100.0,900.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-05-26 00:00:00,800.0,1050.0,900.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-06-08 00:00:00,900.0,1050.0,1000.0,73
+Gujarat,Ahmedabad,Dholka(Koth),Water Melon,Other,Medium,2016-06-11 00:00:00,850.0,1050.0,950.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-02-06 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-03-03 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-03-10 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-03-26 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-04-27 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-05-05 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-05-26 00:00:00,600.0,800.0,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-05-28 00:00:00,400.0,700.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-06-02 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-06-22 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-06-25 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2016-06-28 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-02-18 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-03-02 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-03-05 00:00:00,1000.0,1300.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-03-13 00:00:00,1000.0,1250.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-03-17 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-03-27 00:00:00,800.0,1100.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-04-03 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-04-17 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-04-23 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-03 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-06 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-11 00:00:00,1000.0,1250.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-12 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-18 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-20 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-23 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-05-30 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-06-03 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-06-09 00:00:00,1200.0,1450.0,1300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-06-12 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-06-16 00:00:00,1300.0,1500.0,1400.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-06-19 00:00:00,1200.0,1450.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-06-22 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-07-01 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-07-09 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-07-19 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-08-20 00:00:00,1000.0,1350.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-08-24 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-09-20 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-10-07 00:00:00,1000.0,1350.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-10-13 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-10-15 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-10-27 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-11-07 00:00:00,1000.0,1300.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-11-19 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-11-24 00:00:00,1200.0,1350.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-12-02 00:00:00,1200.0,1300.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2016-12-20 00:00:00,1200.0,1300.0,1250.0,73
+Gujarat,Dahod,Dahod(Veg. Market),Water Melon,Water Melon,Medium,2016-04-19 00:00:00,500.0,1250.0,600.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-03-19 00:00:00,1000.0,1800.0,1400.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-03-28 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-04-01 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-04-23 00:00:00,1000.0,1800.0,1400.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-04-24 00:00:00,600.0,1400.0,1000.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-06-23 00:00:00,600.0,900.0,750.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-07-28 00:00:00,900.0,1200.0,1050.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-08-03 00:00:00,400.0,800.0,600.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-08-10 00:00:00,300.0,900.0,600.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-08-12 00:00:00,300.0,900.0,600.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-08-14 00:00:00,400.0,1200.0,800.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-09-09 00:00:00,300.0,700.0,500.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-10-21 00:00:00,200.0,500.0,350.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-10-24 00:00:00,400.0,550.0,500.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-11-03 00:00:00,300.0,550.0,400.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-11-04 00:00:00,400.0,600.0,500.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-12-01 00:00:00,300.0,500.0,400.0,73
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Water Melon,Water Melon,Medium,2016-12-25 00:00:00,300.0,400.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-01-05 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-02-01 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-03-01 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-03-05 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-03-11 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-03-15 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-03-18 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-05-07 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-05-10 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-05-14 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-05-29 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-05-30 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-06-02 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-06-06 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-06-15 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-06-25 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-07-01 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-07-14 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-09-19 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2016-12-29 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2024-12-18 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-12-19 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-12-21 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-02-07 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-02-10 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-03-09 00:00:00,900.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-03-27 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-04-08 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-04-13 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-04-18 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-04-21 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-04-26 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-04-27 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-05-01 00:00:00,600.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-05-08 00:00:00,500.0,1000.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-05-15 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-05-22 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-05-25 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-01 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-02 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-05 00:00:00,500.0,700.0,600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-06 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-22 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-24 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-27 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-06-30 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-08-10 00:00:00,1400.0,1600.0,1500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-09-07 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-09-08 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-09-14 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-09-28 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-09-29 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-10-09 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-10-17 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-10-24 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-10-27 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-11-07 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-11-17 00:00:00,500.0,700.0,600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-11-23 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-12-27 00:00:00,700.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2017-12-30 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-01-11 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-01-27 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-02-06 00:00:00,700.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-02-10 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-02-11 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-02-16 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-02-17 00:00:00,500.0,1300.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-02-18 00:00:00,800.0,1300.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-02-27 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-03-02 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-03-04 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-03-07 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-03-08 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-03-09 00:00:00,900.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-04-11 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-04-12 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-04-17 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-04-18 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-04-27 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-05-05 00:00:00,500.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-05-06 00:00:00,600.0,1100.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-05-08 00:00:00,500.0,1000.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-06-05 00:00:00,500.0,700.0,600.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-06-07 00:00:00,500.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-06-14 00:00:00,600.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-06-20 00:00:00,600.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-07-15 00:00:00,1100.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-08-26 00:00:00,1500.0,1800.0,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-09-07 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-09-28 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-10-05 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-10-25 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-11-15 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-11-16 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-11-24 00:00:00,700.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-12-04 00:00:00,600.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2017-12-30 00:00:00,600.0,800.0,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-04-01 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-04-06 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-04-07 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-04-22 00:00:00,1000.0,2000.0,1500.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-05-03 00:00:00,600.0,900.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-05-09 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-05-13 00:00:00,600.0,900.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-05-15 00:00:00,500.0,750.0,625.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-05-18 00:00:00,500.0,800.0,650.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-06-08 00:00:00,400.0,600.0,500.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-06-09 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-06-16 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-06-21 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2017-06-22 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-01-05 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-01-17 00:00:00,1000.0,1250.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-02-02 00:00:00,1200.0,1300.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-02-04 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-02-06 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-03-02 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-04-01 00:00:00,800.0,1250.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-05-30 00:00:00,1000.0,1350.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-06-05 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-06-22 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-09-15 00:00:00,1100.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-09-23 00:00:00,1000.0,1250.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-10-24 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2017-12-16 00:00:00,700.0,900.0,850.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2017-04-08 00:00:00,400.0,1000.0,800.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2017-05-11 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2017-05-17 00:00:00,700.0,800.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2017-09-29 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-02-04 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-03-04 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-03-06 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-03-12 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-03-13 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-03-27 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-03-28 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-04-13 00:00:00,1000.0,2000.0,1600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-05-11 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-05-12 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-05-18 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-05-19 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-05-24 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-05-31 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-06-01 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-06-02 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-06-04 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-06-05 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-06-21 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-11-22 00:00:00,4000.0,6000.0,5000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-12-09 00:00:00,5000.0,7000.0,6000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-12-13 00:00:00,5000.0,7000.0,6000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2017-12-26 00:00:00,5000.0,7000.0,6000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2020-04-07 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Anand,Khambhat(Veg Yard Khambhat),Water Melon,Other,Medium,2020-04-06 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2020-04-24 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2020-04-29 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2020-04-10 00:00:00,1000.0,1000.0,1000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-04-06 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-04-07 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-04-12 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-04-13 00:00:00,1000.0,1050.0,1025.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-04-22 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-04-28 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-04-30 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-05 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-06 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-05-09 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-05-11 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Large,2020-05-16 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-29 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-05-31 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Small,2020-06-01 00:00:00,750.0,1000.0,875.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2020-06-07 00:00:00,500.0,700.0,600.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-01-31 00:00:00,500.0,600.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-02-18 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-03-20 00:00:00,400.0,700.0,550.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-04-01 00:00:00,300.0,500.0,400.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-04-03 00:00:00,350.0,500.0,425.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2006-04-10 00:00:00,250.0,400.0,325.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-05-06 00:00:00,400.0,600.0,500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-05-17 00:00:00,400.0,600.0,500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-05-20 00:00:00,300.0,600.0,450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-06-02 00:00:00,400.0,600.0,500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-06-03 00:00:00,400.0,600.0,500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-09-14 00:00:00,600.0,700.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-09-17 00:00:00,600.0,700.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-09-18 00:00:00,600.0,700.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-10-08 00:00:00,600.0,700.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-10-20 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Large,2006-11-13 00:00:00,700.0,900.0,800.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,FAQ,2006-09-23 00:00:00,500.0,750.0,625.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,FAQ,2006-10-04 00:00:00,400.0,500.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-04-05 00:00:00,300.0,500.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-04-14 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-05-14 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-05-20 00:00:00,250.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-05-22 00:00:00,250.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-07-04 00:00:00,200.0,350.0,270.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-07-13 00:00:00,200.0,350.0,270.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-07-14 00:00:00,200.0,350.0,270.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-07-16 00:00:00,200.0,350.0,270.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-12-02 00:00:00,300.0,500.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-12-07 00:00:00,300.0,500.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-12-08 00:00:00,300.0,500.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2006-12-28 00:00:00,200.0,500.0,400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-02-02 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-02-05 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-02-09 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-02-20 00:00:00,700.0,800.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-05 00:00:00,400.0,800.0,600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-08 00:00:00,400.0,600.0,550.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-11 00:00:00,500.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-14 00:00:00,500.0,900.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-22 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-23 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-26 00:00:00,600.0,700.0,650.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-28 00:00:00,600.0,700.0,650.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-04-29 00:00:00,500.0,800.0,700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-08-27 00:00:00,500.0,800.0,650.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-09-05 00:00:00,700.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-09-08 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-09-09 00:00:00,700.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-09-10 00:00:00,800.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2008-09-12 00:00:00,1000.0,1400.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-02-08 00:00:00,500.0,700.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-02-12 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-02-19 00:00:00,600.0,800.0,750.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-02-27 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-02-29 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-03-07 00:00:00,700.0,900.0,850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-04-15 00:00:00,500.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-04-21 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-04-22 00:00:00,800.0,1000.0,950.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-04-24 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-04-29 00:00:00,500.0,800.0,700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-04-30 00:00:00,500.0,1000.0,850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-05-01 00:00:00,500.0,1000.0,850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-08-28 00:00:00,600.0,700.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-09-02 00:00:00,500.0,900.0,800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-09-06 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-09-17 00:00:00,600.0,700.0,650.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2008-10-01 00:00:00,1000.0,1500.0,1350.0,73
+Gujarat,Amreli,Dhari,Water Melon,Water Melon,Medium,2008-02-12 00:00:00,400.0,500.0,450.0,73
+Gujarat,Amreli,Dhari,Water Melon,Water Melon,Medium,2008-03-20 00:00:00,400.0,400.0,400.0,73
+Gujarat,Amreli,Dhari,Water Melon,Water Melon,Medium,2008-04-02 00:00:00,300.0,300.0,300.0,73
+Gujarat,Amreli,Dhari,Water Melon,Water Melon,Medium,2008-04-03 00:00:00,400.0,400.0,400.0,73
+Gujarat,Amreli,Dhari,Water Melon,Water Melon,Medium,2008-05-28 00:00:00,400.0,400.0,400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-02-25 00:00:00,900.0,1200.0,1050.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-03-19 00:00:00,400.0,600.0,500.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-04-05 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-04-08 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-04-15 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-04-21 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-04-24 00:00:00,300.0,500.0,400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-04-29 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-04-30 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-05-01 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-05-03 00:00:00,350.0,500.0,425.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-05-06 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-05-09 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-05-21 00:00:00,300.0,400.0,350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-06-04 00:00:00,200.0,400.0,300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-06-13 00:00:00,200.0,400.0,300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-07-01 00:00:00,200.0,350.0,275.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-09-12 00:00:00,200.0,400.0,300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-09-19 00:00:00,200.0,400.0,300.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2008-09-22 00:00:00,200.0,400.0,300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2008-03-20 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2008-03-25 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2008-04-06 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2008-04-10 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2008-04-11 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2008-04-12 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,FAQ,2008-04-14 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-05-18 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-05-20 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-05-21 00:00:00,500.0,750.0,625.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-06-02 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-06-16 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-06-22 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-09-25 00:00:00,1000.0,1250.0,1125.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2008-12-31 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Dahod,Dahod(Veg. Market),Water Melon,Other,Small,2008-04-21 00:00:00,200.0,250.0,200.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,FAQ,2008-06-08 00:00:00,250.0,300.0,275.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2008-01-06 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2008-01-17 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2008-01-19 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara,Water Melon,Other,Medium,2008-01-31 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-03-12 00:00:00,350.0,600.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-03-13 00:00:00,350.0,600.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-03-20 00:00:00,300.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-03-23 00:00:00,300.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-03-28 00:00:00,300.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-04-01 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-04-05 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-04-09 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-04-11 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-04-12 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-04-23 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-04-28 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-05 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-08 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-10 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-16 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-17 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-22 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-30 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-05-31 00:00:00,300.0,500.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-06-13 00:00:00,250.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-06-18 00:00:00,250.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-07-21 00:00:00,200.0,500.0,300.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-08-10 00:00:00,250.0,500.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-08-19 00:00:00,250.0,400.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-08-30 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-09-02 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-09-03 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-09-05 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-09-11 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-09-12 00:00:00,300.0,550.0,400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-09-19 00:00:00,350.0,600.0,450.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-09-25 00:00:00,350.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-10-18 00:00:00,300.0,450.0,350.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-12-10 00:00:00,400.0,600.0,500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-12-15 00:00:00,350.0,700.0,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-12-16 00:00:00,350.0,700.0,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-12-21 00:00:00,350.0,700.0,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2008-12-29 00:00:00,400.0,700.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2024-07-02 00:00:00,1000.0,1300.0,1150.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2024-07-19 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-03-15 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-03-29 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-04-02 00:00:00,1250.0,1750.0,1500.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-04-15 00:00:00,750.0,1250.0,1000.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-04-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-04-25 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-04-27 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Porbandar,Porbandar,Water Melon,Other,Large,2024-04-29 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-01 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-02 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-03 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-19 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-22 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-24 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-04-29 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-01-03 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-01-24 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-02-02 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-02-03 00:00:00,1300.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-02-09 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-03 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-12 00:00:00,1100.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-13 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-14 00:00:00,3800.0,6500.0,5200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-15 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-03-24 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-04-05 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-04-07 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-04-09 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-04-12 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-16 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-24 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-25 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-26 00:00:00,1200.0,1700.0,1500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-28 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-29 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-05-31 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-05 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-08 00:00:00,1100.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-11 00:00:00,1100.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-06-27 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-07-31 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-08-29 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-09-11 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-09-28 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-10-11 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-10-15 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-11-06 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2018-11-29 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-01-29 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-03 00:00:00,1300.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-07 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-12 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-17 00:00:00,1100.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-02-27 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-03 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-08 00:00:00,1100.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-09 00:00:00,1000.0,1400.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-12 00:00:00,1100.0,1300.0,1200.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-14 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-03-21 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-04-03 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-04-16 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-05-14 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-05-21 00:00:00,1100.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-05-22 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-05-24 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-06-01 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-06-08 00:00:00,1100.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-06-26 00:00:00,900.0,1100.0,1000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-06-28 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-08-21 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-09-06 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-09-22 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-09-24 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-09-25 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-10-04 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-10-13 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-10-15 00:00:00,1000.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-10-24 00:00:00,1200.0,1600.0,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-10-27 00:00:00,1500.0,1700.0,1600.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-11-29 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-12-18 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2018-12-24 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-01-30 00:00:00,1400.0,1500.0,1450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-03-12 00:00:00,900.0,1050.0,975.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-03-22 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-04-05 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-05 00:00:00,700.0,800.0,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-10 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-12 00:00:00,800.0,1100.0,950.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-18 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-23 00:00:00,500.0,700.0,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-30 00:00:00,500.0,800.0,650.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-05-31 00:00:00,700.0,950.0,825.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-06-01 00:00:00,500.0,900.0,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2018-06-05 00:00:00,500.0,800.0,650.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-01-31 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-02-09 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-02-10 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-01 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-02 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-19 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-20 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-03-23 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-08 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-18 00:00:00,600.0,900.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-19 00:00:00,700.0,900.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-27 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-04-30 00:00:00,700.0,950.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-10 00:00:00,700.0,1000.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-11 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-16 00:00:00,1000.0,1350.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-18 00:00:00,1000.0,1350.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-22 00:00:00,1000.0,1350.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-05-28 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-03 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-08 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-11 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-06-20 00:00:00,1000.0,1300.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-07-12 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-07-13 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-09-27 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-09-29 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-10-04 00:00:00,1000.0,1250.0,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-10-14 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-10-22 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-10-24 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2018-12-06 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Water Melon,Other,Medium,2018-04-10 00:00:00,600.0,600.0,600.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2018-04-09 00:00:00,600.0,700.0,650.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2018-05-20 00:00:00,1000.0,1100.0,1050.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Large,2018-03-06 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-03-09 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-03-20 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-11 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-16 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-22 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-28 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-29 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-05-31 00:00:00,3000.0,4500.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-06-06 00:00:00,3000.0,5000.0,4000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-06-08 00:00:00,3000.0,4500.0,3500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Large,2018-06-15 00:00:00,3000.0,4500.0,3500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-06-25 00:00:00,3000.0,4500.0,3500.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-07-05 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-07-09 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-07-11 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-07-31 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-08-08 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-08-22 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-09-08 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-09-10 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-09-26 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-09-28 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-11-29 00:00:00,1500.0,2500.0,2000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2018-12-17 00:00:00,2000.0,4000.0,3000.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,Medium,2024-10-01 00:00:00,500.0,1000.0,750.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-01-05 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-01-18 00:00:00,1000.0,1200.0,1150.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-02-13 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-02-18 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-02-20 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-02-26 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-03-04 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-03-05 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-03-14 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-03-15 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-03-16 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-03-19 00:00:00,1500.0,2000.0,1850.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-03-26 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-04-08 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-04-17 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-04-20 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-04-27 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-05-04 00:00:00,600.0,1200.0,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-05-14 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-05-27 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-06-06 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-07-20 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-08-27 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-08-29 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-09-03 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2013-12-11 00:00:00,1500.0,2000.0,1750.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-01-02 00:00:00,1200.0,1300.0,1250.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-01-18 00:00:00,1000.0,1200.0,1150.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-02-06 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-02-11 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-02-15 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-02-18 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-02-19 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-02-23 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-03-12 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-03-18 00:00:00,1500.0,2000.0,1850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-03-19 00:00:00,1500.0,2000.0,1850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-03-21 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-03-30 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-04-27 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-05-27 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-06-27 00:00:00,300.0,500.0,450.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-07-12 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-07-15 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-07-20 00:00:00,1000.0,1500.0,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-08-29 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-08-30 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-11-29 00:00:00,1500.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2013-12-06 00:00:00,1000.0,2000.0,1800.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2013-04-09 00:00:00,800.0,800.0,800.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2013-06-14 00:00:00,300.0,600.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2013-06-15 00:00:00,200.0,500.0,350.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2013-06-24 00:00:00,500.0,600.0,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2013-07-12 00:00:00,400.0,500.0,450.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2013-07-18 00:00:00,600.0,800.0,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2013-08-01 00:00:00,800.0,900.0,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2013-10-08 00:00:00,1100.0,1200.0,1150.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Small,2013-10-09 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-01-23 00:00:00,1400.0,1500.0,1450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-02-06 00:00:00,1400.0,1500.0,1450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-02-09 00:00:00,1300.0,1400.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-02-10 00:00:00,1300.0,1400.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-02-12 00:00:00,1200.0,1300.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-02-15 00:00:00,1200.0,1400.0,1300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-02-21 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-03-08 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-03-10 00:00:00,800.0,900.0,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-03-11 00:00:00,700.0,900.0,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-03-22 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-03-30 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-04-01 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-04-09 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-04-20 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-05-03 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-05-04 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-05-10 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-05-12 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-05-27 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-05-30 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-06-02 00:00:00,700.0,800.0,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-06-06 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-06-25 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-06-27 00:00:00,600.0,800.0,700.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-09 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-11 00:00:00,800.0,1000.0,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-17 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-19 00:00:00,1000.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-20 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-22 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-23 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-29 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-07-31 00:00:00,1000.0,1200.0,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-08-02 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-08-26 00:00:00,1200.0,1500.0,1350.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-09-19 00:00:00,1400.0,1600.0,1500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-10-03 00:00:00,1000.0,1500.0,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-11-19 00:00:00,1300.0,1500.0,1400.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2013-12-13 00:00:00,1200.0,1500.0,1400.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-01-20 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-01-29 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-02-12 00:00:00,800.0,1200.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-02-20 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-02-21 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-02-26 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-03-27 00:00:00,800.0,1100.0,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-04-04 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-04-07 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-04-09 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-04-21 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-04-23 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-04-26 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-04-28 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-05-08 00:00:00,800.0,1200.0,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-05-13 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-05-15 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-05-27 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-05-30 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-03 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-09 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-11 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-14 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-15 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-16 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-27 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-06-28 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-02 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-05 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-08 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-11 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-17 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-18 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-22 00:00:00,400.0,700.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-07-28 00:00:00,350.0,800.0,725.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-08-07 00:00:00,400.0,800.0,600.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-08-19 00:00:00,350.0,800.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-08-25 00:00:00,350.0,800.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-08-30 00:00:00,350.0,800.0,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-09-07 00:00:00,350.0,850.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-10-02 00:00:00,350.0,800.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-10-13 00:00:00,350.0,800.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-10-15 00:00:00,350.0,800.0,750.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-11-14 00:00:00,400.0,800.0,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-11-19 00:00:00,700.0,900.0,800.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2013-12-17 00:00:00,600.0,1000.0,800.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-01-05 00:00:00,800,1000,900.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-01-09 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-01-11 00:00:00,800,1000,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-02-06 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-02-13 00:00:00,800,1000,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-02-23 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-02-24 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-02-27 00:00:00,800,1000,950.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-03-09 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-03-12 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-03-17 00:00:00,900,1200,1100.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-03-20 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-03-28 00:00:00,1200,2000,1700.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-03-31 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-04-04 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-04-11 00:00:00,1500,2500,2000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-04-14 00:00:00,1000,2500,2000.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-04-20 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-04-25 00:00:00,1000,2000,1600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-04-27 00:00:00,1000,2000,1500.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-05-01 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-05-07 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-05-15 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-05-31 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-06-01 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-06-02 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-06-14 00:00:00,1000,2000,1600.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-06-15 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Medium,2012-06-28 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-07-13 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-07-31 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-08-01 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-08-08 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-08-21 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-10-04 00:00:00,1500,2000,1850.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-10-31 00:00:00,1500,2000,1850.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-12-03 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Water Melon,Other,Small,2012-12-15 00:00:00,1200,1500,1400.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-02-01 00:00:00,1200,2000,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-02-02 00:00:00,1200,2000,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-02-10 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-02-17 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-03-03 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-03-06 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-03-23 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-03-29 00:00:00,1200,2000,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-04-12 00:00:00,1500,2500,2000.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-04-24 00:00:00,1000,2000,1500.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-04-26 00:00:00,1000,2000,1500.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-04-28 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-05-03 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-05-08 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-05-24 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-06-09 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-06-14 00:00:00,1000,2000,1600.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Medium,2012-06-20 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-07-03 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-07-24 00:00:00,1500,2000,1800.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-07-25 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-07-26 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-07-27 00:00:00,1000,2000,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-07-28 00:00:00,1000,2000,1700.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-08-03 00:00:00,1000,1500,1350.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-09-01 00:00:00,1500,2000,1850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-09-21 00:00:00,1500,2000,1850.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-11-24 00:00:00,1000,1500,1300.0,73
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Water Melon,Other,Small,2012-12-06 00:00:00,1500,1800,1700.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-04-05 00:00:00,400,600,500.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-04-21 00:00:00,500,700,650.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-04-24 00:00:00,500,600,550.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-05-01 00:00:00,400,600,500.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-05-02 00:00:00,500,600,550.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-05-03 00:00:00,500,600,550.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-05-10 00:00:00,400,500,450.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-05-11 00:00:00,400,500,450.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-05-12 00:00:00,450,625,550.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-05-31 00:00:00,500,600,550.0,73
+Gujarat,Ahmedabad,Dholka,Water Melon,Water Melon,Medium,2012-06-02 00:00:00,500,650,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-02-03 00:00:00,800,1000,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-02-16 00:00:00,1000,1100,1050.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-03-06 00:00:00,700,800,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-03-10 00:00:00,800,900,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-03-12 00:00:00,800,1000,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-03-13 00:00:00,700,800,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-03-19 00:00:00,700,800,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-03-22 00:00:00,500,900,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-03-23 00:00:00,700,800,750.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-04-03 00:00:00,600,800,700.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-04-05 00:00:00,500,800,650.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-04-07 00:00:00,900,1000,950.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-04-12 00:00:00,800,1000,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-04-27 00:00:00,500,600,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-05-08 00:00:00,300,500,400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-05-19 00:00:00,350,600,475.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-05-22 00:00:00,300,500,400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-06-09 00:00:00,550,750,650.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-06-11 00:00:00,500,700,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-06-27 00:00:00,700,1000,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-07-24 00:00:00,900,1000,950.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-07-26 00:00:00,700,1000,850.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-07-27 00:00:00,500,700,600.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-07-31 00:00:00,800,1000,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-08-04 00:00:00,500,600,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-08-07 00:00:00,300,500,400.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-08-08 00:00:00,800,1200,1000.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-08-16 00:00:00,500,600,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-08-20 00:00:00,500,600,550.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-08-30 00:00:00,800,1000,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-10-04 00:00:00,800,1000,900.0,73
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Water Melon,Other,Medium,2012-11-01 00:00:00,500,1000,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-01-08 00:00:00,1000,1200,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-01-15 00:00:00,800,1000,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-03-08 00:00:00,700,800,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-03-10 00:00:00,700,900,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-03-16 00:00:00,700,1000,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-04-04 00:00:00,700,1000,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-04-07 00:00:00,800,1000,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-04-13 00:00:00,700,800,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-05-04 00:00:00,700,900,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-05-07 00:00:00,700,900,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-05-13 00:00:00,700,1000,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-05-14 00:00:00,700,1000,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-05-15 00:00:00,700,1000,850.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-05-26 00:00:00,700,800,750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-06-02 00:00:00,700,900,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-06-17 00:00:00,800,1000,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-06-19 00:00:00,900,1000,950.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-06-30 00:00:00,900,1000,950.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-07-04 00:00:00,900,1000,950.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-07-10 00:00:00,900,1000,950.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-07-13 00:00:00,900,1000,950.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-07-16 00:00:00,1000,1200,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-07-23 00:00:00,1200,1400,1300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-08-07 00:00:00,1500,2000,1750.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-08-09 00:00:00,1000,2000,1500.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-08-23 00:00:00,800,1000,900.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-08-29 00:00:00,500,700,600.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-09-29 00:00:00,600,1000,800.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-10-10 00:00:00,1000,1500,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-10-12 00:00:00,1000,1400,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-10-17 00:00:00,1000,1400,1200.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-10-20 00:00:00,800,1200,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-10-23 00:00:00,800,1200,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-10-30 00:00:00,800,1200,1000.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-10-31 00:00:00,1000,1200,1100.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-11-16 00:00:00,1400,1500,1450.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-12-12 00:00:00,1200,1300,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-12-19 00:00:00,1200,1300,1250.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-12-21 00:00:00,1200,1400,1300.0,73
+Gujarat,Bharuch,Bharuch,Water Melon,Other,Medium,2012-12-27 00:00:00,1300,1400,1350.0,73
+Gujarat,Surendranagar,Vadhvan,Water Melon,Water Melon,FAQ,2012-05-31 00:00:00,500,600,550.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-01-08 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-01-16 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-01-20 00:00:00,800,1000,900.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-01-21 00:00:00,800,1000,900.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-01-26 00:00:00,800,1200,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-02-14 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-02-16 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-02-22 00:00:00,800,1000,900.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-02-23 00:00:00,800,1000,900.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-02-29 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-03-02 00:00:00,750,1000,900.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-03-03 00:00:00,750,1000,900.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-03-22 00:00:00,800,1000,900.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-03-31 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-04-10 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-04-12 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-04-23 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-04-24 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-05-08 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-05-15 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-05-21 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-05-22 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-05-28 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-07-03 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-07-09 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-07-17 00:00:00,800,1200,1000.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-08-11 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-08-18 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-09-28 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-10-09 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-10-22 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-10-25 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-10-27 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-11-18 00:00:00,600,800,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-11-19 00:00:00,600,800,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-11-24 00:00:00,600,800,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-11-30 00:00:00,600,800,700.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-12-24 00:00:00,800,1200,1100.0,73
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Water Melon,Other,Medium,2012-12-25 00:00:00,800,1200,1100.0,73

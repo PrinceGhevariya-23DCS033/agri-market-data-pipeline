@@ -1500,64 +1500,490 @@ Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium
 Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-23 00:00:00,350.0,650.0,400.0,357
 Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-26 00:00:00,350.0,650.0,400.0,357
 Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-30 00:00:00,350.0,650.0,400.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-01 00:00:00,500,700,650.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-12 00:00:00,800,1500,1300.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-16 00:00:00,800,1200,1100.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-26 00:00:00,800,1000,950.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-02-06 00:00:00,800,1500,1250.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-10-26 00:00:00,800,1000,950.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-10-30 00:00:00,800,1000,950.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-11-02 00:00:00,800,1000,900.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-11-21 00:00:00,800,1500,1300.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-14 00:00:00,1000,1500,1300.0,357
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-31 00:00:00,400,650,550.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-01-21 00:00:00,600,1000,900.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-01-27 00:00:00,600,1000,900.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-01-28 00:00:00,600,1000,900.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-11-11 00:00:00,1000,1400,1300.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-11-24 00:00:00,1500,3000,2400.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-05 00:00:00,800,1200,1000.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-07 00:00:00,800,1200,1100.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-10 00:00:00,800,1200,1000.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-11 00:00:00,800,1200,1100.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-18 00:00:00,600,1000,900.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-21 00:00:00,600,700,650.0,357
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-29 00:00:00,500,700,650.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-03 00:00:00,600,700,650.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-08 00:00:00,700,800,750.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-10 00:00:00,600,700,650.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-21 00:00:00,500,600,550.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-28 00:00:00,500,600,550.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-31 00:00:00,500,600,550.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-07 00:00:00,700,800,750.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-04 00:00:00,700,1000,850.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-12 00:00:00,600,700,650.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-19 00:00:00,500,700,600.0,357
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-21 00:00:00,500,600,550.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-06 00:00:00,350,650,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-09 00:00:00,350,650,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-12 00:00:00,350,650,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-23 00:00:00,350,600,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-02 00:00:00,300,550,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-04 00:00:00,350,650,450.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-06 00:00:00,300,550,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-14 00:00:00,300,550,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-20 00:00:00,300,550,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-22 00:00:00,300,550,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-27 00:00:00,300,450,350.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-10-23 00:00:00,400,700,550.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-10-26 00:00:00,450,750,550.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-10-30 00:00:00,500,800,600.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-07 00:00:00,850,1050,950.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-12 00:00:00,600,800,700.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-14 00:00:00,550,800,700.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-15 00:00:00,600,800,700.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-22 00:00:00,350,450,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-25 00:00:00,300,450,400.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-30 00:00:00,300,450,375.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-14 00:00:00,500,850,625.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-16 00:00:00,500,850,625.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-17 00:00:00,500,850,625.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-25 00:00:00,350,650,500.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-29 00:00:00,250,450,300.0,357
-Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-30 00:00:00,250,450,300.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2025-11-30 00:00:00,3000.0,3500.0,3250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2025-12-01 00:00:00,1000.0,3500.0,2250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2025-12-04 00:00:00,2000.0,3000.0,2500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2025-12-23 00:00:00,2000.0,7500.0,4750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2025-12-24 00:00:00,1500.0,7000.0,4250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2025-12-12 00:00:00,3500.0,4250.0,3875.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2025-12-13 00:00:00,3500.0,4350.0,3925.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2025-12-15 00:00:00,4000.0,4500.0,4250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2025-12-19 00:00:00,4000.0,4800.0,4400.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-01-02 00:00:00,400.0,650.0,550.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-01-16 00:00:00,800.0,1200.0,1100.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-01-20 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-01-21 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-01-25 00:00:00,800.0,1000.0,950.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-01-29 00:00:00,600.0,800.0,750.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-01-30 00:00:00,600.0,800.0,750.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-02-13 00:00:00,800.0,1500.0,1200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-11-22 00:00:00,700.0,800.0,750.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-11-30 00:00:00,500.0,800.0,700.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-12-04 00:00:00,700.0,1000.0,900.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-12-07 00:00:00,500.0,700.0,650.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-12-08 00:00:00,800.0,1000.0,900.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-12-21 00:00:00,700.0,1000.0,900.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-12-23 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2010-12-25 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-01-04 00:00:00,400.0,700.0,600.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-01-13 00:00:00,800.0,1200.0,1100.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-01-21 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-01-29 00:00:00,600.0,800.0,750.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-01-30 00:00:00,600.0,800.0,750.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-11-08 00:00:00,1000.0,1200.0,1150.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-11-22 00:00:00,700.0,800.0,750.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-11-29 00:00:00,500.0,800.0,700.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-12-06 00:00:00,500.0,700.0,650.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-12-11 00:00:00,800.0,1000.0,950.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2010-12-13 00:00:00,600.0,700.0,650.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-05 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-09 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-13 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-16 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-20 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-28 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-06 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-16 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-18 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-26 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-03-02 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-03-06 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-11-10 00:00:00,1500.0,1700.0,1600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-11-15 00:00:00,600.0,800.0,700.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-11-18 00:00:00,500.0,800.0,650.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-03 00:00:00,300.0,500.0,400.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-20 00:00:00,600.0,800.0,700.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-21 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-31 00:00:00,700.0,900.0,800.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-06 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-07 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-21 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-27 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-01-29 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-09 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-14 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-23 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-02-26 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-03-03 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-11-15 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-11-24 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-15 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-19 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-22 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2010-12-27 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-03 00:00:00,500.0,700.0,650.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-13 00:00:00,800.0,1500.0,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-20 00:00:00,800.0,1000.0,950.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-01-23 00:00:00,800.0,1000.0,950.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-02-03 00:00:00,500.0,1000.0,850.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-02-05 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-02-28 00:00:00,800.0,1200.0,1100.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-10-28 00:00:00,1000.0,1200.0,1150.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-11-09 00:00:00,1000.0,1500.0,1350.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-11-14 00:00:00,1000.0,1200.0,1100.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-11-16 00:00:00,800.0,1000.0,950.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-11-24 00:00:00,1500.0,3000.0,2400.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-11-27 00:00:00,800.0,1200.0,1050.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-03 00:00:00,1000.0,1500.0,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-07 00:00:00,800.0,1200.0,1100.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-08 00:00:00,1000.0,1100.0,1050.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-09 00:00:00,900.0,1100.0,1000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-10 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-21 00:00:00,600.0,700.0,650.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2009-12-26 00:00:00,600.0,1000.0,900.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-01-13 00:00:00,800.0,1500.0,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-02-03 00:00:00,500.0,1000.0,850.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-10-30 00:00:00,800.0,1000.0,950.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-11-19 00:00:00,800.0,1500.0,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-11-20 00:00:00,800.0,1500.0,1200.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-11-21 00:00:00,800.0,1500.0,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-11-25 00:00:00,1700.0,3000.0,2500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-01 00:00:00,800.0,1200.0,1100.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-08 00:00:00,1000.0,1100.0,1050.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2009-12-31 00:00:00,400.0,650.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-12 00:00:00,600.0,700.0,650.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-17 00:00:00,600.0,650.0,625.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-20 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-27 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-10 00:00:00,600.0,800.0,700.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-19 00:00:00,1000.0,1100.0,1050.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-20 00:00:00,800.0,1000.0,900.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-23 00:00:00,1000.0,1200.0,1100.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-24 00:00:00,900.0,1000.0,950.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-02 00:00:00,800.0,900.0,850.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-08 00:00:00,800.0,900.0,850.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-10 00:00:00,600.0,700.0,650.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-14 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-16 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-22 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-25 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-29 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-30 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-31 00:00:00,500.0,700.0,600.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-03 00:00:00,350.0,650.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-14 00:00:00,350.0,650.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-20 00:00:00,350.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-24 00:00:00,350.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-25 00:00:00,350.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-01-30 00:00:00,300.0,550.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-07 00:00:00,300.0,550.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-19 00:00:00,300.0,550.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-02-23 00:00:00,300.0,550.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-08 00:00:00,500.0,800.0,600.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-17 00:00:00,750.0,1000.0,850.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-19 00:00:00,800.0,1300.0,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-24 00:00:00,350.0,450.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-11-26 00:00:00,300.0,450.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-01 00:00:00,300.0,500.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-04 00:00:00,350.0,800.0,550.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-05 00:00:00,350.0,800.0,550.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-07 00:00:00,250.0,500.0,450.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-15 00:00:00,500.0,850.0,625.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-21 00:00:00,350.0,650.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-24 00:00:00,450.0,1250.0,825.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2009-12-31 00:00:00,250.0,450.0,300.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-01-11 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-01-12 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-01-19 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-01-22 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-01-26 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-01-27 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-02-07 00:00:00,200.0,550.0,350.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-02-08 00:00:00,200.0,550.0,350.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-02-11 00:00:00,200.0,550.0,350.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-02-17 00:00:00,200.0,550.0,350.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-10-25 00:00:00,400.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-11-11 00:00:00,350.0,600.0,450.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-11-17 00:00:00,250.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-11-26 00:00:00,250.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-12-02 00:00:00,300.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-12-03 00:00:00,250.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-12-05 00:00:00,250.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-12-08 00:00:00,250.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-12-09 00:00:00,250.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-12-10 00:00:00,200.0,550.0,350.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2007-12-11 00:00:00,200.0,500.0,350.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2015-01-06 00:00:00,700.0,1000.0,900.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2015-02-04 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2015-12-05 00:00:00,1200.0,1800.0,1500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2015-12-18 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2015-12-21 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2015-12-24 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2015-12-26 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2015-01-30 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2015-02-06 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2015-02-24 00:00:00,1000.0,1500.0,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-14 00:00:00,1200.0,1800.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-19 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-24 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-30 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-09 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-10 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-13 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-21 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-02-07 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-02-21 00:00:00,900.0,1000.0,950.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-11-26 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-11-27 00:00:00,1500.0,1750.0,1625.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-10 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-29 00:00:00,1000.0,1250.0,1125.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-06 00:00:00,800.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-08 00:00:00,800.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-11 00:00:00,800.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-26 00:00:00,1400.0,2800.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-30 00:00:00,1400.0,2800.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-01-31 00:00:00,1400.0,2800.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-02-05 00:00:00,1400.0,2800.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-02-06 00:00:00,1000.0,2400.0,1800.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-02-08 00:00:00,1000.0,1400.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-02-15 00:00:00,1000.0,2400.0,1800.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-12 00:00:00,2000.0,5000.0,4000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-21 00:00:00,4000.0,6000.0,5000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2015-12-23 00:00:00,4000.0,6000.0,5000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-01-04 00:00:00,1000.0,3000.0,2500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-01-10 00:00:00,1000.0,2500.0,2000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-01-19 00:00:00,500.0,1500.0,1200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-01-21 00:00:00,500.0,1500.0,1200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-01-24 00:00:00,500.0,1500.0,1200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-02-13 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-02-16 00:00:00,500.0,1200.0,1000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2017-02-20 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-05 00:00:00,1000.0,2000.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-06 00:00:00,1000.0,2500.0,2000.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-20 00:00:00,500.0,2000.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-27 00:00:00,500.0,2000.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-30 00:00:00,500.0,2000.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-18 00:00:00,800.0,1200.0,1100.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-23 00:00:00,1000.0,1500.0,1300.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-04 00:00:00,1300.0,1400.0,1350.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-09 00:00:00,900.0,1000.0,950.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-19 00:00:00,400.0,500.0,450.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-01-24 00:00:00,3500.0,4500.0,4000.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-06 00:00:00,300.0,500.0,400.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-11 00:00:00,400.0,500.0,450.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-25 00:00:00,300.0,400.0,350.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-12-04 00:00:00,1400.0,1750.0,1575.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2017-12-28 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-01-22 00:00:00,500.0,2000.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-02-02 00:00:00,1000.0,2500.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-02-07 00:00:00,1000.0,2000.0,1500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-02-11 00:00:00,500.0,2000.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-02-15 00:00:00,500.0,2000.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-02-28 00:00:00,1500.0,1500.0,1500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-11-12 00:00:00,1750.0,2250.0,2000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-11-24 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-11-25 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-11-26 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-12-13 00:00:00,900.0,1550.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-12-19 00:00:00,1000.0,1300.0,1100.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-12-25 00:00:00,1000.0,2500.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-12-26 00:00:00,1300.0,3500.0,2400.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2017-12-29 00:00:00,1000.0,2500.0,1750.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-03 00:00:00,3000.0,5000.0,4000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-04 00:00:00,3000.0,5000.0,4000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-02-05 00:00:00,3000.0,5000.0,4000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-07 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-11 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-18 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-20 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-21 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-22 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-23 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-11-25 00:00:00,4000.0,5000.0,4500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-12-04 00:00:00,1500.0,2500.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-12-05 00:00:00,1500.0,2500.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-12-10 00:00:00,1500.0,2500.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2017-12-21 00:00:00,1500.0,2500.0,2000.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2018-01-02 00:00:00,1500.0,2100.0,1800.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2018-01-04 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2018-01-06 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-01-03 00:00:00,1500.0,3000.0,2250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-01-09 00:00:00,1200.0,2700.0,2000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-01-11 00:00:00,1200.0,2700.0,2000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-01-13 00:00:00,800.0,2500.0,1600.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-01-23 00:00:00,500.0,1500.0,1000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-01-25 00:00:00,500.0,2000.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-01-29 00:00:00,500.0,1700.0,1100.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-02-06 00:00:00,500.0,1500.0,1000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-02-12 00:00:00,500.0,1000.0,750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-02-23 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-11-12 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-11-15 00:00:00,2000.0,2750.0,2375.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-11-21 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-11-25 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2018-12-27 00:00:00,1500.0,3000.0,2250.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2008-02-07 00:00:00,400.0,500.0,450.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2008-02-18 00:00:00,400.0,600.0,550.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2008-02-22 00:00:00,600.0,800.0,750.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2008-02-11 00:00:00,400.0,600.0,550.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2008-02-13 00:00:00,400.0,600.0,550.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2008-02-23 00:00:00,500.0,800.0,700.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2008-02-26 00:00:00,500.0,800.0,700.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2008-02-27 00:00:00,600.0,800.0,750.0,357
+Gujarat,Banaskanth,Deesa,Ber(Zizyphus/Borehannu),Other,Medium,2008-01-17 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-01-21 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-02-08 00:00:00,400.0,600.0,500.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-03-01 00:00:00,400.0,500.0,450.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-03-03 00:00:00,400.0,600.0,500.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-03-04 00:00:00,400.0,600.0,500.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-11-20 00:00:00,1000.0,1200.0,1100.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-01 00:00:00,900.0,1000.0,950.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-13 00:00:00,500.0,700.0,600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-16 00:00:00,700.0,800.0,750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-20 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-23 00:00:00,500.0,600.0,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-26 00:00:00,600.0,700.0,650.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-30 00:00:00,500.0,550.0,525.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2008-01-13 00:00:00,250.0,600.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2008-01-21 00:00:00,200.0,500.0,350.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2008-01-22 00:00:00,200.0,500.0,350.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-08-19 00:00:00,350.0,550.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-11-01 00:00:00,600.0,850.0,700.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-11-12 00:00:00,600.0,800.0,750.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-11-13 00:00:00,600.0,800.0,750.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-11-28 00:00:00,600.0,800.0,750.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-07 00:00:00,400.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-12 00:00:00,350.0,650.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-13 00:00:00,350.0,650.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-15 00:00:00,350.0,650.0,400.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2008-12-22 00:00:00,350.0,650.0,400.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-01-06 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-01-12 00:00:00,1200.0,1800.0,1500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-01-19 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-01-25 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-01-28 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-02-02 00:00:00,600.0,800.0,700.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-02-11 00:00:00,700.0,1000.0,900.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-02-12 00:00:00,700.0,1000.0,900.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-12-02 00:00:00,2000.0,2500.0,2250.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-12-19 00:00:00,1500.0,2500.0,2000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-12-20 00:00:00,1000.0,3000.0,2200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Medium,2016-12-27 00:00:00,1000.0,2000.0,1700.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-08 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-11 00:00:00,1200.0,1700.0,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-16 00:00:00,1200.0,1500.0,1400.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-06 00:00:00,600.0,1000.0,800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-13 00:00:00,800.0,1000.0,900.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-22 00:00:00,600.0,1000.0,900.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-23 00:00:00,500.0,1000.0,800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-25 00:00:00,500.0,800.0,700.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-02 00:00:00,2000.0,2500.0,2250.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-05 00:00:00,2000.0,4000.0,3500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-15 00:00:00,1200.0,2000.0,1700.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-19 00:00:00,1500.0,2500.0,2000.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-21 00:00:00,800.0,1500.0,1200.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-01 00:00:00,1000.0,1100.0,1050.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-25 00:00:00,1500.0,1700.0,1600.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-29 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-30 00:00:00,850.0,1200.0,1025.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-02 00:00:00,800.0,1000.0,900.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-23 00:00:00,900.0,1000.0,950.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-24 00:00:00,900.0,1000.0,950.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-11-23 00:00:00,2300.0,2500.0,2400.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-03 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-09 00:00:00,800.0,1200.0,1000.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-19 00:00:00,500.0,700.0,600.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-03 00:00:00,3000.0,5000.0,4000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2016-01-26 00:00:00,2000.0,4000.0,3000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-15 00:00:00,2000.0,4000.0,3000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2016-02-21 00:00:00,2000.0,4000.0,3000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2016-08-04 00:00:00,3000.0,5000.0,4000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2016-12-08 00:00:00,3000.0,6000.0,5000.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-01-04 00:00:00,1500.0,2000.0,1800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-01-24 00:00:00,1500.0,2000.0,1800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-01-26 00:00:00,1500.0,2000.0,1800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-02-02 00:00:00,2000.0,3000.0,2600.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-02-04 00:00:00,2000.0,3000.0,2600.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-02-08 00:00:00,2000.0,2500.0,2300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-02-18 00:00:00,1500.0,2500.0,2050.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-11-26 00:00:00,2000.0,3000.0,2800.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2013-12-21 00:00:00,2000.0,3000.0,2800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2013-01-02 00:00:00,1000.0,1500.0,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2013-01-23 00:00:00,1500.0,2000.0,1800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2013-01-24 00:00:00,1500.0,2000.0,1800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2013-01-31 00:00:00,1500.0,2000.0,1800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2013-11-26 00:00:00,2000.0,3000.0,2800.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-17 00:00:00,360.0,380.0,370.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-23 00:00:00,260.0,390.0,325.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-30 00:00:00,240.0,300.0,270.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-31 00:00:00,240.0,300.0,270.0,357
+Gujarat,Bharuch,Ankleshwar,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2013-12-24 00:00:00,625.0,850.0,700.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-01-01 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-01-03 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-01-04 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-01-13 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-01-20 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-01-21 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-02-04 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-02-11 00:00:00,1000.0,1800.0,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-02-17 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-02-20 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-02-23 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-02-26 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-19 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-21 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-25 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2013-12-28 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2014-01-27 00:00:00,2000.0,2500.0,2300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2014-02-01 00:00:00,2000.0,2500.0,2300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2014-02-06 00:00:00,1500.0,3000.0,2500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2014-01-02 00:00:00,1500.0,2000.0,1800.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2014-01-18 00:00:00,2500.0,4000.0,3500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2014-02-14 00:00:00,2000.0,2500.0,2300.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-13 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-14 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-18 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-19 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-21 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-22 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-26 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-23 00:00:00,1200.0,1500.0,1350.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-24 00:00:00,1500.0,1600.0,1550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-30 00:00:00,1500.0,1600.0,1550.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-01-01 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-01-07 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-01-21 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-06 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-11 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-13 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-17 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-22 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-02-23 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-03-02 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-03-03 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-03-04 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-03-06 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-03-14 00:00:00,1000.0,1500.0,1200.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-11-02 00:00:00,4000.0,6000.0,5000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-11-29 00:00:00,800.0,1200.0,1100.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-04 00:00:00,1600.0,2600.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-06 00:00:00,1400.0,2400.0,2000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-10 00:00:00,1200.0,2200.0,1600.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-13 00:00:00,1200.0,2200.0,1600.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-18 00:00:00,1200.0,2200.0,1600.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-20 00:00:00,900.0,1600.0,1300.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2014-12-21 00:00:00,1000.0,2000.0,1500.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-01-19 00:00:00,1500,2500,2200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-01-21 00:00:00,1500,2500,2200.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-01-24 00:00:00,1000,2000,1700.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-02-05 00:00:00,900,1500,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-02-10 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-02-12 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-02-18 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-02-23 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-03-01 00:00:00,1000,1500,1350.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-10-19 00:00:00,800,1000,950.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-11-17 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Ber(Zizyphus/Borehannu),Other,Small,2011-12-20 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-01-01 00:00:00,900,1200,1100.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-01-10 00:00:00,800,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-01-13 00:00:00,1000,2000,1500.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-03 00:00:00,800,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-05 00:00:00,900,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-09 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-15 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-17 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-02-22 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-03-01 00:00:00,1000,1500,1350.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-11-19 00:00:00,800,1200,1100.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-11-21 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-11-25 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-05 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-20 00:00:00,1000,1500,1300.0,357
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Ber(Zizyphus/Borehannu),Other,Small,2011-12-28 00:00:00,1000,1500,1300.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-01 00:00:00,700,900,800.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-04 00:00:00,700,1000,850.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-27 00:00:00,800,1000,900.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-09 00:00:00,800,1000,900.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-19 00:00:00,800,1000,900.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-05 00:00:00,1600,1700,1650.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-14 00:00:00,1400,1500,1450.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-17 00:00:00,1200,1300,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-23 00:00:00,1100,1300,1200.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-29 00:00:00,1000,1300,1150.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-03 00:00:00,500,600,550.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-17 00:00:00,1000,1100,1050.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-19 00:00:00,800,1000,900.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-03 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-04 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-05 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-09 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-10 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-21 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-22 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-23 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-01-27 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-02 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-08 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-02-25 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-03-01 00:00:00,800,1200,1000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-16 00:00:00,1000,2000,1500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-22 00:00:00,3000,7000,6500.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-25 00:00:00,1000,2000,1800.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-11-28 00:00:00,3000,7000,6000.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-05 00:00:00,600,1000,850.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-06 00:00:00,600,1000,900.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-19 00:00:00,600,1000,800.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-22 00:00:00,600,1000,800.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-23 00:00:00,600,1000,800.0,357
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2011-12-24 00:00:00,600,1000,800.0,357
