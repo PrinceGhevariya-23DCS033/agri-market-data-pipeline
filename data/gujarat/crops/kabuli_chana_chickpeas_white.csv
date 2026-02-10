@@ -4045,19 +4045,421 @@ Gujarat,Porbandar,Porbandar APMC,Kabuli Chana(Chickpeas-White),Other,Local,2026-
 Gujarat,Porbandar,Porbandar APMC,Kabuli Chana(Chickpeas-White),Other,Local,2026-02-09 00:00:00,5675.0,5675.0,5675.0,362
 Gujarat,Junagarh,Junagadh APMC,Kabuli Chana(Chickpeas-White),White (whole),FAQ,2026-01-02 00:00:00,5000.0,5530.0,5250.0,362
 Gujarat,Junagarh,Junagadh APMC,Kabuli Chana(Chickpeas-White),White (whole),FAQ,2026-02-04 00:00:00,5000.0,5745.0,5500.0,362
-Gujarat,Jamnagar,Jam Jodhpur APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-01-08 00:00:00,5000.0,7500.0,6250.0,362
-Gujarat,Junagarh,Junagadh APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2026-01-15 00:00:00,5000.0,8900.0,5750.0,362
-Gujarat,Amreli,Rajula APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-01-15 00:00:00,4500.0,4500.0,4500.0,362
-Gujarat,Jamnagar,Jam Jodhpur APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-01-15 00:00:00,4500.0,7500.0,5500.0,362
-Gujarat,Jamnagar,Jam Jodhpur APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-01-22 00:00:00,4500.0,7500.0,5500.0,362
-Gujarat,Jamnagar,Jam Jodhpur APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-01-28 00:00:00,5000.0,7500.0,5500.0,362
-Gujarat,Junagarh,Junagadh APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2026-01-29 00:00:00,5500.0,8250.0,5750.0,362
-Gujarat,Amreli,Rajula APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-01-30 00:00:00,5825.0,5825.0,5825.0,362
-Gujarat,Jamnagar,Jam Jodhpur APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-02-04 00:00:00,3400.0,5250.0,4500.0,362
-Gujarat,Jamnagar,Jam Jodhpur APMC,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),Local,2026-02-07 00:00:00,4500.0,7500.0,5500.0,362
-Gujarat,Rajkot,Upleta APMC,Kabuli Chana(Chickpeas-White),Other,Local,2026-01-07 00:00:00,5650.0,5750.0,5700.0,362
-Gujarat,Rajkot,Upleta APMC,Kabuli Chana(Chickpeas-White),Other,Local,2026-01-22 00:00:00,5300.0,6050.0,6000.0,362
-Gujarat,Porbandar,Porbandar APMC,Kabuli Chana(Chickpeas-White),Other,Local,2026-01-24 00:00:00,5400.0,5500.0,5450.0,362
-Gujarat,Porbandar,Porbandar APMC,Kabuli Chana(Chickpeas-White),Other,Local,2026-02-09 00:00:00,5675.0,5675.0,5675.0,362
-Gujarat,Junagarh,Junagadh APMC,Kabuli Chana(Chickpeas-White),White (whole),FAQ,2026-01-02 00:00:00,5000.0,5530.0,5250.0,362
-Gujarat,Junagarh,Junagadh APMC,Kabuli Chana(Chickpeas-White),White (whole),FAQ,2026-02-04 00:00:00,5000.0,5745.0,5500.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-04-19 00:00:00,2100.0,2675.0,2550.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-04-24 00:00:00,2250.0,2625.0,2550.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-05-05 00:00:00,2550.0,2650.0,2600.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-05-13 00:00:00,2500.0,2600.0,2550.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-05-14 00:00:00,2500.0,2625.0,2580.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-05-22 00:00:00,2400.0,2550.0,2510.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-05-26 00:00:00,2350.0,2550.0,2500.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-06-20 00:00:00,2150.0,2290.0,2250.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-06-21 00:00:00,2005.0,2250.0,2200.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-06-28 00:00:00,2505.0,2605.0,2565.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-07-05 00:00:00,2250.0,2465.0,2350.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2014-07-21 00:00:00,2000.0,2700.0,2550.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2004-12-18 00:00:00,1185.0,1300.0,1250.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-03-12 00:00:00,1300.0,2150.0,2050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-03-16 00:00:00,2200.0,2235.0,2215.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-03-21 00:00:00,1415.0,2225.0,2050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-04-09 00:00:00,2075.0,2110.0,2100.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-05-02 00:00:00,1950.0,2075.0,2050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-05-06 00:00:00,1970.0,2000.0,1980.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-05-07 00:00:00,2050.0,2065.0,2060.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-05-12 00:00:00,1950.0,2055.0,2000.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-10-11 00:00:00,2750.0,3120.0,3050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2011-11-17 00:00:00,1500.0,3270.0,2550.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-02-01 00:00:00,3600.0,4135.0,3800.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-08 00:00:00,4400.0,4855.0,4600.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-09 00:00:00,4480.0,4760.0,4550.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-11 00:00:00,4550.0,4860.0,4750.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-04-07 00:00:00,4505.0,4900.0,4703.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-04-13 00:00:00,4575.0,4840.0,4708.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-04-19 00:00:00,5610.0,5685.0,5648.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-05-14 00:00:00,5275.0,5275.0,5275.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-05-17 00:00:00,5500.0,5500.0,5500.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-05-18 00:00:00,5625.0,5790.0,5708.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-05-20 00:00:00,5450.0,6000.0,5725.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-05-23 00:00:00,5680.0,5780.0,5730.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-05-26 00:00:00,5850.0,5860.0,5855.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-05-28 00:00:00,5580.0,5845.0,5713.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-06-02 00:00:00,5500.0,5800.0,5650.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-06-04 00:00:00,5500.0,5855.0,5678.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-06-11 00:00:00,6310.0,7005.0,6658.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-06-22 00:00:00,6760.0,7030.0,6895.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-06-24 00:00:00,6900.0,7005.0,6953.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-07-01 00:00:00,7555.0,7555.0,7555.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-07-04 00:00:00,6500.0,7350.0,6925.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-07-23 00:00:00,8080.0,8320.0,8200.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-08-06 00:00:00,8005.0,8005.0,8005.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-08-10 00:00:00,8075.0,8075.0,8075.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-08-16 00:00:00,8400.0,8400.0,8400.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-09-21 00:00:00,4000.0,4000.0,4000.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-10-01 00:00:00,9305.0,9700.0,9503.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-10-07 00:00:00,9875.0,9875.0,9875.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-10-10 00:00:00,8995.0,10345.0,9670.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-10-13 00:00:00,9950.0,10000.0,9975.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-10-14 00:00:00,9400.0,9600.0,9500.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-10-22 00:00:00,9265.0,11125.0,10195.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-10-25 00:00:00,11005.0,11005.0,11005.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-12-02 00:00:00,6125.0,6125.0,6125.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-12-24 00:00:00,7505.0,7505.0,7505.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-12-27 00:00:00,10860.0,10860.0,10860.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2016-12-30 00:00:00,5800.0,9625.0,7713.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-12 00:00:00,4900.0,5450.0,5175.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-13 00:00:00,5250.0,5650.0,5450.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-19 00:00:00,5575.0,6110.0,5843.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-23 00:00:00,5250.0,5700.0,5475.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-26 00:00:00,5250.0,5900.0,5575.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-07-20 00:00:00,7250.0,8675.0,7963.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-07-27 00:00:00,6750.0,8250.0,7500.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-07-30 00:00:00,6750.0,8250.0,7500.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-08-11 00:00:00,6750.0,7750.0,7250.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-09-03 00:00:00,4750.0,6875.0,5813.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-09-05 00:00:00,5250.0,6500.0,5875.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-09-12 00:00:00,6250.0,7500.0,6875.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-09-15 00:00:00,5500.0,8000.0,6750.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-09-22 00:00:00,6250.0,9760.0,8005.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-09-24 00:00:00,6500.0,9575.0,8039.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-09-29 00:00:00,7750.0,9975.0,8863.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-10-08 00:00:00,8750.0,10375.0,9563.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-11-24 00:00:00,11000.0,12250.0,11625.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-12-07 00:00:00,9050.0,11000.0,10025.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-12-16 00:00:00,8750.0,10625.0,9688.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-12-20 00:00:00,8500.0,10755.0,9628.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-01-16 00:00:00,4350.0,6500.0,5425.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-01-21 00:00:00,0.0,5900.0,5900.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-14 00:00:00,4775.0,7025.0,5900.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-10-08 00:00:00,0.0,5475.0,5475.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-10-13 00:00:00,0.0,9025.0,9025.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-03-11 00:00:00,4000.0,4650.0,4250.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-03-16 00:00:00,4100.0,4640.0,4250.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-07 00:00:00,4250.0,5500.0,5000.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-12 00:00:00,4500.0,5430.0,5000.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-13 00:00:00,4500.0,5460.0,5000.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-19 00:00:00,5000.0,5750.0,5200.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-20 00:00:00,5000.0,5700.0,5250.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-02 00:00:00,5000.0,5650.0,5250.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-03 00:00:00,5000.0,5750.0,5250.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-07 00:00:00,5000.0,6100.0,5500.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-10 00:00:00,5000.0,5690.0,5400.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-05-16 00:00:00,5000.0,6000.0,5500.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Other,FAQ,2016-06-10 00:00:00,6000.0,6765.0,6250.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Other,FAQ,2016-03-18 00:00:00,3750.0,4250.0,4050.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Other,FAQ,2016-03-27 00:00:00,3750.0,4250.0,4000.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Other,FAQ,2016-03-31 00:00:00,3500.0,4300.0,4200.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-12 00:00:00,3700.0,5040.0,4750.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-19 00:00:00,5000.0,5550.0,5300.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Other,FAQ,2016-04-28 00:00:00,4650.0,5800.0,5000.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Other,FAQ,2016-06-05 00:00:00,4650.0,5800.0,5500.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-08-17 00:00:00,0.0,4450.0,4450.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-08-21 00:00:00,4325.0,4400.0,4360.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-09-26 00:00:00,0.0,4450.0,4450.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-09-29 00:00:00,0.0,4125.0,4125.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-10-03 00:00:00,0.0,4440.0,4440.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-10-07 00:00:00,0.0,4125.0,4125.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-10-28 00:00:00,0.0,4800.0,4800.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-11-06 00:00:00,4500.0,4550.0,4525.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-11-24 00:00:00,4450.0,4650.0,4550.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-12-09 00:00:00,4350.0,4525.0,4435.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-12-10 00:00:00,4525.0,4550.0,4535.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-12-17 00:00:00,0.0,4250.0,4250.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2015-12-26 00:00:00,4350.0,6175.0,5260.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-01-11 00:00:00,2505.0,2925.0,2850.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-01-19 00:00:00,2905.0,3305.0,3250.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-02-16 00:00:00,2500.0,2700.0,2650.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-03-01 00:00:00,2650.0,3100.0,2850.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-03-05 00:00:00,3000.0,3210.0,3150.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-05-07 00:00:00,3850.0,3930.0,3900.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-05-09 00:00:00,3850.0,4015.0,3900.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-05-11 00:00:00,4150.0,4200.0,4175.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-05-12 00:00:00,3865.0,4090.0,4050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-05-17 00:00:00,3790.0,4080.0,3950.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-06-04 00:00:00,4000.0,4130.0,4100.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-06-18 00:00:00,3200.0,3875.0,3750.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-07-09 00:00:00,4275.0,4350.0,4300.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-09-27 00:00:00,1475.0,2975.0,2550.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-10-19 00:00:00,2875.0,3500.0,3400.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-11-28 00:00:00,3250.0,3750.0,3550.0,362
+Gujarat,Surat,Kosamba,Kabuli Chana(Chickpeas-White),Other,FAQ,2012-05-23 00:00:00,2500.0,3000.0,2750.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-01-05 00:00:00,3500.0,3525.0,3515.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-01-17 00:00:00,3000.0,3030.0,3015.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-01-29 00:00:00,3550.0,3730.0,3650.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-02-02 00:00:00,3200.0,3380.0,3300.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-02-06 00:00:00,2750.0,3155.0,3050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-02-23 00:00:00,2500.0,3340.0,3150.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-02-26 00:00:00,3105.0,3315.0,3250.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-02-28 00:00:00,3195.0,3210.0,3200.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-03-07 00:00:00,3150.0,3200.0,3170.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-03-12 00:00:00,2455.0,3190.0,3050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-03-21 00:00:00,3175.0,3305.0,3250.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-03-25 00:00:00,3155.0,3250.0,3225.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-04-04 00:00:00,3215.0,3275.0,3250.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2013-04-08 00:00:00,3195.0,3455.0,3400.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-09-29 00:00:00,1771.25,1771.25,1771.25,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-10-14 00:00:00,1825.0,2080.0,2000.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-10-21 00:00:00,1405.0,1405.0,1405.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-11-30 00:00:00,1775.0,2391.25,2160.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-12-08 00:00:00,1450.0,1917.5,1625.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-12-20 00:00:00,1831.25,1865.0,1861.25,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-12-21 00:00:00,1450.0,1825.0,1767.5,362
+Gujarat,Ahmedabad,Dhandhuka,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2005-09-09 00:00:00,1900.0,2000.0,1950.0,362
+Gujarat,Ahmedabad,Dhandhuka,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-03-24 00:00:00,1600.0,1700.0,1650.0,362
+Gujarat,Ahmedabad,Dhandhuka,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-09-30 00:00:00,1925.0,2025.0,1975.0,362
+Gujarat,Ahmedabad,Dhandhuka,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-10-06 00:00:00,1950.0,2050.0,2000.0,362
+Gujarat,Patan,Harij,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-10-01 00:00:00,315.0,404.0,360.0,362
+Gujarat,Patan,Harij,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-10-05 00:00:00,295.0,412.0,350.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-01-10 00:00:00,1240.0,1240.0,1240.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-01-20 00:00:00,1000.0,1490.0,1490.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-02-22 00:00:00,1090.0,1090.0,1090.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-03-10 00:00:00,1345.0,1390.0,1365.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-11-15 00:00:00,1855.0,1855.0,1855.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-11-17 00:00:00,1900.0,1900.0,1900.0,362
+Gujarat,Rajkot,Upleta,Kabuli Chana(Chickpeas-White),Other,FAQ,2005-03-24 00:00:00,1355.0,1355.0,1355.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-05-29 00:00:00,3050.0,3465.0,3258.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-06-19 00:00:00,3075.0,3200.0,3138.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-07-03 00:00:00,3225.0,3325.0,3275.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-07-06 00:00:00,3120.0,3280.0,3200.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-07-10 00:00:00,3100.0,3100.0,3100.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-07-16 00:00:00,4000.0,4000.0,4000.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-08-11 00:00:00,3750.0,3850.0,3800.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-08-13 00:00:00,3375.0,3850.0,3613.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-09-06 00:00:00,2405.0,3475.0,2940.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-09-11 00:00:00,3475.0,4055.0,3765.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-09-18 00:00:00,1500.0,1500.0,1500.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-09-28 00:00:00,3250.0,3560.0,3405.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-10-20 00:00:00,3155.0,3935.0,3545.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-11-14 00:00:00,3660.0,4005.0,3833.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-11-20 00:00:00,3950.0,3950.0,3950.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-12-01 00:00:00,3000.0,4550.0,3775.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-12-18 00:00:00,4005.0,4205.0,4105.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-12-22 00:00:00,3000.0,4000.0,3500.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2018-12-27 00:00:00,3655.0,4355.0,4005.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-01-02 00:00:00,3300.0,4265.0,3783.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-01-04 00:00:00,3540.0,3995.0,3768.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-01-15 00:00:00,3500.0,3500.0,3500.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-01-19 00:00:00,2930.0,3770.0,3350.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-01-25 00:00:00,3165.0,3510.0,3338.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-02-15 00:00:00,2995.0,3355.0,3175.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-02-21 00:00:00,3510.0,3700.0,3605.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-02-24 00:00:00,3255.0,3590.0,3423.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-03-05 00:00:00,3335.0,3650.0,3493.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-03-07 00:00:00,3330.0,3505.0,3418.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-03-08 00:00:00,3325.0,3505.0,3415.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-04-10 00:00:00,3250.0,3595.0,3423.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-04-18 00:00:00,3125.0,3350.0,3238.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-04-24 00:00:00,3200.0,3500.0,3350.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-04-26 00:00:00,3150.0,3535.0,3343.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-05-02 00:00:00,3000.0,3445.0,3223.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-05-08 00:00:00,2955.0,3300.0,3128.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-05-11 00:00:00,2625.0,3290.0,2958.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2018-05-23 00:00:00,2000.0,3295.0,2648.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-01-19 00:00:00,3425.0,3650.0,3538.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-01-22 00:00:00,3250.0,4025.0,3638.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-01-23 00:00:00,3250.0,3650.0,3450.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-01-29 00:00:00,3125.0,3700.0,3413.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-02-05 00:00:00,3450.0,3700.0,3575.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-02-21 00:00:00,3675.0,3920.0,3798.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-02-26 00:00:00,3450.0,3575.0,3513.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-02-27 00:00:00,3250.0,3400.0,3325.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-14 00:00:00,3375.0,3550.0,3463.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-15 00:00:00,3375.0,3575.0,3475.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-19 00:00:00,3350.0,3575.0,3463.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-04 00:00:00,3400.0,3750.0,3575.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-06 00:00:00,3400.0,3625.0,3513.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-07 00:00:00,3400.0,3625.0,3513.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-13 00:00:00,3350.0,3530.0,3440.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-18 00:00:00,3350.0,3575.0,3463.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-05-01 00:00:00,3300.0,3450.0,3375.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-05-02 00:00:00,3310.0,3455.0,3383.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-05-03 00:00:00,3300.0,3450.0,3375.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-05-10 00:00:00,3250.0,3450.0,3350.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-05-18 00:00:00,3300.0,3425.0,3363.0,362
+Gujarat,Amreli,Savarkundla,Kabuli Chana(Chickpeas-White),Other,FAQ,2018-01-05 00:00:00,3250.0,3950.0,3600.0,362
+Gujarat,Anand,Tarapur,Kabuli Chana(Chickpeas-White),Other,FAQ,2018-06-20 00:00:00,2500.0,3555.0,3014.0,362
+Gujarat,Anand,Tarapur,Kabuli Chana(Chickpeas-White),Other,FAQ,2018-06-22 00:00:00,3125.0,3555.0,3184.0,362
+Gujarat,Anand,Tarapur,Kabuli Chana(Chickpeas-White),Other,FAQ,2018-09-17 00:00:00,3510.0,3555.0,3510.0,362
+Gujarat,Anand,Tarapur,Kabuli Chana(Chickpeas-White),Other,FAQ,2018-12-03 00:00:00,3555.0,4205.0,4161.0,362
+Gujarat,Junagarh,Junagadh,Kabuli Chana(Chickpeas-White),White (whole),FAQ,2018-12-20 00:00:00,4000.0,4275.0,4150.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2018-02-27 00:00:00,0.0,5050.0,5050.0,362
+Gujarat,Porbandar,Porbandar,Kabuli Chana(Chickpeas-White),Other,FAQ,2018-06-22 00:00:00,0.0,5275.0,5275.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-02-14 00:00:00,3500.0,5255.0,4800.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-02-19 00:00:00,3000.0,4250.0,3550.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-03-15 00:00:00,3250.0,4525.0,3950.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-03-20 00:00:00,3250.0,4600.0,4100.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-03-23 00:00:00,3100.0,4475.0,3950.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-04-11 00:00:00,3250.0,4250.0,3900.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-04-24 00:00:00,3150.0,4400.0,3850.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-04-25 00:00:00,3150.0,4400.0,4110.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-04-26 00:00:00,3150.0,4400.0,4055.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-01 00:00:00,3000.0,4400.0,4020.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-04 00:00:00,3000.0,4400.0,4100.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-05 00:00:00,3000.0,4400.0,4280.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-07 00:00:00,3000.0,3960.0,3550.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-09 00:00:00,3000.0,4085.0,3700.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-14 00:00:00,3000.0,4005.0,3500.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-23 00:00:00,3000.0,4400.0,3600.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-26 00:00:00,2900.0,4400.0,3605.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-28 00:00:00,3000.0,4400.0,3835.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-05-29 00:00:00,3000.0,3750.0,3500.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-06-06 00:00:00,2750.0,4400.0,3795.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-06-09 00:00:00,2900.0,4400.0,3640.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-06-19 00:00:00,2750.0,4400.0,3900.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-06-21 00:00:00,2750.0,4400.0,4330.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-06-23 00:00:00,2750.0,4400.0,3725.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul  Extra bold,FAQ,2018-07-12 00:00:00,3250.0,4380.0,3950.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-06-05 00:00:00,2750.0,4400.0,3750.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-06-07 00:00:00,2750.0,4400.0,3755.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-08-02 00:00:00,3500.0,4535.0,4000.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-08-14 00:00:00,3250.0,4375.0,3850.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-09-07 00:00:00,2750.0,4175.0,3700.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-02-27 00:00:00,3500.0,3650.0,3550.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-09 00:00:00,3570.0,3750.0,3620.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-12 00:00:00,3550.0,3800.0,3650.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-14 00:00:00,3520.0,3750.0,3650.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-17 00:00:00,3500.0,3675.0,3550.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-21 00:00:00,3550.0,3675.0,3625.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-22 00:00:00,3505.0,3675.0,3620.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-28 00:00:00,3550.0,3655.0,3600.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-03-31 00:00:00,3500.0,3580.0,3550.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-07 00:00:00,3400.0,3575.0,3525.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-14 00:00:00,3250.0,3560.0,3450.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-19 00:00:00,3250.0,3550.0,3450.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-04-26 00:00:00,3400.0,3550.0,3450.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-05-15 00:00:00,3350.0,3750.0,3500.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2018-06-06 00:00:00,3250.0,3550.0,3450.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-01-07 00:00:00,3625.0,3625.0,3625.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-01-08 00:00:00,3500.0,3805.0,3653.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-01-23 00:00:00,2500.0,3775.0,3138.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-01-29 00:00:00,3755.0,4300.0,4028.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-02-02 00:00:00,4045.0,4380.0,4213.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-02-08 00:00:00,3500.0,4510.0,4005.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-02-12 00:00:00,3000.0,4255.0,3628.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-02-19 00:00:00,3500.0,4325.0,3913.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-03-12 00:00:00,3930.0,4540.0,4235.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-03-15 00:00:00,3500.0,4555.0,4028.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-03-19 00:00:00,3000.0,4430.0,3715.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-03-22 00:00:00,3355.0,4370.0,3863.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-04-12 00:00:00,3850.0,4900.0,4375.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-04-20 00:00:00,3500.0,4955.0,4228.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-06-02 00:00:00,3750.0,4675.0,4213.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-06-05 00:00:00,2755.0,4700.0,3728.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-06-21 00:00:00,3750.0,4700.0,4225.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-06-23 00:00:00,3000.0,4850.0,3925.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-08-04 00:00:00,2500.0,4625.0,3563.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-08-07 00:00:00,3000.0,4505.0,3753.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-08-11 00:00:00,4340.0,4655.0,4498.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-09-04 00:00:00,3500.0,4755.0,4128.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-04 00:00:00,3000.0,6000.0,4500.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-05 00:00:00,3000.0,5280.0,4140.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-07 00:00:00,3255.0,5325.0,4290.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-12 00:00:00,3750.0,6000.0,4875.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-14 00:00:00,3900.0,4255.0,4078.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-21 00:00:00,4000.0,4455.0,4228.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-29 00:00:00,3450.0,5000.0,4225.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-10-30 00:00:00,3000.0,5825.0,4413.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-11-01 00:00:00,2750.0,5755.0,4252.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-11-15 00:00:00,3000.0,5250.0,4125.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-11-17 00:00:00,3000.0,5000.0,4000.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-11-19 00:00:00,3125.0,4800.0,3963.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-11-20 00:00:00,5555.0,5555.0,5555.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-11-30 00:00:00,3675.0,4355.0,4015.0,362
+Gujarat,Amreli,Rajula,Kabuli Chana(Chickpeas-White),Kabul,FAQ,2021-12-22 00:00:00,3275.0,4255.0,3765.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-02 00:00:00,4100.0,4515.0,4350.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-15 00:00:00,4300.0,4550.0,4500.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-16 00:00:00,4400.0,4575.0,4520.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-17 00:00:00,4400.0,4560.0,4535.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-18 00:00:00,4200.0,4435.0,4400.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-23 00:00:00,4200.0,4500.0,4425.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-05 00:00:00,4200.0,4500.0,4450.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-08 00:00:00,4050.0,4700.0,4650.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-20 00:00:00,4750.0,5160.0,5050.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-05-31 00:00:00,4500.0,4750.0,4700.0,362
+Gujarat,Sabarkantha,Dhansura,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-12-18 00:00:00,3500.0,4500.0,4150.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-02 00:00:00,4000.0,4725.0,4363.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-16 00:00:00,4350.0,4800.0,4575.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-26 00:00:00,4250.0,4625.0,4438.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-08 00:00:00,4250.0,4800.0,4525.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-09 00:00:00,4250.0,4905.0,4578.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-15 00:00:00,4900.0,5275.0,5088.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-06-04 00:00:00,4650.0,4950.0,4800.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-06-05 00:00:00,4650.0,4930.0,4790.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-06-11 00:00:00,4500.0,4995.0,4748.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-06-19 00:00:00,4500.0,4850.0,4675.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-07-01 00:00:00,4000.0,5015.0,4510.0,362
+Gujarat,Sabarkantha,Modasa,Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-07-02 00:00:00,4000.0,4995.0,4500.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-03-18 00:00:00,4250.0,4650.0,4490.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-02 00:00:00,4250.0,4500.0,4380.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-13 00:00:00,4550.0,4800.0,4755.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-14 00:00:00,4650.0,4800.0,4774.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-20 00:00:00,4650.0,4900.0,4840.0,362
+Gujarat,Surat,Valod(Buhari),Kabuli Chana(Chickpeas-White),Kabul Small,FAQ,2021-04-21 00:00:00,4650.0,4825.0,4805.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-01-09 00:00:00,1675.0,1700.0,1685.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-01-12 00:00:00,1500.0,1861.25,1731.25,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-01-16 00:00:00,1605.0,1605.0,1605.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-01-24 00:00:00,1640.0,1640.0,1640.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-01-28 00:00:00,1120.0,1120.0,1120.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-02-17 00:00:00,1640.0,1750.0,1685.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-02-20 00:00:00,1395.0,1730.0,1715.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-03-07 00:00:00,1630.0,1785.0,1675.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-03-13 00:00:00,1715.0,1755.0,1725.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-03-21 00:00:00,1790.0,1870.0,1825.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-03-22 00:00:00,1870.0,2025.0,1890.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-03-24 00:00:00,1630.0,2030.0,2020.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-04-04 00:00:00,1905.0,2010.0,1950.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-05-06 00:00:00,2125.0,2125.0,2125.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-05-15 00:00:00,2285.0,2325.0,2305.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-05-23 00:00:00,2300.0,2315.0,2310.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-06-01 00:00:00,2240.0,2240.0,2240.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-06-07 00:00:00,1250.0,2310.0,2200.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-06-21 00:00:00,2155.0,2155.0,2155.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-06-30 00:00:00,2000.0,2000.0,2000.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-07-07 00:00:00,2200.0,2200.0,2200.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-07-13 00:00:00,2325.0,2325.0,2325.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-09-16 00:00:00,2350.0,2350.0,2350.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-09-22 00:00:00,2225.0,2435.0,2375.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-09-26 00:00:00,2000.0,3000.0,2850.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-09-29 00:00:00,3100.0,3180.0,3140.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-11-04 00:00:00,1500.0,3245.0,3050.0,362
+Gujarat,Ahmedabad,Bavla,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-12-11 00:00:00,2685.0,2760.0,2720.0,362
+Gujarat,Ahmedabad,Dhandhuka,Kabuli Chana(Chickpeas-White),Kabuli Chana(Chickpeas-white),FAQ,2006-07-28 00:00:00,2100.0,2200.0,2150.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-02-27 00:00:00,1500.0,1590.0,1590.0,362
+Gujarat,Rajkot,Jamkandorna,Kabuli Chana(Chickpeas-White),Other,FAQ,2006-11-11 00:00:00,2375.0,2375.0,2375.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-02-16 00:00:00,2025.0,2155.0,2110.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-03-10 00:00:00,2150.0,2260.0,2210.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-03-13 00:00:00,2210.0,2340.0,2290.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-03-24 00:00:00,2000.0,2330.0,2280.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-04-07 00:00:00,2025.0,2230.0,2210.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-04-16 00:00:00,2200.0,2225.0,2210.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-04-22 00:00:00,2095.0,2135.0,2120.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-05-05 00:00:00,1075.0,2160.0,1985.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2008-12-31 00:00:00,1700.0,1885.0,1850.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-01-22 00:00:00,1700.0,1915.0,1850.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-01-29 00:00:00,1800.0,1950.0,1875.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-02-02 00:00:00,2000.0,2095.0,2045.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-02-07 00:00:00,2000.0,2030.0,2010.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-03-04 00:00:00,1875.0,1975.0,1925.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-03-13 00:00:00,1750.0,1850.0,1820.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-03-18 00:00:00,1825.0,1910.0,1850.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-03-21 00:00:00,1800.0,1885.0,1850.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-03-23 00:00:00,1800.0,1860.0,1840.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-04-11 00:00:00,2005.0,2090.0,2050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-04-24 00:00:00,2090.0,2115.0,2100.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2009-09-22 00:00:00,2035.0,2050.0,2045.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-01-16 00:00:00,1950.0,2300.0,2150.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-01-25 00:00:00,1950.0,2200.0,2050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-01-30 00:00:00,1900.0,2025.0,2010.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-02-03 00:00:00,1930.0,1975.0,1950.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-02-19 00:00:00,1825.0,2050.0,1950.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-03-05 00:00:00,1930.0,2000.0,1950.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-03-12 00:00:00,1960.0,2000.0,1980.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-04-14 00:00:00,1900.0,2025.0,1950.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-04-17 00:00:00,1900.0,2105.0,2050.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-05-06 00:00:00,1900.0,1940.0,1920.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-05-07 00:00:00,1900.0,2050.0,2000.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-10-09 00:00:00,1500.0,2050.0,2000.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2010-10-12 00:00:00,1500.0,2000.0,1750.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2007-04-09 00:00:00,2075,2225,2205.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2007-04-16 00:00:00,2210,2260,2240.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2007-10-09 00:00:00,3350,3400,3360.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2007-12-19 00:00:00,1900,2105,2080.0,362
+Gujarat,Amreli,Babra,Kabuli Chana(Chickpeas-White),Other,FAQ,2007-12-28 00:00:00,1945,1975,1960.0,362

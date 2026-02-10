@@ -3370,41 +3370,619 @@ Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Pineapple,Other,Medium,2026-01-20 
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Pineapple,Other,Medium,2026-01-22 00:00:00,4500.0,5000.0,4750.0,21
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Pineapple,Other,Medium,2026-01-28 00:00:00,4000.0,5100.0,4550.0,21
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Pineapple,Other,Medium,2026-02-05 00:00:00,5000.0,6100.0,5550.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-10-18 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-10-27 00:00:00,3000,3500,3300.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-10-31 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-10 00:00:00,2800,3500,3200.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-12 00:00:00,3000,3500,3300.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-14 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-22 00:00:00,2500,3200,3000.0,21
-Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-12-11 00:00:00,3000,3200,3200.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-20 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-22 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-27 00:00:00,3000,3500,3300.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-28 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-11-20 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-11-25 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-11-28 00:00:00,2800,3200,3100.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-06 00:00:00,3000,3600,3500.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-10 00:00:00,3000,3500,3300.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-19 00:00:00,2800,3000,3000.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-20 00:00:00,2500,3000,2800.0,21
-Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-25 00:00:00,3000,3200,3100.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-02-19 00:00:00,4000,4500,4250.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-07-16 00:00:00,5000,5500,5250.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-07-17 00:00:00,5000,5500,5250.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-07-23 00:00:00,3500,4000,3750.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-11 00:00:00,3500,4500,4000.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-16 00:00:00,3000,4000,3500.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-20 00:00:00,3000,4000,3500.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-21 00:00:00,3000,4000,3500.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-23 00:00:00,3000,4000,3500.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-09-06 00:00:00,3000,4000,3500.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-09-15 00:00:00,3000,4000,3500.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-09-22 00:00:00,3500,4000,3750.0,21
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-12-30 00:00:00,2500,3500,3000.0,21
-Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-02-19 00:00:00,3000,4000,3500.0,21
-Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-07-16 00:00:00,3000,5000,4000.0,21
-Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-10-31 00:00:00,4000,5000,4500.0,21
-Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-11-28 00:00:00,4000,6000,5000.0,21
-Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-12-25 00:00:00,5000,7000,6000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-10-18 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-10-27 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-10-31 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-10 00:00:00,2800.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-12 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-14 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-11-22 00:00:00,2500.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2014-12-11 00:00:00,3000.0,3200.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-20 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-22 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-27 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-10-28 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-11-20 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-11-25 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-11-28 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-06 00:00:00,3000.0,3600.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-10 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-19 00:00:00,2800.0,3000.0,3000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-20 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2014-12-25 00:00:00,3000.0,3200.0,3100.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-02-19 00:00:00,4000.0,4500.0,4250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-07-16 00:00:00,5000.0,5500.0,5250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-07-17 00:00:00,5000.0,5500.0,5250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-07-23 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-11 00:00:00,3500.0,4500.0,4000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-16 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-20 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-21 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-08-23 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-09-06 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-09-15 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-09-22 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2014-12-30 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-02-19 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-07-16 00:00:00,3000.0,5000.0,4000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-10-31 00:00:00,4000.0,5000.0,4500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-11-28 00:00:00,4000.0,6000.0,5000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2014-12-25 00:00:00,5000.0,7000.0,6000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2011-02-09 00:00:00,2700.0,3000.0,2850.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2011-02-19 00:00:00,2700.0,3000.0,2850.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2011-06-18 00:00:00,140.0,160.0,150.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2011-06-30 00:00:00,120.0,140.0,130.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2011-11-05 00:00:00,130.0,150.0,140.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2011-08-22 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2010-01-05 00:00:00,2300.0,2600.0,2450.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2010-01-07 00:00:00,2300.0,2500.0,2400.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2010-03-12 00:00:00,2000.0,2300.0,2150.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2010-03-20 00:00:00,2200.0,2500.0,2350.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2010-05-28 00:00:00,2700.0,2800.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2010-06-07 00:00:00,2300.0,2600.0,2450.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2010-06-14 00:00:00,2500.0,2600.0,2550.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2010-04-22 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2010-08-16 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2010-10-02 00:00:00,1500.0,2000.0,1750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2010-11-30 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Junagarh,Junagadh,Pineapple,Other,Medium,2010-05-27 00:00:00,250.0,550.0,400.0,21
+Gujarat,Junagarh,Junagadh,Pineapple,Other,Medium,2010-06-01 00:00:00,400.0,600.0,500.0,21
+Gujarat,Junagarh,Junagadh,Pineapple,Other,Medium,2010-06-23 00:00:00,1750.0,2250.0,2000.0,21
+Gujarat,Junagarh,Junagadh,Pineapple,Other,Medium,2010-07-03 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Junagarh,Junagadh,Pineapple,Other,Medium,2010-08-26 00:00:00,1750.0,2750.0,2200.0,21
+Gujarat,Junagarh,Junagadh,Pineapple,Pine Apple,Medium,2010-05-06 00:00:00,240.0,430.0,335.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-06-18 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-07-08 00:00:00,3000.0,3400.0,3200.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-07-12 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-07-30 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-10-15 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-10-22 00:00:00,3500.0,3700.0,3600.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-10-25 00:00:00,3500.0,3700.0,3600.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2013-11-06 00:00:00,3500.0,3800.0,3650.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2013-03-14 00:00:00,600.0,700.0,650.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2013-04-20 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2013-12-14 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-02-14 00:00:00,1600.0,1700.0,1650.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-02-18 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-02-23 00:00:00,800.0,900.0,850.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-03-06 00:00:00,140.0,160.0,150.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-03-12 00:00:00,160.0,180.0,170.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-03-23 00:00:00,160.0,200.0,180.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-03-30 00:00:00,170.0,200.0,185.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-04-03 00:00:00,160.0,180.0,170.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-04-05 00:00:00,160.0,200.0,180.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-04-23 00:00:00,160.0,200.0,180.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-05-09 00:00:00,200.0,220.0,210.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-05-16 00:00:00,220.0,240.0,230.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-05-25 00:00:00,170.0,190.0,180.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-06-05 00:00:00,180.0,200.0,190.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-08-01 00:00:00,200.0,240.0,220.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-08-14 00:00:00,200.0,220.0,210.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2012-09-05 00:00:00,200.0,240.0,220.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2012-03-07 00:00:00,1000.0,1500.0,1250.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2012-05-01 00:00:00,1500.0,2000.0,1750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2012-08-09 00:00:00,5000.0,8000.0,6500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2012-08-13 00:00:00,4000.0,7000.0,5500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2012-12-18 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-02-13 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-02-20 00:00:00,800.0,1200.0,1000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-10-16 00:00:00,800.0,1000.0,900.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-10-24 00:00:00,800.0,1000.0,900.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-10-25 00:00:00,800.0,1000.0,900.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-11-07 00:00:00,800.0,1000.0,900.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-11-10 00:00:00,800.0,1000.0,900.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-11-19 00:00:00,700.0,800.0,750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2004-12-13 00:00:00,700.0,800.0,750.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-01-01 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-01-11 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-01-19 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-01-21 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-01-23 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-01-27 00:00:00,1500.0,2000.0,1800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-01-30 00:00:00,1500.0,2000.0,1800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-02-05 00:00:00,1800.0,2500.0,2200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-02-19 00:00:00,1800.0,2500.0,2200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-02-29 00:00:00,2200.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-03-10 00:00:00,2200.0,3000.0,2700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-03-15 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-03-18 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-03-28 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-04-05 00:00:00,2800.0,3000.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-04-07 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-04-21 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-04-23 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-05-10 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-05-19 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-05-23 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-06-01 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-06-06 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-06-17 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-06-20 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-06-21 00:00:00,1000.0,2000.0,1500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-07-02 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-07-08 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-07-18 00:00:00,1500.0,2000.0,1800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-07-21 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-07-23 00:00:00,1500.0,2000.0,1800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-08-05 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-08-20 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-08-27 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-08-31 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-09-03 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-09-10 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-09-16 00:00:00,2500.0,4000.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-09-22 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-09-27 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-09-28 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-10-18 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-10-20 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-11-09 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-11-11 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-11-12 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-11-18 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-11-22 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-05 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-08 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-09 00:00:00,2400.0,2800.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-10 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-16 00:00:00,2000.0,2300.0,2200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-19 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-26 00:00:00,1800.0,2000.0,1900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-27 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-29 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2016-12-30 00:00:00,2000.0,2400.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-01-02 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-01-06 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-01-12 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-01-20 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-01-26 00:00:00,1500.0,2000.0,1800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-01-28 00:00:00,1500.0,2200.0,1900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-02-06 00:00:00,1800.0,2500.0,2200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-02-10 00:00:00,1800.0,2500.0,2200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-02-22 00:00:00,2000.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-02-23 00:00:00,2000.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-02-25 00:00:00,2200.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-03-01 00:00:00,2200.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-03-08 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-03-11 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-03-15 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-03-26 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-03-28 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-04-23 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-04-26 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-04-27 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-04-30 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-05-09 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-05-19 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-05-21 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-05-23 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-05-28 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-06-20 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-06-24 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-07-02 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-07-08 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-08-24 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-09-01 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-09-03 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-09-10 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-09-24 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-09-26 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-09-28 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-10-04 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-10-17 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-10-19 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-10-20 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-11-02 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-11-08 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-11-09 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-11-10 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-11-12 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-02 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-07 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-08 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-10 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-13 00:00:00,2000.0,2400.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-14 00:00:00,1800.0,2200.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-29 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2016-12-31 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-01-18 00:00:00,2500.0,2700.0,2600.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-02-01 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-02-22 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-03-01 00:00:00,2000.0,2200.0,2100.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-03-28 00:00:00,2400.0,2500.0,2450.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-04-02 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-04-06 00:00:00,2300.0,2500.0,2400.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-04-23 00:00:00,2400.0,2500.0,2450.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-04-27 00:00:00,2300.0,2500.0,2400.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-05-03 00:00:00,2500.0,2700.0,2600.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-05-20 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-06-24 00:00:00,2800.0,3000.0,2900.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-06-28 00:00:00,2900.0,3000.0,2950.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-07-01 00:00:00,2500.0,2800.0,2650.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-07-05 00:00:00,2700.0,3000.0,2850.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-07-09 00:00:00,2500.0,2600.0,2550.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-07-16 00:00:00,2500.0,2600.0,2550.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-08-04 00:00:00,2500.0,2600.0,2550.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-08-31 00:00:00,2500.0,2600.0,2550.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-09-01 00:00:00,2500.0,2600.0,2550.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-09-09 00:00:00,2500.0,2600.0,2550.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-09-17 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-09-20 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Large,2016-09-22 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-10-12 00:00:00,2400.0,2700.0,2550.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-10-13 00:00:00,2300.0,2600.0,2450.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-10-18 00:00:00,2300.0,2500.0,2400.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-10-26 00:00:00,2300.0,3000.0,2650.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-10-27 00:00:00,2300.0,3000.0,2650.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-11-23 00:00:00,4000.0,4500.0,4250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-12-05 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-12-09 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-12-16 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2016-12-29 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2016-02-18 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2016-06-06 00:00:00,4000.0,6000.0,5000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2016-06-08 00:00:00,6000.0,8000.0,7000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2016-12-02 00:00:00,6000.0,8000.0,7000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2015-01-05 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2015-01-06 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2015-01-10 00:00:00,2200.0,2800.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2015-01-16 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2015-01-28 00:00:00,2200.0,2600.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2015-01-31 00:00:00,2200.0,2500.0,2400.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-02-16 00:00:00,2200.0,2800.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-02-23 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-02-24 00:00:00,2200.0,2800.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-02-25 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-02-28 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-04-08 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-04-09 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-04-13 00:00:00,2800.0,3000.0,2950.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-04-14 00:00:00,2800.0,3000.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-05-11 00:00:00,2800.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-05-12 00:00:00,2800.0,3500.0,3250.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-05-25 00:00:00,2500.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-06-08 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-06-18 00:00:00,2500.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-07-01 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-07-11 00:00:00,2200.0,3000.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-07-13 00:00:00,2800.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-08-01 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-08-17 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-08-24 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-08-28 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-09-08 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-09-11 00:00:00,2500.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-10-02 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-10-03 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-10-08 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-10-13 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-10-16 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-10-19 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-10-23 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-11-04 00:00:00,1500.0,2300.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-11-13 00:00:00,1500.0,2200.0,1900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-11-26 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-12-24 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2015-12-25 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2015-01-06 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2015-01-15 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2015-01-16 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2015-01-17 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2015-01-27 00:00:00,2200.0,2800.0,2600.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2015-01-28 00:00:00,2200.0,2600.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2015-01-30 00:00:00,2000.0,2400.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-02-18 00:00:00,2200.0,2600.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-02-24 00:00:00,2200.0,2800.0,2600.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-03-03 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-03-07 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-03-16 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-03-25 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-04-02 00:00:00,2800.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-04-11 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-04-13 00:00:00,2800.0,3000.0,2950.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-04-15 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-04-18 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-04-22 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-04-23 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-05-04 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-05-12 00:00:00,2800.0,3500.0,3250.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-06-01 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-06-24 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-07-27 00:00:00,1000.0,1500.0,1300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-07-28 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-08-04 00:00:00,2800.0,3200.0,3100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-08-07 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-08-20 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-08-22 00:00:00,2800.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-09-07 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-09-18 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-09-23 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-01 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-02 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-06 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-16 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-18 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-20 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-21 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-26 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-10-31 00:00:00,1800.0,2300.0,2100.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-11-03 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-11-07 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-11-20 00:00:00,1500.0,2000.0,1900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-11-22 00:00:00,1500.0,2300.0,1900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-11-24 00:00:00,1500.0,2300.0,1900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-11-26 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-11-30 00:00:00,1500.0,2200.0,1900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-12-02 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-12-03 00:00:00,1500.0,2200.0,1900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-12-08 00:00:00,1500.0,2300.0,1900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-12-09 00:00:00,1500.0,2300.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-12-19 00:00:00,1800.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-12-21 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2015-12-24 00:00:00,1500.0,2200.0,2000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-01-09 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-01-10 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-01-13 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-02-07 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-03-02 00:00:00,500.0,1000.0,750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-03-25 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-04-11 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-04-25 00:00:00,4000.0,5000.0,4500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-06 00:00:00,3500.0,3900.0,3700.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-09 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-14 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-19 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-20 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-22 00:00:00,3500.0,3900.0,3700.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-29 00:00:00,3500.0,3900.0,3700.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-05-30 00:00:00,3500.0,3700.0,3600.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-06-11 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-06-12 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-06-30 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-02 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-04 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-08 00:00:00,3500.0,3700.0,3600.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-10 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-13 00:00:00,700.0,800.0,750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-17 00:00:00,3500.0,3900.0,3700.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-24 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-07-31 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-08-10 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-08-11 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-08-12 00:00:00,3500.0,3900.0,3700.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-08-20 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-08-31 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-09-12 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-10-08 00:00:00,3500.0,3900.0,3700.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-10-14 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2015-11-03 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2015-02-03 00:00:00,4000.0,6000.0,5000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2015-02-07 00:00:00,4000.0,5000.0,4500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2015-02-08 00:00:00,3000.0,5000.0,4000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2015-06-27 00:00:00,3000.0,4500.0,4000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2015-07-01 00:00:00,4000.0,6000.0,5000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2015-11-04 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2003-09-29 00:00:00,700.0,800.0,750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2003-12-01 00:00:00,1000.0,1500.0,1250.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2003-12-30 00:00:00,800.0,1200.0,1000.0,21
+Gujarat,Ahmedabad,Ahmedabad,Pineapple,Other,Large,2002-01-21 00:00:00,130.0,180.0,160.0,21
+Gujarat,Ahmedabad,Ahmedabad,Pineapple,Other,Large,2002-04-10 00:00:00,180.0,220.0,210.0,21
+Gujarat,Ahmedabad,Ahmedabad,Pineapple,Other,Large,2002-06-26 00:00:00,120.0,180.0,160.0,21
+Gujarat,Ahmedabad,Ahmedabad,Pineapple,Other,Large,2002-07-26 00:00:00,160.0,200.0,190.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2005-08-23 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-09-15 00:00:00,1000.0,1100.0,1050.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-09-16 00:00:00,1000.0,1100.0,1050.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-10-09 00:00:00,1200.0,1300.0,1250.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-10-11 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-10-15 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2005-10-18 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-10-20 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-11-16 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2005-12-09 00:00:00,800.0,1000.0,900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-01-05 00:00:00,2400.0,2600.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-01-09 00:00:00,2500.0,2700.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-01-12 00:00:00,2200.0,2800.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-01-19 00:00:00,3200.0,3500.0,3400.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-01-25 00:00:00,2000.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-01-27 00:00:00,2000.0,2600.0,2400.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-01-28 00:00:00,2000.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-02-02 00:00:00,2500.0,3000.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-02-15 00:00:00,2800.0,3000.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-02-16 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-02-18 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-02-22 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-02-25 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-03-14 00:00:00,2200.0,2600.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-03-15 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-03-27 00:00:00,2000.0,3000.0,2600.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-03-28 00:00:00,2000.0,3000.0,2700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-04-07 00:00:00,2200.0,3000.0,2700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-04-15 00:00:00,2500.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-04-17 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-04-18 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-05-19 00:00:00,2000.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-05-30 00:00:00,2000.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-06-01 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-06-24 00:00:00,3000.0,4500.0,4000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-07-04 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-07-06 00:00:00,4000.0,4500.0,4300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-07-08 00:00:00,3500.0,4500.0,4200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-07-13 00:00:00,3000.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-07-26 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-08-03 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-08-05 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-08-08 00:00:00,3000.0,4000.0,3700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-08-16 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-08-18 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-08-29 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-09-07 00:00:00,2800.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-09-08 00:00:00,2800.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-09-20 00:00:00,2800.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-09-26 00:00:00,2400.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-09-27 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-09-28 00:00:00,2200.0,3500.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-10-03 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-10-13 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-10-23 00:00:00,2500.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-11-08 00:00:00,2200.0,3500.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-11-10 00:00:00,2200.0,3500.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-11-21 00:00:00,2800.0,3000.0,2900.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-11-27 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-11-29 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-11-30 00:00:00,2200.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-12-05 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-12-08 00:00:00,2600.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-12-16 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-12-18 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Medium,2017-12-30 00:00:00,2600.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-01-05 00:00:00,2400.0,2600.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-01-24 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-01-25 00:00:00,2000.0,2800.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-02-13 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-02-14 00:00:00,2000.0,3000.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-02-16 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-02-17 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-02-18 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-02-21 00:00:00,2700.0,3000.0,2900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-02-23 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-03-01 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-03-03 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-03-07 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-03-23 00:00:00,2200.0,2700.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-03-24 00:00:00,1800.0,2600.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-03-27 00:00:00,2000.0,3000.0,2600.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-03-31 00:00:00,1500.0,3000.0,2500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-04-04 00:00:00,2000.0,3000.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-04-10 00:00:00,2200.0,3000.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-04-11 00:00:00,2000.0,3000.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-04-12 00:00:00,2500.0,3200.0,3000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-05-09 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-05-15 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-05-16 00:00:00,2200.0,4500.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-05-23 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-05-24 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-05-27 00:00:00,2000.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-05-30 00:00:00,2000.0,3500.0,3000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-05 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-06 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-07 00:00:00,2500.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-09 00:00:00,2500.0,3700.0,3400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-15 00:00:00,3000.0,4500.0,4000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-21 00:00:00,2500.0,4500.0,4000.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-23 00:00:00,3000.0,4000.0,3700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-29 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-06-30 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-07-01 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-07-06 00:00:00,4000.0,4500.0,4300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-07-08 00:00:00,3500.0,4500.0,4200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-07-27 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-07-28 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-08-01 00:00:00,3000.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-08-05 00:00:00,2500.0,4000.0,3500.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-08-24 00:00:00,2500.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-09-19 00:00:00,2800.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-09-22 00:00:00,2400.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-09-23 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-09-29 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-10-06 00:00:00,2500.0,3500.0,3200.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-10-09 00:00:00,3200.0,3500.0,3400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-10-14 00:00:00,2700.0,3500.0,3400.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-10-27 00:00:00,2000.0,3500.0,2900.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-11-13 00:00:00,2500.0,3500.0,3300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-11-17 00:00:00,2000.0,2500.0,2300.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-11-22 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-11-29 00:00:00,2500.0,2800.0,2700.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-12-05 00:00:00,2500.0,3000.0,2800.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Medium,2017-12-13 00:00:00,2400.0,3000.0,2800.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-01-09 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-01-18 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-01-31 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-02-04 00:00:00,1000.0,1400.0,1200.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-02-08 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-02-18 00:00:00,1000.0,1500.0,1250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-02-21 00:00:00,2300.0,2500.0,2400.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-02-27 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-03-02 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-03-17 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-03-30 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-03-31 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-04-01 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-04-12 00:00:00,2000.0,3000.0,2500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-04-25 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-04-28 00:00:00,2700.0,3500.0,3100.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-05-05 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-05-13 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-05-17 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-06-01 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-06-09 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-06-26 00:00:00,2000.0,2500.0,2250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-07-03 00:00:00,5500.0,6000.0,5750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-07-12 00:00:00,4500.0,5000.0,4750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-07-17 00:00:00,1500.0,1750.0,1625.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-07-29 00:00:00,4000.0,5000.0,4500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-08-28 00:00:00,3500.0,4500.0,4000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-09-07 00:00:00,4000.0,5000.0,4500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-09-08 00:00:00,4000.0,5000.0,4500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-09-09 00:00:00,4000.0,5000.0,4500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-09-14 00:00:00,4500.0,5000.0,4750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-09-15 00:00:00,4500.0,5000.0,4750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-09-23 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-09-25 00:00:00,3500.0,4000.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-10-03 00:00:00,3500.0,4500.0,4000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-10-07 00:00:00,4000.0,4500.0,4250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-10-26 00:00:00,4000.0,4000.0,4000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-11-24 00:00:00,3000.0,4500.0,3750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-06 00:00:00,4000.0,4500.0,4250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-07 00:00:00,4000.0,4500.0,4250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-16 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-18 00:00:00,2900.0,3600.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-20 00:00:00,2500.0,3500.0,3000.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-22 00:00:00,2900.0,3600.0,3250.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-23 00:00:00,2900.0,3500.0,3200.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-26 00:00:00,2500.0,3000.0,2750.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2017-12-28 00:00:00,3000.0,3500.0,3250.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2006-01-30 00:00:00,800.0,1000.0,900.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2006-02-13 00:00:00,1000.0,1200.0,1100.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2006-10-10 00:00:00,1500.0,2000.0,1750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2006-10-11 00:00:00,1500.0,1750.0,1625.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2006-10-16 00:00:00,1250.0,1500.0,1375.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Large,2006-11-14 00:00:00,1000.0,1250.0,1125.0,21
+Gujarat,Gir Somnath,Una,Pineapple,Other,Medium,2006-10-23 00:00:00,1250.0,1250.0,1250.0,21
+Gujarat,Gir Somnath,Una,Pineapple,Other,Medium,2006-10-28 00:00:00,1250.0,1250.0,1250.0,21
+Gujarat,Gir Somnath,Una,Pineapple,Other,Medium,2006-10-30 00:00:00,1400.0,1400.0,1400.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-01-03 00:00:00,160,200,190.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-01-17 00:00:00,168,180,175.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-01-21 00:00:00,120,160,150.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-01-22 00:00:00,100,160,140.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-02-06 00:00:00,200,230,220.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-02-07 00:00:00,200,230,220.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-02-09 00:00:00,200,230,220.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-02-11 00:00:00,160,200,190.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-02-16 00:00:00,160,200,190.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-02-21 00:00:00,150,200,190.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-02-26 00:00:00,160,200,190.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-03-06 00:00:00,170,190,185.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-03-07 00:00:00,180,210,200.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-03-14 00:00:00,160,200,190.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-03-19 00:00:00,200,250,235.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-03-20 00:00:00,250,300,280.0,21
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Pineapple,Other,Small,2009-03-21 00:00:00,260,300,290.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2009-01-27 00:00:00,130,160,150.0,21
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Pineapple,Other,Small,2009-02-16 00:00:00,160,200,190.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-03-07 00:00:00,600,700,650.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-09-05 00:00:00,180,200,190.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-09-12 00:00:00,1000,1167,1084.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-09-18 00:00:00,2333,2667,2500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-09-19 00:00:00,2333,2667,2500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-09-21 00:00:00,2333,2667,2500.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-10-14 00:00:00,2300,2600,2450.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-11-24 00:00:00,2100,2300,2200.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-12-10 00:00:00,2000,2300,2150.0,21
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Pineapple,Other,Medium,2009-12-16 00:00:00,1700,2300,2000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2009-08-25 00:00:00,2000,3000,2500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2009-09-03 00:00:00,2000,3000,2500.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2009-09-04 00:00:00,2500,3000,2750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2009-09-05 00:00:00,2500,3500,3000.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2009-09-14 00:00:00,2500,3000,2750.0,21
+Gujarat,Bharuch,Bharuch,Pineapple,Other,Medium,2009-09-18 00:00:00,2000,3000,2500.0,21
+Gujarat,Rajkot,Gondal,Pineapple,Pine Apple,Medium,2009-02-26 00:00:00,1500,1500,1500.0,21
