@@ -5857,11 +5857,530 @@ Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-11-27 00:00:00,2255.0,14005.0
 Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-11-11 00:00:00,5000.0,15000.0,10050.0,132
 Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-11-12 00:00:00,10000.0,17500.0,14500.0,132
 Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-11-18 00:00:00,10000.0,16000.0,11000.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-06-04 00:00:00,13000,24500,22500.0,132
-Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-06-25 00:00:00,13000,24500,22500.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-06-05 00:00:00,3755,12505,9505.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-06-08 00:00:00,3755,12005,9255.0,132
-Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-06-11 00:00:00,4255,12005,9255.0,132
-Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-06-05 00:00:00,5000,13250,11550.0,132
-Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-06-12 00:00:00,5000,15000,12500.0,132
-Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-06-18 00:00:00,4500,10250,6500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-06-04 00:00:00,13000.0,24500.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-06-25 00:00:00,13000.0,24500.0,22500.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-06-05 00:00:00,3755.0,12505.0,9505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-06-08 00:00:00,3755.0,12005.0,9255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2024-06-11 00:00:00,4255.0,12005.0,9255.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-06-05 00:00:00,5000.0,13250.0,11550.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-06-12 00:00:00,5000.0,15000.0,12500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2024-06-18 00:00:00,4500.0,10250.0,6500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2024-09-13 00:00:00,12500.0,24500.0,19000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-01-27 00:00:00,12000.0,20000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-01-13 00:00:00,12000.0,20000.0,17500.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-01-21 00:00:00,2750.0,18025.0,11225.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-01-23 00:00:00,2750.0,18750.0,11225.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-01-04 00:00:00,4650.0,12200.0,11250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-01-11 00:00:00,4500.0,12500.0,10500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-01-13 00:00:00,5000.0,12750.0,10500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-01-22 00:00:00,5750.0,12500.0,9750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-01-30 00:00:00,4500.0,11500.0,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-02-01 00:00:00,12000.0,20000.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-02-12 00:00:00,12500.0,20000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-02-13 00:00:00,12500.0,20000.0,15000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-02-20 00:00:00,12500.0,20000.0,17500.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-02-03 00:00:00,1500.0,12625.0,8050.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-02-15 00:00:00,3000.0,12625.0,8550.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-02-05 00:00:00,4000.0,11000.0,9250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-02-14 00:00:00,4500.0,11125.0,8750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-02-22 00:00:00,4250.0,11075.0,8625.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-01-01 00:00:00,10500.0,20000.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-01-03 00:00:00,10500.0,20000.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-01-11 00:00:00,11000.0,20000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-03-08 00:00:00,11000.0,20000.0,16250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-03-10 00:00:00,11000.0,20000.0,16250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-03-15 00:00:00,11000.0,20000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-04-11 00:00:00,12000.0,21000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-05-30 00:00:00,11000.0,22500.0,19000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-10-10 00:00:00,13000.0,27500.0,25000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-12-12 00:00:00,15000.0,26000.0,20500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-12-16 00:00:00,15000.0,26000.0,20500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2022-12-31 00:00:00,15000.0,26000.0,25000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2022-01-29 00:00:00,5000.0,18275.0,11638.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2022-02-12 00:00:00,5000.0,17500.0,11000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2022-06-15 00:00:00,4255.0,10105.0,5255.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-01-01 00:00:00,7400.0,15000.0,13500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-01-11 00:00:00,4500.0,15750.0,12750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-01-24 00:00:00,4500.0,15500.0,13000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-01-28 00:00:00,4700.0,15250.0,12750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-02-03 00:00:00,6000.0,17400.0,13375.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-02-15 00:00:00,6000.0,15000.0,13250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-02-16 00:00:00,5750.0,15250.0,13125.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-02-17 00:00:00,5500.0,15000.0,13000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-02-18 00:00:00,5500.0,15500.0,13000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-02-21 00:00:00,6000.0,15250.0,12750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-02-28 00:00:00,5000.0,13750.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-03-10 00:00:00,5000.0,14500.0,13000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-03-11 00:00:00,5500.0,14250.0,12500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-03-14 00:00:00,6000.0,15000.0,12500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-04-04 00:00:00,6000.0,16000.0,13250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-04-07 00:00:00,5000.0,15250.0,12500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-04-18 00:00:00,5500.0,15250.0,12750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-03 00:00:00,4500.0,10500.0,10000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-04 00:00:00,4500.0,14500.0,11250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-05 00:00:00,5000.0,13500.0,11250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-07 00:00:00,5000.0,14000.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-13 00:00:00,5000.0,16500.0,12500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-16 00:00:00,4500.0,14500.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-18 00:00:00,4500.0,14000.0,11000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-19 00:00:00,5000.0,14500.0,10000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-21 00:00:00,5950.0,14900.0,7950.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-05-23 00:00:00,9000.0,12500.0,10500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-06-01 00:00:00,8500.0,16000.0,14000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-11-11 00:00:00,12500.0,32500.0,20000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-12-02 00:00:00,12500.0,26000.0,22500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-12-07 00:00:00,9000.0,21000.0,17500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-12-09 00:00:00,12500.0,22500.0,19750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-12-13 00:00:00,19000.0,22500.0,20250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2022-12-28 00:00:00,16000.0,21775.0,17750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-01-02 00:00:00,15000.0,26000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-01-17 00:00:00,15000.0,26000.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-02-04 00:00:00,14000.0,23000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-02-10 00:00:00,14000.0,23000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-02-14 00:00:00,14000.0,23000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-02-21 00:00:00,14000.0,23000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-03-04 00:00:00,14000.0,24000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-03-13 00:00:00,14000.0,24000.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-03-16 00:00:00,14000.0,24000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-05-01 00:00:00,15000.0,27500.0,25750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-05-03 00:00:00,15000.0,27500.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-06-05 00:00:00,15000.0,27000.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-06-19 00:00:00,15000.0,27000.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-07-18 00:00:00,15000.0,28000.0,26000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-07-26 00:00:00,15000.0,28000.0,26000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-07-27 00:00:00,15000.0,28000.0,26500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-08-17 00:00:00,15000.0,28000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-08-21 00:00:00,15000.0,28000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-08-31 00:00:00,15000.0,28000.0,26000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-10-05 00:00:00,15000.0,28000.0,25000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-10-23 00:00:00,15000.0,28000.0,27000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-12-05 00:00:00,20000.0,27000.0,26000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2023-12-11 00:00:00,20000.0,27000.0,26350.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2023-10-30 00:00:00,5000.0,19500.0,14350.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2023-11-01 00:00:00,6500.0,20150.0,14250.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2023-11-04 00:00:00,9500.0,21025.0,17225.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2023-11-30 00:00:00,12000.0,20500.0,17350.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2023-12-15 00:00:00,7550.0,19000.0,14250.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2023-12-19 00:00:00,7500.0,22000.0,15250.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2023-12-30 00:00:00,7500.0,18500.0,14250.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-04-20 00:00:00,9005.0,25005.0,19505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-04-25 00:00:00,9005.0,22005.0,18505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-05-13 00:00:00,9505.0,21505.0,17505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-05-16 00:00:00,9505.0,20505.0,16505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-05-20 00:00:00,8005.0,19505.0,14505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-05-25 00:00:00,9505.0,23505.0,19505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-06-03 00:00:00,7505.0,19505.0,15505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-06-07 00:00:00,7005.0,19005.0,15505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-11-01 00:00:00,5005.0,22005.0,17505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-11-18 00:00:00,7505.0,24505.0,18505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-11-22 00:00:00,5505.0,23005.0,17505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-12-01 00:00:00,7005.0,23505.0,18005.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-12-16 00:00:00,6505.0,24505.0,17505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-12-19 00:00:00,6005.0,22005.0,16505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-12-21 00:00:00,6505.0,22005.0,17005.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2023-12-28 00:00:00,6005.0,23005.0,18005.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-01-02 00:00:00,16000.0,22500.0,19625.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-01-06 00:00:00,14000.0,22500.0,19500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-01-31 00:00:00,8500.0,17000.0,15750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-02-01 00:00:00,10000.0,17000.0,15500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-02-07 00:00:00,12500.0,21500.0,16500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-02-11 00:00:00,10500.0,20200.0,16400.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-02-22 00:00:00,15500.0,20250.0,17750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-04-03 00:00:00,12500.0,30000.0,15000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-04-04 00:00:00,11500.0,29000.0,22500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-04-07 00:00:00,12000.0,30000.0,23500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-04-17 00:00:00,11000.0,23000.0,20750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-04-22 00:00:00,7500.0,22000.0,18000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-04-24 00:00:00,7500.0,21250.0,18000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-04-25 00:00:00,7000.0,21350.0,17000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-05-08 00:00:00,6500.0,21000.0,16500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-05-16 00:00:00,12500.0,21500.0,16500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-05-26 00:00:00,9000.0,20000.0,18500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-06-03 00:00:00,8500.0,17500.0,13500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-06-06 00:00:00,8500.0,18000.0,13500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-06-10 00:00:00,10000.0,23500.0,22500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-06-22 00:00:00,7500.0,21000.0,18500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-06-24 00:00:00,7500.0,22000.0,18500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-10-23 00:00:00,7500.0,19000.0,15000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-10-26 00:00:00,7500.0,22000.0,17500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-10-27 00:00:00,8000.0,23500.0,18500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-11-23 00:00:00,8500.0,19000.0,16250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-12-04 00:00:00,8250.0,20000.0,16500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-12-06 00:00:00,9000.0,20000.0,17000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-12-21 00:00:00,8000.0,19000.0,15000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2023-12-26 00:00:00,8000.0,18500.0,15500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-01-02 00:00:00,17500.0,21500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-01-07 00:00:00,17500.0,22500.0,21000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-01-09 00:00:00,17500.0,22500.0,20500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-01-16 00:00:00,11500.0,22500.0,20500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-01-17 00:00:00,11500.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-01-20 00:00:00,11500.0,22500.0,21000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-01-21 00:00:00,11500.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-02-04 00:00:00,12000.0,24000.0,21500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-02-05 00:00:00,12000.0,24000.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-02-14 00:00:00,12000.0,23750.0,22500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-02-22 00:00:00,12000.0,23750.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-02-27 00:00:00,12000.0,23500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-03-02 00:00:00,12000.0,23500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-03-07 00:00:00,8000.0,19000.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-05-02 00:00:00,13500.0,18500.0,16500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-05-07 00:00:00,14000.0,19000.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-05-11 00:00:00,15000.0,19250.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-05-19 00:00:00,15000.0,19250.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-05-27 00:00:00,15000.0,19000.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-06-11 00:00:00,11750.0,19750.0,17250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-10-03 00:00:00,15000.0,19500.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-10-16 00:00:00,15000.0,19500.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-10-21 00:00:00,15000.0,19500.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-11-02 00:00:00,15000.0,19500.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-11-06 00:00:00,15000.0,19500.0,18000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-11-10 00:00:00,17000.0,21000.0,19000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-11-11 00:00:00,15000.0,21000.0,19250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-11-19 00:00:00,15000.0,22000.0,19500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-12-12 00:00:00,15000.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-12-16 00:00:00,15000.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-12-24 00:00:00,15000.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2020-12-29 00:00:00,15000.0,22500.0,20000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2020-01-06 00:00:00,4000.0,16550.0,10275.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2020-05-26 00:00:00,10000.0,10750.0,10375.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2020-06-20 00:00:00,6000.0,8000.0,7000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-01-01 00:00:00,3755.0,16255.0,12755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-01-07 00:00:00,4505.0,17130.0,14255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-01-16 00:00:00,3630.0,15255.0,12755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-01-20 00:00:00,3630.0,13505.0,10255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-01-30 00:00:00,2755.0,13005.0,10755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-01-31 00:00:00,3250.0,12755.0,10505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-02-14 00:00:00,2555.0,12630.0,10755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-02-15 00:00:00,4380.0,12505.0,10500.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-02-26 00:00:00,2630.0,12505.0,10505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-03-03 00:00:00,2630.0,13130.0,10880.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-04-23 00:00:00,2755.0,11005.0,9255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-05-08 00:00:00,2755.0,13505.0,10505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2020-05-20 00:00:00,5505.0,18255.0,13255.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-01-10 00:00:00,2500.0,16000.0,9000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-01-15 00:00:00,4000.0,15000.0,10000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-01-21 00:00:00,4000.0,13225.0,9250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-01-25 00:00:00,5000.0,14000.0,10000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-02-03 00:00:00,4250.0,11500.0,9000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-02-04 00:00:00,4000.0,10500.0,9000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-02-08 00:00:00,5000.0,12000.0,7500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-03-04 00:00:00,5000.0,17000.0,9250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-03-06 00:00:00,5000.0,17500.0,8500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-03-09 00:00:00,9000.0,17525.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-05-08 00:00:00,9000.0,12500.0,11000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-05-16 00:00:00,5250.0,10000.0,8500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-05-29 00:00:00,14000.0,21000.0,17500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-12-10 00:00:00,7500.0,17500.0,11000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-12-21 00:00:00,7500.0,18255.0,13000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2020-12-22 00:00:00,10000.0,18300.0,14000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-01-05 00:00:00,15000.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-01-25 00:00:00,15000.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-01-27 00:00:00,15000.0,22500.0,20000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-02-09 00:00:00,15000.0,20000.0,19000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-03-23 00:00:00,15000.0,19000.0,18750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-03-30 00:00:00,15000.0,19000.0,18325.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-04-22 00:00:00,15000.0,19000.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-05-29 00:00:00,13000.0,18500.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-06-03 00:00:00,13000.0,18500.0,16500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-06-19 00:00:00,13000.0,19000.0,16000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-06-25 00:00:00,13000.0,18500.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-06-29 00:00:00,14000.0,19000.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-07-30 00:00:00,14000.0,18500.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-09-09 00:00:00,14250.0,18500.0,17750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-09-16 00:00:00,12000.0,18500.0,17250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-09-22 00:00:00,12000.0,18500.0,17375.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-09-28 00:00:00,12000.0,18500.0,17325.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-10-20 00:00:00,12000.0,18500.0,16500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-10-25 00:00:00,12000.0,18000.0,16500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-11-01 00:00:00,12000.0,18000.0,16000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-11-11 00:00:00,12000.0,18000.0,15000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-11-13 00:00:00,12000.0,18000.0,17000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-11-20 00:00:00,12000.0,18000.0,16500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-12-11 00:00:00,10000.0,17500.0,16000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-12-17 00:00:00,10500.0,17500.0,16000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2021-12-22 00:00:00,10500.0,19000.0,17000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2021-01-09 00:00:00,6500.0,16225.0,11363.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2021-02-15 00:00:00,7000.0,13000.0,10000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2021-03-12 00:00:00,7500.0,14500.0,11000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2021-03-20 00:00:00,8250.0,15525.0,11888.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2021-11-11 00:00:00,5625.0,11375.0,8500.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2021-01-06 00:00:00,4005.0,17755.0,13755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2021-01-09 00:00:00,4005.0,18005.0,13755.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2021-01-16 00:00:00,3755.0,16505.0,13255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2021-01-20 00:00:00,4255.0,16505.0,13505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2021-01-29 00:00:00,4755.0,16505.0,13505.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2021-02-01 00:00:00,4755.0,16005.0,13005.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2021-02-12 00:00:00,3755.0,14505.0,12255.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-01-11 00:00:00,7250.0,16050.0,12500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-01-15 00:00:00,7000.0,15500.0,13000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-01-18 00:00:00,14000.0,16000.0,15000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-01-20 00:00:00,9000.0,16750.0,11500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-01-28 00:00:00,7500.0,16250.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-02-01 00:00:00,8500.0,16000.0,13250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-02-06 00:00:00,9600.0,16250.0,13700.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-02-15 00:00:00,8500.0,15000.0,12750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-02-20 00:00:00,8500.0,13750.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-02-23 00:00:00,8000.0,13250.0,11500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-03-01 00:00:00,9000.0,14250.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-03-05 00:00:00,9000.0,14250.0,12000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-03-16 00:00:00,8500.0,14000.0,10750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-03-20 00:00:00,11000.0,15000.0,12750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-05-24 00:00:00,2000.0,11000.0,5250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-02 00:00:00,2500.0,7850.0,3575.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-03 00:00:00,1750.0,9000.0,5250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-05 00:00:00,1500.0,9025.0,4500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-10 00:00:00,1500.0,7500.0,3000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-11 00:00:00,1500.0,10500.0,3500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-19 00:00:00,1000.0,5500.0,3500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-22 00:00:00,1500.0,5000.0,4000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-06-24 00:00:00,2250.0,3850.0,2500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-11-12 00:00:00,2000.0,8500.0,5250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-11-20 00:00:00,3000.0,12000.0,7500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-11-23 00:00:00,9000.0,12000.0,10250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-11-25 00:00:00,5000.0,12500.0,9000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-11-30 00:00:00,6000.0,12500.0,9000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-12-11 00:00:00,9000.0,15500.0,10000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-12-13 00:00:00,6000.0,15000.0,9000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2021-12-31 00:00:00,7500.0,16450.0,13500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-03-01 00:00:00,12500.0,20000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-03-11 00:00:00,12500.0,20000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-03-17 00:00:00,12500.0,20000.0,17500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-03-18 00:00:00,12500.0,20000.0,17500.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-03-01 00:00:00,1750.0,24375.0,13063.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-03-04 00:00:00,2000.0,14975.0,8950.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-03-08 00:00:00,1500.0,13450.0,7650.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-03-10 00:00:00,4500.0,10000.0,7250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-03-17 00:00:00,4000.0,10000.0,8125.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-04-02 00:00:00,12500.0,17000.0,15625.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-04-14 00:00:00,12500.0,17500.0,15000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-04-30 00:00:00,12000.0,17500.0,15750.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-04-03 00:00:00,1975.0,17950.0,10150.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-04-09 00:00:00,1250.0,11550.0,7025.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-04-11 00:00:00,1250.0,8975.0,5250.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-04-16 00:00:00,2500.0,10900.0,6550.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-04-17 00:00:00,3000.0,6900.0,5525.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-04-07 00:00:00,4000.0,12000.0,9000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-04-11 00:00:00,3500.0,10000.0,8000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-04-17 00:00:00,4000.0,12000.0,7750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-04-18 00:00:00,4000.0,10500.0,6750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-04-30 00:00:00,5000.0,10100.0,6000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-05-01 00:00:00,12000.0,17500.0,15850.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-05-08 00:00:00,12000.0,17500.0,15000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-05-09 00:00:00,12000.0,17500.0,15000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-05-23 00:00:00,10500.0,17500.0,15000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-05-02 00:00:00,1650.0,7525.0,5150.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-05-05 00:00:00,2755.0,8650.0,3750.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-05-16 00:00:00,1000.0,7000.0,2250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-05-20 00:00:00,3700.0,7150.0,5500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-05-22 00:00:00,3750.0,10000.0,5250.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-05-30 00:00:00,3250.0,7000.0,4500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-08-11 00:00:00,11000.0,17500.0,15000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-06-06 00:00:00,11000.0,17500.0,15000.0,132
+Gujarat,Jamnagar,Jamnagar,Dry Chillies,1st Sort,FAQ,2025-06-13 00:00:00,2000.0,6500.0,4650.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-06-02 00:00:00,2000.0,8000.0,5000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Red,FAQ,2025-06-12 00:00:00,2200.0,5000.0,3350.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Dry Chillies,FAQ,2025-09-24 00:00:00,11500.0,17500.0,15500.0,132
+Gujarat,Dahod,Dahod APMC,Dry Chillies,Dry Chillies,FAQ,2025-11-03 00:00:00,11500.0,18500.0,15000.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2025-11-24 00:00:00,3255.0,21755.0,17255.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-11-19 00:00:00,2000.0,14500.0,12325.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-11-20 00:00:00,7000.0,20000.0,14635.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-11-24 00:00:00,4500.0,13350.0,11725.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-11-27 00:00:00,8500.0,10500.0,10500.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-11-15 00:00:00,2000.0,5875.0,5875.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-11-17 00:00:00,3750.0,10700.0,8150.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-11-10 00:00:00,6000.0,17500.0,10000.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-11-28 00:00:00,5000.0,19000.0,10500.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-11-29 00:00:00,5000.0,17425.0,13500.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2025-11-28 00:00:00,3255.0,20755.0,15005.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-02 00:00:00,3505.0,18755.0,14255.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-04 00:00:00,6450.0,18000.0,6950.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-06 00:00:00,7000.0,15500.0,11500.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-08 00:00:00,6500.0,16500.0,12700.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-09 00:00:00,3505.0,17755.0,13055.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-10 00:00:00,3505.0,18755.0,14005.0,132
+Gujarat,Dahod,Dahod APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-13 00:00:00,12000.0,19000.0,16000.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-23 00:00:00,11000.0,20000.0,17000.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-24 00:00:00,10500.0,19625.0,16500.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2025-12-26 00:00:00,5505.0,23005.0,17755.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-12-06 00:00:00,4500.0,18750.0,13525.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2025-12-26 00:00:00,4750.0,20000.0,14625.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-01 00:00:00,5005.0,26000.0,18500.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-09 00:00:00,7500.0,24000.0,20500.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-08 00:00:00,8500.0,20650.0,17125.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-12 00:00:00,5755.0,26255.0,18755.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-13 00:00:00,7005.0,30005.0,19505.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-12 00:00:00,4250.0,19005.0,17500.0,132
+Gujarat,Dahod,Dahod APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-15 00:00:00,14500.0,17500.0,15500.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-15 00:00:00,6005.0,27005.0,18755.0,132
+Gujarat,Dahod,Dahod APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-19 00:00:00,14500.0,19500.0,17375.0,132
+Gujarat,Dahod,Dahod APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-22 00:00:00,14500.0,19500.0,17500.0,132
+Gujarat,Rajkot,Jasdan APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-23 00:00:00,10000.0,14000.0,13500.0,132
+Gujarat,Rajkot,Jasdan APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-28 00:00:00,13500.0,13500.0,13500.0,132
+Gujarat,Rajkot,Jasdan APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-27 00:00:00,10000.0,10000.0,10000.0,132
+Gujarat,Rajkot,Gondal APMC,Dry Chillies,Dry Chillies,FAQ,2026-01-31 00:00:00,7255.0,37005.0,26255.0,132
+Gujarat,Rajkot,Jasdan APMC,Dry Chillies,Dry Chillies,FAQ,2026-02-04 00:00:00,10000.0,17300.0,16000.0,132
+Gujarat,Dahod,Dahod APMC,Dry Chillies,Dry Chillies,FAQ,2026-02-06 00:00:00,12000.0,22500.0,17500.0,132
+Gujarat,Rajkot,Rajkot APMC,Dry Chillies,Dry Chillies,FAQ,2026-02-09 00:00:00,17500.0,30000.0,29000.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2026-01-02 00:00:00,5500.0,21025.0,15325.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2026-01-06 00:00:00,4000.0,10330.0,9625.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2026-01-12 00:00:00,7000.0,26800.0,18235.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2026-01-15 00:00:00,7500.0,21000.0,15825.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2026-01-29 00:00:00,6000.0,30025.0,19680.0,132
+Gujarat,Jamnagar,Jamnagar APMC,Dry Chillies,Other,Local,2026-02-06 00:00:00,12000.0,32525.0,23225.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-03-01 00:00:00,2500.0,6500.0,4500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-03-07 00:00:00,2500.0,6500.0,4500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-03-15 00:00:00,3000.0,6500.0,4750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-05-18 00:00:00,4500.0,6500.0,5750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-08-01 00:00:00,4250.0,7000.0,6250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-08-22 00:00:00,4250.0,6875.0,6000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-10-23 00:00:00,3850.0,7300.0,5150.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-12-19 00:00:00,4500.0,7000.0,6250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2007-12-22 00:00:00,3700.0,6750.0,5550.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2007-02-26 00:00:00,3830.0,8480.0,6255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2007-03-03 00:00:00,1500.0,7880.0,6980.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2007-03-21 00:00:00,2380.0,8630.0,7380.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2007-04-23 00:00:00,2455.0,6980.0,6480.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2007-04-27 00:00:00,2205.0,7205.0,6230.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Bold 1,FAQ,2007-04-30 00:00:00,6030.0,6980.0,6230.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Single Patti,FAQ,2007-02-17 00:00:00,1000.0,5880.0,4750.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Single Patti,FAQ,2007-03-05 00:00:00,1500.0,7005.0,5905.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Single Patti,FAQ,2007-04-17 00:00:00,1500.0,7330.0,6555.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Single Patti,FAQ,2007-05-25 00:00:00,1985.0,7255.0,6505.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-03-07 00:00:00,4155.0,6555.0,5125.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-03-15 00:00:00,4055.0,7255.0,5750.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-03-20 00:00:00,4450.0,7025.0,5825.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-03-21 00:00:00,4125.0,6255.0,5760.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-04-03 00:00:00,3505.0,6755.0,5950.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-04-10 00:00:00,4125.0,6680.0,5930.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-04-11 00:00:00,4250.0,6780.0,5950.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-04-12 00:00:00,3350.0,6780.0,5950.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-04-16 00:00:00,3250.0,7255.0,6050.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-04-17 00:00:00,3755.0,7005.0,5800.0,132
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Dry Chillies,Other,FAQ,2007-04-24 00:00:00,3125.0,6775.0,5580.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-02-03 00:00:00,4300.0,5000.0,4800.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-02-10 00:00:00,2625.0,5850.0,4500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-02-24 00:00:00,4425.0,6610.0,5800.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-03-14 00:00:00,4000.0,6575.0,5550.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-03-15 00:00:00,3525.0,6000.0,4500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-03-17 00:00:00,4450.0,6175.0,5500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-03-24 00:00:00,5000.0,6350.0,6000.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-04-07 00:00:00,4500.0,6300.0,5500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-04-11 00:00:00,4550.0,6175.0,5500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-04-13 00:00:00,5750.0,7125.0,6500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-04-19 00:00:00,5500.0,7000.0,6500.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-05-14 00:00:00,3950.0,5625.0,5200.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-05-17 00:00:00,3800.0,5625.0,5100.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-05-25 00:00:00,3850.0,5625.0,5100.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-05-29 00:00:00,4375.0,5825.0,5100.0,132
+Gujarat,Rajkot,Rajkot,Dry Chillies,Dry Chillies,FAQ,2007-05-31 00:00:00,4275.0,5650.0,5100.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-01-16 00:00:00,2500.0,4500.0,3500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-04-10 00:00:00,3500.0,4500.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-04-18 00:00:00,3500.0,4500.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-04-23 00:00:00,3500.0,4500.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-04-24 00:00:00,3500.0,4500.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-04-28 00:00:00,3000.0,4000.0,3500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-05-12 00:00:00,2500.0,5000.0,3750.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-06-21 00:00:00,3000.0,5000.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-07-03 00:00:00,3000.0,5000.0,4000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-07-12 00:00:00,3000.0,4000.0,3500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-07-20 00:00:00,2300.0,3500.0,2900.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-07-25 00:00:00,2300.0,3500.0,2900.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-08-06 00:00:00,2500.0,4000.0,3250.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-08-16 00:00:00,2500.0,4000.0,3250.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-08-31 00:00:00,2500.0,4000.0,3250.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-09-06 00:00:00,2500.0,4000.0,3250.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-09-12 00:00:00,2500.0,4000.0,3250.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-09-19 00:00:00,2500.0,4000.0,3250.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-10-05 00:00:00,5000.0,5000.0,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-10-16 00:00:00,1500.0,3500.0,2500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-11-26 00:00:00,2500.0,4000.0,3200.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-11-29 00:00:00,2000.0,4500.0,3400.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-12-01 00:00:00,2500.0,4500.0,3800.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2007-12-08 00:00:00,2500.0,4500.0,3600.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-06 00:00:00,2000,13555,10055.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-10 00:00:00,1500,14255,12155.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-14 00:00:00,2505,13555,10405.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-20 00:00:00,1605,13605,11305.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-24 00:00:00,1505,14455,12405.0,132
+Gujarat,Rajkot,Jasdan,Dry Chillies,Other,FAQ,2013-03-18 00:00:00,1325,7000,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-01 00:00:00,3000,5000,5000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-08 00:00:00,6000,6500,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-18 00:00:00,4000,5500,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-29 00:00:00,4000,5500,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-01-31 00:00:00,4000,5500,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-04 00:00:00,4000,5500,5500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-16 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-02-19 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-04 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-06 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-18 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-19 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-20 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-03-26 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-04-24 00:00:00,5000,8000,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-05-11 00:00:00,5000,8000,8000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-05-28 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-06-10 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-06-12 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-07-29 00:00:00,5000,6000,6000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-08-08 00:00:00,6000,6500,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-08-15 00:00:00,6000,6500,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-08-30 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-09-28 00:00:00,3800,7500,7500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-10-14 00:00:00,6000,6500,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-10-26 00:00:00,6000,6500,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-11-14 00:00:00,6000,6500,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-11-15 00:00:00,6000,6500,6500.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-11-22 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-12-02 00:00:00,6000,7000,7000.0,132
+Gujarat,Vadodara(Baroda),Vadodara,Dry Chillies,Other,FAQ,2013-12-06 00:00:00,6000,7000,7000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-01-01 00:00:00,6000,10250,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-01-07 00:00:00,6000,9500,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-02 00:00:00,5500,9500,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-13 00:00:00,6000,9500,9125.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-14 00:00:00,6000,9500,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-16 00:00:00,6000,9500,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-02-22 00:00:00,6000,9500,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-04 00:00:00,6500,9250,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-05 00:00:00,6500,9250,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-21 00:00:00,6000,9000,8250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-22 00:00:00,6000,9250,8000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-03-29 00:00:00,6000,9250,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-03 00:00:00,6000,9250,8375.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-05 00:00:00,6500,9625,8375.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-06 00:00:00,6500,10000,8750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-08 00:00:00,6500,10000,8750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-09 00:00:00,6500,10000,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-13 00:00:00,6500,10000,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-17 00:00:00,6500,10000,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-20 00:00:00,6500,10000,8750.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-04-26 00:00:00,6500,10000,9250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-05-16 00:00:00,6500,10000,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-06-20 00:00:00,7000,11000,10250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-06-25 00:00:00,7000,11000,10250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-06-28 00:00:00,7000,11000,10250.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-07-09 00:00:00,7000,11000,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-07-16 00:00:00,7500,10500,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-08-02 00:00:00,7500,10500,10000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-09-24 00:00:00,7500,10500,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-09-27 00:00:00,7500,10500,9000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-01 00:00:00,8500,10750,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-18 00:00:00,7500,10500,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-10-25 00:00:00,7500,10500,9500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-11-22 00:00:00,5500,11000,8500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-12-03 00:00:00,6000,11500,10500.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-12-05 00:00:00,7000,12000,11000.0,132
+Gujarat,Dahod,Dahod,Dry Chillies,Other,FAQ,2013-12-10 00:00:00,7000,12000,10000.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-20 00:00:00,2755,15005,12205.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-21 00:00:00,2755,13455,11955.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-25 00:00:00,2755,14005,11705.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-02-28 00:00:00,2755,13405,12405.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-03-01 00:00:00,2755,13455,12455.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-03-07 00:00:00,2755,13805,11255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-03-08 00:00:00,2755,13955,12255.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-03-20 00:00:00,2905,13655,11955.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-03-22 00:00:00,2005,15005,12655.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-04-01 00:00:00,2750,15005,12155.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-04-04 00:00:00,2755,16105,13355.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-04-26 00:00:00,2505,13905,10405.0,132
+Gujarat,Rajkot,Gondal,Dry Chillies,Desi,FAQ,2013-05-01 00:00:00,2505,15455,12955.0,132

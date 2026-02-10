@@ -2037,10 +2037,48 @@ Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium
 Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-09 00:00:00,1000.0,1800.0,1500.0,357
 Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-12 00:00:00,1000.0,1800.0,1500.0,357
 Gujarat,Vadodara(Baroda),Vadodara(Navapura),Ber(Zizyphus/Borehannu),Other,Medium,2012-12-15 00:00:00,1000.0,1800.0,1500.0,357
-Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-11-18 00:00:00,300,700,500.0,357
-Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-04 00:00:00,300,700,500.0,357
-Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-20 00:00:00,300,700,500.0,357
-Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-21 00:00:00,300,700,500.0,357
-Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-23 00:00:00,300,700,500.0,357
-Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-28 00:00:00,300,700,500.0,357
-Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-29 00:00:00,300,700,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-11-18 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-04 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-20 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-21 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-23 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-28 00:00:00,300.0,700.0,500.0,357
+Gujarat,Vadodara(Baroda),Vadodara,Ber(Zizyphus/Borehannu),Other,Medium,2006-12-29 00:00:00,300.0,700.0,500.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2023-01-02 00:00:00,700.0,1700.0,1200.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2023-01-12 00:00:00,750.0,1800.0,1275.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2023-01-18 00:00:00,1500.0,1850.0,1675.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2023-12-18 00:00:00,2000.0,2850.0,2425.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2022-12-02 00:00:00,2000.0,2700.0,2350.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2022-12-03 00:00:00,2000.0,2750.0,2375.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2022-12-20 00:00:00,1500.0,2700.0,2100.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Ber(Zizyphus/Borehannu),Other,Medium,2022-12-22 00:00:00,1500.0,2700.0,2100.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2022-01-04 00:00:00,1500.0,3500.0,2500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2022-01-06 00:00:00,1000.0,4000.0,2500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2022-01-19 00:00:00,1000.0,2000.0,1500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-01-18 00:00:00,500.0,1500.0,1000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-01-26 00:00:00,500.0,1500.0,1000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-01-27 00:00:00,500.0,1500.0,1000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-01-28 00:00:00,500.0,2000.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-01-29 00:00:00,500.0,2000.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-02-18 00:00:00,1000.0,2000.0,1500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-11-28 00:00:00,2000.0,2500.0,2250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-11-30 00:00:00,2000.0,2500.0,2250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-12-08 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-12-09 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-12-21 00:00:00,1500.0,2200.0,1900.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-12-27 00:00:00,1500.0,2000.0,1750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,2019-12-31 00:00:00,1000.0,1500.0,1250.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2026-01-07 00:00:00,2500.0,4650.0,3575.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2026-01-16 00:00:00,2800.0,3400.0,3100.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2026-01-17 00:00:00,2750.0,3350.0,3050.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2026-01-19 00:00:00,3500.0,4000.0,3750.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2026-01-27 00:00:00,1500.0,2700.0,2100.0,357
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Ber(Zizyphus/Borehannu),Other,Medium,2026-02-02 00:00:00,1500.0,2650.0,2075.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-01-08 00:00:00,1500.0,5000.0,3250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-01-15 00:00:00,2000.0,5000.0,3500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-01-21 00:00:00,1000.0,5000.0,3000.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-01-16 00:00:00,3000.0,4000.0,3500.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-01-29 00:00:00,1500.0,4000.0,2750.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-02-04 00:00:00,500.0,4000.0,2250.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-02-03 00:00:00,400.0,4000.0,2200.0,357
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Local,2026-02-08 00:00:00,500.0,4000.0,2250.0,357

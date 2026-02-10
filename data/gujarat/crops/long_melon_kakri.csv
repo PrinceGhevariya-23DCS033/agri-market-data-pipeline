@@ -1996,22 +1996,100 @@ Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2007-02-07 00:00:00,1055.0,118
 Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2007-03-02 00:00:00,300.0,985.0,900.0,304
 Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2007-12-21 00:00:00,700.0,815.0,700.0,304
 Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2007-12-30 00:00:00,475.0,815.0,475.0,304
-Gujarat,Bharuch,Bharuch,Long Melon(Kakri),Other,FAQ,2006-02-03 00:00:00,400,500,450.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-14 00:00:00,300,400,350.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-20 00:00:00,250,400,300.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-22 00:00:00,250,400,375.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-24 00:00:00,250,450,400.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-25 00:00:00,400,600,500.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-06 00:00:00,200,500,400.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-07 00:00:00,250,450,400.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-09 00:00:00,300,500,400.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-10 00:00:00,300,450,400.0,304
-Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-14 00:00:00,350,600,500.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-01-24 00:00:00,200,345,345.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-01-27 00:00:00,0,725,725.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-02-09 00:00:00,650,815,815.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-02-21 00:00:00,650,700,700.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-02-22 00:00:00,200,500,500.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-11-03 00:00:00,500,805,500.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-11-25 00:00:00,350,805,805.0,304
-Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-12-25 00:00:00,0,1000,1000.0,304
+Gujarat,Bharuch,Bharuch,Long Melon(Kakri),Other,FAQ,2006-02-03 00:00:00,400.0,500.0,450.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-14 00:00:00,300.0,400.0,350.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-20 00:00:00,250.0,400.0,300.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-22 00:00:00,250.0,400.0,375.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-24 00:00:00,250.0,450.0,400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-11-25 00:00:00,400.0,600.0,500.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-06 00:00:00,200.0,500.0,400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-07 00:00:00,250.0,450.0,400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-09 00:00:00,300.0,500.0,400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-10 00:00:00,300.0,450.0,400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2006-12-14 00:00:00,350.0,600.0,500.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-01-24 00:00:00,200.0,345.0,345.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-01-27 00:00:00,0.0,725.0,725.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-02-09 00:00:00,650.0,815.0,815.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-02-21 00:00:00,650.0,700.0,700.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-02-22 00:00:00,200.0,500.0,500.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-11-03 00:00:00,500.0,805.0,500.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-11-25 00:00:00,350.0,805.0,805.0,304
+Gujarat,Surat,Bardoli,Long Melon(Kakri),Other,FAQ,2006-12-25 00:00:00,0.0,1000.0,1000.0,304
+Gujarat,Mehsana,Vijapur(veg),Long Melon(Kakri),Other,FAQ,2015-04-23 00:00:00,500.0,1550.0,1000.0,304
+Gujarat,Mehsana,Vijapur(veg),Long Melon(Kakri),Other,FAQ,2015-05-30 00:00:00,300.0,1455.0,750.0,304
+Gujarat,Mehsana,Vijapur(veg),Long Melon(Kakri),Other,FAQ,2015-08-31 00:00:00,250.0,1105.0,750.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-01-06 00:00:00,1200.0,2000.0,1600.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-01-11 00:00:00,1200.0,2000.0,1600.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-01-17 00:00:00,1600.0,2500.0,2100.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-01-18 00:00:00,1200.0,1600.0,1400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-01-19 00:00:00,1200.0,1600.0,1400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-01-24 00:00:00,1500.0,2500.0,2000.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-02-10 00:00:00,2000.0,3000.0,2500.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-12-03 00:00:00,1200.0,1500.0,1400.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-12-12 00:00:00,1500.0,2000.0,1800.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-12-26 00:00:00,1800.0,2250.0,2000.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-12-29 00:00:00,1500.0,2000.0,1800.0,304
+Gujarat,Navsari,Bilimora,Long Melon(Kakri),Other,FAQ,2015-12-31 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2015-03-08 00:00:00,2000.0,2700.0,2500.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2015-05-01 00:00:00,250.0,750.0,750.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2015-05-03 00:00:00,250.0,800.0,750.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2015-12-17 00:00:00,0.0,500.0,500.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-05-20 00:00:00,500.0,750.0,625.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-07-01 00:00:00,1000.0,2000.0,1500.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-07-04 00:00:00,500.0,1000.0,750.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-07-08 00:00:00,700.0,1100.0,900.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-07-11 00:00:00,1000.0,1400.0,1200.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-07-14 00:00:00,1200.0,2000.0,1600.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-08-05 00:00:00,1400.0,2000.0,1700.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-08-12 00:00:00,1900.0,2300.0,2100.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-08-20 00:00:00,1800.0,2400.0,2100.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-09-02 00:00:00,550.0,700.0,625.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-09-04 00:00:00,600.0,1100.0,850.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-09-10 00:00:00,1000.0,1500.0,1250.0,304
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Long Melon(Kakri),Other,FAQ,2019-09-27 00:00:00,1500.0,2000.0,1750.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2019-08-27 00:00:00,1000.0,1500.0,1500.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2019-09-19 00:00:00,300.0,400.0,400.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2019-11-03 00:00:00,1000.0,1600.0,1600.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2019-11-21 00:00:00,1000.0,2000.0,1350.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2019-11-22 00:00:00,950.0,1500.0,1250.0,304
+Gujarat,Surat,Bardoli(Katod),Long Melon(Kakri),Other,FAQ,2019-11-25 00:00:00,950.0,1500.0,1500.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-11-10 00:00:00,2500.0,3000.0,2750.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-14 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-15 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-18 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-16 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-21 00:00:00,3000.0,3500.0,3200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-25 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-28 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-11-29 00:00:00,1250.0,1500.0,1400.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-04 00:00:00,2000.0,2500.0,2250.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-06 00:00:00,2000.0,2500.0,2250.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-11 00:00:00,1500.0,2000.0,1750.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-15 00:00:00,1500.0,2000.0,1750.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-16 00:00:00,2000.0,2500.0,2250.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-18 00:00:00,2000.0,2500.0,2250.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-23 00:00:00,1500.0,2500.0,2000.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2025-12-26 00:00:00,1500.0,2500.0,2000.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-12-08 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-12-13 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-12-18 00:00:00,1500.0,2000.0,1800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-12-21 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2025-12-29 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-01-05 00:00:00,2500.0,3000.0,2750.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-01-08 00:00:00,2500.0,3000.0,2750.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-01-10 00:00:00,1500.0,2000.0,1750.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-01-20 00:00:00,2500.0,3000.0,2750.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-01-17 00:00:00,2500.0,3000.0,2750.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-01-26 00:00:00,1750.0,2000.0,1875.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-01-27 00:00:00,2000.0,2750.0,2375.0,304
+Gujarat,Navsari,Navsari APMC,Long Melon(Kakri),Long Melon (Kakri),Local,2026-02-04 00:00:00,1750.0,2000.0,1875.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-01-06 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-01-20 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-01-19 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-01-22 00:00:00,2500.0,3000.0,2800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-01-29 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-01-28 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-01-31 00:00:00,2000.0,2500.0,2200.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-02-06 00:00:00,1500.0,2000.0,1800.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-02-09 00:00:00,1500.0,1750.0,1700.0,304
+Gujarat,Navsari,Bilimora APMC,Long Melon(Kakri),Other,FAQ,2026-02-08 00:00:00,1500.0,1750.0,1700.0,304

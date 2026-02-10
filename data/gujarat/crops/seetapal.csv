@@ -1256,9 +1256,119 @@ Gujarat,Vadodara(Baroda),Vadodara,Seetapal,Other,Medium,2006-11-18 00:00:00,400.
 Gujarat,Vadodara(Baroda),Vadodara,Seetapal,Other,Medium,2006-11-21 00:00:00,400.0,1450.0,1000.0,201
 Gujarat,Vadodara(Baroda),Vadodara,Seetapal,Other,Medium,2006-11-23 00:00:00,400.0,1450.0,1000.0,201
 Gujarat,Vadodara(Baroda),Vadodara,Seetapal,Other,Medium,2006-12-04 00:00:00,2000.0,3000.0,2800.0,201
-Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-29 00:00:00,2000,5000,3500.0,201
-Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-24 00:00:00,2000,4000,3000.0,201
-Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-25 00:00:00,2000,5000,3500.0,201
-Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-21 00:00:00,2000,4000,3000.0,201
-Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-31 00:00:00,2000,5000,3500.0,201
-Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-26 00:00:00,2000,5000,3500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-29 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-24 00:00:00,2000.0,4000.0,3000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-25 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-21 00:00:00,2000.0,4000.0,3000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-31 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2024-10-26 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-07-29 00:00:00,1500.0,3000.0,2250.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-10-12 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-10-17 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-10-26 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-10-27 00:00:00,2000.0,6000.0,4000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-11-08 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-11-09 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-11-11 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2023-12-02 00:00:00,2000.0,4000.0,3000.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2018-10-03 00:00:00,3000.0,5000.0,4000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-10-26 00:00:00,1500.0,4500.0,3000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-10-31 00:00:00,1000.0,4500.0,2750.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-11-13 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-11-22 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-11-23 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-11-27 00:00:00,2000.0,4000.0,3000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2018-12-01 00:00:00,1000.0,2500.0,1750.0,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Medium,2019-10-25 00:00:00,2500.0,7000.0,5000.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-10-18 00:00:00,1800.0,2250.0,2000.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-10-21 00:00:00,1500.0,2200.0,2000.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-10-23 00:00:00,1500.0,2200.0,2000.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-01 00:00:00,1000.0,1500.0,1300.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-09 00:00:00,1300.0,1600.0,1400.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-11 00:00:00,1300.0,1650.0,1400.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-14 00:00:00,1200.0,1500.0,1400.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-15 00:00:00,1200.0,1600.0,1400.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-16 00:00:00,1200.0,1600.0,1400.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-19 00:00:00,1300.0,1600.0,1500.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2019-11-22 00:00:00,1200.0,1500.0,1400.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-10-09 00:00:00,3000.0,7000.0,5000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-10-11 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-10-15 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-10-21 00:00:00,3000.0,5000.0,4000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-10-22 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-11-04 00:00:00,1500.0,3500.0,2500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-11-05 00:00:00,1500.0,3500.0,2500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-11-20 00:00:00,1500.0,6500.0,4000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-11-22 00:00:00,1500.0,5000.0,3250.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-11-25 00:00:00,1500.0,5000.0,3250.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2019-11-29 00:00:00,1500.0,5000.0,3250.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-10-13 00:00:00,3000.0,4000.0,3500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-10-17 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-10-20 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-10-22 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-11-01 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-11-10 00:00:00,2000.0,5000.0,4000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-11-17 00:00:00,2000.0,5000.0,4000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-11-26 00:00:00,3000.0,3500.0,3250.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-12-08 00:00:00,3000.0,3500.0,3250.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-12-14 00:00:00,3500.0,4500.0,4000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2022-12-27 00:00:00,5000.0,9000.0,7000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Seetapal,Seethaphal,Medium,2022-01-03 00:00:00,6000.0,7000.0,6500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-09-10 00:00:00,3000.0,8000.0,5500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-09-12 00:00:00,3000.0,8000.0,5500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-09-26 00:00:00,3000.0,6000.0,4500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-09-30 00:00:00,3500.0,6500.0,5000.0,201
+Gujarat,Kachchh,K.Mandvi,Seetapal,Other,Large,2025-11-01 00:00:00,500.0,2000.0,1500.0,201
+Gujarat,Kachchh,K.Mandvi,Seetapal,Other,Large,2025-10-14 00:00:00,2000.0,2500.0,2250.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-11-01 00:00:00,1000.0,4000.0,2500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-10-07 00:00:00,2000.0,3000.0,2500.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-10-10 00:00:00,2000.0,4000.0,3000.0,201
+Gujarat,Porbandar,Porbandar,Seetapal,Other,Large,2025-10-17 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Porbandar,Porbandar APMC,Seetapal,Other,Grade A,2025-11-12 00:00:00,2000.0,5000.0,3500.0,201
+Gujarat,Kachchh,K.Mandvi APMC,Seetapal,Other,Large,2025-11-03 00:00:00,2000.0,3000.0,2500.0,201
+Gujarat,Porbandar,Porbandar APMC,Seetapal,Other,Large,2025-11-05 00:00:00,2000.0,4000.0,3000.0,201
+Gujarat,Porbandar,Porbandar APMC,Seetapal,Other,Large,2025-11-04 00:00:00,2000.0,3000.0,2500.0,201
+Gujarat,Porbandar,Porbandar APMC,Seetapal,Other,Grade A,2025-11-21 00:00:00,3500.0,4500.0,4000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-11-13 00:00:00,3000.0,4500.0,3750.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-11-21 00:00:00,1000.0,4000.0,2500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-11-25 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Medium,2025-11-03 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-03 00:00:00,1000.0,4000.0,2500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-04 00:00:00,1000.0,4500.0,2750.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-05 00:00:00,1000.0,5000.0,3000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-10 00:00:00,1500.0,5000.0,3250.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-14 00:00:00,2000.0,4500.0,3250.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-18 00:00:00,1500.0,5500.0,3500.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-25 00:00:00,5000.0,7000.0,6000.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2025-12-31 00:00:00,1500.0,4000.0,2750.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2026-01-01 00:00:00,2500.0,5000.0,3750.0,201
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Seetapal,Seethaphal,Local,2026-01-23 00:00:00,8000.0,10000.0,9000.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-09-28 00:00:00,3000,4000,3700.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-10-08 00:00:00,2000,4000,3500.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-10-17 00:00:00,2000,4000,3500.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-10-21 00:00:00,2000,4000,3000.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-10-25 00:00:00,1500,3000,2250.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-10-28 00:00:00,1000,3000,2000.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-11-12 00:00:00,1500,5000,3500.0,201
+Gujarat,Ahmedabad,"Ahmedabad(Fruit Market, Naroda)",Seetapal,Other,Small,2013-11-19 00:00:00,2000,4000,3000.0,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2013-08-27 00:00:00,5000,6000,5500.0,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2013-10-07 00:00:00,2000,4000,3500.0,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2013-10-11 00:00:00,2000,4000,3500.0,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2013-10-19 00:00:00,2000,4000,3000.0,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2013-11-01 00:00:00,1000,5000,3500.0,201
+Gujarat,Ahmedabad,Ahmedabad(Manekchowk),Seetapal,Other,Small,2013-11-13 00:00:00,1500,5000,3250.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2013-10-09 00:00:00,1000,1500,1250.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2013-10-12 00:00:00,800,1500,1150.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2013-10-18 00:00:00,800,1200,1000.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2013-10-24 00:00:00,1000,1500,1250.0,201
+Gujarat,Bharuch,Bharuch,Seetapal,Other,Medium,2013-10-30 00:00:00,1000,1500,1250.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-01-02 00:00:00,7000,9000,8000.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-01-07 00:00:00,7000,9000,8000.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-01-08 00:00:00,7000,9000,8000.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-10-01 00:00:00,600,1000,800.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-10-12 00:00:00,600,1000,800.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-10-15 00:00:00,600,1000,800.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-10-16 00:00:00,600,1000,800.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-10-24 00:00:00,600,1000,800.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-10-28 00:00:00,600,1000,800.0,201
+Gujarat,Vadodara(Baroda),Vadodara(Navapura),Seetapal,Other,Medium,2013-11-11 00:00:00,1000,1600,1500.0,201

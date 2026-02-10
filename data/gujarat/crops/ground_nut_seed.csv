@@ -19660,32 +19660,1727 @@ Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2024-07-19 00:00:00,7500.0,7875.
 Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2024-07-31 00:00:00,6500.0,7800.0,7200.0,268
 Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-07-18 00:00:00,7000.0,9200.0,9200.0,268
 Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-07-22 00:00:00,7000.0,9200.0,9200.0,268
-Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-06 00:00:00,6830,8850,8525.0,268
-Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-14 00:00:00,7000,8550,8000.0,268
-Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-22 00:00:00,5500,8600,7990.0,268
-Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-10 00:00:00,6125,9700,7495.0,268
-Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-08 00:00:00,5375,8350,6863.0,268
-Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-12 00:00:00,7500,7500,7500.0,268
-Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-27 00:00:00,6505,8525,7515.0,268
-Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-11 00:00:00,6500,8500,7500.0,268
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-27 00:00:00,3000,5000,4500.0,268
-Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-06-25 00:00:00,5500,8350,7125.0,268
-Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-11 00:00:00,6500,8650,7500.0,268
-Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-13 00:00:00,7000,7900,7500.0,268
-Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-25 00:00:00,7250,8200,7750.0,268
-Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-04 00:00:00,7225,7755,7490.0,268
-Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-10 00:00:00,7500,8530,8015.0,268
-Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-11 00:00:00,7500,9000,8250.0,268
-Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-15 00:00:00,7275,8255,7765.0,268
-Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-25 00:00:00,8500,10630,9565.0,268
-Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-26 00:00:00,8875,11055,9965.0,268
-Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-28 00:00:00,5125,11255,10190.0,268
-Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-15 00:00:00,7000,7200,7100.0,268
-Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-18 00:00:00,6750,7750,7250.0,268
-Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-24 00:00:00,7555,8605,8005.0,268
-Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-01 00:00:00,115,156.5,150.0,268
-Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-08 00:00:00,140,159.7,150.0,268
-Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-20 00:00:00,150,189.6,165.0,268
-Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-03 00:00:00,7950,8500,8200.0,268
-Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-21 00:00:00,7500,8300,8000.0,268
-Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-27 00:00:00,7750,8575,8175.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-06 00:00:00,6830.0,8850.0,8525.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-14 00:00:00,7000.0,8550.0,8000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-22 00:00:00,5500.0,8600.0,7990.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-10 00:00:00,6125.0,9700.0,7495.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-08 00:00:00,5375.0,8350.0,6863.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-12 00:00:00,7500.0,7500.0,7500.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-27 00:00:00,6505.0,8525.0,7515.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-11 00:00:00,6500.0,8500.0,7500.0,268
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-27 00:00:00,3000.0,5000.0,4500.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-06-25 00:00:00,5500.0,8350.0,7125.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-11 00:00:00,6500.0,8650.0,7500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-13 00:00:00,7000.0,7900.0,7500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-25 00:00:00,7250.0,8200.0,7750.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-04 00:00:00,7225.0,7755.0,7490.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-10 00:00:00,7500.0,8530.0,8015.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-11 00:00:00,7500.0,9000.0,8250.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-15 00:00:00,7275.0,8255.0,7765.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-25 00:00:00,8500.0,10630.0,9565.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-26 00:00:00,8875.0,11055.0,9965.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-28 00:00:00,5125.0,11255.0,10190.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-15 00:00:00,7000.0,7200.0,7100.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-18 00:00:00,6750.0,7750.0,7250.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-24 00:00:00,7555.0,8605.0,8005.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-01 00:00:00,115.0,156.5,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-08 00:00:00,140.0,159.7,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-20 00:00:00,150.0,189.6,165.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-03 00:00:00,7950.0,8500.0,8200.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-21 00:00:00,7500.0,8300.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-06-27 00:00:00,7750.0,8575.0,8175.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-02 00:00:00,4725.0,7255.0,5910.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-05 00:00:00,6000.0,8255.0,7125.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-07 00:00:00,6255.0,6255.0,6255.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-14 00:00:00,5555.0,5555.0,5555.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-17 00:00:00,5750.0,6850.0,6300.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-02 00:00:00,7755.0,7755.0,7755.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-08-01 00:00:00,7000.0,8500.0,8275.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-08-10 00:00:00,7000.0,8250.0,8075.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-08-02 00:00:00,5000.0,9350.0,7650.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-08-03 00:00:00,5000.0,8050.0,6650.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-08-10 00:00:00,5000.0,6875.0,6050.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2024-08-01 00:00:00,5000.0,7475.0,6500.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2024-08-08 00:00:00,5000.0,6525.0,5850.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-09 00:00:00,6000.0,8500.0,7000.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-10 00:00:00,6900.0,7450.0,7175.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-10 00:00:00,105.2,162.3,145.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-08-12 00:00:00,7500.0,8300.0,8000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-08-09 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-08-12 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-25 00:00:00,5605.0,6130.0,6130.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-09-04 00:00:00,5500.0,7250.0,6000.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-09-16 00:00:00,5500.0,6250.0,6025.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-09-19 00:00:00,5000.0,6150.0,6125.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-09-20 00:00:00,5000.0,6500.0,6450.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-09-21 00:00:00,5250.0,6250.0,6250.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-09-23 00:00:00,5000.0,6600.0,6550.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2024-09-26 00:00:00,5750.0,6650.0,6525.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-09-03 00:00:00,5250.0,6800.0,6250.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-09-05 00:00:00,5000.0,7350.0,6275.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-09-09 00:00:00,5000.0,7400.0,6350.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-09-11 00:00:00,6500.0,6800.0,6725.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-09-14 00:00:00,6000.0,6270.0,6150.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2024-09-21 00:00:00,4000.0,5000.0,4850.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2024-09-06 00:00:00,4475.0,7350.0,6800.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-13 00:00:00,5500.0,6680.0,6250.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-26 00:00:00,5375.0,6005.0,5690.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-14 00:00:00,6000.0,6000.0,6000.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-17 00:00:00,5625.0,5775.0,5700.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-19 00:00:00,5525.0,5850.0,5690.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-06 00:00:00,100.0,145.0,130.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-09 00:00:00,100.0,142.1,122.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-11 00:00:00,90.0,149.6,115.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-23 00:00:00,105.0,134.4,120.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-26 00:00:00,105.0,138.0,125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-27 00:00:00,131.8,131.8,131.8,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-03 00:00:00,6750.0,7750.0,7350.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-10 00:00:00,7000.0,8100.0,7400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-16 00:00:00,6750.0,7500.0,7070.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2024-09-25 00:00:00,7200.0,7600.0,7325.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2024-09-05 00:00:00,4605.0,6200.0,5600.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-09-10 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-09-12 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-09-14 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-09-18 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-09-21 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2024-09-27 00:00:00,7000.0,9200.0,9200.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-08 00:00:00,5050.0,5700.0,5420.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-29 00:00:00,7000.0,7000.0,7000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-10 00:00:00,5375.0,6205.0,5790.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-31 00:00:00,5750.0,6480.0,6115.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-09 00:00:00,5000.0,6000.0,5500.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-11 00:00:00,5250.0,5850.0,5550.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-29 00:00:00,5275.0,5500.0,5385.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-04 00:00:00,100.0,120.0,115.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-07 00:00:00,85.0,117.0,105.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-13 00:00:00,80.0,125.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-18 00:00:00,96.5,130.0,120.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-30 00:00:00,90.0,120.1,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-31 00:00:00,90.0,118.8,110.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-01-18 00:00:00,6375.0,6675.0,6500.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-08 00:00:00,4625.0,5750.0,5185.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-02-18 00:00:00,5350.0,6500.0,6375.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-25 00:00:00,6000.0,6830.0,6415.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-07 00:00:00,90.0,115.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-10 00:00:00,80.0,120.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-13 00:00:00,100.0,117.4,112.1,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-14 00:00:00,90.0,120.5,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-15 00:00:00,90.0,123.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-19 00:00:00,100.0,124.1,120.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-02-08 00:00:00,6375.0,6750.0,6500.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-02-05 00:00:00,5250.0,5450.0,5400.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-02-15 00:00:00,5250.0,5520.0,5400.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-02-21 00:00:00,5000.0,5750.0,5500.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-04 00:00:00,5450.0,5450.0,5450.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-20 00:00:00,5500.0,5500.0,5500.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-03-04 00:00:00,5375.0,6200.0,6000.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-03-10 00:00:00,5500.0,6145.0,6025.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-03 00:00:00,5450.0,5450.0,5450.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-12 00:00:00,5250.0,5250.0,5250.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-01 00:00:00,100.0,122.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-06 00:00:00,100.0,120.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-12 00:00:00,100.0,120.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-03-17 00:00:00,95.0,120.0,110.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-03-01 00:00:00,5500.0,6000.0,5800.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-01-13 00:00:00,3895.0,4000.0,4000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-01-22 00:00:00,3760.0,3950.0,3950.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-02-09 00:00:00,4230.0,4230.0,4230.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-05-16 00:00:00,4580.0,4580.0,4580.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-05-24 00:00:00,4205.0,4700.0,4300.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-05-29 00:00:00,4480.0,4640.0,4615.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-06-06 00:00:00,4250.0,4880.0,4550.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-06-08 00:00:00,3750.0,4500.0,4430.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-06-09 00:00:00,4400.0,5625.0,4500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-07-03 00:00:00,4700.0,5820.0,5000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-07-05 00:00:00,4305.0,4785.0,4500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-07-09 00:00:00,4860.0,5300.0,5225.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-07-16 00:00:00,2500.0,4760.0,4760.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-08-07 00:00:00,5290.0,5375.0,5310.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-08-09 00:00:00,5100.0,5680.0,5410.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-08-10 00:00:00,5190.0,5840.0,5605.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-08-13 00:00:00,5605.0,5880.0,5675.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-10-09 00:00:00,4625.0,5230.0,5225.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-10-24 00:00:00,3525.0,5000.0,4750.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2018-10-27 00:00:00,5250.0,5250.0,5250.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-28 00:00:00,5105.0,5105.0,5105.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-30 00:00:00,4000.0,4000.0,4000.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-31 00:00:00,4155.0,4155.0,4155.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-08 00:00:00,4630.0,4630.0,4630.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-03 00:00:00,5270.0,5270.0,5270.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-31 00:00:00,5255.0,5255.0,5255.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-13 00:00:00,5600.0,5600.0,5600.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-24 00:00:00,5170.0,5170.0,5170.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-30 00:00:00,5050.0,5250.0,5150.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-01 00:00:00,5255.0,5255.0,5255.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-25 00:00:00,4375.0,4375.0,4375.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-04 00:00:00,6150.0,6150.0,6150.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-02 00:00:00,3750.0,4500.0,4125.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-08 00:00:00,3500.0,5555.0,4528.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-11 00:00:00,4750.0,5625.0,5188.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-22 00:00:00,4000.0,4750.0,4375.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-03 00:00:00,4300.0,5725.0,5013.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-06 00:00:00,4850.0,5600.0,5225.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-07 00:00:00,4750.0,5565.0,5158.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-11 00:00:00,4500.0,5845.0,5173.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-25 00:00:00,4500.0,5505.0,5003.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-06 00:00:00,4500.0,5500.0,5000.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-07-05 00:00:00,4000.0,4775.0,4388.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-07-06 00:00:00,3750.0,5000.0,4375.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-07-07 00:00:00,4125.0,5125.0,4625.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-07-09 00:00:00,3750.0,4200.0,3975.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-07-12 00:00:00,3950.0,5075.0,4513.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-07-16 00:00:00,3400.0,5150.0,4275.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-07-23 00:00:00,4050.0,6650.0,5350.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-08-24 00:00:00,4250.0,5850.0,5050.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-09-18 00:00:00,3950.0,5500.0,4725.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2018-09-20 00:00:00,3750.0,4775.0,4263.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-06-19 00:00:00,3670.0,4140.0,3950.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-06-20 00:00:00,3675.0,4405.0,4040.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-06-22 00:00:00,3635.0,4300.0,3967.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-06-25 00:00:00,4060.0,4595.0,4327.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-07-07 00:00:00,3680.0,3920.0,3800.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-07-09 00:00:00,3720.0,5705.0,4712.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-07-30 00:00:00,4325.0,5715.0,5020.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-08-06 00:00:00,3830.0,5500.0,4665.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-08-07 00:00:00,4500.0,5490.0,4995.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-08-16 00:00:00,4060.0,5815.0,4937.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-08-23 00:00:00,3750.0,5260.0,4505.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-08-28 00:00:00,3910.0,4920.0,4415.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-08-29 00:00:00,3905.0,4895.0,4400.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2018-11-19 00:00:00,4000.0,5205.0,4602.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-12 00:00:00,4305.0,4305.0,4305.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-04-04 00:00:00,4000.0,4500.0,4250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-11 00:00:00,4000.0,4600.0,4200.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-15 00:00:00,3750.0,4310.0,4150.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-26 00:00:00,4000.0,4440.0,4200.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-01 00:00:00,4000.0,4550.0,4350.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-13 00:00:00,4000.0,4750.0,4500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-14 00:00:00,3750.0,4440.0,4000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-06 00:00:00,4250.0,5805.0,5000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-10 00:00:00,4250.0,5110.0,4750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-12 00:00:00,4250.0,5260.0,4750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-20 00:00:00,4000.0,5620.0,4750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-26 00:00:00,4500.0,5500.0,5000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-01 00:00:00,4500.0,5700.0,5150.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-06 00:00:00,4000.0,5825.0,5250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-10 00:00:00,4750.0,6515.0,5750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-13 00:00:00,4250.0,5580.0,4750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-09 00:00:00,4000.0,4610.0,4500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-10 00:00:00,4000.0,4655.0,4500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-20 00:00:00,4250.0,4800.0,4500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-26 00:00:00,4000.0,4750.0,4500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-14 00:00:00,4000.0,4750.0,4400.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-16 00:00:00,4925.0,4925.0,4925.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-19 00:00:00,4000.0,5300.0,4750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-06 00:00:00,4250.0,4750.0,4500.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-04 00:00:00,3885.0,4265.0,4075.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-30 00:00:00,3850.0,4200.0,4025.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-31 00:00:00,3500.0,4100.0,3800.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-07 00:00:00,3865.0,4155.0,4010.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-08 00:00:00,3750.0,4150.0,3950.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-14 00:00:00,3400.0,3850.0,3625.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-03-01 00:00:00,3500.0,4000.0,3750.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-03-05 00:00:00,3775.0,4255.0,4015.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-03-08 00:00:00,3750.0,4100.0,3925.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-03-15 00:00:00,3850.0,4250.0,4050.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-04-20 00:00:00,3820.0,4140.0,3980.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-04 00:00:00,3850.0,4150.0,4000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-05 00:00:00,3750.0,4250.0,4000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-30 00:00:00,4000.0,4500.0,4250.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-07 00:00:00,3710.0,4320.0,4015.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-03 00:00:00,4750.0,5410.0,5080.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-08 00:00:00,4860.0,5490.0,5175.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-29 00:00:00,3500.0,4000.0,3750.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-06 00:00:00,3810.0,4320.0,4065.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-13 00:00:00,3750.0,4250.0,4000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-15 00:00:00,3865.0,4285.0,4075.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-26 00:00:00,4565.0,4875.0,4720.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-29 00:00:00,4175.0,4635.0,4405.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-14 00:00:00,4225.0,4635.0,4430.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-15 00:00:00,3730.0,4290.0,4010.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-17 00:00:00,4200.0,4750.0,4475.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-22 00:00:00,4515.0,5005.0,4760.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-23 00:00:00,4115.0,4625.0,4370.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-27 00:00:00,4210.0,4640.0,4425.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-30 00:00:00,4160.0,4870.0,4515.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-19 00:00:00,4210.0,4640.0,4425.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-02 00:00:00,3625.0,3925.0,3775.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-06 00:00:00,3650.0,3850.0,3750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-08 00:00:00,3750.0,3975.0,3860.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-13 00:00:00,3625.0,3750.0,3685.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-17 00:00:00,3725.0,3825.0,3775.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-01-19 00:00:00,3700.0,3750.0,3725.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-03 00:00:00,3750.0,3825.0,3785.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-05 00:00:00,3625.0,3750.0,3685.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-15 00:00:00,3750.0,3950.0,3850.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-20 00:00:00,3700.0,3775.0,3735.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-02-21 00:00:00,3600.0,3925.0,3760.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-03-07 00:00:00,3825.0,3900.0,3860.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-03-13 00:00:00,3775.0,4000.0,3885.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-03-17 00:00:00,4000.0,4050.0,4025.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-04-17 00:00:00,0.0,4000.0,4000.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-04-21 00:00:00,3875.0,3925.0,3900.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-10 00:00:00,3525.0,3975.0,3750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-11 00:00:00,3500.0,3925.0,3710.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-14 00:00:00,3775.0,3925.0,3850.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-25 00:00:00,2250.0,3875.0,3825.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-05-28 00:00:00,3750.0,3875.0,3810.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-28 00:00:00,3700.0,4250.0,3975.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-03 00:00:00,3875.0,4075.0,3975.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-07 00:00:00,3750.0,3925.0,3835.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-09 00:00:00,3750.0,3900.0,3825.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-13 00:00:00,0.0,3825.0,3825.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-21 00:00:00,3775.0,4250.0,4010.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-01 00:00:00,3875.0,4250.0,4060.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-04 00:00:00,3975.0,4125.0,4050.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-13 00:00:00,4125.0,4425.0,4275.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-22 00:00:00,4150.0,4250.0,4200.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-28 00:00:00,4325.0,4500.0,4410.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-30 00:00:00,4225.0,4475.0,4350.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-31 00:00:00,4200.0,4300.0,4250.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-01 00:00:00,3875.0,4000.0,3935.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-10 00:00:00,3950.0,4300.0,4125.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-20 00:00:00,3925.0,4375.0,4150.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-22 00:00:00,3900.0,4025.0,3960.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-15 00:00:00,0.0,3750.0,3750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-16 00:00:00,3750.0,4025.0,3885.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-23 00:00:00,4250.0,4625.0,4435.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-27 00:00:00,4575.0,4850.0,4710.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-17 00:00:00,4575.0,4750.0,4660.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-19 00:00:00,4000.0,4625.0,4310.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-20 00:00:00,4250.0,4525.0,4385.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-31 00:00:00,4000.0,4500.0,4250.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-02 00:00:00,4480.0,5780.0,5505.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-24 00:00:00,4250.0,5705.0,4855.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-08 00:00:00,4230.0,5580.0,5230.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-11 00:00:00,4355.0,5655.0,5355.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-16 00:00:00,4230.0,5705.0,5305.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-17 00:00:00,4280.0,5930.0,5380.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-18 00:00:00,5055.0,5505.0,5355.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-23 00:00:00,4705.0,5380.0,5205.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-10 00:00:00,4505.0,4930.0,4780.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-12 00:00:00,800.0,1000.0,995.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-11 00:00:00,85.0,95.0,90.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-06-28 00:00:00,4500.0,5250.0,5050.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-06 00:00:00,4500.0,5200.0,5050.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-20 00:00:00,4750.0,5750.0,5250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-07-31 00:00:00,4500.0,5625.0,5250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-10 00:00:00,5250.0,6125.0,5750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-18 00:00:00,5000.0,5700.0,5400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-20 00:00:00,5000.0,5675.0,5250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-08-21 00:00:00,5000.0,5625.0,5400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-17 00:00:00,4750.0,5250.0,5000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-21 00:00:00,4750.0,5175.0,5000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-24 00:00:00,4500.0,5150.0,4750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-09-25 00:00:00,4625.0,5100.0,4875.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-02 00:00:00,4750.0,5150.0,4900.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-03 00:00:00,4700.0,5200.0,5000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-06 00:00:00,4750.0,5175.0,5050.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-10 00:00:00,4650.0,5125.0,4925.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-11 00:00:00,4700.0,5175.0,5000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-15 00:00:00,4650.0,5200.0,5100.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-10-16 00:00:00,4700.0,5250.0,5050.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-12 00:00:00,5000.0,5850.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-21 00:00:00,5200.0,5800.0,5600.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-22 00:00:00,5250.0,5700.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-11-29 00:00:00,5150.0,5750.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-10 00:00:00,5125.0,5750.0,5600.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-18 00:00:00,5250.0,5850.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-27 00:00:00,5250.0,5900.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2018-12-31 00:00:00,5200.0,5800.0,5600.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2018-01-02 00:00:00,3500.0,3950.0,3725.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2018-08-21 00:00:00,5000.0,5800.0,5400.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2018-08-28 00:00:00,3500.0,5000.0,4500.0,268
+Gujarat,Sabarkantha,Khedbrahma,Ground Nut Seed,Other,FAQ,2018-06-26 00:00:00,3625.0,3800.0,3712.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-01-02 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-01-10 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-02-05 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-02-07 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-02-16 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-02-22 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-02-24 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-03-05 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-03-07 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-03-15 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-03-16 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-03-21 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-03-29 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-03-30 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-04-11 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-04-25 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-05-09 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-05-15 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-05-19 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-05-25 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-05-28 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-05-29 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-06-05 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-06-11 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-06-15 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-06-18 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-06-30 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-07-02 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-07-03 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-07-17 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-08-13 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-08-21 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-09-29 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-10-11 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-10-19 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-10-20 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-11-03 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-11-14 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-11-17 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-11-19 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-12-05 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-12-10 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2018-12-14 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-03 00:00:00,4355.0,5295.0,4905.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-14 00:00:00,4485.0,4800.0,4800.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-04 00:00:00,5740.0,7500.0,6150.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-06 00:00:00,6300.0,8015.0,6925.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-20 00:00:00,6125.0,8050.0,7125.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-02 00:00:00,6850.0,7845.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-06 00:00:00,8200.0,8200.0,8200.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-07 00:00:00,7050.0,8005.0,7860.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-08 00:00:00,5300.0,8035.0,7855.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-15 00:00:00,5000.0,6380.0,6100.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-24 00:00:00,5955.0,7750.0,6875.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-04 00:00:00,5040.0,7800.0,6750.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-26 00:00:00,5000.0,6710.0,6550.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-27 00:00:00,5175.0,8000.0,6000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-03 00:00:00,6090.0,7295.0,7295.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-07 00:00:00,5000.0,6420.0,6420.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-15 00:00:00,4150.0,5575.0,5575.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-25 00:00:00,4150.0,4825.0,4825.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-30 00:00:00,4300.0,5255.0,5255.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-10-14 00:00:00,3500.0,6000.0,5000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-25 00:00:00,4505.0,6000.0,5500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-16 00:00:00,4510.0,5505.0,4885.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-26 00:00:00,4090.0,5605.0,5500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-30 00:00:00,4950.0,6155.0,5280.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-31 00:00:00,4825.0,6375.0,5750.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-26 00:00:00,9500.0,9500.0,9500.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-27 00:00:00,9325.0,9325.0,9325.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-22 00:00:00,5000.0,5000.0,5000.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2020-05-29 00:00:00,7505.0,8000.0,7753.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-01 00:00:00,7600.0,8100.0,7850.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-05 00:00:00,7500.0,8050.0,7775.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-19 00:00:00,7250.0,8900.0,8075.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-04 00:00:00,7500.0,10125.0,8813.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2020-07-15 00:00:00,5750.0,9375.0,7563.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2020-07-18 00:00:00,5250.0,6900.0,6075.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2020-08-26 00:00:00,5250.0,6300.0,5775.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2020-09-01 00:00:00,5350.0,7750.0,6550.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2020-09-21 00:00:00,5625.0,6450.0,6038.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2020-09-29 00:00:00,6150.0,6375.0,6263.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2020-12-28 00:00:00,5000.0,5500.0,5250.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2020-12-29 00:00:00,5000.0,5750.0,5260.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-30 00:00:00,5000.0,7875.0,6000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-05-09 00:00:00,4750.0,6780.0,5900.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-05-14 00:00:00,6250.0,7050.0,6475.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-15 00:00:00,5625.0,8050.0,6750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-16 00:00:00,5500.0,7800.0,7000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-19 00:00:00,6000.0,9000.0,7250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-20 00:00:00,6250.0,8200.0,7250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-06 00:00:00,6000.0,7850.0,7000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-17 00:00:00,6250.0,7250.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-18 00:00:00,6250.0,7575.0,7250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-04 00:00:00,6000.0,7350.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-01 00:00:00,6000.0,7375.0,6250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-19 00:00:00,5250.0,6420.0,6000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-06 00:00:00,4610.0,5220.0,4915.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-08 00:00:00,4760.0,5270.0,5050.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-13 00:00:00,4750.0,5250.0,5000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-25 00:00:00,4740.0,5030.0,4885.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-04 00:00:00,4900.0,5350.0,5125.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-16 00:00:00,6250.0,10800.0,8525.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-24 00:00:00,6600.0,10550.0,8575.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-27 00:00:00,5500.0,8000.0,6750.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-29 00:00:00,4200.0,5000.0,4600.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-19 00:00:00,3765.0,4475.0,4120.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-20 00:00:00,3850.0,4500.0,4175.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-03 00:00:00,3465.0,4075.0,3770.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-04 00:00:00,3455.0,4445.0,3950.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-07 00:00:00,3225.0,4405.0,3825.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-16 00:00:00,3220.0,4530.0,3875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-04 00:00:00,5125.0,5225.0,5175.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-06 00:00:00,5125.0,5250.0,5190.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-07 00:00:00,4625.0,5150.0,4890.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-10 00:00:00,5000.0,5150.0,5075.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-23 00:00:00,5225.0,5300.0,5265.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-28 00:00:00,5000.0,5450.0,5225.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-07 00:00:00,5150.0,5750.0,5450.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-11 00:00:00,5125.0,5225.0,5175.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-12 00:00:00,5100.0,5300.0,5200.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-26 00:00:00,0.0,5250.0,5250.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-27 00:00:00,5325.0,5575.0,5450.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-05-18 00:00:00,5875.0,5900.0,5890.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-05-25 00:00:00,5750.0,6000.0,5875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-03 00:00:00,5000.0,5950.0,5475.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-10 00:00:00,5725.0,6025.0,5875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-19 00:00:00,5550.0,5875.0,5715.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-22 00:00:00,5725.0,5850.0,5790.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-11 00:00:00,5675.0,6000.0,5840.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-29 00:00:00,5350.0,5750.0,5550.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-11 00:00:00,0.0,5150.0,5150.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-05 00:00:00,4900.0,5800.0,5350.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-10 00:00:00,5250.0,5750.0,5500.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-12 00:00:00,0.0,5275.0,5275.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-02 00:00:00,5250.0,5675.0,5465.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-17 00:00:00,0.0,5275.0,5275.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-23 00:00:00,5475.0,5600.0,5540.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-24 00:00:00,5125.0,5400.0,5265.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-30 00:00:00,6055.0,7505.0,7330.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-14 00:00:00,6000.0,7080.0,7005.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-15 00:00:00,6000.0,7430.0,7055.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-16 00:00:00,5805.0,6880.0,6555.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-18 00:00:00,5505.0,6730.0,6255.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-01 00:00:00,5155.0,6175.0,5750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-13 00:00:00,5155.0,5850.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-01-31 00:00:00,5380.0,5875.0,5550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-01 00:00:00,5325.0,5900.0,5550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-07 00:00:00,5180.0,5875.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-02-15 00:00:00,5305.0,6025.0,5550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-03-04 00:00:00,5380.0,6225.0,5750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-03-17 00:00:00,5375.0,6250.0,5600.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-03-20 00:00:00,6400.0,7125.0,6500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-05-25 00:00:00,7050.0,8500.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-05-26 00:00:00,7000.0,8250.0,7550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-04 00:00:00,6500.0,7600.0,7250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-11 00:00:00,7100.0,8350.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-12 00:00:00,7250.0,8250.0,7625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-15 00:00:00,7500.0,8500.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-20 00:00:00,7250.0,8500.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-06-30 00:00:00,7250.0,8500.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-03 00:00:00,7250.0,8500.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-08 00:00:00,7100.0,8200.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-09 00:00:00,7350.0,8750.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-17 00:00:00,6000.0,7900.0,7100.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-07-21 00:00:00,6125.0,7260.0,6625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-04 00:00:00,6200.0,7400.0,6800.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-26 00:00:00,6400.0,7550.0,7150.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-27 00:00:00,6125.0,7120.0,7000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-08-31 00:00:00,6200.0,7050.0,6725.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-01 00:00:00,6500.0,7170.0,6850.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-05 00:00:00,6600.0,6775.0,6700.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-14 00:00:00,6450.0,6690.0,6550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-15 00:00:00,6500.0,6750.0,6625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-09-23 00:00:00,6080.0,6900.0,6240.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-10-01 00:00:00,6500.0,7075.0,6925.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-10-05 00:00:00,6500.0,6900.0,6650.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-10-07 00:00:00,6125.0,6500.0,6250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-10-10 00:00:00,6100.0,6625.0,6250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-10-17 00:00:00,6500.0,7000.0,6750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-10-29 00:00:00,6850.0,7250.0,7125.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-02 00:00:00,6750.0,7125.0,6875.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-03 00:00:00,6800.0,7175.0,7000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-11 00:00:00,6500.0,7000.0,6650.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-19 00:00:00,6550.0,7100.0,6900.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-11-30 00:00:00,6625.0,7125.0,6750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-21 00:00:00,6500.0,7000.0,6750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-22 00:00:00,6750.0,7000.0,6875.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-23 00:00:00,6750.0,7000.0,6825.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2020-12-26 00:00:00,6625.0,7000.0,6750.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2020-01-10 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2020-01-11 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2020-01-13 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2020-01-16 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2020-01-24 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-11 00:00:00,4375.0,6755.0,6505.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-23 00:00:00,4690.0,7000.0,6300.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-27 00:00:00,5000.0,6875.0,5500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-04 00:00:00,5000.0,6880.0,5950.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-09 00:00:00,5000.0,7500.0,6500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-25 00:00:00,6500.0,7200.0,7150.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-26 00:00:00,5500.0,7000.0,6500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-02 00:00:00,5250.0,7375.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-05 00:00:00,4000.0,7455.0,6805.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-10 00:00:00,5750.0,7250.0,6960.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-17 00:00:00,6000.0,6375.0,6375.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-19 00:00:00,5250.0,8000.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-08 00:00:00,6000.0,8175.0,6750.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-23 00:00:00,5525.0,8270.0,7625.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-24 00:00:00,5000.0,8500.0,7635.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-26 00:00:00,5250.0,8205.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-08 00:00:00,6000.0,8400.0,7500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-09 00:00:00,5000.0,8500.0,7800.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-14 00:00:00,6355.0,8500.0,8000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-23 00:00:00,5505.0,8700.0,8000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-26 00:00:00,6000.0,8995.0,8825.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-25 00:00:00,7500.0,9035.0,8355.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-26 00:00:00,7750.0,9125.0,7850.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-09-09 00:00:00,6995.0,9250.0,9250.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-13 00:00:00,5210.0,7005.0,5500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-23 00:00:00,4750.0,5950.0,5950.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-28 00:00:00,5000.0,6500.0,6500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-30 00:00:00,6125.0,6150.0,6150.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-18 00:00:00,5900.0,6775.0,6025.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-20 00:00:00,6000.0,6490.0,6490.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-06 00:00:00,5000.0,7450.0,6905.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-16 00:00:00,4870.0,6000.0,5505.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-20 00:00:00,4680.0,5575.0,5055.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2021-04-08 00:00:00,6500.0,6500.0,6500.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-08 00:00:00,5500.0,5500.0,5500.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-02 00:00:00,5550.0,8500.0,7025.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-18 00:00:00,6250.0,9000.0,7625.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-19 00:00:00,6250.0,9500.0,7875.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-22 00:00:00,6550.0,10075.0,8313.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-23 00:00:00,6605.0,9500.0,8053.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-26 00:00:00,6750.0,9500.0,8125.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-30 00:00:00,7500.0,9625.0,8563.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-06 00:00:00,7000.0,9625.0,8313.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-09 00:00:00,7300.0,8675.0,7988.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-14 00:00:00,7500.0,9255.0,8378.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-23 00:00:00,8100.0,8675.0,8388.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-30 00:00:00,8100.0,8755.0,8428.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-31 00:00:00,7850.0,8500.0,8175.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2021-09-03 00:00:00,7750.0,8200.0,7975.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2021-09-07 00:00:00,6500.0,8000.0,7250.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-01-06 00:00:00,5250.0,5800.0,5500.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-01-22 00:00:00,5000.0,6495.0,5747.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-02-01 00:00:00,4875.0,7000.0,5937.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-02-09 00:00:00,6500.0,6850.0,6675.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-06-07 00:00:00,5500.0,7900.0,6700.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-06-12 00:00:00,6125.0,8275.0,7200.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-06-30 00:00:00,6200.0,7600.0,6900.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-07-01 00:00:00,6125.0,7450.0,6787.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-07-05 00:00:00,6575.0,7650.0,7112.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-07-17 00:00:00,6400.0,8575.0,7487.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-08-17 00:00:00,7200.0,8925.0,8062.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-08-25 00:00:00,5500.0,8575.0,7037.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-09-07 00:00:00,7300.0,8500.0,7900.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2021-12-15 00:00:00,6250.0,7350.0,6800.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-05 00:00:00,6000.0,8190.0,7500.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-16 00:00:00,5415.0,5975.0,5695.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-23 00:00:00,5150.0,6350.0,5750.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-10 00:00:00,5175.0,6375.0,5775.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-27 00:00:00,6125.0,7025.0,6575.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-07 00:00:00,5750.0,6800.0,6275.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-28 00:00:00,5250.0,6350.0,5800.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-29 00:00:00,5525.0,6325.0,5925.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-30 00:00:00,5000.0,5700.0,5350.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-04 00:00:00,5500.0,6275.0,5890.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-06 00:00:00,5500.0,6500.0,6000.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-07 00:00:00,5000.0,6000.0,5500.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-09 00:00:00,5125.0,5625.0,5375.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-11 00:00:00,5600.0,5750.0,5675.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-22 00:00:00,5250.0,6500.0,5875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-29 00:00:00,6000.0,6150.0,6075.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-03 00:00:00,5825.0,6700.0,6265.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-04 00:00:00,5850.0,6375.0,6115.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-17 00:00:00,6525.0,6775.0,6650.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-22 00:00:00,6000.0,6900.0,6450.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-24 00:00:00,6825.0,6850.0,6835.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-26 00:00:00,6250.0,6950.0,6600.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-17 00:00:00,7400.0,7525.0,7460.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-05-25 00:00:00,0.0,6625.0,6625.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-07 00:00:00,6175.0,7000.0,6590.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-08 00:00:00,6725.0,7875.0,7300.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-12 00:00:00,6000.0,7650.0,6825.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-14 00:00:00,6750.0,7350.0,7050.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-15 00:00:00,6125.0,6625.0,6375.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-17 00:00:00,6350.0,7000.0,6675.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-18 00:00:00,6400.0,6775.0,6590.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-20 00:00:00,6775.0,6875.0,6825.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-21 00:00:00,7000.0,7000.0,7000.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-23 00:00:00,6500.0,7100.0,6800.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-24 00:00:00,6725.0,7475.0,7100.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-26 00:00:00,7250.0,7250.0,7250.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-29 00:00:00,7275.0,7275.0,7275.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-09-18 00:00:00,6000.0,6925.0,6465.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-09-22 00:00:00,5250.0,5250.0,5250.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-04 00:00:00,5500.0,6200.0,5850.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-06 00:00:00,6000.0,6350.0,6175.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-08 00:00:00,6575.0,6575.0,6575.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-12 00:00:00,4975.0,6000.0,5490.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-18 00:00:00,6150.0,6375.0,6265.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-30 00:00:00,6050.0,6400.0,6225.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-06 00:00:00,5800.0,6700.0,6250.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-07 00:00:00,5000.0,5950.0,5475.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-16 00:00:00,5725.0,6425.0,6075.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-18 00:00:00,6050.0,6625.0,6335.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-20 00:00:00,5525.0,6050.0,5785.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-30 00:00:00,5500.0,6100.0,5800.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-29 00:00:00,6000.0,8005.0,7530.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-15 00:00:00,6230.0,7780.0,7505.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-19 00:00:00,7005.0,8255.0,7980.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-28 00:00:00,7455.0,8880.0,8280.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-31 00:00:00,7730.0,8655.0,8480.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-11 00:00:00,7755.0,8205.0,8030.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-14 00:00:00,6505.0,8255.0,8030.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-27 00:00:00,8380.0,8605.0,8430.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-01-30 00:00:00,7250.0,7625.0,7325.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-01 00:00:00,7300.0,7625.0,7400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-06 00:00:00,7300.0,7625.0,7400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-09 00:00:00,7400.0,7800.0,7625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-11 00:00:00,7500.0,8125.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-13 00:00:00,7625.0,8150.0,7850.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-25 00:00:00,8000.0,8500.0,8125.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-02-27 00:00:00,8000.0,8500.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-02 00:00:00,8000.0,8625.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-10 00:00:00,7750.0,8250.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-03-15 00:00:00,8125.0,8500.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-01 00:00:00,7700.0,8250.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-06-09 00:00:00,8075.0,8350.0,8175.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-01 00:00:00,7000.0,7625.0,7250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-05 00:00:00,7500.0,8075.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-10 00:00:00,7000.0,7875.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-07-14 00:00:00,7000.0,8200.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-02 00:00:00,8425.0,8800.0,8500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-04 00:00:00,8200.0,8800.0,8500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-07 00:00:00,8375.0,8920.0,8660.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-18 00:00:00,8375.0,9250.0,8875.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-23 00:00:00,8100.0,9370.0,8875.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-24 00:00:00,8125.0,9345.0,8850.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-25 00:00:00,8150.0,9335.0,8750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-08-26 00:00:00,8200.0,9245.0,8700.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-09-18 00:00:00,8000.0,8750.0,8500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-09-24 00:00:00,7500.0,9280.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-06 00:00:00,6350.0,8675.0,8175.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-12 00:00:00,7500.0,8625.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-19 00:00:00,7250.0,8200.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-20 00:00:00,7375.0,8000.0,7625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-10-27 00:00:00,7250.0,7500.0,7375.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-12 00:00:00,7000.0,7500.0,7250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-22 00:00:00,7500.0,8250.0,8125.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-24 00:00:00,7950.0,8370.0,8200.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-27 00:00:00,7750.0,8250.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-11-29 00:00:00,7750.0,8250.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-09 00:00:00,7750.0,8250.0,8125.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-10 00:00:00,7500.0,8000.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-15 00:00:00,7250.0,7750.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-16 00:00:00,7125.0,7625.0,7350.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2021-12-27 00:00:00,6750.0,7250.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-27 00:00:00,5150.0,6280.0,6110.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-18 00:00:00,4750.0,5850.0,5655.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-20 00:00:00,5000.0,7500.0,6275.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-02 00:00:00,5750.0,7625.0,7325.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-10 00:00:00,4325.0,7150.0,6800.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-23 00:00:00,5025.0,7500.0,6175.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-24 00:00:00,4800.0,6960.0,5700.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-02 00:00:00,6550.0,6850.0,6850.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Other,FAQ,2019-01-02 00:00:00,4500.0,5200.0,5200.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-21 00:00:00,7130.0,7505.0,7318.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-22 00:00:00,6850.0,7250.0,7050.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-02 00:00:00,8000.0,8000.0,8000.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-03 00:00:00,7100.0,7600.0,7350.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-18 00:00:00,7515.0,7515.0,7515.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-20 00:00:00,7505.0,7505.0,7505.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-28 00:00:00,6330.0,6330.0,6330.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-05 00:00:00,5750.0,5750.0,5750.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-19 00:00:00,6000.0,7575.0,6788.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-25 00:00:00,6750.0,7755.0,7253.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-17 00:00:00,4000.0,7355.0,5678.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-22 00:00:00,6050.0,6750.0,6400.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-01 00:00:00,5750.0,7250.0,6500.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2019-06-06 00:00:00,4750.0,6150.0,5450.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2019-07-05 00:00:00,5000.0,8125.0,6563.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2019-07-09 00:00:00,4750.0,7125.0,5938.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2019-07-27 00:00:00,5025.0,8500.0,6763.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2019-09-05 00:00:00,5000.0,6550.0,5775.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2019-09-28 00:00:00,4850.0,5600.0,5225.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2019-09-18 00:00:00,5000.0,6000.0,5500.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2019-12-24 00:00:00,4700.0,5250.0,4950.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-08 00:00:00,4500.0,4740.0,4650.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-25 00:00:00,5375.0,5375.0,5375.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-06 00:00:00,5000.0,5915.0,5500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-27 00:00:00,5000.0,5780.0,5500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-28 00:00:00,5250.0,5790.0,5500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-19 00:00:00,6150.0,7725.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-06 00:00:00,6250.0,8100.0,6750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-08 00:00:00,6000.0,7525.0,6750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-16 00:00:00,6000.0,7100.0,6900.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-24 00:00:00,6000.0,7120.0,6250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-26 00:00:00,6250.0,7200.0,6625.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-29 00:00:00,4000.0,6550.0,5500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-07 00:00:00,4750.0,5500.0,5125.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-21 00:00:00,6070.0,7725.0,7000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-25 00:00:00,5000.0,7090.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-03 00:00:00,4750.0,6230.0,5500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-19 00:00:00,5000.0,5650.0,5250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-02 00:00:00,4800.0,4800.0,4800.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-17 00:00:00,5240.0,5240.0,5240.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-05 00:00:00,3750.0,4900.0,4325.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-07 00:00:00,4260.0,4780.0,4520.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-15 00:00:00,4250.0,4650.0,4450.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-17 00:00:00,4260.0,4590.0,4425.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-21 00:00:00,4200.0,4650.0,4425.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-22 00:00:00,4150.0,4750.0,4450.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-11 00:00:00,4300.0,4900.0,4600.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-11 00:00:00,5885.0,7055.0,6480.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-21 00:00:00,6885.0,8875.0,7880.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-25 00:00:00,6765.0,10025.0,8395.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-06 00:00:00,5165.0,6625.0,5895.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-11 00:00:00,5750.0,7400.0,6575.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-18 00:00:00,5885.0,7425.0,6655.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-02 00:00:00,5660.0,7080.0,6370.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-03 00:00:00,4750.0,5800.0,5275.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-27 00:00:00,4900.0,5400.0,5150.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-29 00:00:00,4750.0,5500.0,5125.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-05 00:00:00,4850.0,5500.0,5175.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-11 00:00:00,4400.0,5000.0,4700.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-13 00:00:00,5120.0,6030.0,5575.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-18 00:00:00,4885.0,6075.0,5480.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-03 00:00:00,4615.0,5125.0,4870.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-15 00:00:00,4015.0,4525.0,4270.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-22 00:00:00,4500.0,5000.0,4750.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-06 00:00:00,4250.0,4750.0,4500.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-13 00:00:00,4000.0,4750.0,4375.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-16 00:00:00,4000.0,4750.0,4375.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-18 00:00:00,4115.0,4675.0,4395.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-23 00:00:00,4250.0,4750.0,4500.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-27 00:00:00,4415.0,4975.0,4695.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-03 00:00:00,4500.0,5010.0,4755.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-09 00:00:00,4425.0,4915.0,4670.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-13 00:00:00,4720.0,5060.0,4890.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-19 00:00:00,4585.0,5205.0,4895.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-20 00:00:00,4810.0,5290.0,5050.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-23 00:00:00,4710.0,5320.0,5015.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-28 00:00:00,4750.0,5250.0,5000.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-09 00:00:00,4250.0,4750.0,4500.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-23 00:00:00,4600.0,4750.0,4675.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-30 00:00:00,4325.0,5100.0,4710.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-09 00:00:00,0.0,4450.0,4450.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-03-06 00:00:00,0.0,4500.0,4500.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-03-07 00:00:00,4550.0,4575.0,4560.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-03-14 00:00:00,4375.0,4750.0,4560.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-06 00:00:00,4600.0,4675.0,4635.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-09 00:00:00,0.0,4625.0,4625.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-16 00:00:00,0.0,4625.0,4625.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-25 00:00:00,4650.0,4675.0,4660.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-04 00:00:00,4550.0,4875.0,4710.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-21 00:00:00,0.0,4775.0,4775.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-23 00:00:00,4575.0,5075.0,4825.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-03 00:00:00,4775.0,5225.0,5000.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-10 00:00:00,4450.0,4950.0,4700.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-15 00:00:00,4650.0,5100.0,4875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-20 00:00:00,4950.0,5200.0,5075.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-27 00:00:00,5175.0,5275.0,5225.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-01 00:00:00,5125.0,5225.0,5175.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-12 00:00:00,4900.0,5125.0,5010.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-19 00:00:00,4825.0,5025.0,4925.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-29 00:00:00,5050.0,5325.0,5175.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-04 00:00:00,4950.0,5225.0,5090.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-14 00:00:00,4875.0,5400.0,5140.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-26 00:00:00,4975.0,5150.0,5065.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-07 00:00:00,0.0,4900.0,4900.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-01 00:00:00,4800.0,5500.0,5150.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-04 00:00:00,4675.0,4825.0,4750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-06 00:00:00,4500.0,4725.0,4665.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-09 00:00:00,4500.0,4600.0,4550.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-16 00:00:00,4500.0,5000.0,4750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-23 00:00:00,4175.0,4825.0,4500.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-26 00:00:00,4750.0,5375.0,5065.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-27 00:00:00,4875.0,5075.0,4975.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-22 00:00:00,5880.0,7105.0,6855.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-26 00:00:00,5855.0,7255.0,6855.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-28 00:00:00,5130.0,7605.0,6855.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-01 00:00:00,5730.0,7480.0,7055.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-12 00:00:00,5680.0,7005.0,6680.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-13 00:00:00,6000.0,6880.0,6605.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-18 00:00:00,5130.0,6680.0,6555.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-24 00:00:00,6005.0,6555.0,6405.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-25 00:00:00,6105.0,6730.0,6605.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-31 00:00:00,5500.0,6500.0,6255.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-02 00:00:00,6230.0,6830.0,6555.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-06 00:00:00,5250.0,6505.0,6255.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-24 00:00:00,5055.0,6005.0,5905.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-25 00:00:00,4750.0,5905.0,5505.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-07 00:00:00,5205.0,5555.0,5505.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-05 00:00:00,100.0,107.0,105.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-07 00:00:00,5250.0,5850.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-08 00:00:00,5250.0,5900.0,5700.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-09 00:00:00,5200.0,5800.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-15 00:00:00,5200.0,5650.0,5425.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-01-19 00:00:00,5200.0,5675.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-02 00:00:00,3700.0,5225.0,4500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-06 00:00:00,5300.0,5850.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-09 00:00:00,5375.0,5750.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-16 00:00:00,5300.0,5875.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-23 00:00:00,5350.0,6050.0,5750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-26 00:00:00,5300.0,6125.0,5750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-02-28 00:00:00,3800.0,5350.0,4400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-03-09 00:00:00,3750.0,5325.0,4650.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-03-14 00:00:00,5400.0,6000.0,5750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-01 00:00:00,5400.0,5750.0,5500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-15 00:00:00,5500.0,6050.0,5800.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-16 00:00:00,5500.0,6075.0,5925.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-04-22 00:00:00,5450.0,6050.0,5750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-02 00:00:00,5750.0,6250.0,6000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-08 00:00:00,5750.0,6250.0,6000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-05-25 00:00:00,5900.0,6500.0,6250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-01 00:00:00,5875.0,6375.0,6075.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-05 00:00:00,5750.0,6500.0,6375.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-25 00:00:00,5500.0,9000.0,7000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-06-27 00:00:00,6750.0,8775.0,8500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-05 00:00:00,6500.0,7500.0,7250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-06 00:00:00,6750.0,7725.0,7350.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-16 00:00:00,6500.0,7300.0,7050.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-18 00:00:00,6500.0,7200.0,7000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-24 00:00:00,6500.0,7100.0,6875.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-26 00:00:00,5800.0,7080.0,6750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-07-29 00:00:00,6600.0,7100.0,7000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-02 00:00:00,6150.0,6975.0,6625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-05 00:00:00,6050.0,6920.0,6425.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-06 00:00:00,6250.0,6900.0,6700.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-28 00:00:00,6050.0,6825.0,6425.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-08-29 00:00:00,6100.0,6850.0,6575.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-10 00:00:00,5850.0,7500.0,6675.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-13 00:00:00,5730.0,7520.0,6655.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-24 00:00:00,6000.0,6900.0,6575.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-28 00:00:00,5620.0,6780.0,6180.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-09-30 00:00:00,5550.0,6550.0,6180.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-01 00:00:00,5505.0,7000.0,6125.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-02 00:00:00,5525.0,6600.0,6050.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-09 00:00:00,5550.0,6425.0,6100.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-14 00:00:00,5300.0,6500.0,5625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-21 00:00:00,5750.0,6375.0,6000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-10-25 00:00:00,5750.0,6400.0,6000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-11-02 00:00:00,5280.0,6150.0,5375.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-09 00:00:00,5130.0,6050.0,5800.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-21 00:00:00,5340.0,6230.0,5900.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2019-12-26 00:00:00,6110.0,6650.0,6500.0,268
+Gujarat,Sabarkantha,Khedbrahma,Ground Nut Seed,Other,FAQ,2019-01-03 00:00:00,3750.0,3835.0,3793.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-01-19 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-01-28 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-01-31 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-02-02 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-02-05 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-02-14 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-02-19 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-02-22 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-02-23 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-03-13 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-03-15 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-03-16 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-03-30 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-04-11 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-04-25 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-05-08 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-05-14 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-06-15 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-06-19 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-06-26 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-07-06 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-07-11 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-07-16 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-07-17 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-07-22 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-08-12 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-08-15 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-08-22 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-08-28 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-09-20 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-09-21 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-09-30 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-10-01 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-10-09 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-11-05 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-11-18 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-11-27 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-12-02 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-12-07 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-12-12 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-12-19 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2019-12-26 00:00:00,5000.0,6000.0,6000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-03 00:00:00,4750.0,6375.0,5700.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-05 00:00:00,4775.0,6255.0,5790.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-07 00:00:00,5500.0,6460.0,6000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-01 00:00:00,4825.0,6945.0,5830.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-05 00:00:00,5390.0,5610.0,5500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-11 00:00:00,5200.0,6755.0,5850.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-09 00:00:00,5855.0,6805.0,6250.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-23 00:00:00,6460.0,7400.0,6850.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-04 00:00:00,5250.0,8000.0,7500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-09 00:00:00,8275.0,8995.0,8300.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-12 00:00:00,6000.0,8495.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-20 00:00:00,5000.0,8930.0,8400.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-28 00:00:00,6050.0,9005.0,8505.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-07 00:00:00,6000.0,8850.0,8290.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-19 00:00:00,5000.0,8330.0,7770.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-02 00:00:00,6445.0,9000.0,8250.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-08 00:00:00,6650.0,9060.0,8445.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-21 00:00:00,5675.0,8990.0,8460.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-05 00:00:00,6495.0,9125.0,8775.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-06 00:00:00,6275.0,8970.0,8900.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-12 00:00:00,6275.0,9185.0,9000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-14 00:00:00,6500.0,9200.0,9105.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-20 00:00:00,7000.0,9580.0,9055.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-21 00:00:00,7500.0,9405.0,9000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-23 00:00:00,7500.0,9530.0,9180.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-30 00:00:00,6000.0,9255.0,9090.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-05 00:00:00,5000.0,9585.0,8900.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-12 00:00:00,6350.0,9240.0,8875.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-13 00:00:00,6275.0,9215.0,8850.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-22 00:00:00,5500.0,9250.0,9095.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-29 00:00:00,6000.0,9085.0,8875.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-06 00:00:00,6000.0,8550.0,8320.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-15 00:00:00,8150.0,8950.0,8760.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-21 00:00:00,6330.0,9025.0,8550.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-22 00:00:00,5300.0,8535.0,8255.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-26 00:00:00,5755.0,8500.0,8100.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-20 00:00:00,5000.0,7950.0,7375.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-03 00:00:00,5255.0,6900.0,6750.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-19 00:00:00,7000.0,7250.0,7050.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-03 00:00:00,7625.0,7650.0,7650.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-06 00:00:00,6000.0,7255.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-07 00:00:00,5570.0,7000.0,6240.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-09 00:00:00,5125.0,7750.0,6900.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-27 00:00:00,5500.0,7850.0,6500.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-24 00:00:00,8500.0,9000.0,8750.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-26 00:00:00,6875.0,8355.0,7615.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-15 00:00:00,5000.0,8625.0,6813.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-23 00:00:00,6500.0,8250.0,7375.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-28 00:00:00,7500.0,9155.0,8328.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-29 00:00:00,7750.0,9000.0,8375.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-08 00:00:00,8500.0,9000.0,8750.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-11 00:00:00,8350.0,9000.0,8675.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-22 00:00:00,9000.0,9000.0,9000.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-04 00:00:00,8725.0,8725.0,8725.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-04 00:00:00,7050.0,7050.0,7050.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-15 00:00:00,7500.0,7500.0,7500.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-19 00:00:00,6500.0,6500.0,6500.0,268
+Gujarat,Gir Somnath,Kodinar,Ground Nut Seed,Other,FAQ,2022-06-23 00:00:00,8225.0,9525.0,9000.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2022-01-25 00:00:00,5250.0,6600.0,5925.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2022-01-27 00:00:00,5250.0,6600.0,5925.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2022-02-14 00:00:00,5000.0,7000.0,6000.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2022-08-23 00:00:00,6000.0,8000.0,7000.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2022-10-13 00:00:00,6250.0,7075.0,6662.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-16 00:00:00,8725.0,8725.0,8725.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-21 00:00:00,7500.0,8910.0,8250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-20 00:00:00,7750.0,9670.0,8700.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-21 00:00:00,8000.0,9375.0,9000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-25 00:00:00,8750.0,9890.0,9250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-30 00:00:00,7875.0,9000.0,8000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-09 00:00:00,6500.0,7775.0,7300.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-28 00:00:00,6750.0,8100.0,7250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-14 00:00:00,6000.0,7875.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-13 00:00:00,6250.0,7350.0,7000.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-14 00:00:00,6000.0,7800.0,7000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-03 00:00:00,5375.0,6455.0,5915.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-05 00:00:00,5000.0,5880.0,5440.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-08 00:00:00,5500.0,6230.0,5865.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-12 00:00:00,5500.0,6530.0,6015.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-20 00:00:00,5575.0,6155.0,5865.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-21 00:00:00,5250.0,6230.0,5740.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-22 00:00:00,5500.0,6030.0,5765.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-25 00:00:00,5375.0,6205.0,5790.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-02 00:00:00,5750.0,6530.0,6140.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-05 00:00:00,5725.0,6505.0,6115.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-17 00:00:00,5825.0,6955.0,6390.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-23 00:00:00,6575.0,7105.0,6840.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-28 00:00:00,6750.0,7580.0,7165.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-07 00:00:00,6725.0,7605.0,7165.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-21 00:00:00,6750.0,7630.0,7190.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-22 00:00:00,6775.0,7655.0,7215.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-26 00:00:00,8425.0,9305.0,8865.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-06 00:00:00,7500.0,8730.0,8115.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-23 00:00:00,8125.0,9355.0,8740.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-29 00:00:00,8125.0,9005.0,8565.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-04 00:00:00,8250.0,9380.0,8815.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-07 00:00:00,7750.0,9000.0,8375.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-21 00:00:00,7575.0,8905.0,8240.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-09 00:00:00,7825.0,8555.0,8190.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-23 00:00:00,6975.0,7455.0,7015.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-15 00:00:00,6000.0,7280.0,6640.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-01 00:00:00,6500.0,7230.0,6865.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-21 00:00:00,6500.0,7730.0,7115.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-28 00:00:00,6725.0,7755.0,7240.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-30 00:00:00,6250.0,7180.0,6715.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-03 00:00:00,6375.0,7305.0,6840.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-08 00:00:00,6500.0,7500.0,7000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-12 00:00:00,6750.0,7500.0,7125.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-23 00:00:00,6750.0,7880.0,7315.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-03 00:00:00,5750.0,6425.0,6085.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-04 00:00:00,5775.0,6350.0,6060.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-15 00:00:00,5975.0,6125.0,6050.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-17 00:00:00,6175.0,6225.0,6200.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-21 00:00:00,6125.0,6225.0,6175.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-08 00:00:00,5500.0,6750.0,6125.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-12 00:00:00,5775.0,7025.0,6400.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-14 00:00:00,6275.0,6700.0,6485.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-18 00:00:00,6275.0,6950.0,6610.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-23 00:00:00,7000.0,7450.0,7225.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-08 00:00:00,6500.0,7900.0,7200.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-10 00:00:00,7000.0,7700.0,7350.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-12 00:00:00,7000.0,7650.0,7325.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-02 00:00:00,7475.0,8000.0,7735.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-29 00:00:00,7250.0,7375.0,7310.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-09 00:00:00,7000.0,7200.0,7100.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-11 00:00:00,7000.0,7900.0,7450.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-28 00:00:00,6975.0,6975.0,6975.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-30 00:00:00,6450.0,7000.0,6725.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-31 00:00:00,6925.0,7350.0,7135.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-21 00:00:00,6975.0,7200.0,7085.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-22 00:00:00,6500.0,7000.0,6750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-28 00:00:00,7275.0,7350.0,7310.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-14 00:00:00,7225.0,7400.0,7310.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-18 00:00:00,7150.0,7350.0,7250.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-08 00:00:00,6550.0,7875.0,7210.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-09 00:00:00,6500.0,7400.0,6950.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-22 00:00:00,6750.0,7475.0,7110.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-01 00:00:00,6500.0,7250.0,6875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-08 00:00:00,6750.0,6750.0,6750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-18 00:00:00,6625.0,7200.0,6910.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-19 00:00:00,6750.0,7000.0,6875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-15 00:00:00,6200.0,7500.0,6850.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-17 00:00:00,6250.0,7250.0,6750.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-10 00:00:00,6650.0,7750.0,7200.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-12 00:00:00,6000.0,7375.0,6685.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-21 00:00:00,6800.0,7525.0,7160.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-24 00:00:00,6400.0,7250.0,6825.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-29 00:00:00,7330.0,8605.0,8280.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-05 00:00:00,8000.0,9105.0,8555.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-14 00:00:00,7250.0,8505.0,7980.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-20 00:00:00,4730.0,6030.0,5780.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-03 00:00:00,7505.0,8380.0,8380.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-12 00:00:00,7250.0,7755.0,7480.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-17 00:00:00,7005.0,7780.0,7505.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-18 00:00:00,110.0,125.5,120.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-20 00:00:00,100.0,110.0,105.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-22 00:00:00,100.0,116.5,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-31 00:00:00,110.0,126.0,115.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-01 00:00:00,115.0,130.0,120.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-10 00:00:00,120.0,123.5,121.5,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-15 00:00:00,110.0,133.0,123.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-18 00:00:00,140.0,152.0,145.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-22 00:00:00,120.0,153.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-23 00:00:00,105.0,153.0,135.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-24 00:00:00,110.0,153.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-02 00:00:00,120.0,154.7,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-23 00:00:00,135.0,155.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-02 00:00:00,115.0,158.0,145.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-08 00:00:00,125.0,160.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-20 00:00:00,120.0,155.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-23 00:00:00,125.0,160.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-05 00:00:00,120.0,160.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-10 00:00:00,110.0,160.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-11 00:00:00,120.0,170.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-13 00:00:00,120.0,172.0,160.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-30 00:00:00,130.0,178.0,155.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-01 00:00:00,138.0,182.1,165.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-07 00:00:00,140.0,185.0,167.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-14 00:00:00,115.0,190.0,175.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-15 00:00:00,135.0,185.0,165.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-25 00:00:00,137.0,200.0,170.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-30 00:00:00,130.0,190.0,180.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-16 00:00:00,136.5,188.0,175.1,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-26 00:00:00,130.0,190.0,180.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-30 00:00:00,130.0,182.0,175.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-23 00:00:00,135.0,182.1,175.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-03 00:00:00,130.0,175.1,160.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-12 00:00:00,130.0,168.0,155.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-17 00:00:00,135.0,165.1,155.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-19 00:00:00,130.0,161.8,155.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-20 00:00:00,130.0,160.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-22 00:00:00,140.0,160.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-24 00:00:00,120.0,161.5,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-28 00:00:00,120.0,160.0,145.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-06 00:00:00,100.0,162.5,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-21 00:00:00,135.0,163.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-09 00:00:00,130.0,160.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-16 00:00:00,130.0,156.5,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-17 00:00:00,110.0,155.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-18 00:00:00,130.0,155.1,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-19 00:00:00,130.0,159.5,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-28 00:00:00,130.0,155.1,143.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-02 00:00:00,107.0,154.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-10 00:00:00,130.0,152.5,142.5,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-16 00:00:00,115.0,152.5,130.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-27 00:00:00,120.0,153.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-29 00:00:00,130.0,151.0,140.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-06 00:00:00,6750.0,7250.0,6950.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-07 00:00:00,6750.0,7250.0,7000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-17 00:00:00,7250.0,7650.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-01-21 00:00:00,7200.0,7625.0,7375.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-03 00:00:00,7625.0,8250.0,8050.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-14 00:00:00,7625.0,8250.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-02-15 00:00:00,7500.0,8000.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-03-16 00:00:00,8125.0,8625.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-11 00:00:00,8550.0,9000.0,8900.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-04-26 00:00:00,8500.0,8800.0,8700.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-04 00:00:00,8700.0,9100.0,8950.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-05 00:00:00,8625.0,9000.0,8750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-13 00:00:00,8500.0,8850.0,8650.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-17 00:00:00,8375.0,8750.0,8625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-05-27 00:00:00,8375.0,8875.0,8625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-06 00:00:00,8500.0,8900.0,8700.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-13 00:00:00,7500.0,9000.0,8850.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-14 00:00:00,7500.0,9000.0,8750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-17 00:00:00,8500.0,8950.0,8700.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-06-18 00:00:00,8500.0,9000.0,8750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-22 00:00:00,9100.0,9825.0,9450.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-07-23 00:00:00,9000.0,9610.0,9350.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-01 00:00:00,9000.0,9500.0,9250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-05 00:00:00,8500.0,9500.0,9000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-06 00:00:00,8750.0,9250.0,9000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-22 00:00:00,8850.0,9400.0,9150.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-08-26 00:00:00,9000.0,9500.0,9150.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-17 00:00:00,7550.0,8420.0,8020.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-20 00:00:00,7850.0,8300.0,8100.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-21 00:00:00,7700.0,8375.0,8000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-22 00:00:00,7625.0,8400.0,8025.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-09-26 00:00:00,8200.0,8650.0,8400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-07 00:00:00,8000.0,8675.0,8400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-10 00:00:00,8000.0,8500.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-11 00:00:00,8250.0,8700.0,8500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-22 00:00:00,7000.0,8065.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-10-31 00:00:00,7000.0,8065.0,7750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-02 00:00:00,8100.0,8550.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-08 00:00:00,8125.0,8500.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-09 00:00:00,8025.0,8400.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-11 00:00:00,8000.0,8350.0,8200.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-12 00:00:00,7000.0,7750.0,7650.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-18 00:00:00,8000.0,8450.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-19 00:00:00,8000.0,8450.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-11-26 00:00:00,8000.0,8575.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-02 00:00:00,7950.0,8400.0,8200.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-05 00:00:00,7900.0,8375.0,8150.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-20 00:00:00,8000.0,8500.0,8250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2022-12-30 00:00:00,7875.0,8250.0,8050.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-04-02 00:00:00,5680.0,5680.0,5680.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-04-04 00:00:00,5000.0,6075.0,5875.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-04-14 00:00:00,5200.0,6075.0,6025.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-04-22 00:00:00,5200.0,6105.0,5750.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-04-04 00:00:00,100.0,120.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-04-14 00:00:00,95.0,122.5,115.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-04-17 00:00:00,80.0,117.0,113.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-04-18 00:00:00,100.0,112.1,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-04-21 00:00:00,100.0,113.5,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-04-22 00:00:00,105.0,117.0,110.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-21 00:00:00,6000.0,6950.0,6350.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-30 00:00:00,4860.0,7000.0,6725.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-19 00:00:00,5625.0,7000.0,6135.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-20 00:00:00,5250.0,5875.0,5560.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-22 00:00:00,5625.0,7830.0,6660.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-24 00:00:00,5675.0,6300.0,6000.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-29 00:00:00,6005.0,6005.0,6005.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-05-16 00:00:00,5500.0,6295.0,6050.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-24 00:00:00,5525.0,6605.0,6065.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-27 00:00:00,6125.0,7255.0,6690.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-29 00:00:00,6100.0,7000.0,6550.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-13 00:00:00,5150.0,5600.0,5375.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-16 00:00:00,5350.0,5625.0,5485.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-19 00:00:00,5500.0,5700.0,5600.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-20 00:00:00,5625.0,5750.0,5685.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-23 00:00:00,5250.0,6400.0,5825.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-26 00:00:00,5300.0,5800.0,5600.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-19 00:00:00,5705.0,6000.0,5930.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-27 00:00:00,6230.0,6605.0,6280.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-01 00:00:00,136.8,136.8,136.8,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-15 00:00:00,105.0,125.0,115.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-05-16 00:00:00,6700.0,7050.0,6875.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-05-12 00:00:00,5800.0,5955.0,5900.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-05-29 00:00:00,5000.0,6600.0,6200.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-05-30 00:00:00,5250.0,7250.0,7200.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-06 00:00:00,5875.0,7300.0,7005.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-12 00:00:00,4500.0,7250.0,6700.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-27 00:00:00,5480.0,6755.0,6500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-30 00:00:00,4875.0,6870.0,6755.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-11 00:00:00,7500.0,7500.0,7500.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-08-19 00:00:00,5500.0,6625.0,6000.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-08-20 00:00:00,5500.0,6700.0,6000.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-08-25 00:00:00,5500.0,6850.0,6725.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-08-30 00:00:00,6225.0,6975.0,6525.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2025-08-06 00:00:00,6000.0,7150.0,6625.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2025-08-07 00:00:00,5000.0,6650.0,5620.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-05 00:00:00,6250.0,7075.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-06 00:00:00,6250.0,6975.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-08 00:00:00,6250.0,7200.0,6500.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-26 00:00:00,5125.0,6605.0,5865.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-28 00:00:00,5505.0,6455.0,5980.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-04 00:00:00,5675.0,5875.0,5775.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-05 00:00:00,5750.0,6550.0,6150.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-11 00:00:00,5550.0,5775.0,5660.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-29 00:00:00,5900.0,6000.0,5950.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-30 00:00:00,5300.0,6900.0,6100.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-27 00:00:00,5805.0,6555.0,6555.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-28 00:00:00,6280.0,6755.0,6430.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-02 00:00:00,106.0,139.0,128.5,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-07 00:00:00,105.0,134.4,125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-22 00:00:00,110.0,137.0,125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-29 00:00:00,105.0,133.0,125.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-02 00:00:00,6500.0,7000.0,6800.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-04 00:00:00,6500.0,7000.0,6750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-05 00:00:00,6625.0,7000.0,6850.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-07 00:00:00,6250.0,7250.0,6375.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-12 00:00:00,6250.0,7125.0,6750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-08-27 00:00:00,6750.0,7225.0,7050.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-08-08 00:00:00,15000.0,15500.0,15200.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-09 00:00:00,7000.0,9750.0,7750.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-16 00:00:00,6350.0,8250.0,7370.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-17 00:00:00,6825.0,7525.0,7525.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-20 00:00:00,6590.0,9000.0,7255.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-23 00:00:00,6000.0,9000.0,7250.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-24 00:00:00,5500.0,8800.0,7155.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-25 00:00:00,6250.0,9400.0,7125.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-26 00:00:00,6250.0,9750.0,7000.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-04 00:00:00,5925.0,6200.0,6200.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-11 00:00:00,5875.0,6075.0,5875.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-16 00:00:00,6050.0,6050.0,6050.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-18 00:00:00,5200.0,7255.0,6025.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-20 00:00:00,7000.0,7760.0,7755.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-17 00:00:00,6800.0,7205.0,7003.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-30 00:00:00,6000.0,7000.0,6750.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-24 00:00:00,5505.0,7005.0,6505.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-25 00:00:00,6005.0,7555.0,6755.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-28 00:00:00,5505.0,6855.0,6255.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2025-06-21 00:00:00,5000.0,7950.0,7520.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2025-06-28 00:00:00,5000.0,6945.0,5900.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-10 00:00:00,5900.0,6075.0,5985.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-20 00:00:00,5500.0,6075.0,5785.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-09 00:00:00,6355.0,6830.0,6505.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-20 00:00:00,6080.0,7255.0,6505.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-03 00:00:00,110.0,160.0,140.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-09 00:00:00,100.0,170.0,120.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-28 00:00:00,120.0,200.0,150.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-06-12 00:00:00,6750.0,7200.0,6950.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-06-02 00:00:00,5500.0,6725.0,6400.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-06-24 00:00:00,5700.0,7125.0,6550.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-02 00:00:00,6000.0,7805.0,7125.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-03 00:00:00,6680.0,7855.0,7070.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-05 00:00:00,6250.0,7630.0,7200.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-10 00:00:00,6715.0,7760.0,7250.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-12 00:00:00,5000.0,7750.0,7305.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-19 00:00:00,6670.0,7500.0,7210.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-22 00:00:00,6000.0,7500.0,7000.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-24 00:00:00,6500.0,7250.0,7090.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-28 00:00:00,6225.0,7205.0,6770.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-08 00:00:00,5350.0,6500.0,6500.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-14 00:00:00,5000.0,6250.0,5915.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-16 00:00:00,6500.0,6500.0,6500.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-19 00:00:00,7500.0,7500.0,7500.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-28 00:00:00,7000.0,7505.0,7253.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-07-08 00:00:00,6250.0,7750.0,7550.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-07-15 00:00:00,6000.0,7600.0,6950.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-07-17 00:00:00,6025.0,8000.0,7850.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-07-21 00:00:00,6200.0,7475.0,7125.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-07-29 00:00:00,6325.0,7260.0,7025.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-03 00:00:00,6005.0,7605.0,6755.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-10 00:00:00,5755.0,6805.0,6255.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-17 00:00:00,5755.0,7255.0,6505.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-21 00:00:00,5605.0,6805.0,6455.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-24 00:00:00,5755.0,7155.0,6505.0,268
+Gujarat,Jamnagar,Jam Jodhpur,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-25 00:00:00,5755.0,6655.0,6155.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2025-07-04 00:00:00,5000.0,6425.0,6120.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2025-07-05 00:00:00,5000.0,6975.0,6250.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2025-07-09 00:00:00,5000.0,6925.0,6050.0,268
+Gujarat,Jamnagar,Kalawad,Ground Nut Seed,Other,FAQ,2025-07-26 00:00:00,4000.0,7050.0,5800.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-04 00:00:00,5750.0,7275.0,6500.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-05 00:00:00,6000.0,7125.0,6750.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-14 00:00:00,6750.0,7500.0,7250.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-24 00:00:00,6500.0,7590.0,7250.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-03 00:00:00,6000.0,8000.0,7000.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-14 00:00:00,5325.0,7055.0,6440.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-23 00:00:00,6575.0,7005.0,6790.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-24 00:00:00,6000.0,6630.0,6315.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-25 00:00:00,6000.0,7000.0,6500.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-30 00:00:00,6175.0,6855.0,6515.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-14 00:00:00,5875.0,6075.0,5975.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-18 00:00:00,5625.0,6125.0,5875.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-28 00:00:00,5725.0,6100.0,5910.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-30 00:00:00,5850.0,6100.0,5975.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-03 00:00:00,5905.0,7005.0,6750.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-05 00:00:00,6155.0,8005.0,6755.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-12 00:00:00,6280.0,7880.0,6755.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-15 00:00:00,6430.0,7330.0,6780.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-18 00:00:00,6000.0,7505.0,6830.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-22 00:00:00,6125.0,7980.0,7055.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-01 00:00:00,110.0,170.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-04 00:00:00,110.0,185.0,150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-10 00:00:00,110.0,155.0,140.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-02 00:00:00,6250.0,9750.0,9000.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-03 00:00:00,6500.0,9000.0,7000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-01 00:00:00,6750.0,7500.0,7250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-07 00:00:00,7125.0,7900.0,7500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-09 00:00:00,7000.0,7900.0,7450.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-16 00:00:00,7000.0,7900.0,7550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-07-23 00:00:00,6500.0,7400.0,7050.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-07-05 00:00:00,5500.0,6650.0,6400.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-07-21 00:00:00,5500.0,7050.0,6600.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-25 00:00:00,4500.0,5475.0,4500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-29 00:00:00,3750.0,5225.0,4500.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-08 00:00:00,5855.0,6025.0,5940.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-17 00:00:00,6350.0,6350.0,6350.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-23 00:00:00,5000.0,5025.0,5025.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-08 00:00:00,5750.0,5750.0,5750.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-09-15 00:00:00,5250.0,6725.0,6125.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-09-18 00:00:00,5500.0,6660.0,6150.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia,Ground Nut Seed,Other,FAQ,2025-09-19 00:00:00,5625.0,6600.0,6450.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2025-09-05 00:00:00,5250.0,6375.0,5950.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2025-09-06 00:00:00,3625.0,6200.0,5250.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2025-09-08 00:00:00,5875.0,6875.0,6550.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2025-09-15 00:00:00,5250.0,7000.0,6350.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-17 00:00:00,6075.0,6555.0,6315.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-18 00:00:00,6055.0,6505.0,6280.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-30 00:00:00,4750.0,5880.0,5315.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-15 00:00:00,5250.0,5725.0,5485.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-24 00:00:00,5250.0,5625.0,5435.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-04 00:00:00,5755.0,6530.0,6430.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-12 00:00:00,5500.0,6555.0,6005.0,268
+Gujarat,Rajkot,Dhoraji,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-22 00:00:00,5755.0,6680.0,6355.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-01 00:00:00,105.0,133.0,125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-05 00:00:00,110.0,132.0,127.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-06 00:00:00,105.0,130.0,127.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-10 00:00:00,100.0,133.1,125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-13 00:00:00,100.0,133.0,126.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-22 00:00:00,98.0,130.5,125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-23 00:00:00,100.0,130.0,120.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-24 00:00:00,100.0,130.0,125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-26 00:00:00,100.0,129.0,115.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-27 00:00:00,90.0,121.0,110.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-30 00:00:00,93.0,109.0,100.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-02 00:00:00,5750.0,7040.0,6670.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-16 00:00:00,6250.0,7050.0,6720.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-20 00:00:00,6050.0,7025.0,6750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-22 00:00:00,6000.0,7050.0,6650.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-23 00:00:00,6150.0,7000.0,6550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-26 00:00:00,6000.0,7185.0,6650.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-09-30 00:00:00,6500.0,6875.0,6675.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-09-02 00:00:00,5750.0,5900.0,5800.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-09-08 00:00:00,4555.0,4900.0,4800.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-04 00:00:00,3000.0,6000.0,5650.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-04 00:00:00,3750.0,5475.0,5280.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-08 00:00:00,4500.0,5375.0,4750.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-27 00:00:00,4500.0,4500.0,4500.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-04 00:00:00,4585.0,5275.0,5275.0,268
+Gujarat,Amreli,Dhari,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-11 00:00:00,5150.0,5150.0,5150.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-01 00:00:00,5200.0,5200.0,5200.0,268
+Gujarat,Porbandar,Porbandar,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-03 00:00:00,6000.0,6000.0,6000.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-03 00:00:00,90.0,125.5,120.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-15 00:00:00,88.0,124.4,115.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-08 00:00:00,5400.0,6750.0,5950.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-10 00:00:00,6175.0,6685.0,6420.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2025-10-28 00:00:00,6500.0,7000.0,6750.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Other,FAQ,2025-10-13 00:00:00,4000.0,4750.0,4700.0,268
+Gujarat,Junagarh,Junagadh APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-10 00:00:00,5500.0,6450.0,6000.0,268
+Gujarat,Rajkot,Jasdan APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-11 00:00:00,4750.0,6100.0,5750.0,268
+Gujarat,Junagarh,Visavadar APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-14 00:00:00,5475.0,6255.0,5865.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-12 00:00:00,5150.0,6500.0,6105.0,268
+Gujarat,Amreli,Amreli APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-03 00:00:00,4000.0,5500.0,5325.0,268
+Gujarat,Junagarh,Junagadh APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-04 00:00:00,5500.0,6250.0,6000.0,268
+Gujarat,Rajkot,Dhoraji APMC,Ground Nut Seed,Ground Nut Seed,Local,2025-11-15 00:00:00,5000.0,6580.0,6280.0,268
+Gujarat,Junagarh,Visavadar APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-18 00:00:00,5500.0,6380.0,5940.0,268
+Gujarat,Rajkot,Jasdan APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-17 00:00:00,4500.0,6500.0,5750.0,268
+Gujarat,Amreli,Amreli APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-20 00:00:00,4225.0,6295.0,6000.0,268
+Gujarat,Rajkot,Jasdan APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-24 00:00:00,4500.0,6100.0,5750.0,268
+Gujarat,Amreli,Amreli APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-26 00:00:00,5900.0,6625.0,6150.0,268
+Gujarat,Junagarh,Visavadar APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-11-27 00:00:00,5875.0,6755.0,6315.0,268
+Gujarat,Amreli,Amreli APMC,Ground Nut Seed,Other,FAQ,2025-11-11 00:00:00,5900.0,5900.0,5900.0,268
+Gujarat,Devbhumi Dwarka,Jam Khambalia APMC,Ground Nut Seed,Other,FAQ,2025-11-05 00:00:00,5000.0,6090.0,6000.0,268
+Gujarat,Jamnagar,Kalawad APMC,Ground Nut Seed,Other,Local,2025-11-14 00:00:00,4350.0,6000.0,5515.0,268
+Gujarat,Jamnagar,Kalawad APMC,Ground Nut Seed,Other,Local,2025-11-18 00:00:00,3500.0,6300.0,5450.0,268
+Gujarat,Junagarh,Junagadh APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-09 00:00:00,5500.0,6980.0,6250.0,268
+Gujarat,Porbandar,Porbandar APMC,Ground Nut Seed,Ground Nut Seed,Local,2025-12-05 00:00:00,5000.0,5250.0,5125.0,268
+Gujarat,Rajkot,Jasdan APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-05 00:00:00,5000.0,6500.0,6150.0,268
+Gujarat,Junagarh,Visavadar APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-06 00:00:00,5620.0,6530.0,6075.0,268
+Gujarat,Porbandar,Porbandar APMC,Ground Nut Seed,Ground Nut Seed,Local,2025-12-11 00:00:00,5300.0,5300.0,5300.0,268
+Gujarat,Porbandar,Porbandar APMC,Ground Nut Seed,Ground Nut Seed,Local,2025-12-12 00:00:00,5975.0,6000.0,5985.0,268
+Gujarat,Amreli,Amreli APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-16 00:00:00,5300.0,6980.0,6650.0,268
+Gujarat,Rajkot,Upleta APMC,Ground Nut Seed,Ground Nut Seed,Local,2025-12-17 00:00:00,5250.0,6750.0,6000.0,268
+Gujarat,Rajkot,Jasdan APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-17 00:00:00,5500.0,6900.0,6250.0,268
+Gujarat,Amreli,Amreli APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-18 00:00:00,5500.0,6905.0,6000.0,268
+Gujarat,Amreli,Dhari APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-22 00:00:00,5500.0,6565.0,6105.0,268
+Gujarat,Porbandar,Porbandar APMC,Ground Nut Seed,Ground Nut Seed,Local,2025-12-22 00:00:00,5375.0,6150.0,5760.0,268
+Gujarat,Amreli,Dhari APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-24 00:00:00,5150.0,6325.0,5925.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-22 00:00:00,5755.0,6530.0,6255.0,268
+Gujarat,Rajkot,Jasdan APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-26 00:00:00,5500.0,7350.0,6500.0,268
+Gujarat,Amreli,Dhari APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-26 00:00:00,5875.0,6755.0,6755.0,268
+Gujarat,Junagarh,Visavadar APMC,Ground Nut Seed,Ground Nut Seed,FAQ,2025-12-30 00:00:00,5900.0,7180.0,6540.0,268
+Gujarat,Jamnagar,Kalawad APMC,Ground Nut Seed,Other,Local,2025-12-31 00:00:00,5000.0,6775.0,6110.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-27 00:00:00,3000.0,3475.0,3350.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-05 00:00:00,3125.0,3500.0,3410.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-10 00:00:00,3350.0,3655.0,3500.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-11 00:00:00,3250.0,3500.0,3375.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-13 00:00:00,3305.0,3675.0,3580.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-16 00:00:00,3300.0,3710.0,3440.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-29 00:00:00,2750.0,3750.0,3675.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-14 00:00:00,3075.0,3805.0,3775.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-22 00:00:00,3300.0,4075.0,3745.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-24 00:00:00,3105.0,3725.0,3655.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-06 00:00:00,2875.0,3675.0,3650.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-18 00:00:00,3055.0,3725.0,3665.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-22 00:00:00,3100.0,3770.0,3705.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-24 00:00:00,2850.0,3775.0,3775.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-09 00:00:00,3500.0,3755.0,3725.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-22 00:00:00,3250.0,3555.0,3425.0,268
+Gujarat,Amreli,Amreli,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-23 00:00:00,2625.0,3680.0,3640.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-01-01 00:00:00,2055.0,2250.0,2153.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-01-06 00:00:00,1805.0,2280.0,2043.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-01-13 00:00:00,2150.0,2240.0,2195.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-01-15 00:00:00,2040.0,2250.0,2145.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-01-17 00:00:00,1750.0,2335.0,2043.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-07-02 00:00:00,3305.0,3750.0,3528.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-07-06 00:00:00,3630.0,3850.0,3740.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-07-15 00:00:00,3355.0,4060.0,3708.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-07-23 00:00:00,3630.0,4165.0,3898.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-07-31 00:00:00,3560.0,3750.0,3655.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-08-03 00:00:00,3000.0,3575.0,3288.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-08-11 00:00:00,3435.0,4000.0,3718.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-08-17 00:00:00,3330.0,3515.0,3423.0,268
+Gujarat,Amreli,Rajula,Ground Nut Seed,Other,FAQ,2009-08-18 00:00:00,3400.0,3510.0,3455.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-18 00:00:00,3625.0,3710.0,3670.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-30 00:00:00,3550.0,3610.0,3580.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-01 00:00:00,3550.0,3605.0,3580.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-06 00:00:00,3580.0,3580.0,3580.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-20 00:00:00,3555.0,3630.0,3595.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-22 00:00:00,3605.0,3650.0,3630.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-28 00:00:00,3600.0,3660.0,3630.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-02 00:00:00,3575.0,3635.0,3605.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-05 00:00:00,3575.0,3600.0,3590.0,268
+Gujarat,Amreli,Savarkundla,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-12 00:00:00,3500.0,3635.0,3570.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-06-27 00:00:00,2875.0,4050.0,3463.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-06-29 00:00:00,2900.0,4400.0,3650.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-06-30 00:00:00,2920.0,3625.0,3273.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-07-07 00:00:00,3250.0,3700.0,3475.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-07-28 00:00:00,3375.0,3790.0,3600.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-07-29 00:00:00,3250.0,3810.0,3530.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-08-08 00:00:00,3200.0,3625.0,3450.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-08-10 00:00:00,3800.0,4250.0,4025.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-08-24 00:00:00,3250.0,3710.0,3500.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-08-27 00:00:00,3250.0,3750.0,3500.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-09-08 00:00:00,2625.0,2875.0,2750.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-09-16 00:00:00,2250.0,3250.0,2800.0,268
+Gujarat,Jamnagar,Jamnagar,Ground Nut Seed,Other,FAQ,2009-09-25 00:00:00,2750.0,3200.0,2975.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-07 00:00:00,3725.0,4400.0,4125.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-16 00:00:00,2900.0,3825.0,3375.0,268
+Gujarat,Junagarh,Junagadh,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-19 00:00:00,3250.0,3750.0,3500.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-15 00:00:00,3375.0,3380.0,3378.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-02 00:00:00,3400.0,3410.0,3405.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-08 00:00:00,3400.0,3410.0,3405.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-22 00:00:00,3360.0,3365.0,3363.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-07 00:00:00,3500.0,3550.0,3530.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-09 00:00:00,3420.0,3425.0,3423.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-17 00:00:00,3370.0,3375.0,3373.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-04 00:00:00,3420.0,3430.0,3425.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-21 00:00:00,3400.0,3405.0,3403.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-13 00:00:00,3400.0,3410.0,3405.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-04 00:00:00,3395.0,3400.0,3398.0,268
+Gujarat,Junagarh,Mangrol,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-16 00:00:00,3395.0,3400.0,3398.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-02 00:00:00,2500.0,2730.0,2615.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-03 00:00:00,2510.0,2770.0,2640.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-13 00:00:00,2440.0,2810.0,2625.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-15 00:00:00,2405.0,2835.0,2620.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-20 00:00:00,2370.0,2790.0,2580.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-21 00:00:00,2355.0,3005.0,2680.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-04 00:00:00,1960.0,2550.0,2255.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-05 00:00:00,1940.0,2320.0,2130.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-07 00:00:00,2300.0,2730.0,2515.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-13 00:00:00,2370.0,2740.0,2555.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-07 00:00:00,2500.0,2960.0,2730.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-08 00:00:00,2560.0,2970.0,2765.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-10 00:00:00,2570.0,2940.0,2755.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-24 00:00:00,2710.0,3390.0,3050.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-25 00:00:00,2680.0,3360.0,3020.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-01 00:00:00,2765.0,3405.0,3085.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-01 00:00:00,3175.0,4065.0,3620.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-02 00:00:00,3200.0,4050.0,3625.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-06 00:00:00,2920.0,3510.0,3215.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-12 00:00:00,2915.0,3525.0,3220.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-20 00:00:00,3175.0,3635.0,3405.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-22 00:00:00,3240.0,3710.0,3475.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-30 00:00:00,3190.0,3540.0,3365.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-04 00:00:00,3250.0,3650.0,3450.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-08 00:00:00,3220.0,3710.0,3465.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-11 00:00:00,3180.0,3640.0,3410.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-14 00:00:00,3140.0,3550.0,3345.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-17 00:00:00,3260.0,3620.0,3440.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-01 00:00:00,3150.0,3500.0,3325.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-22 00:00:00,2940.0,3510.0,3225.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-27 00:00:00,3220.0,3630.0,3425.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-11 00:00:00,3230.0,3420.0,3325.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-14 00:00:00,3140.0,3400.0,3270.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-18 00:00:00,3130.0,3400.0,3265.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-29 00:00:00,2450.0,3360.0,2905.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-30 00:00:00,2415.0,3075.0,2745.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-12 00:00:00,2340.0,3580.0,2960.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-24 00:00:00,2280.0,3800.0,3040.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-25 00:00:00,2270.0,3810.0,3040.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-03 00:00:00,3270.0,3880.0,3575.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-17 00:00:00,3240.0,3670.0,3455.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-22 00:00:00,3260.0,3670.0,3465.0,268
+Gujarat,Junagarh,Visavadar,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-29 00:00:00,3200.0,3690.0,3445.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-13 00:00:00,2500.0,3075.0,2990.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-18 00:00:00,2540.0,2805.0,2725.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-18 00:00:00,3105.0,3795.0,3625.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-21 00:00:00,3430.0,3960.0,3685.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-04 00:00:00,3405.0,3750.0,3555.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-08 00:00:00,3375.0,3825.0,3500.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-10 00:00:00,3280.0,3775.0,3500.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-14 00:00:00,3360.0,3665.0,3525.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-22 00:00:00,3250.0,3650.0,3545.0,268
+Gujarat,Rajkot,Gondal,Ground Nut Seed,Other,FAQ,2009-02-28 00:00:00,1625.0,2825.0,2755.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-09-07 00:00:00,650.0,725.0,710.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-09-22 00:00:00,600.0,700.0,650.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-09-24 00:00:00,650.0,694.0,666.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-10-10 00:00:00,3025.0,3350.0,3250.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-10-12 00:00:00,3000.0,3335.0,3250.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-10-28 00:00:00,3125.0,3370.0,3255.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-11-03 00:00:00,3000.0,3300.0,3125.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-11-04 00:00:00,3125.0,3350.0,3250.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-11-06 00:00:00,3210.0,3350.0,3250.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-11-09 00:00:00,3250.0,3750.0,3460.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-11-11 00:00:00,3125.0,3350.0,3150.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-11-14 00:00:00,3400.0,3400.0,3400.0,268
+Gujarat,Rajkot,Jasdan,Ground Nut Seed,Other,FAQ,2009-12-14 00:00:00,3300.0,3300.0,3300.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-13 00:00:00,2625.0,2850.0,2725.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-20 00:00:00,2405.0,2905.0,2800.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-21 00:00:00,2105.0,2505.0,2355.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-24 00:00:00,2450.0,2950.0,2855.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-02 00:00:00,2125.0,2750.0,2700.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-07 00:00:00,2250.0,3005.0,2775.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-11 00:00:00,2500.0,3030.0,2905.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-16 00:00:00,2625.0,3105.0,2930.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-19 00:00:00,2605.0,2850.0,2805.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-03 00:00:00,2605.0,3005.0,2755.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-05 00:00:00,2505.0,3130.0,2750.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-17 00:00:00,2555.0,3155.0,2900.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-23 00:00:00,2605.0,3605.0,3250.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-07 00:00:00,2875.0,3425.0,3175.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-23 00:00:00,3250.0,3575.0,3400.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-01 00:00:00,3505.0,3905.0,3755.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-02 00:00:00,3250.0,3905.0,3555.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-10 00:00:00,3250.0,3780.0,3700.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-28 00:00:00,3005.0,3260.0,3140.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-02 00:00:00,3125.0,3350.0,3200.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-16 00:00:00,3000.0,3505.0,3300.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-19 00:00:00,3150.0,3525.0,3325.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-26 00:00:00,3325.0,3725.0,3500.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-27 00:00:00,3250.0,3650.0,3450.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-08 00:00:00,3250.0,3905.0,3625.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-09 00:00:00,3400.0,3855.0,3625.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-10 00:00:00,3350.0,3905.0,3625.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-18 00:00:00,3400.0,3900.0,3625.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-20 00:00:00,3400.0,3850.0,3700.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-31 00:00:00,3250.0,3805.0,3655.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-01 00:00:00,3400.0,3605.0,3475.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-04 00:00:00,2695.0,3755.0,3550.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-19 00:00:00,3195.0,3680.0,3305.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-02 00:00:00,3855.0,4025.0,4005.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-11 00:00:00,3300.0,3805.0,3555.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-18 00:00:00,3455.0,3555.0,3520.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-26 00:00:00,3150.0,3455.0,3355.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-01 00:00:00,3000.0,3375.0,3255.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-03 00:00:00,3000.0,3605.0,3400.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-14 00:00:00,3000.0,3450.0,3350.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-28 00:00:00,3000.0,3350.0,3105.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-29 00:00:00,3000.0,3450.0,3250.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-02 00:00:00,3005.0,3375.0,3350.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-03 00:00:00,3250.0,3605.0,3500.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-07 00:00:00,3475.0,3630.0,3555.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-18 00:00:00,3250.0,3700.0,3505.0,268
+Gujarat,Rajkot,Jetpur(Dist.Rajkot),Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-09 00:00:00,3555.0,3655.0,3605.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-19 00:00:00,2500.0,3025.0,2875.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-20 00:00:00,2525.0,2925.0,2750.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-21 00:00:00,2625.0,3250.0,3000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-06 00:00:00,2955.0,3325.0,3175.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-11 00:00:00,2650.0,3125.0,3000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-14 00:00:00,2825.0,3175.0,3025.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-16 00:00:00,2550.0,3150.0,2925.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-19 00:00:00,2625.0,3150.0,2900.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-20 00:00:00,3250.0,3780.0,3575.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-26 00:00:00,2650.0,3255.0,3000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-04 00:00:00,2605.0,3250.0,3000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-19 00:00:00,2405.0,2675.0,2550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-25 00:00:00,2625,2875,2775.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-06 00:00:00,3250,3500,3400.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-18 00:00:00,3000,3655,3250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-27 00:00:00,3500,3710,3625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-05 00:00:00,3350,3550,3450.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-06 00:00:00,3150,3400,3250.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-18 00:00:00,3250,3825,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-22 00:00:00,3400,3675,3550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-26 00:00:00,3175,3575,3425.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-01 00:00:00,3250,3700,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-04 00:00:00,3250,3600,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-09 00:00:00,3250,3875,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-11 00:00:00,3250,3800,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-16 00:00:00,3500,3875,3675.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-20 00:00:00,3400,3900,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-06-27 00:00:00,3400,4000,3625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-04 00:00:00,3475,3710,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-06 00:00:00,3500,4500,4125.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-07 00:00:00,3450,3675,3575.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-15 00:00:00,3500,3725,3625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-16 00:00:00,3525,3720,3625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-17 00:00:00,3500,3670,3600.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-03 00:00:00,3350,3625,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-07 00:00:00,3325,3575,3450.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-10 00:00:00,3250,3575,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-11 00:00:00,3300,3625,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-02 00:00:00,2750,3315,3000.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-15 00:00:00,3375,3625,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-29 00:00:00,3250,3675,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-01 00:00:00,3375,3650,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-13 00:00:00,3425,3650,3500.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-23 00:00:00,3500,3650,3550.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-10-24 00:00:00,3450,3675,3625.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-18 00:00:00,3000,3400,3200.0,268
+Gujarat,Rajkot,Rajkot,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-08 00:00:00,3625,4000,3875.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-10 00:00:00,2660,2785,2725.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-01-20 00:00:00,2865,3005,2930.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-21 00:00:00,2555,2750,2680.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-02-28 00:00:00,2500,2625,2590.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-03-06 00:00:00,2500,2610,2560.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-11 00:00:00,3000,3250,3175.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-04-13 00:00:00,3125,3305,3225.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-05-05 00:00:00,3255,3280,3267.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-07-27 00:00:00,3350,3700,3560.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-03 00:00:00,3000,3460,3275.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-04 00:00:00,2750,3510,3075.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-21 00:00:00,2750,3340,3060.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-24 00:00:00,3550,3755,3675.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-08-31 00:00:00,3500,3540,3520.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-04 00:00:00,3150,3225,3205.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-07 00:00:00,3050,3250,3175.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-09-16 00:00:00,2410,2530,2465.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-18 00:00:00,3260,3530,3445.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-11-24 00:00:00,2975,3400,3180.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-09 00:00:00,3325,3560,3445.0,268
+Gujarat,Rajkot,Upleta,Ground Nut Seed,Ground Nut Seed,FAQ,2009-12-30 00:00:00,3000,3185,3130.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-01-02 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-01-03 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-01-13 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-01-16 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-01-17 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-01-27 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-02-05 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-02-09 00:00:00,3800,4400,4000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-02-19 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-02-23 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-03-09 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-04-10 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-04-21 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-04-25 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-05-22 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-06-04 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-06-15 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-06-17 00:00:00,2000,2200,2150.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-07-02 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-07-16 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-07-18 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-07-22 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-07-25 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-07-29 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-08-03 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-08-24 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-08-27 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-09-08 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-09-10 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-09-26 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-10-05 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-10-06 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-10-08 00:00:00,3800,4400,4300.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-10-27 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-10-29 00:00:00,3800,4400,4200.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-11-06 00:00:00,3500,4000,3900.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-11-09 00:00:00,3500,4000,4000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-11-27 00:00:00,3500,4000,3800.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-11-30 00:00:00,3500,4000,3900.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-12-02 00:00:00,3500,4000,3900.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-12-07 00:00:00,3500,4000,4000.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-12-08 00:00:00,3500,4000,3900.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-12-14 00:00:00,3500,4000,3900.0,268
+Gujarat,Vadodara(Baroda),Vadodara,Ground Nut Seed,Other,FAQ,2009-12-26 00:00:00,3500,4000,3900.0,268
