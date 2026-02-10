@@ -8238,29 +8238,73 @@ Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-06-
 Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-06-13 00:00:00,7540.0,7850.0,7595.0,255
 Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-06-18 00:00:00,5500.0,5500.0,5500.0,255
 Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-06-28 00:00:00,7025.0,7025.0,7025.0,255
-Gujarat,Banaskanth,Thara,Suva (Dill Seed),Other,FAQ,2024-10-22 00:00:00,6280,6300,6290.0,255
-Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-05 00:00:00,6650,8080,7375.0,255
-Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-26 00:00:00,5000,7500,6500.0,255
-Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-10 00:00:00,6000,8650,7350.0,255
-Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-09 00:00:00,7900,8580,8275.0,255
-Gujarat,Banaskanth,Thara,Suva (Dill Seed),Other,FAQ,2024-10-24 00:00:00,7900,7925,7912.5,255
-Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-24 00:00:00,5750,7555,7250.0,255
-Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-25 00:00:00,6000,7900,7000.0,255
-Gujarat,Patan,Siddhpur,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-09 00:00:00,7550,8055,7802.0,255
-Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-25 00:00:00,6380,8250,7480.0,255
-Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-23 00:00:00,5500,8110,6825.0,255
-Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-15 00:00:00,6475,8475,8125.0,255
-Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-10-19 00:00:00,6250,8450,7350.0,255
-Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-23 00:00:00,6000,6500,6250.0,255
-Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-10-03 00:00:00,7260,8400,8000.0,255
-Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-10-24 00:00:00,7860,7860,7860.0,255
-Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-03 00:00:00,6400,8375,7545.0,255
-Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-16 00:00:00,7625,8565,8375.0,255
-Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-10-11 00:00:00,7250,8625,7940.0,255
-Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-01 00:00:00,5500,8500,7000.0,255
-Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-10-21 00:00:00,7575,7805,7750.0,255
-Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-07 00:00:00,7000,8590,7800.0,255
-Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-16 00:00:00,5755,8295,7025.0,255
-Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-18 00:00:00,4500,7750,6500.0,255
-Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-22 00:00:00,6000,8000,7000.0,255
-Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-22 00:00:00,6500,8200,7800.0,255
+Gujarat,Banaskanth,Thara,Suva (Dill Seed),Other,FAQ,2024-10-22 00:00:00,6280.0,6300.0,6290.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-05 00:00:00,6650.0,8080.0,7375.0,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-26 00:00:00,5000.0,7500.0,6500.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-10 00:00:00,6000.0,8650.0,7350.0,255
+Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-09 00:00:00,7900.0,8580.0,8275.0,255
+Gujarat,Banaskanth,Thara,Suva (Dill Seed),Other,FAQ,2024-10-24 00:00:00,7900.0,7925.0,7912.5,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-24 00:00:00,5750.0,7555.0,7250.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-25 00:00:00,6000.0,7900.0,7000.0,255
+Gujarat,Patan,Siddhpur,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-09 00:00:00,7550.0,8055.0,7802.0,255
+Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-25 00:00:00,6380.0,8250.0,7480.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-23 00:00:00,5500.0,8110.0,6825.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-15 00:00:00,6475.0,8475.0,8125.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-10-19 00:00:00,6250.0,8450.0,7350.0,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-23 00:00:00,6000.0,6500.0,6250.0,255
+Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-10-03 00:00:00,7260.0,8400.0,8000.0,255
+Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-10-24 00:00:00,7860.0,7860.0,7860.0,255
+Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-03 00:00:00,6400.0,8375.0,7545.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-16 00:00:00,7625.0,8565.0,8375.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-10-11 00:00:00,7250.0,8625.0,7940.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-01 00:00:00,5500.0,8500.0,7000.0,255
+Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-10-21 00:00:00,7575.0,7805.0,7750.0,255
+Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-10-07 00:00:00,7000.0,8590.0,7800.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-10-16 00:00:00,5755.0,8295.0,7025.0,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-18 00:00:00,4500.0,7750.0,6500.0,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-10-22 00:00:00,6000.0,8000.0,7000.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-10-22 00:00:00,6500.0,8200.0,7800.0,255
+Gujarat,Ahmedabad,Viramgam,Suva (Dill Seed),Other,FAQ,2024-07-01 00:00:00,6920,7630,7275.0,255
+Gujarat,Ahmedabad,Viramgam,Suva (Dill Seed),Other,FAQ,2024-07-04 00:00:00,7880,8630,8255.0,255
+Gujarat,Ahmedabad,Viramgam,Suva (Dill Seed),Other,FAQ,2024-07-08 00:00:00,6340,7130,6735.0,255
+Gujarat,Ahmedabad,Viramgam,Suva (Dill Seed),Other,FAQ,2024-07-19 00:00:00,7415,8000,7707.0,255
+Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-07-19 00:00:00,8455,8455,8455.0,255
+Gujarat,Banaskanth,Deesa,Suva (Dill Seed),Other,FAQ,2024-07-29 00:00:00,7605,8000,7900.0,255
+Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-07-11 00:00:00,7800,8800,8365.0,255
+Gujarat,Banaskanth,Dhanera,Suva (Dill Seed),Other,FAQ,2024-07-19 00:00:00,5055,8930,7500.0,255
+Gujarat,Banaskanth,Thara,Suva (Dill Seed),Other,FAQ,2024-07-13 00:00:00,6450,8150,7300.0,255
+Gujarat,Banaskanth,Thara,Suva (Dill Seed),Other,FAQ,2024-07-23 00:00:00,8400,8425,8412.5,255
+Gujarat,Banaskanth,Thara,Suva (Dill Seed),Other,FAQ,2024-07-31 00:00:00,6215,6215,6215.0,255
+Gujarat,Mehsana,Kadi,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-09 00:00:00,6250,7500,7000.0,255
+Gujarat,Mehsana,Kadi,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-13 00:00:00,6500,7500,7200.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-10 00:00:00,5250,8725,8375.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-12 00:00:00,7675,8925,8200.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-26 00:00:00,5900,8750,8250.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-27 00:00:00,5950,8375,7900.0,255
+Gujarat,Mehsana,Unjha,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-31 00:00:00,6505,8750,7875.0,255
+Gujarat,Patan,Chansama,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-01 00:00:00,6755,6755,6755.0,255
+Gujarat,Patan,Chansama,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-12 00:00:00,5300,5300,5300.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-07-03 00:00:00,6000,9110,7555.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-07-06 00:00:00,6800,9200,8000.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-07-09 00:00:00,6400,9150,7775.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-07-11 00:00:00,5500,9005,7250.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-07-26 00:00:00,5750,8720,7230.0,255
+Gujarat,Patan,Harij,Suva (Dill Seed),Other,FAQ,2024-07-29 00:00:00,6500,8200,7350.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-07-02 00:00:00,6000,8610,7305.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-07-05 00:00:00,7000,8295,7650.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-07-19 00:00:00,6000,8510,7260.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-07-22 00:00:00,6000,7750,6900.0,255
+Gujarat,Patan,Patan,Suva (Dill Seed),Other,FAQ,2024-07-31 00:00:00,5000,8330,6675.0,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-07-03 00:00:00,6500,9000,8000.0,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-07-13 00:00:00,4500,8250,6500.0,255
+Gujarat,Patan,Sami,Suva (Dill Seed),Other,FAQ,2024-07-19 00:00:00,3500,8250,6000.0,255
+Gujarat,Patan,Siddhpur,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-01 00:00:00,6625,9010,7817.0,255
+Gujarat,Patan,Siddhpur,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-04 00:00:00,7305,8500,7902.0,255
+Gujarat,Patan,Siddhpur,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-13 00:00:00,5000,8350,6675.0,255
+Gujarat,Patan,Siddhpur,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-26 00:00:00,6750,6750,6750.0,255
+Gujarat,Surendranagar,Dasada Patadi,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-04 00:00:00,7500,8530,8000.0,255
+Gujarat,Surendranagar,Dasada Patadi,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-13 00:00:00,6750,7500,7250.0,255
+Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-05 00:00:00,6025,6025,6025.0,255
+Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-15 00:00:00,7225,7225,7225.0,255
+Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-25 00:00:00,5575,5575,5575.0,255
+Gujarat,Surendranagar,Dhragradhra,Suva (Dill Seed),Suva (Dill Seed),FAQ,2024-07-26 00:00:00,7500,7500,7500.0,255

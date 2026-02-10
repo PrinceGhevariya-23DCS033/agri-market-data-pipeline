@@ -17476,23 +17476,50 @@ Gujarat,Mehsana,Kadi,Isabgul (Psyllium),Other,FAQ,2024-06-03 00:00:00,12705.0,12
 Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-06-29 00:00:00,11000.0,14055.0,13250.0,256
 Gujarat,Morbi,Halvad,Isabgul (Psyllium),Other,FAQ,2024-06-12 00:00:00,12000.0,13350.0,12750.0,256
 Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2024-06-07 00:00:00,12255.0,12255.0,12255.0,256
-Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-15 00:00:00,11000,14500,13200.0,256
-Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2024-10-19 00:00:00,10747,10747,10747.0,256
-Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-22 00:00:00,11880,12127,12003.0,256
-Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2024-10-14 00:00:00,11405,11405,11405.0,256
-Gujarat,Surendranagar,Dasada Patadi,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-10 00:00:00,11505,12300,12100.0,256
-Gujarat,Patan,Sami,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-17 00:00:00,11500,12375,12000.0,256
-Gujarat,Ahmedabad,Viramgam,Isabgul (Psyllium),Other,FAQ,2024-10-09 00:00:00,9750,11650,10700.0,256
-Gujarat,Amreli,Amreli,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-15 00:00:00,10625,10625,10625.0,256
-Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2024-10-09 00:00:00,10755,10755,10755.0,256
-Gujarat,Patan,Sami,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-04 00:00:00,12500,13000,12750.0,256
-Gujarat,Banaskanth,Vav,Isabgul (Psyllium),Other,FAQ,2024-10-03 00:00:00,10000,12250,11750.0,256
-Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2024-10-08 00:00:00,9000,12450,10750.0,256
-Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-10-05 00:00:00,11740,12805,12450.0,256
-Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-09 00:00:00,10752,12250,11051.0,256
-Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2024-10-08 00:00:00,12175,12247,12247.0,256
-Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-10-24 00:00:00,8255,12200,10460.0,256
-Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-01 00:00:00,9000,13625,13000.0,256
-Gujarat,Patan,Sami,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-22 00:00:00,11000,12300,11750.0,256
-Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-10-18 00:00:00,9905,12670,11495.0,256
-Gujarat,Surendranagar,Dasada Patadi,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-23 00:00:00,11250,11675,11500.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-15 00:00:00,11000.0,14500.0,13200.0,256
+Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2024-10-19 00:00:00,10747.0,10747.0,10747.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-22 00:00:00,11880.0,12127.0,12003.0,256
+Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2024-10-14 00:00:00,11405.0,11405.0,11405.0,256
+Gujarat,Surendranagar,Dasada Patadi,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-10 00:00:00,11505.0,12300.0,12100.0,256
+Gujarat,Patan,Sami,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-17 00:00:00,11500.0,12375.0,12000.0,256
+Gujarat,Ahmedabad,Viramgam,Isabgul (Psyllium),Other,FAQ,2024-10-09 00:00:00,9750.0,11650.0,10700.0,256
+Gujarat,Amreli,Amreli,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-15 00:00:00,10625.0,10625.0,10625.0,256
+Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2024-10-09 00:00:00,10755.0,10755.0,10755.0,256
+Gujarat,Patan,Sami,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-04 00:00:00,12500.0,13000.0,12750.0,256
+Gujarat,Banaskanth,Vav,Isabgul (Psyllium),Other,FAQ,2024-10-03 00:00:00,10000.0,12250.0,11750.0,256
+Gujarat,Patan,Patan,Isabgul (Psyllium),Other,FAQ,2024-10-08 00:00:00,9000.0,12450.0,10750.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-10-05 00:00:00,11740.0,12805.0,12450.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-09 00:00:00,10752.0,12250.0,11051.0,256
+Gujarat,Kachchh,Anjar,Isabgul (Psyllium),Other,FAQ,2024-10-08 00:00:00,12175.0,12247.0,12247.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-10-24 00:00:00,8255.0,12200.0,10460.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-01 00:00:00,9000.0,13625.0,13000.0,256
+Gujarat,Patan,Sami,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-22 00:00:00,11000.0,12300.0,11750.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-10-18 00:00:00,9905.0,12670.0,11495.0,256
+Gujarat,Surendranagar,Dasada Patadi,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-10-23 00:00:00,11250.0,11675.0,11500.0,256
+Gujarat,Ahmedabad,Viramgam,Isabgul (Psyllium),Other,FAQ,2024-07-01 00:00:00,11500,12285,11892.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-07-18 00:00:00,11755,12500,12225.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-07-25 00:00:00,10380,10505,10450.0,256
+Gujarat,Banaskanth,Dhanera,Isabgul (Psyllium),Other,FAQ,2024-07-30 00:00:00,8500,11955,10450.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2024-07-24 00:00:00,11805,12525,12165.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2024-07-25 00:00:00,12500,12750,12625.0,256
+Gujarat,Banaskanth,Tharad,Isabgul (Psyllium),Other,FAQ,2024-07-29 00:00:00,12000,12575,12290.0,256
+Gujarat,Banaskanth,Vav,Isabgul (Psyllium),Other,FAQ,2024-07-01 00:00:00,12000,12855,12500.0,256
+Gujarat,Banaskanth,Vav,Isabgul (Psyllium),Other,FAQ,2024-07-05 00:00:00,10740,11905,11500.0,256
+Gujarat,Banaskanth,Vav,Isabgul (Psyllium),Other,FAQ,2024-07-23 00:00:00,11125,11125,11125.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-05 00:00:00,10127,12472,11300.0,256
+Gujarat,Kachchh,Bhuj,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-12 00:00:00,12155,12350,12252.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-09 00:00:00,11950,13900,12950.0,256
+Gujarat,Mehsana,Unjha,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-25 00:00:00,12000,13950,12900.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-04 00:00:00,10550,13050,12850.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-08 00:00:00,10350,12950,12750.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-09 00:00:00,10850,13050,12750.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-18 00:00:00,10050,12750,12500.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-23 00:00:00,10350,13080,12750.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-24 00:00:00,10300,13025,12625.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-26 00:00:00,10525,13100,12675.0,256
+Gujarat,Patan,Radhanpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-31 00:00:00,11250,13000,12650.0,256
+Gujarat,Patan,Sami,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-11 00:00:00,11250,12125,11500.0,256
+Gujarat,Patan,Siddhpur,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-09 00:00:00,8525,8525,8525.0,256
+Gujarat,Surendranagar,Dasada Patadi,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-22 00:00:00,11400,11960,11500.0,256
+Gujarat,Surendranagar,Dasada Patadi,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-26 00:00:00,11750,12200,12000.0,256
+Gujarat,Surendranagar,Dhragradhra,Isabgul (Psyllium),Isabgul (Psyllium),FAQ,2024-07-05 00:00:00,12000,12000,12000.0,256

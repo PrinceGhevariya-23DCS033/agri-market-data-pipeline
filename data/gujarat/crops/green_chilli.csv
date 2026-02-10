@@ -65418,73 +65418,117 @@ Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-10-05 00:00:00
 Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,3500.0,7000.0,5250.0,87
 Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-10-02 00:00:00,2000.0,2500.0,2250.0,87
 Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Green Chilli,Green Chilly,FAQ,2024-10-08 00:00:00,2500.0,3750.0,3000.0,87
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-24 00:00:00,2500,3000,2800.0,87
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Green Chilli,Green Chilly,FAQ,2024-10-03 00:00:00,2000,2750,2500.0,87
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Green Chilli,Other,FAQ,2024-10-08 00:00:00,4000,5000,4500.0,87
-Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-10-19 00:00:00,2500,6500,5750.0,87
-Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-11 00:00:00,2500,4000,3500.0,87
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2024-10-10 00:00:00,2000,4000,3000.0,87
-Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-05 00:00:00,4000,5000,4500.0,87
-Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-22 00:00:00,6000,7000,6500.0,87
-Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-10-22 00:00:00,2900,4500,3500.0,87
-Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-10-01 00:00:00,5500,6000,5750.0,87
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-18 00:00:00,2000,4350,3175.0,87
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2024-10-04 00:00:00,800,5000,3250.0,87
-Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-17 00:00:00,500,3500,2000.0,87
-Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-21 00:00:00,1750,4000,2850.0,87
-Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-15 00:00:00,3000,6000,4500.0,87
-Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2024-10-27 00:00:00,3500,5000,4250.0,87
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-23 00:00:00,2000,4350,3175.0,87
-Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-27 00:00:00,3000,5000,4000.0,87
-Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-25 00:00:00,2000,2500,2200.0,87
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2024-10-15 00:00:00,3500,4000,4000.0,87
-Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,800,5000,3750.0,87
-Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-03 00:00:00,1150,3000,2075.0,87
-Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-01 00:00:00,2500,5000,3750.0,87
-Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-12 00:00:00,3000,6000,4500.0,87
-Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2024-10-04 00:00:00,2000,3000,2500.0,87
-Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-10-28 00:00:00,4000,4500,4250.0,87
-Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-29 00:00:00,4500,5000,4850.0,87
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,3500,4000,3750.0,87
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-26 00:00:00,2500,3500,3000.0,87
-Gujarat,Dahod,Dahod(Veg. Market),Green Chilli,Green Chilly,FAQ,2024-10-08 00:00:00,2000,5500,5000.0,87
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-22 00:00:00,2500,4000,3000.0,87
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-07 00:00:00,2000,2850,2425.0,87
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-14 00:00:00,2000,4300,3150.0,87
-Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-27 00:00:00,2000,2500,2200.0,87
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,1000,3000,2000.0,87
-Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-01 00:00:00,100,3000,1550.0,87
-Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,2000,3500,2750.0,87
-Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,2500,4000,3250.0,87
-Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-09 00:00:00,4000,6000,5000.0,87
-Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-10-31 00:00:00,2000,3000,2500.0,87
-Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-10-05 00:00:00,2500,5500,4350.0,87
-Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-26 00:00:00,3250,4050,3800.0,87
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-29 00:00:00,3000,4000,3500.0,87
-Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-09 00:00:00,3000,5000,4000.0,87
-Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,3000,6000,5000.0,87
-Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-30 00:00:00,3000,5000,4000.0,87
-Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,2850,3500,3200.0,87
-Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,2500,3500,3000.0,87
-Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-24 00:00:00,2000,2500,2200.0,87
-Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Green Chilli,Green Chilly,FAQ,2024-10-21 00:00:00,1750,3200,2500.0,87
-Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-07 00:00:00,4000,5000,4500.0,87
-Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-22 00:00:00,3500,7000,5250.0,87
-Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-13 00:00:00,2500,4000,3500.0,87
-Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-24 00:00:00,5000,6000,5500.0,87
-Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-27 00:00:00,5000,6500,5800.0,87
-Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-10-03 00:00:00,3000,4000,3500.0,87
-Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-10-04 00:00:00,3000,4000,3500.0,87
-Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,2500,4000,3250.0,87
-Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-26 00:00:00,2000,4000,3000.0,87
-Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-18 00:00:00,2000,5000,3500.0,87
-Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-10-26 00:00:00,2000,5500,4500.0,87
-Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-31 00:00:00,2000,2500,2200.0,87
-Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-03 00:00:00,3000,5000,4000.0,87
-Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,4000,4500,4250.0,87
-Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-28 00:00:00,3000,5000,4000.0,87
-Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2024-10-10 00:00:00,3000,5000,4000.0,87
-Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-11 00:00:00,2000,4000,3000.0,87
-Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2024-10-11 00:00:00,2500,5000,3750.0,87
-Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-28 00:00:00,3500,5500,4500.0,87
-Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-10-24 00:00:00,5000,6000,5500.0,87
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-24 00:00:00,2500.0,3000.0,2800.0,87
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Green Chilli,Green Chilly,FAQ,2024-10-03 00:00:00,2000.0,2750.0,2500.0,87
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Green Chilli,Other,FAQ,2024-10-08 00:00:00,4000.0,5000.0,4500.0,87
+Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-10-19 00:00:00,2500.0,6500.0,5750.0,87
+Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-11 00:00:00,2500.0,4000.0,3500.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2024-10-10 00:00:00,2000.0,4000.0,3000.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-05 00:00:00,4000.0,5000.0,4500.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-22 00:00:00,6000.0,7000.0,6500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-10-22 00:00:00,2900.0,4500.0,3500.0,87
+Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-10-01 00:00:00,5500.0,6000.0,5750.0,87
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-18 00:00:00,2000.0,4350.0,3175.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2024-10-04 00:00:00,800.0,5000.0,3250.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-17 00:00:00,500.0,3500.0,2000.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-21 00:00:00,1750.0,4000.0,2850.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-15 00:00:00,3000.0,6000.0,4500.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2024-10-27 00:00:00,3500.0,5000.0,4250.0,87
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-23 00:00:00,2000.0,4350.0,3175.0,87
+Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-27 00:00:00,3000.0,5000.0,4000.0,87
+Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-25 00:00:00,2000.0,2500.0,2200.0,87
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Green Chilli,Other,FAQ,2024-10-15 00:00:00,3500.0,4000.0,4000.0,87
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,800.0,5000.0,3750.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-03 00:00:00,1150.0,3000.0,2075.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-01 00:00:00,2500.0,5000.0,3750.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-12 00:00:00,3000.0,6000.0,4500.0,87
+Gujarat,Patan,"Patan(Veg,Yard Patan)",Green Chilli,Other,FAQ,2024-10-04 00:00:00,2000.0,3000.0,2500.0,87
+Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-10-28 00:00:00,4000.0,4500.0,4250.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-29 00:00:00,4500.0,5000.0,4850.0,87
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,3500.0,4000.0,3750.0,87
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-26 00:00:00,2500.0,3500.0,3000.0,87
+Gujarat,Dahod,Dahod(Veg. Market),Green Chilli,Green Chilly,FAQ,2024-10-08 00:00:00,2000.0,5500.0,5000.0,87
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-22 00:00:00,2500.0,4000.0,3000.0,87
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-07 00:00:00,2000.0,2850.0,2425.0,87
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Green Chilli,Other,FAQ,2024-10-14 00:00:00,2000.0,4300.0,3150.0,87
+Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-27 00:00:00,2000.0,2500.0,2200.0,87
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,1000.0,3000.0,2000.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-01 00:00:00,100.0,3000.0,1550.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,2000.0,3500.0,2750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,2500.0,4000.0,3250.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-09 00:00:00,4000.0,6000.0,5000.0,87
+Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-10-31 00:00:00,2000.0,3000.0,2500.0,87
+Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-10-05 00:00:00,2500.0,5500.0,4350.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-26 00:00:00,3250.0,4050.0,3800.0,87
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-29 00:00:00,3000.0,4000.0,3500.0,87
+Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-09 00:00:00,3000.0,5000.0,4000.0,87
+Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,3000.0,6000.0,5000.0,87
+Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-30 00:00:00,3000.0,5000.0,4000.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,2850.0,3500.0,3200.0,87
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-10-25 00:00:00,2500.0,3500.0,3000.0,87
+Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-24 00:00:00,2000.0,2500.0,2200.0,87
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Green Chilli,Green Chilly,FAQ,2024-10-21 00:00:00,1750.0,3200.0,2500.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-07 00:00:00,4000.0,5000.0,4500.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-22 00:00:00,3500.0,7000.0,5250.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-13 00:00:00,2500.0,4000.0,3500.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-24 00:00:00,5000.0,6000.0,5500.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-10-27 00:00:00,5000.0,6500.0,5800.0,87
+Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-10-03 00:00:00,3000.0,4000.0,3500.0,87
+Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-10-04 00:00:00,3000.0,4000.0,3500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,2500.0,4000.0,3250.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-10-26 00:00:00,2000.0,4000.0,3000.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-10-18 00:00:00,2000.0,5000.0,3500.0,87
+Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-10-26 00:00:00,2000.0,5500.0,4500.0,87
+Gujarat,Bharuch,Bharuch,Green Chilli,Other,FAQ,2024-10-31 00:00:00,2000.0,2500.0,2200.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-03 00:00:00,3000.0,5000.0,4000.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-10-19 00:00:00,4000.0,4500.0,4250.0,87
+Gujarat,Bharuch,Ankleshwar,Green Chilli,Green Chilly,FAQ,2024-10-28 00:00:00,3000.0,5000.0,4000.0,87
+Gujarat,Gir Somnath,Talalagir,Green Chilli,Other,FAQ,2024-10-10 00:00:00,3000.0,5000.0,4000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-11 00:00:00,2000.0,4000.0,3000.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2024-10-11 00:00:00,2500.0,5000.0,3750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-10-28 00:00:00,3500.0,5500.0,4500.0,87
+Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-10-24 00:00:00,5000.0,6000.0,5500.0,87
+Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-07-24 00:00:00,4500.0,5000.0,4750.0,87
+Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-07-08 00:00:00,2500.0,3000.0,2750.0,87
+Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-07-17 00:00:00,3500.0,6000.0,4750.0,87
+Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-07-19 00:00:00,2000.0,2500.0,2250.0,87
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Green Chilli,Other,FAQ,2024-07-06 00:00:00,4500.0,5000.0,4800.0,87
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Green Chilli,Other,FAQ,2024-07-15 00:00:00,5000.0,6000.0,5550.0,87
+Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-07-15 00:00:00,2000.0,3000.0,2500.0,87
+Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-07-20 00:00:00,2000.0,2500.0,2250.0,87
+Gujarat,Porbandar,Porbandar,Green Chilli,Green Chilly,FAQ,2024-07-23 00:00:00,5000.0,6000.0,5500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2024-07-05 00:00:00,7000.0,8000.0,7500.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2024-07-12 00:00:00,3000.0,6000.0,4500.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-07-10 00:00:00,3500.0,5000.0,4350.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-07-17 00:00:00,3000.0,5000.0,4000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-07-29 00:00:00,3100.0,5150.0,4150.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2024-07-08 00:00:00,3000.0,6500.0,4750.0,87
+Gujarat,Surat,Surat,Green Chilli,Other,FAQ,2024-07-10 00:00:00,3000.0,5500.0,4250.0,87
+Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-07-11 00:00:00,5000.0,5500.0,5250.0,87
+Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-07-29 00:00:00,3500.0,4000.0,3750.0,87
+Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-07-18 00:00:00,3500.0,4500.0,4000.0,87
+Gujarat,Vadodara(Baroda),Padra,Green Chilli,Green Chilly,FAQ,2024-07-23 00:00:00,3000.0,3500.0,3250.0,87
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Green Chilli,Other,FAQ,2024-07-14 00:00:00,4500.0,6000.0,5050.0,87
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Green Chilli,Other,FAQ,2024-07-21 00:00:00,3500.0,4500.0,4050.0,87
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura),Green Chilli,Other,FAQ,2024-07-24 00:00:00,3000.0,4000.0,3550.0,87
+Gujarat,Mehsana,Vijapur(veg),Green Chilli,Other,FAQ,2024-07-18 00:00:00,4000.0,5000.0,4500.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-07-09 00:00:00,4500.0,5500.0,5000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-07-11 00:00:00,4000.0,5500.0,4750.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-07-18 00:00:00,4000.0,6000.0,5000.0,87
+Gujarat,Morbi,Morbi,Green Chilli,Green Chilly,FAQ,2024-07-23 00:00:00,4500.0,5500.0,5000.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-07-13 00:00:00,5000.0,6000.0,5500.0,87
+Gujarat,Navsari,Bilimora,Green Chilli,Other,FAQ,2024-07-25 00:00:00,5000.0,6000.0,5500.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-07-05 00:00:00,3000.0,6500.0,4750.0,87
+Gujarat,Navsari,Navsari,Green Chilli,Green Chilly,FAQ,2024-07-29 00:00:00,1500.0,4000.0,2750.0,87
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Green Chilli,Green Chilly,FAQ,2024-07-17 00:00:00,5000.0,7000.0,6000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-07-06 00:00:00,3500.0,4500.0,4000.0,87
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard),Green Chilli,Green Chilly,FAQ,2024-07-12 00:00:00,3000.0,5000.0,4050.0,87
+Gujarat,Surendranagar,Vadhvan,Green Chilli,Green Chilly,FAQ,2024-07-13 00:00:00,5000.0,5500.0,5250.0,87
+Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-09-11 00:00:00,2500,5000,3750.0,87
+Gujarat,Ahmedabad,Ahmedabad,Green Chilli,Other,FAQ,2024-09-27 00:00:00,500,3500,2800.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-09-03 00:00:00,3200,4000,3750.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-09-07 00:00:00,2850,3550,3200.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-09-17 00:00:00,4100,5000,4450.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-09-22 00:00:00,1250,2050,1700.0,87
+Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,2024-09-30 00:00:00,4250,5000,4400.0,87
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Green Chilli,Green Chilly,FAQ,2024-09-13 00:00:00,2000,2500,2250.0,87
