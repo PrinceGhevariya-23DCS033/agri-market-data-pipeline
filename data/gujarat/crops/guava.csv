@@ -6800,8 +6800,6 @@ Gujarat,Porbandar,Porbandar APMC,Guava,Guava,Grade A,2026-01-30 00:00:00,6000.0,
 Gujarat,Navsari,Navsari APMC,Guava,Guava,Grade A,2026-01-30 00:00:00,2000.0,3500.0,2750.0,185
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-01 00:00:00,3500.0,4200.0,3850.0,185
 Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-03 00:00:00,1500.0,2000.0,1700.0,185
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-01 00:00:00,3500.0,4200.0,3850.0,185
-Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-03 00:00:00,1500.0,2000.0,1700.0,185
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-08 00:00:00,2500.0,4300.0,3400.0,185
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-10 00:00:00,2500.0,4300.0,3400.0,185
 Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-13 00:00:00,1300.0,1800.0,1500.0,185
@@ -6810,3 +6808,46 @@ Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-28 00:00:00,1300.0,1800.0
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-30 00:00:00,3000.0,4850.0,3925.0,185
 Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-02-03 00:00:00,1300.0,1800.0,1500.0,185
 Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Other,Local,2026-02-06 00:00:00,3000.0,5500.0,4250.0,185
+Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-28 00:00:00,1300.0,1800.0,1700.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-30 00:00:00,3000.0,4850.0,3925.0,185
+Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-02-03 00:00:00,1300.0,1800.0,1500.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Other,Local,2026-02-06 00:00:00,3000.0,5500.0,4250.0,185
+Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-01 00:00:00,1300.0,2000.0,1500.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-01 00:00:00,3500.0,4200.0,3850.0,185
+Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-03 00:00:00,1500.0,2000.0,1700.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-08 00:00:00,2500.0,4300.0,3400.0,185
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Guava,Other,Medium,2026-01-10 00:00:00,2500.0,4300.0,3400.0,185
+Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-13 00:00:00,1300.0,1800.0,1500.0,185
+Gujarat,Bharuch,Bharuch APMC,Guava,Other,Local,2026-01-10 00:00:00,1300.0,2000.0,1500.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Guava,Guava,Local,2026-01-23 00:00:00,2000.0,6500.0,4250.0,185
+Gujarat,Porbandar,Porbandar APMC,Guava,Guava,Grade A,2026-01-24 00:00:00,3000.0,5000.0,4000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Guava,Local,2026-01-24 00:00:00,1000.0,4500.0,3250.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Guava,Guava,Local,2026-01-25 00:00:00,5000.0,7500.0,6250.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Grade A,2026-01-26 00:00:00,2500.0,5000.0,3750.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Grade B,2026-01-29 00:00:00,2000.0,3500.0,2750.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Guava,Local,2026-01-30 00:00:00,3000.0,4500.0,3750.0,185
+Gujarat,Porbandar,Porbandar APMC,Guava,Guava,Grade A,2026-01-30 00:00:00,6000.0,8000.0,7000.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Grade A,2026-01-30 00:00:00,2000.0,3500.0,2750.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Guava,Local,2026-02-03 00:00:00,2000.0,5500.0,4000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Guava,Local,2026-02-11 00:00:00,4500.0,5000.0,4750.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Grade A,2026-02-10 00:00:00,3000.0,5000.0,4000.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Local,2026-02-12 00:00:00,4000.0,6000.0,5000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Guava,Local,2026-02-14 00:00:00,4500.0,4750.0,4600.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Guava,Guava,Local,2026-01-01 00:00:00,1000.0,5000.0,3000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Guava,Local,2026-01-02 00:00:00,1500.0,4000.0,3000.0,185
+Gujarat,Surendranagar,Vadhvan APMC,Guava,Guava,Medium,2026-01-05 00:00:00,3500.0,4000.0,3750.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Local,2026-01-05 00:00:00,2000.0,3500.0,2750.0,185
+Gujarat,Surendranagar,Vadhvan APMC,Guava,Guava,Medium,2026-01-06 00:00:00,3500.0,4000.0,3750.0,185
+Gujarat,Surendranagar,Vadhvan APMC,Guava,Guava,Medium,2026-01-07 00:00:00,3500.0,4000.0,3750.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Local,2026-01-07 00:00:00,2000.0,3500.0,2750.0,185
+Gujarat,Porbandar,Porbandar APMC,Guava,Guava,Grade A,2026-01-09 00:00:00,3000.0,5000.0,4000.0,185
+Gujarat,Porbandar,Porbandar APMC,Guava,Guava,Grade A,2026-01-08 00:00:00,3000.0,5000.0,4000.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Guava,Guava,Local,2026-01-09 00:00:00,1500.0,5000.0,3250.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Local,2026-01-12 00:00:00,2000.0,3500.0,2750.0,185
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Guava,Guava,Local,2026-01-12 00:00:00,2000.0,5000.0,3500.0,185
+Gujarat,Porbandar,Porbandar APMC,Guava,Guava,Grade A,2026-01-14 00:00:00,4000.0,8000.0,6000.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Local,2026-01-15 00:00:00,2000.0,3500.0,2750.0,185
+Gujarat,Porbandar,Porbandar APMC,Guava,Guava,Grade A,2026-01-16 00:00:00,4000.0,8000.0,6000.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Local,2026-01-20 00:00:00,2000.0,4000.0,3000.0,185
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Guava,Guava,Local,2026-01-20 00:00:00,4500.0,5000.0,4700.0,185
+Gujarat,Navsari,Navsari APMC,Guava,Guava,Grade A,2026-01-21 00:00:00,2000.0,4000.0,3000.0,185

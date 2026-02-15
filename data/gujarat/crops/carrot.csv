@@ -41735,22 +41735,37 @@ Gujarat,Anand,"Anand(Veg,Yard,Anand) APMC",Carrot,Carrot,Grade B,2026-01-31 00:0
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Carrot,Carrot,Local,2026-01-30 00:00:00,1000.0,2000.0,1500.0,153
 Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Carrot,Carrot,Local,2026-02-03 00:00:00,500.0,1500.0,1000.0,153
 Gujarat,Surat,Surat APMC,Carrot,Carrot,FAQ,2026-02-08 00:00:00,1000.0,1600.0,1300.0,153
-Gujarat,Kheda,Nadiyad(Piplag) APMC,Carrot,Carrot,FAQ,2026-01-26 00:00:00,1500.0,1800.0,1600.0,153
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Carrot,Carrot,Local,2026-01-26 00:00:00,1200.0,2000.0,1600.0,153
-Gujarat,Surat,Surat APMC,Carrot,Carrot,FAQ,2026-01-26 00:00:00,1100.0,2000.0,1550.0,153
-Gujarat,Navsari,Navsari APMC,Carrot,Carrot,Local,2026-01-26 00:00:00,1500.0,1600.0,1550.0,153
-Gujarat,Surendranagar,Vadhvan APMC,Carrot,Carrot,Local,2026-01-29 00:00:00,1000.0,1500.0,1250.0,153
-Gujarat,Surendranagar,Vadhvan APMC,Carrot,Carrot,Local,2026-01-27 00:00:00,1000.0,1500.0,1250.0,153
-Gujarat,Surat,Surat APMC,Carrot,Carrot,FAQ,2026-01-27 00:00:00,1000.0,1800.0,1400.0,153
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Carrot,Carrot,Local,2026-01-25 00:00:00,1200.0,2000.0,1600.0,153
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Carrot,Carrot,Local,2026-01-28 00:00:00,1000.0,2000.0,1500.0,153
-Gujarat,Navsari,Navsari APMC,Carrot,Carrot,Local,2026-01-27 00:00:00,1500.0,1600.0,1550.0,153
-Gujarat,Kheda,Nadiyad(Piplag) APMC,Carrot,Carrot,FAQ,2026-01-28 00:00:00,1800.0,2000.0,1900.0,153
-Gujarat,Surat,Surat APMC,Carrot,Carrot,FAQ,2026-01-28 00:00:00,1100.0,1800.0,1450.0,153
-Gujarat,Anand,"Anand(Veg,Yard,Anand) APMC",Carrot,Carrot,Grade B,2026-01-31 00:00:00,750.0,1000.0,875.0,153
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Carrot,Carrot,Local,2026-01-30 00:00:00,1000.0,2000.0,1500.0,153
 Gujarat,Anand,"Anand(Veg,Yard,Anand) APMC",Carrot,Carrot,Grade B,2026-02-02 00:00:00,1250.0,1500.0,1375.0,153
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Carrot,Carrot,Local,2026-02-03 00:00:00,500.0,1500.0,1000.0,153
 Gujarat,Surendranagar,Vadhvan APMC,Carrot,Carrot,Local,2026-02-06 00:00:00,1500.0,2000.0,1750.0,153
 Gujarat,Surendranagar,Vadhvan APMC,Carrot,Carrot,Local,2026-02-05 00:00:00,1500.0,2000.0,1750.0,153
-Gujarat,Surat,Surat APMC,Carrot,Carrot,FAQ,2026-02-08 00:00:00,1000.0,1600.0,1300.0,153
+Gujarat,Surendranagar,Vadhvan APMC,Carrot,Carrot,Medium,2026-02-13 00:00:00,1500.0,2000.0,1750.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan) APMC",Carrot,Other,FAQ,2026-01-02 00:00:00,600.0,825.0,750.0,153
+Gujarat,Bharuch,Bharuch APMC,Carrot,Other,Local,2026-01-03 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Bharuch,Bharuch APMC,Carrot,Other,Local,2026-01-04 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Carrot,Other,Local,2026-01-09 00:00:00,1500.0,1500.0,1500.0,153
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) APMC,Carrot,Other,Local,2026-01-09 00:00:00,1000.0,1800.0,1500.0,153
+Gujarat,Ahmedabad,Ahmedabad APMC,Carrot,Other,FAQ,2026-01-16 00:00:00,800.0,1500.0,1300.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Carrot,Other,Local,2026-01-17 00:00:00,1500.0,2000.0,2000.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan) APMC",Carrot,Other,FAQ,2026-01-16 00:00:00,625.0,850.0,845.0,153
+Gujarat,Vadodara(Baroda),Padra APMC,Carrot,Other,FAQ,2026-01-20 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Ahmedabad,Ahmedabad APMC,Carrot,Other,FAQ,2026-01-19 00:00:00,800.0,1400.0,1200.0,153
+Gujarat,Bharuch,Bharuch APMC,Carrot,Other,Local,2026-01-18 00:00:00,1000.0,1300.0,1200.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Carrot,Other,Local,2026-01-21 00:00:00,1500.0,1500.0,1500.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Carrot,Other,FAQ,2026-01-22 00:00:00,1200.0,1400.0,1300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan) APMC",Carrot,Other,FAQ,2026-01-22 00:00:00,500.0,675.0,650.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Carrot,Other,FAQ,2026-01-24 00:00:00,1250.0,1350.0,1300.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan) APMC",Carrot,Other,FAQ,2026-01-28 00:00:00,600.0,800.0,750.0,153
+Gujarat,Bharuch,Bharuch APMC,Carrot,Other,Local,2026-01-25 00:00:00,800.0,1200.0,1000.0,153
+Gujarat,Vadodara(Baroda),Padra APMC,Carrot,Other,FAQ,2026-01-27 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Vadodara(Baroda),Padra APMC,Carrot,Other,FAQ,2026-01-31 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Vadodara(Baroda),Padra APMC,Carrot,Other,FAQ,2026-01-30 00:00:00,1200.0,1500.0,1350.0,153
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Carrot,Other,Local,2026-02-04 00:00:00,2000.0,2000.0,2000.0,153
+Gujarat,Vadodara(Baroda),Padra APMC,Carrot,Other,FAQ,2026-02-07 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Carrot,Other,FAQ,2026-02-05 00:00:00,1300.0,1300.0,1300.0,153
+Gujarat,Vadodara(Baroda),Padra APMC,Carrot,Other,FAQ,2026-02-09 00:00:00,1400.0,1500.0,1450.0,153
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Carrot,Other,FAQ,2026-02-09 00:00:00,1000.0,1200.0,1100.0,153
+Gujarat,Bharuch,Bharuch APMC,Carrot,Other,Local,2026-02-10 00:00:00,1000.0,1300.0,1100.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan) APMC",Carrot,Other,FAQ,2026-02-09 00:00:00,700.0,925.0,850.0,153
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Carrot,Other,FAQ,2026-02-13 00:00:00,1300.0,1300.0,1300.0,153
+Gujarat,Ahmedabad,Ahmedabad APMC,Carrot,Other,FAQ,2026-02-13 00:00:00,1000.0,1500.0,1350.0,153
+Gujarat,Patan,"Patan(Veg,Yard Patan) APMC",Carrot,Other,FAQ,2026-02-12 00:00:00,750.0,1000.0,875.0,153
