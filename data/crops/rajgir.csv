@@ -1,817 +1,836 @@
 State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-02-24,1600,1690,1650,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-08,1600,1690,1650,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-10,1600,1690,1650,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-12,1600,1690,1650,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-13,1600,1690,1650,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-14,1600,1690,1650,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-21,1750,1900,1828,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-22,1750,1900,1828,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-27,1450,1825,1755,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-05,1500,1680,1580,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-18,1505,1670,1590,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-19,1505,1670,1590,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-21,1505,1670,1590,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-01,1600,1625,1610,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-09,1600,1625,1620,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-15,1600,1625,1610,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-16,1600,1625,1610,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-17,1600,1625,1610,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-06,1500,1550,1520,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-13,1500,1550,1520,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-19,1500,1550,1520,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-21,1500,1550,1520,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-23,1500,1550,1520,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-25,1500,1550,1520,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-30,2000,2010,2007,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-12,1400,1410,1405,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-13,1400,1410,1405,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-20,1400,1410,1405,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-25,1400,1410,1405,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-30,1500,1900,1800,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-31,1500,1900,1850,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-08-21,1500,1900,1845,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-08-22,1500,1900,1845,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-08-28,1500,1900,1808,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-09-19,1500,1800,1775,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-10-06,1500,1700,1625,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-10-23,1500,1675,1600,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-02,1550,1690,1600,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-03,1550,1690,1600,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-06,1550,1690,1600,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-21,1550,1690,1690,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-28,1550,1690,1690,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-12-01,1550,1690,1600,248
-Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-12-04,1550,1690,1600,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-08,1450,1720,1585,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-12,1400,1725,1560,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-15,1225,1740,1480,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-20,1350,1675,1510,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-23,1435,1795,1615,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-26,1450,1750,1600,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-27,1450,1760,1605,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-07,1480,1895,1685,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-09,1600,1935,1765,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-15,1750,2025,1885,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-17,1750,2045,1900,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-23,1750,2035,1890,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-05-16,1800,2120,2000,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-07-02,1780,2165,1970,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-08-01,1975,2050,2010,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-08-22,352,404,378,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-08-30,377,392,384,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-05,383,400,391,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-11,366,409,387,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-12,368,405,386,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-22,360,405,382,248
-Gujarat,Gandhinagar,Mansa,Rajgir,Other,FAQ,2007-01-31,1675,1675,1675,248
-Gujarat,Gandhinagar,Mansa,Rajgir,Other,FAQ,2007-02-02,1665,1665,1665,248
-Gujarat,Gandhinagar,Mansa,Rajgir,Other,FAQ,2007-03-09,1705,1705,1705,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-06,1825,2055,1940,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-07,1820,2120,1970,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-12,1770,2015,1890,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-20,1520,1840,1680,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-05-01,2030,2030,2030,248
-Madhya Pradesh,Badwani,Badwani,Rajgir,Other,FAQ,2007-03-17,2000,2000,2000,248
-Madhya Pradesh,Badwani,Badwani,Rajgir,Other,FAQ,2007-08-10,1701,2322,2322,248
-Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-01-05,2050,2050,2050,248
-Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-01-08,2020,2020,2020,248
-Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-02-08,1303,1303,1303,248
-Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-12-27,2300,2300,2300,248
-Madhya Pradesh,Betul,Multai,Rajgir,Other,FAQ,2007-02-26,1453,1453,1453,248
-Madhya Pradesh,Betul,Multai,Rajgir,Other,FAQ,2007-12-22,1885,1885,1885,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-01-05,2050,2050,2050,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-01-06,2166,2166,2166,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-02-26,1453,1453,1453,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-09-22,2001,2001,2001,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-12-13,2255,2255,2255,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-12-27,2300,2300,2300,248
-Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2007-01-13,1911,1911,1911,248
-Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2007-02-08,1303,1303,1303,248
-Madhya Pradesh,Burhanpur,Burhanpur,Rajgir,Other,FAQ,2007-03-17,2000,2000,2000,248
-Madhya Pradesh,Dewas,Dewas,Rajgir,Other,FAQ,2007-02-19,1951,1951,1951,248
-Madhya Pradesh,Dewas,Dewas,Rajgir,Other,FAQ,2007-05-14,1725,1725,1725,248
-Madhya Pradesh,Dewas,Kannod,Rajgir,Other,FAQ,2007-02-19,1951,1951,1951,248
-Madhya Pradesh,Dewas,Sonkatch,Rajgir,Other,FAQ,2007-06-19,1600,1600,1600,248
-Madhya Pradesh,Dhar,Badnawar,Rajgir,Other,FAQ,2007-08-10,1701,2322,2322,248
-Madhya Pradesh,Guna,Maksudangarh,Rajgir,Other,FAQ,2007-12-14,1700,1700,1700,248
-Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2007-01-05,2050,2050,2050,248
-Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2007-01-13,1911,1911,1911,248
-Madhya Pradesh,Harda,Timarni,Rajgir,Other,FAQ,2007-01-04,2093,2093,2093,248
-Madhya Pradesh,Harda,Timarni,Rajgir,Other,FAQ,2007-01-13,1911,1911,1911,248
-Madhya Pradesh,Harda,Timarni,Rajgir,Other,FAQ,2007-12-28,2510,2510,2510,248
-Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-01-04,2093,2093,2093,248
-Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-01-06,2166,2166,2166,248
-Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-20,2450,2450,2450,248
-Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-22,1885,1885,1885,248
-Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-28,2510,2510,2510,248
-Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-29,2460,2460,2460,248
-Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-01-05,2050,2050,2050,248
-Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-01-08,2020,2020,2020,248
-Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-01-09,2011,2041,2041,248
-Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-04-19,2000,2000,2000,248
-Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-12-13,2255,2255,2255,248
-Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-12-29,2460,2460,2460,248
-Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-01-09,2011,2041,2041,248
-Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-01-13,1911,1911,1911,248
-Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-12-27,2300,2300,2300,248
-Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-12-29,2460,2460,2460,248
-Madhya Pradesh,Hoshangabad,Pipariya,Rajgir,Other,FAQ,2007-01-08,2020,2020,2020,248
-Madhya Pradesh,Hoshangabad,Pipariya,Rajgir,Other,FAQ,2007-12-29,2460,2460,2460,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-03-05,2255,3205,2850.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-03-19,2850,3515,3250.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-03-20,2625,3500,3050.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-04,2750,3550,3250.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-08,3155,3835,3495.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-11,2625,4175,3400.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-17,2900,4090,3495.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-08,2375,3980,3177.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-09,2225,4090,3157.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-11,2800,4050,3425.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-12,2880,4145,3512.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-01,3620,3915,3770.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-08,3250,3875,3690.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-10,3700,3735,3717.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-23,3500,4065,3800.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-03,3450,4010,3800.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-13,2305,3755,3200.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-16,3800,3930,3865.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-27,4040,4075,4057.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-01-12,2275,2275,2275.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-03,2900,3045,2972.5,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-16,3125,3505,3315.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-18,2940,3550,3245.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-19,3190,3540,3365.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-23,2500,3400,2950.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-24,3105,3325,3215.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-04-11,3850,4150,4000.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-04-18,3850,4000,3925.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-04-20,3340,3905,3622.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-04,2505,3025,2765.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-07,2350,3140,3130.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-23,3005,3355,3180.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-24,3155,3175,3165.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-04-08,3020,3630,3325.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-04-10,3650,3650,3650.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-05-12,3350,3755,3552.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-05-25,2500,2500,2500.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-06-26,3355,3355,3355.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-07-03,3375,3375,3375.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-07-31,2860,2860,2860.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-09-02,4575,4575,4575.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-09-29,4500,4500,4500.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-10-24,3350,3350,3350.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-02-10,2805,2855,2805.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-07,2355,2355,2355.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-09,2930,2980,2930.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-16,2655,2905,2905.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-19,2655,2955,2955.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-15,2755,3055,3055.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-16,3000,3155,3155.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-18,3255,3255,3255.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-23,2755,3280,3055.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-28,3130,3130,3130.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-01,3130,3130,3130.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-05,2105,3305,3305.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-18,2980,2980,2980.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-22,3380,3380,3380.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-06-06,3155,3155,3155.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-06-08,3205,3205,3205.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-11-17,4605,4605,4605.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-11-20,4405,4405,4405.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-11-24,4500,4500,4500.0,248
-Madhya Pradesh,Balaghat,Varaseoni,Rajgir,Other,FAQ,2009-01-05,2850,2950,2950.0,248
-Madhya Pradesh,Betul,Multai,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Madhya Pradesh,Hoshangabad,Semriharchand,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Jabalpur,Sehora,Rajgir,Other,FAQ,2009-01-05,2850,2950,2950.0,248
-Madhya Pradesh,Katni,Katni,Rajgir,Other,FAQ,2009-01-05,2850,2950,2950.0,248
-Madhya Pradesh,Narsinghpur,Narsinghpur,Rajgir,Other,FAQ,2009-01-05,2850,2950,2950.0,248
-Madhya Pradesh,Raisen,Bareli,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Madhya Pradesh,Raisen,Bareli,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Raisen,Obedullaganj,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Rajgarh,Biaora,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Madhya Pradesh,Rajgarh,Narsinghgarh,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Rajgarh,Sarangpur,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Sagar,Bina,Rajgir,Other,FAQ,2009-01-17,2500,2500,2500.0,248
-Madhya Pradesh,Sagar,Rehli,Rajgir,Other,FAQ,2009-01-17,2500,2500,2500.0,248
-Madhya Pradesh,Sehore,Nasrullaganj,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Madhya Pradesh,Sehore,Rehati,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Madhya Pradesh,Sehore,Shyampur,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Vidisha,Shamshabad,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Madhya Pradesh,Vidisha,Shamshabad,Rajgir,Other,FAQ,2009-01-02,3529,3529,3529.0,248
-Madhya Pradesh,Vidisha,Sironj,Rajgir,Other,FAQ,2009-01-01,3500,3500,3500.0,248
-Maharashtra,Nagpur,Nagpur,Rajgir,Other,FAQ,2009-03-05,750,950,850.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2009-03-02,150,200,175.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-03-02,100,175,125.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-03-04,150,150,150.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-04-24,150,150,150.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-04-25,100,150,125.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-03-14,3005,4250,4000,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-03-17,3220,4075,3950,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-05-22,3800,4120,4040,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-05-26,3125,4050,3860,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-05-28,3500,3500,3500,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-06-05,3505,3930,3875,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-06-27,3705,3705,3705,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-07-08,3665,3665,3665,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-07-09,3580,3900,3605,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-09-08,3500,3500,3500,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-09-14,2800,2800,2800,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-02,4450,5705,5077,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-12,2500,4325,3412,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-15,3750,5355,4552,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-16,3750,5535,4642,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-19,5125,5200,5162,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-27,4000,4675,4337,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-30,3000,4375,3687,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-09,4155,4305,4230,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-11,3605,4500,4052,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-21,3000,4055,3527,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-27,3075,4205,3640,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-03-02,3255,4350,3802,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-03-10,2555,4205,3380,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-03-18,3250,4250,3750,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-02,3250,4260,3755,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-09,3250,4275,3762,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-11,3500,4200,3850,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-13,3360,4300,3830,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-25,3500,4395,3947,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-29,3150,4315,3732,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-02,3500,4420,3960,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-15,3605,4200,3902,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-16,3000,4165,3582,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-18,3000,4105,3552,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-25,2425,4060,3242,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-26,2825,4055,3440,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-07-13,3480,4035,3757,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-08-19,3000,3745,3372,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-08-21,2500,3850,3175,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-09-02,3125,3885,3505,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-09-08,3400,3885,3642,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-09-18,3155,3905,3530,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-07,3500,3895,3697,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-09,3000,3970,3485,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-12,3500,3740,3620,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-13,2750,3810,3280,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-14,2825,3830,3327,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-28,3350,3810,3580,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-11-02,3005,3825,3415,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-11-03,3055,3810,3432,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-11-16,3615,3890,3752,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2015-02-10,3255,3255,3255,248
-Madhya Pradesh,Dhar,Manawar,Rajgir,Other,FAQ,2015-08-19,3800,4000,3900,248
-Maharashtra,Pune,Indapur(Bhigwan),Rajgir,Other,FAQ,2015-10-11,6000,6897,6500,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-05,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-09,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-12,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-24,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-27,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-05-19,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-05-22,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-05-31,5,5,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-06-04,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-06-05,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-06-07,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-07-08,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-07-26,2,5,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-08-04,2,5,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-08-26,2,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-08,2,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-14,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-21,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-23,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-29,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-02,4,7,6,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-05,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-13,4,8,6,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-14,5,8,7,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-27,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-11-20,2,3,2,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-12-15,2,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-12-21,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-12-31,3,5,4,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2015-06-30,4,5,4,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2015-10-15,6,8,7,248
-Maharashtra,Pune,Pune(Pimpri),Rajgir,Other,FAQ,2015-10-18,6,8,6,248
-Maharashtra,Sholapur,Barshi,Rajgir,Other,FAQ,2015-10-14,200,400,300,248
-Maharashtra,Sholapur,Barshi,Rajgir,Other,FAQ,2015-10-19,200,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-09-12,250,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-10-14,300,500,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-10-27,250,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-10-31,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-11-17,100,350,200,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-12-03,300,400,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-12-15,300,400,350,248
-Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-04-12,4750,4750,4750.0,248
-Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-06-27,5070,5070,5070.0,248
-Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-09-20,5900,5900,5900.0,248
-Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-12-13,4500,4500,4500.0,248
-Gujarat,Anand,Tarapur,Rajgir,Other,FAQ,2019-09-26,5500,5500,5500.0,248
-Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-03-22,4555,5075,4815.0,248
-Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-05-11,5850,6225,6035.0,248
-Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-05-13,6255,6255,6255.0,248
-Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-05-29,6155,6155,6155.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-25,3605,4425,4155.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-26,3270,4225,4000.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-27,3500,4335,4205.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-28,3680,4295,4060.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-03-01,3950,4495,4150.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-03-12,3875,4665,4550.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-03-13,4250,4685,4505.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-04-03,5000,5360,5200.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-04-18,5000,5570,5350.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-04-27,5000,5700,5400.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-01,5355,6025,5855.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-10,5500,6025,5900.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-15,6000,6635,6500.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-20,5755,6685,6555.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-03,5400,5750,5750.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-06,5500,6000,6000.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-08,5755,5755,5755.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-13,6255,6255,6255.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-15,6055,6415,6255.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-09-16,7750,7750,7750.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-10-01,7175,7175,7175.0,248
-Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-10-15,6855,6855,6855.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-04-20,4500,5375,5150.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-04-25,4975,5175,5125.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-04-26,5100,5315,5175.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-05-22,6155,6405,6250.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-05-25,5180,6180,6000.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-06-27,5000,5825,5500.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-07-20,6105,6105,6105.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-10-14,6880,6880,6880.0,248
-Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-12-10,5825,6925,6500.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-01,5500,5605,5552.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-09,5500,5725,5612.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-16,4175,5855,5015.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-23,5300,5355,5327.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-02-11,3505,5705,4605.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-03-07,4250,4780,4515.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-03-08,4125,4800,4462.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-03-26,4800,5370,5085.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-01,5250,6085,5667.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-06,5430,6115,5772.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-10,5500,6355,5927.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-13,6055,6505,6280.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-14,6055,6500,6277.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-04,5600,6570,6085.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-08,5555,6530,6042.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-10,5500,5625,5562.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-15,6200,6545,6372.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-21,5500,6525,6012.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-26,5500,6530,6015.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-07-08,6125,6500,6312.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-07-22,6350,6605,6477.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-05,6100,6500,6300.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-06,6000,6500,6250.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-19,5780,6580,6180.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-20,6150,6650,6400.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-22,6705,6825,6765.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-28,6905,7060,6982.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-09-11,7750,7980,7865.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-10-01,7390,7785,7587.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-10-21,7375,7505,7440.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-16,7250,7500,7375.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-19,7505,7675,7590.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-22,7500,7625,7562.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-25,7350,7905,7627.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-30,8155,8225,8190.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-02,8150,8175,8162.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-03,8200,8225,8212.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-17,8225,8255,8240.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-23,7900,8250,8075.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-26,8090,8205,8147.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-30,7200,8210,7705.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-02-21,4000,4000,4000.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-03-12,4005,4355,4180.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-05,5625,5750,5687.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-11,5455,5755,5605.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-15,4790,4790,4790.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-22,4800,5255,5027.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-26,4500,5225,4862.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-05-03,5700,5700,5700.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-12-30,7930,7930,7930.0,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-03-23,4900,4900,4900.0,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-03,5000,5000,5000.0,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-08,4755,5820,5287.0,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-13,5645,5825,5735.0,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-29,5555,5625,5590.0,248
-Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-05-03,5700,5815,5757.0,248
-Madhya Pradesh,Dhar,Manawar,Rajgir,Other,FAQ,2019-07-24,5700,5700,5700.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-04,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-11,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-15,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-17,3,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-18,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-28,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-29,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-30,3,4,3.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-07,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-11,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-15,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-18,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-21,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-27,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-03-11,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-04-09,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-04-14,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-02,4,5,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-06,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-07,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-09,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-13,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-14,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-21,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-28,2,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-29,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-05,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-11,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-25,5,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-27,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-01,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-10,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-16,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-18,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-08-19,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-08-26,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-06,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-08,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-09,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-23,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-24,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-10-23,4,7,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-01,4,7,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-04,7,8,7.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-07,5,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-13,4,7,6.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-22,5,7,6.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-24,5,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-26,4,7,6.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-01,4,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-04,5,6,5.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-09,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-11,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-13,3,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-23,4,7,6.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-27,4,5,4.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-31,3,5,4.0,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-04,5,5,5.0,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-05,6,6,6.0,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-07,4,6,5.0,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-11,4,4,4.0,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-12,4,4,4.0,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-14,4,4,4.0,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-31,5,5,5.0,248
-Maharashtra,Pune,Pune(Pimpri),Rajgir,Other,FAQ,2019-10-03,7,10,9.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-01-04,300,300,300.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-01-11,400,400,400.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-01-18,200,400,300.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-02-15,200,300,250.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-02-23,300,300,300.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-02-27,400,400,400.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-03-09,300,400,350.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-06-07,500,600,550.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-15,200,300,250.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-22,200,300,250.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-23,200,400,300.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-27,100,300,200.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-08-03,100,250,150.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-08-08,150,200,170.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-08-09,200,300,250.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-09-27,200,300,250.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-10-03,300,600,400.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-10-14,300,400,350.0,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-11-12,400,600,500.0,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-07-28,2,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-07-29,2,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-07-30,2,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-03,2,5,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-06,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-08,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-11,3,6,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-19,2,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-01,2,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-10,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-15,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-17,2,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-29,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-08,4,10,7,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-12,5,7,6,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-20,2,7,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-21,2,5,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-01,2,6,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-05,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-10,5,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-11,4,7,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-16,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-19,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-21,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-25,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-01,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-02,3,6,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-03,5,10,7,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-06,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-15,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-17,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-21,4,12,8,248
-Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2021-06-16,8,8,8,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-01-16,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-01-18,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-01-25,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-02-09,2,5,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-02-27,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-03-08,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-03-14,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-01,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-13,4,5,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-16,1,2,2,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-20,1,3,2,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-04,4,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-05,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-06,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-25,2,5,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-03,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-09,2,5,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-12,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-21,4,6,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-24,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-03,3,6,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-05,4,6,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-20,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-21,2,7,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-26,2,4,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-28,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-31,2,4,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-03,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-07,2,6,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-10,2,4,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-29,2,4,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-09-10,3,5,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-09-12,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-09-18,2,5,3,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-02,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-07,2,7,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-11,4,8,6,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-17,2,7,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-23,3,6,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-24,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-27,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-28,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-01,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-03,3,6,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-04,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-06,3,6,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-10,3,6,5,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-15,3,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-17,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-26,2,6,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-01,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-04,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-08,2,5,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-16,2,6,4,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-21,5,8,7,248
-Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-24,3,11,7,248
-Maharashtra,Pune,Pune(Moshi),Rajgir,Other,FAQ,2021-05-28,5,5,5,248
-Maharashtra,Pune,Pune(Moshi),Rajgir,Other,FAQ,2021-06-14,4,6,5,248
-Maharashtra,Pune,Pune(Moshi),Rajgir,Other,FAQ,2021-07-03,5,5,5,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-01-05,300,400,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-03-15,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-03-23,200,350,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-03-25,300,300,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-04-07,200,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-04-17,200,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-04-19,200,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-04,200,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-06,300,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-07,300,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-20,300,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-26,400,500,450,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-28,400,600,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-06-03,600,600,600,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-06-25,250,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-06-28,300,400,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-09,200,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-17,300,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-24,300,400,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-28,250,500,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-30,470,470,470,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-10,400,400,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-11,400,500,450,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-23,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-26,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-28,200,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-09-07,500,500,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-09-14,400,500,450,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-09-21,500,700,600,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-01,500,500,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-05,400,700,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-20,400,700,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-25,600,800,700,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-01,500,600,550,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-03,200,700,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-08,600,600,600,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-09,300,600,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-10,400,500,450,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-13,300,400,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-19,250,300,280,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-25,200,500,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-29,300,400,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-06,300,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-18,400,400,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-24,600,600,600,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-27,600,600,600,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-31,600,800,700,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-12,2500,2600,2546.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-17,2500,2600,2546.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-23,2500,2600,2546.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-26,2500,2600,2546.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-29,2500,2600,2546.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-01,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-03,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-07,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-08,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-16,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-21,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-24,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-07,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-12,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-16,3000,3050,3025.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-19,3000,3040,3025.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-21,3000,3050,3020.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-09-11,3000,3050,3000.0,248
-Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-09-18,3000,3040,3010.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-03-17,500,614,585.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-04-04,2500,3100,2800.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-04-24,2000,3075,2537.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-05-20,1625,3275,2450.0,248
-Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-06-06,2145,3960,3052.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-04-08,2555,2875,2715.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-04-24,2180,2725,2452.5,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-04-28,2075,2745,2410.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-02,2005,2825,2415.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-06,2250,2890,2570.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-13,2275,2900,2587.5,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-14,2275,2850,2562.5,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-16,2635,2995,2815.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-02-24,1600.0,1690.0,1650.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-08,1600.0,1690.0,1650.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-10,1600.0,1690.0,1650.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-12,1600.0,1690.0,1650.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-13,1600.0,1690.0,1650.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-14,1600.0,1690.0,1650.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-21,1750.0,1900.0,1828.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-22,1750.0,1900.0,1828.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-03-27,1450.0,1825.0,1755.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-05,1500.0,1680.0,1580.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-18,1505.0,1670.0,1590.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-19,1505.0,1670.0,1590.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-04-21,1505.0,1670.0,1590.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-01,1600.0,1625.0,1610.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-09,1600.0,1625.0,1620.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-15,1600.0,1625.0,1610.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-16,1600.0,1625.0,1610.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-05-17,1600.0,1625.0,1610.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-06,1500.0,1550.0,1520.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-13,1500.0,1550.0,1520.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-19,1500.0,1550.0,1520.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-21,1500.0,1550.0,1520.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-23,1500.0,1550.0,1520.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-25,1500.0,1550.0,1520.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-06-30,2000.0,2010.0,2007.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-12,1400.0,1410.0,1405.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-13,1400.0,1410.0,1405.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-20,1400.0,1410.0,1405.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-25,1400.0,1410.0,1405.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-30,1500.0,1900.0,1800.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-07-31,1500.0,1900.0,1850.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-08-21,1500.0,1900.0,1845.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-08-22,1500.0,1900.0,1845.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-08-28,1500.0,1900.0,1808.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-09-19,1500.0,1800.0,1775.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-10-06,1500.0,1700.0,1625.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-10-23,1500.0,1675.0,1600.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-02,1550.0,1690.0,1600.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-03,1550.0,1690.0,1600.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-06,1550.0,1690.0,1600.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-21,1550.0,1690.0,1690.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-28,1550.0,1690.0,1690.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-12-01,1550.0,1690.0,1600.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-12-04,1550.0,1690.0,1600.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-08,1450.0,1720.0,1585.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-12,1400.0,1725.0,1560.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-15,1225.0,1740.0,1480.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-20,1350.0,1675.0,1510.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-23,1435.0,1795.0,1615.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-26,1450.0,1750.0,1600.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-02-27,1450.0,1760.0,1605.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-07,1480.0,1895.0,1685.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-09,1600.0,1935.0,1765.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-15,1750.0,2025.0,1885.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-17,1750.0,2045.0,1900.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-03-23,1750.0,2035.0,1890.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-05-16,1800.0,2120.0,2000.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-07-02,1780.0,2165.0,1970.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-08-01,1975.0,2050.0,2010.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-08-22,352.0,404.0,378.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-08-30,377.0,392.0,384.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-05,383.0,400.0,391.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-11,366.0,409.0,387.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-12,368.0,405.0,386.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2007-09-22,360.0,405.0,382.0,248
+Gujarat,Gandhinagar,Mansa,Rajgir,Other,FAQ,2007-01-31,1675.0,1675.0,1675.0,248
+Gujarat,Gandhinagar,Mansa,Rajgir,Other,FAQ,2007-02-02,1665.0,1665.0,1665.0,248
+Gujarat,Gandhinagar,Mansa,Rajgir,Other,FAQ,2007-03-09,1705.0,1705.0,1705.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-06,1825.0,2055.0,1940.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-07,1820.0,2120.0,1970.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-12,1770.0,2015.0,1890.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-04-20,1520.0,1840.0,1680.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2007-05-01,2030.0,2030.0,2030.0,248
+Madhya Pradesh,Badwani,Badwani,Rajgir,Other,FAQ,2007-03-17,2000.0,2000.0,2000.0,248
+Madhya Pradesh,Badwani,Badwani,Rajgir,Other,FAQ,2007-08-10,1701.0,2322.0,2322.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-01-05,2050.0,2050.0,2050.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-01-08,2020.0,2020.0,2020.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-02-08,1303.0,1303.0,1303.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-12-27,2300.0,2300.0,2300.0,248
+Madhya Pradesh,Betul,Multai,Rajgir,Other,FAQ,2007-02-26,1453.0,1453.0,1453.0,248
+Madhya Pradesh,Betul,Multai,Rajgir,Other,FAQ,2007-12-22,1885.0,1885.0,1885.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-01-05,2050.0,2050.0,2050.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-01-06,2166.0,2166.0,2166.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-02-26,1453.0,1453.0,1453.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-09-22,2001.0,2001.0,2001.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-12-13,2255.0,2255.0,2255.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-12-27,2300.0,2300.0,2300.0,248
+Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2007-01-13,1911.0,1911.0,1911.0,248
+Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2007-02-08,1303.0,1303.0,1303.0,248
+Madhya Pradesh,Burhanpur,Burhanpur,Rajgir,Other,FAQ,2007-03-17,2000.0,2000.0,2000.0,248
+Madhya Pradesh,Dewas,Dewas,Rajgir,Other,FAQ,2007-02-19,1951.0,1951.0,1951.0,248
+Madhya Pradesh,Dewas,Dewas,Rajgir,Other,FAQ,2007-05-14,1725.0,1725.0,1725.0,248
+Madhya Pradesh,Dewas,Kannod,Rajgir,Other,FAQ,2007-02-19,1951.0,1951.0,1951.0,248
+Madhya Pradesh,Dewas,Sonkatch,Rajgir,Other,FAQ,2007-06-19,1600.0,1600.0,1600.0,248
+Madhya Pradesh,Dhar,Badnawar,Rajgir,Other,FAQ,2007-08-10,1701.0,2322.0,2322.0,248
+Madhya Pradesh,Guna,Maksudangarh,Rajgir,Other,FAQ,2007-12-14,1700.0,1700.0,1700.0,248
+Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2007-01-05,2050.0,2050.0,2050.0,248
+Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2007-01-13,1911.0,1911.0,1911.0,248
+Madhya Pradesh,Harda,Timarni,Rajgir,Other,FAQ,2007-01-04,2093.0,2093.0,2093.0,248
+Madhya Pradesh,Harda,Timarni,Rajgir,Other,FAQ,2007-01-13,1911.0,1911.0,1911.0,248
+Madhya Pradesh,Harda,Timarni,Rajgir,Other,FAQ,2007-12-28,2510.0,2510.0,2510.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-01-04,2093.0,2093.0,2093.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-01-06,2166.0,2166.0,2166.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-20,2450.0,2450.0,2450.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-22,1885.0,1885.0,1885.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-28,2510.0,2510.0,2510.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-29,2460.0,2460.0,2460.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-01-05,2050.0,2050.0,2050.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-01-08,2020.0,2020.0,2020.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-01-09,2011.0,2041.0,2041.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-04-19,2000.0,2000.0,2000.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-12-13,2255.0,2255.0,2255.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-12-29,2460.0,2460.0,2460.0,248
+Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-01-09,2011.0,2041.0,2041.0,248
+Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-01-13,1911.0,1911.0,1911.0,248
+Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-12-27,2300.0,2300.0,2300.0,248
+Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-12-29,2460.0,2460.0,2460.0,248
+Madhya Pradesh,Hoshangabad,Pipariya,Rajgir,Other,FAQ,2007-01-08,2020.0,2020.0,2020.0,248
+Madhya Pradesh,Hoshangabad,Pipariya,Rajgir,Other,FAQ,2007-12-29,2460.0,2460.0,2460.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-03-05,2255.0,3205.0,2850.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-03-19,2850.0,3515.0,3250.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-03-20,2625.0,3500.0,3050.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-04,2750.0,3550.0,3250.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-08,3155.0,3835.0,3495.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-11,2625.0,4175.0,3400.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-04-17,2900.0,4090.0,3495.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-08,2375.0,3980.0,3177.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-09,2225.0,4090.0,3157.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-11,2800.0,4050.0,3425.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-05-12,2880.0,4145.0,3512.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-01,3620.0,3915.0,3770.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-08,3250.0,3875.0,3690.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-10,3700.0,3735.0,3717.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-06-23,3500.0,4065.0,3800.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-03,3450.0,4010.0,3800.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-13,2305.0,3755.0,3200.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-16,3800.0,3930.0,3865.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2009-07-27,4040.0,4075.0,4057.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-01-12,2275.0,2275.0,2275.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-03,2900.0,3045.0,2972.5,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-16,3125.0,3505.0,3315.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-18,2940.0,3550.0,3245.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-19,3190.0,3540.0,3365.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-23,2500.0,3400.0,2950.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-03-24,3105.0,3325.0,3215.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-04-11,3850.0,4150.0,4000.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-04-18,3850.0,4000.0,3925.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2009-04-20,3340.0,3905.0,3622.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-04,2505.0,3025.0,2765.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-07,2350.0,3140.0,3130.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-23,3005.0,3355.0,3180.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-03-24,3155.0,3175.0,3165.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-04-08,3020.0,3630.0,3325.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-04-10,3650.0,3650.0,3650.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-05-12,3350.0,3755.0,3552.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-05-25,2500.0,2500.0,2500.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-06-26,3355.0,3355.0,3355.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-07-03,3375.0,3375.0,3375.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-07-31,2860.0,2860.0,2860.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-09-02,4575.0,4575.0,4575.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-09-29,4500.0,4500.0,4500.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2009-10-24,3350.0,3350.0,3350.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-02-10,2805.0,2855.0,2805.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-07,2355.0,2355.0,2355.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-09,2930.0,2980.0,2930.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-16,2655.0,2905.0,2905.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-03-19,2655.0,2955.0,2955.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-15,2755.0,3055.0,3055.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-16,3000.0,3155.0,3155.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-18,3255.0,3255.0,3255.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-23,2755.0,3280.0,3055.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-04-28,3130.0,3130.0,3130.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-01,3130.0,3130.0,3130.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-05,2105.0,3305.0,3305.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-18,2980.0,2980.0,2980.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-05-22,3380.0,3380.0,3380.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-06-06,3155.0,3155.0,3155.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-06-08,3205.0,3205.0,3205.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-11-17,4605.0,4605.0,4605.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-11-20,4405.0,4405.0,4405.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2009-11-24,4500.0,4500.0,4500.0,248
+Madhya Pradesh,Balaghat,Varaseoni,Rajgir,Other,FAQ,2009-01-05,2850.0,2950.0,2950.0,248
+Madhya Pradesh,Betul,Multai,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Madhya Pradesh,Hoshangabad,Semriharchand,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Jabalpur,Sehora,Rajgir,Other,FAQ,2009-01-05,2850.0,2950.0,2950.0,248
+Madhya Pradesh,Katni,Katni,Rajgir,Other,FAQ,2009-01-05,2850.0,2950.0,2950.0,248
+Madhya Pradesh,Narsinghpur,Narsinghpur,Rajgir,Other,FAQ,2009-01-05,2850.0,2950.0,2950.0,248
+Madhya Pradesh,Raisen,Bareli,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Madhya Pradesh,Raisen,Bareli,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Raisen,Obedullaganj,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Rajgarh,Biaora,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Madhya Pradesh,Rajgarh,Narsinghgarh,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Rajgarh,Sarangpur,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Sagar,Bina,Rajgir,Other,FAQ,2009-01-17,2500.0,2500.0,2500.0,248
+Madhya Pradesh,Sagar,Rehli,Rajgir,Other,FAQ,2009-01-17,2500.0,2500.0,2500.0,248
+Madhya Pradesh,Sehore,Nasrullaganj,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Madhya Pradesh,Sehore,Rehati,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Madhya Pradesh,Sehore,Shyampur,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Vidisha,Shamshabad,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Madhya Pradesh,Vidisha,Shamshabad,Rajgir,Other,FAQ,2009-01-02,3529.0,3529.0,3529.0,248
+Madhya Pradesh,Vidisha,Sironj,Rajgir,Other,FAQ,2009-01-01,3500.0,3500.0,3500.0,248
+Maharashtra,Nagpur,Nagpur,Rajgir,Other,FAQ,2009-03-05,750.0,950.0,850.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2009-03-02,150.0,200.0,175.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-03-02,100.0,175.0,125.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-03-04,150.0,150.0,150.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-04-24,150.0,150.0,150.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2009-04-25,100.0,150.0,125.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-03-14,3005.0,4250.0,4000.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-03-17,3220.0,4075.0,3950.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-05-22,3800.0,4120.0,4040.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-05-26,3125.0,4050.0,3860.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-05-28,3500.0,3500.0,3500.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-06-05,3505.0,3930.0,3875.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-06-27,3705.0,3705.0,3705.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-07-08,3665.0,3665.0,3665.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-07-09,3580.0,3900.0,3605.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-09-08,3500.0,3500.0,3500.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2015-09-14,2800.0,2800.0,2800.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-02,4450.0,5705.0,5077.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-12,2500.0,4325.0,3412.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-15,3750.0,5355.0,4552.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-16,3750.0,5535.0,4642.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-19,5125.0,5200.0,5162.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-27,4000.0,4675.0,4337.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-01-30,3000.0,4375.0,3687.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-09,4155.0,4305.0,4230.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-11,3605.0,4500.0,4052.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-21,3000.0,4055.0,3527.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-02-27,3075.0,4205.0,3640.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-03-02,3255.0,4350.0,3802.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-03-10,2555.0,4205.0,3380.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-03-18,3250.0,4250.0,3750.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-02,3250.0,4260.0,3755.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-09,3250.0,4275.0,3762.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-11,3500.0,4200.0,3850.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-13,3360.0,4300.0,3830.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-25,3500.0,4395.0,3947.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-05-29,3150.0,4315.0,3732.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-02,3500.0,4420.0,3960.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-15,3605.0,4200.0,3902.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-16,3000.0,4165.0,3582.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-18,3000.0,4105.0,3552.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-25,2425.0,4060.0,3242.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-06-26,2825.0,4055.0,3440.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-07-13,3480.0,4035.0,3757.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-08-19,3000.0,3745.0,3372.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-08-21,2500.0,3850.0,3175.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-09-02,3125.0,3885.0,3505.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-09-08,3400.0,3885.0,3642.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-09-18,3155.0,3905.0,3530.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-07,3500.0,3895.0,3697.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-09,3000.0,3970.0,3485.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-12,3500.0,3740.0,3620.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-13,2750.0,3810.0,3280.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-14,2825.0,3830.0,3327.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-10-28,3350.0,3810.0,3580.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-11-02,3005.0,3825.0,3415.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-11-03,3055.0,3810.0,3432.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2015-11-16,3615.0,3890.0,3752.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2015-02-10,3255.0,3255.0,3255.0,248
+Madhya Pradesh,Dhar,Manawar,Rajgir,Other,FAQ,2015-08-19,3800.0,4000.0,3900.0,248
+Maharashtra,Pune,Indapur(Bhigwan),Rajgir,Other,FAQ,2015-10-11,6000.0,6897.0,6500.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-05,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-09,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-12,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-24,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-04-27,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-05-19,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-05-22,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-05-31,5.0,5.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-06-04,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-06-05,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-06-07,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-07-08,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-07-26,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-08-04,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-08-26,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-08,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-14,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-21,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-23,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-09-29,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-02,4.0,7.0,6.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-05,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-13,4.0,8.0,6.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-14,5.0,8.0,7.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-10-27,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-11-20,2.0,3.0,2.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-12-15,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-12-21,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2015-12-31,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2015-06-30,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2015-10-15,6.0,8.0,7.0,248
+Maharashtra,Pune,Pune(Pimpri),Rajgir,Other,FAQ,2015-10-18,6.0,8.0,6.0,248
+Maharashtra,Sholapur,Barshi,Rajgir,Other,FAQ,2015-10-14,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Barshi,Rajgir,Other,FAQ,2015-10-19,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-09-12,250.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-10-14,300.0,500.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-10-27,250.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-10-31,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-11-17,100.0,350.0,200.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-12-03,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2015-12-15,300.0,400.0,350.0,248
+Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-04-12,4750.0,4750.0,4750.0,248
+Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-06-27,5070.0,5070.0,5070.0,248
+Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-09-20,5900.0,5900.0,5900.0,248
+Gujarat,Amreli,Rajula,Rajgir,Other,FAQ,2019-12-13,4500.0,4500.0,4500.0,248
+Gujarat,Anand,Tarapur,Rajgir,Other,FAQ,2019-09-26,5500.0,5500.0,5500.0,248
+Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-03-22,4555.0,5075.0,4815.0,248
+Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-05-11,5850.0,6225.0,6035.0,248
+Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-05-13,6255.0,6255.0,6255.0,248
+Gujarat,Banaskanth,Amirgadh,Rajgir,Other,FAQ,2019-05-29,6155.0,6155.0,6155.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-25,3605.0,4425.0,4155.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-26,3270.0,4225.0,4000.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-27,3500.0,4335.0,4205.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-02-28,3680.0,4295.0,4060.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-03-01,3950.0,4495.0,4150.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-03-12,3875.0,4665.0,4550.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-03-13,4250.0,4685.0,4505.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-04-03,5000.0,5360.0,5200.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-04-18,5000.0,5570.0,5350.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-04-27,5000.0,5700.0,5400.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-01,5355.0,6025.0,5855.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-10,5500.0,6025.0,5900.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-15,6000.0,6635.0,6500.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-05-20,5755.0,6685.0,6555.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-03,5400.0,5750.0,5750.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-06,5500.0,6000.0,6000.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-08,5755.0,5755.0,5755.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-13,6255.0,6255.0,6255.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-06-15,6055.0,6415.0,6255.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-09-16,7750.0,7750.0,7750.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-10-01,7175.0,7175.0,7175.0,248
+Gujarat,Banaskanth,Deesa(Bhildi),Rajgir,Other,FAQ,2019-10-15,6855.0,6855.0,6855.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-04-20,4500.0,5375.0,5150.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-04-25,4975.0,5175.0,5125.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-04-26,5100.0,5315.0,5175.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-05-22,6155.0,6405.0,6250.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-05-25,5180.0,6180.0,6000.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-06-27,5000.0,5825.0,5500.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-07-20,6105.0,6105.0,6105.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-10-14,6880.0,6880.0,6880.0,248
+Gujarat,Banaskanth,Lakhani,Rajgir,Other,FAQ,2019-12-10,5825.0,6925.0,6500.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-01,5500.0,5605.0,5552.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-09,5500.0,5725.0,5612.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-16,4175.0,5855.0,5015.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-01-23,5300.0,5355.0,5327.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-02-11,3505.0,5705.0,4605.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-03-07,4250.0,4780.0,4515.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-03-08,4125.0,4800.0,4462.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-03-26,4800.0,5370.0,5085.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-01,5250.0,6085.0,5667.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-06,5430.0,6115.0,5772.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-10,5500.0,6355.0,5927.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-13,6055.0,6505.0,6280.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-05-14,6055.0,6500.0,6277.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-04,5600.0,6570.0,6085.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-08,5555.0,6530.0,6042.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-10,5500.0,5625.0,5562.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-15,6200.0,6545.0,6372.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-21,5500.0,6525.0,6012.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-06-26,5500.0,6530.0,6015.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-07-08,6125.0,6500.0,6312.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-07-22,6350.0,6605.0,6477.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-05,6100.0,6500.0,6300.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-06,6000.0,6500.0,6250.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-19,5780.0,6580.0,6180.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-20,6150.0,6650.0,6400.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-22,6705.0,6825.0,6765.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-08-28,6905.0,7060.0,6982.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-09-11,7750.0,7980.0,7865.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-10-01,7390.0,7785.0,7587.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-10-21,7375.0,7505.0,7440.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-16,7250.0,7500.0,7375.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-19,7505.0,7675.0,7590.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-22,7500.0,7625.0,7562.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-25,7350.0,7905.0,7627.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-11-30,8155.0,8225.0,8190.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-02,8150.0,8175.0,8162.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-03,8200.0,8225.0,8212.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-17,8225.0,8255.0,8240.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-23,7900.0,8250.0,8075.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-26,8090.0,8205.0,8147.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2019-12-30,7200.0,8210.0,7705.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-02-21,4000.0,4000.0,4000.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-03-12,4005.0,4355.0,4180.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-05,5625.0,5750.0,5687.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-11,5455.0,5755.0,5605.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-15,4790.0,4790.0,4790.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-22,4800.0,5255.0,5027.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-04-26,4500.0,5225.0,4862.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-05-03,5700.0,5700.0,5700.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2019-12-30,7930.0,7930.0,7930.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-03-23,4900.0,4900.0,4900.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-03,5000.0,5000.0,5000.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-08,4755.0,5820.0,5287.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-13,5645.0,5825.0,5735.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-04-29,5555.0,5625.0,5590.0,248
+Gujarat,Patan,Siddhpur,Rajgir,Other,FAQ,2019-05-03,5700.0,5815.0,5757.0,248
+Madhya Pradesh,Dhar,Manawar,Rajgir,Other,FAQ,2019-07-24,5700.0,5700.0,5700.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-04,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-11,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-15,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-17,3.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-18,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-28,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-29,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-01-30,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-07,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-11,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-15,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-18,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-21,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-02-27,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-03-11,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-04-09,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-04-14,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-02,4.0,5.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-06,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-07,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-09,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-13,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-14,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-21,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-28,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-05-29,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-05,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-11,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-25,5.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-06-27,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-01,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-10,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-16,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-07-18,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-08-19,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-08-26,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-06,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-08,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-09,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-23,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-09-24,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-10-23,4.0,7.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-01,4.0,7.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-04,7.0,8.0,7.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-07,5.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-13,4.0,7.0,6.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-22,5.0,7.0,6.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-24,5.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-11-26,4.0,7.0,6.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-01,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-04,5.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-09,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-11,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-13,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-23,4.0,7.0,6.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-27,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2019-12-31,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-04,5.0,5.0,5.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-05,6.0,6.0,6.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-07,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-11,4.0,4.0,4.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-12,4.0,4.0,4.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-14,4.0,4.0,4.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2019-10-31,5.0,5.0,5.0,248
+Maharashtra,Pune,Pune(Pimpri),Rajgir,Other,FAQ,2019-10-03,7.0,10.0,9.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-01-04,300.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-01-11,400.0,400.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-01-18,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-02-15,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-02-23,300.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-02-27,400.0,400.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-03-09,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-06-07,500.0,600.0,550.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-15,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-22,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-23,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-07-27,100.0,300.0,200.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-08-03,100.0,250.0,150.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-08-08,150.0,200.0,170.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-08-09,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-09-27,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-10-03,300.0,600.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-10-14,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2019-11-12,400.0,600.0,500.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-07-28,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-07-29,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-07-30,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-03,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-06,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-08,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-11,3.0,6.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-08-19,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-01,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-10,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-15,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-17,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-09-29,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-08,4.0,10.0,7.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-12,5.0,7.0,6.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-20,2.0,7.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-10-21,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-01,2.0,6.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-05,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-10,5.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-11,4.0,7.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-16,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-19,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-21,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-11-25,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-01,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-02,3.0,6.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-03,5.0,10.0,7.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-06,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-15,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-17,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2021-12-21,4.0,12.0,8.0,248
+Maharashtra,Pune,Pune(Khadiki),Rajgir,Other,FAQ,2021-06-16,8.0,8.0,8.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-01-16,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-01-18,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-01-25,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-02-09,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-02-27,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-03-08,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-03-14,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-01,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-13,4.0,5.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-16,1.0,2.0,2.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-04-20,1.0,3.0,2.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-04,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-05,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-06,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-05-25,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-03,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-09,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-12,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-21,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-06-24,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-03,3.0,6.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-05,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-20,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-21,2.0,7.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-26,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-28,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-07-31,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-03,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-07,2.0,6.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-10,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-08-29,2.0,4.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-09-10,3.0,5.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-09-12,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-09-18,2.0,5.0,3.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-02,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-07,2.0,7.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-11,4.0,8.0,6.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-17,2.0,7.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-23,3.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-24,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-27,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-10-28,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-01,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-03,3.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-04,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-06,3.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-10,3.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-15,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-17,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-11-26,2.0,6.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-01,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-04,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-08,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-16,2.0,6.0,4.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-21,5.0,8.0,7.0,248
+Maharashtra,Pune,Pune(Manjri),Rajgir,Other,FAQ,2021-12-24,3.0,11.0,7.0,248
+Maharashtra,Pune,Pune(Moshi),Rajgir,Other,FAQ,2021-05-28,5.0,5.0,5.0,248
+Maharashtra,Pune,Pune(Moshi),Rajgir,Other,FAQ,2021-06-14,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune(Moshi),Rajgir,Other,FAQ,2021-07-03,5.0,5.0,5.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-01-05,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-03-15,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-03-23,200.0,350.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-03-25,300.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-04-07,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-04-17,200.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-04-19,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-04,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-06,300.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-07,300.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-20,300.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-26,400.0,500.0,450.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-05-28,400.0,600.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-06-03,600.0,600.0,600.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-06-25,250.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-06-28,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-09,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-17,300.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-24,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-28,250.0,500.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-07-30,470.0,470.0,470.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-10,400.0,400.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-11,400.0,500.0,450.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-23,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-26,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-08-28,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-09-07,500.0,500.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-09-14,400.0,500.0,450.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-09-21,500.0,700.0,600.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-01,500.0,500.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-05,400.0,700.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-20,400.0,700.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-10-25,600.0,800.0,700.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-01,500.0,600.0,550.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-03,200.0,700.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-08,600.0,600.0,600.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-09,300.0,600.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-10,400.0,500.0,450.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-13,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-19,250.0,300.0,280.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-25,200.0,500.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-11-29,300.0,400.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-06,300.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-18,400.0,400.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-24,600.0,600.0,600.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-27,600.0,600.0,600.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2021-12-31,600.0,800.0,700.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-12,2500.0,2600.0,2546.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-17,2500.0,2600.0,2546.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-23,2500.0,2600.0,2546.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-26,2500.0,2600.0,2546.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-04-29,2500.0,2600.0,2546.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-01,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-03,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-07,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-08,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-16,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-21,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-05-24,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-07,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-12,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-16,3000.0,3050.0,3025.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-19,3000.0,3040.0,3025.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-06-21,3000.0,3050.0,3020.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-09-11,3000.0,3050.0,3000.0,248
+Gujarat,Anand,Khambhat(Grain Market),Rajgir,Other,FAQ,2008-09-18,3000.0,3040.0,3010.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-03-17,500.0,614.0,585.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-04-04,2500.0,3100.0,2800.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-04-24,2000.0,3075.0,2537.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-05-20,1625.0,3275.0,2450.0,248
+Gujarat,Banaskanth,Palanpur,Rajgir,Other,FAQ,2008-06-06,2145.0,3960.0,3052.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-04-08,2555.0,2875.0,2715.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-04-24,2180.0,2725.0,2452.5,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-04-28,2075.0,2745.0,2410.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-02,2005.0,2825.0,2415.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-06,2250.0,2890.0,2570.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-13,2275.0,2900.0,2587.5,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-14,2275.0,2850.0,2562.5,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-16,2635.0,2995.0,2815.0,248
 Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-22,3690.25,4070.25,3880.25,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-27,2165,3250,2707.5,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-06-02,3350,3350,3350.0,248
-Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-06-13,2505,2645,2575.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-07,1860,1900,1880.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-08,1945,2030,1987.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-12,0,2030,2030.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-14,2200,2335,2267.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-26,2105,2185,2145.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-28,2145,2260,2202.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-05,2125,2535,2330.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-14,2800,3000,2900.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-15,2955,3035,2995.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-19,2695,2960,2827.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-04-10,2600,2930,2765.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-04-22,2000,2600,2300.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-05-09,1755,2700,2227.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-05-13,1800,2875,2337.5,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-05-22,1500,2750,2125.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-07-03,1500,1500,1500.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-06-24,3280,3380,3280.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-06-27,3480,3480,3480.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-01,3530,3530,3530.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-05,3130,3530,3250.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-09,3505,3605,3505.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-17,3605,3680,3605.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-18,3780,3880,3780.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-26,2780,3555,3480.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-08-02,3255,3255,3255.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-01,2380,3005,3000.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-11,2230,2230,2230.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-12,2605,2605,2605.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-13,2750,2750,2750.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-10-20,2000,2000,2000.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-10-24,2055,2055,2055.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-11-20,2250,2250,2250.0,248
-Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-12-30,2730,2730,2730.0,248
-Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2008-01-05,2500,2500,2500.0,248
-Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2008-01-16,2403,2403,2403.0,248
-Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2008-12-26,3220,3220,3220.0,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-01-05,2500,2500,2500.0,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-01-16,2403,2403,2403.0,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-02-13,2100,2100,2100.0,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-12-05,1500,1500,1500.0,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-12-12,2851,2851,2851.0,248
-Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-12-23,1700,1700,1700.0,248
-Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-04,1700,1700,1700.0,248
-Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-23,1700,1700,1700.0,248
-Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-26,3220,3220,3220.0,248
-Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-30,1825,1825,1825.0,248
-Madhya Pradesh,Chhatarpur,Badamalhera,Rajgir,Other,FAQ,2008-09-04,3015,3015,3015.0,248
-Madhya Pradesh,Chhatarpur,Chhatarpur,Rajgir,Other,FAQ,2008-11-03,2251,2251,2251.0,248
-Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),Rajgir,Other,FAQ,2008-11-03,2251,2251,2251.0,248
-Madhya Pradesh,Chhatarpur,Rajnagar,Rajgir,Other,FAQ,2008-09-04,3015,3015,3015.0,248
-Madhya Pradesh,Chhindwara,Chaurai,Rajgir,Other,FAQ,2008-01-01,2111,2111,2111.0,248
-Madhya Pradesh,Dewas,Loharda,Rajgir,Other,FAQ,2008-05-16,2100,2100,2100.0,248
-Madhya Pradesh,Dewas,Loharda,Rajgir,Other,FAQ,2008-07-16,2100,2100,2100.0,248
-Madhya Pradesh,Dindori,Gorakhpur,Rajgir,Other,FAQ,2008-05-05,2460,2630,2630.0,248
-Madhya Pradesh,Harda,Harda,Rajgir,Other,FAQ,2008-01-16,2403,2403,2403.0,248
-Madhya Pradesh,Harda,Harda,Rajgir,Other,FAQ,2008-02-13,2100,2100,2100.0,248
-Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2008-11-24,3000,3000,3000.0,248
-Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2008-12-12,2851,2851,2851.0,248
-Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2008-12-15,2863,2863,2863.0,248
-Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2016-08-03,3440,3440,3440,248
-Madhya Pradesh,Dhar,Manawar,Rajgir,Other,FAQ,2016-04-12,4000,4000,4000,248
-Maharashtra,Pune,Indapur(Bhigwan),Rajgir,Other,FAQ,2016-09-25,4000,4000,4000,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-01-15,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-01-21,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-01-24,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-04,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-05,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-09,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-29,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-03-06,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-03-13,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-03-30,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-06,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-07,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-18,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-20,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-29,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-10,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-12,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-23,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-24,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-31,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-01,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-02,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-07,3,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-10,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-14,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-19,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-01,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-05,5,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-17,3,5,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-27,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-28,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-02,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-08,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-09,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-22,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-26,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-07,2,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-14,300,500,400,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-15,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-18,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-28,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-30,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-07,4,6,5,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-17,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-25,2,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-26,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-28,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-30,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-03,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-04,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-06,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-09,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-24,4,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-28,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-29,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-02,3,5,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-15,3,5,4,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-18,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-21,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-22,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-23,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-28,3,4,3,248
-Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-29,3,4,3,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-04-22,400,600,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-10,500,500,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-20,400,600,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-23,300,300,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-24,700,700,700,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-06-01,800,800,800,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-06-25,300,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-06-29,300,600,450,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-07-01,200,400,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-03,500,500,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-04,150,300,200,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-10,300,300,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-19,300,350,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-31,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-09-01,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-09-17,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-09-29,350,350,350,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-01,400,500,500,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-04,300,500,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-06,200,700,400,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-14,200,600,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-15,200,300,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-21,300,300,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-05,100,275,200,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-09,100,200,100,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-12,300,300,300,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-14,200,300,250,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-30,200,200,200,248
-Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-12-02,200,200,200,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-05-27,2165.0,3250.0,2707.5,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-06-02,3350.0,3350.0,3350.0,248
+Gujarat,Banaskanth,Panthawada,Rajgir,Other,FAQ,2008-06-13,2505.0,2645.0,2575.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-07,1860.0,1900.0,1880.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-08,1945.0,2030.0,1987.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-12,0.0,2030.0,2030.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-14,2200.0,2335.0,2267.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-26,2105.0,2185.0,2145.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-02-28,2145.0,2260.0,2202.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-05,2125.0,2535.0,2330.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-14,2800.0,3000.0,2900.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-15,2955.0,3035.0,2995.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-03-19,2695.0,2960.0,2827.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-04-10,2600.0,2930.0,2765.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-04-22,2000.0,2600.0,2300.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-05-09,1755.0,2700.0,2227.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-05-13,1800.0,2875.0,2337.5,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-05-22,1500.0,2750.0,2125.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2008-07-03,1500.0,1500.0,1500.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-06-24,3280.0,3380.0,3280.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-06-27,3480.0,3480.0,3480.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-01,3530.0,3530.0,3530.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-05,3130.0,3530.0,3250.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-09,3505.0,3605.0,3505.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-17,3605.0,3680.0,3605.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-18,3780.0,3880.0,3780.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-07-26,2780.0,3555.0,3480.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-08-02,3255.0,3255.0,3255.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-01,2380.0,3005.0,3000.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-11,2230.0,2230.0,2230.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-12,2605.0,2605.0,2605.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-09-13,2750.0,2750.0,2750.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-10-20,2000.0,2000.0,2000.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-10-24,2055.0,2055.0,2055.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-11-20,2250.0,2250.0,2250.0,248
+Gujarat,Rajkot,Gondal,Rajgir,Other,FAQ,2008-12-30,2730.0,2730.0,2730.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2008-01-05,2500.0,2500.0,2500.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2008-01-16,2403.0,2403.0,2403.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2008-12-26,3220.0,3220.0,3220.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-01-05,2500.0,2500.0,2500.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-01-16,2403.0,2403.0,2403.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-02-13,2100.0,2100.0,2100.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-12-05,1500.0,1500.0,1500.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-12-12,2851.0,2851.0,2851.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2008-12-23,1700.0,1700.0,1700.0,248
+Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-04,1700.0,1700.0,1700.0,248
+Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-23,1700.0,1700.0,1700.0,248
+Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-26,3220.0,3220.0,3220.0,248
+Madhya Pradesh,Bhopal,Bhopal,Rajgir,Other,FAQ,2008-12-30,1825.0,1825.0,1825.0,248
+Madhya Pradesh,Chhatarpur,Badamalhera,Rajgir,Other,FAQ,2008-09-04,3015.0,3015.0,3015.0,248
+Madhya Pradesh,Chhatarpur,Chhatarpur,Rajgir,Other,FAQ,2008-11-03,2251.0,2251.0,2251.0,248
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),Rajgir,Other,FAQ,2008-11-03,2251.0,2251.0,2251.0,248
+Madhya Pradesh,Chhatarpur,Rajnagar,Rajgir,Other,FAQ,2008-09-04,3015.0,3015.0,3015.0,248
+Madhya Pradesh,Chhindwara,Chaurai,Rajgir,Other,FAQ,2008-01-01,2111.0,2111.0,2111.0,248
+Madhya Pradesh,Dewas,Loharda,Rajgir,Other,FAQ,2008-05-16,2100.0,2100.0,2100.0,248
+Madhya Pradesh,Dewas,Loharda,Rajgir,Other,FAQ,2008-07-16,2100.0,2100.0,2100.0,248
+Madhya Pradesh,Dindori,Gorakhpur,Rajgir,Other,FAQ,2008-05-05,2460.0,2630.0,2630.0,248
+Madhya Pradesh,Harda,Harda,Rajgir,Other,FAQ,2008-01-16,2403.0,2403.0,2403.0,248
+Madhya Pradesh,Harda,Harda,Rajgir,Other,FAQ,2008-02-13,2100.0,2100.0,2100.0,248
+Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2008-11-24,3000.0,3000.0,3000.0,248
+Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2008-12-12,2851.0,2851.0,2851.0,248
+Madhya Pradesh,Harda,Khirakiya,Rajgir,Other,FAQ,2008-12-15,2863.0,2863.0,2863.0,248
+Gujarat,Banaskanth,Vadgam,Rajgir,Other,FAQ,2016-08-03,3440.0,3440.0,3440.0,248
+Madhya Pradesh,Dhar,Manawar,Rajgir,Other,FAQ,2016-04-12,4000.0,4000.0,4000.0,248
+Maharashtra,Pune,Indapur(Bhigwan),Rajgir,Other,FAQ,2016-09-25,4000.0,4000.0,4000.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-01-15,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-01-21,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-01-24,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-04,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-05,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-09,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-02-29,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-03-06,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-03-13,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-03-30,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-06,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-07,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-18,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-20,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-04-29,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-10,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-12,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-23,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-24,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-05-31,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-01,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-02,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-07,3.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-10,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-14,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-06-19,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-01,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-05,5.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-17,3.0,5.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-27,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-07-28,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-02,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-08,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-09,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-22,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-08-26,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-07,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-14,300.0,500.0,400.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-15,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-18,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-28,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-09-30,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-07,4.0,6.0,5.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-17,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-25,2.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-26,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-28,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-10-30,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-03,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-04,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-06,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-09,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-24,4.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-28,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-11-29,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-02,3.0,5.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-15,3.0,5.0,4.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-18,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-21,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-22,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-23,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-28,3.0,4.0,3.0,248
+Maharashtra,Pune,Pune,Rajgir,Other,FAQ,2016-12-29,3.0,4.0,3.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-04-22,400.0,600.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-10,500.0,500.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-20,400.0,600.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-23,300.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-05-24,700.0,700.0,700.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-06-01,800.0,800.0,800.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-06-25,300.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-06-29,300.0,600.0,450.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-07-01,200.0,400.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-03,500.0,500.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-04,150.0,300.0,200.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-10,300.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-19,300.0,350.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-08-31,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-09-01,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-09-17,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-09-29,350.0,350.0,350.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-01,400.0,500.0,500.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-04,300.0,500.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-06,200.0,700.0,400.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-14,200.0,600.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-15,200.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-10-21,300.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-05,100.0,275.0,200.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-09,100.0,200.0,100.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-12,300.0,300.0,300.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-14,200.0,300.0,250.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-11-30,200.0,200.0,200.0,248
+Maharashtra,Sholapur,Solapur,Rajgir,Other,FAQ,2016-12-02,200.0,200.0,200.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-21 00:00:00,1550,1690,1690.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-11-28 00:00:00,1550,1690,1690.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-12-01 00:00:00,1550,1690,1600.0,248
+Gujarat,Anand,Khambhat,Rajgir,Other,FAQ,2007-12-04 00:00:00,1550,1690,1600.0,248
+Madhya Pradesh,Betul,Betul,Rajgir,Other,FAQ,2007-12-27 00:00:00,2300,2300,2300.0,248
+Madhya Pradesh,Betul,Multai,Rajgir,Other,FAQ,2007-12-22 00:00:00,1885,1885,1885.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-12-13 00:00:00,2255,2255,2255.0,248
+Madhya Pradesh,Bhopal,Berasia,Rajgir,Other,FAQ,2007-12-27 00:00:00,2300,2300,2300.0,248
+Madhya Pradesh,Guna,Maksudangarh,Rajgir,Other,FAQ,2007-12-14 00:00:00,1700,1700,1700.0,248
+Madhya Pradesh,Harda,Timarni,Rajgir,Other,FAQ,2007-12-28 00:00:00,2510,2510,2510.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-20 00:00:00,2450,2450,2450.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-22 00:00:00,1885,1885,1885.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-28 00:00:00,2510,2510,2510.0,248
+Madhya Pradesh,Hoshangabad,Banapura,Rajgir,Other,FAQ,2007-12-29 00:00:00,2460,2460,2460.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-12-13 00:00:00,2255,2255,2255.0,248
+Madhya Pradesh,Hoshangabad,Bankhedi,Rajgir,Other,FAQ,2007-12-29 00:00:00,2460,2460,2460.0,248
+Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-12-27 00:00:00,2300,2300,2300.0,248
+Madhya Pradesh,Hoshangabad,Itarsi,Rajgir,Other,FAQ,2007-12-29 00:00:00,2460,2460,2460.0,248
+Madhya Pradesh,Hoshangabad,Pipariya,Rajgir,Other,FAQ,2007-12-29 00:00:00,2460,2460,2460.0,248

@@ -59810,18 +59810,435 @@ Rajasthan,Alwar,Alwar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-09-07 00:00:00,75
 Rajasthan,Alwar,Alwar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-09-18 00:00:00,725.0,770.0,750.0,28
 Rajasthan,Alwar,Alwar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-09-19 00:00:00,750.0,831.0,800.0,28
 Rajasthan,Alwar,Alwar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-09-25 00:00:00,745.0,800.0,775.0,28
-Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-24 00:00:00,840,874,855.0,28
-Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-25 00:00:00,865,876,866.0,28
-Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-30 00:00:00,845,862,848.0,28
-Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-31 00:00:00,836,887,880.0,28
-Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-28 00:00:00,845,860,855.0,28
-Madhya Pradesh,Morena,Porsa,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-20 00:00:00,835,840,837.0,28
-Madhya Pradesh,Morena,Sabalgarh,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-21 00:00:00,835,842,839.0,28
-Madhya Pradesh,Morena,Sabalgarh,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-25 00:00:00,829,830,830.0,28
-Madhya Pradesh,Morena,Sabalgarh,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2009-12-26 00:00:00,826,860,840.0,28
-Maharashtra,Ahmednagar,Shevgaon,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-12-20 00:00:00,851,1041,941.0,28
-Maharashtra,Ahmednagar,Shevgaon,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-12-21 00:00:00,925,1025,1000.0,28
-Maharashtra,Ahmednagar,Shevgaon,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-12-27 00:00:00,851,1000,950.0,28
-Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-12-21 00:00:00,921,975,945.0,28
-Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-12-30 00:00:00,900,975,950.0,28
-Maharashtra,Ahmednagar,Shrirampur,Bajra(Pearl Millet/Cumbu),Other,FAQ,2009-12-21 00:00:00,865,1131,975.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-08-19 00:00:00,900,900,900.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-09-16 00:00:00,830,880,880.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-18 00:00:00,800,800,800.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-19 00:00:00,800,800,800.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-08 00:00:00,800,800,800.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-11-14 00:00:00,760,860,830.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-11-25 00:00:00,840,840,840.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-12-04 00:00:00,880,950,950.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-05 00:00:00,750,880,860.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-12-06 00:00:00,800,880,830.0,28
+Karnataka,Bellary,H.B. Halli,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-12 00:00:00,875,875,875.0,28
+Karnataka,Bellary,Hoovinahadagali,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-09-23 00:00:00,780,800,790.0,28
+Karnataka,Bellary,Hoovinahadagali,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-11 00:00:00,800,830,810.0,28
+Karnataka,Bellary,Hoovinahadagali,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-15 00:00:00,780,900,800.0,28
+Karnataka,Bellary,Hoovinahadagali,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-03 00:00:00,760,760,760.0,28
+Karnataka,Bellary,Hoovinahadagali,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-11 00:00:00,820,820,820.0,28
+Karnataka,Bellary,Hoovinahadagali,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-29 00:00:00,880,880,880.0,28
+Karnataka,Bellary,Hoovinahadagali,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-12-13 00:00:00,880,880,880.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-01-19 00:00:00,791,791,791.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-02-19 00:00:00,783,783,783.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-03-02 00:00:00,761,761,761.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-03-22 00:00:00,779,779,779.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-05-04 00:00:00,825,825,825.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-05-25 00:00:00,846,846,846.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-05-28 00:00:00,832,848,848.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-09-23 00:00:00,821,890,886.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-09-28 00:00:00,820,876,846.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-06 00:00:00,806,836,818.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-09 00:00:00,766,817,801.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-14 00:00:00,760,809,781.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-19 00:00:00,740,766,751.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-20 00:00:00,740,773,764.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-10-29 00:00:00,748,783,771.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-11-10 00:00:00,791,821,811.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-11-15 00:00:00,826,846,835.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-01 00:00:00,900,916,906.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-02 00:00:00,871,912,905.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-12-04 00:00:00,860,909,890.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-09 00:00:00,865,891,875.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-12-15 00:00:00,790,860,805.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-16 00:00:00,815,815,815.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-29 00:00:00,800,865,831.0,28
+Karnataka,Bellary,Kottur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-12-30 00:00:00,766,851,825.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-07 00:00:00,730,902,750.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-09 00:00:00,730,915,850.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-11 00:00:00,730,1070,900.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-13 00:00:00,730,850,750.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-19 00:00:00,755,871,800.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-21 00:00:00,770,965,870.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-22 00:00:00,760,831,770.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-02-10 00:00:00,740,800,760.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-12 00:00:00,750,800,780.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-03 00:00:00,825,875,850.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-07 00:00:00,800,850,825.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-09 00:00:00,825,831,825.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-08 00:00:00,880,900,890.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-14 00:00:00,860,940,880.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-19 00:00:00,900,980,940.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-08-28 00:00:00,800,850,840.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-09-24 00:00:00,850,950,900.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-10-15 00:00:00,700,801,750.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-10-30 00:00:00,750,900,800.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-11-18 00:00:00,850,1050,950.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-10 00:00:00,780,1102,900.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-18 00:00:00,870,1000,900.0,28
+Karnataka,Bidar,Basava Kalayana,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-27 00:00:00,850,1000,900.0,28
+Karnataka,Bidar,Humanabad,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-01-06 00:00:00,700,725,700.0,28
+Karnataka,Bidar,Humanabad,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-11-16 00:00:00,700,801,750.0,28
+Karnataka,Bidar,Humanabad,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-11-26 00:00:00,800,800,800.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-11 00:00:00,720,740,730.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-28 00:00:00,733,820,820.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-29 00:00:00,725,820,800.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-08 00:00:00,741,771,770.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-09 00:00:00,738,760,750.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-22 00:00:00,725,751,750.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-07 00:00:00,735,760,750.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-21 00:00:00,730,760,750.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-03 00:00:00,725,750,735.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-14 00:00:00,800,950,850.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-30 00:00:00,800,900,850.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-25 00:00:00,800,850,825.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-09-04 00:00:00,800,850,830.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-09-25 00:00:00,800,850,825.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-09-30 00:00:00,810,850,830.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-05 00:00:00,800,850,825.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-06 00:00:00,775,825,800.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-11 00:00:00,750,800,775.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-21 00:00:00,800,820,810.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-23 00:00:00,788,834,800.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-30 00:00:00,811,841,835.0,28
+Karnataka,Bijapur,Bijapur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-12-06 00:00:00,801,935,852.0,28
+Karnataka,Bijapur,Sindagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-08 00:00:00,600,600,600.0,28
+Karnataka,Bijapur,Sindagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-09 00:00:00,800,800,800.0,28
+Karnataka,Bijapur,Sindagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-11 00:00:00,750,850,800.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-01-11 00:00:00,701,701,701.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-01-12 00:00:00,701,701,701.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-02-05 00:00:00,600,735,650.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-09-25 00:00:00,600,711,650.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-10-08 00:00:00,680,810,700.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-10-12 00:00:00,600,739,650.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-10-29 00:00:00,500,6800,600.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-03 00:00:00,700,860,750.0,28
+Karnataka,Bijapur,Talikot,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-09 00:00:00,700,929,820.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-05 00:00:00,728,742,730.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-19 00:00:00,730,745,735.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-20 00:00:00,740,760,750.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-18 00:00:00,720,726,725.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-20 00:00:00,650,660,655.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-21 00:00:00,701,701,701.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-26 00:00:00,802,802,802.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-06 00:00:00,862,862,862.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-28 00:00:00,821,821,821.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-09-23 00:00:00,766,828,810.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-09-29 00:00:00,780,822,800.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-20 00:00:00,686,736,725.0,28
+Karnataka,Gadag,Rona,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-12-24 00:00:00,788,832,825.0,28
+Karnataka,Kalburgi,Chittapur,Bajra(Pearl Millet/Cumbu),Jawari,FAQ,2010-10-25 00:00:00,775,775,775.0,28
+Karnataka,Kalburgi,Chittapur,Bajra(Pearl Millet/Cumbu),Jawari,FAQ,2010-12-22 00:00:00,850,876,850.0,28
+Karnataka,Kalburgi,Chittapur,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-10-27 00:00:00,800,800,800.0,28
+Karnataka,Kalburgi,Chittapur,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-27 00:00:00,950,956,950.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-07 00:00:00,720,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-08 00:00:00,710,950,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-13 00:00:00,710,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-18 00:00:00,700,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-20 00:00:00,725,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-21 00:00:00,720,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-25 00:00:00,720,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-02-03 00:00:00,710,875,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-02-08 00:00:00,725,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-02-16 00:00:00,725,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-03 00:00:00,710,900,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-04 00:00:00,725,1000,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-08 00:00:00,750,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-13 00:00:00,725,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-17 00:00:00,725,850,775.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-18 00:00:00,725,850,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-27 00:00:00,725,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-04-07 00:00:00,725,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-04-09 00:00:00,730,900,751.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-04-13 00:00:00,720,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-04-21 00:00:00,750,900,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-04-30 00:00:00,725,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-04 00:00:00,750,900,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-17 00:00:00,750,1050,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-18 00:00:00,750,1060,840.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-20 00:00:00,800,1000,900.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-24 00:00:00,750,1000,900.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-26 00:00:00,775,1000,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-28 00:00:00,750,900,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-17 00:00:00,860,1000,951.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-23 00:00:00,850,1000,950.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-24 00:00:00,865,1000,900.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-01 00:00:00,800,1000,950.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-06 00:00:00,850,950,940.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-09 00:00:00,890,980,900.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-17 00:00:00,800,930,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-07-20 00:00:00,850,980,890.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-08-05 00:00:00,850,925,900.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-08-07 00:00:00,880,925,900.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-08-20 00:00:00,860,910,900.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-09-21 00:00:00,750,875,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-10-06 00:00:00,760,900,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-10-12 00:00:00,730,860,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-10-30 00:00:00,750,850,800.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-06 00:00:00,810,950,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-15 00:00:00,800,950,850.0,28
+Karnataka,Kalburgi,Kalburgi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-18 00:00:00,800,950,850.0,28
+Karnataka,Koppal,Gangavathi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-05-22 00:00:00,650,650,650.0,28
+Karnataka,Koppal,Gangavathi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-09 00:00:00,790,805,790.0,28
+Karnataka,Koppal,Gangavathi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-15 00:00:00,820,840,820.0,28
+Karnataka,Koppal,Gangavathi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-10-08 00:00:00,750,790,750.0,28
+Karnataka,Koppal,Gangavathi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-12-10 00:00:00,815,825,820.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-04 00:00:00,740,775,750.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-25 00:00:00,758,765,760.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-03 00:00:00,742,771,750.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,Local,2010-03-18 00:00:00,739,753,743.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-01 00:00:00,756,773,762.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-08 00:00:00,766,780,772.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-12 00:00:00,765,785,770.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-31 00:00:00,826,858,846.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-10 00:00:00,901,922,910.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-14 00:00:00,891,941,910.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-24 00:00:00,901,906,903.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-25 00:00:00,901,906,903.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-12 00:00:00,927,933,933.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-15 00:00:00,927,946,934.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-02 00:00:00,760,791,779.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-03 00:00:00,760,791,779.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-15 00:00:00,702,801,777.0,28
+Karnataka,Koppal,Koppal,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-29 00:00:00,823,860,847.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-21 00:00:00,746,746,746.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-12 00:00:00,771,771,771.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-13 00:00:00,771,771,771.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-17 00:00:00,771,771,771.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-20 00:00:00,775,775,775.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-21 00:00:00,775,775,775.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-22 00:00:00,775,775,775.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-02 00:00:00,776,776,776.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-04 00:00:00,776,776,776.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-11 00:00:00,780,780,780.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-12 00:00:00,780,780,780.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-31 00:00:00,850,850,850.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-01 00:00:00,850,850,850.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-09 00:00:00,888,888,888.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-15 00:00:00,930,930,930.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-01 00:00:00,911,911,911.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-03 00:00:00,911,911,911.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-07 00:00:00,920,920,920.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-08 00:00:00,920,920,920.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-14 00:00:00,921,921,921.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-07-26 00:00:00,945,945,945.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-07 00:00:00,955,955,955.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-23 00:00:00,891,891,891.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-24 00:00:00,891,891,891.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-31 00:00:00,888,888,888.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-23 00:00:00,765,765,765.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-28 00:00:00,761,761,761.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-08 00:00:00,782,782,782.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-02-28 00:00:00,735,735,735.0,28
+Karnataka,Koppal,Kustagi,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-03-07 00:00:00,721,721,721.0,28
+Karnataka,Koppal,Yalburga,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-09 00:00:00,600,600,600.0,28
+Karnataka,Koppal,Yalburga,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-11 00:00:00,600,600,600.0,28
+Karnataka,Koppal,Yalburga,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-09-28 00:00:00,750,750,750.0,28
+Karnataka,Koppal,Yalburga,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-10-21 00:00:00,700,700,700.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-06 00:00:00,760,780,766.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-08 00:00:00,700,775,770.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-13 00:00:00,768,780,774.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-18 00:00:00,788,788,788.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-20 00:00:00,770,790,770.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-01-27 00:00:00,700,895,773.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-20 00:00:00,764,783,764.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-24 00:00:00,764,764,764.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-02-26 00:00:00,764,783,764.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-03 00:00:00,779,893,779.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-10 00:00:00,750,755,750.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-11 00:00:00,750,760,750.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-15 00:00:00,750,750,750.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-18 00:00:00,750,750,750.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-19 00:00:00,760,770,760.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-03-30 00:00:00,740,807,776.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-04-27 00:00:00,800,810,808.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-05 00:00:00,817,817,817.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-13 00:00:00,800,897,815.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-05-17 00:00:00,831,831,831.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-04 00:00:00,850,850,850.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-09 00:00:00,850,900,850.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-11 00:00:00,905,931,920.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-14 00:00:00,945,960,955.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-06-16 00:00:00,916,916,916.0,28
+Karnataka,Raichur,Lingasugur,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-08-17 00:00:00,926,973,926.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-01-02 00:00:00,553,553,553.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-01-04 00:00:00,655,677,677.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-01-23 00:00:00,681,681,681.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Large,2010-01-25 00:00:00,736,736,736.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-01-28 00:00:00,652,673,655.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-02-10 00:00:00,575,575,575.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-02-15 00:00:00,655,655,655.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-02-17 00:00:00,625,627,625.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-02-18 00:00:00,691,795,795.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-03-10 00:00:00,575,575,575.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-03-11 00:00:00,555,555,555.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-03-25 00:00:00,659,712,712.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-04-22 00:00:00,736,746,746.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-05-17 00:00:00,649,649,649.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-06-23 00:00:00,947,947,947.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-07-16 00:00:00,862,862,862.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-10-14 00:00:00,734,791,749.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-10-20 00:00:00,742,742,742.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-11-08 00:00:00,689,689,689.0,28
+Karnataka,Raichur,Raichur,Bajra(Pearl Millet/Cumbu),Local,Small,2010-12-03 00:00:00,771,870,870.0,28
+Karnataka,Raichur,Sindhanur,Bajra(Pearl Millet/Cumbu),Hybrid,Medium,2010-05-04 00:00:00,900,900,900.0,28
+Karnataka,Tumkur,Pavagada,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-08 00:00:00,500,700,600.0,28
+Karnataka,Tumkur,Sira,Bajra(Pearl Millet/Cumbu),Local,FAQ,2010-01-27 00:00:00,900,1100,1000.0,28
+Madhya Pradesh,Bhind,Alampur,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-30 00:00:00,690,710,700.0,28
+Madhya Pradesh,Bhind,Alampur,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-11 00:00:00,620,680,640.0,28
+Madhya Pradesh,Bhind,Alampur,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-16 00:00:00,700,750,720.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-01-02 00:00:00,816,820,818.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-01-14 00:00:00,835,840,840.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-01-16 00:00:00,825,842,830.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-01-27 00:00:00,814,820,815.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-01-30 00:00:00,808,831,820.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-02-13 00:00:00,830,850,840.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-02-18 00:00:00,815,830,820.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-02-25 00:00:00,804,816,808.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-04-21 00:00:00,806,817,816.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-04-22 00:00:00,800,805,802.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-10-31 00:00:00,650,735,668.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-04 00:00:00,706,767,757.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-10 00:00:00,701,742,722.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-24 00:00:00,662,731,690.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-30 00:00:00,640,760,700.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-03 00:00:00,685,763,700.0,28
+Madhya Pradesh,Bhind,Bhind,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-25 00:00:00,694,842,735.0,28
+Madhya Pradesh,Bhind,Gohad,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-15 00:00:00,700,745,705.0,28
+Madhya Pradesh,Bhind,Lahar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-19 00:00:00,666,666,666.0,28
+Madhya Pradesh,Bhind,Lahar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-23 00:00:00,660,665,660.0,28
+Madhya Pradesh,Bhind,Lahar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-03 00:00:00,650,740,680.0,28
+Madhya Pradesh,Bhind,Lahar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-15 00:00:00,641,700,670.0,28
+Madhya Pradesh,Bhind,Lahar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-19 00:00:00,675,690,680.0,28
+Madhya Pradesh,Bhind,Lahar,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-22 00:00:00,675,690,680.0,28
+Madhya Pradesh,Bhind,Mow,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-25 00:00:00,690,706,705.0,28
+Madhya Pradesh,Bhind,Mow,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-29 00:00:00,690,705,690.0,28
+Madhya Pradesh,Bhind,Mow,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-03 00:00:00,720,720,720.0,28
+Madhya Pradesh,Datia,Bhander,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-09-29 00:00:00,123,456,456.0,28
+Madhya Pradesh,Datia,Sevda,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-02-22 00:00:00,1100,1200,1150.0,28
+Madhya Pradesh,Datia,Sevda,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-21 00:00:00,750,800,775.0,28
+Madhya Pradesh,Gwalior,Dabra,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-10-29 00:00:00,726,765,750.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-02 00:00:00,880,890,880.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-04 00:00:00,880,890,885.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-22 00:00:00,880,950,880.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-28 00:00:00,910,910,910.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-01 00:00:00,890,890,890.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-04 00:00:00,890,890,890.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-17 00:00:00,850,900,875.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-30 00:00:00,820,830,825.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-27 00:00:00,801,841,801.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-04 00:00:00,700,750,725.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-15 00:00:00,725,774,750.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-16 00:00:00,710,770,750.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-17 00:00:00,730,730,730.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-30 00:00:00,720,760,745.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-11-01 00:00:00,703,764,740.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-11-11 00:00:00,711,830,768.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-11-25 00:00:00,730,740,730.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-01 00:00:00,726,763,750.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-04 00:00:00,750,762,750.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-25 00:00:00,700,733,732.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-26 00:00:00,727,746,731.0,28
+Madhya Pradesh,Gwalior,Lashkar,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-29 00:00:00,710,725,722.0,28
+Madhya Pradesh,Khandwa,Harsood,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-10-19 00:00:00,1800,1930,1900.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-10 00:00:00,710,717,715.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-16 00:00:00,710,720,715.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,2010-11-22 00:00:00,708,715,710.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-10-31 00:00:00,710,730,715.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-11-02 00:00:00,710,725,720.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-02 00:00:00,710,720,715.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-04 00:00:00,715,725,720.0,28
+Madhya Pradesh,Morena,Ambaha,Bajra(Pearl Millet/Cumbu),Other,FAQ,2010-12-06 00:00:00,715,725,720.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-07 00:00:00,860,865,860.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-08 00:00:00,860,860,860.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-13 00:00:00,850,850,850.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-26 00:00:00,855,855,855.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-08 00:00:00,860,880,860.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-22 00:00:00,842,842,842.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-26 00:00:00,845,850,847.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-19 00:00:00,818,818,818.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-30 00:00:00,800,810,800.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-10 00:00:00,800,800,800.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-15 00:00:00,801,801,801.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-30 00:00:00,800,800,800.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-04 00:00:00,850,850,850.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-27 00:00:00,860,870,860.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-06 00:00:00,700,710,700.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-07 00:00:00,705,705,705.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-14 00:00:00,725,735,730.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-23 00:00:00,725,730,725.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-27 00:00:00,700,706,700.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-11-03 00:00:00,725,725,725.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-11-12 00:00:00,730,730,730.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-11-18 00:00:00,710,720,715.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-06 00:00:00,710,730,725.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-22 00:00:00,725,725,725.0,28
+Madhya Pradesh,Morena,Jora,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-12-30 00:00:00,720,725,720.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-06 00:00:00,840,890,880.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-11 00:00:00,855,895,886.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-12 00:00:00,850,890,876.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-06 00:00:00,850,866,855.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-09 00:00:00,850,930,860.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-03 00:00:00,850,866,860.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-04 00:00:00,850,873,860.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-06 00:00:00,870,890,885.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-08 00:00:00,900,906,902.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-16 00:00:00,900,915,910.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-22 00:00:00,820,895,850.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-24 00:00:00,886,886,886.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-05 00:00:00,716,732,730.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-12 00:00:00,718,730,723.0,28
+Madhya Pradesh,Morena,Kailaras,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-14 00:00:00,711,736,720.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-01 00:00:00,850,863,855.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-04 00:00:00,850,861,855.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-08 00:00:00,860,890,875.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-13 00:00:00,860,877,875.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-01-15 00:00:00,850,885,885.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-02 00:00:00,850,867,867.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-11 00:00:00,865,888,888.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-17 00:00:00,880,880,880.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-18 00:00:00,868,875,871.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-25 00:00:00,843,850,844.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-26 00:00:00,840,850,844.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-02-27 00:00:00,846,846,846.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-04 00:00:00,850,856,856.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-05 00:00:00,854,854,854.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-10 00:00:00,843,847,845.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-17 00:00:00,840,842,840.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-18 00:00:00,840,846,841.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-23 00:00:00,840,842,841.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-24 00:00:00,840,840,840.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-03-25 00:00:00,840,841,840.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-02 00:00:00,837,839,839.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-07 00:00:00,801,822,815.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-21 00:00:00,806,825,825.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-23 00:00:00,820,836,824.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-24 00:00:00,800,833,829.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-04-30 00:00:00,820,832,825.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-01 00:00:00,816,830,821.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-03 00:00:00,810,817,810.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-05 00:00:00,824,824,824.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-10 00:00:00,816,817,817.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-11 00:00:00,812,825,825.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-12 00:00:00,800,815,815.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-19 00:00:00,803,831,803.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-21 00:00:00,810,810,810.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-24 00:00:00,800,803,803.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-05-29 00:00:00,811,813,813.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-06-05 00:00:00,809,845,845.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-06-17 00:00:00,838,843,843.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-06-22 00:00:00,823,823,823.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-07-07 00:00:00,854,854,854.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-07-13 00:00:00,890,895,895.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-07-15 00:00:00,898,898,898.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-07-17 00:00:00,898,900,900.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-08-23 00:00:00,835,835,835.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-02 00:00:00,909,909,909.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-06 00:00:00,895,924,924.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-18 00:00:00,891,925,900.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-22 00:00:00,920,920,920.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-09-27 00:00:00,731,946,770.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-02 00:00:00,738,759,753.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-05 00:00:00,680,726,700.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-06 00:00:00,677,763,720.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-07 00:00:00,695,741,720.0,28
+Madhya Pradesh,Morena,Morena,Bajra(Pearl Millet/Cumbu),Deshi,FAQ,2010-10-11 00:00:00,645,780,710.0,28
