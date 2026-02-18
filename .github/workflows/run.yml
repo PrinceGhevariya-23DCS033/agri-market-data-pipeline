@@ -2,8 +2,8 @@ name: Agri Market Data Pipeline (Every 3 Hours)
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: "0 */3 * * *"
+  schedule:
+    - cron: "0 */3 * * *"
 
 jobs:
   run-pipeline:
