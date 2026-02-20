@@ -196,3 +196,193 @@ Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-12-02 00:00:00,1400,2000,1700.
 Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-12-10 00:00:00,1700,2000,1800.0,17
 Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-12-12 00:00:00,1700,2000,1800.0,17
 Haryana,Bhiwani,Siwani,Apple,Simla,Medium,2007-12-20 00:00:00,1500,2000,1750.0,17
+Jharkhand,Dhanbad,Dhanbad,Apple,Other,Large,2007-11-22 00:00:00,2000,2400,2400.0,17
+Jharkhand,Dhanbad,Dhanbad,Apple,Other,Large,2007-11-24 00:00:00,2000,2400,2400.0,17
+Jharkhand,Dhanbad,Dhanbad,Apple,Other,Large,2007-11-27 00:00:00,2000,2400,2400.0,17
+Jharkhand,Dhanbad,Dhanbad,Apple,Other,Large,2007-11-30 00:00:00,2000,2400,2400.0,17
+Jharkhand,Dhanbad,Dhanbad,Apple,Other,Large,2007-12-31 00:00:00,1800,2400,2400.0,17
+Jharkhand,Garhwa,Gadhwah,Apple,Other,Medium,2007-11-22 00:00:00,2000,3000,2500.0,17
+Jharkhand,Garhwa,Gadhwah,Apple,Other,Medium,2007-11-24 00:00:00,3000,4000,3500.0,17
+Jharkhand,Garhwa,Gadhwah,Apple,Other,Medium,2007-11-25 00:00:00,3000,4000,3500.0,17
+Jharkhand,Garhwa,Gadhwah,Apple,Other,Medium,2007-11-30 00:00:00,3000,4000,3500.0,17
+Jharkhand,Koderma,Koderma,Apple,Other,Medium,2007-11-22 00:00:00,2600,3000,2800.0,17
+Jharkhand,Koderma,Koderma,Apple,Other,Medium,2007-11-27 00:00:00,2300,2700,2500.0,17
+Jharkhand,Koderma,Koderma,Apple,Other,Medium,2007-12-12 00:00:00,2800,3200,3000.0,17
+Jharkhand,Koderma,Koderma,Apple,Other,Medium,2007-12-28 00:00:00,2800,3200,3000.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-11-17 00:00:00,3600,4000,3800.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-11-21 00:00:00,3000,3600,3300.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-12-01 00:00:00,3000,4000,3500.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-12-03 00:00:00,2900,3900,3400.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-12-06 00:00:00,3200,4000,3600.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-12-07 00:00:00,3200,3600,3400.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Medium,2007-12-12 00:00:00,2800,3200,3000.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-12-14 00:00:00,3400,3800,3600.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-12-17 00:00:00,3600,4000,3800.0,17
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,2007-12-19 00:00:00,2800,3200,3000.0,17
+Karnataka,Shimoga,Shimoga,Apple,Apple,FAQ,2007-12-10 00:00:00,1200,1500,1300.0,17
+Haryana,Yamuna Nagar,Yamuna Nagar,Apple,Other,Medium,2007-11-22 00:00:00,1000,1800,1400.0,17
+Haryana,Yamuna Nagar,Yamuna Nagar,Apple,Other,Medium,2007-12-05 00:00:00,800,1600,1200.0,17
+Haryana,Yamuna Nagar,Yamuna Nagar,Apple,Other,Medium,2007-12-23 00:00:00,800,1600,1200.0,17
+Haryana,Yamuna Nagar,Yamuna Nagar,Apple,Other,Medium,2007-12-24 00:00:00,1000,1800,1400.0,17
+Haryana,Yamuna Nagar,Yamuna Nagar,Apple,Other,Medium,2007-12-26 00:00:00,1000,1600,1300.0,17
+Haryana,Yamuna Nagar,Yamuna Nagar,Apple,Other,Medium,2007-12-28 00:00:00,1000,1800,1400.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-11-23 00:00:00,1700,2700,2300.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-11-26 00:00:00,1800,2600,2400.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-11-27 00:00:00,1800,2500,2200.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-11-28 00:00:00,1800,2700,2400.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-11-30 00:00:00,1800,2500,2200.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-12-03 00:00:00,1850,2500,2200.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-12-20 00:00:00,2200,2900,2400.0,17
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,2007-12-29 00:00:00,2000,2800,2400.0,17
+Himachal Pradesh,Hamirpur,Hamirpur,Apple,Other,Large,2007-11-26 00:00:00,900,2000,2000.0,17
+Himachal Pradesh,Kangra,Kangra,Apple,Apple,Medium,2007-11-28 00:00:00,2000,2800,2400.0,17
+Himachal Pradesh,Kangra,Kangra,Apple,Apple,Medium,2007-12-13 00:00:00,1500,2000,1800.0,17
+Himachal Pradesh,Kangra,Kangra,Apple,Apple,Medium,2007-12-14 00:00:00,1500,2000,1750.0,17
+Himachal Pradesh,Kangra,Kangra(Baijnath),Apple,Apple,Medium,2007-12-03 00:00:00,1800,2000,1900.0,17
+Himachal Pradesh,Kangra,Kangra(Baijnath),Apple,Apple,Medium,2007-12-11 00:00:00,2000,2500,2250.0,17
+Himachal Pradesh,Kangra,Kangra(Baijnath),Apple,Apple,Medium,2007-12-12 00:00:00,2200,2500,2350.0,17
+Himachal Pradesh,Kangra,Kangra(Baijnath),Apple,Apple,Medium,2007-12-14 00:00:00,2200,2500,2250.0,17
+Himachal Pradesh,Kangra,Kangra(Baijnath),Apple,Apple,Medium,2007-12-20 00:00:00,2400,2500,2450.0,17
+Himachal Pradesh,Kangra,Kangra(Baijnath),Apple,Apple,Medium,2007-12-31 00:00:00,1200,2400,1800.0,17
+Himachal Pradesh,Kangra,Kangra(Jassour),Apple,Other,Medium,2007-11-16 00:00:00,1500,2000,1750.0,17
+Himachal Pradesh,Kangra,Kangra(Jassour),Apple,Other,Medium,2007-11-17 00:00:00,1500,2000,1750.0,17
+Himachal Pradesh,Kangra,Kangra(Jassour),Apple,Other,Medium,2007-11-20 00:00:00,1500,2500,2000.0,17
+Himachal Pradesh,Kangra,Kangra(Jassour),Apple,Other,Medium,2007-12-04 00:00:00,1500,2000,1750.0,17
+Himachal Pradesh,Kangra,Kangra(Jassour),Apple,Other,Medium,2007-12-20 00:00:00,1500,2000,1800.0,17
+Himachal Pradesh,Kangra,Kangra(Nagrota Bagwan),Apple,Other,Medium,2007-12-03 00:00:00,2000,3000,2050.0,17
+Himachal Pradesh,Kangra,Palampur,Apple,Other,Medium,2007-12-07 00:00:00,2000,2800,2400.0,17
+Himachal Pradesh,Kangra,Palampur,Apple,Other,Medium,2007-12-10 00:00:00,2800,3000,2900.0,17
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Apple,Apple,Medium,2007-11-22 00:00:00,1900,3500,2000.0,17
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Apple,Apple,Medium,2007-11-26 00:00:00,1500,3200,2300.0,17
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Apple,Apple,Medium,2007-11-30 00:00:00,1000,3200,2000.0,17
+Himachal Pradesh,Mandi,Dhanotu (Mandi),Apple,Apple,Medium,2007-12-04 00:00:00,2000,3000,2000.0,17
+Himachal Pradesh,Mandi,Mandi(Mandi),Apple,Apple,Medium,2007-12-01 00:00:00,1800,2200,2200.0,17
+Himachal Pradesh,Mandi,Mandi(Mandi),Apple,Apple,Medium,2007-12-03 00:00:00,1600,2000,2000.0,17
+Himachal Pradesh,Mandi,Mandi(Mandi),Apple,Apple,Medium,2007-12-06 00:00:00,600,1500,1500.0,17
+Himachal Pradesh,Sirmore,Nahan,Apple,Other,Medium,2007-11-20 00:00:00,1800,1900,1900.0,17
+Himachal Pradesh,Sirmore,Nahan,Apple,Other,Medium,2007-11-23 00:00:00,2000,2000,2000.0,17
+Himachal Pradesh,Sirmore,Nahan,Apple,Other,Medium,2007-12-11 00:00:00,1300,1300,1300.0,17
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Other,Medium,2007-11-17 00:00:00,1500,2000,1800.0,17
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Other,Medium,2007-12-06 00:00:00,1000,2000,1500.0,17
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Other,Medium,2007-12-13 00:00:00,1500,2000,2000.0,17
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Other,Medium,2007-12-15 00:00:00,1000,1800,1500.0,17
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Other,Medium,2007-12-24 00:00:00,1200,2000,1800.0,17
+Himachal Pradesh,Solan,Solan,Apple,Other,Medium,2007-12-26 00:00:00,2000,2500,2250.0,17
+Himachal Pradesh,Una,Una,Apple,Other,Medium,2007-11-19 00:00:00,1500,2925,2325.0,17
+Himachal Pradesh,Una,Una,Apple,Other,Medium,2007-11-20 00:00:00,1770,3000,2200.0,17
+Himachal Pradesh,Una,Una,Apple,Other,Medium,2007-11-21 00:00:00,1770,2925,2400.0,17
+Himachal Pradesh,Una,Una,Apple,Other,Medium,2007-11-30 00:00:00,1770,3080,2400.0,17
+Himachal Pradesh,Una,Una,Apple,Other,Medium,2007-12-01 00:00:00,1770,2695,2235.0,17
+Himachal Pradesh,Una,Una,Apple,Other,Medium,2007-12-05 00:00:00,1700,2700,2200.0,17
+Himachal Pradesh,Una,Una,Apple,Other,Medium,2007-12-06 00:00:00,1615,2600,2200.0,17
+Jammu and Kashmir,Jammu,Samba,Apple,Delicious,Medium,2007-11-29 00:00:00,1600,1800,1700.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Delicious,Small,2007-11-19 00:00:00,781,2188,1563.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Delicious,Small,2007-11-21 00:00:00,781,2250,1563.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Delicious,Small,2007-12-13 00:00:00,781,2188,1563.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Other,Small,2007-11-17 00:00:00,2000,2100,2050.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Other,Small,2007-11-23 00:00:00,1900,2000,1950.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Other,Small,2007-11-29 00:00:00,2000,2100,2050.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Other,Small,2007-12-01 00:00:00,2000,2100,2050.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Other,Small,2007-12-03 00:00:00,1800,1900,1850.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Rich Red,Small,2007-11-27 00:00:00,1667,6667,3889.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Rich Red,Small,2007-12-04 00:00:00,1667,6111,3778.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Rich Red,Small,2007-12-14 00:00:00,1667,5556,3611.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Rich Red,Small,2007-12-15 00:00:00,1667,5833,3611.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Rich Red,Small,2007-12-27 00:00:00,1389,5000,3333.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Royal Delicious,Small,2007-11-30 00:00:00,1667,6667,3889.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Royal Delicious,Small,2007-12-06 00:00:00,1667,6667,3611.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Royal Delicious,Small,2007-12-12 00:00:00,1667,6667,3333.0,17
+NCT of Delhi,Delhi,Azadpur,Apple,Royal Delicious,Small,2007-12-17 00:00:00,2222,6667,6250.0,17
+NCT of Delhi,Delhi,Shahdara,Apple,Apple,Small,2007-11-19 00:00:00,3500,5000,4500.0,17
+NCT of Delhi,Delhi,Shahdara,Apple,Apple,Small,2007-11-25 00:00:00,4000,5000,4500.0,17
+NCT of Delhi,Delhi,Shahdara,Apple,Apple,Small,2007-12-11 00:00:00,4000,5000,4500.0,17
+NCT of Delhi,Delhi,Shahdara,Apple,Apple,Small,2007-12-14 00:00:00,4000,4800,4500.0,17
+NCT of Delhi,Delhi,Shahdara,Apple,Apple,Small,2007-12-15 00:00:00,4000,5000,4500.0,17
+NCT of Delhi,Delhi,Shahdara,Apple,Apple,Small,2007-12-17 00:00:00,4000,5000,4500.0,17
+NCT of Delhi,Delhi,Shahdara,Apple,Apple,Small,2007-12-22 00:00:00,3000,4000,3500.0,17
+Odisha,Puri,Sakhigopal,Apple,Apple,Medium,2007-11-16 00:00:00,3500,4000,4000.0,17
+Odisha,Puri,Sakhigopal,Apple,Apple,Medium,2007-12-06 00:00:00,4000,5000,5000.0,17
+Haryana,Panipat,Panipat,Apple,Other,Small,2007-12-11 00:00:00,1000,2000,1500.0,17
+Haryana,Panipat,Panipat,Apple,Other,Small,2007-12-18 00:00:00,1000,2000,1500.0,17
+Haryana,Panipat,Panipat,Apple,Other,Small,2007-12-25 00:00:00,1000,2000,1500.0,17
+Haryana,Rohtak,Rohtak,Apple,Other,Medium,2007-11-20 00:00:00,1500,2200,1900.0,17
+Haryana,Rohtak,Rohtak,Apple,Other,Medium,2007-12-01 00:00:00,1500,2200,1800.0,17
+Haryana,Rohtak,Rohtak,Apple,Other,Small,2007-12-13 00:00:00,1200,2000,1600.0,17
+Haryana,Rohtak,Rohtak,Apple,Other,Small,2007-12-18 00:00:00,1500,2000,1600.0,17
+Haryana,Rohtak,Rohtak,Apple,Other,Small,2007-12-21 00:00:00,1500,2000,1800.0,17
+Haryana,Sirsa,Sirsa,Apple,Other,Medium,2007-11-24 00:00:00,1000,1800,1500.0,17
+Haryana,Sirsa,Sirsa,Apple,Other,Medium,2007-11-30 00:00:00,1200,1800,1500.0,17
+Haryana,Sirsa,Sirsa,Apple,Other,Medium,2007-12-14 00:00:00,1100,1800,1400.0,17
+Haryana,Sirsa,Sirsa,Apple,Other,Medium,2007-12-21 00:00:00,1000,2000,1500.0,17
+Haryana,Sirsa,Sirsa,Apple,Other,Medium,2007-12-31 00:00:00,1000,1800,1600.0,17
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,2007-11-21 00:00:00,1500,1500,1500.0,17
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,2007-11-25 00:00:00,800,1500,1000.0,17
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,2007-11-28 00:00:00,900,1500,1200.0,17
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,2007-12-15 00:00:00,1000,1700,1200.0,17
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,2007-12-20 00:00:00,1200,1800,1500.0,17
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,2007-12-25 00:00:00,800,1500,1300.0,17
+Haryana,Yamuna Nagar,Radaur,Apple,Other,Small,2007-11-25 00:00:00,1000,1500,1200.0,17
+Haryana,Yamuna Nagar,Radaur,Apple,Other,Small,2007-12-09 00:00:00,1000,1800,1500.0,17
+Haryana,Yamuna Nagar,Radaur,Apple,Other,Small,2007-12-10 00:00:00,1200,1600,1500.0,17
+Haryana,Yamuna Nagar,Radaur,Apple,Other,Small,2007-12-18 00:00:00,1000,1200,1100.0,17
+Andhra Pradesh,Anantapur,"P. Ramacharyulu Park,RBZ",Apple,Other,Medium,2007-12-28 00:00:00,1900,2200,2000.0,17
+Andhra Pradesh,Anantapur,"P. Ramacharyulu Park,RBZ",Apple,Other,Medium,2007-12-31 00:00:00,2000,2600,2400.0,17
+Assam,Kamrup,P.O. Uparhali Guwahati,Apple,Other,Medium,2007-12-01 00:00:00,4000,4500,4200.0,17
+Assam,Kamrup,P.O. Uparhali Guwahati,Apple,Other,Medium,2007-12-19 00:00:00,4000,5000,4500.0,17
+Assam,Kamrup,P.O. Uparhali Guwahati,Apple,Other,Medium,2007-12-27 00:00:00,4000,5000,4500.0,17
+Assam,Kamrup,P.O. Uparhali Guwahati,Apple,Other,Medium,2007-12-31 00:00:00,4000,5000,4800.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-01 00:00:00,3000,5000,4000.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-03 00:00:00,2000,4000,3000.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-06 00:00:00,2000,4000,3000.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-07 00:00:00,2000,4000,3000.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-08 00:00:00,2000,4000,3000.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-10 00:00:00,2000,4000,3000.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-12 00:00:00,2000,4000,3000.0,17
+Gujarat,Bharuch,Bharuch,Apple,Other,FAQ,2007-12-18 00:00:00,2000,3000,2500.0,17
+Gujarat,Vadodara(Baroda),Vadodara,Apple,Other,Medium,2007-11-21 00:00:00,1800,3500,2550.0,17
+Gujarat,Vadodara(Baroda),Vadodara,Apple,Other,Medium,2007-12-06 00:00:00,1800,3600,2550.0,17
+Gujarat,Vadodara(Baroda),Vadodara,Apple,Other,Medium,2007-12-11 00:00:00,1800,3500,2400.0,17
+Gujarat,Vadodara(Baroda),Vadodara,Apple,Other,Medium,2007-12-19 00:00:00,2000,3700,2600.0,17
+Gujarat,Vadodara(Baroda),Vadodara,Apple,Other,Medium,2007-12-30 00:00:00,1800,3600,2450.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-11-18 00:00:00,1200,2400,1800.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-11-20 00:00:00,1400,2200,1800.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-11-27 00:00:00,1200,2200,1800.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-12-05 00:00:00,1000,2000,1500.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-12-20 00:00:00,1500,2200,1850.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-12-25 00:00:00,1200,2200,1700.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-12-27 00:00:00,1800,2500,2450.0,17
+Haryana,Ambala,Ambala Cantt.,Apple,Other,Medium,2007-12-28 00:00:00,1000,2200,1600.0,17
+Haryana,Ambala,Ambala City,Apple,Other,Medium,2007-12-13 00:00:00,900,1400,1150.0,17
+Haryana,Ambala,Ambala City,Apple,Other,Medium,2007-12-20 00:00:00,1000,1400,1200.0,17
+Haryana,Ambala,Ambala City,Apple,Other,Medium,2007-12-27 00:00:00,1000,1400,1200.0,17
+Haryana,Ambala,Ambala City,Apple,Other,Medium,2007-12-31 00:00:00,1000,1400,1200.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-11-16 00:00:00,1231,1346,1300.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-12-02 00:00:00,1400,1779,1600.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-12-08 00:00:00,1740,1838,1800.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-12-09 00:00:00,1518,1628,1600.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-12-16 00:00:00,1033,1846,1700.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-12-17 00:00:00,1788,1788,1788.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-12-29 00:00:00,1385,1846,1700.0,17
+Haryana,Ambala,Barara,Apple,Other,Medium,2007-12-30 00:00:00,1336,2000,1750.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-11-17 00:00:00,1000,2000,1500.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-11-19 00:00:00,1000,2000,1200.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-11-24 00:00:00,1200,1700,1500.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-12-05 00:00:00,1200,1800,1500.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-12-10 00:00:00,1000,1000,1000.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-12-17 00:00:00,1500,1500,1500.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-12-19 00:00:00,1200,1200,1200.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-12-21 00:00:00,1000,1700,1400.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-12-24 00:00:00,1000,2000,1300.0,17
+Haryana,Ambala,Naraingarh,Apple,Apple,Medium,2007-12-29 00:00:00,1200,1200,1200.0,17
+Haryana,Bhiwani,Behal,Apple,Other,Medium,2007-11-23 00:00:00,1500,1500,1500.0,17
+Haryana,Bhiwani,Behal,Apple,Other,Medium,2007-11-24 00:00:00,1500,1500,1500.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-11-16 00:00:00,1300,2000,1700.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-11-26 00:00:00,1400,2000,1800.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-11-27 00:00:00,1400,2000,1800.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-11-28 00:00:00,1400,2000,1700.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-11-29 00:00:00,1400,2000,1700.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-11-30 00:00:00,1400,2000,1700.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-12-02 00:00:00,1400,2000,1700.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-12-10 00:00:00,1700,2000,1800.0,17
+Haryana,Bhiwani,Ch. Dadri,Apple,Apple,Medium,2007-12-12 00:00:00,1700,2000,1800.0,17
+Haryana,Bhiwani,Siwani,Apple,Simla,Medium,2007-12-20 00:00:00,1500,2000,1750.0,17
