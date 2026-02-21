@@ -16288,37 +16288,115 @@ Maharashtra,Sangli,Sangli,Dry Grapes,Other,FAQ,2009-12-10 00:00:00,4000.0,11500,
 Maharashtra,Sangli,Sangli,Dry Grapes,Other,FAQ,2009-12-18 00:00:00,4000.0,10600,7300.0,278
 Maharashtra,Sangli,Sangli,Dry Grapes,Other,FAQ,2009-12-19 00:00:00,4000.0,11000,7400.0,278
 Maharashtra,Sangli,Sangli,Dry Grapes,Other,FAQ,2009-12-24 00:00:00,4000.0,11200,7500.0,278
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-11-28 00:00:00,1400,2500,1850.0,22
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-01 00:00:00,1400,2500,1850.0,22
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-03 00:00:00,1500,2500,2000.0,22
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-06 00:00:00,1500,2500,2000.0,22
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-07 00:00:00,1500,2500,2000.0,22
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-16 00:00:00,2000,3000,2500.0,22
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-28 00:00:00,2200,2800,2500.0,22
-Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-29 00:00:00,2200,2800,2500.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-11-17 00:00:00,1400,1600,1500.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-11-29 00:00:00,1400,1600,1500.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-04 00:00:00,1000,1500,1200.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-09 00:00:00,1400,1600,1500.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-11 00:00:00,1400,1600,1500.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-18 00:00:00,1000,1500,1250.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-21 00:00:00,1000,1500,1250.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-27 00:00:00,1400,1600,1500.0,22
-Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-30 00:00:00,1400,1600,1500.0,22
-Haryana,Ambala,Naraingarh,Grapes,Other,Medium,2007-11-27 00:00:00,2500,2500,2500.0,22
-Haryana,Bhiwani,Ch. Dadri,Grapes,Green,Medium,2007-11-29 00:00:00,2700,3000,2800.0,22
-Haryana,Bhiwani,Ch. Dadri,Grapes,Green,Medium,2007-12-05 00:00:00,2500,3000,2800.0,22
-Haryana,Fatehabad,Bhuna,Grapes,Other,Medium,2007-12-17 00:00:00,400,400,400.0,22
-Haryana,Fatehabad,Bhuna,Grapes,Other,Medium,2007-12-23 00:00:00,3000,4000,4000.0,22
-Haryana,Fatehabad,Bhuna,Grapes,Other,Medium,2007-12-31 00:00:00,3500,3500,3500.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-20 00:00:00,3000,3500,3500.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-23 00:00:00,3000,3500,3500.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-26 00:00:00,2500,3000,3000.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-29 00:00:00,3000,4000,4000.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-10 00:00:00,3000,3500,3500.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-14 00:00:00,3500,4000,4000.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-15 00:00:00,2500,3000,3000.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-19 00:00:00,2500,3000,2500.0,22
-Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-23 00:00:00,2500,3000,3000.0,22
-Haryana,Fatehabad,Ratia,Grapes,Other,Small,2007-11-25 00:00:00,3200,3500,3300.0,22
-Haryana,Fatehabad,Ratia,Grapes,Other,Small,2007-12-16 00:00:00,5500,7000,6000.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-11-28 00:00:00,1400.0,2500,1850.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-01 00:00:00,1400.0,2500,1850.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-03 00:00:00,1500.0,2500,2000.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-06 00:00:00,1500.0,2500,2000.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-07 00:00:00,1500.0,2500,2000.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-16 00:00:00,2000.0,3000,2500.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-28 00:00:00,2200.0,2800,2500.0,22
+Gujarat,Vadodara(Baroda),Vadodara,Grapes,Other,Medium,2007-12-29 00:00:00,2200.0,2800,2500.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-11-17 00:00:00,1400.0,1600,1500.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-11-29 00:00:00,1400.0,1600,1500.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-04 00:00:00,1000.0,1500,1200.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-09 00:00:00,1400.0,1600,1500.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-11 00:00:00,1400.0,1600,1500.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-18 00:00:00,1000.0,1500,1250.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-21 00:00:00,1000.0,1500,1250.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-27 00:00:00,1400.0,1600,1500.0,22
+Haryana,Ambala,Ambala Cantt.,Grapes,Other,Medium,2007-12-30 00:00:00,1400.0,1600,1500.0,22
+Haryana,Ambala,Naraingarh,Grapes,Other,Medium,2007-11-27 00:00:00,2500.0,2500,2500.0,22
+Haryana,Bhiwani,Ch. Dadri,Grapes,Green,Medium,2007-11-29 00:00:00,2700.0,3000,2800.0,22
+Haryana,Bhiwani,Ch. Dadri,Grapes,Green,Medium,2007-12-05 00:00:00,2500.0,3000,2800.0,22
+Haryana,Fatehabad,Bhuna,Grapes,Other,Medium,2007-12-17 00:00:00,400.0,400,400.0,22
+Haryana,Fatehabad,Bhuna,Grapes,Other,Medium,2007-12-23 00:00:00,3000.0,4000,4000.0,22
+Haryana,Fatehabad,Bhuna,Grapes,Other,Medium,2007-12-31 00:00:00,3500.0,3500,3500.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-20 00:00:00,3000.0,3500,3500.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-23 00:00:00,3000.0,3500,3500.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-26 00:00:00,2500.0,3000,3000.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-11-29 00:00:00,3000.0,4000,4000.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-10 00:00:00,3000.0,3500,3500.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-14 00:00:00,3500.0,4000,4000.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-15 00:00:00,2500.0,3000,3000.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-19 00:00:00,2500.0,3000,2500.0,22
+Haryana,Fatehabad,Fatehabad,Grapes,Other,Medium,2007-12-23 00:00:00,2500.0,3000,3000.0,22
+Haryana,Fatehabad,Ratia,Grapes,Other,Small,2007-11-25 00:00:00,3200.0,3500,3300.0,22
+Haryana,Fatehabad,Ratia,Grapes,Other,Small,2007-12-16 00:00:00,5500.0,7000,6000.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-11-16 00:00:00,3000.0,3500,3300.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Small,2007-11-17 00:00:00,2000.0,2200,2100.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-11-19 00:00:00,2800.0,3200,3000.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-11-21 00:00:00,3600.0,4000,3800.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Medium,2007-11-22 00:00:00,3400.0,3700,3500.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-11-23 00:00:00,3900.0,4200,4150.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Medium,2007-11-27 00:00:00,2500.0,2800,2640.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-11-28 00:00:00,2900.0,3200,3120.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-11-29 00:00:00,3000.0,3300,3150.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-12-03 00:00:00,2800.0,3200,3100.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Small,2007-12-05 00:00:00,1500.0,2000,1750.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-12-07 00:00:00,2500.0,3000,2800.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-12-10 00:00:00,3000.0,3600,3300.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-12-11 00:00:00,3000.0,3400,3200.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Small,2007-12-12 00:00:00,1850.0,2100,2030.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-12-21 00:00:00,3000.0,3500,3300.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,2007-12-22 00:00:00,2600.0,3000,2800.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Small,2007-12-27 00:00:00,2000.0,2200,2120.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Small,2007-12-28 00:00:00,2500.0,3000,2800.0,22
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Small,2007-12-30 00:00:00,1200.0,1500,1390.0,22
+Haryana,Hissar,Hissar,Grapes,Other,Small,2007-12-19 00:00:00,1500.0,1500,1500.0,22
+Haryana,Hissar,Hissar,Grapes,Other,Small,2007-12-22 00:00:00,1468.0,1468,1468.0,22
+Haryana,Palwal,Palwal,Grapes,White,Medium,2007-12-14 00:00:00,2000.0,2000,2000.0,22
+Haryana,Palwal,Palwal,Grapes,White,Medium,2007-12-18 00:00:00,2600.0,2600,2600.0,22
+Haryana,Palwal,Palwal,Grapes,White,Medium,2007-12-19 00:00:00,2500.0,2500,2500.0,22
+Haryana,Palwal,Palwal,Grapes,White,Medium,2007-12-25 00:00:00,2000.0,2500,2250.0,22
+Haryana,Palwal,Palwal,Grapes,White,Medium,2007-12-27 00:00:00,2000.0,3000,2500.0,22
+Haryana,Palwal,Palwal,Grapes,White,Medium,2007-12-28 00:00:00,3500.0,3500,3500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-11-20 00:00:00,2000.0,2500,2500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-11-28 00:00:00,3000.0,3100,3000.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-11-29 00:00:00,2000.0,2500,2500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-02 00:00:00,2000.0,3000,2500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-03 00:00:00,2000.0,3000,2500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-05 00:00:00,2000.0,3000,2500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-06 00:00:00,2300.0,3000,3000.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-09 00:00:00,2000.0,3000,3000.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-11 00:00:00,2000.0,3000,3000.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-13 00:00:00,2500.0,2700,2700.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-20 00:00:00,2000.0,3000,2500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-21 00:00:00,2500.0,2500,2500.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-24 00:00:00,2000.0,2500,2200.0,22
+Haryana,Yamuna Nagar,Jagadhri,Grapes,Other,Medium,2007-12-30 00:00:00,2000.0,2500,2500.0,22
+Haryana,Yamuna Nagar,Yamuna Nagar,Grapes,Other,Medium,2007-11-20 00:00:00,2000.0,5000,3200.0,22
+Haryana,Yamuna Nagar,Yamuna Nagar,Grapes,Other,Medium,2007-11-27 00:00:00,2500.0,5000,3200.0,22
+Haryana,Yamuna Nagar,Yamuna Nagar,Grapes,Other,Medium,2007-11-28 00:00:00,2000.0,5000,2800.0,22
+Haryana,Yamuna Nagar,Yamuna Nagar,Grapes,Other,Medium,2007-12-15 00:00:00,1500.0,3000,2100.0,22
+Haryana,Yamuna Nagar,Yamuna Nagar,Grapes,Other,Medium,2007-12-23 00:00:00,1800.0,3500,2300.0,22
+Haryana,Yamuna Nagar,Yamuna Nagar,Grapes,Other,Medium,2007-12-29 00:00:00,1500.0,5000,2700.0,22
+Himachal Pradesh,Kangra,Kangra,Grapes,Other,Medium,2007-12-11 00:00:00,3500.0,4000,3750.0,22
+Himachal Pradesh,Kangra,Kangra,Grapes,Other,Medium,2007-12-26 00:00:00,2800.0,3000,2900.0,22
+Himachal Pradesh,Kangra,Kangra(Baijnath),Grapes,Green,Medium,2007-12-24 00:00:00,5500.0,6000,5800.0,22
+Himachal Pradesh,Kangra,Kangra(Baijnath),Grapes,Green,Medium,2007-12-29 00:00:00,4000.0,4500,4250.0,22
+Himachal Pradesh,Kangra,Kangra(Jassour),Grapes,Other,Medium,2007-12-20 00:00:00,3000.0,3200,3100.0,22
+Himachal Pradesh,Kangra,Palampur,Grapes,Other,Medium,2007-12-10 00:00:00,3000.0,4000,3050.0,22
+Himachal Pradesh,Kangra,Palampur,Grapes,Other,Medium,2007-12-29 00:00:00,5500.0,6000,5700.0,22
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Grapes,Green,Small,2007-11-30 00:00:00,5000,6000,5500.0,22
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Grapes,Green,Medium,2007-12-11 00:00:00,4000,5000,4500.0,22
+Jharkhand,Dhanbad,Dhanbad,Grapes,Other,Large,2007-12-26 00:00:00,3000,3500,3500.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,Black,FAQ,2007-11-17 00:00:00,800,1200,1000.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,Black,FAQ,2007-11-20 00:00:00,1000,1400,1200.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,Black,FAQ,2007-11-29 00:00:00,800,1200,1000.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,Black,FAQ,2007-12-18 00:00:00,800,1200,1000.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,Black,FAQ,2007-12-22 00:00:00,800,1200,1000.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,Black,FAQ,2007-12-24 00:00:00,800,1200,1000.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,White,FAQ,2007-12-01 00:00:00,1000,1800,1400.0,22
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Grapes,White,FAQ,2007-12-15 00:00:00,1100,2000,1800.0,22
+Kerala,Alleppey,Dhara,Grapes,Black,Medium,2007-11-19 00:00:00,2500,2600,2550.0,22
+Kerala,Alleppey,Dhara,Grapes,Black,Medium,2007-11-27 00:00:00,2500,2600,2550.0,22
+Kerala,Idukki,Thodupuzha,Grapes,Black,Medium,2007-12-15 00:00:00,1450,1550,1500.0,22
+Kerala,Idukki,Thodupuzha,Grapes,Black,Medium,2007-12-19 00:00:00,1400,1600,1500.0,22
+Kerala,Kollam,Kollam,Grapes,Black,Medium,2007-11-27 00:00:00,2500,3000,2800.0,22
+Kerala,Malappuram,Manjeri,Grapes,Black,Medium,2007-11-17 00:00:00,1600,2000,1600.0,22
+Kerala,Malappuram,Manjeri,Grapes,Black,Medium,2007-12-22 00:00:00,1500,1600,1500.0,22
+Kerala,Malappuram,Manjeri,Grapes,Green,Small,2007-12-15 00:00:00,2800,3000,2900.0,22
+Kerala,Malappuram,Manjeri,Grapes,Green,Small,2007-12-19 00:00:00,2800,3000,2900.0,22
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Grapes,Other,FAQ,2007-12-11 00:00:00,2000,3000,2500.0,22
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Grapes,Other,FAQ,2007-12-12 00:00:00,1900,2900,2500.0,22
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar,Grapes,Other,FAQ,2007-12-16 00:00:00,2500,3000,2750.0,22
