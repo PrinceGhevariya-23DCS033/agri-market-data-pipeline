@@ -14111,43 +14111,603 @@ Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-10-24 00:00:00,2000,2500,22
 Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-10-28 00:00:00,1700,2500,2000.0,27
 Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-11-03 00:00:00,1000,2000,1500.0,27
 Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-11-04 00:00:00,1200,2000,1800.0,27
-Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-12-21 00:00:00,3000,3200,3100.0,27
-Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-12-24 00:00:00,3000,3200,3100.0,27
-Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-12-27 00:00:00,3000,3200,3100.0,27
-Punjab,Jalandhar,Jalandhar City,Ginger(Dry),Other,FAQ,2009-12-24 00:00:00,1600,2800,2200.0,27
-Punjab,Jalandhar,Jalandhar City,Ginger(Dry),Other,FAQ,2009-12-26 00:00:00,1600,2600,2100.0,27
-Punjab,Jalandhar,Jalandhar City,Ginger(Dry),Other,FAQ,2009-12-28 00:00:00,1800,2800,2300.0,27
-Punjab,kapurthala,Phagwara,Ginger(Dry),Other,FAQ,2009-12-30 00:00:00,2100,2700,2600.0,27
-Punjab,kapurthala,Phagwara,Ginger(Dry),Other,FAQ,2009-12-31 00:00:00,2200,3000,2700.0,27
-Punjab,Moga,Moga,Ginger(Dry),Other,FAQ,2009-12-21 00:00:00,2300,3700,3000.0,27
-Punjab,Moga,Moga,Ginger(Dry),Other,FAQ,2009-12-22 00:00:00,2300,3700,3000.0,27
-Punjab,Moga,Moga,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,2400,4000,3200.0,27
-Punjab,Patiala,Patiala,Ginger(Dry),Other,FAQ,2009-12-24 00:00:00,3000,3500,3500.0,27
-Punjab,Patiala,Patiala,Ginger(Dry),Other,FAQ,2009-12-30 00:00:00,2200,2600,2400.0,27
-Punjab,Patiala,Patiala,Ginger(Dry),Other,FAQ,2009-12-31 00:00:00,3000,3500,3500.0,27
-Punjab,Patiala,Samana,Ginger(Dry),Other,FAQ,2009-12-22 00:00:00,2500,2900,2850.0,27
-Punjab,Patiala,Samana,Ginger(Dry),Other,FAQ,2009-12-24 00:00:00,2800,3200,3000.0,27
-Punjab,Sangrur,Sangrur,Ginger(Dry),Vegitable-fresh,FAQ,2009-12-20 00:00:00,2900,2900,2900.0,27
-Punjab,Sangrur,Sangrur,Ginger(Dry),Vegitable-fresh,FAQ,2009-12-24 00:00:00,2850,2900,2900.0,27
-Rajasthan,Alwar,Alwar (F&V),Ginger(Dry),Other,FAQ,2009-12-22 00:00:00,2000,2500,2200.0,27
-Maharashtra,Kolhapur,Kolhapur,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,1500,3200,2500.0,27
-Maharashtra,Mumbai,Mumbai,Ginger(Dry),Other,FAQ,2009-12-22 00:00:00,2600,2800,2700.0,27
-Maharashtra,Nagpur,Nagpur,Ginger(Dry),Other,FAQ,2009-12-26 00:00:00,2666,2750,2708.0,27
-Maharashtra,Nagpur,Nagpur,Ginger(Dry),Other,FAQ,2009-12-27 00:00:00,2666,2750,2708.0,27
-Tripura,Unokoti,Pabiacherra,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,3500,3580,3540.0,27
-Uttar Pradesh,Ayodhya,Faizabad,Ginger(Dry),Other,FAQ,2009-12-22 00:00:00,2735,2760,2750.0,27
-Uttar Pradesh,Ayodhya,Faizabad,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,2750,2770,2760.0,27
-Uttar Pradesh,Ayodhya,Faizabad,Ginger(Dry),Other,FAQ,2009-12-29 00:00:00,2785,2820,2800.0,27
-Uttar Pradesh,Bareilly,Bareilly,Ginger(Dry),Small,FAQ,2009-12-20 00:00:00,0,0,1900.0,27
-Uttar Pradesh,Bareilly,Bareilly,Ginger(Dry),Small,FAQ,2009-12-21 00:00:00,0,0,1950.0,27
-Uttar Pradesh,Bareilly,Bareilly,Ginger(Dry),Small,FAQ,2009-12-25 00:00:00,0,0,2420.0,27
-Uttar Pradesh,Bareilly,Bareilly,Ginger(Dry),Small,FAQ,2009-12-29 00:00:00,0,0,2500.0,27
-Uttrakhand,UdhamSinghNagar,Khateema,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,1000,1000,1000.0,27
-Uttrakhand,UdhamSinghNagar,Khateema,Ginger(Dry),Other,FAQ,2009-12-25 00:00:00,1000,1100,1050.0,27
-West Bengal,Kolkata,Bara Bazar (Posta Bazar),Ginger(Dry),Other,FAQ,2009-12-21 00:00:00,2300,2500,2375.0,27
-West Bengal,Kolkata,Bara Bazar (Posta Bazar),Ginger(Dry),Other,FAQ,2009-12-31 00:00:00,2500,2600,2600.0,27
-West Bengal,Kolkata,Sealdah Koley Market,Ginger(Dry),Other,FAQ,2009-12-22 00:00:00,2500,2750,2750.0,27
-West Bengal,Kolkata,Sealdah Koley Market,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,2375,2500,2500.0,27
-West Bengal,Kolkata,Sealdah Koley Market,Ginger(Dry),Other,FAQ,2009-12-27 00:00:00,2625,2750,2750.0,27
-Maharashtra,Satara,Satara,Ginger(Dry),Other,FAQ,2009-12-20 00:00:00,2000,2600,2300.0,27
-Maharashtra,Satara,Satara,Ginger(Dry),Other,FAQ,2009-12-28 00:00:00,2000,2800,2400.0,27
+Madhya Pradesh,Gwalior,Lashkar,Ginger(Dry),Dry,FAQ,2009-01-20 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Gwalior,Lashkar,Ginger(Dry),Dry,FAQ,2009-02-20 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Gwalior,Lashkar,Ginger(Dry),Dry,FAQ,2009-03-03 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Gwalior,Lashkar,Ginger(Dry),Dry,FAQ,2009-03-06 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Gwalior,Lashkar,Ginger(Dry),Dry,FAQ,2009-03-23 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Gwalior,Lashkar,Ginger(Dry),Dry,FAQ,2009-03-26 00:00:00,3000,3000,3000.0,27
+Madhya Pradesh,Gwalior,Lashkar,Ginger(Dry),Dry,FAQ,2009-03-28 00:00:00,3000,3000,3000.0,27
+Madhya Pradesh,Indore,Indore(F&V),Ginger(Dry),Other,FAQ,2009-01-10 00:00:00,1600,3000,2000.0,27
+Madhya Pradesh,Indore,Indore(F&V),Ginger(Dry),Other,FAQ,2009-01-13 00:00:00,2000,3000,2400.0,27
+Madhya Pradesh,Indore,Indore(F&V),Ginger(Dry),Other,FAQ,2009-02-18 00:00:00,2000,3000,2500.0,27
+Madhya Pradesh,Indore,Indore(F&V),Ginger(Dry),Other,FAQ,2009-05-12 00:00:00,2400,3200,3000.0,27
+Madhya Pradesh,Indore,Indore(F&V),Ginger(Dry),Other,FAQ,2009-11-07 00:00:00,1000,2500,1500.0,27
+Madhya Pradesh,Indore,Indore(F&V),Ginger(Dry),Other,FAQ,2009-11-11 00:00:00,1000,2500,1500.0,27
+Madhya Pradesh,Indore,Indore(F&V),Ginger(Dry),Other,FAQ,2009-12-01 00:00:00,1200,2500,1800.0,27
+Madhya Pradesh,Khandwa,Khandwa,Ginger(Dry),Other,FAQ,2009-12-15 00:00:00,2700,2700,2700.0,27
+Madhya Pradesh,Khandwa,Khandwa,Ginger(Dry),Other,FAQ,2009-12-24 00:00:00,3000,3000,3000.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-01-13 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-01-19 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-01-31 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-02-03 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-02-04 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-02-26 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-02-28 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Kailaras,Ginger(Dry),Dry,FAQ,2009-03-03 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Morena,Ginger(Dry),Dry,FAQ,2009-01-14 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Morena,Ginger(Dry),Dry,FAQ,2009-02-04 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Morena,Ginger(Dry),Dry,FAQ,2009-02-25 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Morena,Ginger(Dry),Dry,FAQ,2009-02-28 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Morena,Ginger(Dry),Dry,FAQ,2009-03-04 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Porsa,Ginger(Dry),Dry,FAQ,2009-01-19 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Porsa,Ginger(Dry),Dry,FAQ,2009-01-20 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Porsa,Ginger(Dry),Dry,FAQ,2009-02-03 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Porsa,Ginger(Dry),Dry,FAQ,2009-02-06 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Porsa,Ginger(Dry),Dry,FAQ,2009-02-19 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Porsa,Ginger(Dry),Dry,FAQ,2009-03-03 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Sabalgarh,Ginger(Dry),Dry,FAQ,2009-01-06 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Morena,Sabalgarh,Ginger(Dry),Dry,FAQ,2009-01-13 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Sabalgarh,Ginger(Dry),Dry,FAQ,2009-01-16 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Sabalgarh,Ginger(Dry),Dry,FAQ,2009-02-04 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Sabalgarh,Ginger(Dry),Dry,FAQ,2009-02-06 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Morena,Sabalgarh,Ginger(Dry),Dry,FAQ,2009-02-14 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-01-13 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-01-24 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-01-30 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-02-03 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-02-19 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-02-25 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-02-28 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Sheopur,Sheopurbadod,Ginger(Dry),Dry,FAQ,2009-03-06 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Sheopur,Sheopurkalan,Ginger(Dry),Dry,FAQ,2009-02-04 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Badarwas,Ginger(Dry),Dry,FAQ,2009-01-14 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Badarwas,Ginger(Dry),Dry,FAQ,2009-01-19 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Badarwas,Ginger(Dry),Dry,FAQ,2009-02-06 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Badarwas,Ginger(Dry),Dry,FAQ,2009-02-26 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Karera,Ginger(Dry),Dry,FAQ,2009-01-19 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Karera,Ginger(Dry),Dry,FAQ,2009-01-24 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Karera,Ginger(Dry),Dry,FAQ,2009-01-31 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Karera,Ginger(Dry),Dry,FAQ,2009-02-04 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Karera,Ginger(Dry),Dry,FAQ,2009-02-17 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Karera,Ginger(Dry),Dry,FAQ,2009-02-25 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Khaniadhana,Ginger(Dry),Dry,FAQ,2009-01-13 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Khaniadhana,Ginger(Dry),Dry,FAQ,2009-02-17 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Khaniadhana,Ginger(Dry),Dry,FAQ,2009-02-26 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Kolaras,Ginger(Dry),Dry,FAQ,2009-01-06 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Kolaras,Ginger(Dry),Dry,FAQ,2009-01-20 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Kolaras,Ginger(Dry),Dry,FAQ,2009-01-31 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Kolaras,Ginger(Dry),Dry,FAQ,2009-02-19 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Magroni,Ginger(Dry),Dry,FAQ,2009-01-19 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Magroni,Ginger(Dry),Dry,FAQ,2009-01-20 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Magroni,Ginger(Dry),Dry,FAQ,2009-02-04 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Magroni,Ginger(Dry),Dry,FAQ,2009-02-14 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Magroni,Ginger(Dry),Dry,FAQ,2009-02-17 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Pichhour,Ginger(Dry),Dry,FAQ,2009-01-14 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Pichhour,Ginger(Dry),Dry,FAQ,2009-01-19 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Pichhour,Ginger(Dry),Dry,FAQ,2009-02-19 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Pichhour,Ginger(Dry),Dry,FAQ,2009-02-25 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Pohari,Ginger(Dry),Dry,FAQ,2009-01-10 00:00:00,1000,1000,1000.0,27
+Madhya Pradesh,Shivpuri,Pohari,Ginger(Dry),Dry,FAQ,2009-01-24 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Pohari,Ginger(Dry),Dry,FAQ,2009-01-31 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Pohari,Ginger(Dry),Dry,FAQ,2009-02-14 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Pohari,Ginger(Dry),Dry,FAQ,2009-02-25 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Pohari,Ginger(Dry),Dry,FAQ,2009-03-06 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Shivpuri,Ginger(Dry),Dry,FAQ,2009-01-13 00:00:00,2500,2500,2500.0,27
+Madhya Pradesh,Shivpuri,Shivpuri,Ginger(Dry),Dry,FAQ,2009-02-14 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Shivpuri,Ginger(Dry),Dry,FAQ,2009-02-19 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Shivpuri,Ginger(Dry),Dry,FAQ,2009-02-28 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Shivpuri,Ginger(Dry),Dry,FAQ,2009-03-04 00:00:00,2000,2000,2000.0,27
+Madhya Pradesh,Shivpuri,Shivpuri,Ginger(Dry),Dry,FAQ,2009-03-06 00:00:00,2000,2000,2000.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-02-24 00:00:00,1500,3000,2250.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-02-28 00:00:00,1500,3000,2250.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-03-09 00:00:00,3000,3500,3250.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-03-24 00:00:00,2000,3000,2500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-03-27 00:00:00,2500,3000,2750.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-04-02 00:00:00,2800,2800,2800.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-04-04 00:00:00,3000,3500,3250.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-04-06 00:00:00,1500,3000,2250.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-04-14 00:00:00,2800,2800,2800.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-04-20 00:00:00,3000,4000,3500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-05-19 00:00:00,3000,5000,4000.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-05-22 00:00:00,4000,5000,4500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-06-04 00:00:00,2200,4300,3250.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-06-12 00:00:00,2500,3500,3000.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-06-15 00:00:00,3500,4000,3750.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-07-21 00:00:00,3000,4000,3500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-08-24 00:00:00,2500,3500,3000.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-08-29 00:00:00,3000,3000,3000.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-09-08 00:00:00,2800,2800,2800.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-09-11 00:00:00,2600,3000,2800.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-09-13 00:00:00,2500,3000,2750.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-09-14 00:00:00,2500,3000,2750.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-10-05 00:00:00,2000,3000,2500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-10-10 00:00:00,2000,3000,2500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-10-27 00:00:00,2000,3000,2500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-11-06 00:00:00,1500,2500,2000.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-11-07 00:00:00,1800,2500,2200.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-11-16 00:00:00,1900,3200,2500.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-11-23 00:00:00,1800,2500,2150.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-11-26 00:00:00,2100,2500,2300.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-12-03 00:00:00,2100,2500,2300.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-12-10 00:00:00,2000,2500,2250.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-12-12 00:00:00,2200,2500,2350.0,27
+Maharashtra,Ahmednagar,Ahmednagar,Ginger(Dry),Other,FAQ,2009-12-13 00:00:00,2000,2500,2250.0,27
+Maharashtra,Ahmednagar,Shrirampur,Ginger(Dry),Other,FAQ,2009-03-01 00:00:00,270,300,285.0,27
+Maharashtra,Ahmednagar,Shrirampur,Ginger(Dry),Other,FAQ,2009-03-06 00:00:00,250,280,265.0,27
+Maharashtra,Ahmednagar,Shrirampur,Ginger(Dry),Other,FAQ,2009-07-29 00:00:00,320,410,370.0,27
+Maharashtra,Ahmednagar,Shrirampur,Ginger(Dry),Other,FAQ,2009-08-01 00:00:00,350,385,370.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-03-30 00:00:00,3100,3400,3250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-04-19 00:00:00,2500,3500,3000.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-04-21 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-04-26 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-04-27 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-04-29 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-05-03 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-05-06 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-05-11 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-05-30 00:00:00,3000,4000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-06-05 00:00:00,3500,5000,4250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-06-10 00:00:00,3500,4500,4000.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-07-17 00:00:00,2000,5000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-07-18 00:00:00,2000,5000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-07-19 00:00:00,2000,5000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-07-21 00:00:00,2000,5000,3500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-07-24 00:00:00,2000,5500,4750.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-07-29 00:00:00,2000,5500,3750.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-08-02 00:00:00,2000,5500,3750.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-08-07 00:00:00,2000,5500,4250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-08-16 00:00:00,2000,5500,3750.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-08-22 00:00:00,2000,3000,2500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-08-24 00:00:00,2000,3000,2500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-08-25 00:00:00,2000,3000,2500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-09-01 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-09-20 00:00:00,1800,2700,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-09-22 00:00:00,1800,2700,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-10-02 00:00:00,1800,2700,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-10-03 00:00:00,1800,2600,2200.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-10-06 00:00:00,2000,3000,2500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-10-18 00:00:00,2000,3000,2500.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-10-24 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-10-28 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-11-03 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-11-04 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-11-08 00:00:00,2000,2400,2200.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-11-20 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-11-21 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-11-23 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-12-05 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-12-07 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-12-11 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-12-12 00:00:00,2000,2500,2250.0,27
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Ginger(Dry),Other,FAQ,2009-12-19 00:00:00,2000,2800,2400.0,27
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Dry),Other,FAQ,2009-03-05 00:00:00,2700,3300,3000.0,27
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Dry),Other,FAQ,2009-03-09 00:00:00,2600,3100,2900.0,27
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Dry),Other,FAQ,2009-03-13 00:00:00,2500,3100,2900.0,27
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Dry),Other,FAQ,2009-03-17 00:00:00,2800,3200,3100.0,27
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Dry),Other,FAQ,2009-03-19 00:00:00,2400,3000,2900.0,27
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Dry),Other,FAQ,2009-04-01 00:00:00,2800,3400,3200.0,27
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Ginger(Dry),Other,FAQ,2009-05-04 00:00:00,2800,5500,3800.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-11-13 00:00:00,1500,2000,1800.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-11-14 00:00:00,1200,2000,1800.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-11-21 00:00:00,1000,2000,1500.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-12-02 00:00:00,1000,1000,1000.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-12-04 00:00:00,1700,2000,1850.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-12-15 00:00:00,800,1700,1200.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-12-16 00:00:00,1000,1100,1050.0,27
+Haryana,Ambala,Naraingarh,Ginger(Dry),Other,FAQ,2009-12-28 00:00:00,1000,2500,1750.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-01 00:00:00,2000,2400,2200.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-08 00:00:00,2200,2800,2500.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-11 00:00:00,2000,2200,2100.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-17 00:00:00,2400,2800,2600.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-21 00:00:00,2500,3000,2700.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-22 00:00:00,2500,3000,2800.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-24 00:00:00,2500,3000,2700.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-01-31 00:00:00,2500,3000,2800.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-02-14 00:00:00,2700,3000,2800.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-02-22 00:00:00,2800,3000,2900.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-03-01 00:00:00,2500,3000,2800.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-03-05 00:00:00,2400,3000,2600.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-03-29 00:00:00,2800,3200,2900.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-04-06 00:00:00,3000,3400,3200.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-08-31 00:00:00,3000,4000,3500.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-09-02 00:00:00,3000,3700,3500.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-10-17 00:00:00,3000,3400,3200.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-10-24 00:00:00,2800,3000,2900.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-10-29 00:00:00,2800,3000,2900.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-10-30 00:00:00,2800,3000,2900.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-11-01 00:00:00,2800,3000,2900.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-11-14 00:00:00,2000,2600,2400.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-11-22 00:00:00,2000,2600,2200.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-11-29 00:00:00,2100,2600,2300.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-12-04 00:00:00,1800,2200,2000.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-12-06 00:00:00,2000,2200,2100.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-12-18 00:00:00,2500,3000,2800.0,27
+Haryana,Bhiwani,Ch. Dadri,Ginger(Dry),Other,FAQ,2009-12-19 00:00:00,2500,3000,2800.0,27
+Haryana,Fatehabad,Bhuna,Ginger(Dry),Other,FAQ,2009-11-17 00:00:00,2500,3000,2500.0,27
+Haryana,Fatehabad,Bhuna,Ginger(Dry),Other,FAQ,2009-11-23 00:00:00,2500,2500,2500.0,27
+Haryana,Fatehabad,Bhuna,Ginger(Dry),Other,FAQ,2009-11-28 00:00:00,3000,3000,3000.0,27
+Haryana,Fatehabad,Bhuna,Ginger(Dry),Other,FAQ,2009-12-09 00:00:00,3000,3000,3000.0,27
+Haryana,Fatehabad,Bhuna,Ginger(Dry),Other,FAQ,2009-12-24 00:00:00,3000,3000,3000.0,27
+Haryana,Kurukshetra,Shahabad,Ginger(Dry),Other,FAQ,2009-03-12 00:00:00,2500,2800,2650.0,27
+Haryana,Kurukshetra,Shahabad,Ginger(Dry),Other,FAQ,2009-03-18 00:00:00,2500,2500,2500.0,27
+Haryana,Kurukshetra,Shahabad,Ginger(Dry),Other,FAQ,2009-03-19 00:00:00,2500,3000,2750.0,27
+Haryana,Kurukshetra,Shahabad,Ginger(Dry),Other,FAQ,2009-03-21 00:00:00,2500,3000,2750.0,27
+Haryana,Kurukshetra,Shahabad,Ginger(Dry),Other,FAQ,2009-04-07 00:00:00,2000,2500,2250.0,27
+Haryana,Kurukshetra,Shahabad,Ginger(Dry),Other,FAQ,2009-04-14 00:00:00,2000,2800,2400.0,27
+Haryana,Rohtak,Rohtak,Ginger(Dry),Other,FAQ,2009-12-25 00:00:00,500,1000,800.0,27
+Haryana,Rohtak,Rohtak,Ginger(Dry),Other,FAQ,2009-12-30 00:00:00,500,1000,800.0,27
+Haryana,Sirsa,kalanwali,Ginger(Dry),Other,FAQ,2009-12-03 00:00:00,2500,2800,2800.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-03 00:00:00,800,1540,1200.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-07 00:00:00,1200,2300,1800.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-09 00:00:00,1200,2200,1700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-11 00:00:00,1380,2000,1700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-12 00:00:00,1400,2200,1800.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-20 00:00:00,1500,2000,1750.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-26 00:00:00,1600,2500,2050.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-27 00:00:00,1500,2500,2000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-01-30 00:00:00,1300,2000,1650.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-02-01 00:00:00,1600,1800,1700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-02-03 00:00:00,1500,1900,1700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-02-10 00:00:00,1200,2000,1600.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-02-12 00:00:00,1200,1650,1400.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-02-17 00:00:00,1500,2000,1750.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-02-18 00:00:00,1200,2000,1600.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-02-27 00:00:00,1000,2000,1500.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-03-03 00:00:00,1500,2000,1750.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-03-17 00:00:00,2000,2000,2000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-03-23 00:00:00,1886,2000,1943.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-04-08 00:00:00,2000,3200,2600.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-04-14 00:00:00,2000,3700,2850.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-04-22 00:00:00,2200,3500,2850.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-05-30 00:00:00,3200,3700,3450.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-06-07 00:00:00,2985,3200,3100.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-07-01 00:00:00,2500,2500,2500.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-07-16 00:00:00,3440,3440,3440.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-08 00:00:00,2500,3000,2700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-12 00:00:00,3000,3000,3000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-13 00:00:00,3000,3000,3000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-15 00:00:00,3000,3000,3000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-17 00:00:00,3000,3000,3000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-19 00:00:00,3000,3500,3200.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-20 00:00:00,2500,3000,2700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-08-26 00:00:00,2100,3000,2500.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-09-07 00:00:00,3000,3000,3000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-09-11 00:00:00,2200,3000,2600.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-09-18 00:00:00,2000,2800,2400.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-09-23 00:00:00,1500,3000,2200.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-09-25 00:00:00,2000,2500,2200.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-09-27 00:00:00,1850,3000,1900.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-07 00:00:00,2000,2500,2200.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-08 00:00:00,1400,2000,1700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-10 00:00:00,2000,2500,2250.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-13 00:00:00,1200,2200,1700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-16 00:00:00,1800,2000,1900.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-25 00:00:00,1500,2000,1750.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-26 00:00:00,1500,2000,1750.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-10-27 00:00:00,2000,2000,2000.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-11-01 00:00:00,1400,2000,1700.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-11-11 00:00:00,1200,1500,1350.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-11-23 00:00:00,1400,1405,1400.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-02 00:00:00,1500,1800,1650.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-05 00:00:00,1445,1445,1445.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-15 00:00:00,1000,2000,1500.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-22 00:00:00,1200,1700,1450.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,1400,1600,1500.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-26 00:00:00,1300,1800,1500.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-27 00:00:00,1400,1600,1500.0,27
+Haryana,Yamuna Nagar,Jagadhri,Ginger(Dry),Other,FAQ,2009-12-29 00:00:00,1200,2000,1600.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-01-08 00:00:00,2400,2700,2550.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-01-11 00:00:00,2000,2800,2400.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-01-14 00:00:00,2000,2700,2350.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-01-15 00:00:00,1000,2800,1900.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-01-21 00:00:00,900,2600,1750.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-01-24 00:00:00,1100,2700,1900.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-01-29 00:00:00,1500,2600,2000.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-02-04 00:00:00,1800,2700,2200.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-02-07 00:00:00,1500,2700,1850.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-02-21 00:00:00,2800,3000,2900.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-02-25 00:00:00,2500,3000,2700.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-03-05 00:00:00,2500,3000,2700.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-03-12 00:00:00,1500,2600,2000.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-03-25 00:00:00,2000,3500,2750.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-03-28 00:00:00,1800,2800,2300.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-03-30 00:00:00,1000,2000,1500.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-04-04 00:00:00,2000,3100,2550.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-04-07 00:00:00,2000,2700,2350.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-04-09 00:00:00,1700,3800,2250.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-04-12 00:00:00,2550,3200,2875.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-04-19 00:00:00,1800,3200,2500.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-04-21 00:00:00,2000,2800,2400.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-05-05 00:00:00,3000,4600,3550.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-05-26 00:00:00,3500,4100,3800.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-05-29 00:00:00,3100,3600,3350.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-06-04 00:00:00,3300,3300,3300.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-06-07 00:00:00,3000,3200,3100.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-07-02 00:00:00,3800,5000,4400.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-09-05 00:00:00,3000,3500,3200.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-10-06 00:00:00,1800,3600,2700.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-10-08 00:00:00,1500,3000,2250.0,27
+Haryana,Yamuna Nagar,Yamuna Nagar,Ginger(Dry),Other,FAQ,2009-10-10 00:00:00,1300,2300,1800.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-01-11 00:00:00,2700,3300,3000.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-01-14 00:00:00,3500,4000,3800.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-01-22 00:00:00,3000,3500,3400.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-02-02 00:00:00,3500,4000,3700.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-02-19 00:00:00,3500,4000,3800.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-02-26 00:00:00,3600,3800,3700.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-03-02 00:00:00,4000,4500,4300.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-03-08 00:00:00,3500,4000,3800.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-03-09 00:00:00,3500,4000,3800.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-04-06 00:00:00,3800,4100,4000.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-04-14 00:00:00,2500,4000,3500.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-04-19 00:00:00,6000,6500,6300.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-04-24 00:00:00,6000,6500,6300.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-04-26 00:00:00,6000,6500,6200.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-04-29 00:00:00,6000,6500,6300.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-05-14 00:00:00,6000,6500,6300.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-06-23 00:00:00,5000,6500,5700.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-07-06 00:00:00,6000,6500,6200.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-07-17 00:00:00,7000,8000,7500.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-07-20 00:00:00,7500,8000,7700.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-07-29 00:00:00,6500,7000,6700.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-07-31 00:00:00,5000,7000,6000.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-08-20 00:00:00,6500,7000,6700.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-08-21 00:00:00,6000,7000,6500.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-10-09 00:00:00,4000,5000,4500.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-10-23 00:00:00,2500,3500,3000.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-10-27 00:00:00,2500,3200,2800.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-10-30 00:00:00,2500,3000,2700.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-11-08 00:00:00,2600,3000,2900.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-11-10 00:00:00,2500,3200,2800.0,27
+Himachal Pradesh,Kullu,Bhuntar,Ginger(Dry),Other,FAQ,2009-11-12 00:00:00,2500,3000,2700.0,27
+Himachal Pradesh,Kullu,Kullu,Ginger(Dry),Other,FAQ,2009-01-02 00:00:00,3500,4000,3800.0,27
+Himachal Pradesh,Kullu,Kullu,Ginger(Dry),Other,FAQ,2009-10-29 00:00:00,2500,2800,2650.0,27
+Himachal Pradesh,Kullu,Kullu,Ginger(Dry),Other,FAQ,2009-11-12 00:00:00,1400,2300,1800.0,27
+Himachal Pradesh,Kullu,Kullu,Ginger(Dry),Other,FAQ,2009-11-13 00:00:00,1600,2600,2100.0,27
+Himachal Pradesh,Kullu,Kullu,Ginger(Dry),Other,FAQ,2009-11-18 00:00:00,1800,2000,1900.0,27
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Ginger(Dry),Other,FAQ,2009-10-30 00:00:00,2500,3000,2850.0,27
+Himachal Pradesh,Sirmore,Nahan,Ginger(Dry),Other,FAQ,2009-12-11 00:00:00,1200,1200,1200.0,27
+Himachal Pradesh,Sirmore,Paonta Sahib,Ginger(Dry),Other,FAQ,2009-06-03 00:00:00,5600,5600,5600.0,27
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Ginger(Dry),Fresh Unbleached,FAQ,2009-02-02 00:00:00,3000,4000,3500.0,27
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Ginger(Dry),Fresh Unbleached,FAQ,2009-02-07 00:00:00,3000,4000,3500.0,27
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Ginger(Dry),Fresh Unbleached,FAQ,2009-03-02 00:00:00,3000,3500,3250.0,27
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Ginger(Dry),Other,FAQ,2009-06-20 00:00:00,3500,4000,3750.0,27
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Ginger(Dry),Other,FAQ,2009-07-01 00:00:00,5500,6000,5750.0,27
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Ginger(Dry),Other,FAQ,2009-08-29 00:00:00,4000,5000,4500.0,27
+Jammu and Kashmir,Rajouri,Rajouri (F&V),Ginger(Dry),Other,FAQ,2009-10-10 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-03 00:00:00,4000,5000,4500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-04 00:00:00,4000,5000,4500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-07 00:00:00,4000,5000,4500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-08 00:00:00,4000,5000,4500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-10 00:00:00,4000,5000,4500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-12 00:00:00,4000,5000,4500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-13 00:00:00,4000,5000,4500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-28 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-01-31 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-02-05 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-02-06 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-02-21 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-03-06 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-03-07 00:00:00,3000,4000,3500.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-02-11 00:00:00,3500,4000,3800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-02-14 00:00:00,3500,4000,3800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-02-19 00:00:00,3500,3800,3600.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-02-20 00:00:00,3500,3800,3600.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-02-27 00:00:00,4000,4500,4300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-03-03 00:00:00,4000,4500,4300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-03-06 00:00:00,4000,4500,4300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-03-09 00:00:00,4000,4500,4300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-03-11 00:00:00,4000,4500,4300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-03-18 00:00:00,4000,4300,4200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-03-21 00:00:00,4000,4500,4300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-04-01 00:00:00,4000,4300,4100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-04-22 00:00:00,4000,4500,4300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-04-30 00:00:00,5000,6000,5500.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-05-05 00:00:00,4500,5000,4800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-05-07 00:00:00,4500,5000,4800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-05-09 00:00:00,4500,5000,4800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-05-13 00:00:00,4800,5000,4900.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-05-18 00:00:00,4500,5000,4800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-05-21 00:00:00,4500,5000,4800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-05-26 00:00:00,4500,5000,4800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-06-01 00:00:00,5000,5500,5200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-06-06 00:00:00,6000,7000,6500.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-06-07 00:00:00,6000,7000,6500.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-06-08 00:00:00,6000,7000,6500.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-06-12 00:00:00,7000,7500,7200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-06-13 00:00:00,7000,7500,7200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-07-01 00:00:00,7000,7500,7200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-07-11 00:00:00,6000,6500,6300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-07-12 00:00:00,7000,7500,7200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-07-13 00:00:00,6000,6500,6300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-07-16 00:00:00,6000,6500,6200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-09-01 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-09-15 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-09-16 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-09-17 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-09-24 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-09-26 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-10-14 00:00:00,6000,6500,6300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-10-19 00:00:00,5500,5700,5600.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-10-20 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-10-21 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-10-29 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-10-30 00:00:00,6000,6500,6200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-11-02 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-11-06 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-11-07 00:00:00,6000,6500,6300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-11-12 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-11-16 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-11-21 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-01 00:00:00,6000,6500,6300.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-03 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-14 00:00:00,5000,5200,5100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-18 00:00:00,5500,6000,5800.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-19 00:00:00,6000,6200,6100.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-21 00:00:00,4000,4500,4200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-27 00:00:00,4000,4500,4200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-29 00:00:00,4000,4500,4200.0,27
+Odisha,Dhenkanal,Dhenkanal,Ginger(Dry),Other,FAQ,2009-12-30 00:00:00,4000,4500,4200.0,27
+Odisha,Kalahandi,Bhawanipatna,Ginger(Dry),Other,FAQ,2009-02-10 00:00:00,4000,4000,4000.0,27
+Odisha,Kalahandi,Bhawanipatna,Ginger(Dry),Other,FAQ,2009-04-01 00:00:00,5000,5000,5000.0,27
+Odisha,Kalahandi,Mukhiguda,Ginger(Dry),Small,FAQ,2009-02-15 00:00:00,3500,5000,4250.0,27
+Odisha,Kalahandi,Mukhiguda,Ginger(Dry),Small,FAQ,2009-04-16 00:00:00,6000,6200,6100.0,27
+Odisha,Kalahandi,Mukhiguda,Ginger(Dry),Small,FAQ,2009-04-27 00:00:00,6500,7000,6750.0,27
+Odisha,Kalahandi,Mukhiguda,Ginger(Dry),Small,FAQ,2009-04-29 00:00:00,7000,8000,7500.0,27
+Odisha,Kalahandi,Mukhiguda,Ginger(Dry),Small,FAQ,2009-04-30 00:00:00,6000,8000,7000.0,27
+Odisha,Koraput,Jeypore,Ginger(Dry),Other,FAQ,2009-01-25 00:00:00,3800,4000,3900.0,27
+Odisha,Koraput,Koraput,Ginger(Dry),Other,FAQ,2009-01-21 00:00:00,2800,3000,2900.0,27
+Odisha,Koraput,Koraput,Ginger(Dry),Other,FAQ,2009-03-26 00:00:00,3200,3400,3300.0,27
+Odisha,Koraput,Koraput,Ginger(Dry),Other,FAQ,2009-03-30 00:00:00,3000,3200,3100.0,27
+Odisha,Koraput,Koraput,Ginger(Dry),Other,FAQ,2009-04-08 00:00:00,4600,4800,4700.0,27
+Odisha,Koraput,Koraput,Ginger(Dry),Other,FAQ,2009-04-22 00:00:00,3500,3700,3600.0,27
+Odisha,Koraput,Koraput,Ginger(Dry),Other,FAQ,2009-06-04 00:00:00,4200,4400,4300.0,27
+Odisha,Koraput,Koraput,Ginger(Dry),Other,FAQ,2009-06-11 00:00:00,3500,3700,3600.0,27
+Odisha,Mayurbhanja,Baripada,Ginger(Dry),Other,FAQ,2009-04-07 00:00:00,4000,5000,4500.0,27
+Odisha,Nowarangpur,Nawarangpur,Ginger(Dry),Other,FAQ,2009-09-30 00:00:00,5600,6000,5800.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Fresh Unbleached,FAQ,2009-04-07 00:00:00,4000,5000,5000.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Fresh Unbleached,FAQ,2009-04-10 00:00:00,4000,5000,5000.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Fresh Unbleached,FAQ,2009-04-13 00:00:00,4000,5000,5000.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Fresh Unbleached,FAQ,2009-04-24 00:00:00,4000,5000,4500.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Fresh Unbleached,FAQ,2009-05-05 00:00:00,4000,5000,4500.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Fresh Unbleached,FAQ,2009-05-08 00:00:00,4000,5000,4500.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Fresh Unbleached,FAQ,2009-05-16 00:00:00,5000,6000,6000.0,27
+Odisha,Puri,Sakhigopal,Ginger(Dry),Other,FAQ,2009-03-08 00:00:00,40000,50000,50000.0,27
+Odisha,Rayagada,Gunpur,Ginger(Dry),Small,FAQ,2009-05-08 00:00:00,3200,3500,3200.0,27
+Odisha,Rayagada,Gunpur,Ginger(Dry),Small,FAQ,2009-06-06 00:00:00,3200,3400,3400.0,27
+Odisha,Rayagada,Gunpur,Ginger(Dry),Small,FAQ,2009-07-12 00:00:00,3500,4000,4000.0,27
+Odisha,Rayagada,Gunpur,Ginger(Dry),Small,FAQ,2009-08-12 00:00:00,3500,4000,4000.0,27
+Odisha,Rayagada,Gunpur,Ginger(Dry),Small,FAQ,2009-08-23 00:00:00,3500,4000,4000.0,27
+Odisha,Sambalpur,Kuchinda,Ginger(Dry),Other,FAQ,2009-11-20 00:00:00,5000,6000,5500.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Fresh Unbleached,FAQ,2009-01-03 00:00:00,2600,3000,2800.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Fresh Unbleached,FAQ,2009-01-21 00:00:00,2600,3000,2800.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Fresh Unbleached,FAQ,2009-01-27 00:00:00,2600,3000,2800.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Fresh Unbleached,FAQ,2009-02-25 00:00:00,2800,3000,2900.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Fresh Unbleached,FAQ,2009-03-21 00:00:00,3400,3600,3500.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-01-09 00:00:00,2600,3000,2800.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-01-10 00:00:00,2600,3000,2800.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-02-08 00:00:00,2800,3000,2900.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-03-09 00:00:00,3000,3200,3100.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-03-11 00:00:00,3200,3400,3300.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-03-19 00:00:00,3200,3400,3300.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-04-10 00:00:00,3800,4200,4000.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-04-16 00:00:00,4000,4200,4100.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-05-21 00:00:00,4000,4400,4200.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-10-12 00:00:00,3200,3600,3400.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-10-16 00:00:00,3200,3600,3400.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-10-28 00:00:00,2800,3200,3000.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-10-29 00:00:00,2800,3200,3000.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-11-02 00:00:00,2800,3000,2900.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-12-03 00:00:00,2800,3200,3000.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-12-12 00:00:00,2800,3200,3000.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-12-14 00:00:00,2800,3200,3000.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-12-16 00:00:00,2900,3200,3100.0,27
+Punjab,Fazilka,Fazilka,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,2800,3200,3000.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-01-01 00:00:00,600,1100,1000.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-01-02 00:00:00,2000,2800,2500.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-01-16 00:00:00,2000,2800,2500.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-01-22 00:00:00,2500,2600,2550.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-02-17 00:00:00,2500,3100,2800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-02-20 00:00:00,3200,3500,3300.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-03-14 00:00:00,2000,4500,3000.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-03-16 00:00:00,1200,1500,1400.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-03-25 00:00:00,2500,3500,3300.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-04-08 00:00:00,3900,4000,3950.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-04-16 00:00:00,5000,5200,5100.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-04-27 00:00:00,4000,4500,4200.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-04-29 00:00:00,1100,1300,1200.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-05-06 00:00:00,3000,3200,3100.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-05-11 00:00:00,4500,5000,4800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-05-15 00:00:00,3300,5000,4000.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-06-15 00:00:00,4900,5100,5000.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-07-20 00:00:00,1600,3000,2500.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-09-12 00:00:00,3500,4000,3800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-09-15 00:00:00,3500,4000,3800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-09-16 00:00:00,3000,3800,3600.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-09-18 00:00:00,2200,3300,2500.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-09-25 00:00:00,1950,3000,2500.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-10-06 00:00:00,3000,3700,3500.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-10-12 00:00:00,2500,2800,2600.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-10-14 00:00:00,2200,3900,2800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-10-19 00:00:00,3000,3500,3200.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-10-22 00:00:00,2700,3000,2800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-10-30 00:00:00,2200,3400,3000.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-11-17 00:00:00,2500,3000,2800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-11-24 00:00:00,2000,3000,2500.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-11-27 00:00:00,2500,3000,2800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-11-28 00:00:00,2500,3500,3000.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-12-05 00:00:00,2500,3000,2800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-12-09 00:00:00,3000,3500,3200.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-12-16 00:00:00,2500,3000,2800.0,27
+Punjab,Ferozpur,Firozepur City,Ginger(Dry),Other,FAQ,2009-12-23 00:00:00,3000,3500,3200.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-01-04 00:00:00,2000,2200,2100.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-01-12 00:00:00,1800,2500,2250.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-01-21 00:00:00,2200,2400,2300.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-01-22 00:00:00,2000,2500,2250.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-02-04 00:00:00,2000,2500,2250.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-02-10 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-02-11 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-02-15 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-02-28 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-03-05 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-03-16 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-03-17 00:00:00,2000,3000,2500.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-03-31 00:00:00,3000,4000,3500.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-04-23 00:00:00,3500,4000,3750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-09-12 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-09-14 00:00:00,2000,3000,2500.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-09-16 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-09-18 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-09-20 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-09-21 00:00:00,2000,2500,2250.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-10-06 00:00:00,2000,3000,2500.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-10-07 00:00:00,2000,2500,2250.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-10-10 00:00:00,2000,2500,2250.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-10-19 00:00:00,2000,2500,2250.0,27
+Punjab,Hoshiarpur,Dasuya,Ginger(Dry),Vegitable-fresh,FAQ,2009-11-02 00:00:00,2000,2500,2250.0,27
+Punjab,Hoshiarpur,Mukerian,Ginger(Dry),Vegitable-fresh,FAQ,2009-10-15 00:00:00,3000,3500,3200.0,27
+Punjab,Hoshiarpur,Mukerian,Ginger(Dry),Vegitable-fresh,FAQ,2009-10-30 00:00:00,3000,4000,3200.0,27
+Punjab,Hoshiarpur,Mukerian,Ginger(Dry),Vegitable-fresh,FAQ,2009-12-28 00:00:00,2500,3000,2800.0,27
+Punjab,Hoshiarpur,Mukerian,Ginger(Dry),Vegitable-fresh,FAQ,2009-12-31 00:00:00,2800,3000,2850.0,27
+Punjab,Hoshiarpur,Mukerian(Talwara),Ginger(Dry),Vegitable-fresh,FAQ,2009-09-11 00:00:00,5000,5000,5000.0,27
+Punjab,Hoshiarpur,Mukerian(Talwara),Ginger(Dry),Vegitable-fresh,FAQ,2009-10-19 00:00:00,3500,4500,3800.0,27
+Punjab,Hoshiarpur,Mukerian(Talwara),Ginger(Dry),Vegitable-fresh,FAQ,2009-10-26 00:00:00,2500,3500,3000.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-10-23 00:00:00,3000,4000,3500.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-10-25 00:00:00,2200,2300,2250.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-11-04 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-11-08 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-11-13 00:00:00,3000,3200,3100.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-11-18 00:00:00,2500,2800,2650.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-11-19 00:00:00,2500,3000,2750.0,27
+Punjab,Hoshiarpur,Tanda Urmur,Ginger(Dry),Other,FAQ,2009-11-28 00:00:00,2500,3000,2750.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-03-21 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-03-25 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-04-07 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-04-09 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-04-21 00:00:00,3000,4000,3500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-04 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-06 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-07 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-08 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-10 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-11 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-14 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-20 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-22 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-05-23 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-06-06 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-06-07 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-06-11 00:00:00,5000,6000,5500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-06-18 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-06-23 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-07-05 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-07-06 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-07-10 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-07-24 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-07-27 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-07-29 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-07-31 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-08-04 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-08-07 00:00:00,7000,8000,7500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-08-23 00:00:00,6000,7000,6500.0,27
+Jharkhand,Garhwa,Gadhwah,Ginger(Dry),Other,FAQ,2009-08-29 00:00:00,6000,7000,6500.0,27
