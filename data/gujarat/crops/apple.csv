@@ -14716,34 +14716,7 @@ Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-01-16 00:0
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-01-20 00:00:00,8000.0,8700.0,8350.0,17
 Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-02-26 00:00:00,6000.0,10000.0,8000.0,17
 Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-02-28 00:00:00,12500.0,14500.0,13500.0,17
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-01-07 00:00:00,7000.0,10200.0,8600.0,17
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-01-08 00:00:00,7000.0,10000.0,8500.0,17
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-01-12 00:00:00,7000.0,10150.0,8575.0,17
-Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-01-10 00:00:00,7000.0,10100.0,8550.0,17
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-09 00:00:00,10000.0,15200.0,12600.0,17
-Gujarat,Navsari,Navsari APMC,Apple,Apple,Local,2026-01-06 00:00:00,6000.0,12500.0,9250.0,17
-Gujarat,Bharuch,Bharuch APMC,Apple,Apple,Local,2026-01-09 00:00:00,2500.0,4500.0,3500.0,17
-Gujarat,Bharuch,Bharuch APMC,Apple,Apple,Local,2026-01-10 00:00:00,3000.0,4500.0,3400.0,17
-Gujarat,Navsari,Navsari APMC,Apple,Apple,Local,2026-01-12 00:00:00,7000.0,13000.0,10000.0,17
-Gujarat,Navsari,Navsari APMC,Apple,Apple,Local,2026-01-10 00:00:00,7000.0,13000.0,10000.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-01-12 00:00:00,5000.0,11000.0,8000.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-14 00:00:00,8000.0,12000.0,10000.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-01-16 00:00:00,4000.0,10000.0,7000.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-17 00:00:00,8000.0,12000.0,10000.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-01-17 00:00:00,5000.0,10500.0,7750.0,17
-Gujarat,Navsari,Navsari APMC,Apple,Apple,Local,2026-01-17 00:00:00,7000.0,12000.0,9500.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-01-20 00:00:00,6000.0,10000.0,8000.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-20 00:00:00,8000.0,12000.0,10000.0,17
-Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-01-26 00:00:00,6000.0,11000.0,8500.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-26 00:00:00,8000.0,12000.0,10000.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-28 00:00:00,8000.0,10000.0,9000.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-30 00:00:00,8000.0,10000.0,9000.0,17
-Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-02-02 00:00:00,15000.0,16000.0,15500.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-05 00:00:00,5000.0,16000.0,10500.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-03 00:00:00,7000.0,10500.0,8750.0,17
-Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-02-05 00:00:00,7000.0,8500.0,7750.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-02-05 00:00:00,8000.0,12000.0,10000.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-08 00:00:00,7000.0,11000.0,9000.0,17
 Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-02-11 00:00:00,6000.0,15000.0,10500.0,17
 Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-02-13 00:00:00,8000.0,12000.0,10000.0,17
 Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-15 00:00:00,8000.0,10000.0,9000.0,17
@@ -14760,12 +14733,39 @@ Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-19 00:00
 Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-02-21 00:00:00,6000.0,15000.0,10500.0,17
 Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-20 00:00:00,8000.0,12000.0,10000.0,17
 Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-23 00:00:00,7500.0,16500.0,12000.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-01 00:00:00,4000.0,9000.0,6500.0,17
-Gujarat,Bharuch,Bharuch APMC,Apple,Apple,Local,2026-01-01 00:00:00,3500.0,4500.0,4000.0,17
-Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-01-03 00:00:00,7000.0,11000.0,9000.0,17
-Gujarat,Bharuch,Bharuch APMC,Apple,Apple,Local,2026-01-02 00:00:00,3000.0,4500.0,4000.0,17
-Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-01-02 00:00:00,4000.0,9000.0,6500.0,17
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-13 00:00:00,12000.0,15000.0,13500.0,17
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-20 00:00:00,12000.0,15000.0,13500.0,17
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-26 00:00:00,12000.0,15200.0,13600.0,17
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-28 00:00:00,12000.0,15200.0,13600.0,17
+Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-02-19 00:00:00,10000.0,16000.0,13000.0,17
+Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-02-19 00:00:00,12500.0,14500.0,13500.0,17
+Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-02-20 00:00:00,10000.0,16000.0,13000.0,17
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-21 00:00:00,7000.0,12500.0,9750.0,17
+Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-02-23 00:00:00,12500.0,13500.0,13000.0,17
+Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-02-26 00:00:00,10000.0,13000.0,11500.0,17
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-25 00:00:00,7000.0,13000.0,10000.0,17
+Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-02-28 00:00:00,7000.0,11000.0,9000.0,17
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-27 00:00:00,5000.0,15000.0,10000.0,17
+Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-02-27 00:00:00,10000.0,13000.0,11500.0,17
+Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-03-01 00:00:00,7000.0,11000.0,9000.0,17
+Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-03-05 00:00:00,7000.0,13000.0,10000.0,17
+Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-03-07 00:00:00,7500.0,10000.0,8750.0,17
+Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-03-10 00:00:00,8000.0,12000.0,10000.0,17
+Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-03-09 00:00:00,6000.0,15000.0,10500.0,17
+Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-03-09 00:00:00,7500.0,10000.0,8750.0,17
+Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-02-10 00:00:00,6000.0,15000.0,10500.0,17
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-25 00:00:00,12000.0,15000.0,13500.0,17
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-27 00:00:00,12000.0,15000.0,13500.0,17
+Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-02-13 00:00:00,7500.0,8500.0,8000.0,17
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-01 00:00:00,7000.0,10500.0,8750.0,17
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-04 00:00:00,6000.0,10000.0,8000.0,17
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-02 00:00:00,5000.0,10500.0,7750.0,17
+Gujarat,Navsari,Navsari APMC,Apple,Apple,Grade A,2026-02-05 00:00:00,9000.0,14000.0,11500.0,17
+Gujarat,Surendranagar,Vadhvan APMC,Apple,Apple,Medium,2026-02-04 00:00:00,15000.0,15500.0,15250.0,17
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Apple,Apple,Local,2026-02-06 00:00:00,6000.0,12500.0,9250.0,17
+Gujarat,Navsari,Navsari APMC,Apple,Apple,Local,2026-02-08 00:00:00,8000.0,14000.0,11000.0,17
+Gujarat,Porbandar,Porbandar APMC,Apple,Apple,Grade A,2026-02-10 00:00:00,8000.0,12000.0,10000.0,17
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-02 00:00:00,5000.0,9300.0,7150.0,17
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-05 00:00:00,10000.0,15150.0,12575.0,17
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-06 00:00:00,10000.0,15150.0,12575.0,17
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Apple,Other,Medium,2026-02-10 00:00:00,10000.0,15000.0,12500.0,17
