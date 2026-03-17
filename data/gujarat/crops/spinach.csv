@@ -17910,6 +17910,9 @@ Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-03-07 00:00:00,1000
 Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-03-09 00:00:00,1100.0,1200.0,1150.0,342
 Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Medium,2026-03-09 00:00:00,1000.0,1500.0,1250.0,342
 Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-03-12 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-03-12 00:00:00,800.0,800.0,800.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-03-11 00:00:00,1000.0,2000.0,1500.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-03-12 00:00:00,2000.0,2000.0,2000.0,342
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-02-05 00:00:00,850.0,850.0,850.0,342
 Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-12 00:00:00,700.0,1300.0,1100.0,342
 Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-11 00:00:00,700.0,1600.0,950.0,342
@@ -17918,13 +17921,6 @@ Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-14 00:00:00,700.0,160
 Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-19 00:00:00,800.0,1800.0,1500.0,342
 Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-17 00:00:00,1200.0,2500.0,2000.0,342
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-02-22 00:00:00,800.0,800.0,800.0,342
-Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-27 00:00:00,800.0,1800.0,1350.0,342
-Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-26 00:00:00,600.0,1500.0,1250.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-03-01 00:00:00,800.0,800.0,800.0,342
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-03-12 00:00:00,800.0,800.0,800.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-03-11 00:00:00,1000.0,2000.0,1500.0,342
-Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-03-12 00:00:00,2000.0,2000.0,2000.0,342
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-02 00:00:00,500.0,1200.0,1000.0,342
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-08 00:00:00,700.0,1500.0,1000.0,342
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-15 00:00:00,500.0,1500.0,1000.0,342
 Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-12 00:00:00,700.0,800.0,750.0,342
@@ -17933,10 +17929,22 @@ Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-17 00:00:00,1400
 Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-18 00:00:00,1250.0,1500.0,1400.0,342
 Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-19 00:00:00,1250.0,1500.0,1400.0,342
 Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-23 00:00:00,1000.0,1500.0,1250.0,342
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-23 00:00:00,1000.0,1500.0,1200.0,342
 Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-02-24 00:00:00,500.0,1000.0,750.0,342
-Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-26 00:00:00,1000.0,1250.0,1125.0,342
 Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Medium,2026-02-28 00:00:00,1000.0,1500.0,1250.0,342
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-28 00:00:00,1000.0,1500.0,1200.0,342
 Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Local,2026-03-05 00:00:00,1000.0,1500.0,1250.0,342
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-03-07 00:00:00,1000.0,2500.0,1700.0,342
+Gujarat,Surendranagar,Vadhvan APMC,Spinach,Spinach,Medium,2026-03-13 00:00:00,1000.0,1500.0,1250.0,342
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-03-15 00:00:00,500.0,2500.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-27 00:00:00,800.0,1800.0,1350.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-02-26 00:00:00,600.0,1500.0,1250.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-03-01 00:00:00,800.0,800.0,800.0,342
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Spinach,Other,FAQ,2026-03-12 00:00:00,800.0,800.0,800.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-03-11 00:00:00,1000.0,2000.0,1500.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-03-12 00:00:00,2000.0,2000.0,2000.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-03-14 00:00:00,800.0,2000.0,1650.0,342
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard) APMC,Spinach,Other,Local,2026-03-16 00:00:00,1500.0,2000.0,1500.0,342
+Gujarat,Ahmedabad,Ahmedabad APMC,Spinach,Other,FAQ,2026-03-16 00:00:00,800.0,2000.0,1700.0,342
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-02 00:00:00,500.0,1200.0,1000.0,342
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Spinach,Spinach,Local,2026-02-23 00:00:00,1000.0,1500.0,1200.0,342
+Gujarat,Vadodara(Baroda),Padra APMC,Spinach,Spinach,FAQ,2026-02-26 00:00:00,1000.0,1250.0,1125.0,342
