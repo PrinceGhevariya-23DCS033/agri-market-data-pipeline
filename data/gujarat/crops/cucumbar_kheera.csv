@@ -55182,11 +55182,6 @@ Gujarat,Morbi,Morbi APMC,Cucumbar(Kheera),Cucumbar,FAQ,2026-04-02 00:00:00,1000.
 Gujarat,Surendranagar,Vadhvan APMC,Cucumbar(Kheera),Cucumbar,Medium,2026-04-06 00:00:00,500.0,1000.0,750.0,159
 Gujarat,Ahmedabad,Ahmedabad APMC,Cucumbar(Kheera),Other,FAQ,2026-04-06 00:00:00,500.0,1300.0,1100.0,159
 Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-04-09 00:00:00,300.0,2500.0,1400.0,159
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-10 00:00:00,1500.0,1500.0,1500.0,159
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-12 00:00:00,1500.0,1500.0,1500.0,159
-Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-05 00:00:00,1600.0,1600.0,1600.0,159
-Gujarat,Ahmedabad,Ahmedabad APMC,Cucumbar(Kheera),Other,FAQ,2026-03-09 00:00:00,500.0,1300.0,900.0,159
-Gujarat,Ahmedabad,Ahmedabad APMC,Cucumbar(Kheera),Other,FAQ,2026-03-06 00:00:00,500.0,1300.0,1050.0,159
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-11 00:00:00,3000.0,3000.0,3000.0,159
 Gujarat,Ahmedabad,Ahmedabad APMC,Cucumbar(Kheera),Other,FAQ,2026-03-23 00:00:00,700.0,1500.0,1100.0,159
 Gujarat,Morbi,Morbi APMC,Cucumbar(Kheera),Cucumbar,FAQ,2026-03-23 00:00:00,1000.0,2300.0,1650.0,159
@@ -55208,3 +55203,36 @@ Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Cucumbar(Kheera),Other,FAQ,20
 Gujarat,Bharuch,Bharuch APMC,Cucumbar(Kheera),Other,Local,2026-04-09 00:00:00,800.0,1700.0,1000.0,159
 Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Cucumbar(Kheera),Other,FAQ,2026-04-09 00:00:00,1000.0,1350.0,1175.0,159
 Gujarat,Ahmedabad,Ahmedabad APMC,Cucumbar(Kheera),Other,FAQ,2026-04-07 00:00:00,700.0,1600.0,1250.0,159
+Gujarat,Surat,Surat APMC,Cucumbar(Kheera),Cucumbar,FAQ,2026-03-30 00:00:00,1000.0,2500.0,1750.0,159
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-31 00:00:00,400.0,2000.0,1200.0,159
+Gujarat,Surat,Surat APMC,Cucumbar(Kheera),Cucumbar,FAQ,2026-04-06 00:00:00,800.0,1800.0,1300.0,159
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-23 00:00:00,2000.0,2500.0,2250.0,159
+Gujarat,Vadodara(Baroda),Padra APMC,Cucumbar(Kheera),Other,FAQ,2026-03-20 00:00:00,500.0,2000.0,1250.0,159
+Gujarat,Ahmedabad,Ahmedabad APMC,Cucumbar(Kheera),Other,FAQ,2026-03-23 00:00:00,700.0,1500.0,1100.0,159
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-22 00:00:00,1600.0,1600.0,1600.0,159
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-24 00:00:00,2000.0,2500.0,2250.0,159
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-28 00:00:00,2000.0,2750.0,2375.0,159
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Cucumbar(Kheera),Other,FAQ,2026-03-27 00:00:00,2000.0,2700.0,2350.0,159
+Gujarat,Vadodara(Baroda),Padra APMC,Cucumbar(Kheera),Other,FAQ,2026-04-03 00:00:00,3500.0,4000.0,3750.0,159
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Cucumbar(Kheera),Other,FAQ,2026-04-05 00:00:00,2050.0,2050.0,2050.0,159
+Gujarat,Bharuch,Bharuch APMC,Cucumbar(Kheera),Other,Local,2026-04-09 00:00:00,800.0,1700.0,1000.0,159
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Cucumbar(Kheera),Other,FAQ,2026-04-09 00:00:00,1000.0,1350.0,1175.0,159
+Gujarat,Ahmedabad,Ahmedabad APMC,Cucumbar(Kheera),Other,FAQ,2026-04-07 00:00:00,700.0,1600.0,1250.0,159
+Gujarat,Vadodara(Baroda),Padra APMC,Cucumbar(Kheera),Other,FAQ,2026-04-09 00:00:00,3500.0,4000.0,3750.0,159
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-31 00:00:00,500.0,2000.0,1500.0,159
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-04-08 00:00:00,400.0,3000.0,1700.0,159
+Gujarat,Bharuch,Ankleshwar APMC,Cucumbar(Kheera),Cucumbar,Grade A,2026-04-06 00:00:00,1200.0,3000.0,2000.0,159
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-04-07 00:00:00,500.0,3000.0,1750.0,159
+Gujarat,Surat,Surat APMC,Cucumbar(Kheera),Cucumbar,FAQ,2026-03-27 00:00:00,700.0,2000.0,1350.0,159
+Gujarat,Surendranagar,Vadhvan APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-28 00:00:00,1000.0,1500.0,1250.0,159
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-17 00:00:00,300.0,3000.0,1650.0,159
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-16 00:00:00,400.0,3000.0,1700.0,159
+Gujarat,Surat,Surat APMC,Cucumbar(Kheera),Cucumbar,FAQ,2026-03-18 00:00:00,700.0,1700.0,1200.0,159
+Gujarat,Morbi,Morbi APMC,Cucumbar(Kheera),Cucumbar,FAQ,2026-03-23 00:00:00,1000.0,2300.0,1650.0,159
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-21 00:00:00,500.0,2000.0,1400.0,159
+Gujarat,Surendranagar,Vadhvan APMC,Cucumbar(Kheera),Cucumbar,Medium,2026-03-27 00:00:00,1000.0,1500.0,1250.0,159
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-26 00:00:00,1000.0,2500.0,2000.0,159
+Gujarat,Bharuch,Ankleshwar APMC,Cucumbar(Kheera),Cucumbar,Grade A,2026-03-17 00:00:00,1200.0,2500.0,1500.0,159
+Gujarat,Bharuch,Ankleshwar APMC,Cucumbar(Kheera),Cucumbar,Grade A,2026-03-21 00:00:00,2000.0,3500.0,2200.0,159
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-22 00:00:00,500.0,2000.0,1800.0,159
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Cucumbar(Kheera),Cucumbar,Local,2026-03-19 00:00:00,1000.0,2000.0,1500.0,159
