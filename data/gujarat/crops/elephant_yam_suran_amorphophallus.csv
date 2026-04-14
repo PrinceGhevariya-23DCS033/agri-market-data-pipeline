@@ -355,12 +355,7 @@ Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Elephan
 Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-04-01 00:00:00,4000.0,5000.0,4500.0,296
 Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-04-06 00:00:00,4000.0,5000.0,4500.0,296
 Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-04-11 00:00:00,4000.0,4500.0,4250.0,296
-Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-03 00:00:00,3000.0,3300.0,3150.0,296
 Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-20 00:00:00,2500.0,3500.0,3000.0,296
-Gujarat,Ahmedabad,Ahmedabad APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-09 00:00:00,3500.0,4000.0,3900.0,296
-Gujarat,Ahmedabad,Ahmedabad APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-06 00:00:00,3500.0,4000.0,3900.0,296
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Other,Local,2026-03-07 00:00:00,4000.0,4000.0,4000.0,296
-Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Other,Local,2026-03-09 00:00:00,4000.0,4000.0,4000.0,296
 Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Other,Local,2026-03-13 00:00:00,5000.0,5000.0,5000.0,296
 Gujarat,Ahmedabad,Ahmedabad APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-16 00:00:00,2500.0,3500.0,3100.0,296
 Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-25 00:00:00,2500.0,3500.0,3000.0,296
@@ -370,3 +365,31 @@ Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-30
 Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-31 00:00:00,2700.0,3000.0,2850.0,296
 Gujarat,Ahmedabad,Ahmedabad APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-02 00:00:00,2500.0,3000.0,2750.0,296
 Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-05 00:00:00,2900.0,2900.0,2900.0,296
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-01 00:00:00,3300.0,3300.0,3300.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-01 00:00:00,3000.0,3600.0,3300.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-02 00:00:00,3000.0,3500.0,3250.0,296
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Other,Local,2026-03-06 00:00:00,4000.0,4000.0,4000.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-07 00:00:00,3300.0,3500.0,3400.0,296
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-10 00:00:00,3300.0,3300.0,3300.0,296
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Other,Local,2026-03-11 00:00:00,4000.0,4000.0,4000.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-14 00:00:00,3500.0,4000.0,3750.0,296
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Other,Local,2026-03-14 00:00:00,4000.0,4500.0,4000.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-16 00:00:00,3000.0,3800.0,3400.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-18 00:00:00,2500.0,3500.0,3000.0,296
+Gujarat,Ahmedabad,Ahmedabad APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-24 00:00:00,2000.0,3000.0,2700.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-24 00:00:00,2500.0,3500.0,3000.0,296
+Gujarat,Ahmedabad,Ahmedabad APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-03-30 00:00:00,2500.0,3200.0,2900.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-03 00:00:00,2500.0,4500.0,3500.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-02 00:00:00,2700.0,3500.0,3100.0,296
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-01 00:00:00,2900.0,2900.0,2900.0,296
+Gujarat,Surat,Surat APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-05 00:00:00,2700.0,3400.0,3200.0,296
+Gujarat,Ahmedabad,Ahmedabad APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-09 00:00:00,2200.0,2800.0,2500.0,296
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,Elephant Yam(Suran)/Amorphophallus,Other,FAQ,2026-04-09 00:00:00,1800.0,1800.0,1800.0,296
+Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-03-02 00:00:00,4500.0,5000.0,4750.0,296
+Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-03-13 00:00:00,3500.0,4000.0,3750.0,296
+Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-03-12 00:00:00,3500.0,4000.0,3750.0,296
+Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-03-14 00:00:00,3500.0,4000.0,3750.0,296
+Gujarat,Surendranagar,Vadhvan APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Medium,2026-03-25 00:00:00,4000.0,4500.0,4250.0,296
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Local,2026-04-01 00:00:00,4000.0,6000.0,5000.0,296
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Local,2026-04-02 00:00:00,6000.0,6000.0,6000.0,296
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Elephant Yam(Suran)/Amorphophallus,Elephant Yam (Suran),Local,2026-04-05 00:00:00,4000.0,4000.0,4000.0,296
